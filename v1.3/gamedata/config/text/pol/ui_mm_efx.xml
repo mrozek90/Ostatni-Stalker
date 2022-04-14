@@ -60,4 +60,10 @@
 	<string id="efx_restart_tips1">
 		<text>nale¿y zrestartowaæ grê</text>
 	</string>
+	<string id="ui_mm_fps_lock">
+	<text>Blokada FPS</text>
+	</string>
+	<string id="ui_mm_always_active">
+	<text>Zawsze w³¹czony </text>
+	</string>
 </string_table>

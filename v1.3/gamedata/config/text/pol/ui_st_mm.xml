@@ -302,7 +302,7 @@
 	</string>
 	<string id="ui_mm_supersample_check">
 		<text>Antyaliasing silnikiem gry</text>
-	</string>	
+	</string>
 	<string id="ui_mm_supersample">
 		<text>Antyaliasing (R1)</text>
 	</string>
@@ -392,7 +392,7 @@
 		<text>Intensywnoœæ promieni</text>
 	</string>
 
-	
+
 	<string id="ui_mm_r2_gi">
 		<text>Globalne oœwietlenie (eksperymentalne)</text>
 	</string>
@@ -425,13 +425,13 @@
 	</string>
 	<string id="hbao">
 		<text>HBAO</text>
-	</string>	
+	</string>
 	<string id="fxaa">
 		<text>FXAA</text>
 	</string>
 	<string id="smaa">
 		<text>SMAA</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_dynamic_dof">
 		<text>Efekt ogniskowania oczu</text>
 	</string>
@@ -440,34 +440,34 @@
 	</string>
 	<string id="ui_mm_r2_zoom_dof">
 		<text>Efekt g³êbi sceny podczas celowania</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_dof_quality">
 		<text>Jakoœæ efektu ogniskowania oczu</text>
 	</string>
 	<string id="ui_mm_r2_ssao_base">
 		<text>Screen Space Ambient Occlusion</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_rain_drops">
 		<text>Krople na szkle</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_soft_particles">
 		<text>Miêkkie cz¹steczki</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r__bloodmarks">
 		<text>Bloodmarks</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_aa">
 		<text>Wyg³adzanie (R2)</text>
-	</string>			
+	</string>
 	<string id="ui_mm_r2_aa_mode">
 		<text>Tryb wyg³adzania (R2)</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_detail_bump">
 		<text>Szczegó³owy bump</text>
-	</string>		
+	</string>
 	<string id="ui_mm_r2_sunshafts">
 		<text>œwiat³o wolumetryczne</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_sunshafts_mode">
 		<text>Typ œwiat³a wolumetrycznego</text>
 	</string>
@@ -509,5 +509,24 @@
 	</string>
 	<string id="ui_mm_r2_lights_shadow_fade">
 		<text>Miêkkie cienie lamp</text>
-	</string>	
+	</string>
+	<!-- brakuj¹ce -->
+	<string id="ui_mm_keypress_on_start">
+	<text>Start po naciœniêciu klawisza</text>
+</string>
+<string id="ui_mm_ambient">
+	<text>Otoczenie</text>
+</string>
+<string id="ui_mm_build_crosshair">
+	<text>Domyœlny celownik</text>
+</string>
+<string id="ui_mm_ammunition_on_belt">
+	<text>Amunicja przy pasie</text>
+</string>
+<string id="hint_name_text">
+	<text>Wybór opcji gry</text>
+</string>
+<string id="hint_caption_text">
+	<text>Pamiêtaj, ¿e przy ka¿ej zmianie ustawieñ zaleca siê ponowne uruchomienie gry. \n\n Polska wersja jêzykowa: stalkerteam.pl</text>
+</string>
 </string_table>
