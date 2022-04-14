@@ -1,0 +1,103 @@
+<frame_objs_list x="5" y="70" width="615" height="300">
+    <texture>ui\ui_pda_frame_sub</texture>
+	<auto_static x="20" y="2" width="565" height="18" stretch="1">
+	    <texture x="0" y="14" width="535" height="18">ui\ui_pda_frame_sub_b</texture>
+		<text font="letterica16" align="c" vert_align="c">Список найденых объектов</text>
+	</auto_static>
+	
+	<auto_static x="20" y="22" width="565" height="18" stretch="1">
+	    <texture x="0" y="14" width="535" height="18">ui\ui_pda_frame_sub_b</texture>
+	</auto_static>
+	<auto_static x="5" y="21" width="150" height="16">
+		<text font="letterica16" align="c" vert_align="c">name section</text>
+	</auto_static>
+	<auto_static x="155" y="21" width="60" height="16" clipper="1">
+		<texture>ui\ui_pda_frame2_l</texture>
+		<text font="letterica16" align="c" vert_align="c">id</text>
+	</auto_static>
+	<auto_static x="215" y="21" width="60" height="16" clipper="1">
+		<texture>ui\ui_pda_frame2_l</texture>
+		<text font="letterica16" align="c" vert_align="c">parent</text>
+	</auto_static>
+	<auto_static x="275" y="21" width="150" height="16" clipper="1">
+		<texture>ui\ui_pda_frame2_l</texture>
+		<text font="letterica16" align="c" vert_align="c">position</text>
+	</auto_static>
+	<auto_static x="425" y="21" width="50" height="16" clipper="1">
+		<texture>ui\ui_pda_frame2_l</texture>
+		<text font="letterica16" align="c" vert_align="c">spot</text>
+	</auto_static>
+	<auto_static x="475" y="21" width="50" height="16" clipper="1">
+		<texture>ui\ui_pda_frame2_l</texture>
+		<text font="letterica16" align="c" vert_align="c"></text>
+	</auto_static>
+	
+	
+	<list_objs x="5" y="45" width="611" height="245" item_height="20" always_show_scroll="1">
+	    <font font="letterica16" r="216" g="186" b="140" />
+	</list_objs>
+</frame_objs_list>
+
+<el_contr_stat x="0" y="0" width="55" height="20" clipper="1">
+	<text font="letterica16" align="r" vert_align="c"/>
+	<texture r="0" g="120" b="255"/>
+    <auto_static x="0" y="2" width="10" height="14" clipper="1">
+		<texture>ui\ui_pda_frame2_l</texture>
+	</auto_static>
+</el_contr_stat>
+
+<btn_contr_del_obj x="630" y="70" width="117" height="29">
+    <texture>ui_button_ordinary</texture>
+	<text>Удалить</text>
+</btn_contr_del_obj>
+
+<btn_contr_tel x="630" y="105" width="117" height="29">
+    <texture>ui_button_ordinary</texture>
+	<text>Перейти к...</text>
+</btn_contr_tel>
+
+<btn_contr_spot x="630" y="140" width="117" height="29">
+    <texture>ui_button_ordinary</texture>
+	<text>Поставить метку</text>
+</btn_contr_spot>
+
+<btn_del_all_spots x="10" y="40" width="88" height="20" hint="Удалить все метки.">
+	<texture>mobile\ui_btn_03</texture>
+	<text>Del spots</text>
+</btn_del_all_spots>
+
+<btn_filter_by_section x="110" y="40" width="88" height="20" hint="Отфильтровать по имени секции.">
+	<texture>mobile\ui_btn_03</texture>
+	<text>Filter sec</text>
+</btn_filter_by_section>
+
+<load_pb x="185" y="200" width="256" height="25">
+	<texture x="0" y="7" width="256" height="7">mobile\ui_progress_bar_01</texture>
+	<texture_offset y="18"/>
+	<text font="letterica16" align="c" vert_align="t" r="250" g="180" b="0">Сканирование...</text>
+    <bar x="0" y="18" width="0" height="7" clipper="1">
+	    <texture x="0" y="0" width="256" height="7">mobile\ui_progress_bar_01</texture>
+    </bar>
+</load_pb>
+
+<static_test x="150" y="150" width="200" height="200" clipper="1" alignment="t" complex_mode="1">
+	<texture>ui\ui_asus_intro</texture>
+	<text r="255" g="0" b="0" a="255" >text text text text text text text text</text>
+	<font font="graffiti22"/>
+	<window_name>static_test</window_name>
+	<auto_static  align="r" x="0" y="50" width="300" height="300">
+		<text complex_mode="1">parent parent parent parent parent parent parent</text>
+		<text_color>
+			<e r="0" g="0" b="255"/>
+			<d r="0" g="0" b="0"/>
+			<t r="255" g="0" b="0"/>
+			<h r="0" g="255" b="0"/>
+		</text_color>
+	</auto_static>
+</static_test>
+
+
+<anim_contr_scan x="5" y="1" width="25" height="25" frames="10" duration="1000" columns="7" 
+				 frame_width="70" frame_height="70" cyclic="1" autoplay="1" stretch="1" y_offset="45">
+	 <texture>mobile\new_anims</texture>
+</anim_contr_scan>

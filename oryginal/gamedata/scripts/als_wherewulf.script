@@ -1,0 +1,17 @@
+function hit_on_zombie()
+	horror_sound()
+	rat_spawn()
+end
+
+function horror_sound()
+	-- local snd_obj = xr_sound.get_safe_sound_object( [[zombie\zombie_werewolf]] )
+	local snd_obj = xr_sound.get_safe_sound_object( [[dfs\dfs_indoor_1]] )
+	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+end
+
+function rat_spawn()
+	alife():create("rat_agressiv_strong", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id())
+alife():create("rat_agressiv_strong", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id())
+alife():create("rat_agressiv_normal", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id())
+alife():create("rat_agressiv_weak", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id())
+end

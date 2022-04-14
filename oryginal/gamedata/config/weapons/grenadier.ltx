@@ -1,0 +1,151 @@
+[main]
+check_period		= 2300	;мс ; время между проверками
+forbidden_factions	= zombied	; группировки, для которых схема будет отключена полностью (community)
+min_dist		= 12	;м ; ближе нельзя кидать
+max_dist		= 60	;м ; дальше не можем (для максимального ранга персонажа)
+mark_dist		= 35	;м ; радиус подсветки гранат на экране
+
+; настройки респавна гранат в инвентарь
+spawn_period		= 35	;сек ; время респавна гранат ; основной параметр, влияющий на частоту швыряний
+max_grenade_num		= 2	; максимальное кол-во гранат у персонажа (разных типов гранат)
+
+[forbidden_npcs];имена, профили НПС, для которых схема будет отключена полностью (name,profile_name)
+mil_stalker0012
+yantar_ecolog_general
+
+;---------------------------------------
+[attack_classes] ;в кого можно швыряться
+actor
+stalker
+
+bloodsucker
+boar
+burer
+;cat
+;chimera
+controller
+dog
+flesh
+;fracture
+giant
+pseudodog
+psy_dog
+;psy_dog_phantom
+snork
+tushkano
+zombie
+
+; Profiles
+;---------------------------------------
+; по умолчанию читается профиль группировки
+
+[default_g]
+throw		= true		; можно ли кидаться
+evasion		= true		; можно ли уклоняться
+; список гранат для спавна, секция:шанс, сумма не должна быть больше 100
+spawn_grenades	= grenade_rgd5:30,grenade_f1:15
+
+;[stalker]:default_g
+spawn_grenades	= grenade_rgd5:40,grenade_f1:25
+
+[bandit]:default_g
+spawn_grenades	= grenade_rgd5:40,grenade_f1:25
+
+[uzbek_gang]:default_g
+spawn_grenades	= grenade_rgd5:40,grenade_f1:25
+
+[mogilshik_gang]:default_g
+spawn_grenades	= grenade_rgd5:40,grenade_f1:25
+
+[shamray_gang]:default_g
+spawn_grenades	= grenade_rgd5:40,grenade_f1:25
+
+[dolg]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:35
+
+[freedom]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:35
+
+[killer]:default_g
+spawn_grenades	= grenade_rgd5:25,grenade_f1:25
+
+[ecolog]:default_g
+spawn_grenades	= grenade_rgd5:10
+
+[trader]:default_g
+;throw = false
+spawn_grenades	= grenade_rgd5:0
+
+[military]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:35
+
+[military_stalker]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+[stranger]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+[nato]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+[monolith]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+[usarmy]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+[mackleens_gang]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+[exmon]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+[army]:default_g
+spawn_grenades	= grenade_rgd5:50,grenade_f1:40
+
+
+; custom
+
+[dont_throw]:default_g
+throw = false
+spawn_grenades	= grenade_rgd5:0
+
+
+
+
+
+[fake_grenades_base]
+inv_name				= ""
+inv_name_short			= ""
+immunities_sect			= fake_grenades_immunities
+inv_grid_width			= 1
+inv_grid_height			= 1
+inv_grid_x				= 100
+inv_grid_y				= 100
+ammo_mag_size			= 1
+rpm 					= 1
+
+[grenade_f1_fake]:explosive_barrel,grenade_f1,fake_grenades_base
+class					= II_EXPLO
+visual					= grenadier\wpn_f_1.ogf
+
+[grenade_rgd5_fake]:explosive_barrel,grenade_rgd5,fake_grenades_base
+class					= II_EXPLO
+visual					= grenadier\wpn_rgd_5.ogf
+
+[grenade_f1_test]:grenade_f1,fake_grenades_base
+visual					= grenadier\wpn_f_1.ogf
+
+[grenade_rgd5_test]:grenade_rgd5,fake_grenades_base
+visual					= grenadier\wpn_rgd_5.ogf
+
+[fake_grenades_immunities]
+burn_immunity			= 0
+strike_immunity			= 0
+shock_immunity			= 0
+wound_immunity			= 0
+radiation_immunity		= 0
+telepatic_immunity		= 0
+chemical_burn_immunity	= 0
+explosion_immunity		= 0
+fire_wound_immunity		= 0

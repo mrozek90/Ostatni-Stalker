@@ -1,0 +1,1536 @@
+[trader]
+buy_condition = default_generic_buy
+sell_condition = {+deserted_earths_card_activated} default_after_card_activation, {+ls_good_final_info} default_after_good_final, default_start_sell
+buy_supplies = {+deserted_earths_card_activated} supplies_after_card_activation, {+ls_good_final_info} supplies_after_good_final, supplies_start
+
+
+[default_generic_buy]
+morlok_pda					;NO TRADE
+detector_fack					;NO TRADE
+;Артефакты
+af_medusa			= 1,	0.8
+af_cristall_flower		= 1,	0.8
+af_night_star			= 1,	0.8
+af_vyvert			= 1,	0.8
+af_gravi			= 1,	0.8
+af_gold_fish			= 1,	0.8
+af_blood			= 1,	0.8
+af_mincer_meat			= 1,	0.8
+af_soul				= 1,	0.8
+af_electra_sparkler		= 1,	0.8
+af_electra_flash		= 1,	0.8
+af_electra_moonlight		= 1,	0.8
+af_rusty_thorn			= 1,	0.8
+af_rusty_kristall		= 1,	0.8
+af_rusty_sea-urchin		= 1,	0.8
+af_ameba_slime			= 1,	0.8
+af_ameba_slug			= 1,	0.8
+af_ameba_mica			= 1,	0.8
+af_drops			= 1,	0.8
+af_fireball			= 1,	0.8
+af_cristall			= 1,	0.8
+af_dummy_glassbeads		= 1,	0.8
+af_dummy_pellicle		= 1,	0.8
+af_dummy_battery		= 1,	0.8
+af_dummy_dummy			= 1,	0.8
+af_dummy_spring			= 1,	0.8
+af_fuzz_kolobok			= 1,	0.8
+lov_af_barhat1			;NO TRADE 
+lov_af_chetki1          	;NO TRADE 
+lov_af_chipsi1          	;NO TRADE 
+lov_af_diablo1          	;NO TRADE 
+lov_af_gorgona1         	;NO TRADE 
+lov_af_jaba1            	;NO TRADE 
+lov_af_jbk1             	;NO TRADE 
+lov_af_klever1          	;NO TRADE 
+lov_af_kliaksa1         	;NO TRADE 
+lov_af_krest1           	;NO TRADE 
+lov_af_ojerelie1        	;NO TRADE 
+lov_af_serpantin1       	;NO TRADE 
+lov_af_shkatulka1       	;NO TRADE 
+lov_af_spaika_21        	;NO TRADE 
+lov_af_kris_zvezda1     	;NO TRADE 
+lov_af_eye_voron1       	;NO TRADE 
+lov_af_fallen_angel1    	;NO TRADE 
+lov_af_pero1            	;NO TRADE 
+lov_af_vinograd1        	;NO TRADE 
+lov_af_black_angel1     	;NO TRADE 
+lov_af_kosi1            	;NO TRADE 
+lov_af_black_hole1      	;NO TRADE 
+lov_af_provoloka1       	;NO TRADE 
+lov_af_kletka1          	;NO TRADE 
+lov_af_kvazar1          	;NO TRADE 
+lov_af_propeller1       	;NO TRADE 
+lov_af_pylesos1         	;NO TRADE 
+lov_af_shipovnik1		;NO TRADE 
+lov_af_fontan1                  ;NO TRADE 
+lov_magneto1                    ;NO TRADE 
+af_antigraw			;no trade
+fly_block			;no trade 
+art_hunter			;NO TRADE
+ 
+
+;Аммуниция
+ammo_9x18_fmj			= 0.5,	0.3
+ammo_9x18_pmm			= 0.5,	0.3
+ammo_9x19_pbp			= 0.5,	0.3
+ammo_9x19_fmj			= 0.5,	0.3
+ammo_11.43x23_hydro		= 0.5,	0.3
+ammo_11.43x23_fmj		= 0.5,	0.3
+ammo_12x70_buck			= 0.5,	0.3
+ammo_12x76_dart			= 0.5,	0.3
+ammo_12x76_zhekan		= 0.5,	0.3
+ammo_5.45x39_ap			= 0.5,	0.3
+ammo_5.45x39_fmj		= 0.5,	0.3
+ammo_9x39_sp5			= 0.5,	0.3
+ammo_9x39_ap			= 0.5,	0.3
+ammo_9x39_pab9			= 0.5,	0.3
+ammo_5.56x45_ss190		= 0.5,	0.3
+ammo_5.56x45_ap			= 0.5,	0.3
+ammo_7.62x54_7h14		= 0.5,	0.3
+ammo_7.62x54_7h1		= 0.5,	0.3
+ammo_7.62x54_ap			= 0.5,	0.3
+ammo_og-7b			= 0.5,	0.3
+ammo_vog-25p			= 0.5,	0.3
+ammo_vog-25			= 0.5,	0.3
+grenade_f1			= 0.5,	0.3
+grenade_rgd5			= 0.5,	0.3
+ammo_m209			= 0.5,	0.3
+ammo_7.92x33			= 0.5,	0.3
+ammo_7.62x25_p			= 0.5,	0.3
+ammo_7.62x25_ps			= 0.5,	0.3
+ammo_93x64_sp			= 0.5,	0.3
+ammo_93x64_ap			= 0.5,	0.3
+ammo_7.62x54r                   = 0.5,	0.3
+ammo_7.62x51_fmj                = 0.5,	0.3
+ammo_7.62x51_ap                 = 0.5,	0.3
+ammo_blaster                    = 0.5,	0.3
+; ammo_blaster_original           = 0.5,	0.3
+ammo_gauss                      = 0.5,	0.3
+ammo_12.7x54                    = 0.5,	0.3
+ammo_127x55_fmj                 = 0.5,	0.3
+ammo_knife_bak                  = 0.5,	0.3
+ammo_knife                      = 0.5,	0.3
+ammo_knife_map                  = 0.5,	0.3
+ammo_knife_tanto                = 0.5,	0.3
+
+;Оружие
+wpn_pm					= 0.5,	0.3
+wpn_pb					= 0.5,	0.3
+wpn_fort				= 0.5,	0.3
+wpn_hpsa				= 0.5,	0.3
+wpn_beretta				= 0.5,	0.3
+wpn_walther				= 0.5,	0.3
+wpn_sig220				= 0.5,	0.3
+wpn_colt1911				= 0.5,	0.3
+wpn_usp					= 0.5,	0.3
+wpn_desert_eagle			= 0.5,	0.3
+wpn_bm16				= 0.5,	0.3
+wpn_toz34				= 0.5,	0.3
+wpn_wincheaster1300			= 0.5,	0.3
+wpn_spas12				= 0.5,	0.3
+wpn_ak74u				= 0.5,	0.3
+wpn_mp5					= 0.5,	0.3
+wpn_ak74				= 0.5,	0.3
+wpn_abakan				= 0.5,	0.3
+wpn_l85					= 0.5,	0.3
+wpn_lr300				= 0.5,	0.3
+wpn_sig550				= 0.5,	0.3
+wpn_groza				= 0.5,	0.3
+wpn_val					= 0.5,	0.3
+wpn_vintorez				= 0.5,	0.3
+wpn_svu					= 0.5,	0.3
+wpn_svd					= 0.5,	0.3
+wpn_rg-6				= 0.5,	0.3
+wpn_rpg7				= 0.5,	0.3
+wpn_g36					= 0.5,	0.3
+wpn_fn2000				= 0.5,	0.3
+wpn_mp40				= 0.2,	0.1
+wpn_stg44                               = 0.2,	0.1
+wpn_ppsh                                = 0.2,	0.1
+wpn_m4_taktik	                        = 0.5,	0.3
+wpn_rpk                                 = 0.6,	0.4
+wpn_pkm	                                = 0.6,	0.4
+wpn_sr25_mk11_mod0_sk1                  = 0.6,	0.4
+wpn_blaster                             = 0.8,	0.2
+wpn_gauss                               = 0.6,	0.2
+wpn_gaus_m1                               = 0.6,	0.2
+wpn_m1000                               = 0.9,	0.3
+wpn_vihlop                              = 0.8,	0.2
+wpn_warlock                             = 0.9,	0.3
+wpn_warlock_error                       = 0.2,	0.1
+wpn_glock18c                            = 0.5,	0.3
+wpn_glock18c_expert		        = 0.5,	0.3
+wpn_mauzer				= 0.5,	0.3
+wpn_luger                               = 0.5,	0.3
+wpn_vepr				= 0.5,	0.3
+
+;ADDONS
+wpn_addon_scope				= 0.5,	0.3
+wpn_addon_silencer			= 0.5,	0.3
+wpn_addon_grenade_launcher		= 0.5,	0.3
+wpn_addon_grenade_launcher_m203 	= 0.5,	0.3
+wpn_addon_acog				= 0.5,	0.3
+
+;Броники
+novice_outfit			= 0.7,	0.3
+bandit_outfit			= 0.7,	0.3
+killer_outfit			= 0.7,	0.3
+monolit_outfit			= 0.7,	0.3
+specops_outfit			= 0.7,	0.3
+military_outfit			= 0.7,	0.3
+stalker_outfit			= 0.7,	0.3
+scientific_outfit		= 0.7,	0.3
+exo_outfit			= 0.7,	0.3
+svoboda_light_outfit		= 0.7,	0.3
+svoboda_heavy_outfit		= 0.7,	0.3
+dolg_outfit			= 0.7,	0.3
+dolg_scientific_outfit		= 0.7,	0.3
+ecolog_outfit			= 0.7,	0.3
+protection_outfit		= 0.7,	0.3
+
+;Медикаменты
+bandage				= 0.8,	0.5
+medkit				= 0.8,	0.5
+medkit_scientic			= 1,	0.8
+medkit_army			= 0.8,	0.5
+antirad				= 1,	0.8
+
+;Детали монстров
+mutant_flesh_eye		= 1.0,	0.8
+mutant_boar_leg			= 1.0,	0.8
+mutant_dog_tail			= 1.0,	0.8
+mutant_psevdodog_tail		= 1.0,	0.8
+mutant_krovosos_jaw		= 1.0,	0.8
+mutant_burer_hand		= 1.0,	0.8
+mutant_zombie_hand		= 1.0,	0.8
+mutant_snork_leg		= 1.0,	0.8
+
+;Еда
+bread				= 0.2,	0.1
+kolbasa				= 0.2,	0.1
+conserva			= 0.2,	0.1
+vodka				= 0.2,	0.1
+energy_drink			= 0.2,	0.1
+
+;Предметы
+device_torch			;NO TRADE
+detector_simple			= 0.4,	0.1 
+detector_advances		= 0.5,	0.2 
+detector_elite			= 0.6,	0.3 
+device_pda			;NO TRADE
+hand_radio			;NO TRADE
+guitar_a			;NO TRADE
+harmonica_a			;NO TRADE
+
+;Квестовые предметы
+gunslinger_flash		;NO TRADE
+af_blood_tutorial		;NO TRADE
+esc_wounded_flash		;NO TRADE
+quest_case_02			;NO TRADE
+dar_document1			;NO TRADE
+dar_document2			;NO TRADE
+dar_document3			;NO TRADE
+dar_document4			;NO TRADE
+dar_document5			;NO TRADE
+kruglov_flash			;NO TRADE
+lab_x16_documents		;NO TRADE
+good_psy_helmet			;NO TRADE
+bad_psy_helmet			;NO TRADE
+decoder				;NO TRADE
+dynamite			;NO TRADE
+quest_case_01			;NO TRADE
+hunters_toz			;NO TRADE
+bar_ecolog_flash		;NO TRADE
+bar_tiran_pda			;NO TRADE
+bar_lucky_pda			;NO TRADE
+
+;Уникальные предметы
+outfit_novice_m1		= 0.4,	0.1
+outfit_bandit_m1		= 0.5,	0.2
+outfit_dolg_m1			= 0.6,	0.3
+outfit_killer_m1		= 0.4,	0.1
+outfit_specnaz_m1		= 0.5,	0.2
+outfit_stalker_m1		= 0.6,	0.3
+outfit_stalker_m2		= 0.4,	0.1
+outfit_svoboda_m1		= 0.5,	0.2
+outfit_exo_m1			= 0.6,	0.3
+wpn_ak74_m1			= 0.4,	0.1
+wpn_abakan_m1			= 0.5,	0.2
+wpn_abakan_m2			= 0.6,	0.3
+wpn_fort_m1			= 0.4,	0.1
+wpn_ak74u_m1			= 0.5,	0.2
+wpn_mp5_m1			= 0.6,	0.3
+wpn_groza_m1			= 0.4,	0.1
+wpn_spas12_m1			= 0.5,	0.2
+wpn_winchester_m1		= 0.6,	0.3
+wpn_l85_m1			= 0.4,	0.1
+wpn_lr300_m1			= 0.5,	0.2
+wpn_svd_m1			= 0.6,	0.3
+wpn_sig_m1			= 0.4,	0.1
+wpn_eagle_m1			= 0.5,	0.2
+wpn_colt_m1			= 0.6,	0.3
+wpn_val_m1			= 0.4,	0.1
+wpn_mp5_m2			= 0.5,	0.2
+wpn_l85_m2			= 0.4,	0.1
+wpn_sig_m2			= 0.5,	0.2
+wpn_rg6_m1			= 0.6,	0.3
+wpn_walther_m1			= 0.4,	0.1
+wpn_pm_arena			;NO TRADE
+wpn_mp5_arena			;NO TRADE
+wpn_toz34_arena			;NO TRADE
+wpn_spas12_arena		;NO TRADE
+wpn_ak74_arena			;NO TRADE
+wpn_bm16_arena			;NO TRADE
+wpn_ak74u_arena			;NO TRADE
+wpn_val_arena			;NO TRADE
+wpn_groza_arena			;NO TRADE
+wpn_fn2000_arena		;NO TRADE
+wpn_g36_arena			;NO TRADE
+
+
+af_maska_1                      = 0.2,	0.1         
+af_maska_2                      = 0.2,	0.1     
+automedic_system                           	;NO TRADE
+radio_scaner                               	;NO TRADE
+ss_document_00                             	;NO TRADE
+ss_document_01                             	;NO TRADE
+ss_document_02                             	;NO TRADE
+ss_document_03                             	;NO TRADE
+ss_document_04                             	;NO TRADE
+ss_document_05                             	;NO TRADE
+ss_document_06                             	;NO TRADE
+ss_document_07                             	;NO TRADE
+ss_document_08                             	;NO TRADE
+ss_document_09                             	;NO TRADE
+ss_document_10                             	;NO TRADE
+ss_document_11                             	;NO TRADE
+ss_document_12                             	;NO TRADE
+ss_document_13                             	;NO TRADE
+malyawa_01                                 	;NO TRADE
+malyawa_02                                 	;NO TRADE
+malyawa_03                                 	;NO TRADE
+malyawa_04					;NO TRADE
+malyawa_05                                      ;NO TRADE
+malyawa_06                                      ;NO TRADE
+malyawa_07                                      ;NO TRADE
+malyawa_08                                      ;NO TRADE
+grc_booklet_stalker                             ;NO TRADE
+grc_booklet_military                            ;NO TRADE
+berkov_code_tables                              ;NO TRADE
+deymos_malyawa                                  ;NO TRADE
+docum_case                                      ;NO TRADE
+amber_box                                       ;NO TRADE
+crucian_pda                                     ;NO TRADE
+unknown_pda                                     ;NO TRADE
+zakhar_pda                                      ;NO TRADE
+renn_pda                                        ;NO TRADE
+molokh_pda                                      ;NO TRADE
+fly_pda                                         ;NO TRADE
+ripley_pda                                      ;NO TRADE
+sniper_pda                                      ;NO TRADE
+shevchuk_pda                                    ;NO TRADE
+simpson_pda                                     ;NO TRADE
+nestor_pda					;NO TRADE
+grigory_pda                                     ;NO TRADE
+ruslan_pda                                      ;NO TRADE
+vadim_pda                                       ;NO TRADE
+sergey_pda                                      ;NO TRADE
+malyawa_heyher                                  ;NO TRADE
+passdoc                                         ;NO TRADE
+s_invertor                                      ;NO TRADE
+ripley_s_invertor                               ;NO TRADE
+kira_pribor                                     ;NO TRADE
+passcia                                         ;NO TRADE
+
+
+monolith_kee_1_active                           ;NO TRADE
+monolith_kee_2_active                           ;NO TRADE
+monolith_kee_3_active                           ;NO TRADE
+monolith_kee_dushman_1_active                   ;NO TRADE
+monolith_kee_dushman_2_active                   ;NO TRADE
+monolith_kee_dushman_3_active                   ;NO TRADE
+monolith_kee_dc_1                               ;NO TRADE
+monolith_kee_dc_2                               ;NO TRADE
+monolith_kee_dc_3				;NO TRADE
+blade_radiokey_1                                ;NO TRADE
+blade_radiokey_2                                ;NO TRADE
+ikona_1                                         ;NO TRADE
+ikona_2                                         ;NO TRADE
+otstoynik_passdoc                               ;NO TRADE
+necronomicon                                    ;NO TRADE
+teuton_malyawa                                  ;NO TRADE
+gena_maljawa                                    ;NO TRADE
+doctor_malyawa                                  ;NO TRADE
+hazar_malyawa                                   ;NO TRADE
+agru_code_malyawa                               ;NO TRADE
+bun_code_malyawa                                ;NO TRADE
+panz_encryption_malyawa                         ;NO TRADE
+reanimator_malyawa                              ;NO TRADE
+waterrat_malyawa                                ;NO TRADE
+announcement_1                                  ;NO TRADE
+announcement_2                                  ;NO TRADE
+announcement_3                                  ;NO TRADE
+announcement_4                                  ;NO TRADE
+announcement_5                                  ;NO TRADE
+announcement_6					;NO TRADE
+announcement_7                                  ;NO TRADE
+hsm_box_1                                       ;NO TRADE
+hsm_box_1_prototype                             ;NO TRADE
+hsm_box_2                                       ;NO TRADE
+hsm_box_2_fake                                  ;NO TRADE
+hsm_box_3                                       ;NO TRADE
+hsm_box_4                                       ;NO TRADE
+hsm_box_5                                       ;NO TRADE
+accesscard_hsm_1                                ;NO TRADE
+accesscard_hsm_2                                ;NO TRADE
+accesscard_sor_monkeyhouse                      ;NO TRADE
+accesscard_hos_security                         ;NO TRADE
+hsm_beacon_1                                    ;NO TRADE
+hsm_beacon_2                                    ;NO TRADE
+hsm_beacon_3                                    ;NO TRADE
+hsm_beacon_4                                    ;NO TRADE
+hsm_beacon_5                                    ;NO TRADE
+broken_pda                                      ;NO TRADE
+shilo_pda                                       ;NO TRADE
+blade_pda                                       ;NO TRADE
+braverman_pda					;NO TRADE
+esc_operator_pda                                ;NO TRADE
+military_stalkers_flash                         ;NO TRADE
+shocker_flash                                   ;NO TRADE
+hos_security_key                                ;NO TRADE
+obsidian_knife                                  ;NO TRADE
+taras_dictophone                                ;NO TRADE
+item_passport_rf                                ;NO TRADE
+item_passport_rff                               ;NO TRADE
+art_red                                         ;NO TRADE
+sor_basement_key                                ;NO TRADE
+sor_jj_key                                      ;NO TRADE
+
+
+[supplies_start]
+; ammo_9x19_fmj			= 15,	0.5
+; ammo_12x70_buck		= 10,	0.5
+; ammo_5.45x39_fmj		= 15,	0.5
+; ammo_5.56x45_ss190		= 15,	0.5
+; grenade_rgd5			= 5,	0.4
+
+;Броники
+; ecolog_outfit			= 2,	0.7
+
+;Оружие
+; wpn_walther			= 3,	0.6
+; wpn_abakan			= 3,	0.4
+; wpn_l85			= 3,	0.4
+; wpn_wincheaster1300		= 3,	0.4
+
+;Медикаменты
+; bandage			= 5,	0.6
+; medkit			= 5,	0.3
+; antirad			= 5,	0.3
+
+;Еда
+; bread				= 10,	0.5
+; kolbasa			= 10,	0.5
+; conserva			= 10,	0.5
+; vodka				= 10,	0.3
+; energy_drink			= 10,	0.3
+
+
+[default_start_sell]
+morlok_pda					;NO TRADE
+detector_fack					;NO TRADE
+;Артефакты
+af_medusa			;NO TRADE
+af_cristall_flower		;NO TRADE
+af_night_star			;NO TRADE
+af_vyvert			;NO TRADE
+af_gravi			;NO TRADE
+af_gold_fish			;NO TRADE
+af_blood			;NO TRADE
+af_mincer_meat			;NO TRADE
+af_soul				;NO TRADE
+af_electra_sparkler		;NO TRADE
+af_electra_flash		;NO TRADE
+af_electra_moonlight		;NO TRADE
+af_rusty_thorn			;NO TRADE
+af_rusty_kristall		;NO TRADE
+af_rusty_sea-urchin		;NO TRADE
+af_ameba_slime			;NO TRADE
+af_ameba_slug			;NO TRADE
+af_ameba_mica			;NO TRADE
+af_drops			;NO TRADE
+af_fireball			;NO TRADE
+af_cristall			;NO TRADE
+af_dummy_glassbeads		;NO TRADE
+af_dummy_pellicle		;NO TRADE
+af_dummy_battery		;NO TRADE
+af_dummy_dummy			;NO TRADE
+af_dummy_spring			;NO TRADE
+af_fuzz_kolobok			;NO TRADE
+lov_af_barhat1			;NO TRADE 
+lov_af_chetki1          	;NO TRADE 
+lov_af_chipsi1          	;NO TRADE 
+lov_af_diablo1          	;NO TRADE 
+lov_af_gorgona1         	;NO TRADE 
+lov_af_jaba1            	;NO TRADE 
+lov_af_jbk1             	;NO TRADE 
+lov_af_klever1          	;NO TRADE 
+lov_af_kliaksa1         	;NO TRADE 
+lov_af_krest1           	;NO TRADE 
+lov_af_ojerelie1        	;NO TRADE 
+lov_af_serpantin1       	;NO TRADE 
+lov_af_shkatulka1       	;NO TRADE 
+lov_af_spaika_21        	;NO TRADE 
+lov_af_kris_zvezda1     	;NO TRADE 
+lov_af_eye_voron1       	;NO TRADE 
+lov_af_fallen_angel1    	;NO TRADE 
+lov_af_pero1            	;NO TRADE 
+lov_af_vinograd1        	;NO TRADE 
+lov_af_black_angel1     	;NO TRADE 
+lov_af_kosi1            	;NO TRADE 
+lov_af_black_hole1      	;NO TRADE 
+lov_af_provoloka1       	;NO TRADE 
+lov_af_kletka1          	;NO TRADE 
+lov_af_kvazar1          	;NO TRADE 
+lov_af_propeller1       	;NO TRADE 
+lov_af_pylesos1         	;NO TRADE 
+lov_af_shipovnik1		;NO TRADE 
+lov_af_fontan1                  ;NO TRADE 
+lov_magneto1                    ;NO TRADE 
+af_antigraw			;no trade
+fly_block			;no trade
+
+;Аммуниция
+ammo_9x18_fmj			;NO TRADE
+ammo_9x18_pmm			;NO TRADE
+ammo_9x19_pbp			;NO TRADE
+ammo_9x19_fmj			= 1,	3
+ammo_11.43x23_hydro		;NO TRADE
+ammo_11.43x23_fmj		;NO TRADE
+ammo_12x70_buck			= 3,	5
+ammo_12x76_dart			;NO TRADE
+ammo_12x76_zhekan		;NO TRADE
+ammo_5.45x39_ap			;NO TRADE
+ammo_5.45x39_fmj		= 1,	3
+ammo_9x39_sp5			;NO TRADE
+ammo_9x39_ap			;NO TRADE
+ammo_9x39_pab9			;NO TRADE
+ammo_5.56x45_ss190		= 1,	3
+ammo_5.56x45_ap			;NO TRADE
+ammo_7.62x54_7h14		;NO TRADE
+ammo_7.62x54_7h1		;NO TRADE
+ammo_7.62x54_ap			;NO TRADE
+ammo_og-7b			;NO TRADE
+ammo_vog-25p			;NO TRADE
+ammo_vog-25			;NO TRADE
+grenade_f1			;NO TRADE
+grenade_rgd5			;NO TRADE
+ammo_m209			;NO TRADE
+
+;Оружие
+wpn_pm				;NO TRADE
+wpn_pb				;NO TRADE
+wpn_fort			;NO TRADE
+wpn_hpsa			;NO TRADE
+wpn_beretta			;NO TRADE
+wpn_walther			= 1,	3
+wpn_sig220			;NO TRADE
+wpn_colt1911			;NO TRADE
+wpn_usp				;NO TRADE
+wpn_desert_eagle		;NO TRADE
+wpn_bm16			;NO TRADE
+wpn_toz34			;NO TRADE
+wpn_wincheaster1300		= 1,	3
+wpn_spas12			;NO TRADE
+wpn_ak74u			;NO TRADE
+wpn_mp5				;NO TRADE
+wpn_ak74			;NO TRADE
+wpn_abakan			= 1,	3
+wpn_l85				= 1,	3
+wpn_lr300			;NO TRADE
+wpn_sig550			;NO TRADE
+wpn_groza			;NO TRADE
+wpn_val				;NO TRADE
+wpn_vintorez			;NO TRADE
+wpn_svu				;NO TRADE
+wpn_svd				;NO TRADE
+wpn_rg-6			;NO TRADE
+wpn_rpg7			;NO TRADE
+wpn_g36				;NO TRADE
+wpn_fn2000			;NO TRADE
+
+;ADDONS
+wpn_addon_scope			;NO TRADE
+wpn_addon_silencer		;NO TRADE
+wpn_addon_grenade_launcher	;NO TRADE
+wpn_addon_grenade_launcher_m203 ;NO TRADE
+
+;Броники
+novice_outfit			;NO TRADE
+bandit_outfit			;NO TRADE
+killer_outfit			;NO TRADE
+monolit_outfit			;NO TRADE
+soldier_outfit			;NO TRADE
+specops_outfit			;NO TRADE
+military_outfit			;NO TRADE
+stalker_outfit			;NO TRADE
+scientific_outfit		;NO TRADE
+exo_outfit			;NO TRADE
+svoboda_light_outfit		;NO TRADE
+svoboda_heavy_outfit		;NO TRADE
+dolg_outfit			;NO TRADE
+dolg_scientific_outfit		;NO TRADE
+ecolog_outfit			= 1,	3
+protection_outfit		;NO TRADE
+
+;Медикаменты
+bandage				= 1,	3
+medkit				= 1,	3
+medkit_scientic			;NO TRADE
+medkit_army			;NO TRADE
+antirad				= 1,	3
+
+;Детали монстров
+mutant_flesh_eye		;NO TRADE
+mutant_boar_leg			;NO TRADE
+mutant_dog_tail			;NO TRADE
+mutant_psevdodog_tail		;NO TRADE
+mutant_krovosos_jaw		;NO TRADE
+mutant_burer_hand		;NO TRADE
+mutant_zombie_hand		;NO TRADE
+mutant_snork_leg		;NO TRADE
+
+;Еда
+bread				= 1,	3
+kolbasa				= 1,	3
+conserva			= 1,	3
+vodka				= 1,	3
+energy_drink			= 1,	3
+
+;Предметы
+device_torch			;NO TRADE
+detector_simple			;NO TRADE
+detector_advances		;NO TRADE
+detector_elite			;NO TRADE
+device_pda			;NO TRADE
+hand_radio			;NO TRADE
+guitar_a			;NO TRADE
+harmonica_a			;NO TRADE
+
+;Квестовые предметы
+gunslinger_flash		;NO TRADE
+af_blood_tutorial		;NO TRADE
+esc_wounded_flash		;NO TRADE
+quest_case_02			;NO TRADE
+dar_document1			;NO TRADE
+dar_document2			;NO TRADE
+dar_document3			;NO TRADE
+dar_document4			;NO TRADE
+dar_document5			;NO TRADE
+kruglov_flash			;NO TRADE
+lab_x16_documents		;NO TRADE
+good_psy_helmet			;NO TRADE
+bad_psy_helmet			;NO TRADE
+decoder				;NO TRADE
+dynamite			;NO TRADE
+quest_case_01			;NO TRADE
+hunters_toz			;NO TRADE
+bar_ecolog_flash		;NO TRADE
+bar_tiran_pda			;NO TRADE
+bar_lucky_pda			;NO TRADE
+
+;Уникальные предметы
+outfit_novice_m1		;NO TRADE
+outfit_bandit_m1		;NO TRADE
+outfit_dolg_m1			;NO TRADE
+outfit_killer_m1		;NO TRADE
+outfit_specnaz_m1		;NO TRADE
+outfit_stalker_m1		;NO TRADE
+outfit_stalker_m2		;NO TRADE
+outfit_svoboda_m1		;NO TRADE
+outfit_exo_m1			;NO TRADE
+wpn_ak74_m1			;NO TRADE
+wpn_abakan_m1			;NO TRADE
+wpn_fort_m1			;NO TRADE
+wpn_ak74u_m1			;NO TRADE
+wpn_mp5_m1			;NO TRADE
+wpn_groza_m1			;NO TRADE
+wpn_spas12_m1			;NO TRADE
+wpn_winchester_m1		;NO TRADE
+wpn_l85_m1			;NO TRADE
+wpn_lr300_m1			;NO TRADE
+wpn_svd_m1			;NO TRADE
+wpn_sig_m1			;NO TRADE
+wpn_eagle_m1			;NO TRADE
+wpn_colt_m1			;NO TRADE
+wpn_val_m1			;NO TRADE
+wpn_mp5_m2			;NO TRADE
+wpn_abakan_m2			;NO TRADE
+wpn_l85_m2			;NO TRADE
+wpn_sig_m2			;NO TRADE
+wpn_rg6_m1			;NO TRADE
+wpn_walther_m1			;NO TRADE
+wpn_pm_arena			;NO TRADE
+wpn_mp5_arena			;NO TRADE
+wpn_toz34_arena			;NO TRADE
+wpn_spas12_arena		;NO TRADE
+wpn_ak74_arena			;NO TRADE
+wpn_bm16_arena			;NO TRADE
+wpn_ak74u_arena			;NO TRADE
+wpn_val_arena			;NO TRADE
+wpn_groza_arena			;NO TRADE
+wpn_fn2000_arena		;NO TRADE
+wpn_g36_arena			;NO TRADE
+
+
+[supplies_after_card_activation]
+;Еда
+bread				= 10,	0.5
+kolbasa				= 10,	0.5
+conserva			= 10,	0.5
+vodka				= 10,	0.3
+energy_drink			= 10,	0.3
+bandage				= 10,	0.5
+medkit				= 5,	0.5
+medkit_army			= 3,	0.5
+antirad				= 3,	0.5
+
+
+[default_after_card_activation]
+morlok_pda					;NO TRADE
+detector_fack					;NO TRADE
+;Артефакты
+af_medusa			;NO TRADE
+af_cristall_flower		;NO TRADE
+af_night_star			;NO TRADE
+af_vyvert			;NO TRADE
+af_gravi			;NO TRADE
+af_gold_fish			;NO TRADE
+af_blood			;NO TRADE
+af_mincer_meat			;NO TRADE
+af_soul				;NO TRADE
+af_electra_sparkler		;NO TRADE
+af_electra_flash		;NO TRADE
+af_electra_moonlight		;NO TRADE
+af_rusty_thorn			;NO TRADE
+af_rusty_kristall		;NO TRADE
+af_rusty_sea-urchin		;NO TRADE
+af_ameba_slime			;NO TRADE
+af_ameba_slug			;NO TRADE
+af_ameba_mica			;NO TRADE
+af_drops			;NO TRADE
+af_fireball			;NO TRADE
+af_cristall			;NO TRADE
+af_dummy_glassbeads		;NO TRADE
+af_dummy_pellicle		;NO TRADE
+af_dummy_battery		;NO TRADE
+af_dummy_dummy			;NO TRADE
+af_dummy_spring			;NO TRADE
+af_fuzz_kolobok			;NO TRADE
+lov_af_barhat1			;NO TRADE 
+lov_af_chetki1          	;NO TRADE 
+lov_af_chipsi1          	;NO TRADE 
+lov_af_diablo1          	;NO TRADE 
+lov_af_gorgona1         	;NO TRADE 
+lov_af_jaba1            	;NO TRADE 
+lov_af_jbk1             	;NO TRADE 
+lov_af_klever1          	;NO TRADE 
+lov_af_kliaksa1         	;NO TRADE 
+lov_af_krest1           	;NO TRADE 
+lov_af_ojerelie1        	;NO TRADE 
+lov_af_serpantin1       	;NO TRADE 
+lov_af_shkatulka1       	;NO TRADE 
+lov_af_spaika_21        	;NO TRADE 
+lov_af_kris_zvezda1     	;NO TRADE 
+lov_af_eye_voron1       	;NO TRADE 
+lov_af_fallen_angel1    	;NO TRADE 
+lov_af_pero1            	;NO TRADE 
+lov_af_vinograd1        	;NO TRADE 
+lov_af_black_angel1     	;NO TRADE 
+lov_af_kosi1            	;NO TRADE 
+lov_af_black_hole1      	;NO TRADE 
+lov_af_provoloka1       	;NO TRADE 
+lov_af_kletka1          	;NO TRADE 
+lov_af_kvazar1          	;NO TRADE 
+lov_af_propeller1       	;NO TRADE 
+lov_af_pylesos1         	;NO TRADE 
+lov_af_shipovnik1		;NO TRADE 
+lov_af_fontan1                  ;NO TRADE 
+lov_magneto1                    ;NO TRADE 
+af_antigraw			;no trade
+fly_block			;no trade 
+art_hunter			;NO TRADE
+ 
+
+;Аммуниция
+ammo_9x18_fmj			= 3,	4
+ammo_9x18_pmm			= 2,    4
+ammo_9x19_pbp			= 2,    4
+ammo_9x19_fmj			= 2,    4
+ammo_11.43x23_hydro		= 4,	10
+ammo_11.43x23_fmj		= 4,	10
+ammo_12x70_buck			= 5,	9
+ammo_12x76_dart			= 5,	9
+ammo_12x76_zhekan		= 5,	9
+ammo_5.45x39_ap			= 4,	8
+ammo_5.45x39_fmj		= 4,	8
+ammo_9x39_sp5			= 3,	8
+ammo_9x39_ap			= 3,	8
+ammo_9x39_pab9			= 3,	8
+ammo_5.56x45_ss190		= 3,	8
+ammo_5.56x45_ap			= 3,	8
+ammo_7.62x54_7h14		= 3,	6
+ammo_7.62x54_7h1		= 3,	6
+ammo_7.62x54_ap			= 3,	6
+ammo_og-7b			= 3,	8
+ammo_vog-25p			= 3,	6
+ammo_vog-25			= 3,	6
+grenade_f1			= 3,	5
+grenade_rgd5			= 3,	5
+ammo_m209			= 3,	5
+ammo_7.92x33			= 2,    4
+ammo_7.62x25_p			= 2,    4
+ammo_7.62x25_ps			= 2,    4
+ammo_93x64_sp			= 3,	10
+ammo_93x64_ap			= 3,	10
+ammo_7.62x54r                   = 3,	6
+ammo_7.62x51_fmj                = 3,	9
+ammo_7.62x51_ap                 = 3,	9
+ammo_blaster                    = 3,	10
+; ammo_blaster_original           = 3,	10
+ammo_gauss                      = 3,	10
+ammo_12.7x54                    = 3,	10
+ammo_127x55_fmj                 = 3,	10
+ammo_knife_bak                  ;NO TRADE
+ammo_knife                      ;NO TRADE
+ammo_knife_map                  ;NO TRADE
+ammo_knife_tanto                ;NO TRADE
+
+;Оружие                         
+wpn_pm					= 2,    4
+wpn_pb					= 2,    4
+wpn_fort				= 2,    4
+wpn_hpsa				= 2,    4
+wpn_beretta				= 2,    4
+wpn_walther				= 2,    4
+wpn_sig220				= 2,    4
+wpn_colt1911				= 2,    4
+wpn_usp					= 2,    4
+wpn_desert_eagle			= 3,	6
+wpn_bm16				= 2,    4
+wpn_toz34				= 2,    4
+wpn_wincheaster1300			= 3,	5
+wpn_spas12				= 3,	5
+wpn_ak74u				= 2,    4
+wpn_mp5					= 2,    4
+wpn_ak74				= 2,    4
+wpn_abakan				= 3,	5
+wpn_l85					= 2,    4
+wpn_lr300				= 2,    4
+wpn_sig550				= 3,	5
+wpn_groza				= 3,	5
+wpn_val					= 2,    4
+wpn_vintorez				= 3,	6
+wpn_svu					= 3,	6
+wpn_svd					= 3,	6
+wpn_rg-6				= 3,	6
+wpn_rpg7				= 3,	8
+wpn_g36					= 2,    4
+wpn_fn2000				= 3,	8
+wpn_mp40				= 2,    4
+wpn_stg44                               = 2,    4
+wpn_ppsh                                = 2,    4
+wpn_m4_taktik	                        = 2,    4
+wpn_rpk                                 = 3,	7
+wpn_pkm	                                = 3,	8
+wpn_sr25_mk11_mod0_sk1                  = 2,    4
+wpn_blaster                             ;NO TRADE 
+wpn_gauss                               ;NO TRADE 
+wpn_gaus_m1				;NO TRADE
+wpn_m1000                               ;NO TRADE 
+wpn_vihlop                              ;NO TRADE 
+wpn_warlock                             ;NO TRADE 
+wpn_warlock_error                       ;NO TRADE 
+wpn_glock18c                            = 3,	6
+wpn_glock18c_expert		        = 3,	7
+wpn_mauzer				;NO TRADE 
+wpn_luger                               ;NO TRADE 
+wpn_vepr				= 3,	8
+
+;ADDONS                                 
+wpn_addon_scope				= 3,	10
+wpn_addon_silencer			= 3,	6
+wpn_addon_grenade_launcher		= 3,	10
+wpn_addon_grenade_launcher_m203 	= 3,	10
+wpn_addon_acog				= 3,	10
+
+;Броники                                
+novice_outfit				;NO TRADE 
+bandit_outfit				;NO TRADE 
+killer_outfit				;NO TRADE 
+monolit_outfit				;NO TRADE 
+specops_outfit				;NO TRADE 
+military_outfit				;NO TRADE 
+stalker_outfit				;NO TRADE  
+scientific_outfit			;NO TRADE  
+exo_outfit				;NO TRADE 
+svoboda_light_outfit			;NO TRADE 
+svoboda_heavy_outfit			;NO TRADE 
+dolg_outfit				;NO TRADE 
+dolg_scientific_outfit			;NO TRADE 
+ecolog_outfit				;NO TRADE 
+protection_outfit			;NO TRADE
+
+;Медикаменты                            
+bandage					= 2,   4
+medkit					= 2,   4
+medkit_scientic				= 2,   4
+medkit_army				= 2,   4
+antirad					= 2,   4
+
+;Детали монстров                        
+mutant_flesh_eye			;NO TRADE 
+mutant_boar_leg				;NO TRADE 
+mutant_dog_tail				;NO TRADE 
+mutant_psevdodog_tail			;NO TRADE 
+mutant_krovosos_jaw			;NO TRADE 
+mutant_burer_hand			;NO TRADE 
+mutant_zombie_hand			;NO TRADE 
+mutant_snork_leg			;NO TRADE 
+
+;Еда                                    
+bread					= 2,   4
+kolbasa					= 2,   4
+conserva				= 2,   4
+vodka					= 2,   4
+energy_drink				= 2,   4
+
+;Предметы                               
+device_torch			;NO TRADE
+detector_simple			= 2,	3 
+detector_advances		= 2,	4 
+detector_elite			= 2,	5 
+device_pda			;NO TRADE
+hand_radio			;NO TRADE
+guitar_a			;NO TRADE
+harmonica_a			;NO TRADE
+
+;Квестовые предметы
+gunslinger_flash		;NO TRADE
+af_blood_tutorial		;NO TRADE
+esc_wounded_flash		;NO TRADE
+quest_case_02			;NO TRADE
+dar_document1			;NO TRADE
+dar_document2			;NO TRADE
+dar_document3			;NO TRADE
+dar_document4			;NO TRADE
+dar_document5			;NO TRADE
+kruglov_flash			;NO TRADE
+lab_x16_documents		;NO TRADE
+good_psy_helmet			;NO TRADE
+bad_psy_helmet			;NO TRADE
+decoder				;NO TRADE
+dynamite			;NO TRADE
+quest_case_01			;NO TRADE
+hunters_toz			;NO TRADE
+bar_ecolog_flash		;NO TRADE
+bar_tiran_pda			;NO TRADE
+bar_lucky_pda			;NO TRADE
+
+;Уникальные предметы
+outfit_novice_m1		;NO TRADE
+outfit_bandit_m1		;NO TRADE
+outfit_dolg_m1			;NO TRADE
+outfit_killer_m1		;NO TRADE
+outfit_specnaz_m1		;NO TRADE
+outfit_stalker_m1		= 3,   6 ;NO TRADE
+outfit_stalker_m2		= 3,   6 ;NO TRADE
+outfit_svoboda_m1		= 3,   6 ;NO TRADE
+outfit_exo_m1			= 3,   8 ;NO TRADE
+wpn_ak74_m1			;NO TRADE
+wpn_abakan_m1			;NO TRADE
+wpn_abakan_m2			;NO TRADE
+wpn_fort_m1			;NO TRADE
+wpn_ak74u_m1			= 3,   6           
+wpn_mp5_m1			= 3,   6           
+wpn_groza_m1			;NO TRADE          
+wpn_spas12_m1			;NO TRADE          
+wpn_winchester_m1		= 3,   6           
+wpn_l85_m1			= 3,   8           
+wpn_lr300_m1			= 3,   8           
+wpn_svd_m1			;NO TRADE          
+wpn_sig_m1			;NO TRADE          
+wpn_eagle_m1			;NO TRADE          
+wpn_colt_m1			= 3,   6           
+wpn_val_m1			;NO TRADE          
+wpn_mp5_m2			;NO TRADE          
+wpn_abakan_m2			;NO TRADE          
+wpn_l85_m2			;NO TRADE          
+wpn_sig_m2			;NO TRADE          
+wpn_rg6_m1			= 3,   8           
+wpn_walther_m1			= 3,   6           
+wpn_pm_arena			;NO TRADE
+wpn_mp5_arena			;NO TRADE
+wpn_toz34_arena			;NO TRADE
+wpn_spas12_arena		;NO TRADE
+wpn_ak74_arena			;NO TRADE
+wpn_bm16_arena			;NO TRADE
+wpn_ak74u_arena			;NO TRADE
+wpn_val_arena			;NO TRADE
+wpn_groza_arena			;NO TRADE
+wpn_fn2000_arena		;NO TRADE
+wpn_g36_arena			;NO TRADE
+
+
+af_maska_1                      = 1,	2            
+af_maska_2                      = 1,	2    
+automedic_system                           	;NO TRADE
+radio_scaner                               	;NO TRADE
+ss_document_00                             	;NO TRADE
+ss_document_01                             	;NO TRADE
+ss_document_02                             	;NO TRADE
+ss_document_03                             	;NO TRADE
+ss_document_04                             	;NO TRADE
+ss_document_05                             	;NO TRADE
+ss_document_06                             	;NO TRADE
+ss_document_07                             	;NO TRADE
+ss_document_08                             	;NO TRADE
+ss_document_09                             	;NO TRADE
+ss_document_10                             	;NO TRADE
+ss_document_11                             	;NO TRADE
+ss_document_12                             	;NO TRADE
+ss_document_13                             	;NO TRADE
+malyawa_01                                 	;NO TRADE
+malyawa_02                                 	;NO TRADE
+malyawa_03                                 	;NO TRADE
+malyawa_04					;NO TRADE
+malyawa_05                                      ;NO TRADE
+malyawa_06                                      ;NO TRADE
+malyawa_07                                      ;NO TRADE
+malyawa_08                                      ;NO TRADE
+grc_booklet_stalker                             ;NO TRADE
+grc_booklet_military                            ;NO TRADE
+berkov_code_tables                              ;NO TRADE
+deymos_malyawa                                  ;NO TRADE
+docum_case                                      ;NO TRADE
+amber_box                                       ;NO TRADE
+crucian_pda                                     ;NO TRADE
+unknown_pda                                     ;NO TRADE
+zakhar_pda                                      ;NO TRADE
+renn_pda                                        ;NO TRADE
+molokh_pda                                      ;NO TRADE
+fly_pda                                         ;NO TRADE
+ripley_pda                                      ;NO TRADE
+sniper_pda                                      ;NO TRADE
+shevchuk_pda                                    ;NO TRADE
+simpson_pda                                     ;NO TRADE
+nestor_pda					;NO TRADE
+grigory_pda                                     ;NO TRADE
+ruslan_pda                                      ;NO TRADE
+vadim_pda                                       ;NO TRADE
+sergey_pda                                      ;NO TRADE
+malyawa_heyher                                  ;NO TRADE
+passdoc                                         ;NO TRADE
+s_invertor                                      ;NO TRADE
+ripley_s_invertor                               ;NO TRADE
+kira_pribor                                     ;NO TRADE
+passcia                                         ;NO TRADE
+
+
+monolith_kee_1_active                           ;NO TRADE
+monolith_kee_2_active                           ;NO TRADE
+monolith_kee_3_active                           ;NO TRADE
+monolith_kee_dushman_1_active                   ;NO TRADE
+monolith_kee_dushman_2_active                   ;NO TRADE
+monolith_kee_dushman_3_active                   ;NO TRADE
+monolith_kee_dc_1                               ;NO TRADE
+monolith_kee_dc_2                               ;NO TRADE
+monolith_kee_dc_3				;NO TRADE
+blade_radiokey_1                                ;NO TRADE
+blade_radiokey_2                                ;NO TRADE
+ikona_1                                         ;NO TRADE
+ikona_2                                         ;NO TRADE
+otstoynik_passdoc                               ;NO TRADE
+necronomicon                                    ;NO TRADE
+teuton_malyawa                                  ;NO TRADE
+gena_maljawa                                    ;NO TRADE
+doctor_malyawa                                  ;NO TRADE
+hazar_malyawa                                   ;NO TRADE
+agru_code_malyawa                               ;NO TRADE
+bun_code_malyawa                                ;NO TRADE
+panz_encryption_malyawa                         ;NO TRADE
+reanimator_malyawa                              ;NO TRADE
+waterrat_malyawa                                ;NO TRADE
+announcement_1                                  ;NO TRADE
+announcement_2                                  ;NO TRADE
+announcement_3                                  ;NO TRADE
+announcement_4                                  ;NO TRADE
+announcement_5                                  ;NO TRADE
+announcement_6					;NO TRADE
+announcement_7                                  ;NO TRADE
+hsm_box_1                                       ;NO TRADE
+hsm_box_1_prototype                             ;NO TRADE
+hsm_box_2                                       ;NO TRADE
+hsm_box_2_fake                                  ;NO TRADE
+hsm_box_3                                       ;NO TRADE
+hsm_box_4                                       ;NO TRADE
+hsm_box_5                                       ;NO TRADE
+accesscard_hsm_1                                ;NO TRADE
+accesscard_hsm_2                                ;NO TRADE
+accesscard_sor_monkeyhouse                      ;NO TRADE
+accesscard_hos_security                         ;NO TRADE
+hsm_beacon_1                                    ;NO TRADE
+hsm_beacon_2                                    ;NO TRADE
+hsm_beacon_3                                    ;NO TRADE
+hsm_beacon_4                                    ;NO TRADE
+hsm_beacon_5                                    ;NO TRADE
+broken_pda                                      ;NO TRADE
+shilo_pda                                       ;NO TRADE
+blade_pda                                       ;NO TRADE
+braverman_pda					;NO TRADE
+esc_operator_pda                                ;NO TRADE
+military_stalkers_flash                         ;NO TRADE
+shocker_flash                                   ;NO TRADE
+hos_security_key                                ;NO TRADE
+obsidian_knife                                  ;NO TRADE
+taras_dictophone                                ;NO TRADE
+item_passport_rf                                ;NO TRADE
+item_passport_rff                               ;NO TRADE
+art_red                                         ;NO TRADE
+sor_basement_key                                ;NO TRADE
+sor_jj_key                                      ;NO TRADE
+
+[supplies_after_good_final]
+;Еда
+bread				= 10,	0.5
+kolbasa				= 10,	0.5
+conserva			= 10,	0.5
+vodka				= 10,	0.3
+energy_drink			= 10,	0.3
+novice_outfit			= 2,	0.4
+bandit_outfit			= 2,	0.4
+killer_outfit			= 2,	0.4
+monolit_outfit			= 1,	0.4
+specops_outfit		        = 2,	0.4
+military_outfit		        = 2,	0.4
+stalker_outfit			= 2,	0.4
+scientific_outfit	        = 1,	0.2
+exo_outfit		        = 1,	0.2
+svoboda_light_outfit		= 1,	0.2
+svoboda_heavy_outfit	        = 1,	0.2
+dolg_outfit		        = 1,	0.2
+dolg_scientific_outfit		= 1,	0.2
+ecolog_outfit		        = 1,	0.2
+protection_outfit	        = 1,	0.2
+bandage				= 10,	0.5
+medkit				= 5,	0.5
+medkit_army			= 3,	0.5
+antirad				= 3,	0.5
+
+
+
+
+
+[default_after_good_final]
+morlok_pda					;NO TRADE
+detector_fack					;NO TRADE
+;Артефакты
+af_medusa			;NO TRADE
+af_cristall_flower		;NO TRADE
+af_night_star			;NO TRADE
+af_vyvert			;NO TRADE
+af_gravi			;NO TRADE
+af_gold_fish			;NO TRADE
+af_blood			;NO TRADE
+af_mincer_meat			;NO TRADE
+af_soul				;NO TRADE
+af_electra_sparkler		;NO TRADE
+af_electra_flash		;NO TRADE
+af_electra_moonlight		;NO TRADE
+af_rusty_thorn			;NO TRADE
+af_rusty_kristall		;NO TRADE
+af_rusty_sea-urchin		;NO TRADE
+af_ameba_slime			;NO TRADE
+af_ameba_slug			;NO TRADE
+af_ameba_mica			;NO TRADE
+af_drops			;NO TRADE
+af_fireball			;NO TRADE
+af_cristall			;NO TRADE
+af_dummy_glassbeads		;NO TRADE
+af_dummy_pellicle		;NO TRADE
+af_dummy_battery		;NO TRADE
+af_dummy_dummy			;NO TRADE
+af_dummy_spring			;NO TRADE
+af_fuzz_kolobok			;NO TRADE
+lov_af_barhat1			;NO TRADE 
+lov_af_chetki1          	;NO TRADE 
+lov_af_chipsi1          	;NO TRADE 
+lov_af_diablo1          	;NO TRADE 
+lov_af_gorgona1         	;NO TRADE 
+lov_af_jaba1            	;NO TRADE 
+lov_af_jbk1             	;NO TRADE 
+lov_af_klever1          	;NO TRADE 
+lov_af_kliaksa1         	;NO TRADE 
+lov_af_krest1           	;NO TRADE 
+lov_af_ojerelie1        	;NO TRADE 
+lov_af_serpantin1       	;NO TRADE 
+lov_af_shkatulka1       	;NO TRADE 
+lov_af_spaika_21        	;NO TRADE 
+lov_af_kris_zvezda1     	;NO TRADE 
+lov_af_eye_voron1       	;NO TRADE 
+lov_af_fallen_angel1    	;NO TRADE 
+lov_af_pero1            	;NO TRADE 
+lov_af_vinograd1        	;NO TRADE 
+lov_af_black_angel1     	;NO TRADE 
+lov_af_kosi1            	;NO TRADE 
+lov_af_black_hole1      	;NO TRADE 
+lov_af_provoloka1       	;NO TRADE 
+lov_af_kletka1          	;NO TRADE 
+lov_af_kvazar1          	;NO TRADE 
+lov_af_propeller1       	;NO TRADE 
+lov_af_pylesos1         	;NO TRADE 
+lov_af_shipovnik1		;NO TRADE 
+lov_af_fontan1                  ;NO TRADE 
+lov_magneto1                    ;NO TRADE 
+af_antigraw			;no trade
+fly_block			;no trade
+art_hunter			;NO TRADE
+ 
+
+;Аммуниция
+ammo_9x18_fmj			= 3,	4
+ammo_9x18_pmm			= 2,    4
+ammo_9x19_pbp			= 2,    4
+ammo_9x19_fmj			= 2,    4
+ammo_11.43x23_hydro		= 4,	10
+ammo_11.43x23_fmj		= 4,	10
+ammo_12x70_buck			= 5,	9
+ammo_12x76_dart			= 5,	9
+ammo_12x76_zhekan		= 5,	9
+ammo_5.45x39_ap			= 4,	8
+ammo_5.45x39_fmj		= 4,	8
+ammo_9x39_sp5			= 3,	8
+ammo_9x39_ap			= 3,	8
+ammo_9x39_pab9			= 3,	8
+ammo_5.56x45_ss190		= 3,	8
+ammo_5.56x45_ap			= 3,	8
+ammo_7.62x54_7h14		= 3,	6
+ammo_7.62x54_7h1		= 3,	6
+ammo_7.62x54_ap			= 3,	6
+ammo_og-7b			= 3,	8
+ammo_vog-25p			= 3,	6
+ammo_vog-25			= 3,	6
+grenade_f1			= 3,	5
+grenade_rgd5			= 3,	5
+ammo_m209			= 3,	5
+ammo_7.92x33			= 2,    4
+ammo_7.62x25_p			= 2,    4
+ammo_7.62x25_ps			= 2,    4
+ammo_93x64_sp			= 3,	10
+ammo_93x64_ap			= 3,	10
+ammo_7.62x54r                   = 3,	6
+ammo_7.62x51_fmj                = 3,	9
+ammo_7.62x51_ap                 = 3,	9
+ammo_blaster                    = 3,	10
+; ammo_blaster_original           = 3,	10
+ammo_gauss                      = 3,	10
+ammo_12.7x54                    = 3,	10
+ammo_127x55_fmj                 = 3,	10
+ammo_knife_bak                  ;NO TRADE
+ammo_knife                      ;NO TRADE
+ammo_knife_map                  ;NO TRADE
+ammo_knife_tanto                ;NO TRADE
+
+;Оружие                         
+wpn_pm					= 2,    4
+wpn_pb					= 2,    4
+wpn_fort				= 2,    4
+wpn_hpsa				= 2,    4
+wpn_beretta				= 2,    4
+wpn_walther				= 2,    4
+wpn_sig220				= 2,    4
+wpn_colt1911				= 2,    4
+wpn_usp					= 2,    4
+wpn_desert_eagle			= 3,	6
+wpn_bm16				= 2,    4
+wpn_toz34				= 2,    4
+wpn_wincheaster1300			= 3,	5
+wpn_spas12				= 3,	5
+wpn_ak74u				= 2,    4
+wpn_mp5					= 2,    4
+wpn_ak74				= 2,    4
+wpn_abakan				= 3,	5
+wpn_l85					= 2,    4
+wpn_lr300				= 2,    4
+wpn_sig550				= 3,	5
+wpn_groza				= 3,	5
+wpn_val					= 2,    4
+wpn_vintorez				= 3,	6
+wpn_svu					= 3,	6
+wpn_svd					= 3,	6
+wpn_rg-6				= 3,	6
+wpn_rpg7				= 3,	8
+wpn_g36					= 2,    4
+wpn_fn2000				= 3,	8
+wpn_mp40				= 2,    4
+wpn_stg44                               = 2,    4
+wpn_ppsh                                = 2,    4
+wpn_m4_taktik	                        = 2,    4
+wpn_rpk                                 = 3,	7
+wpn_pkm	                                = 3,	8
+wpn_sr25_mk11_mod0_sk1                  = 2,    4
+wpn_blaster                             ;NO TRADE 
+wpn_gauss                               ;NO TRADE 
+wpn_gaus_m1				;NO TRADE
+wpn_m1000                               ;NO TRADE 
+wpn_vihlop                              ;NO TRADE 
+wpn_warlock                             ;NO TRADE 
+wpn_warlock_error                       ;NO TRADE 
+wpn_glock18c                            = 3,	6
+wpn_glock18c_expert		        = 3,	7
+wpn_mauzer				;NO TRADE 
+wpn_luger                               ;NO TRADE 
+wpn_vepr				= 3,	8
+
+;ADDONS                                 
+wpn_addon_scope				= 3,	10
+wpn_addon_silencer			= 3,	6
+wpn_addon_grenade_launcher		= 3,	10
+wpn_addon_grenade_launcher_m203 	= 3,	10
+wpn_addon_acog				= 3,	10
+
+;Броники                                
+novice_outfit				= 2,    4
+bandit_outfit				= 2,    4
+killer_outfit				= 2,    4
+monolit_outfit				= 2,    4
+specops_outfit				= 2,    4
+military_outfit				= 2,    4
+stalker_outfit				= 2,    4
+scientific_outfit			= 2,    4
+exo_outfit				= 2,    4
+svoboda_light_outfit			= 2,    4
+svoboda_heavy_outfit			= 2,    4
+dolg_outfit				= 2,    4
+dolg_scientific_outfit			= 2,    4
+ecolog_outfit				= 2,    4
+protection_outfit			= 2,    4
+
+;Медикаменты                            
+bandage					= 2,   4
+medkit					= 2,   4
+medkit_scientic				= 2,   4
+medkit_army				= 2,   4
+antirad					= 2,   4
+
+;Детали монстров                        
+mutant_flesh_eye			;NO TRADE 
+mutant_boar_leg				;NO TRADE 
+mutant_dog_tail				;NO TRADE 
+mutant_psevdodog_tail			;NO TRADE 
+mutant_krovosos_jaw			;NO TRADE 
+mutant_burer_hand			;NO TRADE 
+mutant_zombie_hand			;NO TRADE 
+mutant_snork_leg			;NO TRADE 
+
+;Еда                                    
+bread					= 2,   4
+kolbasa					= 2,   4
+conserva				= 2,   4
+vodka					= 2,   4
+energy_drink				= 2,   4
+
+;Предметы                               
+device_torch			;NO TRADE
+detector_simple			= 2,	3 
+detector_advances		= 2,	4 
+detector_elite			= 2,	5 
+device_pda			;NO TRADE
+hand_radio			;NO TRADE
+guitar_a			;NO TRADE
+harmonica_a			;NO TRADE
+
+;Квестовые предметы
+gunslinger_flash		;NO TRADE
+af_blood_tutorial		;NO TRADE
+esc_wounded_flash		;NO TRADE
+quest_case_02			;NO TRADE
+dar_document1			;NO TRADE
+dar_document2			;NO TRADE
+dar_document3			;NO TRADE
+dar_document4			;NO TRADE
+dar_document5			;NO TRADE
+kruglov_flash			;NO TRADE
+lab_x16_documents		;NO TRADE
+good_psy_helmet			;NO TRADE
+bad_psy_helmet			;NO TRADE
+decoder				;NO TRADE
+dynamite			;NO TRADE
+quest_case_01			;NO TRADE
+hunters_toz			;NO TRADE
+bar_ecolog_flash		;NO TRADE
+bar_tiran_pda			;NO TRADE
+bar_lucky_pda			;NO TRADE
+
+;Уникальные предметы
+outfit_novice_m1		;NO TRADE
+outfit_bandit_m1		;NO TRADE
+outfit_dolg_m1			;NO TRADE
+outfit_killer_m1		;NO TRADE
+outfit_specnaz_m1		;NO TRADE
+outfit_stalker_m1		= 3,   6 ;NO TRADE
+outfit_stalker_m2		= 3,   6 ;NO TRADE
+outfit_svoboda_m1		= 3,   6 ;NO TRADE
+outfit_exo_m1			= 3,   8 ;NO TRADE
+wpn_ak74_m1			;NO TRADE
+wpn_abakan_m1			;NO TRADE
+wpn_abakan_m2			;NO TRADE
+wpn_fort_m1			;NO TRADE
+wpn_ak74u_m1			= 3,   6           
+wpn_mp5_m1			= 3,   6           
+wpn_groza_m1			;NO TRADE          
+wpn_spas12_m1			;NO TRADE          
+wpn_winchester_m1		= 3,   6           
+wpn_l85_m1			= 3,   8           
+wpn_lr300_m1			= 3,   8           
+wpn_svd_m1			;NO TRADE          
+wpn_sig_m1			;NO TRADE          
+wpn_eagle_m1			;NO TRADE          
+wpn_colt_m1			= 3,   6           
+wpn_val_m1			;NO TRADE          
+wpn_mp5_m2			;NO TRADE
+wpn_l85_m2			;NO TRADE          
+wpn_sig_m2			;NO TRADE          
+wpn_rg6_m1			= 3,   8           
+wpn_walther_m1			= 3,   6           
+wpn_pm_arena			;NO TRADE
+wpn_mp5_arena			;NO TRADE
+wpn_toz34_arena			;NO TRADE
+wpn_spas12_arena		;NO TRADE
+wpn_ak74_arena			;NO TRADE
+wpn_bm16_arena			;NO TRADE
+wpn_ak74u_arena			;NO TRADE
+wpn_val_arena			;NO TRADE
+wpn_groza_arena			;NO TRADE
+wpn_fn2000_arena		;NO TRADE
+wpn_g36_arena			;NO TRADE
+
+
+af_maska_1                      = 1,	2            
+af_maska_2                      = 1,	2    
+automedic_system                           	;NO TRADE
+radio_scaner                               	;NO TRADE
+ss_document_00                             	;NO TRADE
+ss_document_01                             	;NO TRADE
+ss_document_02                             	;NO TRADE
+ss_document_03                             	;NO TRADE
+ss_document_04                             	;NO TRADE
+ss_document_05                             	;NO TRADE
+ss_document_06                             	;NO TRADE
+ss_document_07                             	;NO TRADE
+ss_document_08                             	;NO TRADE
+ss_document_09                             	;NO TRADE
+ss_document_10                             	;NO TRADE
+ss_document_11                             	;NO TRADE
+ss_document_12                             	;NO TRADE
+ss_document_13                             	;NO TRADE
+malyawa_01                                 	;NO TRADE
+malyawa_02                                 	;NO TRADE
+malyawa_03                                 	;NO TRADE
+malyawa_04					;NO TRADE
+malyawa_05                                      ;NO TRADE
+malyawa_06                                      ;NO TRADE
+malyawa_07                                      ;NO TRADE
+malyawa_08                                      ;NO TRADE
+grc_booklet_stalker                             ;NO TRADE
+grc_booklet_military                            ;NO TRADE
+berkov_code_tables                              ;NO TRADE
+deymos_malyawa                                  ;NO TRADE
+docum_case                                      ;NO TRADE
+amber_box                                       ;NO TRADE
+crucian_pda                                     ;NO TRADE
+unknown_pda                                     ;NO TRADE
+zakhar_pda                                      ;NO TRADE
+renn_pda                                        ;NO TRADE
+molokh_pda                                      ;NO TRADE
+fly_pda                                         ;NO TRADE
+ripley_pda                                      ;NO TRADE
+sniper_pda                                      ;NO TRADE
+shevchuk_pda                                    ;NO TRADE
+simpson_pda                                     ;NO TRADE
+nestor_pda					;NO TRADE
+grigory_pda                                     ;NO TRADE
+ruslan_pda                                      ;NO TRADE
+vadim_pda                                       ;NO TRADE
+sergey_pda                                      ;NO TRADE
+malyawa_heyher                                  ;NO TRADE
+passdoc                                         ;NO TRADE
+s_invertor                                      ;NO TRADE
+ripley_s_invertor                               ;NO TRADE
+kira_pribor                                     ;NO TRADE
+passcia                                         ;NO TRADE
+
+
+monolith_kee_1_active                           ;NO TRADE
+monolith_kee_2_active                           ;NO TRADE
+monolith_kee_3_active                           ;NO TRADE
+monolith_kee_dushman_1_active                   ;NO TRADE
+monolith_kee_dushman_2_active                   ;NO TRADE
+monolith_kee_dushman_3_active                   ;NO TRADE
+monolith_kee_dc_1                               ;NO TRADE
+monolith_kee_dc_2                               ;NO TRADE
+monolith_kee_dc_3				;NO TRADE
+blade_radiokey_1                                ;NO TRADE
+blade_radiokey_2                                ;NO TRADE
+ikona_1                                         ;NO TRADE
+ikona_2                                         ;NO TRADE
+otstoynik_passdoc                               ;NO TRADE
+necronomicon                                    ;NO TRADE
+teuton_malyawa                                  ;NO TRADE
+gena_maljawa                                    ;NO TRADE
+doctor_malyawa                                  ;NO TRADE
+hazar_malyawa                                   ;NO TRADE
+agru_code_malyawa                               ;NO TRADE
+bun_code_malyawa                                ;NO TRADE
+panz_encryption_malyawa                         ;NO TRADE
+reanimator_malyawa                              ;NO TRADE
+waterrat_malyawa                                ;NO TRADE
+announcement_1                                  ;NO TRADE
+announcement_2                                  ;NO TRADE
+announcement_3                                  ;NO TRADE
+announcement_4                                  ;NO TRADE
+announcement_5                                  ;NO TRADE
+announcement_6					;NO TRADE
+announcement_7                                  ;NO TRADE
+hsm_box_1                                       ;NO TRADE
+hsm_box_1_prototype                             ;NO TRADE
+hsm_box_2                                       ;NO TRADE
+hsm_box_2_fake                                  ;NO TRADE
+hsm_box_3                                       ;NO TRADE
+hsm_box_4                                       ;NO TRADE
+hsm_box_5                                       ;NO TRADE
+accesscard_hsm_1                                ;NO TRADE
+accesscard_hsm_2                                ;NO TRADE
+accesscard_sor_monkeyhouse                      ;NO TRADE
+accesscard_hos_security                         ;NO TRADE
+hsm_beacon_1                                    ;NO TRADE
+hsm_beacon_2                                    ;NO TRADE
+hsm_beacon_3                                    ;NO TRADE
+hsm_beacon_4                                    ;NO TRADE
+hsm_beacon_5                                    ;NO TRADE
+broken_pda                                      ;NO TRADE
+shilo_pda                                       ;NO TRADE
+blade_pda                                       ;NO TRADE
+braverman_pda					;NO TRADE
+esc_operator_pda                                ;NO TRADE
+military_stalkers_flash                         ;NO TRADE
+shocker_flash                                   ;NO TRADE
+hos_security_key                                ;NO TRADE
+obsidian_knife                                  ;NO TRADE
+taras_dictophone                                ;NO TRADE
+item_passport_rf                                ;NO TRADE
+item_passport_rff                               ;NO TRADE
+art_red                                         ;NO TRADE
+sor_basement_key                                ;NO TRADE
+sor_jj_key                                      ;NO TRADE

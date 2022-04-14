@@ -1,0 +1,531 @@
+-- группа Водяной Крысы
+function marsh_wrs_hit(sid, draftsman)
+	local terpila = level_object_by_sid(sid)
+	
+	if terpila and terpila:alive() then
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set(0, 0, 0)
+	h.draftsman = draftsman 
+	h.impulse = 10
+	h.type = hit.wound
+	terpila:hit(h)
+	end
+end
+
+function marsh_wrs_targets(actor, npc)
+	local hitter = level_object_by_sid(20322)
+	
+    if hitter then
+	this.marsh_wrs_hit(20323, hitter)
+	this.marsh_wrs_hit(20324, hitter)
+	this.marsh_wrs_hit(20325, hitter)
+	this.marsh_wrs_hit(20326, hitter)
+	this.marsh_wrs_hit(20327, hitter)
+	this.marsh_wrs_hit(20328, hitter)
+	this.marsh_wrs_hit(20329, hitter)
+	this.marsh_wrs_hit(20330, hitter)
+	this.marsh_wrs_hit(20331, hitter)
+	this.marsh_wrs_hit(20332, hitter)
+	this.marsh_wrs_hit(20333, hitter)
+	end
+end
+
+
+
+-- сосычи на Кордоне
+function esc_bloodsucker_hit(sid, draftsman)
+	local terpila = level_object_by_sid(sid)
+	
+	if terpila and terpila:alive() then
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set(0, 0, 0)
+	h.draftsman = draftsman 
+	h.impulse = 10
+	h.type = hit.wound
+	terpila:hit(h)
+	end
+end
+
+function esc_bloodsucker_targets(actor, npc)
+	local hitter = level_object_by_sid(21220)
+	
+    if hitter then
+	this.esc_bloodsucker_hit(21218, hitter)
+	this.esc_bloodsucker_hit(21219, hitter)
+	end
+end
+
+function marsh_bloodsucker_targets(actor, npc)
+	local hitter = level_object_by_sid(21821)
+	
+    if hitter then
+	this.esc_bloodsucker_hit(21825, hitter)
+	end
+end
+
+
+
+-- группа Ялты в ТД
+function val_kill_yalta_group_hit(sid, draftsman)
+	local prisoner = level_object_by_sid(sid)
+	if prisoner == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 1, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 10000
+	h.type = hit.wound
+	prisoner:hit(h)
+end
+
+function val_kill_yalta_group_targets(actor, npc)
+	local hitter = level_object_by_sid(21240)
+    if hitter then
+	
+	this.val_kill_yalta_group_hit(21233, hitter)
+	this.val_kill_yalta_group_hit(21234, hitter)
+	this.val_kill_yalta_group_hit(21235, hitter)
+	end
+end
+
+
+
+-- Золотой в Рыжем Лесе
+function red_gold_hit(sid, draftsman)
+	local gold = level_object_by_sid(sid)
+	if gold == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 10000
+	h.type = hit.wound
+	gold:hit(h)
+end
+
+function red_gold_targets(actor, npc)
+	local hitter = level_object_by_sid(21344)
+    if hitter then
+	
+	this.red_gold_hit(21343, hitter)
+	end
+end
+
+
+
+-- зомбированный снайпер в Рыжем Лесе
+function red_sniper_hit(sid, draftsman)
+	local sniper = level_object_by_sid(sid)
+	if sniper == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 10
+	h.type = hit.wound
+	sniper:hit(h)
+end
+
+function red_sniper_targets(actor, npc)
+	local hitter = level_object_by_sid(21342)
+    if hitter then
+	
+	this.red_sniper_hit(21341, hitter)
+	end
+end
+
+-- Симпсон
+function marsh_simpson_hit(sid, draftsman)
+	local simpson = level_object_by_sid(sid)
+	if simpson == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 1
+	h.type = hit.wound
+	simpson:hit(h)
+end
+
+function marsh_simpson_targets(actor, npc)
+	local hitter = level_object_by_sid(21366)
+    if hitter then
+	
+	this.marsh_simpson_hit(20334, hitter)
+	end
+end
+
+
+-- невидимые мины на Кордоне
+function esc_mine_hit(sid, draftsman)
+	local mine = level_object_by_sid(sid)
+	if mine == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 1
+	h.type = hit.wound
+	mine:hit(h)
+end
+
+function esc_mine_1(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21400, hitter)
+	this.esc_mine_hit(21401, hitter)
+	this.esc_mine_hit(21429, hitter)
+	this.esc_mine_hit(21428, hitter)
+	end
+end
+
+function esc_mine_2(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21402, hitter)
+	this.esc_mine_hit(21403, hitter)
+	this.esc_mine_hit(21427, hitter)
+	this.esc_mine_hit(21426, hitter)
+	end
+end
+
+function esc_mine_3(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21404, hitter)
+	this.esc_mine_hit(21405, hitter)
+	this.esc_mine_hit(21425, hitter)
+	this.esc_mine_hit(21424, hitter)
+	end
+end
+
+function esc_mine_4(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21406, hitter)
+	this.esc_mine_hit(21407, hitter)
+	this.esc_mine_hit(21423, hitter)
+	this.esc_mine_hit(21422, hitter)
+	end
+end
+
+function esc_mine_5(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21408, hitter)
+	this.esc_mine_hit(21409, hitter)
+	this.esc_mine_hit(21421, hitter)
+	this.esc_mine_hit(21420, hitter)
+	end
+end
+
+function esc_mine_6(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21410, hitter)
+	this.esc_mine_hit(21411, hitter)
+	this.esc_mine_hit(21419, hitter)
+	this.esc_mine_hit(21418, hitter)
+	end
+end
+
+function esc_mine_7(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21412, hitter)
+	this.esc_mine_hit(21413, hitter)
+	this.esc_mine_hit(21417, hitter)
+	this.esc_mine_hit(21416, hitter)
+	end
+end
+
+function esc_mine_8(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21414, hitter)
+	this.esc_mine_hit(21415, hitter)
+	this.esc_mine_hit(21430, hitter)
+	this.esc_mine_hit(21431, hitter)
+	end
+end
+
+function esc_mine_9(actor, npc)
+	local hitter = level_object_by_sid(21397)
+    if hitter then
+	this.esc_mine_hit(21399, hitter)
+	this.esc_mine_hit(21432, hitter)
+	this.esc_mine_hit(21433, hitter)
+	end
+end
+
+
+
+-- дрезина
+function drezina_hit(sid, draftsman)
+	local drezina = level_object_by_sid(sid)
+	if drezina == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 0.1
+	h.type = hit.wound
+	drezina:hit(h)
+end
+
+function drezina_targets(actor, npc)
+	local hitter = level_object_by_sid(21398)
+    if hitter then
+	this.drezina_hit(20491, hitter)
+	this.drezina_hit(21393, hitter)
+	end
+end
+
+-- военнсталки в Лиманске
+function lim_kill_warstalks_hit(sid, draftsman)
+	local terpila = level_object_by_sid(sid)
+	
+	if terpila and terpila:alive() then
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set(0, 0, 0)
+	h.draftsman = draftsman 
+	h.impulse = 10
+	h.type = hit.wound
+	terpila:hit(h)
+	end
+end
+
+function lim_kill_warstalks_targets(actor, npc)
+	local hitter = level_object_by_sid(21247)
+	
+    if hitter then
+	this.lim_kill_warstalks_hit(21731, hitter)
+	this.lim_kill_warstalks_hit(21732, hitter)
+	this.lim_kill_warstalks_hit(21733, hitter)
+	this.lim_kill_warstalks_hit(21734, hitter)
+	this.lim_kill_warstalks_hit(21735, hitter)
+	this.lim_kill_warstalks_hit(21736, hitter)
+	this.lim_kill_warstalks_hit(21737, hitter)
+	this.lim_kill_warstalks_hit(21738, hitter)
+	this.lim_kill_warstalks_hit(21739, hitter)
+	this.lim_kill_warstalks_hit(21740, hitter)
+	this.lim_kill_warstalks_hit(21741, hitter)
+	this.lim_kill_warstalks_hit(21742, hitter)
+	this.lim_kill_warstalks_hit(21743, hitter)
+	this.lim_kill_warstalks_hit(21744, hitter)
+	this.lim_kill_warstalks_hit(21745, hitter)
+	this.lim_kill_warstalks_hit(21746, hitter)
+	this.lim_kill_warstalks_hit(21747, hitter)
+	this.lim_kill_warstalks_hit(21748, hitter)
+	this.lim_kill_warstalks_hit(21749, hitter)
+	this.lim_kill_warstalks_hit(21750, hitter)
+	this.lim_kill_warstalks_hit(21751, hitter)
+	this.lim_kill_warstalks_hit(21752, hitter)
+	this.lim_kill_warstalks_hit(21753, hitter)
+	this.lim_kill_warstalks_hit(21754, hitter)
+	end
+end
+
+-- монахи на ЧАЭС
+function monk_hit(sid, draftsman)
+	local monk = level_object_by_sid(sid)
+	if monk == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 10
+	h.type = hit.wound
+	monk:hit(h)
+end
+
+function aes_cliric_1_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21755, hitter)
+	end
+end
+
+function aes_cliric_2_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21756, hitter)
+	end
+end
+
+function aes_cliric_3_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21757, hitter)
+	end
+end
+
+function aes_cliric_4_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21758, hitter)
+	end
+end
+
+function aes_cliric_5_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21759, hitter)
+	end
+end
+
+function aes_cliric_6_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21760, hitter)
+	end
+end
+
+function aes_cliric_7_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21761, hitter)
+	end
+end
+
+function aes_cliric_8_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21762, hitter)
+	end
+end
+
+function aes_cliric_9_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21763, hitter)
+	end
+end
+
+function aes_cliric_10_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21764, hitter)
+	end
+end
+
+function aes_cliric_11_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21765, hitter)
+	end
+end
+
+function aes_cliric_12_target(actor, npc)
+	local hitter = level_object_by_sid(21728)
+    if hitter then
+	this.monk_hit(21766, hitter)
+	end
+end
+
+function borman_hit(sid, draftsman)
+	local borman = level_object_by_sid(sid)
+	if borman == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 1
+	h.type = hit.wound
+	borman:hit(h)
+end
+
+function gen_borman_target(actor, npc)
+	local hitter = level_object_by_sid(21789)
+    if hitter then
+	this.borman_hit(21789, hitter)
+	end
+end
+
+
+
+
+
+
+
+
+function esc_mobile_expl(sid, draftsman)
+	local mbl = level_object_by_sid(sid)
+	if mbl == nil then
+		return
+	end
+	local h = hit()
+	h.power = 1000000
+	h.direction = vector():set( 0, 0, 0 )
+	h.draftsman = draftsman 
+	h.impulse = 0
+	h.type = hit.explosion
+	mbl:hit(h)
+end
+
+function esc_mobile_target_1()
+	local hitter = db.actor
+    if hitter then
+	this.esc_mobile_expl(21372, hitter)
+	this.esc_mobile_expl(19981, hitter)
+	end
+end
+
+function esc_mobile_target_2()
+	local hitter = db.actor
+    if hitter then
+	this.esc_mobile_expl(21373, hitter)
+	this.esc_mobile_expl(19982, hitter)
+	end
+end
+
+function esc_mobile_target_3()
+	local hitter = db.actor
+    if hitter then
+	this.esc_mobile_expl(21374, hitter)
+	this.esc_mobile_expl(19983, hitter)
+	end
+end
+
+function esc_mobile_target_4()
+	local hitter = db.actor
+    if hitter then
+	this.esc_mobile_expl(21375, hitter)
+	this.esc_mobile_expl(19984, hitter)
+	end
+end
+
+function esc_mobile_target_5()
+	local hitter = db.actor
+    if hitter then
+	this.esc_mobile_expl(21376, hitter)
+	this.esc_mobile_expl(19985, hitter)
+	end
+end
+
+function esc_mobile_target_6()
+	local hitter = db.actor
+    if hitter then
+	this.esc_mobile_expl(21371, hitter)
+	this.esc_mobile_expl(19986, hitter)
+	end
+end

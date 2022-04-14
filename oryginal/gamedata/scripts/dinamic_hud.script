@@ -1,0 +1,722 @@
+--------------------------------------------------------------------------------
+--Dinamic HUD from ABC Inferno and AMK
+--by Rulix aka Bak, by OGSE
+--------------------------------------------------------------------------------
+local dh_ini = ini_file("misc\\dinamic_hud.ltx")
+local suithud_enable = rx_utils.read_from_ini(dh_ini,"main","suithud_enable",true,0) -- худ шлема
+--local zoom_enable = rx_utils.read_from_ini(dh_ini,"main","zoom_enable",true,0) -- смещение худа
+local bleed_enable = rx_utils.read_from_ini(dh_ini,"main","bleed_enable",true,0) -- эффект плохого самочувствия
+local hit_enable = rx_utils.read_from_ini(dh_ini,"main","hit_enable",true,0) -- эффект попадания по игроку
+--local brnv_enable = rx_utils.read_from_ini(dh_ini,"main","brnv_enable",true,0) -- сломанный ПНВ
+local shoot_enable = rx_utils.read_from_ini(dh_ini,"main","shoot_enable",true,0) -- эффект стрельбы
+ui_disabled = false
+--------------------------------------------------------------------------------
+
+local no_drop_items = {bolt = true,wpn_knife = true,wpn_binoc = true}
+--------------------------------------------------------------------------------
+local seldom_upd_time,often_upd_time
+--------------------------------------------------------------------------------
+--------------------------------------------------------------------------------
+-- Dynamic HUD from ABC Inferno and AMK by Rulix
+-- Исправлено и доработано для OGSE by OGSE Team 2009-2013
+--------------------------------------------------------------------------------
+
+-- чтобы отключить эффект, поставьте вместо единицы ноль:
+local blurs_enable = 1	--system_ini():r_s32("options","blurs_enable")
+local bleed_enable = 1	--system_ini():r_s32("options","bleed_enable")
+local suithud =      1	--system_ini():r_s32("options","suithud_enable")
+
+local suithud_enable = suithud
+local need_sniper_chek = false
+local mycurrent_suithud
+local suit_condition
+local wotsuittype = ""
+local show_time = true
+
+-- global functions -------------------------------------------------------------------------------------------------
+
+-- Убирание худа при использовании оптического прицела или бинокля -- scope_texture
+
+function need_to_show_time()
+	return show_time
+end
+
+local freemem = 0
+local freemem2 = 0
+function doabcevents()
+	if db.actor == nil then return end
+	
+	local chkfreetime = time_global()
+	if freemem == 0 then freemem = time_global() + 1000 end
+	if chkfreetime > freemem then
+		freemem = 0
+		check_my_suit_hud()
+	end
+	local chkfreetime2 = time_global()
+	if freemem2 == 0 then freemem2 = time_global() + 40 end
+	if chkfreetime2 > freemem2 then
+		freemem2 = 0
+		init_blurs()
+		--zoom_hud()
+		hit_effect()
+		shoot_effect()
+	end
+	local tg = time_global()
+	if tg > (seldom_upd_time or 100) then
+		seldom_upd_time = tg+400
+		bleedcondition()
+	end
+end
+
+-- local functions---------------------------------------------------------------------------------------
+local suithudtype, suithudname
+local smoktime = 0
+function check_my_suit_hud()
+local gmask = db.actor:item_in_slot(10)
+
+
+	if suithud_enable == 0 then return end
+	local gsmktime = time_global()
+	if smoktime == 0 then smoktime = time_global() + 4000 end
+
+	if db.actor ~= nil then
+		local csuithud = db.actor:get_current_outfit()
+		local suithudtype, suithudname
+		if csuithud ~= nil then suithudname = csuithud:section() end
+		
+		if suithudname == nil and gmask then 
+			if gmask:section() == "af_maska_1" then
+				suithudtype = "hud_gazmask"
+--				suithudtype = "hud_exo_red3"
+--				wotsuittype = "hud_exo"
+			elseif gmask:section() == "af_maska_2" then
+				suithudtype = "hud_merc"
+--				suithudtype = "hud_kill_yellow"
+--				wotsuittype = "hud_mil"
+			end
+--log1("Только маска")
+
+		elseif suithudname ~= nil and gmask then
+--log1("костюм и маска")
+			if gmask:section() == "af_maska_1" then
+				suithudtype = "hud_gazmask"
+--				suithudtype = "hud_exo_red3"
+--				wotsuittype = "hud_exo"
+			elseif gmask:section() == "af_maska_2" then
+				suithudtype = "hud_merc"
+--				suithudtype = "hud_kill_yellow"
+--				wotsuittype = "hud_mil"
+			end
+		elseif suithudname ~= nil and not gmask then
+			suit_condition = ""
+			if csuithud:condition() <= 0.25 then suit_condition = "red3" end
+			if csuithud:condition() > 0.25 then suit_condition = "red2" end
+			if csuithud:condition() > 0.60 then suit_condition = "yellow" end
+			if csuithud:condition() > 0.87 then suit_condition = "blue" end
+		
+			if string.find(suithudname, "scientific_outfit") then
+				suithudtype = "hud_sci_" .. suit_condition
+				wotsuittype = "hud_sci"
+			end
+			if string.find(suithudname, "ecolog_outfit") then
+				suithudtype = "hud_sci_" .. suit_condition
+				wotsuittype = "hud_sci"
+			end
+			if string.find(suithudname, "protection_outfit") then
+				suithudtype = "hud_sci_" .. suit_condition
+				wotsuittype = "hud_sci"
+			end
+			if string.find(suithudname, "military_outfit") then
+				suithudtype = "hud_mil_" .. suit_condition
+				wotsuittype = "hud_mil"
+			end
+			if string.find(suithudname, "specops_outfit") then
+				suithudtype = "hud_mil_" .. suit_condition
+				wotsuittype = "hud_mil"
+			end
+			if string.find(suithudname, "outfit_specnaz") then
+				suithudtype = "hud_mil_" .. suit_condition
+				wotsuittype = "hud_mil"
+			end				
+			if string.find(suithudname, "exo_") then
+				suithudtype = "hud_exo_" .. suit_condition
+				wotsuittype = "hud_exo"
+			end
+			if string.find(suithudname, "monolit_exoskeleton") then
+				suithudtype = "hud_exo_" .. suit_condition
+				wotsuittype = "hud_exo"
+			end
+			if string.find(suithudname, "tank_outfit") then
+				suithudtype = "hud_tank_" .. suit_condition
+				wotsuittype = "hud_tank"
+			end
+--log1("закрытый костюм")			--- 
+		else 
+			suithudtype = nil
+--log1("без маски")
+		end
+
+		if check_remove_gasmask() == true then return end	-- проверка надевания противогаза на костюм с худом
+		if not db.actor:alive() then suithudtype = nil end
+		set_my_suit_hud(suithudtype)
+	end
+end
+
+
+----------------------- Смещение худа. В ПС не используется ------------------------------
+local pre_fov = 0
+local precf = 0
+local ztime = time_global()
+local zbias = Frect():set(0,0,1024,768)
+local zenc
+local suithud_1 = mycurrent_suithud
+function zoom_hud()
+
+	if not zoom_enable then
+		return
+	end
+
+	--if hudtype ~= nil then
+		local hud = get_hud():GetCustomStatic(suithud_1)
+
+		if hud then
+			local cf = precf
+			local fov = math.floor((device().fov+0.02)*10)
+			local delta = time_global()-ztime
+			ztime = time_global()
+			if not zenc or fov > 38*10 and pre_fov < fov then
+				zenc = nil
+				if cf > 0 then
+					cf = cf-(delta/400)
+					if cf < 0 then
+						cf = 0
+					end
+				end
+			end
+			if zenc or fov < 58*10 and pre_fov > fov then
+				zenc = true
+				if cf < 1 then
+					cf = cf+(delta/400)
+					if cf > 1 then
+						cf = 1
+					end
+				end
+			end
+			if cf ~= precf then
+				local wpn = db.actor:active_item()
+				if wpn then
+					if wpn:clsid() == clsid.wpn_binocular_s then
+						zbias:set(-100*cf,-100*cf,1024+100*cf,768+100*cf)
+					elseif rx_utils.addon_attached(wpn,"sc") then
+						zbias:set(-350*cf,-175*cf,1024,768+175*cf)
+					else
+						zbias:set(-200*cf,-100*cf,1024,768+100*cf)
+					end
+					hud:wnd():SetWndRect(zbias)
+				elseif precf ~= 0 then
+					zbias:set(0,0,1024,768)
+					hud:wnd():SetWndRect(zbias)
+				end
+				precf = cf
+			end
+			pre_fov = fov
+		end
+	--end
+end
+------------------------------------------------
+
+
+
+
+local suitfirstrun = "yes"
+local breathing_sound
+function set_my_suit_hud(hudtype)
+
+	if hudtype == nil then
+		local wchud = get_hud():GetCustomStatic(mycurrent_suithud)
+		if wchud ~= nil then get_hud():RemoveCustomStatic(mycurrent_suithud) end
+
+--================= звук дыхания ====================
+if breathing_sound and breathing_sound:playing() then
+		breathing_sound:stop() breathing_sound = nil
+end
+--================= звук дыхания ====================
+
+		mycurrent_suithud = nil
+		suitfirstrun = "yes"
+		return
+	end
+	if hudtype ~= mycurrent_suithud then
+		if mycurrent_suithud then
+			get_hud():RemoveCustomStatic(mycurrent_suithud)
+		end
+		if hudtype then
+			get_hud():AddCustomStatic(hudtype)
+			my.hidden_static()
+
+--================= звук дыхания ====================
+if db.actor.power > 0.18 then
+		if not (breathing_sound and breathing_sound:playing()) then
+			breathing_sound = xr_sound.get_safe_sound_object([[actor\gasmask_idle_]]..math.random(2))
+			breathing_sound:play_at_pos(db.actor, vector(), 0, sound_object.s2d + sound_object.looped)
+		end
+end
+--================= звук дыхания ====================
+
+			if string.find(hudtype, wotsuittype) then
+				if suitfirstrun == "no" and suit_condition ~= "green" and suit_condition ~= "blue" then
+					local snd_obj = sound_object("actor\\gasmask_on_fast")
+					if snd_obj then
+						snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 9.0)
+					end
+				end
+				if suitfirstrun == "yes" then suitfirstrun = "no" end
+			end
+		end
+
+	end
+	mycurrent_suithud = hudtype
+end
+
+function init_blurs()
+--log1("~ init_blurs")
+	if blurs_enable == 0 then return end
+	if mycurrent_suithud ~= nil and not string.find(mycurrent_suithud,"_red3") and not string.find(mycurrent_suithud,"hud_sci_") then
+		local zoom=67.5/device().fov
+		zoom=(zoom-1)*1.5+1
+		if zoom<1.001 then
+			zoom=1.001
+		end
+		local stretchy=0.75/(math.floor(device().aspect_ratio*1000)/1000)
+		if stretchy<1 then stretchy=1 end
+		local rect={x=-768*zoom+768,y=(-512*zoom+512)*stretchy-(stretchy-1)*300,w=1024*zoom,h=768*zoom*stretchy}
+		set_blurs(true,rect)
+	else
+		set_blurs(false)
+	end
+end
+
+local blurs=nil
+local blurval=0 -- уровень запотевания от 0 до 1
+local blurlt=0 -- время последнего обновления
+local blurcyctime=0 -- время начала последнего цикла дыхания (выдох)
+local blurlastphase=0
+function set_blurs(enabled,rect)
+	if (not blurs) or get_hud():GetCustomStatic("hud_blur1")==nil then
+		blurs={}
+		for i=1,4 do
+			get_hud():AddCustomStatic("hud_blur"..i)
+			blurs[i]=get_hud():GetCustomStatic("hud_blur"..i):wnd()
+			blurs[i]:SetWidth(0)
+-- убрал я			sm:call("on_hud_show")
+		end
+	end
+	if not enabled then
+		for i=1,4 do
+			blurs[i]:SetWidth(0)
+		end
+		return
+	end
+-- Циклы в зависимости от силы дыхания: 0->1->0 0->1->2->4->5->0 0->1->2->3->4->5->0 5->4->3->4->5 4->3->4
+	local power=db.actor.power
+	local period=1.0+power*power*1.0 -- текущая частота дыхания от 30 до 120 циклов в минуту
+	local expirt=0.3
+	local breathpower=3
+	local delta=(time_global()-blurlt)/1000 -- дельта в секундах
+	local phase=(time_global()-blurcyctime)/1000 -- фаза дыхательного цикла в сек.
+	blurlt=time_global()
+	if phase>period then
+		phase=phase%period
+		blurcyctime=blurlt-phase*1000
+	end
+	if blurlastphase>phase then
+		blurlastphase=0
+	end
+	local blurdelta=delta*-0.7 -- работа вентилляции
+	if blurlastphase<expirt and phase<expirt then
+		blurdelta=blurdelta+(phase-blurlastphase)*breathpower
+	elseif blurlastphase<expirt then
+		blurdelta=blurdelta+(expirt-blurlastphase)*breathpower
+	end
+	blurlastphase=phase
+	blurval=blurval+blurdelta
+	if blurval>0.999 then
+		blurval=0.999
+	elseif blurval<0 then
+		blurval=0
+	end
+	local tm=math.floor(blurval*3)
+	local tmn=(tm+1)
+	local v=blurval*3-math.floor(blurval*3)
+	v=1-v
+	local v1=1-v
+	if tm~=0 then
+		blurs[tm]:SetColor(GetARGB(v*255,255,255,255))
+	end
+	if tmn~=0 then
+		blurs[tmn]:SetColor(GetARGB(v1*255,255,255,255))
+	end
+	for i=1,4 do
+		if i==tm or i==tmn then
+			blurs[i]:SetWndRect(Frect():set(rect.x,rect.y,rect.w,rect.h))
+		else
+			blurs[i]:SetWndRect(Frect():set(rect.x,rect.y,0,0))
+		end
+	end
+end
+
+local counter = 0
+function check_remove_gasmask()
+
+	if not game_options.DinHud or game_options.DinHud == nil then
+		local wchud = get_hud():GetCustomStatic(mycurrent_suithud)
+		if wchud ~= nil then get_hud():RemoveCustomStatic(mycurrent_suithud) end
+		mycurrent_suithud = nil
+	end
+	local bio_belt = db.actor:item_in_slot(10)
+	if have_gasmask() == true and bio_belt then
+		local sect = bio_belt:section()
+		if sect == "af_maska_1" or sect == "af_maska_2" then 
+			db.actor:move_to_ruck(bio_belt)
+			counter = counter + 1
+			if counter and counter == 1 then
+				pda_news = xr_sound.get_safe_sound_object([[device\pda\pda_news]])
+				pda_news:play(db.actor, 0, sound_object.s2d)
+				news_text = game.translate_string("dinhud_gasmask_text")
+				db.actor:give_game_news(news_text, "ui\\ui_iconsTotal", Frect():set(0,188,83,47), 0, 5000)	
+				counter = 0
+			end				
+		end	
+		return true
+	end
+	return false
+end
+
+function have_gasmask()
+	local armor = db.actor:get_current_outfit()
+	local armorname  
+	if armor ~= nil then armorname = armor:section() end 
+	if armorname ~= nil then		
+		if 	string.find(armorname, "monolit_exoskeleton") or
+			string.find(armorname, "military_outfit") or
+			string.find(armorname, "scientific_outfit") or
+			string.find(armorname, "ecolog_outfit") or
+			string.find(armorname, "protection_outfit") or
+			string.find(armorname, "specops_outfit") or
+			string.find(armorname, "outfit_specnaz") or
+			string.find(armorname, "tank_outfit") or
+			string.find(armorname, "exo_") then
+			return true
+		end		
+	end	
+	return false
+end
+
+
+
+
+--------------------------------------------------------------------------
+
+local se_upk
+local wpn_tbl = {}
+local ammon = 0
+local shotc = 1
+local curwpn
+local shott
+--local def_fov = device().fov
+-- actor states
+local EMoveCommand = {}
+EMoveCommand.Fwd = 1 *256
+EMoveCommand.Back = 2 *256
+EMoveCommand.LStrafe = 4 *256
+EMoveCommand.RStrafe = 8 *256
+EMoveCommand.Crouch = 16 *256
+EMoveCommand.Accel = 32 *256
+EMoveCommand.Turn = 64 *256
+EMoveCommand.Jump = 128 *256
+EMoveCommand.Fall = 256 *256
+EMoveCommand.Landing = 512 *256
+EMoveCommand.Landing2 = 1024 *256
+EMoveCommand.Climb = 2048 *256
+EMoveCommand.Sprint = 4096 *256
+EMoveCommand.LLookout = 8192 *256
+EMoveCommand.RLookout = 16384 *256
+
+local function parse_anims(sec)
+	if not se_upk then
+		se_upk = net_packet()
+	end
+	local hud = rx_utils.read_from_ini(nil,sec,"hud","o_O",1)
+	local anim = rx_utils.read_from_ini(nil,hud,"shoot_effect",nil,1) or rx_utils.read_from_ini(dh_ini,hud,"shoot_effect",nil,1)
+	if not anim then
+		anim = rx_utils.read_from_ini(dh_ini,string.lower(rx_utils.read_from_ini(nil,sec,"class","O_o",1)),"shoot_effect",nil,1)
+	end
+	if anim and dh_ini:section_exist(anim) then
+		local tbl = {}
+		tbl.s = rx_utils.parse_list(dh_ini,anim,"strength")
+		tbl.z = dh_ini:line_exist(anim,"strength_aim") and rx_utils.parse_list(dh_ini,anim,"strength_aim")
+		tbl.r = dh_ini:r_s32(anim,"strength_rnd")
+		tbl.e = {}
+		for i=0,5 do
+			local t = rx_utils.parse_list(dh_ini,anim,tostring(i),nil,true)
+			if t[1] > 0 then
+				tbl.e[i] = t
+			end
+		end
+		tbl.fa = dh_ini:r_float(anim,"factor_aim")
+		tbl.fc = dh_ini:r_float(anim,"factor_crouch")
+		tbl.fm = dh_ini:r_float(anim,"factor_move")
+		tbl.p = {}
+		tbl.c = {}
+		local n = dh_ini:line_count(anim)
+--		rx_utils.printf("parse %s for %s lines=%s",anim,sec,n)
+		if n > 11 then
+			for i=6,n-1 do
+				local r,id,val = dh_ini:r_line(anim,i,"","")
+				val = rx_utils.str_explode(",",val,true)
+				if val[2] and tonumber(val[2]) == nil then
+--					rx_utils.printf("i %s r %s id %s val %s %s",i,r,id,val[1],val[2])
+					local shr = "ppe"
+					if val[2] then
+						shr = val[2]
+					end
+					local ex
+					if getFS():exist("$game_anims$",string.format("shoot\\%s.%s",id,shr)) then
+						ex = false
+					elseif getFS():exist("$game_anims$",string.format("shoot\\%s_s1.%s",id,shr)) then
+						ex = true
+					end
+					val[1] = tonumber(val[1])
+					if ex ~= nil and val[1] and val[1] ~= 0 then
+						if shr == "ppe" then
+	--						rx_utils.printf("ppe %s = %s",id,val[1])
+							tbl.p[id] = {f = val[1],s = ex}
+						else
+	--						rx_utils.printf("anm %s = %s",id,val[1])
+							tbl.c[id] = {f = val[1],s = ex}
+						end
+					end
+				end
+			end
+		end
+		wpn_tbl[sec] = tbl
+	else
+		wpn_tbl[sec] = true
+	end
+end
+
+function shoot_effect()
+	if not shoot_enable then
+		return
+	end
+	if shott and shott < time_global() then
+		shotc = 1
+		shott = nil
+	end
+	local wpn = db.actor:active_item()
+	if rx_utils.item_is_fa(wpn) then
+		local sect = wpn:section()
+		if not wpn_tbl[sect] then
+			parse_anims(sect)
+		end
+		if wpn_tbl[sect] ~= true then
+			if wpn:name() == curwpn then
+				local aminmag = wpn:get_ammo_in_magazine()
+				if (aminmag == 0 and aminmag == ammon-1) or (aminmag ~= 0 and aminmag < ammon) then
+					local w,f = wpn_tbl[sect],1
+					-- получим состояние прицеливания
+					local zoom	-- = def_fov-device().fov > 0.01
+					local swpn = alife():object(wpn:id())
+					if swpn then
+						se_upk:w_begin(0)
+						swpn:UPDATE_Write(se_upk)
+						local size = se_upk:w_tell()
+						se_upk:r_seek(size > 13 and 10 or size-2)	-- upd weapon_zoom (u8) m_bZoomMode
+						zoom = se_upk:r_u8()
+					end
+					-- получим состояние актора
+					se_upk:w_begin(0)
+					alife():actor():UPDATE_Write(se_upk)
+					se_upk:r_seek(41)	-- upd state (u16) (mstate_real & 0x0000ffff)
+					local state = se_upk:r_u16()
+					if bit_and(state,EMoveCommand.Fwd) == EMoveCommand.Fwd
+					or bit_and(state,EMoveCommand.LStrafe) == EMoveCommand.LStrafe
+					or bit_and(state,EMoveCommand.RStrafe) == EMoveCommand.RStrafe
+					or bit_and(state,EMoveCommand.Back) == EMoveCommand.Back
+					then
+						f = f * w.fm
+					end
+					if bit_and(state,EMoveCommand.Crouch) == EMoveCommand.Crouch then
+						f = f * w.fc
+					end
+					if zoom == 1 then
+						f = f * w.fa
+					end
+--					rx_utils.prints("w_tell "..tostring(se_upk:w_tell()))
+--					rx_utils.prints("state "..tostring(state))
+--					rx_utils.prints("zoom "..tostring(zoom == 1).." f "..tostring(f))
+					shoot_anim(w,f,zoom == 1)
+				end
+				ammon = aminmag
+			else
+				curwpn = wpn:name()
+				ammon = wpn:get_ammo_in_magazine()
+			end
+		else
+			curwpn = nil
+		end
+	else
+		curwpn = nil
+	end
+end
+
+function shoot_anim(w,fc,zoom)
+	local anims = {}
+	local s = zoom and w.z or w.s
+	if #s > 1 then
+		if w.r == 1 then
+			s = s[math.random(#s)]
+		elseif w.r == 2 then
+			if shotc == 1 then
+				s = shotc
+			else
+				s = s[math.random(2,#s)]
+			end
+		else
+			local sc = #s
+			sc = shotc <= sc and shotc or (sc > 2 and math.random(sc-1,sc)) or sc
+			s = s[sc]
+		end
+	else
+		s = s[1]
+	end
+	-- добавляем кам эффект отдачи
+	for i,v in pairs(w.e) do
+		local cnt,r = math.modf(v[1] > 1 and math.max(v[1]*fc,1) or v[1]*fc)
+		if cnt > 0 and r > 0 then
+			cnt,r = math.modf(cnt+cnt*math.random(0,r*100)*0.01)
+		end
+		if math.random() < r then
+			cnt = cnt+1
+		end
+		if cnt > 0 then
+			local dir = v[2]
+			if not dir then
+				dir = math.random(0,1)
+			end
+			local n = string.format([[shoot\s%s_e%s_%s.anm]],s,i,dir)
+			for ii=1,cnt do
+				level.add_cam_effector(n,math.random(5000,8000),false,"")
+			end
+		end
+	end
+	-- добавляем кастомные кам эффекты
+	for k,v in pairs(w.c) do
+		local cnt,r = math.modf(v.f)
+--		if r > 0 then
+--			cnt = cnt+cnt*math.random(0,r*100)/100
+--			cnt,r = math.modf(cnt)
+--		end
+--		if r > 0 and math.random() < r then
+--			cnt = cnt+1
+--		end
+		local n = v.s and string.format([[shoot\%s_s%s.anm]],k,s) or string.format([[shoot\%s.anm]],k)
+		for i=1,cnt do
+			level.add_cam_effector(n,math.random(8000,9000),false,"")
+		end
+	end
+	-- добавляем постпроцес эффекты
+	for k,v in pairs(w.p) do
+		local n = v.s and string.format([[shoot\%s_s%s.ppe]],k,s) or string.format([[shoot\%s.ppe]],k)
+		local cnt,f = math.modf(v.f)
+		if f > 0 then
+			cnt = cnt+1
+		end
+		for i=1,cnt do
+			local eid = math.random(5000,8000)
+			level.add_pp_effector(n,eid,false)
+			if f > 0 and i == 1 then
+				level.set_pp_effector_factor(eid,f)
+			end
+		end
+	end
+	shotc = shotc+1
+	shott = time_global()+300
+end
+
+
+local prev_health = 0
+function hit_effect()
+	if not hit_enable then
+		return
+	end
+	if prev_health > db.actor.health+0.05 then
+		level.add_pp_effector("amk_shoot.ppe",2011,false)
+		level.set_pp_effector_factor(2011,(prev_health-db.actor.health)*100)
+		if prev_health > db.actor.health+0.2 then
+			local cameffs,sounds
+			if prev_health > db.actor.health+0.5 then
+				level.add_pp_effector("total_recall.ppe",2016,false)
+				level.set_pp_effector_factor(2016,(prev_health-db.actor.health)*100)
+				cameffs = {"head_shot","fusker"}
+				sounds = {"pain_4","pain_1","hit_5","hit_6"}
+			else
+				cameffs = {"shell_shock","hit_front","hit_right","hit_back","hit_left","hit_front_left","hit_back_left","hit_front_right","hit_back_right"}
+				sounds = {"pain_2","pain_3","pain_5","pain_6","pain_7","pain_8"}
+			end
+			if not shott then
+				level.add_cam_effector("camera_effects\\"..cameffs[math.random(#cameffs)]..".anm",999,false,"")
+			end
+			local snd_obj = sound_object("actor\\"..sounds[math.random(#sounds)])
+			snd_obj:play(db.actor,0,sound_object.s2d)
+			if math.random() < (prev_health-db.actor.health)/2.5 then
+				local active_item = db.actor:active_item()
+				if active_item and not no_drop_items[active_item:section()] then
+					db.actor:drop_item(active_item)
+				end
+			end
+		end
+	end
+	prev_health = db.actor.health
+end
+
+-----------------------------------------------
+local isactcondset = false
+local radeffect = false
+local ble1 = 0
+local ble2 = false
+function bleedcondition()
+--log1("! bleedcondition")
+	if not bleed_enable then
+		return
+	end
+	if db.actor.health < 0.31 and isactcondset ~= true then
+		level.add_pp_effector("alcohol.ppe",2012,true)
+		isactcondset = true
+	end
+	if db.actor.health > 0.30 and isactcondset ~= false then
+		level.remove_pp_effector(2012)
+		isactcondset = false
+	end
+	if db.actor.radiation > 0.3 and radeffect ~= true then
+		level.add_pp_effector("alcohol.ppe",2013,true)
+		radeffect = true
+	end
+	if db.actor.radiation == 0 and radeffect ~= false then
+		level.remove_pp_effector(2013)
+		radeffect = false
+	end
+	if db.actor:get_bleeding() > 0.5 and db.actor.health < 0.4 and ble1 < time_global() then
+		level.add_pp_effector("deimos1.ppe",2014,false)
+		ble1 = time_global()+math.random(4000,10000)
+	end
+	if db.actor:get_bleeding() > 0.4 and db.actor.power < 0.35 and ble2 ~= true then
+		level.add_cam_effector("camera_effects\\pripyat_horror.anm",1001,false,"")
+		level.add_pp_effector("snd_shock.ppe",2015,true)
+		ble2 = true
+	end
+	if db.actor:get_bleeding() < 0.2 or db.actor.power > 0.7 and ble2 ~= false then
+		level.remove_pp_effector(2015)
+		ble2 = false
+	end
+end

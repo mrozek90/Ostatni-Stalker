@@ -1,0 +1,193 @@
+;;;;;;;;;;;;;;;;;;;;; HK MP5 A3 ;;;;;;;;;;;;;;;;;;;;
+;---------------------------------------------------
+[wpn_mp5]:identity_immunities
+GroupControlSection		= spawn_group
+discovery_dependency 	= 
+$spawn                  = "weapons\mp5"					; option for Level Editor
+$npc			 		= on				; option for Level Editor
+$prefetch 		 		= 8
+scheduled               = off              ; option for ALife Simulator
+cform                   = skeleton
+class                   = WP_LR300
+min_radius              = 0
+max_radius              = 50
+description				= enc_weapons1_wpn-mp5
+
+ef_main_weapon_type		= 2
+ef_weapon_type			= 6
+
+;-----------------------------------------------------------------------------------
+holder_range_modifier	= 1.0		       ; во сколько раз увеличивается eye_range 
+holder_fov_modifier	= 0.7              ; во сколько раз увеличивается eye_fov
+;-----------------------------------------------------------------------------------
+
+weapon_class			= assault_rifle
+
+cost				= 3600
+
+ammo_limit		 		= 210
+ammo_current			= 30
+ammo_elapsed		 	= 30
+
+ammo_mag_size		 	= 30
+ammo_class		 		= ammo_9x19_fmj, ammo_9x19_pbp 
+fire_modes				= 1, 2, 3, -1
+
+hand_dependence		 	= 1
+single_handed			= 0
+
+inv_name			= wpn-mp5
+inv_name_short			= wpn-mp5
+inv_weight			= 2.5
+
+inv_grid_width			= 4
+inv_grid_height			= 2
+inv_grid_x			= 29
+inv_grid_y			= 5
+
+kill_msg_x		= 72
+kill_msg_y		= 82
+kill_msg_width		= 56
+kill_msg_height		= 23
+
+slot 				= 2		; // secondary
+animation_slot			= 8 ;2		; type of the animation that will be used
+
+;-----------------------------------------------------------------------------------
+;базовая дисперсия
+fire_dispersion_base		= 0.20 ;0.33 	;угол (в градусах) базовой дисперсии оружия (оружия зажатого в тисках)
+control_inertion_factor		= 1.07f
+
+;отдача
+cam_relax_speed        		= 6.5;0.2	;скорость возврата в исходное положение
+cam_dispersion         		= 0.25	;увеличения угла (в градусах) с каждым выстрелом
+cam_dispersion_inc		= 0.05	;увеличениe cam_dispersion с каждым выстрелом
+cam_dispertion_frac		= 0.4	;ствол будет подыматься на cam_dispersion*cam_dispertion_frac +- cam_dispersion*(1-cam_dispertion_frac)
+cam_max_angle			= 6.0	;максимальный угол отдачи
+cam_max_angle_horz		= 9.0	;(degree) maximum shot horizontal degree 
+cam_step_angle_horz		= 0.35;0.3	;(degree) size of step camera moved in horizontal position while shooting
+
+fire_dispersion_condition_factor = 5	;увеличение дисперсии в процентах при максимальном износе 
+misfire_probability 		 = 0.003	;вероятность осечки при максимальном износе 
+misfire_condition_k			= 0.05
+condition_shot_dec 			= 0.0002 ;увеличение износа при каждом выстреле
+;-----------------------------------------------------------------------------------
+
+direction               = 0, 0, 1
+
+fire_point              = 0.0, 0.205, 0.398  ;0.0, 0.188, 0.392
+
+flame_particles		= weapons\generic_weapon05
+smoke_particles         = weapons\generic_shoot_00
+
+shell_point		 		= 0.0, 0.188, 0.082
+shell_dir		 		= 0.0, 1.0, 0.0
+shell_particles	 		= weapons\9x19
+
+rpm_empty_click 	 	= 200
+
+PDM_disp_base 			= 1.0
+PDM_disp_vel_factor 		= 0.8
+PDM_disp_accel_factor 		= 0.8
+PDM_crouch	 		= 1.0
+PDM_crouch_no_acc 		= 1.0
+
+;;;;;;; Для "Последний Сталкер"
+hit_power        	= 0.54
+hit_impulse		= 50
+hit_type 			= fire_wound
+fire_distance          	= 150 
+bullet_speed		= 460  ;400	;начальная скорость пули
+rpm                     = 800
+; end ttc
+
+use_aim_bullet				= true		;Поддерживается ли первая суппер пуля
+time_to_aim				= 1.0	
+
+silencer_hit_power       	= 0.5
+silencer_hit_impulse	 	= 42
+silencer_fire_distance   	= 130
+silencer_bullet_speed	 	= 420
+
+hud                     = wpn_mp5_hud
+normal                  = 0, 1, 0
+position                = -0.022, -0.128, 0.0
+orientation             = 0, 0, 0
+
+;--STRAP PARAMETERS-----------------------------------------------------------------
+strap_position         		= -0.16,-0.36,0.15			; position (offset) and orientation of the weapon when it is strapped
+strap_orientation      		= -10,-5,10					; (3rd person view in degrees)
+strap_bone0					= bip01_spine2
+strap_bone1					= bip01_spine1
+
+startup_ammo            = 1000
+visual                  = weapons\mp5\wpn_mp5.ogf
+
+light_color		 	= 0.6,0.5,0.3
+light_range		 	= 5
+light_var_color		 	= 0.05
+light_var_range		 	= 0.1
+light_time 		 	= 0.2
+
+ph_mass			 		= 3
+;cost			 		= 2500
+
+;addons
+scope_status			= 0
+silencer_status			= 2
+grenade_launcher_status	        = 0
+
+silencer_name  				= wpn_addon_silencer
+silencer_x 					= 182
+silencer_y 					= 13
+
+;silencer_flame_particles 	= weapons\generic_weapon01
+; silencer_smoke_particles 	= weapons\generic_shoot_00
+
+silencer_light_color		= 0.6,0.5,0.3
+silencer_light_range		= 2
+silencer_light_var_color	= 0.05
+silencer_light_var_range	= 0.5
+silencer_light_time 		= 0.2
+
+zoom_enabled		    = true
+scope_zoom_factor	    = 60
+
+;звуки
+snd_draw			= weapons\mp5\mp5_draw
+snd_holster			= weapons\generic_holster
+snd_shoot			= weapons\mp5\mp5_shoot
+snd_empty			= weapons\mp5\mp5_empty
+snd_reload			= weapons\mp5\mp5_reload
+snd_silncer_shot		= weapons\mp5\mp5_shot_sil
+silencer_smoke_particles 	= weapons\generic_shoot_00
+
+[wpn_mp5_hud]
+
+shell_point          	= 0.00000,0.080000,-0.210000
+shell_dir               = 0.0, 1.0, 0.0
+shell_bone              = gilza
+
+fire_point		= 0.000000,0.060000,-0.0850000 ;0.000000,0.060000,-0.000000
+fire_bone               = wpn_body
+
+position		= 0.05500,-0.0263000,0.300000
+orientation		= 0.000000,0.000000,0.000000
+visual                  = weapons\mp5\wpn_mp5_hud.ogf
+
+anim_idle		= mp5_idle
+anim_idle_aim		= mp5_idle_aim
+anim_reload		= mp5_reload
+anim_draw		= mp5_draw
+anim_holster		= mp5_holster
+anim_shoot		= mp5_shoot
+anim_idle_sprint	= mp5_idle_sprint
+;anim_idle_moving    	= mp5_idle_moving
+
+
+;смещения HUD для режима приближения
+  
+
+zoom_offset		= -0.123500,0.054900,-0.127000
+zoom_rotate_x		= 0.005850
+zoom_rotate_y		= -0.000400              

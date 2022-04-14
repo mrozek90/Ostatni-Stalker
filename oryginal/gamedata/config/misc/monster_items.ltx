@@ -1,0 +1,603 @@
+[mutant_flesh_eye]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_flesh_eye"
+;$prefetch 			= 32
+class				= II_BOTTL
+cform				= skeleton
+visual				= equipments\item_flesh_eye.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_flesh_eye
+inv_name_short		= mutant_flesh_eye
+description			= mutant_flesh_eye_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 8
+inv_grid_y			= 19
+cost				= 300
+
+; eatable item
+eat_health = -0.95
+eat_satiety = -0.8
+eat_power = 0
+eat_radiation = 0.05
+wounds_heal_perc = 0
+eat_portions_num = -1
+eat_alcohol		= 1.5
+
+; food item
+slot				= 4
+animation_slot		= 4
+
+
+
+[mutant_boar_leg]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_boar_leg" ;"food and drugs\conserva"
+;$prefetch 			= 32
+class				= II_FOOD
+cform				= skeleton
+visual				= equipments\item_boar_leg.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_boar_leg
+inv_name_short		= mutant_boar_leg
+description			= mutant_boar_leg_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 11
+inv_grid_y			= 1
+cost				= 800
+
+; eatable item
+eat_health = -0.05
+eat_satiety = 0.32
+eat_power = 0
+eat_radiation = 0.001
+wounds_heal_perc = 0
+eat_portions_num = -1
+
+; food item
+slot				= 4
+animation_slot		= 4
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;-- Части, после кулинарной обработки.
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[mutant_boar_leg_cook]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_boar_leg_cook" ;"food and drugs\conserva"
+;$prefetch 			= 32
+class				= II_FOOD
+cform				= skeleton
+visual				= equipments\item_boar_leg.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_boar_leg_cook
+inv_name_short		= mutant_boar_leg_cook
+description			= mutant_boar_leg_cook_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 11
+inv_grid_y			= 1
+cost				= 2800
+
+; eatable item
+eat_health = 0.55
+eat_satiety = 0.98
+eat_power = 0.5
+eat_radiation = 0
+wounds_heal_perc = 0.1
+eat_portions_num = -1
+
+; food item
+slot				= 4
+animation_slot		= 4
+
+[mutant_krovosos_jaw_cook]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_krovosos_jaw_cook"
+;$prefetch 			= 32
+class				= II_FOOD
+cform				= skeleton
+visual				= equipments\item_krovosos_jaw.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_krovosos_jaw_cook
+inv_name_short		= mutant_krovosos_jaw_cook
+description			= mutant_krovosos_jaw_cook_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 18
+inv_grid_y			= 7
+cost				= 5000
+
+; eatable item
+eat_health = 0.55
+eat_satiety = 0.98
+eat_power = 0.5
+eat_radiation = -0.02
+wounds_heal_perc = 0.1
+eat_portions_num = -1
+
+; food item
+slot				= 4
+animation_slot		= 4
+
+[mutant_flesh_eye_cook]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_flesh_eye_cook"
+;$prefetch 			= 32
+class				= II_BOTTL
+cform				= skeleton
+visual				= equipments\item_flesh_eye.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_flesh_eye_cook
+inv_name_short		= mutant_flesh_eye_cook
+description			= mutant_flesh_eye_cook_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 8
+inv_grid_y			= 19
+cost				= 3300
+
+; eatable item
+eat_health = 0.05
+eat_satiety = 0.68
+eat_power = 0.5
+eat_radiation = -0.05
+wounds_heal_perc = 0.05
+eat_portions_num = -1
+eat_alcohol		= 0.05
+
+; food item
+slot				= 4
+animation_slot		= 4
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+
+
+
+[mutant_dog_tail]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_dog_tail"
+;$prefetch 			= 32
+class				= II_ATTCH
+cform				= skeleton
+visual				= equipments\item_dog_tail.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_dog_tail
+inv_name_short		= mutant_dog_tail
+description			= mutant_dog_tail_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 9
+inv_grid_y			= 1
+cost				= 500
+
+
+[mutant_psevdodog_tail]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_psevdodog_tail"
+;$prefetch 			= 32
+class				= II_ATTCH
+cform				= skeleton
+visual				= equipments\item_psevdodog_tail.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_psevdodog_tail
+inv_name_short		= mutant_psevdodog_tail
+description			= mutant_psevdodog_tail_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 9
+inv_grid_y			= 19
+cost				= 1500
+
+
+[mutant_krovosos_jaw]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_krovosos_jaw"
+;$prefetch 			= 32
+class				= II_FOOD
+cform				= skeleton
+visual				= equipments\item_krovosos_jaw.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_krovosos_jaw
+inv_name_short		= mutant_krovosos_jaw
+description			= mutant_krovosos_jaw_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 18
+inv_grid_y			= 7
+cost				= 3000
+
+; eatable item
+eat_health = -0.05
+eat_satiety = 0.32
+eat_power = 0
+eat_radiation = 0.001
+wounds_heal_perc = 0
+eat_portions_num = -1
+
+; food item
+slot				= 4
+animation_slot		= 4
+
+
+[mutant_burer_hand]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_burer_hand"
+;$prefetch 			= 32
+class				= II_ATTCH
+cform				= skeleton
+visual				= equipments\item_burer_hand.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_burer_hand
+inv_name_short		= mutant_burer_hand
+description			= mutant_burer_hand_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 13
+inv_grid_y			= 12
+cost				= 2000
+belt				= true
+
+
+[mutant_zombie_hand]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_zombie_hand"
+;$prefetch 			= 32
+class				= II_ATTCH
+cform				= skeleton
+visual				= equipments\item_zombie_hand.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_zombie_hand
+inv_name_short		= mutant_zombie_hand
+description			= mutant_zombie_hand_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 10
+inv_grid_y			= 1
+cost				= 200
+belt				= true
+
+
+[mutant_snork_leg]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn 				= "devices\monster_items\mutant_snork_leg"
+;$prefetch 			= 32
+class				= II_ATTCH
+cform				= skeleton
+visual				= equipments\item_snork_leg.ogf
+radius				= 1
+;script_binding		= stalker.object_init
+
+inv_name			= mutant_snork_leg
+inv_name_short		= mutant_snork_leg
+description			= mutant_snork_leg_description
+inv_weight			= 0.2
+can_trade			= on
+inv_grid_width		= 1
+inv_grid_height		= 1
+inv_grid_x			= 14
+inv_grid_y			= 19
+cost				= 1100
+
+[af_electra_moonlight_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_electra1.ogf 
+description			= enc_zone_artifact_af-electra-moonlight
+inv_name			= af-electra-moonlight
+inv_name_short		= 
+inv_grid_x			= 10
+inv_grid_y			= 10
+cost				= 20000
+belt				= true
+
+[af_medusa_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_blackdrip.ogf  
+description			= enc_zone_artifact_af-medusa
+inv_name			= af-medusa
+inv_name_short		= 
+inv_grid_x			= 9
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_cristall_flower_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_blackdrip_2.ogf  
+description			= enc_zone_artifact_af-cristall-flower
+inv_name			= af-cristall-flower
+inv_name_short		= 
+inv_grid_x			= 11
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_night_star_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_blackdrip_1.ogf  
+description			= enc_zone_artifact_af-night-star
+inv_name			= af-night-star
+inv_name_short		= 
+inv_grid_x			= 10
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_vyvert_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_gravy1.ogf  
+description			= enc_zone_artifact_af-vyvert
+inv_name			= af-vyvert
+inv_name_short		= 
+inv_grid_x			= 14
+inv_grid_y			= 0
+cost				= 20000
+belt				= true
+
+[af_gravi_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_gravy2.ogf  
+description			= enc_zone_artifact_af-gravi
+inv_name			= af-gravi
+inv_name_short		= 
+inv_grid_x			= 15
+inv_grid_y			= 0
+cost				= 20000
+belt				= true
+
+[af_gold_fish_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_gravy3.ogf  
+description			= enc_zone_artifact_af-gold-fish
+inv_name			= af-gold-fish
+inv_name_short		= 
+inv_grid_x			= 16
+inv_grid_y			= 0
+cost				= 20000
+belt				= true
+
+[af_drops_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_kaply.ogf
+description			= enc_zone_artifact_af-drops
+inv_name			= af-drops
+inv_name_short		= 
+inv_grid_x			= 12
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_fireball_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_fire.ogf
+description			= enc_zone_artifact_af-fireball
+inv_name			= af-fireball
+inv_name_short		= 
+inv_grid_x			= 13
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_cristall_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_cristall.ogf
+description			= enc_zone_artifact_af-cristall
+inv_name			= af-cristall
+inv_name_short		= 
+inv_grid_x			= 14
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_blood_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_myasorubka1.ogf
+description			= enc_zone_artifact_af-blood
+inv_name			= af-blood
+inv_name_short		= 
+inv_grid_x			= 17
+inv_grid_y			= 0
+cost				= 20000
+belt				= true
+
+[af_mincer_meat_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_myasorubka2.ogf
+description			= enc_zone_artifact_af-mincer-meat
+inv_name			= af-mincer-meat
+inv_name_short		= 
+inv_grid_x			= 18
+inv_grid_y			= 16
+cost				= 20000
+belt				= true
+
+[af_soul_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_myasorubka3.ogf 
+description			= enc_zone_artifact_af-soul
+inv_name			= af-soul
+inv_name_short		= 
+inv_grid_x			= 19
+inv_grid_y			= 16
+cost				= 20000
+belt				= true
+
+[af_electra_sparkler_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_electra4.ogf
+description			= enc_zone_artifact_af-electra-sparkler 
+inv_name			= af-electra-sparkler
+inv_name_short		= 
+inv_grid_x			= 8
+inv_grid_y			= 11
+cost				= 20000
+belt				= true
+
+[af_electra_flash_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_electra3.ogf
+description			= enc_zone_artifact_af-electra-flash
+inv_name			= af-electra-flash
+inv_name_short		= 
+inv_grid_x			= 4
+inv_grid_y			= 8
+cost				= 20000
+belt				= true
+
+[af_ameba_slime_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_ameba3.ogf
+description			= enc_zone_artifact_af-ameba-slime
+inv_name			= af-ameba-slime
+inv_name_short		= 
+inv_grid_x			= 7
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_ameba_slug_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_ameba2.ogf
+description			= enc_zone_artifact_af-ameba-slug
+inv_name			= af-ameba-slug
+inv_name_short		= 
+inv_grid_x			= 6
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_ameba_mica_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_ameba1.ogf
+description			= enc_zone_artifact_af-ameba-mica
+inv_name			= af-ameba-mica
+inv_name_short		= 
+inv_grid_x			= 5
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_dummy_spring_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_pustishka.ogf
+description			= enc_zone_artifact_af-dummy-spring
+inv_name			= af-dummy-spring
+inv_name_short		= 
+inv_grid_x			= 14
+inv_grid_y			= 1
+cost				= 20000
+belt				= true
+
+[af_dummy_dummy_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_pustishka1.ogf
+description			= enc_zone_artifact_af-dummy-dummy
+inv_name			= af-dummy-battery
+inv_name_short		= 
+inv_grid_x			= 19
+inv_grid_y			= 6
+cost				= 20000
+belt				= true
+
+[af_dummy_battery_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_battery.ogf
+description			= enc_zone_artifact_af-dummy-battery
+inv_name			= af-dummy-battery
+inv_name_short		= 
+inv_grid_x			= 8
+inv_grid_y			= 4
+cost				= 20000
+belt				= true
+
+[af_dummy_pellicle_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_plenka.ogf
+description			= enc_zone_artifact_af-dummy-pellicle
+inv_name			= af-dummy-pellicle
+inv_name_short		= 
+inv_grid_x			= 4
+inv_grid_y			= 9
+cost				= 20000
+belt				= true
+
+[af_dummy_glassbeads_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_spiral.ogf
+description			= enc_zone_artifact_af-dummy-glassbeads
+inv_name			= af-dummy-glassbeads
+inv_name_short		= 
+inv_grid_x			= 16
+inv_grid_y			= 1
+cost				= 20000
+belt				= true
+
+[af_rusty_thorn_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_needles1.ogf
+description			= enc_zone_artifact_af-rusty-thorn
+inv_name			= af-rusty-thorn
+inv_name_short		= 
+inv_grid_x			= 9
+inv_grid_y			= 11
+cost				= 20000
+belt				= true
+
+[af_rusty_kristall_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_needles2.ogf
+description			= enc_zone_artifact_af-rusty-kristall
+inv_name			= af-rusty-kristall
+inv_name_short		= 
+inv_grid_x			= 9
+inv_grid_y			= 10
+cost				= 20000
+belt				= true
+
+[af_rusty_sea_urchin_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_rusty_hairs.ogf
+description			= enc_zone_artifact_af-rusty-sea-urchin
+inv_name			= af-rusty-sea-urchin
+inv_name_short		= 
+inv_grid_x			= 15
+inv_grid_y			= 1
+cost				= 20000
+belt				= true
+
+[af_fuzz_kolobok_zombie]:mutant_zombie_hand
+visual				= physics\anomaly\artefact_rusty_hairs.ogf
+description			= enc_zone_artifact_af-fuzz-kolobok
+inv_name			= af-fuzz-kolobok
+inv_name_short		= 
+inv_grid_x			= 17
+inv_grid_y			= 1
+cost				= 20000
+belt				= true
+

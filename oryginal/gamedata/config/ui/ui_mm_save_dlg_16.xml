@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<window>
+	<back_video x="0" y="0" width="1024" height="430">
+		<texture x="0" y="0" width="1024" height="430">ui\ui_mm_window_back_crop</texture>
+	</back_video>
+
+	<_back_video x="0" y="0" width="1024" height="512" stretch="1">
+		<texture>ui\ui_vid_back_02</texture>
+	</_back_video>
+	
+	<background x="0" y="0" width="1024" height="768">
+		<texture>ui\ui_mm_load_ls_16</texture>
+	</background>
+
+	<newspaper_video x="137" y="512" width="256" height="256">
+		<texture></texture>
+	</newspaper_video>
+	
+	<form x="667" y="162" width="560" height="660">
+	    <texture></texture>
+	    <caption x="-50" y="10" width="300" height="30">
+		    <text font="graffiti22" align="c">ui_mm_save_game</text>
+	    </caption>
+	    <edit x="30" y="105" width="300" height="23" file_name_mode="1">
+		    <texture>ui_inGame2_edit_box_1</texture>
+		    <text x="10" font="letterica18" vert_align="c"/>
+	    </edit>
+
+	    <list_frame x="30" y="135" width="300" height="300">
+		    <texture>ui_inGame2_listbox</texture>
+	    </list_frame>
+
+	    <list x="38" y="138" width="292" height="298" item_height="18">
+		    <font font="letterica16"/>
+	    </list>
+
+<button_check_engrus x="30" y="75" width="44" height="29">
+<texture>ui_inGame2_checkbox</texture>
+			<text font="arial_14" r="242" g="245" b="8">ui_mm_engrus</text>
+		</button_check_engrus>
+<cap_button_check_engrus x="-10" y="41" width="135" height="24">
+            <text r="242" g="245" b="8" font="arial_14" align="r" vert_align="c">ui_mm_engrus</text>
+        </cap_button_check_engrus>
+				
+	    <btn_save x="27" y="510" width="95" height="26">
+	        <texture>ui_inGame2_Mp_bigbuttone_16</texture>
+	        <text font="letterica18">ui_mm_save</text>
+			<text_color>
+				<e r="170" g="170" b="170"/>
+ 				<t r="180" g="153" b="155"/>
+ 				<d r="106" g="95" b="91"/>
+ 				<h r="0" g="0" b="0"/>
+			</text_color>
+	    </btn_save>
+	    <btn_delete x="123" y="510" width="95" height="26">
+	        <texture>ui_inGame2_Mp_bigbuttone_16</texture>
+	        <text font="letterica18">ui_mm_delete</text>
+			<text_color>
+				<e r="170" g="170" b="170"/>
+ 				<t r="180" g="153" b="155"/>
+ 				<d r="106" g="95" b="91"/>
+ 				<h r="0" g="0" b="0"/>
+			</text_color>
+	    </btn_delete>
+	    <btn_cancel x="218" y="510" width="95" height="26">
+	        <texture>ui_inGame2_Mp_bigbuttone_16</texture>
+	        <text font="letterica18">ui_mm_cancel</text>
+			<text_color>
+				<e r="170" g="170" b="170"/>
+ 				<t r="180" g="153" b="155"/>
+ 				<d r="106" g="95" b="91"/>
+ 				<h r="0" g="0" b="0"/>
+			</text_color>
+	    </btn_cancel>
+	</form>
+
+
+</window>

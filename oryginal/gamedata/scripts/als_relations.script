@@ -1,0 +1,81 @@
+function nato_default()
+	relation_registry.set_community_goodwill ("nato", db.actor:id(), 0)
+end
+
+function nato_up()
+	relation_registry.change_community_goodwill("nato", db.actor:id(), (5000))
+end
+
+function nato_down()
+	relation_registry.change_community_goodwill("nato", db.actor:id(), (-5000))
+end
+
+function killer_down()
+	relation_registry.change_community_goodwill("killer", db.actor:id(), (-5000))
+end
+
+function killer_default()
+	relation_registry.set_community_goodwill ("killer", db.actor:id(), 0)
+end
+
+function desant_default()
+	relation_registry.set_community_goodwill ("army", db.actor:id(), 0)
+end
+
+function desant_up()
+	relation_registry.change_community_goodwill("army", db.actor:id(), (5000))
+end
+
+function military_stalker_up()
+	relation_registry.change_community_goodwill("military_stalker", db.actor:id(), (5000))
+end
+
+function police_down()
+	relation_registry.change_community_goodwill("police", db.actor:id(), (-5000))
+end
+
+function sinoptic_up()
+	relation_registry.change_community_goodwill("sinoptik_gang", db.actor:id(), (5000))
+end
+
+function marsh_groups_up_1()
+	relation_registry.change_community_goodwill("uzbek_gang", db.actor:id(), (5000))
+	relation_registry.change_community_goodwill("tankist_gang", db.actor:id(), (5000))
+	relation_registry.change_community_goodwill("galash_gang", db.actor:id(), (5000))
+	relation_registry.change_community_goodwill("shamray_gang", db.actor:id(), (5000))
+end
+
+function marsh_groups_up_2()
+	relation_registry.change_community_goodwill("uzbek_gang", db.actor:id(), (5000))
+	relation_registry.change_community_goodwill("tankist_gang", db.actor:id(), (5000))
+	-- relation_registry.change_community_goodwill("galash_gang", db.actor:id(), (5000))
+	-- relation_registry.change_community_goodwill("shamray_gang", db.actor:id(), (5000))
+end
+
+function marsh_groups_up_3()
+	relation_registry.change_community_goodwill("uzbek_gang", db.actor:id(), (5000))
+	-- relation_registry.change_community_goodwill("tankist_gang", db.actor:id(), (5000))
+	relation_registry.change_community_goodwill("galash_gang", db.actor:id(), (5000))
+	relation_registry.change_community_goodwill("shamray_gang", db.actor:id(), (5000))
+end
+
+function mcleens_up()
+	relation_registry.change_community_goodwill("mackleens_gang", db.actor:id(), (5000))
+end
+
+--[[
+
+function _down()
+	relation_registry.change_community_goodwill("", db.actor:id(), (-))
+end
+
+function _up()
+	relation_registry.change_community_goodwill("", db.actor:id(), ())
+end
+
+function _default()
+	relation_registry.set_community_goodwill ("", db.actor:id(), 0)
+end
+
+
+]]

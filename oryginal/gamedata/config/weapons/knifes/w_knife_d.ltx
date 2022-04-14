@@ -1,0 +1,215 @@
+[wpn_knife_d]:identity_immunities
+GroupControlSection			= spawn_group
+discovery_dependency 		= 
+$spawn                   	= "weapons\wpn_knife_d"					; option for Level Editor
+$npc			 			= on				; option for Level Editor
+$prefetch 					= 8
+scheduled            		= off              ; option for ALife Simulator
+cform                    	= skeleton
+class                    	= WP_BM16
+script_binding 			= bind_nms.init
+min_radius               	= 0
+max_radius               	= 30
+description					= "Боевой метательный нож City Brother 1115 Warhawk"
+
+ef_weapon_type				= 5
+
+;-----------------------------------------------------------------------------------
+holder_range_modifier	= 1.0               ; во сколько раз увеличивается eye_range 
+holder_fov_modifier		= 1.0              ; во сколько раз увеличивается eye_fov
+;-----------------------------------------------------------------------------------
+
+cost					 	= 5500
+quest_item				= true
+
+ammo_limit		 			= 120
+ammo_current		 		= 90
+ammo_elapsed		 		= 1
+
+ammo_mag_size		 		= 1
+ammo_class		 			= ammo_knife
+
+hand_dependence		 		= 1
+single_handed				= 1
+
+slot 				 		= 0	; // primary
+animation_slot		 		= 7	; type of the animation that will be used
+default_to_ruck		= false
+
+inv_name					= CB1115Wh
+inv_name_short				= CB1115Wh
+inv_weight					= 0.0
+
+inv_grid_width		= 0
+inv_grid_height		= 0
+inv_grid_x			= 20
+inv_grid_y			= 6
+
+kill_msg_x			= 161
+kill_msg_y			= 153
+kill_msg_width		= 37
+kill_msg_height		= 24
+
+;-----------------------------------------------------------------------------------
+;базовая дисперсия
+fire_dispersion_base		= 0.0 ;5	;угол (в градусах) базовой дисперсии оружия (оружия зажатого в тисках)
+
+;отдача
+cam_relax_speed         	= 0	;скорость возврата в исходное положение
+cam_relax_speed_ai         	= 8
+cam_dispersion          	= 0.00001 ;1.5	;увеличения угла (в градусах) с каждым выстрелом
+cam_dispersion_inc		= 0.0	;увеличениe cam_dispersion с каждым выстрелом
+cam_dispertion_frac		= 0.0	;ствол будет подыматься на cam_dispersion*cam_dispertion_frac +- cam_dispersion*(1-cam_dispertion_frac)
+cam_max_angle			= 20.0	;максимальный угол отдачи
+cam_max_angle_horz		= 10.0	;(degree) maximum shot horizontal degree 
+cam_step_angle_horz		= 0.6	;(degree) size of step camera moved in horizontal position while shooting
+
+fire_dispersion_condition_factor = 5	;увеличение дисперсии в процентах при максимальном износе 
+misfire_probability 		= 0.003	;вероятность осечки при максимальном износе 
+misfire_condition_k			= 0.05
+condition_shot_dec			= 0.000 ;увеличение износа при каждом выстреле
+;-----------------------------------------------------------------------------------
+
+flame_particles		   		= ;weapons\generic_weapon03
+smoke_particles		   	= ;weapons\generic_shoot_00
+rpm_empty_click 	 		= 200
+;weapons\generic_weapon03
+ ;weapons\generic_shoot_00
+
+shell_point		 			= 0.0,0.219,0.015
+shell_dir		 			= 0.0,0.0, 0.4
+shell_particles	 		 = ;weapons\arsenal_shells1
+;weapons\arsenal_shells1
+
+PDM_disp_base 			= 1.0
+PDM_disp_vel_factor 		= 0.9
+PDM_disp_accel_factor 		= 0.9
+PDM_crouch	 		= 1.0
+PDM_crouch_no_acc 		= 1.0
+
+; ttc
+hit_power           = 100
+hit_impulse		 	= 0.1
+hit_type 			= wound ;fire_wound
+
+fire_distance       = 70
+bullet_speed		= 65	;начальная скорость пули
+rpm                 = 350
+; end ttc
+
+use_aim_bullet				= false		;Поддерживается ли первая суппер пуля
+time_to_aim					= 1.0
+
+silencer_hit_power       	= 0.45
+silencer_hit_impulse	 	= 8
+silencer_fire_distance   	= 100
+silencer_bullet_speed	 	= 300
+
+hud                      	= wpn_knife_d_hud
+normal                   	= 0, 1, 0
+position                 	= -0.026,-0.172,-0.007
+orientation              	= 0, 0, 0
+
+;--STRAP PARAMETERS-----------------------------------------------------------------
+;strap_position         		= -0.1,-0.45,0.2			; position (offset) and orientation of the weapon when it is strapped
+;strap_orientation      		= 1.57,0,0						; (3rd person view)
+;strap_bone0					= bip01_spine2
+;strap_bone1					= bip01_spine1
+
+direction           	    = 0, 0, 1
+fire_point               	= 0.0,0.215,0.154
+
+startup_ammo             	= 90
+visual                   	= weapons\knife_d\wpn_knife_new_h.ogf
+
+light_color		 			= 0.6,0.5,0.3
+light_range		 			= 3.0
+light_var_color		 		= 0.05
+light_var_range		 		= 0.5
+light_time 		 			= 0.0
+
+ph_mass			 			= 1
+
+;addons
+scope_status				= 0
+silencer_status				= 0
+grenade_launcher_status		= 0
+
+zoom_enabled				= true
+scope_zoom_factor	    	= 90
+
+;звуки
+snd_draw					= weapons\generic_draw
+snd_holster					= weapons\generic_holster
+snd_shoot					= weapons\knife_d\knife_d
+snd_empty					= weapons\generic_holster
+snd_reload					= weapons\knife_1	;reload both
+snd_shoot_duplet			= weapons\knife_d\knife_d
+snd_shoot_1					= weapons\knife_d\knife_d
+
+snd_reload_1				= weapons\knife_1		;reload left
+
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; silencer
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+
+silencer_name  				= wpn_addon_sil_9_p		; section name for the attachable silencer
+silencer_x = 74 ; offset in inventory icon
+silencer_y = -16		
+
+;params when silencer is attached 
+;similar to corresponding params without prefix silencer_
+
+;silencer_flame_particles 	= weapons\generic_weapon01
+silencer_smoke_particles 	= weapons\generic_shoot_00
+snd_silncer_shot			= weapons\p_silent1, 0.5
+silencer_light_color		= 0.6,0.5,0.3
+silencer_light_range		= 0.01
+silencer_light_var_color	= 0.05
+silencer_light_var_range	= 0.5
+silencer_light_time 		= 0.2
+
+[wpn_knife_d_hud]
+
+shell_point			= -0.330000,-0.010000,0.050000
+fire_point			= -0.195,0.0,0.025
+
+fire_bone                	= bolt_0
+orientation              	= 0,0,0
+position                 	= 0,0,0
+visual                   	= weapons\knife_d\wpn_knife_new_h_hud.ogf
+
+
+ anim_idle						= idle_0
+ anim_reload					= draw3
+ anim_draw					= draw
+ anim_holster				= holster_0
+ anim_shoot					= attack_0
+ anim_shoot_both 		= attack_0
+ anim_idle_aim				= attack_0_idle
+ anim_idle_sprint			= idle_sprint
+;anim_idle_moving		= idle_0
+ 
+ anim_empty					= holster_0
+
+ anim_reload_1				= attack_0_end	;draw3
+anim_shoot_1				= attack_0
+
+anim_idle_1					= idle_0
+ anim_idle_2					= idle_0
+ 
+
+ anim_zoomed_idle_1			= attack_0_idle
+ anim_zoomedidle_2			= attack_0_idle
+
+;смещения HUD для режима приближения
+zoom_offset			= -0.1631,0.0448,0.001
+zoom_rotate_x		= -0.0
+zoom_rotate_y		= -0.0
+
+; zoom_offset			= -0.112400,0.016800,-0.115000
+; zoom_rotate_x		= 0.000200
+; zoom_rotate_y		= 0.017500
+
+zoom_hide_crosshair	= false						;to hide crosshair in zoom

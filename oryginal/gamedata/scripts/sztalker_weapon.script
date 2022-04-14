@@ -1,0 +1,164 @@
+------------------------------------------------------------------------------------------------------------------------------
+-- New Arsenal weapon 
+------------------------------------------------------------------------------------------------------------------------------
+
+local run = false
+local sprint = false
+local last_weapon_id = 0
+
+function update_weapon(delta)
+	if not db.actor or not db.actor:alive() then
+		return
+	end
+
+	local weapon = db.actor:active_item()
+
+	if not weapon then
+		return
+	end
+
+	if weapon and last_weapon_id ~= weapon:id() then
+ 		last_weapon_id = weapon:id()
+		run = false
+		sprint = false
+	end
+
+	local integrated_gl = string.find(weapon:section(), "wpn_groza") 
+
+	if weapon:is_knife() or weapon:is_missile() then
+		if (weapon:get_hud_item_state() == 0 and weapon:is_knife()) or (weapon:get_hud_item_state() == 2 and weapon:is_missile()) then
+			if db.actor:is_actor_sprinting() then
+				if not sprint then
+					run = false
+					sprint = true
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_sprint"), true)
+				end
+			elseif db.actor:is_actor_running() then
+				if not run then
+					sprint = false
+					run = true
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_moving"), true)
+				end
+			elseif sprint or run then
+				weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle"), true)
+				run = false
+				sprint = false
+			end
+		elseif sprint or run then
+			run = false
+			sprint = false
+		end
+
+	elseif weapon:is_weapon_pistol() then
+		local load1 = weapon:get_ammo_in_magazine()
+		if weapon:get_hud_item_state() == 0 and bit_and(db.actor:get_actor_int(nil, 1480), 1) == 0 then
+			if db.actor:is_actor_sprinting() then
+				if not sprint then
+					run = false	
+					if weapon:get_ammo_in_magazine() == 0 then
+					--log1("Патронов "..tostring(load1))
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_sprint_empty"), true)
+					else
+					--log1("Патронов "..tostring(load1)) 
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_sprint"), true)
+					end
+					sprint = true
+				end
+			elseif db.actor:is_actor_running() then
+				if not run then
+					sprint = false
+					if bit_and(db.actor:get_actor_int(nil, 1480), 1) == 0 then
+						if weapon:get_ammo_in_magazine() == 0 then
+							weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_moving_empty"), true)
+						else
+							weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_moving"), true)
+						end
+					end
+					run = true
+				end
+			elseif sprint or run then
+				if weapon:get_ammo_in_magazine() == 0 then
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_empty"), true)
+				elseif bit_and(db.actor:get_actor_int(nil, 1480), 1) == 1 then
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_aim"), true)
+				else
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle"), true)
+				end
+				run = false
+				sprint = false
+			end
+
+
+		elseif sprint or run then
+			run = false
+			sprint = false
+		end
+
+	elseif weapon:is_weapon_gl() or weapon:is_weapon_magazined() or weapon:is_weapon_shotgun() then
+		if weapon:get_hud_item_state() == 0 and bit_and(db.actor:get_actor_int(nil, 1480), 1) == 0 then
+			if db.actor:is_actor_sprinting() then
+				if not sprint then
+					run = false
+					if bit_and(weapon:get_wpn_int(nil, 2392), 1) == 0 and (bit_and(weapon:get_wpn_int(nil, 936), 2) ~= 0 or integrated_gl) then
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_sprint_gl"), true)
+					elseif bit_and(weapon:get_wpn_int(nil, 2392), 1) ~= 0 and (bit_and(weapon:get_wpn_int(nil, 936), 2) ~= 0 or integrated_gl) then
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_sprint_g"), true)
+					else
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_sprint"), true)
+					end
+					sprint = true
+				end
+			elseif db.actor:is_actor_running() then
+				if not run then
+					sprint = false
+					if bit_and(weapon:get_wpn_int(nil, 2392), 1) == 0 and (bit_and(weapon:get_wpn_int(nil, 936), 2) ~= 0 or integrated_gl) then
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_moving_gl"), true)
+					elseif bit_and(weapon:get_wpn_int(nil, 2392), 1) ~= 0 and (bit_and(weapon:get_wpn_int(nil, 936), 2) ~= 0 or integrated_gl) then
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_moving_g"), true)
+					else
+						weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_moving"), true)
+					end
+					run = true
+				end
+			elseif sprint or run then			
+				if bit_and(weapon:get_wpn_int(nil, 2392), 1) == 0 and (bit_and(weapon:get_wpn_int(nil, 936), 2) ~= 0 or integrated_gl) then
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_gl"), true)
+				elseif bit_and(weapon:get_wpn_int(nil, 2392), 1) ~= 0 and (bit_and(weapon:get_wpn_int(nil, 936), 2) ~= 0 or integrated_gl) then
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle_g"), true)
+				else
+					weapon:play_hud_animation(system_ini():r_string(weapon:section().."_hud", "anim_idle"), true)
+				end
+
+				sprint = false
+				run = false
+			end
+		elseif sprint or run then
+			sprint = false
+			run = false
+		end
+
+	end
+
+	if string.find(weapon:section(), "wpn_abakan") or string.find(weapon:section(), "wpn_bm16") then
+		local rpm
+	      	if weapon:get_wpn_int( nil, 1872 ) == 2 then
+			rpm = 60 / get_float( weapon:section(), "rpm_high" )
+		else
+			rpm = 60 / get_float( weapon:section(), "rpm" )
+		end
+		weapon:set_wpn_float( vector():set( 0, 0, 0 ), rpm, 744 )
+	end
+
+
+
+end
+
+--------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------------------------------
+function hud_msg(xml, txt)
+	local hud = get_hud()
+	hud:AddCustomStatic(xml, true)
+	local wnd = hud:GetCustomStatic(xml):wnd()
+	wnd:SetText(txt)
+	wnd:SetTextY(70)
+end

@@ -1,0 +1,258 @@
+
+function organize_brigada_cmplt()
+if	db.actor:has_info("organize_brigada_1") and
+	db.actor:has_info("organize_brigada_2") and
+	db.actor:has_info("organize_brigada_told_vano") and
+	db.actor:has_info("organize_brigada_told_kosta") then
+return true and
+	db.actor:give_info_portion("player_complete_organize_brigada")
+	end 
+end
+
+function fight_on_bogs1_cmplt()
+if	db.actor:has_info("marsh_b_mogilshik_1_dead") and
+	db.actor:has_info("marsh_b_mogilshik_2_dead") and
+	db.actor:has_info("marsh_b_mogilshik_3_dead") and
+	db.actor:has_info("marsh_b_mogilshik_4_dead") and
+	db.actor:has_info("marsh_b_mogilshik_5_dead") and
+	db.actor:has_info("marsh_b_mogilshik_6_dead") and
+	db.actor:has_info("marsh_b_mogilshik_7_dead") and
+	db.actor:has_info("marsh_b_mogilshik_8_dead") and
+	db.actor:has_info("marsh_b_mogilshik_9_dead") and
+	db.actor:has_info("marsh_b_mogilshik_10_dead") and
+	db.actor:has_info("marsh_b_mogilshik_11_dead") and
+	db.actor:has_info("marsh_b_mogilshik_12_dead") and
+	db.actor:has_info("marsh_b_mogilshik_13_dead") and
+	db.actor:has_info("marsh_b_mogilshik_14_dead") and
+	db.actor:has_info("marsh_b_mogilshik_15_dead") and
+	db.actor:has_info("marsh_b_mogilshik_16_dead") and
+	db.actor:has_info("marsh_b_mogilshik_17_dead") and
+	db.actor:has_info("marsh_b_mogilshik_18_dead") and
+	db.actor:has_info("marsh_b_mogilshik_19_dead") and
+	db.actor:has_info("marsh_b_mogilshik_20_dead") and
+	db.actor:has_info("marsh_b_mogilshik_21_dead") and
+	db.actor:has_info("marsh_b_mogilshik_22_dead") and
+	db.actor:has_info("marsh_b_mogilshik_23_dead") and
+	db.actor:has_info("marsh_b_mogilshik_24_dead") and
+	db.actor:has_info("marsh_b_mogilshik_25_dead") and
+	db.actor:has_info("marsh_b_mogilshik_26_dead") and
+	db.actor:has_info("marsh_b_mogilshik_27_dead") and
+	db.actor:has_info("marsh_b_mogilshik_28_dead") and
+	db.actor:has_info("marsh_b_mogilshik_29_dead") and
+	db.actor:has_info("marsh_b_mogilshik_30_dead") then
+return true and
+	db.actor:give_info_portion("fight_on_bogs1_6") and
+	db.actor:give_info_portion("not_complete_mission_start") and
+	db.actor:give_info_portion("player_complete_fight_on_bogs1") and
+	als_relations.marsh_groups_up_1() and
+	als_on_off_switch.marsh_sevchuk_off()
+	end 
+end
+
+function fight_on_bogs2_cmplt()
+if	db.actor:has_info("marsh_b_mogilshik_1_dead") and
+	db.actor:has_info("marsh_b_mogilshik_2_dead") and
+	db.actor:has_info("marsh_b_mogilshik_3_dead") and
+	db.actor:has_info("marsh_b_mogilshik_4_dead") and
+	db.actor:has_info("marsh_b_mogilshik_5_dead") and
+	db.actor:has_info("marsh_b_mogilshik_6_dead") and
+	db.actor:has_info("marsh_b_mogilshik_7_dead") and
+	db.actor:has_info("marsh_b_mogilshik_8_dead") and
+	db.actor:has_info("marsh_b_mogilshik_9_dead") and
+	db.actor:has_info("marsh_b_mogilshik_10_dead") and
+	db.actor:has_info("marsh_b_mogilshik_11_dead") and
+	db.actor:has_info("marsh_b_mogilshik_12_dead") and
+	db.actor:has_info("marsh_b_mogilshik_13_dead") and
+	db.actor:has_info("marsh_b_mogilshik_14_dead") and
+	db.actor:has_info("marsh_b_mogilshik_15_dead") and
+	db.actor:has_info("marsh_b_mogilshik_16_dead") and
+	db.actor:has_info("marsh_b_mogilshik_17_dead") and
+	db.actor:has_info("marsh_b_mogilshik_18_dead") and
+	db.actor:has_info("marsh_b_mogilshik_19_dead") and
+	db.actor:has_info("marsh_b_mogilshik_20_dead") and
+	db.actor:has_info("marsh_b_mogilshik_21_dead") and
+	db.actor:has_info("marsh_b_mogilshik_22_dead") and
+	db.actor:has_info("marsh_b_mogilshik_23_dead") and
+	db.actor:has_info("marsh_b_mogilshik_24_dead") and
+	db.actor:has_info("marsh_b_mogilshik_25_dead") and
+	db.actor:has_info("marsh_b_mogilshik_26_dead") and
+	db.actor:has_info("marsh_b_mogilshik_27_dead") and
+	db.actor:has_info("marsh_b_mogilshik_28_dead") and
+	db.actor:has_info("marsh_b_mogilshik_29_dead") and
+	db.actor:has_info("marsh_b_mogilshik_30_dead") then
+return true and
+	db.actor:give_info_portion("fight_on_bogs2_4") and
+	db.actor:give_info_portion("not_complete_mission_start") and
+	db.actor:give_info_portion("player_complete_fight_on_bogs2") and
+	als_relations.marsh_groups_up_2() and
+	als_on_off_switch.marsh_sevchuk_off()
+	end 
+end
+
+function fight_on_bogs3_cmplt()
+if	db.actor:has_info("marsh_b_mogilshik_1_dead") and
+	db.actor:has_info("marsh_b_mogilshik_2_dead") and
+	db.actor:has_info("marsh_b_mogilshik_3_dead") and
+	db.actor:has_info("marsh_b_mogilshik_4_dead") and
+	db.actor:has_info("marsh_b_mogilshik_5_dead") and
+	db.actor:has_info("marsh_b_mogilshik_6_dead") and
+	db.actor:has_info("marsh_b_mogilshik_7_dead") and
+	db.actor:has_info("marsh_b_mogilshik_8_dead") and
+	db.actor:has_info("marsh_b_mogilshik_9_dead") and
+	db.actor:has_info("marsh_b_mogilshik_10_dead") and
+	db.actor:has_info("marsh_b_mogilshik_11_dead") and
+	db.actor:has_info("marsh_b_mogilshik_12_dead") and
+	db.actor:has_info("marsh_b_mogilshik_13_dead") and
+	db.actor:has_info("marsh_b_mogilshik_14_dead") and
+	db.actor:has_info("marsh_b_mogilshik_15_dead") and
+	db.actor:has_info("marsh_b_mogilshik_16_dead") and
+	db.actor:has_info("marsh_b_mogilshik_17_dead") and
+	db.actor:has_info("marsh_b_mogilshik_18_dead") and
+	db.actor:has_info("marsh_b_mogilshik_19_dead") and
+	db.actor:has_info("marsh_b_mogilshik_20_dead") and
+	db.actor:has_info("marsh_b_mogilshik_21_dead") and
+	db.actor:has_info("marsh_b_mogilshik_22_dead") and
+	db.actor:has_info("marsh_b_mogilshik_23_dead") and
+	db.actor:has_info("marsh_b_mogilshik_24_dead") and
+	db.actor:has_info("marsh_b_mogilshik_25_dead") and
+	db.actor:has_info("marsh_b_mogilshik_26_dead") and
+	db.actor:has_info("marsh_b_mogilshik_27_dead") and
+	db.actor:has_info("marsh_b_mogilshik_28_dead") and
+	db.actor:has_info("marsh_b_mogilshik_29_dead") and
+	db.actor:has_info("marsh_b_mogilshik_30_dead") then
+return true and
+	db.actor:give_info_portion("fight_on_bogs3_4") and
+	db.actor:give_info_portion("not_complete_mission_start") and
+	db.actor:give_info_portion("player_complete_fight_on_bogs3") and
+	als_relations.marsh_groups_up_3() and
+	als_on_off_switch.marsh_sevchuk_off()
+	end 
+end
+
+function gone_scouts_1_cmplt()
+	if	db.actor:has_info("gone_scout_1_dead") and
+		db.actor:has_info("gone_scout_2_dead") then
+	return true and
+		db.actor:give_info_portion("info_als_story_ar_17") and
+		db.actor:give_info_portion("gone_scouts_1")
+	end 
+end
+
+function crime_at_marsh_cmplt()
+if	db.actor:has_info("zaglushka_69") and
+	db.actor:has_info("zaglushka_70") then
+return true and
+	db.actor:give_info_portion("crime_at_marsh_1") and
+	db.actor:give_info_portion("find_gone_selectors_1") and
+	db.actor:give_info_portion("player_complete_crime_at_marsh") and
+	db.actor:give_info_portion("info_als_story_ar_30")
+	end 
+end
+
+function heli_and_ikons_3_cmplt()
+if	db.actor:has_info("take_icon_1") and
+	db.actor:has_info("take_icon_2") then
+return true and
+	db.actor:give_info_portion("player_complete_heli_and_ikons_1") and
+	db.actor:give_info_portion("player_complete_heli_and_ikons_2") and
+	db.actor:give_info_portion("player_complete_heli_and_ikons_3") and
+	db.actor:give_info_portion("heli_and_ikons_1_1") and
+	db.actor:give_info_portion("heli_and_ikons_2_1") and
+	db.actor:give_info_portion("heli_and_ikons_3_1")
+	end 
+end
+
+function in_private_cmplt()
+if	db.actor:has_info("zaglushka_313") and
+	db.actor:has_info("zaglushka_314") and
+	db.actor:has_info("zaglushka_315") and
+	db.actor:has_info("zaglushka_316") then
+return true and
+	db.actor:give_info_portion("in_private_4") and
+	db.actor:give_info_portion("player_complete_in_private")
+	end 
+end
+
+function other_debts_cmplt()
+if	db.actor:has_info("zaglushka_317") and
+	db.actor:has_info("zaglushka_318") and
+	db.actor:has_info("zaglushka_319") then
+return true and
+	db.actor:give_info_portion("other_debts_2") and
+	db.actor:give_info_portion("player_complete_other_debts")
+	end 
+end
+
+function other_debts_1_1_cmplt()
+if	db.actor:has_info("pol_stalker_dusman_is_dead") and
+	db.actor:has_info("pol_stalker_sniper_is_dead") and
+	db.actor:has_info("pol_stalker_is_dead") and
+	db.actor:has_info("pol_stalker_0000_is_dead") and
+	db.actor:has_info("pol_stalker_0001_is_dead") and
+	db.actor:has_info("pol_stalker_0002_is_dead") and
+	db.actor:has_info("pol_stalker_0003_is_dead") and
+	db.actor:has_info("pol_stalker_0004_is_dead") and
+	db.actor:has_info("pol_stalker_0005_is_dead") and
+	db.actor:has_info("pol_stalker_0006_is_dead") and
+	db.actor:has_info("pol_stalker_0007_is_dead") and
+	db.actor:has_info("pol_stalker_0008_is_dead") and
+	db.actor:has_info("pol_stalker_0009_is_dead") and
+	db.actor:has_info("pol_stalker_0010_is_dead") and
+	db.actor:has_info("pol_stalker_0011_is_dead") and
+	db.actor:has_info("pol_stalker_0012_is_dead") and
+	db.actor:has_info("pol_stalker_0013_is_dead") and
+	db.actor:has_info("pol_stalker_0014_is_dead") then
+return true and
+	db.actor:give_info_portion("other_debts_1_1")
+	end 
+end
+
+function yalta_and_mcleens_cmplt()
+if	db.actor:has_info("yalta_and_mcleens_1") and
+	db.actor:has_info("yalta_and_mcleens_2") then
+return true and
+	db.actor:give_info_portion("player_complete_yalta_and_mcleens")
+	end 
+end
+
+function tarnished_reputation_cmplt()
+if	db.actor:has_info("sor_told_barman_about_killers") and
+	db.actor:has_info("sor_told_varnak_about_killers") then
+return true and
+	db.actor:give_info_portion("tarnished_reputation_1") and
+	db.actor:give_info_portion("player_complete_tarnished_reputation")
+	end 
+end
+
+function legend_about_reanimator_cmplt()
+if	db.actor:has_info("legend_about_reanimator_1") and
+	db.actor:has_info("legend_about_reanimator_2") then
+return true and
+	db.actor:give_info_portion("player_complete_legend_about_reanimator")
+	end 
+end
+
+function perimetre_storm_cmplt()
+if	db.actor:has_info("perimetre_storm_1") and
+	db.actor:has_info("perimetre_storm_2") and
+	db.actor:has_info("perimetre_storm_3") then
+return true and
+	db.actor:give_info_portion("player_complete_perimetre_storm")
+	end 
+end
+
+function artefacts_from_obscure_2_cmplt()
+if	xr_conditions.has_all_obscure_artefacts() then
+return true and
+	db.actor:give_info_portion("artefacts_from_obscure_2")
+	end 
+end
+
+--[[function _cmplt()
+if	db.actor:has_info("") and
+	db.actor:has_info("") then
+return true and
+	db.actor:give_info_portion("") and
+	db.actor:give_info_portion("")
+	end 
+end]]

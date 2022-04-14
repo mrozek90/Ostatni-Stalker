@@ -1,0 +1,1938 @@
+local upd_time = 0
+local upd_time1 = 0
+local upd_time2 = 0
+local upd_time3 = 0
+local upd_time4 = 0
+local upd_time5 = 0
+
+function init(obj)
+	xr_motivator.AddToMotivator(obj)
+end
+
+
+function actor_init(npc)
+	npc:bind_object(actor_binder(npc))
+end
+--/ -----------------------------------------------------------------
+local game_difficulty_by_num = {
+	[0] = "gd_novice",
+	[1] = "gd_stalker",
+	[2] = "gd_veteran",
+	[3] = "gd_master"
+	}
+
+lasthealth  = 0
+lasttime	= 0
+post_process = 0
+local weapon_hide = false
+----------------------------------------------------------------------------------------------------------------------
+class "actor_binder" (object_binder)
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:__init(obj) super(obj)
+	self.bCheckStart = false
+	self.weather_manager = level_weathers.WeatherManager()
+	self.actor_detector = xr_detector.actor_detector()
+
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:net_spawn(data)
+	printf("actor net spawn")		
+--убрал        set_extensions_flags(15)
+	
+	level.show_indicators()
+	sound_theme.init()
+
+	self.bCheckStart = true
+	self.weapon_hide = false -- спрятано или нет оружие при разговоре.
+	weapon_hide = false -- устанавливаем глобальный дефолтовый флаг.
+
+	if object_binder.net_spawn(self,data) == false then
+		return false
+	end
+
+	db.add_actor(self.object)
+	
+	if self.st.disable_input_time == nil then
+		level.enable_input()
+	end
+
+	self.weather_manager:reset()
+--	game_stats.initialize ()
+
+	if actor_stats.add_to_ranking ~= nil then
+		actor_stats.add_to_ranking(self.object:id())
+	end
+
+	--' Загружаем настройки дропа
+	death_manager.init_drop_settings()
+
+	ogsm.on_game_load(obj)
+
+-- Создаем хранилище актора
+	if db.storage[db.actor:id()].pstor == nil then
+		db.storage[db.actor:id()].pstor = {}
+	end
+  
+-------- пауза при загрузке ---------------
+--убрал	ui_main_menu.start()
+-------------------------------------------
+	ts_mod_soc.ts_on_net_spawn()	--TS_MOD--
+	als_loadscrin.update() --полноэкранные интро
+ sak_off_corpses.off_corpses()
+
+level.set_weather( level.get_weather() ) 
+	if rx_ai then 
+		rx_ai.actor_net_spawn()
+	end
+	if xrs_ai then xrs_ai.actor_net_spawn(self) end
+--get_console():execute("snd_restart")
+ return true
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:net_destroy()
+	
+	if actor_stats.remove_from_ranking ~= nil then
+		actor_stats.remove_from_ranking(self.object:id())
+	end
+	-- game_stats.shutdown()
+	db.del_actor(self.object)
+
+    sr_light.clean_up()
+
+	self.object:set_callback(callback.use_object, nil)
+	self.object:set_callback(callback.inventory_info, nil)
+	self.object:set_callback(callback.article_info, nil)
+	self.object:set_callback(callback.on_item_take, nil)
+	self.object:set_callback(callback.on_item_drop, nil)
+	--self.object:set_callback(callback.actor_sleep, nil)
+	self.object:set_callback(callback.task_state, nil)
+	self.object:set_callback(callback.level_border_enter, nil)
+	self.object:set_callback(callback.level_border_exit, nil)
+	self.object:set_callback(callback.take_item_from_box, nil)
+	-- new callbacks
+	self.object:set_callback(callback.on_key_press, nil)
+	self.object:set_callback(callback.on_key_release, nil)
+--	self.object:set_callback(callback.on_key_hold, nil)
+--	self.object:set_callback(callback.on_mouse_wheel, nil)
+--	self.object:set_callback(callback.on_mouse_move, nil)
+	self.object:set_callback(callback.on_belt, nil)
+	self.object:set_callback(callback.on_ruck, nil)
+	self.object:set_callback(callback.on_slot, nil)
+--	self.object:set_callback(callback.on_hud_animation_end, nil)
+----	self.object:set_callback(callback.on_goodwill_change, nil)
+--	self.object:set_callback(callback.entity_alive_before_hit, nil)
+--	self.object:set_callback(callback.on_before_use_item, nil)
+--убрал	self.object:set_callback(callback.on_create_cell_item, nil)
+--убрал	self.object:set_callback(callback.on_select_item, nil)
+--	self.object:set_callback(callback.on_focus_item, nil)
+--	self.object:set_callback(callback.on_focus_lost_item, nil)
+
+
+	if sr_psy_antenna.psy_antenna then
+		sr_psy_antenna.psy_antenna:destroy()
+		sr_psy_antenna.psy_antenna = false
+	end
+
+	xr_sound.stop_all_sound_object()
+
+	if ui_grenade_marks then
+		ui_grenade_marks.remove_grenade_marks()
+	end
+--убрал	set_extensions_flags(0)
+	object_binder.net_destroy(self)
+
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:reinit()
+	
+	object_binder.reinit(self)
+	
+	local npc_id = self.object:id()
+
+	db.storage[npc_id] = {}
+
+	self.st = db.storage[npc_id]
+	self.st.pstor = nil
+
+--self.level_weathers_update_time = -10000
+
+	self.next_restrictors_update_time = -10000
+
+	self.object:set_callback(callback.use_object, self.use_object, self)
+	self.object:set_callback(callback.inventory_info, self.info_callback, self)
+	self.object:set_callback(callback.article_info, self.article_callback, self)
+	self.object:set_callback(callback.on_item_take, self.on_item_take, self)
+	self.object:set_callback(callback.on_item_drop, self.on_item_drop, self)
+	self.object:set_callback(callback.trade_sell_buy_item, self.on_trade, self) -- for game stats
+	--self.object:set_callback(callback.actor_sleep, self.sleep_callback, self)
+	self.object:set_callback(callback.task_state, self.task_callback, self)
+	--self.object:set_callback(callback.map_location_added, self.map_location_added_callback, self)
+	self.object:set_callback(callback.level_border_enter, self.level_border_enter, self)
+	self.object:set_callback(callback.level_border_exit, self.level_border_exit, self)
+	self.object:set_callback(callback.take_item_from_box, self.take_item_from_box, self)
+	-- self.object:set_callback(callback.use_object, self.use_callback, self)
+
+
+	self.object:set_callback(callback.on_key_press, self.on_key, self)			-- нажатие клавиши
+	self.object:set_callback(callback.on_key_release, self.on_key_free, self)		-- отпускание клавиши
+--	self.object:set_callback(callback.on_key_hold, self.on_key_hold, self)		-- удержание клавиши
+--	self.object:set_callback(callback.on_mouse_wheel, self.on_wheel_rotation, self)	-- вращение колесика мыши
+--	self.object:set_callback(callback.on_mouse_move, self.on_mouse_move, self)		-- движение мыши
+	self.object:set_callback(callback.on_belt, self.on_belt, self)		-- перемещение предмета на пояс
+	self.object:set_callback(callback.on_ruck, self.on_ruck, self)	-- перемещение предмета в рюкзак
+	self.object:set_callback(callback.on_slot, self.on_slot, self)		-- перемещение предмета в слот
+--	self.object:set_callback(callback.on_hud_animation_end, self.hud_animation_end, self) -- вызывается в конце проигрывания анимации худа (только если используем play_hud_animation)
+--	self.object:set_callback(callback.on_goodwill_change, self.on_goodwill_change, self)		-- изменение отношений
+--	self.object:set_callback(callback.on_release_npc, self.on_release_npc, self)		-- удаление серверного объекта непися или монстра
+	--
+	self.object:set_callback(callback.entity_alive_before_hit, self.before_hit_callback, self)
+--	self.object:set_callback(callback.on_before_use_item, self.before_use, self)
+--Убрал	self.object:set_callback(callback.on_create_cell_item, self.cell_item_create, self)
+--убрал	self.object:set_callback(callback.on_select_item, self.inv_item_select, self)
+--	self.object:set_callback(callback.on_focus_item, self.inv_item_focus, self)
+--	self.object:set_callback(callback.on_focus_lost_item, self.inv_item_focus_lost, self)
+
+end
+
+----------------- Новые каллбеки начало ------------------------------------------------------------------------
+function actor_binder:on_ruck(obj)
+--log1("on_ruck")
+	use_key.item_to_ruck(obj)
+end
+
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:on_slot(obj)
+--log1("item_to_slot")
+	use_key.item_to_slot(obj)
+end
+
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:on_belt(obj)
+--log1("on_belt")
+	use_key.item_to_belt(obj)
+end
+--------------------------------------------------------------------------------------
+
+
+
+--function actor_binder:cell_item_create(item)
+--end
+----------------------------------------------------------------------------------------------------------------------
+--function actor_binder:inv_item_focus_lost(obj)
+--end
+----------------------------------------------------------------------------------------------------------------------
+--function actor_binder:inv_item_focus(obj)
+--end
+
+
+----------------------------------------------------------------------------------------------------------------------
+--function actor_binder:inv_item_select(obj)
+--end
+----------------------------------------------------------------------------------------------------------------------
+--function actor_binder:on_wheel_rotation(w)
+--end
+----------------------------------------------------------------------------------------------------------------------
+local kShifts = { [DIK_keys.DIK_RSHIFT] = true, [DIK_keys.DIK_LSHIFT] = true }
+function actor_binder:on_key(dik)
+	if kShifts[dik] then _G.ShiftPressed = true end
+	local bind = dik_to_bind(dik)
+	hotkeys.on_key(dik, bind)
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:on_key_free(dik)
+	if kShifts[dik] then _G.ShiftPressed = nil end
+end
+
+
+function actor_binder:before_hit_callback(hit_data)
+  local obj = level.object_by_id( hit_data.who_id )
+
+if obj and obj:section() == "zone_mine_field" then
+		local del_anom =  obj:id()
+		my.start_timer("mina", 2, del_anom)
+end
+
+end
+
+-------------------- Новые каллбеки конец------------------------------------------------------------------------------
+
+function actor_binder:take_item_from_box(box, item)
+	local story_id = box:story_id()
+	if story_id == nil then
+		return
+	end
+
+	treasure_manager.take_item_from_box(box, story_id)
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:level_border_enter(npc, info_id)
+	self.actor_detector:actor_enter()
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:level_border_exit(npc, info_id)
+	self.actor_detector:actor_exit()
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:info_callback(npc, info_id)
+	printf("*INFO*: npc='%s' id='%s'", npc:name(), info_id)
+
+	--' Сюжет
+	level_tasks.proceed(self.object)
+	-- Отметки на карте
+	level_tasks.process_info_portion(info_id)
+
+	hidden_slots.on_info(info_id)
+	inventory.on_inventory_info(info_id)
+	pda.on_info(info_id)
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:on_trade (item, sell_bye, money)
+    if sell_bye == true then
+       game_stats.money_trade_update (money)
+    else       
+       game_stats.money_trade_update (-money) 
+    end
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:article_callback(npc, group, name)
+	--printf("article_callback [%s][%s]", group, name)
+	if device().precache_frame >1 then return end
+	
+	if group == "Diary" then
+		news_manager.send_encyclopedy("diary", group)
+	else
+		news_manager.send_encyclopedy("encyclopedy", group)
+	end
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:on_item_take (obj)
+    level_tasks.proceed(self.object)
+	xr_statistic.addArtefact(obj)
+-- Найденные документы ==> в ПДА
+
+	if obj and obj:section() == "announcement_1" and
+		not has_alife_info("info_crime_at_marsh") then
+	db.actor:give_info_portion("info_crime_at_marsh")
+	end
+
+	if obj and obj:section() == "announcement_2" and
+		not has_alife_info("info_announcement_2") then
+	db.actor:give_info_portion("info_announcement_2")
+	end
+
+	if obj and obj:section() == "announcement_3" and
+		not has_alife_info("info_announcement_3") then
+	db.actor:give_info_portion("info_announcement_3")
+	end
+
+	if obj and obj:section() == "announcement_4" and
+		not has_alife_info("info_announcement_4") then
+	db.actor:give_info_portion("info_announcement_4")
+	end
+
+	if obj and obj:section() == "announcement_5" and
+		not has_alife_info("info_announcement_5") then
+	db.actor:give_info_portion("info_announcement_5")
+	end
+
+	if obj and obj:section() == "announcement_6" and
+		not has_alife_info("info_announcement_6") then
+	db.actor:give_info_portion("info_announcement_6")
+	end
+
+	if obj and obj:section() == "malyawa_01" and
+		not has_alife_info("info_malyawa_01") then
+	db.actor:give_info_portion("info_malyawa_01")
+	end
+
+	if obj and obj:section() == "esc_operator_pda" and
+		not has_alife_info("info_esc_operator_pda_name") then
+	db.actor:give_info_portion("info_esc_operator_pda_name")
+	end
+
+	if obj and obj:section() == "hazar_malyawa" and
+		not has_alife_info("info_hazar_malyawa") then
+	db.actor:give_info_portion("info_hazar_malyawa")
+	end
+
+	if obj and obj:section() == "shevchuk_pda" and
+		not has_alife_info("info_shevchuk_pda") then
+	db.actor:give_info_portion("info_shevchuk_pda")
+	end
+
+	if obj and obj:section() == "malyawa_02" and
+		not has_alife_info("info_ded_mar_malyawa") then
+	db.actor:give_info_portion("info_ded_mar_malyawa")
+	end
+
+	if obj and obj:section() == "simpson_pda" and
+		not has_alife_info("info_simpson_pda") then
+	db.actor:give_info_portion("info_simpson_pda")
+	end
+
+	if obj and obj:section() == "broken_pda" and
+		not has_alife_info("info_broken_pda") then
+	db.actor:give_info_portion("info_broken_pda")
+	end
+
+	if obj and obj:section() == "reanimator_malyawa" and
+		not has_alife_info("info_reanimator_malyawa") then
+	db.actor:give_info_portion("info_reanimator_malyawa")
+	end
+
+	if obj and obj:section() == "doctor_malyawa" and
+		not has_alife_info("info_doctor_malyawa") then
+	db.actor:give_info_portion("info_doctor_malyawa")
+	end
+
+	if obj and obj:section() == "agru_code_malyawa" and
+		not has_alife_info("info_agru_code_malyawa") then
+	db.actor:give_info_portion("info_agru_code_malyawa")
+	end
+
+	if obj and obj:section() == "bun_code_malyawa" and
+		not has_alife_info("info_bun_code_malyawa") then
+	db.actor:give_info_portion("info_bun_code_malyawa")
+	end
+
+	if obj and obj:section() == "morlok_pda" and
+		not has_alife_info("info_morlok_pda") then
+	db.actor:give_info_portion("info_morlok_pda")
+	end
+
+	if obj and obj:section() == "shilo_pda" and
+		not has_alife_info("info_shilo_pda") then
+	db.actor:give_info_portion("info_shilo_pda")
+	end
+
+	if obj and obj:section() == "waterrat_malyawa" and
+		not has_alife_info("info_waterrat_malyawa") then
+	db.actor:give_info_portion("info_waterrat_malyawa")
+	end
+
+	if obj and obj:section() == "gena_maljawa" and
+		not has_alife_info("info_gena_maljawa") then
+	db.actor:give_info_portion("info_gena_maljawa")
+	end
+
+	if obj and obj:section() == "nestor_pda" and
+		not has_alife_info("info_nestor_pda") then
+	db.actor:give_info_portion("info_nestor_pda")
+	end
+
+
+-- Найденные документы ==> в ПДА
+
+	if	obj and obj:section() == "announcement_6" and
+		not has_alife_info("marsh_spawn_4") then
+		als_spawn.spawn_marsh_2()
+		db.actor:give_info_portion("marsh_spawn_4")
+	end
+
+
+	if	obj and obj:section() == "af_antigrav" and
+		not has_alife_info("dr_pirogov_fly_box_1") then
+		db.actor:give_info_portion("dr_pirogov_fly_box_1")
+	end
+
+	if	obj and obj:section() == "fly_block" and
+		not has_alife_info("dr_pirogov_fly_box_2") then
+		db.actor:give_info_portion("dr_pirogov_fly_box_2")
+	end
+	
+	if	obj and obj:section() == "shevchuk_pda" and
+		not has_alife_info("not_complete_mission_2") then
+--		als_on_off_switch.marsh2labdream_on()
+		db.actor:give_info_portion("not_complete_mission_2")
+	end
+	
+	if	obj and obj:section() == "automedic_system" and
+		not has_alife_info("legend_about_reanimator_2") then
+		db.actor:give_info_portion("legend_about_reanimator_2")
+	end
+	
+	if	obj and obj:section() == "necronomicon" and
+		not has_alife_info("take_necronomikon") then
+		als_on_off_switch.marsh_mogilshik_final_on()
+		db.actor:give_info_portion("take_necronomikon")
+	end
+
+	if	obj and obj:section() == "malyawa_01" and
+		not has_alife_info("info_als_story_ar_8") then
+		db.actor:give_info_portion("info_als_story_ar_8")
+	end
+	
+	if	obj and obj:section() == "malyawa_02" and
+		not has_alife_info("marsh_find_deadman_1") then
+		db.actor:give_info_portion("marsh_find_deadman_1")
+		als_on_off_switch.esc_deadman_on()
+	end
+	
+	if	obj and obj:section() == "detector_elite" and
+		not has_alife_info("player_complete_detector_of_dead_man") then
+		db.actor:give_info_portion("player_complete_detector_of_dead_man")
+	end
+	
+	if	obj and obj:section() == "ikona_1" and
+		not has_alife_info("take_icon_1") then
+		db.actor:give_info_portion("take_icon_1")
+	end
+	
+	if	obj and obj:section() == "ikona_2" and
+		not has_alife_info("take_icon_2") then
+		db.actor:give_info_portion("take_icon_2")
+	end
+	
+	if	obj and obj:section() == "simpson_pda" and
+		not has_alife_info("heli_and_ikons_3_start") then
+		db.actor:give_info_portion("heli_and_ikons_3_start")
+	end
+	
+	if	obj and obj:section() == "af_stalker" and
+		not has_alife_info("vague_memoirs_1") then
+		db.actor:give_info_portion("darklab_wild_killers_spawn")
+		db.actor:give_info_portion("vague_memoirs_1")
+	end
+	
+	if	obj and obj:section() == "hsm_box_5" and
+		has_alife_info("there_will_be_light1_2") and
+		not has_alife_info("there_will_be_light1_3") then
+		db.actor:give_info_portion("there_will_be_light1_3")
+		db.actor:give_info_portion("player_complete_there_will_be_light1")
+		db.actor:give_info_portion("headquarters_counterintelligence_duty_2")
+		db.actor:give_info_portion("find_boxes_hsm_7")
+		als_on_off_switch.panzerhc2red_on()
+	end
+	
+	if	obj and obj:section() == "hsm_box_5" and
+		has_alife_info("there_will_be_light2_3") and
+		not has_alife_info("there_will_be_light2_4") then
+		db.actor:give_info_portion("there_will_be_light2_4")
+		db.actor:give_info_portion("headquarters_counterintelligence_duty_2")
+		db.actor:give_info_portion("find_boxes_hsm_7")
+		db.actor:give_info_portion("player_complete_there_will_be_light2")
+	end
+	
+	-- если встретил Панцера на Сортировке
+	if	obj and obj:section() == "hsm_box_5" and
+		has_alife_info("atto_secondo_bad_start") and
+		not has_alife_info("headquarters_counterintelligence_duty_2") then
+		db.actor:give_info_portion("headquarters_counterintelligence_duty_2")
+		db.actor:give_info_portion("find_boxes_hsm_7")
+		als_on_off_switch.panzerhc2red_on()
+	end
+	
+	if	obj and obj:section() == "hsm_box_1" and
+		not has_alife_info("agru_take_away_container_hsm_2") then
+		db.actor:give_info_portion("agru_take_away_container_hsm_2")
+		db.actor:give_info_portion("player_complete_agru_take_away_container_hsm")
+		-- db.actor:give_info_portion("find_boxes_hsm_1")
+		db.actor:give_info_portion("find_boxes_hsm_3")
+als_on_off_switch.yan_desant_1_off()
+als_on_off_switch.yan_desant_2_off()
+als_on_off_switch.yan_desant_3_off()
+als_on_off_switch.yan_desant_4_off()
+	end
+	
+	if	obj and obj:section() == "hsm_box_2" and
+		not has_alife_info("container_number_two_1") then
+		als_on_off_switch.gar_deadman_off()
+		als_on_off_switch.gar_deadman_dubl_on()
+		db.actor:give_info_portion("container_number_two_1")
+		db.actor:give_info_portion("find_boxes_hsm_4")
+	end
+	
+	if	obj and obj:section() == "hsm_box_4" and
+		not has_alife_info("container_number_three_2") then
+		als_on_off_switch.gar_deadman_dubl_off()
+		db.actor:give_info_portion("container_number_three_2")
+		db.actor:give_info_portion("find_boxes_hsm_6")
+	end
+	
+	if	obj and obj:section() == "hsm_box_3" and
+		not has_alife_info("player_complete_last_container_hsm") then
+		db.actor:give_info_portion("last_container_hsm_1")
+		db.actor:give_info_portion("find_boxes_hsm_5")
+		db.actor:give_info_portion("player_complete_find_boxes_hsm")
+		db.actor:give_info_portion("player_complete_last_container_hsm")
+	end
+	
+	-- if	obj and obj:section() == "panz_encryption_malyawa" and
+		-- not has_alife_info("has_found_panz_encryption_malyawa") then
+		-- db.actor:give_info_portion("has_found_panz_encryption_malyawa")
+	-- end
+	
+	if	obj and obj:section() == "agru_code_malyawa" and
+		not has_alife_info("find_agru_code_malyawa") then
+		db.actor:give_info_portion("find_agru_code_malyawa")
+	end
+	
+	if	obj and obj:section() == "doctor_malyawa" and
+		not has_alife_info("find_agru_doctor_malyawa") then
+		db.actor:give_info_portion("find_agru_doctor_malyawa")
+	end
+	
+	if	obj and obj:section() == "panz_encryption_malyawa" and
+		not has_alife_info("agent_grc_start") then
+		db.actor:give_info_portion("agent_grc_start")
+	end
+	
+	if	obj and obj:section() == "obsidian_knife" and
+		has_alife_info("ritual_knife_start") and
+		not has_alife_info("ritual_knife_2") then
+		db.actor:give_info_portion("ritual_knife_2")
+	end
+	
+	if	obj and obj:section() == "obsidian_knife" and
+		has_alife_info("zaglushka_277") and
+		not has_alife_info("has_found_obsidian_knife") then
+		db.actor:give_info_portion("has_found_obsidian_knife")
+	end
+	
+	if	obj and obj:section() == "obsidian_knife" and
+		not has_alife_info("ritual_knife_start") and
+		not has_alife_info("zaglushka_277") and
+		not has_alife_info("has_found_obsidian_knife_nonquest") then
+		db.actor:give_info_portion("has_found_obsidian_knife_nonquest")
+	end
+	
+	if	obj and obj:section() == "necronomicon" and
+		(level.name() == "atp") and
+		has_alife_info("kill_gravedigger_start") and
+		not has_alife_info("player_complete_kill_gravedigger") then
+		db.actor:give_info_portion("find_necronomicon_2")
+		db.actor:give_info_portion("kill_gravedigger_2")
+		db.actor:give_info_portion("player_complete_kill_gravedigger")
+	end
+	
+	if	obj and obj:section() == "necronomicon" and
+		(level.name() == "atp") and
+		has_alife_info("in_private_3") and
+		not has_alife_info("zaglushka_313") then
+		db.actor:give_info_portion("find_necronomicon_2")
+		db.actor:give_info_portion("zaglushka_313")
+	end
+	
+	if	obj and obj:section() == "monolith_kee_1" and
+		(level.name() == "atp") and
+		has_alife_info("in_private_3") and
+		not has_alife_info("zaglushka_314") then
+		db.actor:give_info_portion("zaglushka_314")
+	end
+	
+	if	obj and obj:section() == "monolith_kee_2" and
+		(level.name() == "atp") and
+		has_alife_info("in_private_3") and
+		not has_alife_info("zaglushka_315") then
+		db.actor:give_info_portion("zaglushka_315")
+	end
+	
+	if	obj and obj:section() == "monolith_kee_3" and
+		(level.name() == "atp") and
+		has_alife_info("in_private_3") and
+		not has_alife_info("zaglushka_316") then
+		db.actor:give_info_portion("zaglushka_316")
+	end
+	
+	
+	if	obj and obj:section() == "monolith_kee_4" and
+		not has_alife_info("zaglushka_317") then
+		xr_effects.monolith_keys_dushman_1_nax()
+		alife():create("monolith_kee_1", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("zaglushka_317")
+	end
+	
+	if	obj and obj:section() == "monolith_kee_5" and
+		not has_alife_info("zaglushka_318") then
+		xr_effects.monolith_keys_dushman_2_nax()
+		alife():create("monolith_kee_2", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("zaglushka_318")
+	end
+	
+	if	obj and obj:section() == "monolith_kee_6" and
+		not has_alife_info("zaglushka_319") then
+		xr_effects.monolith_keys_dushman_3_nax()
+		alife():create("monolith_kee_3", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("zaglushka_319")
+	end
+	
+	if	obj and obj:section() == "wpn_vihlop" and
+		has_alife_info("large_caliber_sniper_rifle_start") and
+		not has_alife_info("player_complete_large_caliber_sniper_rifle") then
+		db.actor:give_info_portion("large_caliber_sniper_rifle_1")
+		db.actor:give_info_portion("player_complete_large_caliber_sniper_rifle")
+	end
+	
+	if	obj and obj:section() == "wpn_vintorez" and
+		has_alife_info("large_caliber_sniper_rifle_start") and
+		not has_alife_info("player_complete_large_caliber_sniper_rifle") then
+		db.actor:give_info_portion("large_caliber_sniper_rifle_1")
+		db.actor:give_info_portion("player_complete_large_caliber_sniper_rifle")
+	end
+	
+	if	obj and obj:section() == "wpn_svd_m1" and
+		has_alife_info("large_caliber_sniper_rifle_start") and
+		not has_alife_info("player_complete_large_caliber_sniper_rifle") then
+		db.actor:give_info_portion("large_caliber_sniper_rifle_1")
+		db.actor:give_info_portion("player_complete_large_caliber_sniper_rifle")
+	end
+	
+	if	obj and obj:section() == "blade_pda" and
+		not has_alife_info("taked_blade_pda") then
+		db.actor:give_info_portion("info_als_story_ar_2")
+		db.actor:give_info_portion("taked_blade_pda")
+	end
+	
+	if	obj and obj:section() == "lov_af_black_angel1" and
+		not has_alife_info("group_poisk_hiding_place_1") then
+		db.actor:give_info_portion("group_poisk_hiding_place_1")
+	end
+	
+	if	obj and obj:section() == "ammo_blaster_original" and
+		not has_alife_info("player_complete_mine_power_supply") then
+		db.actor:give_info_portion("mine_power_supply_1")
+		db.actor:give_info_portion("player_complete_mine_power_supply")
+	end
+	
+	if	obj and obj:section() == "teuton_malyawa" and
+		not has_alife_info("found_teuton_malyawa") then
+		db.actor:give_info_portion("found_teuton_malyawa")
+	end
+	
+	if	obj and obj:section() == "nestor_pda" and
+		not has_alife_info("player_complete_secrets_of_diggers") then
+		xr_effects.nestor_tainik_spawn()
+		db.actor:give_info_portion("player_complete_secrets_of_diggers")
+	end
+	
+	--[[if	obj and obj:section() == "" and
+		not has_alife_info("") then
+		db.actor:give_info_portion("")
+	end]]
+	
+	-- if not has_alife_info("xtreme_help") then
+			-- alife():create("mobile", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		-- db.actor:give_info_portion("xtreme_help")
+	-- end
+	
+--=========== Для смены ножей начало ================
+	if obj and obj:section() == "ammo_knife" and
+		not has_alife_info("has_knife_d") then
+		alife():create("wpn_knife_d", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("has_knife_d")
+	end
+	
+	if obj and obj:section() == "ammo_knife_bak" and
+		not has_alife_info("has_knife_bak") then
+		alife():create("wpn_knife_bak", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("has_knife_bak")
+	end
+
+	if obj and obj:section() == "ammo_knife_map" and
+		not has_alife_info("has_knife_map")then
+		alife():create("wpn_knife_map", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("has_knife_map")
+	end
+	
+	if obj and obj:section() == "ammo_knife_tanto" and
+		not has_alife_info("has_knife_tanto") then
+		alife():create("wpn_knife_tanto", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("has_knife_tanto")
+	end
+	
+	if obj and obj:section() == "fake_wpn_knife" and
+		not has_alife_info("has_knife_als") then
+		alife():create("wpn_knife", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("has_knife_als")
+	end
+	
+	if obj and obj:section() == "wpn_knife" and
+		not has_alife_info("has_knife_als") then
+		alife():create("fake_wpn_knife", db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(), db.actor:id())
+		db.actor:give_info_portion("has_knife_als")
+	end
+--=========== Для смены ножей конец ================
+
+--	if game_options.perepak then
+--		if obj:clsid() == clsid.wpn_ammo then
+--			dunin_ammo.on_take(obj)       -- Перепаковщик патронов --
+--		end
+--	end
+	local item = obj
+	inventory.on_item_take(item)
+	ts_mod_soc.ts_on_item_take(item)	--Авторазряжалка-- 
+	shadows_addon.outfits_fix(obj)
+	if rx_ai then
+		rx_ai.actor_item_take(obj)
+	end 
+	if xrs_ai then xrs_ai.actor_item_take(obj) end
+
+end
+
+
+
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:on_item_drop (obj)
+    level_tasks.proceed(self.object)
+
+
+
+
+	hidden_slots.on_item_drop(obj)
+	inventory.on_item_drop(obj)
+	use_key.item_drop(obj)
+	use_key.drop_knifes(obj)
+
+
+		ts_mod_soc.ts_on_item_drop(obj)	--Авторазряжалка--
+		art_hunter.on_item_drop(obj)
+end
+----------------------------------------------------------------------------------------------------------------------
+
+function actor_binder:task_callback(_task, _objective, _state)
+	task_manager.task_callback(_task:get_id(), _objective:get_idx(), _state)
+	if _objective:get_idx() == 0 then
+		if _state == task.fail then
+			news_manager.send_task(db.actor, "fail", _task, _objective)
+		elseif _state == task.completed then
+			task_manager.reward_by_task(_task)
+			news_manager.send_task(db.actor, "complete", _task, _objective)
+		else
+			news_manager.send_task(db.actor, "new", _task, _objective)
+		end
+	else
+		if _task:get_objective(0):get_state() == task.in_progress then
+			news_manager.send_task(db.actor, "update", _task, _objective)
+		end
+	end
+end
+
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:map_location_added_callback(spot_type_str, object_id)
+	if (false==app_ready()) or (device().precache_frame>1) then return end
+	--'news_manager.send_task(db.actor, "new")
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:update(delta)
+	object_binder.update(self, delta)
+	
+	-- DEBUG slowdown
+	-- slowdown.update()
+
+	local time = time_global()
+	
+	game_stats.update (delta, self.object)
+	time_on_hud.show_time()
+	
+	
+	
+	if	not has_alife_info("deserted_earths_card_activated") then
+		db.actor:disable_trade()
+	end
+	
+	-- if has_alife_info("puma_activated") then
+		-- als_automedic.automaic_check_health()
+	-- end
+	
+	-- if has_alife_info("legend_about_reanimator_2") then
+	-- if	inventory.check_automedic_system() then
+		-- als_automedic.automaic_check_health()
+	-- end
+	-- end
+
+---------------------------------------------- Коды от дверей бункера и Шокера -----------
+	if  has_alife_info ("player_complete_meeting_near_tunnel") and
+		not has_alife_info("info_bunker_door_code") then
+		use_key. news_have()
+		db.actor:give_info_portion("info_bunker_door_code")
+	end
+
+	if  has_alife_info ("val_shocker_safe_code") and
+		not has_alife_info("info_val_shocker") then
+		use_key. news_have()
+		db.actor:give_info_portion("info_val_shocker")
+	end
+
+	if  has_alife_info ("zaglushka_203") and
+		not has_alife_info("info_langolier_code") then
+		use_key. news_have()
+		db.actor:give_info_portion("info_langolier_code")
+	end
+
+
+--------------------------------------------------- Коды от дверей --------
+
+	if  not has_alife_info ("zaglushka_gar_spawn")  and
+		has_alife_info("zaglushka_407") then
+		als_spawn.spawn_garbage()
+		db.actor:give_info_portion("zaglushka_gar_spawn")
+	end
+
+	if  not has_alife_info ("zaglushka_dar_spawn")  and
+		has_alife_info("val_excursion_in_laboratory_group") then
+		als_spawn.spawn_darkvalley()
+		db.actor:give_info_portion("zaglushka_dar_spawn")
+	end
+
+	if  not has_alife_info ("zaglushka_dar_spawn_1")  and
+		has_alife_info("player_complete_meeting_on_farm") then
+		als_spawn.spawn_darkvalley()
+		db.actor:give_info_portion("zaglushka_dar_spawn_1")
+	end
+
+	if  not has_alife_info ("zaglushka_gar_spawn_1")  and
+		has_alife_info("gar_grc_sniper_1_is_dead") then
+		als_spawn.spawn_garbage_4_box()
+		db.actor:give_info_portion("zaglushka_gar_spawn_1")
+	end
+
+	if not has_alife_info ("static_1") and
+		has_alife_info("zaglushka_s1") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_1")
+	end
+	
+	if not has_alife_info ("static_2") and
+		has_alife_info("zaglushka_s2") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_2")
+	end
+	
+	if not has_alife_info ("static_3") and
+		has_alife_info("zaglushka_s3") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_3")
+	end
+	
+	if not has_alife_info ("static_4") and
+		has_alife_info("zaglushka_s4") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_4")
+	end
+	
+	if not has_alife_info ("static_5") and
+		has_alife_info("zaglushka_s5") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_5")
+	end
+	
+	if not has_alife_info ("static_6") and
+		has_alife_info("zaglushka_s6") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_6")
+	end
+	
+	if not has_alife_info ("static_7") and
+		has_alife_info("zaglushka_s7") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_7")
+	end
+	
+	if not has_alife_info ("static_8") and
+		has_alife_info("zaglushka_s8") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_8")
+	end
+	
+	if not has_alife_info ("static_9") and
+		has_alife_info("zaglushka_s9") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_9")
+	end
+	
+	if not has_alife_info ("static_0") and
+		has_alife_info("zaglushka_s0") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_part("static_0")
+	end
+	
+	if not has_alife_info ("static_gone_selectors_announcement") and
+		has_alife_info("zaglushka_a1") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_announcement("static_gone_selectors_announcement_1")
+		als_static_part.hud_static_announcement("static_gone_selectors_announcement_2")
+		als_static_part.hud_static_announcement("static_gone_selectors_announcement_3")
+		als_static_part.hud_static_announcement("static_gone_selectors_announcement_4")
+	end
+	
+	if not has_alife_info ("static_job_for_corporation_announcement") and
+		has_alife_info("zaglushka_a2") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_announcement("static_job_for_corporation_announcement_1")
+		als_static_part.hud_static_announcement("static_job_for_corporation_announcement_2")
+		als_static_part.hud_static_announcement("static_job_for_corporation_announcement_3")
+		als_static_part.hud_static_announcement("static_job_for_corporation_announcement_4")
+	end
+	
+	if not has_alife_info ("static_will_sell_necronomicon_announcement") and
+		has_alife_info("zaglushka_a3") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_announcement("static_will_sell_necronomicon_announcement_1")
+		als_static_part.hud_static_announcement("static_will_sell_necronomicon_announcement_2")
+		als_static_part.hud_static_announcement("static_will_sell_necronomicon_announcement_3")
+		als_static_part.hud_static_announcement("static_will_sell_necronomicon_announcement_4")
+	end
+	
+	if not has_alife_info ("static_lost_scientist_announcement") and
+		has_alife_info("zaglushka_a4") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_announcement("static_lost_scientist_announcement_1")
+		als_static_part.hud_static_announcement("static_lost_scientist_announcement_2")
+		als_static_part.hud_static_announcement("static_lost_scientist_announcement_3")
+		als_static_part.hud_static_announcement("static_lost_scientist_announcement_4")
+	end
+	
+	if not has_alife_info ("static_lost_scientist_radio_announcement") and
+		has_alife_info("zaglushka_a5") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_announcement("static_lost_scientist_radio_announcement_1")
+		als_static_part.hud_static_announcement("static_lost_scientist_radio_announcement_2")
+		als_static_part.hud_static_announcement("static_lost_scientist_radio_announcement_3")
+		als_static_part.hud_static_announcement("static_lost_scientist_radio_announcement_4")
+	end
+	
+	if not has_alife_info ("static_fallen_aircraft_announcement") and
+		has_alife_info("zaglushka_a6") then
+		als_static_part.timer_static()
+		als_static_part.hud_static_announcement("static_fallen_aircraft_announcement_1")
+		als_static_part.hud_static_announcement("static_fallen_aircraft_announcement_2")
+		als_static_part.hud_static_announcement("static_fallen_aircraft_announcement_3")
+		als_static_part.hud_static_announcement("static_fallen_aircraft_announcement_4")
+	end
+
+	-- апдейт погоды
+	self.weather_manager:update()
+	
+	-- апдейт схемы детектора
+	self.actor_detector:update()
+
+	-- апдейт звуковой схемы актера
+	xr_sound.update_actor()
+	
+	--' Проверка потери жизни
+--[[
+	if self.object.health - lasthealth > 0.001 or
+	   self.object.health - lasthealth < -0.001 then
+		printf("%f | %f", self.object.health, self.object.health - lasthealth, game.time() - lasttime)
+		lasthealth = self.object.health
+		lasttime = game.time()
+	end
+]]	
+	-- Обновление отключения ввода с клавиатуры.
+	if self.st.disable_input_time ~= nil and
+	   game.get_game_time():diffSec(self.st.disable_input_time) >= self.st.disable_input_idle 
+	then
+		level.enable_input()
+		self.st.disable_input_time = nil
+	end
+	-- Обновление сна с переносом чувака в указанную позицию
+	if self.st.sleep_relocate_time ~= nil and
+	   game.get_game_time():diffSec(self.st.sleep_relocate_time) >= self.st.sleep_relocate_idle 
+	then
+		self.object:set_actor_position(self.st.sleep_relocate_point)
+		local dir = self.st.sleep_relocate_point:sub(self.st.sleep_relocate_look)
+		self.object:set_actor_direction(dir:getH())
+		self.st.sleep_relocate_time = nil
+	end
+
+	-- Апдейт прятание оружия игрока во время диалога
+	if weapon_hide == true or self.object:is_talking() then
+		if self.weapon_hide == false then
+			self.object:hide_weapon()
+			self.weapon_hide = true
+		end
+	else
+		if self.weapon_hide == true then
+			self.object:restore_weapon()
+			self.weapon_hide = false
+		end
+	end	
+
+	-- обновление рестрикторов, которые под логикой, срабатывает через интервалы времени
+	if self.next_restrictors_update_time < time then
+		bind_restrictor.actor_update(delta)
+		
+		self.next_restrictors_update_time = time + 200
+		
+		task_manager.actor_update()
+	end
+
+	-- обновление постпроцессов
+	if post_process ~= 0 then
+		if post_process:update () == true then
+		   post_process = 0
+		end
+	end
+
+	-- обновление пси-антенны
+	if sr_psy_antenna.psy_antenna then
+		sr_psy_antenna.psy_antenna:update(delta)
+	end
+	
+
+	--' Вывод сообщения о большой радиации
+	if self.object.radiation >= 0.7 then
+		local hud = get_hud()
+		local custom_static = hud:GetCustomStatic("cs_radiation_danger")
+		if custom_static == nil then
+
+			hud:AddCustomStatic("cs_radiation_danger", true)
+			hud:GetCustomStatic("cs_radiation_danger"):wnd():SetTextST("st_radiation_danger")
+		end
+	else
+		local hud = get_hud()
+		local custom_static = hud:GetCustomStatic("cs_radiation_danger")
+		if custom_static ~= nil then
+			hud:RemoveCustomStatic("cs_radiation_danger")
+		end
+	end
+
+	inventory.update()
+
+--' Запускаем затычку от возможной потери содержимого тайников
+	treasure_manager.get_treasure_manager():loss_workaround()
+
+ 	if self.bCheckStart then
+		printf("SET DEFAULT INFOS")		
+
+		-- if not has_alife_info("storyline_actor_start") and
+			-- has_alife_info("never") and
+		   -- (level.name() == "l01_escape")
+		-- then
+			-- self.object:give_info_portion("storyline_actor_start")
+			-- _G.g_start_avi = true
+			-- printf("*AVI* RUN START AVI")			
+		-- end
+--		if not has_alife_info("encyclopedy") then
+--			self.object:give_info_portion("encyclopedy")
+--		end
+
+		if	has_alife_info("ls_good_final_info") and
+			has_alife_info("gone_nestor_2_start") and
+			not has_alife_info("gone_nestor_2_fail") and
+			not has_alife_info("player_complete_gone_nestor_2") and
+		   (level.name() == "escape") then
+			self.object:give_info_portion("gone_nestor_2_fail")
+		end
+		
+		-- if	has_alife_info("ls_good_final_info") and
+			-- not has_alife_info("player_complete_the_last_stalker") and
+		   -- (level.name() == "escape") then
+			-- self.object:give_info_portion("the_last_stalker_2")
+			-- self.object:give_info_portion("player_complete_the_last_stalker")
+		-- end
+
+		-- if not has_alife_info("zaglushka_537") and
+		   -- (level.name() == "generators") then
+		   -- self.object:give_info_portion("zaglushka_537")
+		-- end
+		
+		if not has_alife_info("zaglushka_549") and
+		   (level.name() == "generators") then
+		   als_relations.killer_default()
+		   als_on_off_switch.esc2gar_1_off()
+		   self.object:give_info_portion("zaglushka_537")
+		   self.object:give_info_portion("zaglushka_549")
+		end
+
+		if	has_alife_info("ls_good_final_info") and
+			has_alife_info("gen_pope_vitaly_spawn") and
+			not has_alife_info("zaglushka_533") and
+		   (level.name() == "escape") then
+			als_on_off_switch.last_switching_1()
+			self.object:give_info_portion("the_last_stalker_2")
+			self.object:give_info_portion("player_complete_the_last_stalker")
+			self.object:give_info_portion("zaglushka_533")
+		end
+
+if	has_alife_info("ls_good_final_info") and
+not has_alife_info("player_complete_dark_valley_abnormal_activity") and
+not has_alife_info("dark_valley_abnormal_activity_fail") and
+not has_alife_info("val_turrets_turn_off") and
+		   (level.name() == "darkvalley") then
+self.object:give_info_portion("dark_valley_abnormal_activity_fail")
+self.object:give_info_portion("val_turrets_turn_off")
+end
+
+if	has_alife_info("ls_good_final_info") and
+not has_alife_info("val_turrets_turn_off") and
+		   (level.name() == "darkvalley") then
+self.object:give_info_portion("val_turrets_turn_off")
+end
+		
+		if	has_alife_info("ls_good_final_info") and
+			not has_alife_info("gen_pope_vitaly_spawn") and
+			not has_alife_info("zaglushka_533") and
+		   (level.name() == "escape") then
+			als_on_off_switch.last_switching_2()
+			self.object:give_info_portion("the_last_stalker_2")
+			self.object:give_info_portion("player_complete_the_last_stalker")
+			self.object:give_info_portion("zaglushka_533")
+		end
+
+		if	has_alife_info("devices_from_factory_start") and
+			not has_alife_info("devices_from_factory_fail") and
+			(level.name() ~= "predbannik") then
+			self.object:give_info_portion("devices_from_factory_fail")
+		end
+
+
+		
+		if	has_alife_info("esc_panzer_told") and
+			not has_alife_info("last_spawn") then
+			als_on_off_switch.last_switching_end()
+			als_spawn.spawn_psevdoarts()
+			self.object:give_info_portion("last_spawn")
+		end
+
+		if	has_alife_info("escape_from_escape_start") and
+			not has_alife_info("player_complete_escape_from_escape") and
+			(level.name() == "predbannik") then
+			self.object:give_info_portion("escape_from_escape_2")
+			self.object:give_info_portion("player_complete_escape_from_escape")
+			als_on_off_switch.esc_hole_blockers_on()
+			--relation_registry.set_community_goodwill ("nato", db.actor:id(), 0)
+		end
+
+		if not has_alife_info("global_dialogs") then
+			self.object:give_info_portion("global_dialogs")
+		end
+
+		if not has_alife_info("level_changer_icons") then
+			self.object:give_info_portion("level_changer_icons")
+		end
+
+		if not has_alife_info("player_complete_lc_to_escape") and
+		   (level.name() == "escape")
+		then
+			self.object:give_info_portion("player_complete_lc_to_escape")			
+		end
+		
+		if not has_alife_info("esc_kill_bloodsuckers") and
+		   (level.name() == "escape")
+		then
+			als_mass_killing.esc_bloodsucker_targets()
+			self.object:give_info_portion("esc_kill_bloodsuckers")			
+		end
+		
+		if not has_alife_info("marsh_kill_bloodsuckers") and
+			has_alife_info("dr_pirogov_fly_box_start") and
+		   (level.name() == "marsh")
+		then
+			als_spawn.spawn_marsh_soska()
+			self.object:give_info_portion("marsh_kill_bloodsuckers")			
+		end
+		
+		if not has_alife_info("esc_yalta_group_go_darkvalley") and
+			has_alife_info("meeting_on_farm_start") and
+		   (level.name() == "escape")
+		then
+			self.object:give_info_portion("esc_yalta_group_go_darkvalley")			
+		end
+		
+		if not has_alife_info("last_stalker_start") then
+			als_on_off_switch.beginning_off()
+			als_on_off_switch.beginning_off_2()
+			als_on_off_switch.beginning_off_3()
+			als_on_off_switch.beginning_off_4()
+			als_on_off_switch.all_projectors_off()
+			als_on_off_switch.esc_sidor_beginning_off()
+			als_bun_generator_switch.bun_generator_off()
+			als_darklab_light.darklab_light_off()
+			self.object:give_info_portion("last_stalker_start")
+		end
+		
+		if	has_alife_info("meeting_on_krovososovka_start") and
+			not has_alife_info("sor_gold_cafe_off") and
+			(level.name() == "escape") then
+			als_on_off_switch.marsh_pope_11_off()
+			self.object:give_info_portion("sor_gold_cafe_off")
+		end
+		
+		if	has_alife_info("conversation_with_uzbek_start") and
+			not has_alife_info("conversation_with_uzbek_1") and
+			(level.name() == "marsh") then
+			self.object:give_info_portion("conversation_with_uzbek_1")
+		end
+		
+		if	has_alife_info("conversation_with_uzbek_short_start") and
+			not has_alife_info("conversation_with_uzbek_short_1") and
+			(level.name() == "marsh") then
+			self.object:give_info_portion("conversation_with_uzbek_short_1")
+		end
+		
+		if	has_alife_info("esc_told_panzer") and
+			not has_alife_info("esc_dolg_regrouping") and
+			not has_alife_info("esc_dolg_regrouping_gate") and
+			(level.name() == "marsh") then
+			als_on_off_switch.general_sidor_switching()
+			self.object:give_info_portion("esc_dolg_regrouping")
+			self.object:give_info_portion("esc_dolg_regrouping_gate")
+		end
+		
+		if	has_alife_info("esc_told_panzer") and
+			not has_alife_info("esc_dolg_regrouping") and
+			not has_alife_info("esc_dolg_regrouping_gate") and
+			(level.name() == "predbannik") then
+			als_on_off_switch.general_sidor_switching()
+			self.object:give_info_portion("esc_dolg_regrouping")
+			self.object:give_info_portion("esc_dolg_regrouping_gate")
+		end
+		
+		if	has_alife_info("esc_told_panzer") and
+			not has_alife_info("esc_dolg_regrouping") and
+			not has_alife_info("esc_dolg_regrouping_gate") and
+			(level.name() == "darkvalley") then
+			als_on_off_switch.general_sidor_switching()
+			self.object:give_info_portion("esc_dolg_regrouping")
+			self.object:give_info_portion("esc_dolg_regrouping_gate")
+		end
+		
+		if	has_alife_info("esc_told_panzer") and
+			not has_alife_info("esc_dolg_regrouping") and
+			not has_alife_info("esc_dolg_regrouping_gate") and
+			(level.name() == "garbage") then
+			als_on_off_switch.general_sidor_switching()
+			self.object:give_info_portion("esc_dolg_regrouping")
+			self.object:give_info_portion("esc_dolg_regrouping_gate")
+		end
+		
+		if	has_alife_info("player_complete_peace_talker") and
+			not has_alife_info("esc_dolg_regrouping") and
+			(level.name() == "escape") then
+			als_on_off_switch.general_sidor_switching()
+			self.object:give_info_portion("esc_dolg_regrouping")
+		end
+
+		-- if not has_alife_info("deserted_earths_card_activated") then
+			-- self.object:give_info_portion("deserted_earths_card_activated")
+		-- end
+		
+		-- if not has_alife_info("") then
+			-- self.object:give_info_portion("")
+		-- end
+		
+--		if not has_alife_info("last_stalker_test_start") then
+--			als_progress.test_1()
+--			self.object:give_info_portion("last_stalker_test_start")
+--		end
+
+-- эти два блока для теста катсцены на генераторах ============
+		
+--		 if not has_alife_info("player_complete_marsh_key_decision_1") then
+--			als_debug.del_bad_objects()
+--			als_progress.test_1()
+--			 self.object:give_info_portion("player_complete_marsh_key_decision_1")
+--		 end
+		
+--		 if not has_alife_info("ls_good_final_info") then
+--			 self.object:give_info_portion("ls_good_final_info")
+--		 end
+--		 if  has_alife_info("atto_sesto_last_stalker_start") then
+--			 self.object:disable_info_portion("atto_sesto_last_stalker_start")
+--		 end
+-- ===========================================================		
+--		 if has_alife_info("ls_good_final_info") then
+--			 db.actor:disable_info_portion("ls_good_final_info")
+--		 end
+		
+		if	has_alife_info("access_code_is_entered_3") and
+			has_alife_info("zaglushka_320") and
+			(level.name() == "predbannik") then
+			als_on_off_switch.mklz_off()
+		end
+		if	has_alife_info("silence_of_scientists_1") and
+			not has_alife_info("zaglushka_155") and
+			(level.name() == "agroprom") then
+			als_on_off_switch.yan_desant_antigas_off()
+			self.object:give_info_portion("zaglushka_155")
+		end
+		
+		if	has_alife_info("silence_of_scientists_1") and
+			not has_alife_info("agru_with_desant") and
+			(level.name() == "agroprom_underground") then
+			self.object:give_info_portion("agru_with_desant")
+		end
+		
+		if	not has_alife_info("silence_of_scientists_1") and
+			not has_alife_info("agru_without_desant") and
+			(level.name() == "agroprom_underground") then
+			self.object:give_info_portion("agru_without_desant")
+		end
+		
+		if	has_alife_info("player_complete_agru_take_away_container_hsm") and
+			not has_alife_info("hsm_box_1_is_found") and
+			(level.name() == "agroprom") then
+			self.object:give_info_portion("hsm_box_1_is_found")
+		end
+		
+		if has_alife_info("meeting_near_tunnel_start") and
+			not has_alife_info("zaglushka_185") and
+		   (level.name() == "escape")
+		then
+			als_on_off_switch.agr_deadman_off()
+			self.object:give_info_portion("zaglushka_185")	
+		end
+		
+		if has_alife_info("told_gold_after_attack") and
+			not has_alife_info("sor_gold_switch") and
+		   (level.name() == "escape")
+		then
+			als_messages.recieved_massage_40()
+			self.object:give_info_portion("sor_gold_switch")	
+		end
+		
+		if has_alife_info("player_complete_meeting_near_tunnel") and
+			not has_alife_info("zaglushka_186") and
+		   (level.name() == "bunker")
+		then
+			self.object:give_info_portion("zaglushka_186")	
+		end
+		
+		if has_alife_info("container_number_two_1") and
+			not has_alife_info("container_number_two_2") and
+		   (level.name() == "garbage")
+		then
+			als_relations.killer_default()
+			self.object:give_info_portion("container_number_two_2")	
+		end
+		
+		if not has_alife_info("gar_crows_are_dead") and
+		   (level.name() == "garbage")
+		then
+			als_garbage_hit.targets()
+			self.object:give_info_portion("gar_crows_are_dead")	
+		end
+		
+		if has_alife_info("has_talked_to_ben") and
+			not has_alife_info("has_talked_to_langolier") and
+			not has_alife_info("darklab_killers_spawn_1") and
+			has_alife_info("val_door2x18lab_open") and
+		   (level.name() == "darklab")
+		then
+			als_relations.killer_down()
+			self.object:give_info_portion("darklab_killers_spawn_1")	
+		end
+		
+		if has_alife_info("has_talked_to_ben") and
+			not has_alife_info("has_talked_to_langolier") and
+			not has_alife_info("darklab_killers_spawn_2") and
+			not has_alife_info("val_door2x18lab_open") and
+		   (level.name() == "darklab")
+		then
+			als_relations.killer_down()
+			self.object:give_info_portion("darklab_killers_spawn_2")	
+		end
+		
+		if has_alife_info("container_number_three_start") and
+			not has_alife_info("container_number_three_1") and
+		   (level.name() == "darklab")
+		then
+			self.object:give_info_portion("container_number_three_1")	
+		end
+		
+		if not has_alife_info("zaglushka_386") and
+		   (level.name() == "panzer_hc")
+		then
+			als_on_off_switch.redforrest_lc_on()
+			self.object:give_info_portion("zaglushka_386")	
+		end
+		
+		if not has_alife_info("zaglushka_409") and
+			has_alife_info("conscience_of_colonel_start") and
+		   (level.name() == "panzer_hc")
+		then
+			als_on_off_switch.red2panzerhc_lc_off()
+			self.object:give_info_portion("zaglushka_409")	
+		end
+		
+		if not has_alife_info("zaglushka_274") and
+			has_alife_info("military_stalkers_start") and
+			has_alife_info("agr_saw_corpses_under_task") --and
+		   -- (level.name() == "agroprom")
+		then
+			als_on_off_switch.mil_door_locker_on()
+			als_on_off_switch.mil_weapon_on()
+			self.object:give_info_portion("zaglushka_274")	
+		end
+		
+		if not has_alife_info("zaglushka_274") and
+			not has_alife_info("military_stalkers_start") and
+			has_alife_info("agr_saw_corpses") --and
+		   -- (level.name() == "agroprom")
+		then
+			als_on_off_switch.mil_door_locker_on()
+			als_on_off_switch.mil_lchs_on()
+			als_on_off_switch.mil_weapon_on()
+			self.object:give_info_portion("zaglushka_274")	
+		end
+
+		if not has_alife_info("zaglushka_274") and
+			not has_alife_info("military_stalkers_start") and
+			not has_alife_info("agr_saw_corpses") and
+		   has_alife_info("meeting_on_krovososovka_start")
+		then
+			als_on_off_switch.mil_door_locker_on()
+			als_on_off_switch.mil_lchs_on()
+			als_on_off_switch.mil_weapon_on()
+			self.object:give_info_portion("zaglushka_274")	
+		end
+
+		if has_alife_info("sor_autoritet_cutscene_end") and
+			not has_alife_info("zaglushka_284") and
+		   (level.name() == "escape")
+		then
+			als_on_off_switch.sor_autoritet_off()
+			self.object:give_info_portion("zaglushka_284")		
+		end
+		
+		if has_alife_info("sor_panzer_cutscene_end") and
+			not has_alife_info("zaglushka_285") and
+		   (level.name() == "escape")
+		then
+			als_on_off_switch.sor_panzer_off()
+			self.object:give_info_portion("zaglushka_285")		
+		end
+		
+		if	has_alife_info("talked_pol_dushman") and
+			not has_alife_info("pol_keys_taken") and
+			not has_alife_info("can_talk_to_mcleens_about_polyana") and
+			(level.name() == "predbannik") then
+			self.object:give_info_portion("can_talk_to_mcleens_about_polyana")
+		end
+		
+		if	has_alife_info("werewolf_in_epaulets_start") and
+			not has_alife_info("werewolf_in_epaulets_1") and
+			(level.name() == "predbannik") then
+			self.object:give_info_portion("werewolf_in_epaulets_1")
+		end
+		
+		if  has_alife_info("atto_terzo_start") and
+			not has_alife_info("zaglushka_300") then
+			als_on_off_switch.val2darklab_02_on()
+			self.object:give_info_portion("zaglushka_300")
+		end
+		
+		if  has_alife_info("atto_terzo_start") and
+			not has_alife_info("zaglushka_373") then
+			als_on_off_switch.esc2val_01_on()
+			self.object:give_info_portion("zaglushka_373")
+		end
+		
+		if	has_alife_info("dark_valley_abnormal_activity2_3") and
+			not has_alife_info("dark_valley_abnormal_activity2_5") and
+			not has_alife_info("player_complete_dark_valley_abnormal_activity2") and
+			(level.name() == "escape") then
+			self.object:give_info_portion("dark_valley_abnormal_activity_1")
+			self.object:give_info_portion("player_complete_dark_valley_abnormal_activity")
+			self.object:give_info_portion("dark_valley_abnormal_activity2_5")
+			self.object:give_info_portion("player_complete_dark_valley_abnormal_activity2")
+		end
+		
+		if	has_alife_info("dark_valley_abnormal_activity2_3") and
+			not has_alife_info("dark_valley_abnormal_activity2_5") and
+			not has_alife_info("player_complete_dark_valley_abnormal_activity2") and
+			(level.name() == "garbage") then
+			self.object:give_info_portion("dark_valley_abnormal_activity_1")
+			self.object:give_info_portion("player_complete_dark_valley_abnormal_activity")
+			self.object:give_info_portion("dark_valley_abnormal_activity2_5")
+			self.object:give_info_portion("player_complete_dark_valley_abnormal_activity2")
+		end
+
+--		if	has_alife_info("val_shocker_safe_code") then
+--			xr_effects.news_have()
+--			self.object:give_info_portion("info_shoker")
+--		end
+
+
+ 
+		
+		if	has_alife_info("key_for_portal_start") and
+			not has_alife_info("key_for_portal_1") and
+			(level.name() == "red_forest") then
+			self.object:give_info_portion("key_for_portal_1")
+		end
+		
+		if not has_alife_info("neutralise_turrets_1") and
+		   (level.name() == "hospital")
+		then
+			self.object:give_info_portion("neutralise_turrets_1")	
+		end
+		
+		if	has_alife_info("neutralise_turrets_1") and
+			not has_alife_info("player_complete_neutralise_turrets") and
+			not has_alife_info("hos_nohelp_checkpoint") and
+			not has_alife_info("duty_help_start") and
+		   (level.name() == "limansk")
+		then
+			self.object:give_info_portion("duty_help_start")	
+		end
+		
+		if	has_alife_info("neutralise_turrets_1") and
+			not has_alife_info("player_complete_neutralise_turrets") and
+			not has_alife_info("hos_nohelp_checkpoint") and
+			not has_alife_info("duty_help_start") and
+		   (level.name() == "pripyat")
+		then
+			self.object:give_info_portion("duty_help_start")	
+		end
+		
+		if	has_alife_info("courtyard_in_east_pripyat_start") and
+			not has_alife_info("gar_sinoptic_gang_off") and
+			(level.name() == "agroprom") then
+			self.object:give_info_portion("gar_sinoptic_gang_off")
+		end
+		
+		if	has_alife_info("courtyard_in_east_pripyat_start") and
+			not has_alife_info("gar_sinoptic_gang_off") and
+			(level.name() == "bunker") then
+			self.object:give_info_portion("gar_sinoptic_gang_off")
+		end
+		
+		if	has_alife_info("courtyard_in_east_pripyat_start") and
+			not has_alife_info("gar_sinoptic_gang_off") and
+			(level.name() == "escape") then
+			self.object:give_info_portion("gar_sinoptic_gang_off")
+		end
+		
+		if	has_alife_info("courtyard_in_east_pripyat_start") and
+			not has_alife_info("gar_sinoptic_gang_off") and
+			(level.name() == "military") then
+			self.object:give_info_portion("gar_sinoptic_gang_off")
+		end
+		
+		if	has_alife_info("courtyard_in_east_pripyat_start") and
+			not has_alife_info("gar_sinoptic_gang_off") and
+			(level.name() == "darkvalley") then
+			self.object:give_info_portion("gar_sinoptic_gang_off")
+		end
+		
+		if	has_alife_info("peace_talker_1") and
+			not has_alife_info("peace_talker_2") and
+			(level.name() == "escape") then
+			self.object:give_info_portion("peace_talker_2")
+		end
+		
+		if	not has_alife_info("zaglushka_479") then
+			self.object:give_info_portion("zaglushka_479")
+		end
+		
+		if not has_alife_info("aes_all_npc_del") and
+		   (level.name() == "katacomba")
+		then
+			self.object:give_info_portion("aes_all_npc_del")	
+		end
+		
+		if	has_alife_info("has_broken_pda_given_to_hacker") and
+			not has_alife_info("zaglushka_550") and
+		   (level.name() == "red_forest") then
+			db.actor:give_info_portion("zaglushka_550")
+		end
+		
+		if	has_alife_info("has_simpson_pda_given_to_hacker") and
+			not has_alife_info("zaglushka_552") and
+		   (level.name() == "darkvalley") then
+			db.actor:give_info_portion("zaglushka_552")
+		end
+		
+		if	has_alife_info("has_blade_pda_given_to_hacker") and
+			not has_alife_info("zaglushka_554") and
+		   (level.name() == "pripyat") then
+			db.actor:give_info_portion("zaglushka_554")
+		end
+		
+		if	has_alife_info("has_braverman_pda_given_to_hacker") and
+			not has_alife_info("zaglushka_556") and
+		   (level.name() == "limansk") then
+			db.actor:give_info_portion("zaglushka_556")
+		end
+		
+		if	has_alife_info("has_military_stalkers_flash_given_to_hacker") and
+			not has_alife_info("zaglushka_558") and
+		   (level.name() == "military") then
+			db.actor:give_info_portion("zaglushka_558")
+		end
+		
+		if	has_alife_info("has_shocker_flash_given_to_hacker") and
+			not has_alife_info("zaglushka_560") and
+		   (level.name() == "garbage") then
+			db.actor:give_info_portion("zaglushka_560")
+		end
+		
+		if	has_alife_info("has_shevchuk_pda_given_to_hacker") and
+			not has_alife_info("zaglushka_562") and
+		   (level.name() == "escape") then
+			db.actor:give_info_portion("zaglushka_562")
+		end
+		
+		if	has_alife_info("has_panz_encryption_malyawa_given_to_hacker") and
+			not has_alife_info("zaglushka_564") and
+		   (level.name() == "hospital") then
+			db.actor:give_info_portion("zaglushka_564")
+		end
+		
+		als_cars.targets()
+--		als_ranking.bar_actor_rank_stalker()
+		-- als_demons.play_1()
+		-- als_demons.play_2()
+		level_tasks.add_lchanger_location()
+
+
+		self.bCheckStart = false		
+	end
+
+--убрал   if sztalker_weapon then
+--убрал   		sztalker_weapon.update_weapon(delta)
+--убрал   end	
+
+
+	if game_options.DinHud then
+		if dinamic_hud then
+			dinamic_hud.doabcevents()
+		end
+	else 
+		dinamic_hud.check_remove_gasmask()
+	end
+	my.on_actor_update()
+	if bind_art then bind_art.beep_art(delta) end
+	if rx_ai then rx_ai.actor_update() end
+	if xrs_ai then xrs_ai.actor_update(delta) end
+
+	if upd_time5 < time then
+		upd_time5 = time + 120000
+	elseif upd_time4 < time then
+		upd_time4 = time + 20000
+art_mgr.update()
+
+	elseif upd_time3 < time then
+		upd_time3 = time + 10000
+
+--		if game_options.SaveRen then
+--			save_rename.update(upd_time3)
+--		end
+--		if game_options.perepak then
+--			if not self.object:is_talking() then
+--				dunin_ammo.on_update()
+--			end
+--		end
+
+
+	elseif upd_time2 < time then
+		upd_time2 = time + 5000
+	use_key.knifes_rotation()
+	if  not has_alife_info ("zaglushka_esc_spawn")  and
+		has_alife_info("player_complete_get_otstoynik_passdoc") then
+		als_spawn.spawn_escape()
+		db.actor:give_info_portion("zaglushka_esc_spawn")
+	end
+
+	elseif upd_time1 < time then
+		upd_time1 = time + 100
+	if	has_alife_info("zaglushka_529") and
+		(level.name() == "generators") then
+		level.set_weather("generator")
+	end
+
+
+	elseif upd_time < time then
+		upd_time = time + 500
+		use_key.update()
+		dmx_fast_use_slots.FastUseSlotsHud()
+		hidden_slots.update()
+		this.hide_weapon_knife_d()
+		
+	if has_alife_info("puma_activated") then
+		als_automedic.automaic_check_health()
+	end
+		
+	if xr_conditions.has_black_soul() then
+		als_black_soul.update_black_soul_have()
+	end
+	end
+	end
+----------------------------------------------------------------------------------------------------------------------
+	function actor_binder:save(packet)
+	set_save_marker(packet, "save", false, "actor_binder") -- +
+	if rx_ai then rx_ai.actor_save(packet) end
+	local save_treasure_manager = true
+	
+	printf("actor_binder:save(): self.object:name()='%s'", self.object:name())
+	object_binder.save(self, packet)
+
+	--' Сохраняем уровень сложности
+	if save_treasure_manager == true then
+		packet:w_u8(level.get_game_difficulty() + 128)
+	else
+		packet:w_u8(level.get_game_difficulty())
+	end
+
+
+	--' Сохраняем данные об отключенном вводе
+	if self.st.disable_input_time == nil then
+		packet:w_bool(false)
+	else
+		packet:w_bool(true)
+		utils.w_CTime(packet, self.st.disable_input_time)
+	end
+
+	xr_logic.pstor_save_all(self.object, packet)
+	self.weather_manager:save(packet)
+
+	sr_psy_antenna.save( packet )
+	
+	if save_treasure_manager == true then
+		treasure_manager.save(packet)      
+	end                                  
+
+	task_manager.save(packet)
+	xr_statistic.save(packet)
+	self.actor_detector:save(packet)	
+--	if game_options.SaveRen then
+--	save_rename.on_save()
+--	end
+art_mgr.save(packet)
+	set_save_marker(packet, "save", true, "actor_binder") -- +
+end
+----------------------------------------------------------------------------------------------------------------------
+function actor_binder:load(reader)
+	set_save_marker(reader, "load", false, "actor_binder") -- +
+	printf("actor_binder:load(): self.object:name()='%s'", self.object:name())
+	object_binder.load(self, reader)
+	printf("actor_binder:object_binder.load(): self.object:name()='%s'", self.object:name())
+
+	--' Загружаем уровень сложности
+	local game_difficulty = reader:r_u8()
+	
+	local load_treasure_manager = false      
+	if game_difficulty >= 128 then           
+		game_difficulty = game_difficulty - 128
+		load_treasure_manager = true           
+	end                                      
+
+	
+	get_console():execute("g_game_difficulty "..game_difficulty_by_num[game_difficulty])
+
+	if reader:r_eof() then
+		abort("SAVE FILE IS CORRUPT")
+	end
+
+	local stored_input_time = reader:r_u8()
+	if stored_input_time == true then
+		self.st.disable_input_time = utils.r_CTime(reader)
+	end
+
+	xr_logic.pstor_load_all(self.object, reader)
+	self.weather_manager:load(reader)
+
+	sr_psy_antenna.load(reader)
+	
+	if load_treasure_manager == true then
+		treasure_manager.load(reader)      
+	end                                  
+
+	
+	task_manager.load(reader)
+	xr_statistic.load(reader)
+	self.actor_detector:load(reader)	
+	art_mgr.load(reader)
+	set_save_marker(reader, "load", true, "actor_binder") -- +
+end
+----------------------------------------------------------------------------------------------------------------------
+
+--старт префетча звуков
+--if string.find(command_line(), "-noprefetch") == nil then
+--	sound_prefetch.prefetch_sounds()
+--end
+
+
+-- Weapon functions
+function hide_weapon()
+	weapon_hide = true
+end
+function restore_weapon()
+	weapon_hide = false
+end
+
+
+
+function hide_weapon_knife_d(actor)
+	local w1 = db.actor:object("wpn_knife_d")
+	local w2 = db.actor:object("wpn_knife_bak")
+	local w3 = db.actor:object("wpn_knife_map")
+	local w4 = db.actor:object("wpn_knife_tanto")
+	local w5 = db.actor:object("wpn_knife")
+	local a1 = db.actor:object("ammo_knife")
+	local a2 = db.actor:object("ammo_knife_bak")
+	local a3 = db.actor:object("ammo_knife_map")
+	local a4 = db.actor:object("ammo_knife_tanto")
+	local a5 = db.actor:object("fake_wpn_knife")
+	
+	if w1 and
+	has_alife_info("has_knife_d") and
+	a1 == nil then
+	alife():release(alife():object(w1:id()), true)
+	db.actor:disable_info_portion("has_knife_d")
+	end
+	
+	if w2 and
+	has_alife_info("has_knife_bak") and
+	a2 == nil then
+	alife():release(alife():object(w2:id()), true)
+	db.actor:disable_info_portion("has_knife_bak")
+	end
+	
+	if w3 and
+	has_alife_info("has_knife_map") and
+	a3 == nil then
+	alife():release(alife():object(w3:id()), true)
+	db.actor:disable_info_portion("has_knife_map")
+	end
+	
+	if w4 and
+	has_alife_info("has_knife_tanto") and
+	a4 == nil then
+	alife():release(alife():object(w4:id()), true)
+	db.actor:disable_info_portion("has_knife_tanto")
+	end
+	
+	if w5 and
+	has_alife_info("has_knife_als") and
+	a5 == nil then
+	alife():release(alife():object(w5:id()), true)
+	db.actor:disable_info_portion("has_knife_als")
+	end
+	
+	if a5 and
+	has_alife_info("has_knife_als") and
+	w5 == nil then
+	alife():release(alife():object(a5:id()), true)
+	db.actor:disable_info_portion("has_knife_als")
+end
+end
+
+
+function actor_binder:use_object(obj)
+    	als_inv_sounds.use_snd(obj)
+end
+
+-- // this is test for section iteration
+-- /**
+-- local function test_section_iteration(file_name, section_name)
+	-- printf			("file    : %s",file_name)
+	-- printf			("section : %s",section_name)
+	
+	-- local			file = ini_file(file_name)
+	-- local			n = file:line_count(section_name)
+	-- printf			("lines   : %d",n)
+	
+	-- local			id, value = "", "", result
+	-- for i=0,n-1 do
+		-- result, id, value	= file:r_line(section_name,i,"","")
+		-- printf		("line %d : %s = %s",i,id,value)
+	-- end
+-- end
+
+-- test_section_iteration("system.ltx","space_restrictor")
+-- /**/
+
+

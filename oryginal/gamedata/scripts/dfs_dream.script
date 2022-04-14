@@ -1,0 +1,64 @@
+local scen1 = {
+		"without_dream",
+		"als_dreams_03",
+		"als_dreams_04",
+		"als_dreams_05",
+		"als_dreams_06",
+		"als_dreams_07",
+		"als_dreams_08",
+		"als_dreams_09",
+		"als_dreams_10",
+		"als_dreams_11",
+		"als_dreams_12",
+		"als_dreams_13",
+		"als_dreams_16",
+		"als_dreams_17",
+		"als_dreams_18"
+		}
+
+local scen2 = {
+		"without_dream",
+		"esc_sky_01",
+		"als_dreams_01",
+		"als_dreams_02",
+		"als_dreams_03",
+		"als_dreams_04",
+		"als_dreams_05",
+		"als_dreams_06",
+		"als_dreams_07",
+		"als_dreams_08",
+		"als_dreams_09",
+		"als_dreams_10",
+		"als_dreams_11",
+		"als_dreams_12",
+		"als_dreams_13",
+		"als_dreams_14",
+		"als_dreams_15",
+		"als_dreams_16",
+		"als_dreams_17",
+		"als_dreams_18"
+		}
+local dr = ""
+
+function perebor()
+local cactor = db.actor
+
+	if cactor:dont_has_info("find_agru_code_malyawa") then
+		d = math.random(1,14)
+		dr = scen1[d]
+		return dr
+	else
+		d = math.random(1,17)
+		dr = scen2[d]
+		return dr
+	end
+cactor = nil
+d = nil
+dr = nil
+scen1 = nil
+scen2 = nil
+end
+
+function son_video_name()
+    return perebor()
+end

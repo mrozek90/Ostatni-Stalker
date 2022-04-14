@@ -1,0 +1,124 @@
+local callbacks = {
+	net_spawn = {},
+	net_destroy = {},
+	update = {},
+	on_info = {},
+	on_item_take = {},
+	on_item_take_from_box = {},
+	on_item_drop = {},
+	on_item_use = {},
+	on_item_select = {},
+	on_item_focus = {},
+	on_item_focus_lost = {},
+	on_slot = {},
+	on_ruck = {},
+	on_key_press = {},
+	on_key_release = {},
+	on_mouse_wheel = {}
+}
+
+function register_callback(type, func, userobj)
+	local t = callbacks[type] or abort("xr_s.register_callback: not found callback for %s", type)
+	t[func] = {userobj = userobj}
+end
+
+function unregister_callback(type, func)
+	local t = callbacks[type] or abort("xr_s.unregister_callback: not found callback for %s", type)
+	t[func] = nil
+end
+----------------------------------------------------------------------------------------
+function on_net_spawn()
+	for func, t in pairs(callbacks.net_spawn) do
+		func(t.userobj)
+	end
+end
+
+function on_net_destroy()
+	for func, t in pairs(callbacks.net_destroy) do
+		func(t.userobj)
+	end
+end
+
+function on_update(delta)
+	for func, t in pairs(callbacks.update) do
+		func(t.userobj, delta)
+	end
+end
+
+function on_info(info_id)
+	for func, t in pairs(callbacks.on_info) do
+		func(info_id, t.userobj)
+	end
+end
+
+function on_item_take(item)
+	for func, t in pairs(callbacks.on_item_take) do
+		func(item, t.userobj)
+	end
+end
+
+function on_take_item_from_box(box, item)
+	for func, t in pairs(callbacks.on_item_take_from_box) do
+		func(item, box, t.userobj)
+	end
+end
+
+function on_item_drop(item)
+	for func, t in pairs(callbacks.on_item_drop) do
+		func(item, t.userobj)
+	end
+end
+
+function on_item_use(item)
+	for func, t in pairs(callbacks.on_item_use) do
+		func(item, t.userobj)
+	end
+end
+
+function on_item_select(item)
+	for func, t in pairs(callbacks.on_item_select) do
+		func(item, t.userobj)
+	end
+end
+
+function on_item_focus(item)
+	for func, t in pairs(callbacks.on_item_focus) do
+		func(item, t.userobj)
+	end
+end
+
+function on_slot(item)
+	for func, t in pairs(callbacks.on_slot) do
+		func(item, t.userobj)
+	end
+end
+
+function on_ruck(item)
+	for func, t in pairs(callbacks.on_ruck) do
+		func(item, t.userobj)
+	end
+end
+
+function on_item_focus_lost(item)
+	for func, t in pairs(callbacks.on_item_focus_lost) do
+		func(item, t.userobj)
+	end
+end
+
+function on_key_press(dik)
+	for func, t in pairs(callbacks.on_key_press) do
+		func(dik, dik_to_bind(dik), t.userobj)
+	end
+end
+
+function on_key_release(dik)
+	for func, t in pairs(callbacks.on_key_release) do
+		func(dik, dik_to_bind(dik), t.userobj)
+	end
+end
+
+function on_mouse_wheel(w)
+	for func, t in pairs(callbacks.on_mouse_wheel) do
+		func(w-100000, t.userobj)
+	end
+end

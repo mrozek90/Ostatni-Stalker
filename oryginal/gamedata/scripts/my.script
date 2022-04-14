@@ -1,0 +1,389 @@
+local timers={}
+local g_timers={}
+local timer_trigger=nil
+
+function actor_update(delta)
+if not timer_trigger then
+timer_trigger=game.time()
+end
+if timer_trigger<=game.time() then
+timer_trigger=game.time()+1000
+check_timers()
+end
+end
+
+function start_timer(name,delay,action)
+if not delay then
+return false
+end
+
+if not action then
+action = ""
+end
+
+local time = game.time() --time in seconds since 1970
+local a=1
+while db.storage[db.actor:id()].pstor["xt"..a] do
+a=a+1
+if a>100 then
+return false
+end
+end
+save_variable("xt"..a, name)
+save_variable("xd"..a, time+delay*1000*system_ini():r_float("alife","time_factor"))
+save_variable("xp"..a, action)
+
+return true
+end
+
+function g_start_timer(name,delay_d,delay_h,delay_m,action)
+local time = level.get_time_days()*60*24+level.get_time_hours()*60+level.get_time_minutes() --time in game minutes
+if delay_d==nil or delay_h==nil or delay_m==nil then
+return false
+end
+
+if action==nil then
+action = ""
+end
+
+local a=1
+while db.storage[db.actor:id()].pstor["gt"..a] do
+a=a+1
+if a>100 then
+return false
+end
+end
+
+save_variable("gt"..a, name)
+save_variable("gd"..a, time+delay_d*60*24+delay_h*60+delay_m)
+save_variable("gp"..a, action)
+
+return true
+end
+
+function check_timers()
+local tmp
+for a=1,100,1 do
+tmp=load_variable("xt"..a,nil)
+if tmp~=nil then
+__timer_found(a) 
+end
+end
+
+for a=1,100,1 do
+tmp=load_variable("gt"..a,nil)
+if tmp~=nil then
+__g_timer_found(a) 
+end
+end
+end
+
+function __timer_found(idx)
+local time = game.time() --time in seconds since 1970
+local name,params
+if load_variable("xd"..idx, nil)<=time then
+name=load_variable("xt"..idx, nil)
+params=load_variable("xp"..idx, nil)
+del_variable("xt"..idx)
+del_variable("xd"..idx)
+del_variable("xp"..idx)
+oau_reason=name.." "..params
+__do_timer_action(name,params)
+return true
+end
+return false
+end
+
+function __g_timer_found(idx)
+local gtime = level.get_time_days()*60*24+level.get_time_hours()*60+level.get_time_minutes() --time in game minutes
+local name,params
+if load_variable("gd"..idx, nil)<=gtime then
+name=load_variable("gt"..idx, nil)
+params=load_variable("gp"..idx, nil)
+del_variable("gt"..idx)
+del_variable("gd"..idx)
+del_variable("gp"..idx)
+oau_reason=name.." "..params
+__do_timer_action(name,params)
+return true
+end
+return false
+end
+
+function __do_timer_action(select_string,params_string)
+if select_string=="autosave" then
+    u3_utils.savegame(params_string)
+	end
+if select_string=="mina" then
+		bind_anomaly.anomaly_nah(params_string)
+end
+if select_string=="trans" then
+	end
+end
+
+
+function on_actor_update(obj)
+-- Обновление таймеров
+	if not timer_trigger then 
+		timer_trigger=game.time() 
+	end
+	if timer_trigger<=game.time() then
+		timer_trigger=game.time()+5000
+		check_timers()
+	end
+-- Обновление таймеров
+
+-- Багфикс таймеров
+	local d = game.time()
+	if d >= 200000 then
+		k = 0
+	end
+	if k == 0 then
+		if d < 200000 then
+		timer_trigger=game.time()
+		check_timers()
+		k = 1
+		end
+	end
+-- Багфикс таймеров
+end
+
+function save_variable(variable_name, value)
+if value==nil then
+--my.mylog("saving nil into "..variable_name)
+del_variable(variable_name)
+else
+xr_logic.pstor_store(db.actor, variable_name, value)
+end
+end
+
+function load_variable(variable_name, value_if_not_found)
+return xr_logic.pstor_retrieve(db.actor, variable_name, value_if_not_found)
+end
+
+function del_variable(variable_name)
+if db.storage[db.actor:id()].pstor[variable_name] then
+db.storage[db.actor:id()].pstor[variable_name] = nil
+end
+end
+
+--инвентарное название объекта
+function get_inv_name(section)
+return system_ini():r_string(section,"inv_name")
+
+--  return getIniValueString(section,"inv_name","",nil)
+end
+
+-- Получение координат иконки предмета
+function get_icon_data(section)
+	local ini = system_ini()
+	local x = ini:r_u32(section, "inv_grid_x") * 50
+	local y = ini:r_u32(section, "inv_grid_y") * 50
+	local width = ini:r_u32(section, "inv_grid_width") * 50
+	local height = ini:r_u32(section, "inv_grid_height") * 50
+	return x, y, width, height
+end
+------------------------------------------------------------------------------------------------------------------------
+-- Получение количества предметов в инвентаре ГГ
+function count_item_by_section(section)
+	local count = 0
+	db.actor:iterate_inventory(function (dummy, item)
+		if item:section() == section then
+			count = count + 1
+		end
+	end)
+	return count
+end
+
+------------------------------------------------------------------------------------------------------------------------
+-- Рисуем нужные статики худа поверх костюмов
+-- Author - Charsi
+function hidden_static()
+local cs_names = {"hud_show_time", "medkit_static"}
+local hud = get_hud()
+for k,v in pairs(cs_names) do
+    if hud:GetCustomStatic(v) then
+        hud:RemoveCustomStatic(v)
+        hud:AddCustomStatic(v)
+    end
+end
+cs_names = {"caption_medkit", "caption_antirad", "caption_bandage", "caption_vodka", "caption_button", "caption_value_1", "caption_value_2", "caption_value_3", "caption_value_4"}
+for k,v in pairs(cs_names) do
+    hud:RemoveCustomStatic(v)
+end
+	
+end
+--
+
+function isGameObject(obj)
+	local bResult = false
+	if (obj and obj.fov) then
+		bResult = true
+	end
+	return bResult
+end
+
+-- серверный объект на входе
+function read_stalker_params(sobj)
+  local stpk=net_packet()
+  local uppk=net_packet()
+  sobj:STATE_Write(stpk)
+  sobj:UPDATE_Write(uppk)
+  local size=stpk:w_tell()
+  local size1=uppk:w_tell()
+  -- my.mylog("rsp "..size.." "..size1)
+  stpk:r_seek(0)
+  uppk:r_seek(0)
+  local tbl=my.parse_stalker_packet({},stpk,uppk,size)
+  -- my.mylog("rsp "..size.." "..size1.." "..stpk:r_tell())
+  return tbl
+end
+
+function read_monster_params(sobj)
+  local stpk=net_packet()
+  local uppk=net_packet()
+  sobj:STATE_Write(stpk)
+  sobj:UPDATE_Write(uppk)
+  local size=stpk:w_tell()
+  local size1=uppk:w_tell()
+  stpk:r_seek(0)
+  uppk:r_seek(0)
+  local tbl=my.parse_se_monster_packet({},stpk,uppk,size)
+  return tbl
+end
+
+-- таблица параметров и серверный объект на входе
+function write_stalker_params(tbl,sobj,noconvert)
+  local stpk=net_packet()
+  local uppk=net_packet()
+  my.fill_stalker_packet(tbl,stpk,uppk)
+  local size=stpk:w_tell()
+  local size1=uppk:w_tell()
+  -- my.mylog("wsp "..size.." "..size1)
+  stpk:r_seek(0)
+  uppk:r_seek(0)
+  sobj:STATE_Read(stpk,size)
+  sobj:UPDATE_Read(uppk)
+  local npc=level.object_by_id(sobj.id)
+  if npc and (not noconvert) then
+    my.convert_npc[sobj.id]=true
+		npc:stop_talk()
+    switch_offline(npc)
+  end
+end
+
+function write_monster_params(tbl,sobj)
+  local stpk=net_packet()
+  local uppk=net_packet()
+  my.fill_se_monster_packet(tbl,stpk,uppk)
+  local size=stpk:w_tell()
+  local size1=uppk:w_tell()
+  -- my.mylog("wsp "..size.." "..size1)
+  stpk:r_seek(0)
+  uppk:r_seek(0)
+  sobj:STATE_Read(stpk,size)
+  sobj:UPDATE_Read(uppk)
+  -- local npc=level.object_by_id(sobj.id)
+  -- if npc then
+    -- my.convert_npc[sobj.id]=true
+    -- switch_offline(npc)
+  -- end
+end
+
+function parse_stalker_packet(ret,stpk,updpk,size)
+  parse_human_packet(ret,stpk,updpk)
+  parse_skeleton_packet(ret,stpk,updpk)
+  ret.hellodlg=updpk:r_stringZ()
+  ret.stunk1={}
+  for i=stpk:r_tell(),size-1,1 do
+    table.insert(ret.stunk1,stpk:r_u8())
+  end
+  return ret
+end
+
+function fill_stalker_packet(ret,stpk,updpk)
+  fill_human_packet(ret,stpk,updpk)
+  fill_skeleton_packet(ret,stpk,updpk)
+  updpk:w_stringZ(ret.hellodlg)
+  for i,v in ipairs(ret.stunk1) do
+    stpk:w_u8(v)
+  end
+end
+
+function parse_se_monster_packet(ret,stpk,updpk,size)
+  parse_monster_packet(ret,stpk,updpk,size)
+  parse_skeleton_packet(ret,stpk,updpk,size)
+  ret.spec_obj_id=stpk:r_u16()
+  ret.job_online=stpk:r_u8()
+	if ret.job_online>3 then
+		ret.state=true
+		ret.job_online=ret.job_online-4
+	else
+		ret.state=false
+	end
+  if ret.job_online==3 then
+    ret.job_online_condlist=stpk:r_stringZ()
+  end
+  ret.was_in_smtr=stpk:r_u8()
+  ret.stunk1={}
+  for i=stpk:r_tell(),size-1,1 do
+    table.insert(ret.stunk1,stpk:r_u8())
+  end
+
+function parse_human_packet(ret,stpk,updpk)
+  parse_trader_packet(ret,stpk,updpk)
+  parse_monster_packet(ret,stpk,updpk)
+  ret.huvu32u8u1=readvu32u8(stpk)
+  ret.huvu32u8u2=readvu32u8(stpk)  
+  return ret
+end
+
+function fill_human_packet(ret,stpk,updpk)
+  fill_trader_packet(ret,stpk,updpk)
+  fill_monster_packet(ret,stpk,updpk)
+  writevu32u8(stpk,ret.huvu32u8u1)
+  writevu32u8(stpk,ret.huvu32u8u2)
+end
+
+function parse_skeleton_packet(ret,stpk,updpk)
+  ret.skeleton=stpk:r_stringZ()
+  ret.skeleton_flags=stpk:r_u8()
+  ret.source_id=stpk:r_u16()
+  
+--  ret.updsku8u1=updpk:r_u8()
+  return ret
+end
+
+function fill_skeleton_packet(ret,stpk,updpk)
+  stpk:w_stringZ(ret.skeleton)
+  stpk:w_u8(ret.skeleton_flags)
+  stpk:w_u16(ret.source_id)
+  
+--  updpk:w_u8(ret.updsku8u1)
+end
+  return ret
+end
+
+function fill_se_monster_packet(ret,stpk,updpk)
+  fill_monster_packet(ret,stpk,updpk)
+  fill_skeleton_packet(ret,stpk,updpk)
+  stpk:w_u16(ret.spec_obj_id)
+	local st=0
+	if ret.state then
+		st=4
+	end
+  stpk:w_u8(ret.job_online+st)
+  if ret.job_online==3 then
+    stpk:w_stringZ(ret.job_online_condlist)
+  end
+  stpk:w_u8(ret.was_in_smtr)
+  for i,v in ipairs(ret.stunk1) do
+    stpk:w_u8(v)
+  end  
+end
+
+function spawn_item(spawn_itemmmm, pos, gv,lv)
+  if gv==nil then gv=db.actor:game_vertex_id() end
+  if lv==nil then lv=db.actor:level_vertex_id() end
+  return alife():create(spawn_itemmmm, pos, lv, gv)
+end

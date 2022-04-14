@@ -1,0 +1,4854 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<game_dialogs>
+
+<dialog id="marsh_svoboda_gruver_dialog_3">
+	<has_info>gone_nestor_start</has_info>
+	<dont_has_info>player_complete_gone_nestor</dont_has_info>
+	<dont_has_info>gone_nestor_2_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_svoboda_gruver_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_svoboda_gruver_dialog_3_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>marsh_svoboda_gruver_dialog_3_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_svoboda_gruver_dialog_3_3</text>
+			<next>4</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+			<text>marsh_svoboda_gruver_dialog_3_4</text>
+	<give_info>gone_nestor_2_start</give_info>
+	<give_info>gone_nestor_1_fail</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="5">
+			<text>marsh_svoboda_gruver_dialog_3_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>marsh_svoboda_gruver_dialog_3_6</text>
+			<next>7</next>
+			<next>8</next>
+		</phrase>
+		<phrase id="7">
+			<text>marsh_svoboda_gruver_dialog_3_7</text>
+	<give_info>gone_nestor_2_start</give_info>
+	<give_info>gone_nestor_1_fail</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="8">
+			<text>marsh_svoboda_gruver_dialog_3_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>marsh_svoboda_gruver_dialog_3_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>marsh_svoboda_gruver_dialog_3_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>marsh_svoboda_gruver_dialog_3_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>marsh_svoboda_gruver_dialog_3_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>marsh_svoboda_gruver_dialog_3_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>marsh_svoboda_gruver_dialog_3_14</text>
+	<give_info>player_complete_gone_nestor</give_info>
+	<action>als_money.give_20000_money</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_bandit_siply_dialog_2">
+	<has_info>gone_nestor_2_start</has_info>
+	<dont_has_info>gone_nestor_2_fail</dont_has_info>
+	<dont_has_info>player_complete_gone_nestor_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_bandit_siply_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_bandit_siply_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>marsh_bandit_siply_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_bandit_siply_dialog_2_3</text>
+			<next>4</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+			<text>marsh_bandit_siply_dialog_2_4</text>
+	<give_info>gone_nestor_2_fail</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="5">
+			<text>marsh_bandit_siply_dialog_2_5</text>
+
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>marsh_bandit_siply_dialog_2_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>marsh_bandit_siply_dialog_2_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>marsh_bandit_siply_dialog_2_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>marsh_bandit_siply_dialog_2_9</text>
+	<action>als_money.give_10000_money</action>
+	<give_info>player_complete_gone_nestor_2</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_bandit_siply_dialog_3">
+	<has_info>find_gone_selectors_start</has_info>
+	<dont_has_info>zaglushka_444</dont_has_info>
+	<dont_has_info>crime_at_marsh_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_bandit_siply_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_bandit_siply_dialog_3_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>marsh_bandit_siply_dialog_3_2</text>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_bandit_siply_dialog_3_3</text>
+
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>marsh_bandit_siply_dialog_3_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>marsh_bandit_siply_dialog_3_5</text>
+	<action>als_money.give_10000_money</action>
+	<give_info>zaglushka_444</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_bandit_siply_dialog_4">
+	<has_info>flying_laboratory_start</has_info>
+	<dont_has_info>zaglushka_445</dont_has_info>
+	<dont_has_info>flying_laboratory_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_bandit_siply_dialog_4_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_bandit_siply_dialog_4_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>marsh_bandit_siply_dialog_4_2</text>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_bandit_siply_dialog_4_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>marsh_bandit_siply_dialog_4_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>marsh_bandit_siply_dialog_4_5</text>
+	<action>als_money.give_15000_money</action>
+	<give_info>zaglushka_445</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="val_killer_yalta_arrest_dialog_1">
+	<dont_has_info>val_told_yalta_group</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>val_killer_yalta_arrest_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>val_killer_yalta_arrest_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>val_killer_yalta_arrest_dialog_1_2</text>
+	<give_info>val_told_yalta_group</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="sidor_dialog_about_reanimator">
+	<has_info>player_complete_old_bunker_sidor</has_info>
+	<dont_has_info>player_complete_legend_about_reanimator</dont_has_info>
+	<dont_has_info>zaglushka_396</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>sidor_dialog_about_reanimator_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>sidor_dialog_about_reanimator_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>sidor_dialog_about_reanimator_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>sidor_dialog_about_reanimator_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>sidor_dialog_about_reanimator_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>sidor_dialog_about_reanimator_5</text>
+			<next>6</next>
+			<next>7</next>
+		</phrase>
+		<phrase id="6">
+			<text>sidor_dialog_about_reanimator_6</text>
+	<give_info>zaglushka_396</give_info>
+		</phrase>
+		<phrase id="7">
+			<text>sidor_dialog_about_reanimator_7</text>
+	<give_info>zaglushka_396</give_info>
+	<give_info>legend_about_reanimator_start</give_info>
+	<!-- <action>dialogs.break_dialog</action> -->
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="mil_military_stalker_3_dialog">
+	<dont_has_info>zaglushka_403</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>mil_military_stalker_3_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>mil_military_stalker_3_dialog_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>mil_military_stalker_3_dialog_2</text>
+			<next>3</next>
+			<next>4</next>
+		</phrase>
+		<phrase id="3">
+	<has_info>military_stalkers_start</has_info>
+			<text>mil_military_stalker_3_dialog_3</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+	<dont_has_info>military_stalkers_start</dont_has_info>
+			<text>mil_military_stalker_3_dialog_4</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="5">
+			<text>mil_military_stalker_3_dialog_5</text>
+	<give_info>mil_quadro_is_unblocked</give_info>
+	<give_info>zaglushka_403</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="6">
+			<text>mil_military_stalker_3_dialog_6</text>
+	<give_info>zaglushka_403</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gar_raider_1_dialog_1">
+	<dont_has_info>player_complete_unknown_persons</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gar_raider_1_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gar_raider_1_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gar_raider_1_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gar_raider_1_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>gar_raider_1_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>gar_raider_1_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>gar_raider_1_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>gar_raider_1_dialog_1_7</text>
+	<give_info>unknown_persons_1</give_info>
+	<give_info>player_complete_unknown_persons</give_info>
+	<action>als_spawn.spawn_red_1</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="varnak_dialog_about_teuton_1">
+	<has_info>tarnished_reputation_start</has_info>
+	<dont_has_info>disappearance_of_teuton_1</dont_has_info>
+	<dont_has_info>told_varnak_about_teuton_1</dont_has_info>
+	<dont_has_info>told_varnak_about_teuton_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>varnak_dialog_about_teuton_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>varnak_dialog_about_teuton_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>varnak_dialog_about_teuton_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>varnak_dialog_about_teuton_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>varnak_dialog_about_teuton_1_4</text>
+	<give_info>told_varnak_about_teuton_1</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="varnak_dialog_about_teuton_2">
+	<has_info>tarnished_reputation_start</has_info>
+	<has_info>disappearance_of_teuton_1</has_info>
+	<dont_has_info>told_varnak_about_teuton_1</dont_has_info>
+	<dont_has_info>told_varnak_about_teuton_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>varnak_dialog_about_teuton_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>varnak_dialog_about_teuton_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>varnak_dialog_about_teuton_2_2</text>
+	<give_info>told_varnak_about_teuton_2</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="barman_dialog_about_teuton_1">
+	<has_info>tarnished_reputation_start</has_info>
+	<has_info>told_varnak_about_teuton_1</has_info>
+	<dont_has_info>told_barman_about_teuton_2</dont_has_info>
+	<dont_has_info>disappearance_of_teuton_1</dont_has_info>
+	<dont_has_info>disappearance_of_teuton_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>barman_dialog_about_teuton_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>barman_dialog_about_teuton_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>barman_dialog_about_teuton_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>barman_dialog_about_teuton_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>barman_dialog_about_teuton_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>barman_dialog_about_teuton_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>barman_dialog_about_teuton_1_6</text>
+	<give_info>info_als_story_ar_37</give_info>
+	<give_info>told_barman_about_teuton_1</give_info>
+	<give_info>disappearance_of_teuton_start</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="barman_dialog_about_teuton_2">
+	<has_info>tarnished_reputation_start</has_info>
+	<has_info>disappearance_of_teuton_1</has_info>
+	<has_info>told_varnak_about_teuton_2</has_info>
+	<dont_has_info>told_barman_about_teuton_1</dont_has_info>
+	<dont_has_info>told_barman_about_teuton_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>barman_dialog_about_teuton_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>barman_dialog_about_teuton_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>barman_dialog_about_teuton_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>barman_dialog_about_teuton_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>barman_dialog_about_teuton_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>barman_dialog_about_teuton_2_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>barman_dialog_about_teuton_2_6</text>
+	<give_info>info_als_story_ar_37</give_info>
+	<give_info>told_barman_about_teuton_2</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="mil_gold_dialog">
+	<dont_has_info>key_for_portal_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>mil_gold_dialog_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>mil_gold_dialog_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>mil_gold_dialog_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>mil_gold_dialog_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>mil_gold_dialog_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>mil_gold_dialog_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>mil_gold_dialog_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>mil_gold_dialog_7</text>
+	<give_info>meeting_on_krovososovka_1</give_info>
+	<give_info>player_complete_meeting_on_krovososovka</give_info>
+	<give_info>key_for_portal_start</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="red_kasper_dialog_1">
+	<dont_has_info>zaglushka_415</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>red_kasper_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>red_kasper_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>red_kasper_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>red_kasper_dialog_1_3</text>
+	<give_info>zaglushka_415</give_info>
+	<action>als_spawn.spawn_red_2</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="red_kasper_dialog_2">
+	<has_info>zaglushka_415</has_info>
+	<has_info>track_to_limansk_2</has_info>
+	<dont_has_info>zaglushka_416</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>red_kasper_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>red_kasper_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>red_kasper_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>red_kasper_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>red_kasper_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>red_kasper_dialog_2_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>red_kasper_dialog_2_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>red_kasper_dialog_2_7</text>
+	<give_info>zaglushka_416</give_info>
+	<give_info>track_to_limansk_3</give_info>
+	<give_info>player_complete_track_to_limansk</give_info>
+	<action>als_item_vax.gena_maljawa_vax</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="red_kasper_dialog_3">
+	<has_info>zaglushka_415</has_info>
+	<dont_has_info>track_to_limansk_2</dont_has_info>
+	<dont_has_info>zaglushka_416</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>red_kasper_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>red_kasper_dialog_3_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>red_kasper_dialog_3_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>red_kasper_dialog_3_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>red_kasper_dialog_3_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>red_kasper_dialog_3_5</text>
+	<give_info>zaglushka_416</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="lim_crocodil_dialog_1">
+	<dont_has_info>zaglushka_434</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>lim_crocodil_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>lim_crocodil_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>lim_crocodil_dialog_1_2</text>
+	<give_info>zaglushka_434</give_info>
+	<action>als_spawn.spawn_limansk</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="lim_yakovlev_dialog_1">
+	<dont_has_info>zaglushka_436</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>lim_yakovlev_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>lim_yakovlev_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>lim_yakovlev_dialog_1_2</text>
+	<give_info>zaglushka_433</give_info>
+			<next>3</next>
+			<next>4</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="3">
+	<!-- <has_info>player_complete_perimetre_storm</has_info> -->
+	<has_info>perimetre_storm_start</has_info>
+			<text>lim_yakovlev_dialog_1_3</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="4">
+	<!-- <has_info>player_complete_peace_talker</has_info> -->
+	<has_info>peace_talker_start</has_info>
+			<text>lim_yakovlev_dialog_1_4</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="5">
+	<!-- <dont_has_info>player_complete_perimetre_storm</dont_has_info>
+	<dont_has_info>player_complete_peace_talker</dont_has_info> -->
+	<dont_has_info>perimetre_storm_start</dont_has_info>
+	<dont_has_info>peace_talker_start</dont_has_info>
+			<text>lim_yakovlev_dialog_1_5</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="6">
+			<text>lim_yakovlev_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>lim_yakovlev_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>lim_yakovlev_dialog_1_8</text>
+	<give_info>zaglushka_435</give_info>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>lim_yakovlev_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>lim_yakovlev_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>lim_yakovlev_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>lim_yakovlev_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>lim_yakovlev_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>lim_yakovlev_dialog_1_14</text>
+	<give_info>zaglushka_436</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_luzenko_dialog_1">
+	<has_info>zaglushka_237</has_info>
+	<has_info>message_from_the_next_world_start</has_info>
+	<dont_has_info>player_complete_message_from_the_next_world</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_luzenko_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_luzenko_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_luzenko_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_luzenko_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_luzenko_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dr_luzenko_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dr_luzenko_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dr_luzenko_dialog_1_7</text>
+			<next>8</next>
+			<next>9</next>
+			<next>10</next>
+		</phrase>
+		<phrase id="8">
+	<precondition>dialogs.has_braverman_pda</precondition>
+			<text>dr_luzenko_dialog_1_8</text>
+	<action>als_item_nax.braverman_pda_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="9">
+	<precondition>dialogs.hasnot_braverman_pda</precondition>
+	<has_info>has_braverman_pda_given_to_hacker</has_info>
+			<text>dr_luzenko_dialog_1_9</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="10">
+	<precondition>dialogs.hasnot_braverman_pda</precondition>
+	<dont_has_info>has_braverman_pda_given_to_hacker</dont_has_info>
+			<text>dr_luzenko_dialog_1_10</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="11">
+			<text>dr_luzenko_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dr_luzenko_dialog_1_12</text>
+	<give_info>message_from_the_next_world_1</give_info>
+	<give_info>message_from_the_next_world_2</give_info>
+	<give_info>player_complete_message_from_the_next_world</give_info>
+		</phrase>
+		<phrase id="13">
+			<text>dr_luzenko_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dr_luzenko_dialog_1_14</text>
+	<give_info>protection_for_luzenko</give_info>
+	<give_info>message_from_the_next_world_1</give_info>
+	<give_info>message_from_the_next_world_2</give_info>
+	<give_info>player_complete_message_from_the_next_world</give_info>
+		</phrase>
+		<phrase id="15">
+			<text>dr_luzenko_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>dr_luzenko_dialog_1_16</text>
+	<give_info>message_from_the_next_world_1</give_info>
+	<give_info>message_from_the_next_world_2</give_info>
+	<give_info>player_complete_message_from_the_next_world</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_luzenko_dialog_1_var">
+	<dont_has_info>zaglushka_237</dont_has_info>
+	<has_info>message_from_the_next_world_start</has_info>
+	<dont_has_info>player_complete_message_from_the_next_world</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_luzenko_dialog_1_var_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_luzenko_dialog_1_var_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_luzenko_dialog_1_var_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_luzenko_dialog_1_var_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_luzenko_dialog_1_var_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dr_luzenko_dialog_1_var_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dr_luzenko_dialog_1_var_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dr_luzenko_dialog_1_var_7</text>
+			<next>8</next>
+			<next>9</next>
+			<next>10</next>
+		</phrase>
+		<phrase id="8">
+	<precondition>dialogs.has_braverman_pda</precondition>
+			<text>dr_luzenko_dialog_1_var_8</text>
+	<action>als_item_nax.braverman_pda_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="9">
+	<precondition>dialogs.hasnot_braverman_pda</precondition>
+	<has_info>has_braverman_pda_given_to_hacker</has_info>
+			<text>dr_luzenko_dialog_1_var_9</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="10">
+	<precondition>dialogs.hasnot_braverman_pda</precondition>
+	<dont_has_info>has_braverman_pda_given_to_hacker</dont_has_info>
+			<text>dr_luzenko_dialog_1_var_10</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="11">
+			<text>dr_luzenko_dialog_1_var_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dr_luzenko_dialog_1_var_12</text>
+	<give_info>message_from_the_next_world_1</give_info>
+	<give_info>message_from_the_next_world_2</give_info>
+	<give_info>player_complete_message_from_the_next_world</give_info>
+		</phrase>
+		<phrase id="13">
+			<text>dr_luzenko_dialog_1_var_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dr_luzenko_dialog_1_var_14</text>
+	<give_info>protection_for_luzenko</give_info>
+	<give_info>message_from_the_next_world_1</give_info>
+	<give_info>message_from_the_next_world_2</give_info>
+	<give_info>player_complete_message_from_the_next_world</give_info>
+		</phrase>
+		<phrase id="15">
+			<text>dr_luzenko_dialog_1_var_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>dr_luzenko_dialog_1_var_16</text>
+	<give_info>message_from_the_next_world_1</give_info>
+	<give_info>message_from_the_next_world_2</give_info>
+	<give_info>player_complete_message_from_the_next_world</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_luzenko_dialog_2">
+	<has_info>lost_scientist_start</has_info>
+	<has_info>lost_scientist_1</has_info>
+	<dont_has_info>player_complete_lost_scientist</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_luzenko_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_luzenko_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_luzenko_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_luzenko_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_luzenko_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dr_luzenko_dialog_2_5</text>
+			<next>6</next>
+			<next>7</next>
+			<next>8</next>
+		</phrase>
+		<phrase id="6">
+	<precondition>dialogs.has_braverman_pda</precondition>
+			<text>dr_luzenko_dialog_2_6</text>
+	<action>als_item_nax.braverman_pda_nax</action>
+			<next>9</next>
+		</phrase>
+		<phrase id="7">
+	<precondition>dialogs.hasnot_braverman_pda</precondition>
+	<has_info>has_braverman_pda_given_to_hacker</has_info>
+			<text>dr_luzenko_dialog_2_7</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="8">
+	<precondition>dialogs.hasnot_braverman_pda</precondition>
+	<dont_has_info>has_braverman_pda_given_to_hacker</dont_has_info>
+			<text>dr_luzenko_dialog_2_8</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="9">
+			<text>dr_luzenko_dialog_2_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>dr_luzenko_dialog_2_10</text>
+	<action>als_money.get_30000_money</action>
+	<give_info>lost_scientist_2</give_info>
+	<give_info>player_complete_lost_scientist</give_info>
+		</phrase>
+		<phrase id="11">
+			<text>dr_luzenko_dialog_2_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dr_luzenko_dialog_2_12</text>
+	<action>als_money.get_20000_money</action>
+	<give_info>protection_for_luzenko</give_info>
+	<give_info>lost_scientist_2</give_info>
+	<give_info>player_complete_lost_scientist</give_info>
+		</phrase>
+		<phrase id="13">
+			<text>dr_luzenko_dialog_2_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dr_luzenko_dialog_2_14</text>
+	<action>als_money.get_20000_money</action>
+	<give_info>lost_scientist_2</give_info>
+	<give_info>player_complete_lost_scientist</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_luzenko_dialog_3">
+	<has_info>flying_laboratory_1</has_info>
+	<has_info>flying_laboratory_start</has_info>
+	<dont_has_info>player_complete_flying_laboratory</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_luzenko_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_luzenko_dialog_3_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_luzenko_dialog_3_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_luzenko_dialog_3_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_luzenko_dialog_3_4</text>
+	<action>als_money.get_30000_money</action>
+	<give_info>flying_laboratory_2</give_info>
+	<give_info>player_complete_flying_laboratory</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_pirogov_dialog_1">
+	<dont_has_info>dr_pirogov_about_teleporter_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_pirogov_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_pirogov_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_pirogov_dialog_1_2</text>
+	<give_info>dr_pirogov_about_teleporter_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_pirogov_dialog_4">
+	<has_info>dr_pirogov_about_teleporter_1</has_info>
+	<has_info>flying_laboratory_2</has_info>
+	<has_info>player_complete_flying_laboratory</has_info>
+	<dont_has_info>dr_pirogov_about_fly_box</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_pirogov_dialog_4_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_pirogov_dialog_4_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_pirogov_dialog_4_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_pirogov_dialog_4_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_pirogov_dialog_4_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dr_pirogov_dialog_4_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dr_pirogov_dialog_4_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dr_pirogov_dialog_4_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>dr_pirogov_dialog_4_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>dr_pirogov_dialog_4_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>dr_pirogov_dialog_4_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>dr_pirogov_dialog_4_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dr_pirogov_dialog_4_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>dr_pirogov_dialog_4_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dr_pirogov_dialog_4_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>dr_pirogov_dialog_4_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>dr_pirogov_dialog_4_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>dr_pirogov_dialog_4_17</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="18">
+			<text>dr_pirogov_dialog_4_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>dr_pirogov_dialog_4_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>dr_pirogov_dialog_4_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>dr_pirogov_dialog_4_21</text>
+			<next>22</next>
+			<next>23</next>
+		</phrase>
+		<phrase id="22">
+			<text>dr_pirogov_dialog_4_22</text>
+	<give_info>dr_pirogov_about_fly_box</give_info>
+	<give_info>dr_pirogov_fly_box_start</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="23">
+			<text>dr_pirogov_dialog_4_23</text>
+	<give_info>dr_pirogov_about_fly_box</give_info>
+	<give_info>dr_pirogov_fly_box_no</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+
+<dialog id="dr_pirogov_dialog_5">
+	<has_info>dr_pirogov_fly_box_2</has_info>
+	<dont_has_info>dr_pirogov_fly_box_end</dont_has_info>
+	<precondition>dialogs.has_fly_block</precondition>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_pirogov_dialog_5_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_pirogov_dialog_5_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_pirogov_dialog_5_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_pirogov_dialog_5_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_pirogov_dialog_5_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dr_pirogov_dialog_5_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dr_pirogov_dialog_5_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dr_pirogov_dialog_5_7</text>
+	<give_info>dr_pirogov_fly_box_3</give_info>
+	<give_info>dr_pirogov_fly_box_end</give_info>	
+	<action>dialogs.transfer_fly_box</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+
+<dialog id="dr_pirogov_dialog_6">
+	<has_info>dr_pirogov_fly_box_no</has_info>
+	<dont_has_info>dr_pirogov_fly_box_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_pirogov_dialog_6_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_pirogov_dialog_6_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_pirogov_dialog_6_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_pirogov_dialog_6_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_pirogov_dialog_6_4</text>
+	<give_info>dr_pirogov_fly_box_start</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+
+
+<dialog id="f_alexander_dialog_1">
+	<dont_has_info>zaglushka_440</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>f_alexander_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>f_alexander_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>f_alexander_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>f_alexander_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>f_alexander_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>f_alexander_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>f_alexander_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>f_alexander_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>f_alexander_dialog_1_8</text>
+	<give_info>zaglushka_440</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="f_sergy_dialog_1">
+	<dont_has_info>zaglushka_441</dont_has_info>
+	<dont_has_info>courtyard_in_east_pripyat_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>f_sergy_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>f_sergy_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>f_sergy_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>f_sergy_dialog_1_3</text>
+			<next>4</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+	<has_info>zaglushka_262</has_info>
+			<text>f_sergy_dialog_1_4</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="5">
+	<dont_has_info>zaglushka_262</dont_has_info>
+			<text>f_sergy_dialog_1_5</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="6">
+			<text>f_sergy_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>f_sergy_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>f_sergy_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>f_sergy_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>f_sergy_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>f_sergy_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>f_sergy_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>f_sergy_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>f_sergy_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>f_sergy_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>f_sergy_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>f_sergy_dialog_1_17</text>
+	<give_info>zaglushka_441</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="lim_military_stalker_commander_dialog_1">
+	<dont_has_info>neutralise_turrets_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>lim_military_stalker_commander_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>lim_military_stalker_commander_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>lim_military_stalker_commander_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>lim_military_stalker_commander_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>lim_military_stalker_commander_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>lim_military_stalker_commander_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>lim_military_stalker_commander_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>lim_military_stalker_commander_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>lim_military_stalker_commander_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>lim_military_stalker_commander_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>lim_military_stalker_commander_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>lim_military_stalker_commander_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>lim_military_stalker_commander_dialog_1_12</text>
+			<next>13</next>
+			<next>14</next>
+		</phrase>
+		<phrase id="13">
+	<has_info>return_usbdisk_to_leo_start</has_info>
+			<text>lim_military_stalker_commander_dialog_1_13</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="14">
+	<dont_has_info>return_usbdisk_to_leo_start</dont_has_info>
+			<text>lim_military_stalker_commander_dialog_1_14</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="15">
+			<text>lim_military_stalker_commander_dialog_1_15</text>
+			<next>16</next>
+			<next>17</next>
+		</phrase>
+		<phrase id="16">
+	<precondition>dialogs.has_military_stalkers_flash</precondition>
+			<text>lim_military_stalker_commander_dialog_1_16</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="17">
+	<precondition>dialogs.hasnot_military_stalkers_flash</precondition>
+			<text>lim_military_stalker_commander_dialog_1_17</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="18">
+			<text>lim_military_stalker_commander_dialog_1_18</text>
+			<next>23</next>
+		</phrase>
+		<phrase id="19">
+			<text>lim_military_stalker_commander_dialog_1_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>lim_military_stalker_commander_dialog_1_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>lim_military_stalker_commander_dialog_1_21</text>
+			<next>22</next>
+		</phrase>
+		<phrase id="22">
+			<text>lim_military_stalker_commander_dialog_1_22</text>
+	<give_info>return_usbdisk_to_leo_1</give_info>
+	<give_info>player_complete_return_usbdisk_to_leo</give_info>
+	<give_info>player_complete_military_stalkers</give_info>
+	<give_info>neutralise_turrets_start</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="23">
+			<text>lim_military_stalker_commander_dialog_1_23</text>
+			<next>24</next>
+		</phrase>
+		<phrase id="24">
+			<text>lim_military_stalker_commander_dialog_1_24</text>
+			<next>25</next>
+		</phrase>
+		<phrase id="25">
+			<text>lim_military_stalker_commander_dialog_1_22</text>
+	<give_info>return_usbdisk_to_leo_1</give_info>
+	<give_info>player_complete_return_usbdisk_to_leo</give_info>
+	<give_info>player_complete_military_stalkers</give_info>
+	<give_info>neutralise_turrets_start</give_info>
+	<action>als_item_nax.military_stalkers_flash_nax</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_pirogov_dialog_2">
+	<has_info>neutralise_turrets_start</has_info>
+	<dont_has_info>neutralise_turrets_1</dont_has_info>
+	<dont_has_info>zaglushka_442</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_pirogov_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_pirogov_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_pirogov_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_pirogov_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_pirogov_dialog_2_4</text>
+	<give_info>zaglushka_442</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="lim_yakovlev_dialog_2">
+	<has_info>duty_help_start</has_info>
+	<dont_has_info>duty_help_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>lim_yakovlev_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>lim_yakovlev_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>lim_yakovlev_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>lim_yakovlev_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>lim_yakovlev_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>lim_yakovlev_dialog_2_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>lim_yakovlev_dialog_2_6</text>
+	<give_info>duty_help_2</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="lim_military_stalker_commander_dialog_2">
+	<has_info>duty_help_start</has_info>
+	<dont_has_info>duty_help_1</dont_has_info>
+	<dont_has_info>duty_help_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>lim_military_stalker_commander_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>lim_military_stalker_commander_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>lim_military_stalker_commander_dialog_2_2</text>
+	<give_info>duty_help_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="esc_col_panzer_dialog_1">
+	<has_info>player_complete_perimetre_storm</has_info>
+	<dont_has_info>esc_told_panzer</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>esc_col_panzer_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>esc_col_panzer_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>esc_col_panzer_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>esc_col_panzer_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>esc_col_panzer_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>esc_col_panzer_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>esc_col_panzer_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>esc_col_panzer_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>esc_col_panzer_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>esc_col_panzer_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>esc_col_panzer_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>esc_col_panzer_dialog_1_11</text>
+	<give_info>the_last_stalker_start</give_info>
+	<give_info>esc_told_panzer</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="sidor_dialog_about_resettlement">
+	<has_info>esc_dolg_regrouping</has_info>
+	<dont_has_info>sor_told_sor_sidor</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>sidor_dialog_about_resettlement_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>sidor_dialog_about_resettlement_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>sidor_dialog_about_resettlement_2</text>
+	<give_info>sor_told_sor_sidor</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_uzbek_wr_dialog_3">
+	<has_info>relatives_start</has_info>
+	<dont_has_info>player_complete_relatives</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_uzbek_wr_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_uzbek_wr_dialog_3_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+	<precondition>dialogs.has_teuton_malyawa</precondition>
+			<text>marsh_uzbek_wr_dialog_3_2</text>
+	<action>als_item_nax.teuton_malyawa_nax</action>
+			<next>4</next>
+		</phrase>
+		<phrase id="3">
+	<precondition>dialogs.hasnot_teuton_malyawa</precondition>
+			<text>marsh_uzbek_wr_dialog_3_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>marsh_uzbek_wr_dialog_3_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>marsh_uzbek_wr_dialog_3_5</text>
+	<give_info>relatives_1</give_info>
+	<give_info>player_complete_relatives</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_galash_dialog_5">
+	<has_info>player_complete_relatives</has_info>
+	<dont_has_info>stalker_catcher_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_galash_dialog_5_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_galash_dialog_5_1</text>
+			<next>2</next>
+			<next>9</next>
+		</phrase>
+		<phrase id="2">
+	<has_info>found_teuton_malyawa</has_info>
+			<text>marsh_galash_dialog_5_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_galash_dialog_5_3</text>
+			<next>4</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+	<has_info>heli_and_ikons_3_start</has_info>
+			<text>marsh_galash_dialog_5_4</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="5">
+	<dont_has_info>heli_and_ikons_3_start</dont_has_info>
+			<text>marsh_galash_dialog_5_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>marsh_galash_dialog_5_6</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="7">
+			<text>marsh_galash_dialog_5_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>marsh_galash_dialog_5_8</text>
+	<give_info>stalker_catcher_start</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="9">
+	<dont_has_info>found_teuton_malyawa</dont_has_info>
+			<text>marsh_galash_dialog_5_9</text>
+			<next>3</next>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="catcher_dialog_1">
+	<has_info>stalker_catcher_start</has_info>
+	<dont_has_info>player_complete_stalker_catcher</dont_has_info>
+	<dont_has_info>stalker_catcher_said_no</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>catcher_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>catcher_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>catcher_dialog_1_2</text>
+			<next>3</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="3">
+	<has_info>arrival_on_stalkers_start</has_info>
+			<text>catcher_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>catcher_dialog_1_4</text>
+	<give_info>stalker_catcher_said_no</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="5">
+	<dont_has_info>arrival_on_stalkers_start</dont_has_info>
+			<text>catcher_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>catcher_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>catcher_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>catcher_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>catcher_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>catcher_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>catcher_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>catcher_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>catcher_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>catcher_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>catcher_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>catcher_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>catcher_dialog_1_17</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="18">
+			<text>catcher_dialog_1_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>catcher_dialog_1_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>catcher_dialog_1_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>catcher_dialog_1_21</text>
+			<next>22</next>
+		</phrase>
+		<phrase id="22">
+			<text>catcher_dialog_1_22</text>
+			<next>23</next>
+		</phrase>
+		<phrase id="23">
+			<text>catcher_dialog_1_23</text>
+			<next>24</next>
+		</phrase>
+		<phrase id="24">
+			<text>catcher_dialog_1_24</text>
+			<next>25</next>
+		</phrase>
+		<phrase id="25">
+			<text>catcher_dialog_1_25</text>
+			<next>26</next>
+		</phrase>
+		<phrase id="26">
+			<text>catcher_dialog_1_26</text>
+			<next>27</next>
+		</phrase>
+		<phrase id="27">
+			<text>catcher_dialog_1_27</text>
+			<next>28</next>
+		</phrase>
+		<phrase id="28">
+			<text>catcher_dialog_1_28</text>
+			<next>29</next>
+		</phrase>
+		<phrase id="29">
+			<text>catcher_dialog_1_29</text>
+			<next>30</next>
+		</phrase>
+		<phrase id="30">
+			<text>catcher_dialog_1_30</text>
+			<next>31</next>
+		</phrase>
+		<phrase id="31">
+			<text>catcher_dialog_1_31</text>
+			<next>32</next>
+		</phrase>
+		<phrase id="32">
+			<text>catcher_dialog_1_32</text>
+			<next>33</next>
+		</phrase>
+		<phrase id="33">
+			<text>catcher_dialog_1_33</text>
+			<next>34</next>
+		</phrase>
+		<phrase id="34">
+			<text>catcher_dialog_1_34</text>
+			<next>35</next>
+		</phrase>
+		<phrase id="35">
+			<text>catcher_dialog_1_35</text>
+			<next>36</next>
+		</phrase>
+		<phrase id="36">
+			<text>catcher_dialog_1_36</text>
+			<next>37</next>
+		</phrase>
+		<phrase id="37">
+			<text>catcher_dialog_1_37</text>
+			<next>38</next>
+		</phrase>
+		<phrase id="38">
+			<text>catcher_dialog_1_38</text>
+	<give_info>stalker_catcher_1</give_info>
+	<give_info>player_complete_stalker_catcher</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_galash_dialog_6">
+	<has_info>player_complete_stalker_catcher</has_info>
+	<dont_has_info>zaglushka_471</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_galash_dialog_6_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_galash_dialog_6_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>marsh_galash_dialog_6_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_galash_dialog_6_3</text>
+			<next>4</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+	<has_info>val_operator_is_dead</has_info>
+			<text>marsh_galash_dialog_6_4</text>
+	<give_info>zaglushka_471</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="5">
+	<dont_has_info>val_operator_is_dead</dont_has_info>
+			<text>marsh_galash_dialog_6_5</text>
+	<give_info>zaglushka_471</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="last_sinoptic_dialog_1">
+	<has_info>find_necronomicon_2</has_info>
+	<dont_has_info>player_complete_find_necronomicon</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>last_sinoptic_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>last_sinoptic_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>last_sinoptic_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>last_sinoptic_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>last_sinoptic_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>last_sinoptic_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>last_sinoptic_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>last_sinoptic_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>last_sinoptic_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>last_sinoptic_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>last_sinoptic_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>last_sinoptic_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>last_sinoptic_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>last_sinoptic_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>last_sinoptic_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>last_sinoptic_dialog_1_15</text>
+	<give_info>zaglushka_472</give_info>
+	<give_info>player_complete_find_necronomicon</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="last_sinoptic_dialog_2">
+	<!-- <has_info></has_info> -->
+	<dont_has_info>zaglushka_473</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>last_sinoptic_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>last_sinoptic_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>last_sinoptic_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>last_sinoptic_dialog_2_3</text>
+	<give_info>zaglushka_473</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="sor_grc_agent_prisoner_dialog_2">
+	<has_info>peace_talker_start</has_info>
+	<dont_has_info>peace_talker_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>sor_grc_agent_prisoner_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>sor_grc_agent_prisoner_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>sor_grc_agent_prisoner_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>sor_grc_agent_prisoner_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>sor_grc_agent_prisoner_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>sor_grc_agent_prisoner_dialog_2_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>sor_grc_agent_prisoner_dialog_2_6</text>
+	<give_info>peace_talker_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="sor_panzer_dialog_2">
+	<has_info>peace_talker_3</has_info>
+	<dont_has_info>gate_in_the_zone_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>sor_panzer_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>sor_panzer_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>sor_panzer_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>sor_panzer_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>sor_panzer_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>sor_panzer_dialog_2_5</text>
+	<give_info>peace_talker_4</give_info>
+	<give_info>player_complete_peace_talker</give_info>
+	<give_info>gate_in_the_zone_start</give_info>
+	<action>als_on_off_switch.esc_undestr_gate_off</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="esc_grc_agent_dialog_1">
+	<has_info>peace_talker_2</has_info>
+	<dont_has_info>esc_peacetalker_cutscene_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>esc_grc_agent_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>esc_grc_agent_dialog_1_1</text>
+	<give_info>esc_peacetalker_cutscene_start</give_info>
+	<action>als_on_off_switch.sor_ivanzov_marchenko_off</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="lim_kasper_dialog_1">
+	<has_info>player_complete_principle_business</has_info>
+	<dont_has_info>lim_kasper_last_dialog</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>lim_kasper_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>lim_kasper_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>lim_kasper_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>lim_kasper_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>lim_kasper_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>lim_kasper_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>lim_kasper_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>lim_kasper_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>lim_kasper_dialog_1_8</text>
+	<give_info>lim_kasper_last_dialog</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_luzenko_dialog_4">
+	<precondition>dialogs.has_blade_radiokey_or_radiokeys</precondition>
+	<dont_has_info>lim_luzenko_about_devices</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_luzenko_dialog_4_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_luzenko_dialog_4_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_luzenko_dialog_4_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_luzenko_dialog_4_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_luzenko_dialog_4_4</text>
+	<give_info>lim_luzenko_about_devices</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dr_pirogov_dialog_3">
+	<has_info>lim_kasper_last_dialog</has_info>
+	<dont_has_info>lim_pirogov_about_teleport</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_pirogov_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_pirogov_dialog_3_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dr_pirogov_dialog_3_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dr_pirogov_dialog_3_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dr_pirogov_dialog_3_4</text>
+	<give_info>lim_pirogov_about_teleport</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_yalta_dialog_1">
+	<dont_has_info>zaglushka_505</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_yalta_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_yalta_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>marsh_yalta_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_yalta_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>marsh_yalta_dialog_1_4</text>
+	<give_info>zaglushka_505</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="marsh_zulus_dialog_1">
+	<dont_has_info>zaglushka_365</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>marsh_zulus_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>marsh_zulus_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>marsh_zulus_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>marsh_zulus_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>marsh_zulus_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>marsh_zulus_dialog_1_5</text>
+			<next>6</next>
+			<next>10</next>
+		</phrase>
+		<phrase id="6">
+	<has_info>taked_blade_pda</has_info>
+			<text>marsh_zulus_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>marsh_zulus_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>marsh_zulus_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>marsh_zulus_dialog_1_9</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="10">
+	<dont_has_info>taked_blade_pda</dont_has_info>
+			<text>marsh_zulus_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>marsh_zulus_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>marsh_zulus_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>marsh_zulus_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>marsh_zulus_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>marsh_zulus_dialog_1_15</text>
+			<next>16</next>
+			<next>17</next>
+		</phrase>
+		<phrase id="16">
+	<has_info>taked_blade_pda</has_info>
+			<text>marsh_zulus_dialog_1_16</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="17">
+	<dont_has_info>taked_blade_pda</dont_has_info>
+			<text>marsh_zulus_dialog_1_17</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="18">
+			<text>marsh_zulus_dialog_1_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>marsh_zulus_dialog_1_19</text>
+			<next>20</next>
+			<next>21</next>
+		</phrase>
+		<phrase id="20">
+	<dont_has_info>arrival_on_stalkers_start</dont_has_info>
+			<text>marsh_zulus_dialog_1_20</text>
+			<next>22</next>
+		</phrase>
+		<phrase id="21">
+	<has_info>arrival_on_stalkers_start</has_info>
+			<text>marsh_zulus_dialog_1_21</text>
+			<next>22</next>
+		</phrase>
+		<phrase id="22">
+			<text>marsh_zulus_dialog_1_22</text>
+	<give_info>zaglushka_365</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="f_alexander_dialog_2">
+	<has_info>courtyard_in_east_pripyat_start</has_info>
+	<dont_has_info>zaglushka_538</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>f_alexander_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>f_alexander_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>f_alexander_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>f_alexander_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>f_alexander_dialog_2_4</text>
+	<give_info>zaglushka_538</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="f_sergy_dialog_2">
+	<has_info>courtyard_in_east_pripyat_start</has_info>
+	<dont_has_info>zaglushka_539</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>f_sergy_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>f_sergy_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>f_sergy_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>f_sergy_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>f_sergy_dialog_2_4</text>
+	<give_info>zaglushka_539</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="pri_military_stalker_commander_dialog_1">
+	<dont_has_info>pri_degtyarev_group_spawn</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>pri_military_stalker_commander_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>pri_military_stalker_commander_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>pri_military_stalker_commander_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>pri_military_stalker_commander_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>pri_military_stalker_commander_dialog_1_4</text>
+	<give_info>pri_degtyarev_group_spawn</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="pri_zulus_dialog_1">
+	<dont_has_info>zaglushka_506</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>pri_zulus_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>pri_zulus_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>pri_zulus_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>pri_zulus_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>pri_zulus_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>pri_zulus_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>pri_zulus_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>pri_zulus_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>pri_zulus_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>pri_zulus_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>pri_zulus_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>pri_zulus_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>pri_zulus_dialog_1_12</text>
+			<next>13</next>
+		</phrase>		
+		<phrase id="13">
+			<text>pri_zulus_dialog_1_13</text>
+	<give_info>zaglushka_506</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="pri_gunman_dialog_1">
+	<dont_has_info>courtyard_in_east_pripyat_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>pri_gunman_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>pri_gunman_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>pri_gunman_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>pri_gunman_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>pri_gunman_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>pri_gunman_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>pri_gunman_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>pri_gunman_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>pri_gunman_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>pri_gunman_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>pri_gunman_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>pri_gunman_dialog_1_11</text>
+			<next>12</next>
+			<next>18</next>
+			<next>24</next>
+		</phrase>
+		<phrase id="12">
+	<precondition>dialogs.has_broken_warlock</precondition>
+			<text>pri_gunman_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>pri_gunman_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>pri_gunman_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>pri_gunman_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>pri_gunman_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>pri_gunman_dialog_1_17</text>
+			<next>22</next>
+		</phrase>
+		<phrase id="18">
+	<precondition>dialogs.has_jj_knife</precondition>
+			<text>pri_gunman_dialog_1_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>pri_gunman_dialog_1_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>pri_gunman_dialog_1_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>pri_gunman_dialog_1_21</text>
+			<next>22</next>
+		</phrase>
+		<phrase id="22">
+			<text>pri_gunman_dialog_1_22</text>
+			<next>23</next>
+			<next>37</next>
+		</phrase>
+		<phrase id="23">
+	<precondition>dialogs.hasnot_blaster</precondition>
+			<text>pri_gunman_dialog_1_23</text>
+	<give_info>pri_grisha_spawn</give_info>
+	<give_info>courtyard_in_east_pripyat_1</give_info>
+	<give_info>player_complete_courtyard_in_east_pripyat</give_info>
+	<action>als_on_off_switch.pri_warlock_on</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="24">
+	<precondition>dialogs.hasnot_knife_warlock</precondition>
+			<text>pri_gunman_dialog_1_24</text>
+			<next>25</next>
+		</phrase>
+		<phrase id="25">
+			<text>pri_gunman_dialog_1_25</text>
+			<next>26</next>
+		</phrase>
+		<phrase id="26">
+			<text>pri_gunman_dialog_1_26</text>
+			<next>23</next>
+			<next>37</next>
+		</phrase>
+		<phrase id="37">
+	<precondition>dialogs.has_blaster</precondition>
+			<text>pri_gunman_dialog_1_23</text>
+			<next>27</next>
+		</phrase>
+		<phrase id="27">
+			<text>pri_gunman_dialog_1_27</text>
+			<next>28</next>
+		</phrase>
+		<phrase id="28">
+			<text>pri_gunman_dialog_1_28</text>
+			<next>29</next>
+		</phrase>
+		<phrase id="29">
+			<text>pri_gunman_dialog_1_29</text>
+			<next>30</next>
+		</phrase>
+				<phrase id="30">
+			<text>pri_gunman_dialog_1_30</text>
+			<next>31</next>
+		</phrase>
+		<phrase id="31">
+			<text>pri_gunman_dialog_1_31</text>
+			<next>32</next>
+		</phrase>
+		<phrase id="32">
+			<text>pri_gunman_dialog_1_32</text>
+			<next>33</next>
+		</phrase>
+		<phrase id="33">
+			<text>pri_gunman_dialog_1_33</text>
+			<next>34</next>
+		</phrase>
+		<phrase id="34">
+			<text>pri_gunman_dialog_1_34</text>
+			<next>35</next>
+		</phrase>
+		<phrase id="35">
+			<text>pri_gunman_dialog_1_35</text>
+			<next>36</next>
+		</phrase>
+		<phrase id="36">
+			<text>pri_gunman_dialog_1_36</text>
+	<give_info>pri_grisha_spawn</give_info>
+	<give_info>courtyard_in_east_pripyat_1</give_info>
+	<give_info>player_complete_courtyard_in_east_pripyat</give_info>
+	<action>als_on_off_switch.pri_warlock_on</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+
+
+	</phrase_list>
+</dialog>
+
+
+
+<dialog id="pri_budulay_dialog_1">
+	<dont_has_info>zaglushka_540</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>pri_budulay_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>pri_budulay_dialog_1_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+	<precondition>dialogs.hasnot_broken_warlock</precondition>
+			<text>pri_budulay_dialog_1_2</text>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="3">
+	<precondition>dialogs.has_broken_warlock</precondition>
+			<text>pri_budulay_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>pri_budulay_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>pri_budulay_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>pri_budulay_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>pri_budulay_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>pri_budulay_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>pri_budulay_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>pri_budulay_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>pri_budulay_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>pri_budulay_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>pri_budulay_dialog_1_13</text>
+			<next>14</next>
+		</phrase>		
+		<phrase id="14">
+			<text>pri_budulay_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>pri_budulay_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>pri_budulay_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>pri_budulay_dialog_1_17</text>
+			<next>18</next>
+		</phrase>		
+		<phrase id="18">
+			<text>pri_budulay_dialog_1_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>pri_budulay_dialog_1_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>pri_budulay_dialog_1_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>pri_budulay_dialog_1_21</text>
+			<next>22</next>
+		</phrase>	
+		<phrase id="22">
+			<text>pri_budulay_dialog_1_22</text>
+			<next>23</next>
+		</phrase>
+		<phrase id="23">
+			<text>pri_budulay_dialog_1_23</text>
+	<give_info>zaglushka_540</give_info>
+	<action>xr_effects.krasnov_tainik_spawn</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+
+	
+		
+	</phrase_list>
+</dialog>
+
+<dialog id="f_sergy_dialog_3">
+	<has_info>player_complete_courtyard_in_east_pripyat</has_info>
+	<dont_has_info>pri_about_final_journey</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>f_sergy_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>f_sergy_dialog_3_1</text>
+	<give_info>pri_about_final_journey</give_info>
+	<action>als_on_off_switch.pri2aes_01_on</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="kat_princeps_dialog_1">
+	<dont_has_info>kat_told_doctor</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>kat_princeps_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>kat_princeps_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>kat_princeps_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>kat_princeps_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>kat_princeps_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>kat_princeps_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>kat_princeps_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>kat_princeps_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>kat_princeps_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>kat_princeps_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>kat_princeps_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>kat_princeps_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>kat_princeps_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>kat_princeps_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>kat_princeps_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>kat_princeps_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>kat_princeps_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>kat_princeps_dialog_1_17</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="18">
+			<text>kat_princeps_dialog_1_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>kat_princeps_dialog_1_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>kat_princeps_dialog_1_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>kat_princeps_dialog_1_21</text>
+			<next>22</next>
+		</phrase>
+		<phrase id="22">
+			<text>kat_princeps_dialog_1_22</text>
+			<next>23</next>
+		</phrase>
+		<phrase id="23">
+			<text>kat_princeps_dialog_1_23</text>
+			<next>24</next>
+		</phrase>
+		<phrase id="24">
+			<text>kat_princeps_dialog_1_24</text>
+			<next>25</next>
+		</phrase>		
+		<phrase id="25">
+			<text>kat_princeps_dialog_1_25</text>
+	<give_info>kat_told_doctor</give_info>
+	<give_info>player_complete_kill_jj</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="kat_princeps_dialog_2">
+	<has_info>zaglushka_543</has_info>
+	<dont_has_info>kat_told_doctor_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>kat_princeps_dialog_2_0</text>
+			<next>1</next>
+			<next>2</next>
+		</phrase>
+		<phrase id="1">
+			<text>kat_princeps_dialog_2_1</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>kat_princeps_dialog_2_2</text>
+			<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="3">
+			<text>kat_princeps_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>kat_princeps_dialog_2_4</text>
+	<give_info>kat_told_doctor_2</give_info>
+	<action>als_on_off_switch.aes2dc_01_on</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dc_deev_dialog_1">
+	<dont_has_info>zaglushka_agr_grek_pulevich</dont_has_info>
+	<dont_has_info>dc_told_deev_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dc_deev_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dc_deev_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dc_deev_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dc_deev_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dc_deev_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dc_deev_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dc_deev_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dc_deev_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>dc_deev_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>dc_deev_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>dc_deev_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>dc_deev_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dc_deev_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>dc_deev_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dc_deev_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>dc_deev_dialog_1_15</text>
+	<give_info>dc_told_deev_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+
+<dialog id="dc_deev_dialog_2">
+	<has_info>zaglushka_agr_grek_pulevich</has_info>
+	<dont_has_info>zaglushka_134</dont_has_info>
+	<dont_has_info>dc_told_deev_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dc_deev_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dc_deev_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dc_deev_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dc_deev_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dc_deev_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dc_deev_dialog_2_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dc_deev_dialog_2_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dc_deev_dialog_2_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>dc_deev_dialog_2_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>dc_deev_dialog_2_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>dc_deev_dialog_2_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>dc_deev_dialog_2_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dc_deev_dialog_2_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>dc_deev_dialog_2_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dc_deev_dialog_2_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>dc_deev_dialog_2_15</text>
+	<give_info>dc_told_deev_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+
+<dialog id="dc_deev_dialog_3">
+	<has_info>zaglushka_agr_grek_pulevich</has_info>
+	<has_info>zaglushka_134</has_info>
+	<dont_has_info>dc_told_deev_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dc_deev_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dc_deev_dialog_3_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dc_deev_dialog_3_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dc_deev_dialog_3_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dc_deev_dialog_3_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dc_deev_dialog_3_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dc_deev_dialog_3_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dc_deev_dialog_3_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>dc_deev_dialog_3_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>dc_deev_dialog_3_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>dc_deev_dialog_3_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>dc_deev_dialog_3_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dc_deev_dialog_3_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>dc_deev_dialog_3_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dc_deev_dialog_3_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>dc_deev_dialog_3_15</text>
+	<give_info>dc_told_deev_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+
+
+<dialog id="dc_pope_vitaly_dialog_1">
+	<dont_has_info>dc_told_pope_vitaly_1</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dc_pope_vitaly_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dc_pope_vitaly_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dc_pope_vitaly_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dc_pope_vitaly_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dc_pope_vitaly_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>dc_pope_vitaly_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>dc_pope_vitaly_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>dc_pope_vitaly_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>dc_pope_vitaly_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>dc_pope_vitaly_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>dc_pope_vitaly_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>dc_pope_vitaly_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>dc_pope_vitaly_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>dc_pope_vitaly_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>dc_pope_vitaly_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>dc_pope_vitaly_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>dc_pope_vitaly_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>dc_pope_vitaly_dialog_1_17</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="18">
+			<text>dc_pope_vitaly_dialog_1_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>dc_pope_vitaly_dialog_1_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>dc_pope_vitaly_dialog_1_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>dc_pope_vitaly_dialog_1_21</text>
+	<give_info>dc_told_pope_vitaly_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="dc_pope_vitaly_dialog_2">
+	<precondition>dialogs.dc_has_keys</precondition>
+	<has_info>zaglushka_514</has_info>
+	<dont_has_info>dc_told_pope_vitaly_2</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dc_pope_vitaly_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dc_pope_vitaly_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>dc_pope_vitaly_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>dc_pope_vitaly_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>dc_pope_vitaly_dialog_2_4</text>
+	<give_info>dc_told_pope_vitaly_2</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gen_slaven_dialog_1">
+	<dont_has_info>gen_told_slaven_1</dont_has_info>
+	<!-- <dont_has_info>gen_told_slaven_about_jj_dead</dont_has_info>
+	<dont_has_info>gen_told_slaven_about_jj_alive</dont_has_info> -->
+	<phrase_list>
+		<phrase id="0">
+			<text>gen_slaven_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gen_slaven_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gen_slaven_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gen_slaven_dialog_1_3</text>
+			<next>4</next>
+			<next>5</next>
+		</phrase>
+		<phrase id="4">
+<has_info>player_complete_marsh_key_decision_2</has_info>
+			<text>gen_slaven_dialog_1_4</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="5">
+	<has_info>player_complete_marsh_key_decision_1</has_info> 
+			<text>gen_slaven_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>gen_slaven_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>gen_slaven_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>gen_slaven_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>gen_slaven_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>gen_slaven_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>gen_slaven_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>gen_slaven_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>gen_slaven_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>gen_slaven_dialog_1_14</text>
+			<next>15</next>
+			<next>16</next>
+		</phrase>
+		<phrase id="15">
+	<has_info>gen_pope_vitaly_spawn</has_info>
+			<text>gen_slaven_dialog_1_15</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="16">
+	<dont_has_info>gen_pope_vitaly_spawn</dont_has_info>
+			<text>gen_slaven_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>gen_slaven_dialog_1_17</text>
+	<give_info>gen_told_slaven_about_jj_alive</give_info>
+	<give_info>gen_talk_borman_n_jj</give_info>
+	<give_info>gen_told_slaven_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	<phrase id="18">
+			<text>gen_slaven_dialog_1_18</text>
+	<give_info>gen_told_slaven_about_jj_dead</give_info>
+	<give_info>gen_told_slaven_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gen_slaven_dialog_2">
+	<has_info>gen_cross_cutscene_end</has_info>
+	<dont_has_info>gen_talk_borman</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gen_slaven_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gen_slaven_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gen_slaven_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gen_slaven_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>gen_slaven_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>gen_slaven_dialog_2_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>gen_slaven_dialog_2_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>gen_slaven_dialog_2_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>gen_slaven_dialog_2_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>gen_slaven_dialog_2_9</text>
+			<next>10</next>
+			<next>11</next>
+		</phrase>
+		<phrase id="10">
+	<has_info>gen_pope_vitaly_spawn</has_info>
+			<text>gen_slaven_dialog_2_10</text>
+			<next>12</next>
+			<next>13</next>
+		</phrase>
+		<phrase id="11">
+	<dont_has_info>gen_pope_vitaly_spawn</dont_has_info>
+			<text>gen_slaven_dialog_2_11</text>
+			<next>12</next>
+			<next>13</next>
+		</phrase>
+		<phrase id="12">
+	<dont_has_info>gen_told_borman</dont_has_info>
+			<text>gen_slaven_dialog_2_12</text>
+	<give_info>gen_talk_borman</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="13">
+	<has_info>gen_told_borman</has_info>
+			<text>gen_slaven_dialog_2_13</text>
+	<give_info>gen_talk_borman</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gen_slaven_dialog_3">
+	<has_info>gen_talk_borman_n_jj</has_info>
+	<has_info>gen_told_jj</has_info>
+	<has_info>gen_told_borman</has_info>
+	<dont_has_info>kill_iron_mask_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gen_slaven_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gen_slaven_dialog_3_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gen_slaven_dialog_3_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gen_slaven_dialog_3_3</text>
+	<give_info>kill_iron_mask</give_info>
+	<give_info>kill_iron_mask_start</give_info>
+	<action>als_on_off_switch.lim_kasper_off</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gen_slaven_dialog_4">
+	<has_info>gen_talk_borman</has_info>
+	<has_info>gen_told_borman</has_info>
+	<dont_has_info>kill_iron_mask_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gen_slaven_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gen_slaven_dialog_3_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gen_slaven_dialog_3_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gen_slaven_dialog_3_3</text>
+	<give_info>kill_iron_mask</give_info>
+	<give_info>kill_iron_mask_start</give_info>
+	<action>als_on_off_switch.lim_kasper_off</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gen_borman_dialog_1">
+	<dont_has_info>gen_told_borman</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gen_borman_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gen_borman_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gen_borman_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gen_borman_dialog_1_3</text>
+	<give_info>gen_told_borman</give_info>
+	<give_info>in_the_law_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gen_jj_dialog_1">
+	<dont_has_info>gen_told_jj</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gen_jj_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gen_jj_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gen_jj_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gen_jj_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>gen_jj_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>gen_jj_dialog_1_5</text>
+	<give_info>gen_told_jj</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="esc_col_panzer_2_dialog_1">
+	<dont_has_info>esc_panzer_told</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>esc_col_panzer_2_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>esc_col_panzer_2_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>esc_col_panzer_2_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>esc_col_panzer_2_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>esc_col_panzer_2_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>esc_col_panzer_2_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>esc_col_panzer_2_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>esc_col_panzer_2_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>esc_col_panzer_2_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>esc_col_panzer_2_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>esc_col_panzer_2_dialog_1_10</text>
+			<next>11</next>
+			<next>12</next>
+		</phrase>		
+		<phrase id="11">
+	<dont_has_info>iron_mask_isdead</dont_has_info>
+			<text>esc_col_panzer_2_dialog_1_11</text>
+	<give_info>esc_panzer_told</give_info>
+	<give_info>esc_panzer_tolda</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="12">
+	<has_info>iron_mask_isdead</has_info>
+			<text>esc_col_panzer_2_dialog_1_11</text>
+	<give_info>esc_panzer_told</give_info>
+	<give_info>esc_panzer_tolda_1</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gruver_dialog_about_arts">
+	<has_info>ls_good_final_info</has_info>
+	<dont_has_info>artefacts_from_obscure_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gruver_dialog_about_arts_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gruver_dialog_about_arts_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gruver_dialog_about_arts_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gruver_dialog_about_arts_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>gruver_dialog_about_arts_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>gruver_dialog_about_arts_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>gruver_dialog_about_arts_6</text>
+	<give_info>artefacts_from_obscure_start</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gruver_dialog_about_arts_2">
+	<precondition>dialogs.has_all_obscure_artefacts</precondition>
+	<dont_has_info>artefacts_from_obscure_3</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gruver_dialog_about_arts_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gruver_dialog_about_arts_2_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>gruver_dialog_about_arts_2_2</text>
+	<give_info>artefacts_from_obscure_3</give_info>
+	<give_info>player_complete_artefacts_from_obscure</give_info>
+	<action>als_item_nax.rare_arts_nax</action>
+	<action>als_money.get_500000_money</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	<phrase id="3">
+			<text>gruver_dialog_about_arts_2_3</text>
+	<give_info>artefacts_from_obscure_3</give_info>
+	<give_info>player_complete_artefacts_from_obscure</give_info>
+	<action>als_item_nax.rare_arts_nax</action>	
+	<action>als_item_vax.rare_arts_vax</action>
+	<action>als_money.give_50000_money</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		
+	</phrase_list>
+</dialog>
+
+<dialog id="esc_slaven_dialog_1">
+	<dont_has_info>zaglushka_567</dont_has_info>
+	<dont_has_info>iron_mask_isdead</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>esc_slaven_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>esc_slaven_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>esc_slaven_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>esc_slaven_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>esc_slaven_dialog_1_4</text>
+	<give_info>zaglushka_567</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="esc_slaven_dialog_2">
+	<dont_has_info>zaglushka_567</dont_has_info>
+	<has_info>iron_mask_isdead</has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>esc_slaven_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>esc_slaven_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>esc_slaven_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>esc_slaven_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>esc_slaven_dialog_2_4</text>
+	<give_info>zaglushka_567</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="esc_jj_dialog_1">
+	<dont_has_info>zaglushka_568</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>esc_jj_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>esc_jj_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>esc_jj_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>esc_jj_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>esc_jj_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>esc_jj_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>esc_jj_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>esc_jj_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>esc_jj_dialog_1_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>esc_jj_dialog_1_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>esc_jj_dialog_1_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>esc_jj_dialog_1_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>esc_jj_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>esc_jj_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>esc_jj_dialog_1_14</text>
+			<next>15</next>
+		</phrase>
+		<phrase id="15">
+			<text>esc_jj_dialog_1_15</text>
+			<next>16</next>
+		</phrase>
+		<phrase id="16">
+			<text>esc_jj_dialog_1_16</text>
+			<next>17</next>
+		</phrase>
+		<phrase id="17">
+			<text>esc_jj_dialog_1_17</text>
+			<next>18</next>
+		</phrase>
+		<phrase id="18">
+			<text>esc_jj_dialog_1_18</text>
+			<next>19</next>
+		</phrase>
+		<phrase id="19">
+			<text>esc_jj_dialog_1_19</text>
+			<next>20</next>
+		</phrase>
+		<phrase id="20">
+			<text>esc_jj_dialog_1_20</text>
+			<next>21</next>
+		</phrase>
+		<phrase id="21">
+			<text>esc_jj_dialog_1_21</text>
+			<next>22</next>
+		</phrase>
+		
+		<phrase id="22">
+			<text>esc_jj_dialog_1_22</text>
+			<next>23</next>
+		</phrase>
+		<phrase id="23">
+			<text>esc_jj_dialog_1_23</text>
+			<next>24</next>
+		</phrase>
+		<phrase id="24">
+			<text>esc_jj_dialog_1_24</text>
+			<next>25</next>
+		</phrase>	
+		<phrase id="25">
+			<text>esc_jj_dialog_1_25</text>
+			<next>26</next>
+		</phrase>		
+		<phrase id="26">
+			<text>esc_jj_dialog_1_26</text>
+	<give_info>zaglushka_568</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="als_soldier_desant_1_dialog_after_gen">
+	<has_info>ls_good_final_info</has_info>
+	<dont_has_info>zaglushka_569</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>als_soldier_desant_1_dialog_after_gen_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>als_soldier_desant_1_dialog_after_gen_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>als_soldier_desant_1_dialog_after_gen_2</text>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="3">
+			<text>als_soldier_desant_1_dialog_after_gen_3</text>
+	<give_info>zaglushka_569</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="grek_about_drink">
+	<has_info>ls_good_final_info</has_info>
+	<dont_has_info>zaglushka_569</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>grek_about_drink_0</text>
+	<give_info>zaglushka_569</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="esc_shustryi_dialog_1">
+	<has_info>ls_good_final_info</has_info>
+	<dont_has_info>zaglushka_574</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>esc_shustryi_dialog_1_0</text>
+			<next>1</next>
+			<next>2</next>
+		</phrase>
+		<phrase id="1">
+	<has_info>player_complete_vague_memoirs</has_info>
+			<text>esc_shustryi_dialog_1_1</text>
+			<next>3</next>
+			<next>6</next>
+		</phrase>
+		<phrase id="2">
+	<dont_has_info>player_complete_vague_memoirs</dont_has_info>
+			<text>esc_shustryi_dialog_1_2</text>
+			<next>3</next>
+			<next>6</next>
+		</phrase>
+		<phrase id="3">
+	<dont_has_info>iron_mask_isdead</dont_has_info>
+			<text>esc_shustryi_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>esc_shustryi_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>esc_shustryi_dialog_1_5</text>
+	<give_info>zaglushka_574</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="6">
+	<has_info>iron_mask_isdead</has_info>
+			<text>esc_shustryi_dialog_1_6</text>
+			<next>4</next>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="val_gena_hacker_dialog_1">
+	<has_info>ls_good_final_info</has_info>
+	<!-- <dont_has_info>told_hacker_about_decoding</dont_has_info> -->
+	<phrase_list>
+		<phrase id="0">
+			<text>val_gena_hacker_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>val_gena_hacker_dialog_1_1</text>
+			<next>2</next>
+			<next>3</next>
+			<next>4</next>
+			<next>5</next>
+			<next>6</next>
+			<next>7</next>
+			<next>8</next>
+			<next>9</next>
+			<next>10</next>
+		</phrase>
+		<phrase id="2">
+	<dont_has_info>has_broken_pda_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_broken_pda</precondition>
+			<text>val_gena_hacker_dialog_1_2</text>
+	<give_info>track_to_limansk_2</give_info>
+	<give_info>has_broken_pda_given_to_hacker</give_info>
+	<action>als_item_nax.broken_pda_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="3">
+	<dont_has_info>has_simpson_pda_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_simpson_pda</precondition>
+			<text>val_gena_hacker_dialog_1_3</text>
+	<give_info>has_simpson_pda_given_to_hacker</give_info>
+	<action>als_item_nax.simpson_pda_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="4">
+	<dont_has_info>has_blade_pda_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_blade_pda</precondition>
+			<text>val_gena_hacker_dialog_1_4</text>
+	<give_info>has_blade_pda_given_to_hacker</give_info>
+	<action>als_item_nax.blade_pda_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="5">
+	<dont_has_info>has_braverman_pda_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_braverman_pda</precondition>
+			<text>val_gena_hacker_dialog_1_5</text>
+	<give_info>has_braverman_pda_given_to_hacker</give_info>
+	<action>als_item_nax.braverman_pda_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="6">
+	<dont_has_info>has_military_stalkers_flash_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_military_stalkers_flash</precondition>
+			<text>val_gena_hacker_dialog_1_6</text>
+	<give_info>has_military_stalkers_flash_given_to_hacker</give_info>
+	<action>als_item_nax.military_stalkers_flash_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="7">
+	<dont_has_info>has_shocker_flash_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_shocker_flash</precondition>
+			<text>val_gena_hacker_dialog_1_7</text>
+	<give_info>has_shocker_flash_given_to_hacker</give_info>
+	<action>als_item_nax.shocker_flash_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="8">
+	<dont_has_info>has_shevchuk_pda_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_shevchuk_pda</precondition>
+			<text>val_gena_hacker_dialog_1_8</text>
+	<give_info>has_shevchuk_pda_given_to_hacker</give_info>
+	<action>als_item_nax.shevchuk_pda_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="9">
+	<dont_has_info>has_panz_encryption_malyawa_given_to_hacker</dont_has_info>
+	<precondition>dialogs.has_panz_encryption_malyawa</precondition>
+			<text>val_gena_hacker_dialog_1_9</text>
+	<give_info>has_panz_encryption_malyawa_given_to_hacker</give_info>
+	<give_info>agent_grc_1</give_info>
+	<give_info>player_complete_agent_grc</give_info>
+	<action>als_item_nax.panz_encryption_malyawa_nax</action>
+			<next>11</next>
+		</phrase>
+		<phrase id="10">
+			<text>val_gena_hacker_dialog_1_10</text>
+	<!-- <give_info>told_hacker_about_decoding</give_info> -->
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="11">
+			<text>val_gena_hacker_dialog_1_11</text>
+			<next>2</next>
+			<next>3</next>
+			<next>4</next>
+			<next>5</next>
+			<next>6</next>
+			<next>7</next>
+			<next>8</next>
+			<next>9</next>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>val_gena_hacker_dialog_1_12</text>
+			<next>13</next>
+		</phrase>
+		<phrase id="13">
+			<text>val_gena_hacker_dialog_1_13</text>
+			<next>14</next>
+		</phrase>
+		<phrase id="14">
+			<text>val_gena_hacker_dialog_1_14</text>
+	<!-- <give_info>told_hacker_about_decoding</give_info> -->
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="val_kasper_dialog_1">
+	<has_info>ls_good_final_info</has_info>
+	<dont_has_info>zaglushka_575</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>val_kasper_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>val_kasper_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>val_kasper_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>val_kasper_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>val_kasper_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>val_kasper_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>val_kasper_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>val_kasper_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>val_kasper_dialog_1_8</text>
+	<give_info>zaglushka_575</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="mil_military_stalker_storekeeper_dialog_2">
+	<has_info>ls_good_final_info</has_info>
+	<dont_has_info>zaglushka_577</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>mil_military_stalker_storekeeper_dialog_2_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>mil_military_stalker_storekeeper_dialog_2_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>mil_military_stalker_storekeeper_dialog_2_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>mil_military_stalker_storekeeper_dialog_2_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>mil_military_stalker_storekeeper_dialog_2_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>mil_military_stalker_storekeeper_dialog_2_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>mil_military_stalker_storekeeper_dialog_2_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>mil_military_stalker_storekeeper_dialog_2_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>mil_military_stalker_storekeeper_dialog_2_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>mil_military_stalker_storekeeper_dialog_2_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>mil_military_stalker_storekeeper_dialog_2_10</text>
+	<give_info>zaglushka_577</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="varnak_grek_about_im">
+	<has_info>has_taked_golden_pig</has_info>
+	<dont_has_info>zaglushka_579</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>varnak_grek_about_im_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>varnak_grek_about_im_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>varnak_grek_about_im_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>varnak_grek_about_im_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>varnak_grek_about_im_4</text>
+	<give_info>zaglushka_569</give_info>
+	<give_info>zaglushka_579</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="lim_military_stalker_commander_dialog_3">
+	<has_info>player_complete_neutralise_turrets</has_info>
+	<dont_has_info>zaglushka_580</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>lim_military_stalker_commander_dialog_3_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>lim_military_stalker_commander_dialog_3_1</text>
+			<next>2</next>
+			<next>3</next>
+		</phrase>
+		<phrase id="2">
+			<text>lim_military_stalker_commander_dialog_3_2</text>
+	<give_info>zaglushka_580</give_info>
+	<action>als_item_vax.lim_ammo_762_54r_vax</action>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="3">
+			<text>lim_military_stalker_commander_dialog_3_3</text>
+	<give_info>zaglushka_580</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="varnak_dialog_about_kuchma">
+	<has_info>zaglushka_292</has_info>
+	<dont_has_info>sor_has_found_the_things</dont_has_info>
+	<dont_has_info>zaglushka_589</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>varnak_dialog_about_kuchma_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>varnak_dialog_about_kuchma_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>varnak_dialog_about_kuchma_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>varnak_dialog_about_kuchma_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>varnak_dialog_about_kuchma_4</text>
+	<give_info>zaglushka_589</give_info>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<dialog id="gruver_speek_arts">
+	<precondition>dialogs.has_art_hunter</precondition>
+	<dont_has_info>artefacts_from_obscure_start</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>gruver_speek_arts_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>gruver_speek_arts_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>gruver_speek_arts_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>gruver_speek_arts_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>gruver_speek_arts_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>gruver_speek_arts_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>gruver_speek_arts_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>gruver_speek_arts_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>gruver_speek_arts_8</text>
+			<next>9</next>
+		</phrase>
+		<phrase id="9">
+			<text>gruver_speek_arts_9</text>
+			<next>10</next>
+		</phrase>
+		<phrase id="10">
+			<text>gruver_speek_arts_10</text>
+			<next>11</next>
+		</phrase>
+		<phrase id="11">
+			<text>gruver_speek_arts_11</text>
+			<next>12</next>
+		</phrase>
+		<phrase id="12">
+			<text>gruver_speek_arts_12</text>
+	<give_info>artefacts_from_obscure_start</give_info>
+	<give_info>speek_gruver_arts</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+
+	</phrase_list>
+</dialog>
+
+
+<dialog id="moldovan_dialog_1">
+	<has_info>ls_good_final_info</has_info>
+	<dont_has_info>moldovan_speek</dont_has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>moldovan_dialog_1_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>moldovan_dialog_1_1</text>
+			<next>2</next>
+		</phrase>
+		<phrase id="2">
+			<text>moldovan_dialog_1_2</text>
+			<next>3</next>
+		</phrase>
+		<phrase id="3">
+			<text>moldovan_dialog_1_3</text>
+			<next>4</next>
+		</phrase>
+		<phrase id="4">
+			<text>moldovan_dialog_1_4</text>
+			<next>5</next>
+		</phrase>
+		<phrase id="5">
+			<text>moldovan_dialog_1_5</text>
+			<next>6</next>
+		</phrase>
+		<phrase id="6">
+			<text>moldovan_dialog_1_6</text>
+			<next>7</next>
+		</phrase>
+		<phrase id="7">
+			<text>moldovan_dialog_1_7</text>
+			<next>8</next>
+		</phrase>
+		<phrase id="8">
+			<text>moldovan_dialog_1_8</text>
+	<give_info>moldovan_speek</give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+
+
+	</phrase_list>
+</dialog>
+
+
+<dialog id="dr_pirogov_dialog_7">
+	<has_info>dr_pirogov_fly_box_end</has_info>
+	<phrase_list>
+		<phrase id="0">
+			<text>dr_pirogov_dialog_7_0</text>
+			<next>1</next>
+		</phrase>
+		<phrase id="1">
+			<text>dr_pirogov_dialog_7_1</text>
+			<next>2</next>
+			<next>3</next>
+			<next>4</next>
+			<next>5</next>
+			<next>6</next>
+			<next>7</next>
+			<next>8</next>
+			<next>9</next>
+			<next>10</next>
+			<next>11</next>
+			<next>12</next>
+			<next>13</next>
+			<next>14</next>
+			<next>15</next>
+			<next>16</next>
+			<next>17</next>
+			<next>18</next>
+			<next>19</next>
+			<next>20</next>
+			<next>21</next>
+			<next>22</next>
+			<next>23</next>
+			<next>24</next>
+			<next>25</next>
+			<next>26</next>
+			<next>27</next>
+			<next>28</next>
+			<next>29</next>
+			<next>30</next>
+			<next>31</next>
+			<next>32</next>
+		</phrase>
+		<phrase id="3">
+		<precondition>dialogs.grek_has_lov_magneto</precondition>
+			<text>dr_pirogov_dialog_7_3</text>
+			<next>35</next>
+		</phrase>
+		<phrase id="35">
+			<text>dr_pirogov_dialog_7_35</text>
+			<next>36</next>
+		</phrase>
+		<phrase id="36">
+			<text>dr_pirogov_dialog_7_36</text>
+	<action>dialogs.lov_magneto_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="4">
+	<precondition>dialogs.grek_has_lov_af_fontan</precondition>
+			<text>dr_pirogov_dialog_7_4</text>
+			<next>37</next>
+		</phrase>
+		<phrase id="37">
+			<text>dr_pirogov_dialog_7_37</text>
+			<next>38</next>
+		</phrase>
+		<phrase id="38">
+			<text>dr_pirogov_dialog_7_38</text>
+	<action>dialogs.lov_af_fontan_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+
+		<phrase id="5">
+		<precondition>dialogs.grek_has_lov_af_pylesos</precondition>
+			<text>dr_pirogov_dialog_7_5</text>
+			<next>39</next>
+		</phrase>
+		<phrase id="39">
+			<text>dr_pirogov_dialog_7_39</text>
+			<next>40</next>
+		</phrase>
+		<phrase id="40">
+			<text>dr_pirogov_dialog_7_40</text>
+	<action>dialogs.lov_af_pylesos_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="6">
+			<precondition>dialogs.grek_has_lov_af_shipovnik</precondition>
+			<text>dr_pirogov_dialog_7_6</text>
+			<next>41</next>
+		</phrase>
+		<phrase id="41">
+			<text>dr_pirogov_dialog_7_41</text>
+			<next>42</next>
+		</phrase>
+		<phrase id="42">
+			<text>dr_pirogov_dialog_7_42</text>
+	<action>dialogs.lov_af_shipovnik_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="7">
+			<precondition>dialogs.grek_has_lov_af_eye_voron</precondition>
+			<text>dr_pirogov_dialog_7_7</text>
+			<next>43</next>
+		</phrase>
+		<phrase id="43">
+			<text>dr_pirogov_dialog_7_43</text>
+			<next>44</next>
+		</phrase>
+		<phrase id="44">
+			<text>dr_pirogov_dialog_7_44</text>
+	<action>dialogs.lov_af_eye_voron_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="8">
+			<precondition>dialogs.grek_has_lov_af_fallen_angel</precondition>
+			<text>dr_pirogov_dialog_7_8</text>
+			<next>45</next>
+		</phrase>
+		<phrase id="45">
+			<text>dr_pirogov_dialog_7_45</text>
+			<next>46</next>
+		</phrase>
+		<phrase id="46">
+			<text>dr_pirogov_dialog_7_46</text>
+	<action>dialogs.lov_af_fallen_angel_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="9">
+			<precondition>dialogs.grek_has_lov_af_pero</precondition>
+			<text>dr_pirogov_dialog_7_9</text>
+			<next>47</next>
+		</phrase>
+		<phrase id="47">
+			<text>dr_pirogov_dialog_7_47</text>
+			<next>48</next>
+		</phrase>
+		<phrase id="48">
+			<text>dr_pirogov_dialog_7_48</text>
+	<action>dialogs.lov_af_pero_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="10">
+			<precondition>dialogs.grek_has_lov_af_vinograd</precondition>
+			<text>dr_pirogov_dialog_7_10</text>
+			<next>49</next>
+		</phrase>
+		<phrase id="49">
+			<text>dr_pirogov_dialog_7_49</text>
+			<next>50</next>
+		</phrase>
+		<phrase id="50">
+			<text>dr_pirogov_dialog_7_50</text>
+	<action>dialogs.lov_af_vinograd_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="11">
+			<precondition>dialogs.grek_has_lov_af_black_angel</precondition>
+			<text>dr_pirogov_dialog_7_11</text>
+			<next>51</next>
+		</phrase>
+		<phrase id="51">
+			<text>dr_pirogov_dialog_7_51</text>
+			<next>52</next>
+		</phrase>
+		<phrase id="52">
+			<text>dr_pirogov_dialog_7_52</text>
+	<action>dialogs.lov_af_black_angel_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="12">
+			<precondition>dialogs.grek_has_lov_af_kosi</precondition>
+			<text>dr_pirogov_dialog_7_12</text>
+			<next>53</next>
+		</phrase>
+		<phrase id="53">
+			<text>dr_pirogov_dialog_7_53</text>
+			<next>54</next>
+		</phrase>
+		<phrase id="54">
+			<text>dr_pirogov_dialog_7_54</text>
+	<action>dialogs.lov_af_kosi_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="13">
+			<precondition>dialogs.grek_has_lov_af_black_hole</precondition>
+			<text>dr_pirogov_dialog_7_13</text>
+			<next>55</next>
+		</phrase>
+		<phrase id="55">
+			<text>dr_pirogov_dialog_7_55</text>
+			<next>56</next>
+		</phrase>
+		<phrase id="56">
+			<text>dr_pirogov_dialog_7_56</text>
+	<action>dialogs.lov_af_black_hole_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="14">
+			<precondition>dialogs.grek_has_lov_af_provoloka</precondition>
+			<text>dr_pirogov_dialog_7_14</text>
+			<next>57</next>
+		</phrase>
+		<phrase id="57">
+			<text>dr_pirogov_dialog_7_57</text>
+			<next>58</next>
+		</phrase>
+		<phrase id="58">
+			<text>dr_pirogov_dialog_7_58</text>
+	<action>dialogs.lov_af_provoloka_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="15">
+			<precondition>dialogs.grek_has_lov_af_kletka</precondition>
+			<text>dr_pirogov_dialog_7_15</text>
+			<next>59</next>
+		</phrase>
+		<phrase id="59">
+			<text>dr_pirogov_dialog_7_59</text>
+			<next>60</next>
+		</phrase>
+		<phrase id="60">
+			<text>dr_pirogov_dialog_7_60</text>
+	<action>dialogs.lov_af_kletka_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="16">
+			<precondition>dialogs.grek_has_lov_af_kvazar</precondition>
+			<text>dr_pirogov_dialog_7_16</text>
+			<next>61</next>
+		</phrase>
+		<phrase id="61">
+			<text>dr_pirogov_dialog_7_61</text>
+			<next>62</next>
+		</phrase>
+		<phrase id="62">
+			<text>dr_pirogov_dialog_7_62</text>
+	<action>dialogs.lov_af_kvazar_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="17">
+			<precondition>dialogs.grek_has_lov_af_propeller</precondition>
+			<text>dr_pirogov_dialog_7_17</text>
+			<next>63</next>
+		</phrase>
+		<phrase id="63">
+			<text>dr_pirogov_dialog_7_63</text>
+			<next>64</next>
+		</phrase>
+		<phrase id="64">
+			<text>dr_pirogov_dialog_7_64</text>
+	<action>dialogs.lov_af_propeller_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="18">
+			<precondition>dialogs.grek_has_lov_af_klever</precondition>
+			<text>dr_pirogov_dialog_7_18</text>
+			<next>65</next>
+		</phrase>
+		<phrase id="65">
+			<text>dr_pirogov_dialog_7_65</text>
+			<next>66</next>
+		</phrase>
+		<phrase id="66">
+			<text>dr_pirogov_dialog_7_66</text>
+	<action>dialogs.lov_af_klever_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="19">
+			<precondition>dialogs.grek_has_lov_af_jbk</precondition>
+			<text>dr_pirogov_dialog_7_19</text>
+			<next>67</next>
+		</phrase>
+		<phrase id="67">
+			<text>dr_pirogov_dialog_7_67</text>
+			<next>68</next>
+		</phrase>
+		<phrase id="68">
+			<text>dr_pirogov_dialog_7_68</text>
+	<action>dialogs.lov_af_jbk_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="20">
+			<precondition>dialogs.grek_has_lov_af_jaba</precondition>
+			<text>dr_pirogov_dialog_7_20</text>
+			<next>69</next>
+		</phrase>
+		<phrase id="69">
+			<text>dr_pirogov_dialog_7_69</text>
+			<next>70</next>
+		</phrase>
+		<phrase id="70">
+			<text>dr_pirogov_dialog_7_70</text>
+	<action>dialogs.lov_af_jaba_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="21">
+			<precondition>dialogs.grek_has_lov_af_gorgona</precondition>
+			<text>dr_pirogov_dialog_7_21</text>
+			<next>71</next>
+		</phrase>
+		<phrase id="71">
+			<text>dr_pirogov_dialog_7_71</text>
+			<next>72</next>
+		</phrase>
+		<phrase id="72">
+			<text>dr_pirogov_dialog_7_72</text>
+	<action>dialogs.lov_af_gorgona_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="22">
+			<precondition>dialogs.grek_has_lov_af_diablo</precondition>
+			<text>dr_pirogov_dialog_7_22</text>
+			<next>73</next>
+		</phrase>
+		<phrase id="73">
+			<text>dr_pirogov_dialog_7_73</text>
+			<next>74</next>
+		</phrase>
+		<phrase id="74">
+			<text>dr_pirogov_dialog_7_74</text>
+	<action>dialogs.lov_af_diablo_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="23">
+			<precondition>dialogs.grek_has_lov_af_chipsi</precondition>
+			<text>dr_pirogov_dialog_7_23</text>
+			<next>75</next>
+		</phrase>
+		<phrase id="75">
+			<text>dr_pirogov_dialog_7_75</text>
+			<next>76</next>
+		</phrase>
+		<phrase id="76">
+			<text>dr_pirogov_dialog_7_76</text>
+	<action>dialogs.lov_af_chipsi_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="24">
+			<precondition>dialogs.grek_has_lov_af_chetki</precondition>
+			<text>dr_pirogov_dialog_7_24</text>
+			<next>77</next>
+		</phrase>
+		<phrase id="77">
+			<text>dr_pirogov_dialog_7_77</text>
+			<next>78</next>
+		</phrase>
+		<phrase id="78">
+			<text>dr_pirogov_dialog_7_78</text>
+	<action>dialogs.lov_af_chetki_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="25">
+			<precondition>dialogs.grek_has_lov_af_barhat</precondition>
+			<text>dr_pirogov_dialog_7_25</text>
+			<next>79</next>
+		</phrase>
+		<phrase id="79">
+			<text>dr_pirogov_dialog_7_79</text>
+			<next>80</next>
+		</phrase>
+		<phrase id="80">
+			<text>dr_pirogov_dialog_7_80</text>
+	<action>dialogs.lov_af_barhat_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="26">
+			<precondition>dialogs.grek_has_lov_af_kliaksa</precondition>
+			<text>dr_pirogov_dialog_7_26</text>
+			<next>81</next>
+		</phrase>
+		<phrase id="81">
+			<text>dr_pirogov_dialog_7_81</text>
+			<next>82</next>
+		</phrase>
+		<phrase id="82">
+			<text>dr_pirogov_dialog_7_82</text>
+	<action>dialogs.lov_af_kliaksa_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="27">
+			<precondition>dialogs.grek_has_lov_af_krest</precondition>
+			<text>dr_pirogov_dialog_7_27</text>
+			<next>83</next>
+		</phrase>
+		<phrase id="83">
+			<text>dr_pirogov_dialog_7_83</text>
+			<next>84</next>
+		</phrase>
+		<phrase id="84">
+			<text>dr_pirogov_dialog_7_84</text>
+	<action>dialogs.lov_af_krest_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="28">
+			<precondition>dialogs.grek_has_lov_af_ojerelie</precondition>
+			<text>dr_pirogov_dialog_7_28</text>
+			<next>85</next>
+		</phrase>
+		<phrase id="85">
+			<text>dr_pirogov_dialog_7_85</text>
+			<next>86</next>
+		</phrase>
+		<phrase id="86">
+			<text>dr_pirogov_dialog_7_86</text>
+	<action>dialogs.lov_af_ojerelie_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="29">
+			<precondition>dialogs.grek_has_lov_af_serpantin</precondition>
+			<text>dr_pirogov_dialog_7_29</text>
+			<next>87</next>
+		</phrase>
+		<phrase id="87">
+			<text>dr_pirogov_dialog_7_87</text>
+			<next>88</next>
+		</phrase>
+		<phrase id="88">
+			<text>dr_pirogov_dialog_7_88</text>
+	<action>dialogs.lov_af_serpantin_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="30">
+			<precondition>dialogs.grek_has_lov_af_shkatulka</precondition>
+			<text>dr_pirogov_dialog_7_30</text>
+			<next>89</next>
+		</phrase>
+		<phrase id="89">
+			<text>dr_pirogov_dialog_7_89</text>
+			<next>90</next>
+		</phrase>
+		<phrase id="90">
+			<text>dr_pirogov_dialog_7_90</text>
+	<action>dialogs.lov_af_shkatulka_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="31">
+			<precondition>dialogs.grek_has_lov_af_spaika_2</precondition>
+			<text>dr_pirogov_dialog_7_31</text>
+			<next>91</next>
+		</phrase>
+		<phrase id="91">
+			<text>dr_pirogov_dialog_7_91</text>
+			<next>92</next>
+		</phrase>
+		<phrase id="92">
+			<text>dr_pirogov_dialog_7_92</text>
+	<action>dialogs.lov_af_spaika_2_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="32">
+			<precondition>dialogs.grek_has_lov_af_kris_zvezda</precondition>
+			<text>dr_pirogov_dialog_7_32</text>
+			<next>93</next>
+		</phrase>
+		<phrase id="93">
+			<text>dr_pirogov_dialog_7_93</text>
+			<next>94</next>
+		</phrase>
+		<phrase id="94">
+			<text>dr_pirogov_dialog_7_94</text>
+	<action>dialogs.lov_af_kris_zvezda_nax</action>
+	<action>als_money.art_2000_money</action>
+		</phrase>
+		<phrase id="2">
+			<text>dr_pirogov_dialog_7_2</text>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+		<phrase id="34">
+	<has_info>never</has_info>
+			<text>dr_pirogov_dialog_7_34</text>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog>
+
+<!-- <dialog id="">
+	<has_info></has_info>
+	<dont_has_info></dont_has_info>
+	<phrase_list>
+		<phrase id="">
+			<text>_</text>
+			<next></next>
+		</phrase>
+		<phrase id="">
+			<text>_</text>
+			<next></next>
+		</phrase>
+		<phrase id="">
+			<text>_</text>
+	<give_info></give_info>
+	<action>dialogs.break_dialog</action>
+		</phrase>
+	</phrase_list>
+</dialog> -->
+	
+</game_dialogs>
+

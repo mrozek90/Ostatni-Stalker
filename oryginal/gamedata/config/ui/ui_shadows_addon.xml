@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<window>
+    <!-- КПК -->
+	<btn_pda_exit x="0" y="0" width="98" height="26" hint="pda_btn_off_hint">
+		<texture>ui_pda_close</texture>
+	</btn_pda_exit>
+
+	<btn_pda_install_mapspot x="700" y="46" width="120" height="20" hint="add_spot_btn_hint">
+		<texture>ui_icons_newPDA_perssignA</texture>
+	</btn_pda_install_mapspot>
+
+	<btn_pda_remove_mapspot x="830" y="46" width="120" height="20" hint="remove_spot_btn_hint">
+		<texture>ui_icons_newPDA_perssigndelB</texture>
+	</btn_pda_remove_mapspot>
+
+	<btn_pda_mapspot_editbox x="10" y="10" width="208" height="17" hint="pda_edit_user_task_btn_hint">
+		<texture>ui_PDA_mapspot_editbox</texture>
+	</btn_pda_mapspot_editbox>
+
+	<!-- Компьютер -->
+	<computer_raport_text x="30" y="45" width="468" height="410">
+		<text font="letterica18" complex_mode="1" r="216" g="186" b="140">esc_blockpost_military_raport_descr</text>
+	</computer_raport_text>	
+
+	<computer_load_image x="440" y="290" width="128" height="32" light_anim="ui_slow_blinking_alpha" la_texture="0">
+	    <texture>ui\ui_computer_load</texture>
+		<text y="60" align="c" font="letterica18">ui_st_computer_press_to_start</text>
+	</computer_load_image>
+
+	<btn_computer_off x="60" y="15" width="35" height="35" stretch="1" hint="ui_st_computer_off_hint">
+		<texture x="53" y="896" width="128" height="128">ui\ui_computer_start</texture>
+	</btn_computer_off>
+
+	<btn_computer_menu_start_exit x="15" y="15" width="35" height="35" stretch="1" hint="ui_st_computer_start_menu_off_hint">
+		<texture x="475" y="892" width="128" height="128">ui\ui_computer_on</texture>
+	</btn_computer_menu_start_exit>
+
+	<btn_computer_search x="180" y="70" width="30" height="30" hint="ui_st_computer_search_hint"/>
+
+	<!-- Инвентарь -->
+	<btn_drop_item x="596" y="662" width="114" height="56">
+		<texture>ui_drop_item</texture>
+		<text x="5" y="3" font="graffiti22">ui_inv_drop</text>
+		<text_color>
+			<e r="238" g="153" b="26"/><t r="0" g="0" b="0"/><d r="135" g="123" b="116"/><h r="255" g="255" b="255"/>
+		</text_color>
+	</btn_drop_item>
+
+	<btn_sleep x="508" y="680" width="90" height="30">
+		<text x="5" align="l" font="graffiti22">ui_inv_rest</text>
+		<text_color>
+			<e r="238" g="153" b="26"/><t r="0" g="0" b="0"/><d r="135" g="123" b="116"/><h r="255" g="255" b="255"/>
+		</text_color>
+	</btn_sleep>
+
+	<!-- Фриплей-диалог -->
+	<freeplay_dialog_main x="240" y="255" width="508" height="204">
+	    <texture x="213" y="0" width="508" height="204">ui\ui_common</texture>
+		<text x="170" y="40" font="letterica18" r="216" g="186" b="140">ui_st_freeplay_dialog</text>
+	</freeplay_dialog_main>
+
+	<!-- Диалог начала сна-->
+	<sleep_dialog_main x="270" y="285" width="508" height="204">
+	    <texture x="213" y="0" width="508" height="204">ui\ui_common</texture>
+	</sleep_dialog_main>
+
+	<sleep_dialog_text x="170" y="40" width="310" height="82">
+	    <text font="letterica18" complex_mode="1" r="216" g="186" b="140">ui_st_sleep_dialog</text>
+	</sleep_dialog_text>
+
+	<!-- Разное -->
+	<btn_ok x="250" y="155" width="117" height="29">
+	    <texture>ui_button_ordinary</texture>
+		<text align="c" r="216" g="186" b="140">ui_st_btn_yes</text>
+	</btn_ok>
+
+	<btn_no x="370" y="155" width="117" height="29">
+	    <texture>ui_button_ordinary</texture>
+		<text align="c" r="216" g="186" b="140">ui_st_btn_no</text>
+	</btn_no>
+
+	<dialogs_yellow_icon x="42" y="69" width="77" height="77">
+	    <texture x="723" y="0" width="77" height="77">ui\ui_common</texture>
+	</dialogs_yellow_icon>	
+</window>

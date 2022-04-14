@@ -1,0 +1,99 @@
+--[[------------------------------------------------------------------------------------
+	Save Rename Mod
+	Каждое быстрое сохранение перезаписывается в "резерв" с именем в формате:
+	<имя пользователя>_quicksave_<игровые дни><игровые часы><игровые минуты>.sav
+	Author: naxac
+--]]------------------------------------------------------------------------------------
+local level_name = level.name()
+local usr_name = "Viktor"
+local svname = usr_name.."_quicksave.sav"
+local txname = usr_name.."_quicksave.dds"
+local fileSys = getFS()
+local file_saves1 = {}
+local file_saves = {}
+local tmr = nil
+
+function on_save()
+	tmr = time_global() + 1000
+end
+
+function update(time)
+	if tmr and tmr<time then
+		tmr = nil
+		check_rename()
+		check_saves()
+	end
+end
+
+function check_rename()
+	local fs = getFS()
+	if fs:exist("$game_saves$", svname) then
+		local new_fname = string.format("%s_qs_%02d%02d%02d",
+			level_name, level.get_time_days(), level.get_time_hours(), level.get_time_minutes())
+		
+		local f1 = fs:update_path("$game_saves$", svname)
+		local f2 = fs:update_path("$app_data_root$", "arhiv_saves\\"..new_fname..".sav")
+		fs:file_copy(f1, f2)
+		
+		if fs:exist("$game_saves$", txname) then
+			f1 = fs:update_path("$game_saves$", txname)
+			f2 = fs:update_path("$app_data_root$", "arhiv_saves\\"..new_fname..".dds")
+			fs:file_copy(f1, f2)
+		end
+	end
+end
+
+function check_saves()
+	local flist1 = fileSys:file_list_open("$app_data_root$","arhiv_saves\\",FS.FS_ListFiles)
+	local f_cnt1 = flist1:Size()
+	local flist = fileSys:file_list_open("$game_saves$",FS.FS_ListFiles)
+	local f_cnt = flist:Size()
+	local c = 1
+		if f_cnt1 > 0 then
+			 for a=0,f_cnt1-1 do
+				local file_name1 = flist1:GetAt(a)
+				b = string.find(file_name1,"sav")
+				if b then 
+					file_saves1[c] = file_name1
+					c=c+1
+				end
+				b1 = string.find(file_name1,"dds")
+				if b1 then 
+					file_saves1[c] = file_name1
+					c=c+1
+				end
+  			end
+		end
+	c=1
+		if f_cnt > 0 then
+ 			for a=0,f_cnt-1 do
+				local file_name = flist:GetAt(a)
+				b = string.find(file_name,"sav")
+				if b then 
+					file_saves[c] = file_name
+					c=c+1
+				end
+				b1 = string.find(file_name,"dds")
+				if b1 then 
+					file_saves[c] = file_name
+					c=c+1
+				end
+
+  			end
+		end
+	local r = (#file_saves + #file_saves1)
+	local r1 = (#file_saves1)
+	local r2 = (#file_saves)
+--	log1("-- Количество файлов в папке savedgames ".." = "..tostring(r2))
+--	log1("-- Количество файлов в папке arhiv_saves ".." = "..tostring(r1))
+--	log1("-- Количество файлов в папках сохранений ".." = "..tostring(r))
+		if r > 1600 then
+			news_manager.send_tip(db.actor, "%c[red]=== ВНИМАНИЕ, ОПАСНОСТЬ ВЫЛЕТА И ПОРЧИ СОХРАНЕНИЙ! === \\n %c[UI_orange]У вас скопилось больше 1000 файлов в папках сохранений.  \\nНеобходимо или удалить старые сохранения в папках \\n _appdata_\\savedgames и _appdata_\\arhiv_saves,  \\nили перенести их за пределы папки _appdata_.", nil, nil, 40000)
+
+--			news_manager.send_tip(db.actor, "%c[red]===          ВНИМАНИЕ, ОПАСНОСТЬ ВЫЛЕТА!        ", nil, nil, 30000)
+--			news_manager.send_tip(db.actor, "%c[red]===       У вас скопилось больше 500 сохранений     ", nil, nil, 30000)
+--			news_manager.send_tip(db.actor, "%c[red]===   Необходимо или удалить старые сохранения,  ", nil, nil, 30000)
+--			news_manager.send_tip(db.actor, "%c[red]===   или перенести их за пределы папки _appdata_ ", nil, nil, 30000)
+		end
+end
+

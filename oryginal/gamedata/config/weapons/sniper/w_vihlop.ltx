@@ -1,0 +1,207 @@
+;;;;;;;;;;;;;;;;;;;;; ВССК Выхлоп ;;;;;;;;;;;;;;;;;;;;;
+;------------------------------------------------------
+[wpn_vihlop]:identity_immunities
+GroupControlSection		= spawn_group
+discovery_dependency 		= 
+$spawn 				= "weapons\vihlop"		; option for Level Editor
+$npc				= on			; option for Level Editor
+$prefetch 			= 8
+scheduled 			= off 			; option for ALife Simulator
+cform 				= skeleton
+class 				= WP_SVU
+min_radius 			= 50
+max_radius 			= 200
+description			= enc_arsenal_vihlop
+
+ef_main_weapon_type		= 3
+ef_weapon_type			= 8
+
+;--- scope weapons -----------------------------------------------------------------
+holder_range_modifier	= 2.15               ; во сколько раз увеличивается eye_range 
+holder_fov_modifier	= 0.3              ; во сколько раз увеличивается eye_fov
+;-----------------------------------------------------------------------------------
+
+cost				= 25000
+weapon_class			= sniper_rifle
+
+ammo_limit			= 60
+ammo_current			= 60
+ammo_elapsed			= 5
+ammo_mag_size			= 5
+                       	
+ammo_class			= ammo_12.7x54, ammo_127x55_fmj
+
+fire_modes			= 1
+
+hand_dependence 		= 2
+single_handed			= 0
+
+slot 				= 2			; secondary
+animation_slot			= 2			; type of the animation that will be used
+
+inv_name			= ars-vihlop
+inv_name_short			= ars-vihlop
+inv_weight			= 7.0
+
+inv_grid_width     = 6
+inv_grid_height    = 2
+inv_grid_x         = 11
+inv_grid_y         = 33
+
+;спавнить автоматически боеприпасы при подъеме оружия
+auto_spawn_ammo			= false
+
+sprint_allowed			= true
+
+;-----------------------------------------------------------------------------------
+;базовая дисперсия
+;dispersion_start		= 0
+fire_dispersion_base		= 0.0035 		; угол (в градусах) базовой дисперсии оружия (оружия зажатого в тисках)
+control_inertion_factor		= 1.6f
+
+;отдача
+cam_relax_speed 		= 6.5			; скорость возврата в исходное положение
+cam_relax_speed_ai 		= 120.75		; скорость возврата в исходное положение
+cam_dispersion 			= 2.3			; увеличения угла (в градусах) с каждым выстрелом
+cam_dispersion_inc		= 0.5			; увеличениe cam_dispersion с каждым выстрелом
+cam_dispertion_frac		= 1.0			; ствол будет подыматься на cam_dispersion*cam_dispertion_frac +- cam_dispersion*(1-cam_dispertion_frac)
+cam_max_angle			= 15.0			; максимальный угол отдачи
+cam_max_angle_horz		= 3.0			; (degree) maximum shot horizontal degree 
+cam_step_angle_horz		= 2.0			; (degree) size of step camera moved in horizontal position while shooting
+
+fire_dispersion_condition_factor= 5			; увеличение дисперсии в процентах при максимальном износе 
+misfire_probability 		= 0.0001			; вероятность осечки при максимальном износе 
+misfire_condition_k		= 0.0005
+condition_shot_dec 		= 0.0001	 	; увеличение износа при каждом выстреле
+;-----------------------------------------------------------------------------------
+
+direction 		= 0, 0, 1
+fire_point              = 0.0, 0.215, 0.600 ;fire_point 			= 0.0, 0.128, 0.522
+
+smoke_particles		 	= weapons\generic_shoot_00
+
+shell_point		 	= 0.0, 0.2, -0.030 ;shell_point		 	= 0.0, 0.128, 0.0
+shell_dir		 	= 0.0, 0.0, 0.4
+shell_particles	 		= weapons\762x54 
+
+PDM_disp_base 			= 4.5
+PDM_disp_vel_factor 		= 1.0
+PDM_disp_accel_factor 		= 1.2
+PDM_crouch	 		= 0.9
+PDM_crouch_no_acc 		= 0.8
+
+;;;;;;; Для "Последний Сталкер"
+hit_power                       = 1.3
+hit_impulse		 	= 85
+hit_type 			    = fire_wound
+hit_rate	                = 2.0
+fire_distance           	= 600
+bullet_speed		 	= 1150
+rpm                     	= 40
+
+silencer_hit_power 		= 1.3
+silencer_hit_impulse	 	= 85
+silencer_fire_distance 		= 600
+silencer_bullet_speed	 	= 1150
+
+use_aim_bullet			= true			; Поддерживается ли первая суппер пуля
+time_to_aim			= 1.0	
+
+hud 				= wpn_vihlop_hud
+normal 				= 0, 1, 0
+position 			= -0.022, -0.128, -0.010
+orientation 			= 0, 0, 0
+
+;--STRAP PARAMETERS-----------------------------------------------------------------
+;под мышкой
+strap_position 			= -0.26,-0.11,0.25	; position (offset) and orientation of the weapon when it is strapped
+strap_orientation 		= -15,-9,110		; (3rd person view in degrees)
+strap_bone0			= bip01_spine2
+strap_bone1			= bip01_spine1
+
+visual 				= weapons\vssk\wpn_vssk.ogf
+
+light_disabled			= true
+
+ph_mass			 	= 5
+
+;addons
+scope_status			= 1
+silencer_status			= 1
+grenade_launcher_status		= 0
+
+zoom_enabled			= true
+scope_zoom_factor		= 7.5		;ПСО-1 4X
+scope_texture			= wpn\wpn_vssk  ;wpn\scope_vssk
+
+silencer_name  				= wpn_addon_sil_762_ar
+silencer_x                  = 220		; offset in inventory icon
+silencer_y                  = 9
+
+;------------------------------ S.T.A.L.K.E.R`s sound remake ------------------------------
+;звуки
+snd_draw					= weapons\vintorez\vintorez_draw
+snd_holster					= weapons\rifle_holster
+snd_shoot					= weapons\vssk\vssk_shot_sil 
+snd_empty					= weapons\vintorez\vintorez_empty, 0.5
+snd_reload					= weapons\vssk\vssk_reload
+snd_close					= weapons\generic_close
+snd_silncer_shot		= weapons\vssk\vssk_shot_sil
+;------------------------------------------------------------------------------------------
+
+silencer_smoke_particles 	= amik\weapons\smoke_particles\silencer_smoke_particles_02
+
+silencer_light_color		= 0.6, 0.5, 0.3
+silencer_light_range		= 2
+silencer_light_var_color	= 0.05
+silencer_light_var_range	= 0.5
+silencer_light_time 		= 0.2
+
+hit_probability_gd_novice	= 0.80			; точность стрельбы,      
+hit_probability_gd_stalker	= 0.85			; когда оружие в руках НПС
+hit_probability_gd_veteran	= 0.90			; в зависимости от уровня 
+hit_probability_gd_master	= 0.95			; сложности игры          
+
+;-----------------------------------------------------------------------------
+;-- HUD DESCRIPTION
+;-----------------------------------------------------------------------------
+[wpn_vihlop_hud]
+
+allow_inertion			= true
+
+shell_point				= 1.02, -1.035, -1.351
+shell_dir             			= 0,1,0
+shell_bone				= wpn_body
+
+fire_point				= 0,0.047854,0.500 ;0,0.047854,0.618059
+fire_bone      	      			= wpn_body
+orientation 			= 0, 0, 0
+
+position 			= -0.00775, -0.178, 0.378
+
+visual 				= weapons\vssk\wpn_vssk_hud.ogf
+
+anim_holster			= lancew_vssk_holster
+anim_idle			= lancew_vssk_idle
+anim_idle_aim			= lancew_vssk_idle_aim
+anim_reload			= lancew_vssk_reload
+anim_draw			= lancew_vssk_draw
+anim_shoot			= lancew_vssk_shoot1
+anim_idle_sprint		= lancew_vssk_sprint
+;anim_idle_moving    		= lancew_vssk_moving
+
+
+;-----------------------------------------------------------------------------
+;смещения HUD для режима приближения
+zoom_offset			= -0.14200,0.01499,-0.055 
+zoom_rotate_x		        = -0.027500          ;0.01132
+zoom_rotate_y		        = 0.0175             ;0.0
+
+;-----------------------------------------------------------------------------
+;прячем перекрестие прицела в зуме
+zoom_hide_crosshair		= true
+
+;время поворота HUD (сек)
+zoom_rotate_time		= 0.45
+rotate_time			= 0.45
+

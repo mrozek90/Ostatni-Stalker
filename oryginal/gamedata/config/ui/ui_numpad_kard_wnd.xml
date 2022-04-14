@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<numpad_sensor>	
+	<background x="45" y="270" width="420" height="560">
+		<texture>ui_numpad_kard_lockframe</texture>
+	</background>
+	
+	<edit_box x="150" y="350" width="200" height="60">
+		<text font="letterica25" a="150" r="248" g="0" b="48" align="c"></text>
+	</edit_box>
+	
+	<btn_0 x="210" y="722" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key00</texture_t>
+	</btn_0>	
+	<btn_1 x="100" y="452" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key01</texture_t>
+	</btn_1>
+	<btn_2 x="210" y="452" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key02</texture_t>
+	</btn_2>
+	<btn_3 x="322" y="452" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key03</texture_t>
+	</btn_3>
+	<btn_4 x="100" y="542" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key04</texture_t>
+	</btn_4>
+	<btn_5 x="210" y="542" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key05</texture_t>
+	</btn_5>
+	<btn_6 x="322" y="542" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key06</texture_t>
+	</btn_6>
+	<btn_7 x="100" y="632" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key07</texture_t>
+	</btn_7>
+	<btn_8 x="210" y="632" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key08</texture_t>
+	</btn_8>
+	<btn_9 x="322" y="632" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key09</texture_t>
+	</btn_9>
+	
+	<btn_c x="100" y="722" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key0c</texture_t>
+	</btn_c>
+	<btn_backspase x="750" y="150" width="1" height="1">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_key0b</texture_t>
+	</btn_backspase>	
+	<btn_enter x="322" y="722" width="90" height="68">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_keyEnter</texture_t>
+	</btn_enter>	
+	<btn_cancel x="751" y="151" width="1" height="1">
+		<texture_e>ui_numpad_void</texture_e>
+		<texture_t>ui_numpad_kard_keyCancel</texture_t>
+	</btn_cancel>
+	
+</numpad_sensor>

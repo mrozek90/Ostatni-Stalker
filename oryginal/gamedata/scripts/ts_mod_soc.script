@@ -1,0 +1,328 @@
+-- 08.04.2016
+-- KroshkaRoo aka Romz
+-- TS MOD для SoC вообще и ОГСЕ в частности.
+--TS MOD для COP-- накопировано и накнопано Tonny S. (aka Tonny на AMK-форуме)
+--часть функций или их частей выковыряна из AMK, скриптов SAK и др.
+-- 2016.05.12 Добавлена таблица исключений для оружия не нуждающегося в авторазряжании. Авторы:  Zander_driver и  dsh 
+-- Оружие, перекладываемое из инвентаря и выброшенное/выбитое из рук не разряжается.
+--[[--
+для использования авторазряжалки следует:
+- в скрипте bind_stalker.script:
+	- function actor_binder:net_spawn(data)
+	в конец добавить
+	ts_mod_soc.ts_on_net_spawn()	--TS_MOD--
+
+	- function actor_binder:take_item_from_box(box, item)
+	в конец добавить
+	ts_mod_soc.ts_on_item_take(item)	--TS_MOD-- этот вызов не нужен Zander_driver
+
+	- function actor_binder:on_item_take (obj)
+	в конец добавить
+	ts_mod_soc.ts_on_item_take(item)	--TS_MOD--
+
+	- function actor_binder:on_item_drop (obj)
+	ts_mod_soc.ts_on_item_drop(obj)	--TS_MOD--
+
+- в скрипте _g.script
+	- function start_game_callback()
+	в конец добавить
+	ts_mod_soc.ts_init_module()		--TS_MOD--
+--]]--
+
+local notest_time = 0
+
+local weapon_classes_w_ammo = {}
+
+--список аммо для каждой секции. по сути кэш
+local weapon_ammo = {}
+
+--сюда занести секции оружия которое не надо разряжать. Zander_driver, dsh 
+local ex_sects = {
+  [ "wpn_blaster" ] = true,
+  [ "wpn_warlock_error" ] = true,
+[ "wpn_knife_bak" ] = true,
+[ "wpn_knife_d" ] = true,
+[ "wpn_knife_map" ] = true,
+[ "wpn_knife_tanto" ] = true,
+[ "wpn_knife" ] = true,
+  [ "wpn_warlock" ] = true,
+  [ "antigrav" ] = true,
+  [ "als_singulator" ] = true
+  }
+
+
+--лог в текстовый файл
+function ts_log(src,msg)
+
+	local g_time = game.get_game_time()
+	local t = game.CTime()
+
+	t:set(2012,5,1,0,0,1,1)
+	local t_diff = g_time:diffSec(t)
+
+	local fs = getFS()
+	if fs:exist("$app_data_root$","game.options") == nil then
+		local f1 = fs:update_path("$fs_root$", "fsgame.ltx")
+		local f2 = fs:update_path("$app_data_root$", "ts_log.txt")
+		fs:file_copy(f1, f2)
+	else
+		local f = io.open(fs:update_path("$app_data_root$", "ts_log.txt"), "r")
+		--local f=io.open(fs:update_path("$app_data_root$","ts_log.txt","a"))
+		f:write(string.format("(%s) = %s => %s " ,t_diff,src,msg),"\n" )
+		f:close()
+	end
+	
+end
+
+function ts_init_module()
+
+	weapon_classes_w_ammo = {
+		[clsid.wpn_ak74]			= true,
+		[clsid.wpn_ak74_s]			= true,
+		[clsid.wpn_bm16]			= true,
+		[clsid.wpn_bm16_s]			= true,
+		[clsid.wpn_fn2000]			= true,
+		[clsid.wpn_fort]			= true,
+		[clsid.wpn_grenade_launcher]		= true,
+		[clsid.wpn_groza]			= true,
+		[clsid.wpn_groza_s]			= true,
+		[clsid.wpn_hpsa]			= true,
+		[clsid.wpn_hpsa_s]			= true,
+		[clsid.wpn_lr300]			= true,
+		[clsid.wpn_lr300_s]			= true,
+		[clsid.wpn_pm]				= true,
+		[clsid.wpn_pm_s]			= true,
+		[clsid.wpn_rg6]				= true,
+		[clsid.wpn_rg6_s]			= true,
+		[clsid.wpn_rpg7]			= true,
+		[clsid.wpn_rpg7_s]			= true,
+		[clsid.wpn_shotgun]			= true,
+		[clsid.wpn_shotgun_s]			= true,
+		[clsid.wpn_stat_mgun]			= true,
+		[clsid.wpn_svd]				= true,
+		[clsid.wpn_svd_s]			= true,
+		[clsid.wpn_svu]				= true,
+		[clsid.wpn_svu_s]			= true,
+		[clsid.wpn_usp45]			= true,
+		[clsid.wpn_usp45_s]			= true,
+		[clsid.wpn_val]				= true,
+		[clsid.wpn_val_s]			= true,
+		[clsid.wpn_vintorez]			= true,
+		[clsid.wpn_vintorez_s]			= true,
+		[clsid.wpn_binocular]			= false,
+		[clsid.wpn_binocular_s]			= false,
+		[clsid.wpn_grenade_f1]			= false,
+		[clsid.wpn_grenade_fake]		= false,
+		[clsid.wpn_grenade_rgd5]		= false,
+		[clsid.wpn_grenade_rpg7]		= false,
+        [clsid.wpn_knife]			= false,
+		[clsid.wpn_knife_s]			= false,
+		[clsid.wpn_mounted]			= false
+		}
+		
+	--for k,v in pairs(weapon_classes_w_ammo) do
+
+end
+
+
+function is_weapon_w_ammo(object)
+	local id = get_clsid(object)
+	if id then
+--		if weapon_classes_w_ammo[id] then ts_log("is_weapon_w_ammo\t\t", "ID "..tostring(id).. " object "..object:name()) end
+		return weapon_classes_w_ammo[id] == true
+	else
+--		ts_log("is_weapon_w_ammo\t\t","ERR.is_weapon_w_ammo:id=nil")
+		return false
+	end
+end
+
+function ts_get_weapon_ammo_type(sobj)
+
+	local stpk=net_packet()
+
+	cse_alife_item_weapon.STATE_Write( sobj, stpk )
+	local size=stpk:w_tell()
+
+	stpk:r_seek(size-1)
+
+	return stpk:r_u8()
+end
+
+-- упрощённый вызов новости
+function ts_tip(news_caption, msg, showtime, timeout)
+
+	local news_text = "#системная ошибка. перезагрузите ваш PDA"
+	local texture = "ui\\ui_iconsTotal"
+
+	if msg then
+		news_text = msg
+	end
+
+	if timeout == nil then timeout = 0 end
+	if showtime == nil then showtime = 5 end
+	if timeout == 0 then
+		local player = xr_sound.get_safe_sound_object([[device\pda\pda_tip]])
+--		' Играем дефолтный звук
+		player:play(db.actor, timeout, sound_object.s2d)
+	end
+	local ts_news = news_caption.."\\n"..news_text
+	db.actor:give_game_news(ts_news, texture, Frect():set( 0, 658, 83, 47), timeout*1000, showtime*1000)
+end
+
+--взято с OGSM
+function spawn_ammo_in_inv(section,number,npc)
+	if npc==nil then
+		npc=db.actor
+	end
+
+	ts_log("spawn_ammo_in_inv","sect ["..tostring(section).."] npc ["..npc:name().."]" .."\n".."position [ x = "..tostring(npc:position().x)..", y = "..tostring(npc:position().y)..", z = "..tostring(npc:position().z).."]".."\n".." level_vertex_id ["..tostring(npc:level_vertex_id()).."]" .."\n".." game_vertex_id ["..tostring(npc:game_vertex_id()).."]" .."\n".." npc ID ["..tostring(npc:id()).."]" .."\n".." number ["..tostring(number).."]")
+	if number > 0 then
+			return se_respawn.create_ammo(section,
+					npc:position(),
+					npc:level_vertex_id(),
+					npc:game_vertex_id(),
+					npc:id(),
+					number)
+	end
+end
+
+function ts_ammo_discharge(wpn)
+	local	name = wpn:name()
+	local wpsec = wpn:section()
+    if ex_sects[ wpsec ] then return end     --не разряжаем оружие из таблицы исключений.  dsh 
+	local	ammo_count = wpn:get_ammo_in_magazine()
+	if ammo_count>0 then
+		local ammo_type = ts_get_weapon_ammo_type( alife():object(wpn:id()))
+--		ts_log("ts_ammo_discharge\t\t", name.." ammo_count = "..ammo_count.." ammo_type = "..ammo_type)
+		local section_ammo = ts_ammo_by_num(wpn:section(),ammo_type)
+		if section_ammo~=nil and string.find(section_ammo,"ammo") then
+			local str1 = string.format(" Боеприпас %s (%d шт.)",game.translate_string(string.gsub(section_ammo,"_","-").."_s"), ammo_count)
+--			ts_log("ts_ammo_discharge\t\t",str1)
+			ts_tip("Патроны",str1)
+			spawn_ammo_in_inv(section_ammo, ammo_count, nil)
+			wpn:unload_magazine()
+		else
+			if section_ammo == nil then
+				section_ammo = "<nil>"
+			end
+			ts_log("ts_ammo_discharge\t\t", "Object = "..name.." Ammo section fail: "..section_ammo)
+		end
+
+	end
+end
+
+function parse_names_mod( s )
+	local t = {}
+
+	--отсечка коментария
+	local pos =  string.find(s,";")
+	local ps = ""
+	if pos ~= nil and pos > 0 then
+		ps = string.sub(s,1, pos - 1)
+	else
+		ps = s
+	end
+
+	for name in string.gfind( ps, "([%w_.\\-]+)%p*" ) do
+		table.insert( t, name )
+	end
+
+	return t
+end
+
+--найти аммо по номеру
+function ts_ammo_by_num(section, num)
+	local ammo_list
+
+	if weapon_ammo[section] ~= nil and weapon_ammo[section] ~= "" then
+		ammo_list = weapon_ammo[section]
+--		ts_log("ts_ammo_by_num",section.." => Found: "..ammo_list)
+	else
+		local ltx = system_ini()
+		ammo_list = ltx:r_string(section,"ammo_class")
+		weapon_ammo[section] = ammo_list
+--		ts_log("ts_ammo_by_num",section.." => Loaded: "..ammo_list)
+	end
+
+--	for n,v in pairs(parse_names(ammo_list)) do ts_log("ts_ammo_by_num","....."..n.." -> "..v) end
+
+	local t=parse_names_mod(ammo_list)
+
+	local cnt = table.getn(t)
+	if cnt == 0 then
+		return nil
+	elseif num >= cnt then
+		return t[1]
+	else
+		return t[num+1]
+	end
+
+end
+
+function test_discharge_weapon(ItemObj)
+	if ItemObj == nil then
+		return false
+	end
+--	ts_log("test_discharge_weapon\t",ItemObj:name())
+
+	if notest_time == 0 then
+		notest_time = game.time()+6000
+	elseif notest_time>game.time() then
+		return false
+	elseif is_weapon_w_ammo(ItemObj) then
+		local ItemId 	= ItemObj:id()
+
+		local PistolSlot = db.actor:item_in_slot(1)
+		if PistolSlot then
+--			ts_log("test_discharge_weapon\t", "item "..PistolSlot:name().." in slot 1")
+			IdPistol = PistolSlot:id()
+		end
+
+		local AutomaticSlot = db.actor:item_in_slot(2)
+		if AutomaticSlot then
+--			ts_log("test_discharge_weapon\t", "item "..AutomaticSlot:name().." in slot 2")
+			IdAutomat = AutomaticSlot:id()
+		end
+
+		if ItemId ~= IdPistol and ItemId ~= IdAutomat then
+			ts_ammo_discharge(ItemObj)
+		else
+--			ts_log("test_discharge_weapon\t", "item "..ItemObj:name().." in slot")
+		end
+	end
+end
+
+function ts_on_net_spawn()
+--	ts_log("ts_on_net_spawn","..")
+	notest_time = 0
+end
+
+function ts_on_item_take(obj)
+	if notest_time>game.time() then
+		return false
+	end
+
+--	ts_log("ts_on_item_take\t\t","...")
+	if obj ~= nil then
+--		ts_log("ts_on_item_take\t\t", obj:name())
+		test_discharge_weapon(obj)
+	end
+end
+
+function ts_on_item_drop(obj)
+	if not db.actor:has_info("ui_inventory") then
+		return false
+	end
+
+	if notest_time>game.time() then
+		return false
+	end
+
+--	ts_log("ts_on_item_drop\t\t","...")
+	if obj ~= nil then
+--		ts_log("ts_on_item_drop\t\t", obj:name())
+		test_discharge_weapon(obj)
+	end
+end
+
+

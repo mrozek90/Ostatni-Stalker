@@ -1,0 +1,129 @@
+local mks_count = 1000000 --- число микросекунд в одной секунде. profile_timer работает в микросекундах, если кто забыл.
+
+local binders = {} --- таблица хранящая контроллеры биндеров по категориям.
+
+--[[
+    в бинд объекта: (или любого объекта у которого есть апдейт)
+    
+    в метод __init() добавлzем в конец:
+    -- self.tm_id = time_monitor.register_binder("xr_motivator") -- вместо xr_motivator свое имя скрипта
+    
+    в метод update(delta)
+    -- time_monitor.binder_update_start("xr_motivator", self.tm_id)
+    ... ваши действиz ...
+    -- time_monitor.binder_update_end("xr_motivator", self.tm_id)
+]]
+
+function register_binder(binder_type)
+    local btt = binders[binder_type]
+    if btt then
+        local new_id = #btt + 1
+        binders[binder_type][new_id] = time_monitor.binder_controller()
+        return new_id
+    else
+        binders[binder_type] = {}
+        binders[binder_type][1] = time_monitor.binder_controller()
+        return 1
+    end
+end
+
+function binder_update_start(binder_type, id)
+    binders[binder_type][id]:start()
+end
+
+function binder_update_end(binder_type, id)
+    binders[binder_type][id]:stop()
+end
+
+function self_update()
+    for k, v in pairs(binders) do
+        for i, j in pairs(v) do
+            j:set_0()
+        end
+    end
+end
+
+function clear()
+    for k, v in pairs(binders) do
+        local t = {}
+        for i, j in pairs(v) do
+            table.insert(t, i)
+        end
+        local a = 1
+        while t[a] ~= nil do
+            local vk = t[a]
+            v[vk] = nil
+            a = a + 1
+        end
+    end
+end
+
+function get_data()
+    local r = {}
+    local engine_time = mks_count
+    for k, v in pairs(binders) do
+        local count_normal = 0
+        local count_broken = 0
+        local stime = 0
+        for i, j in pairs(v) do
+            local d = j:get()
+            if d[1] or k == "actor_binder" then
+                count_normal = count_normal + 1
+                stime = stime + d[2]
+            else
+                count_broken = count_broken + 1
+            end
+        end
+        local R_color = round(255 * stime / 50000)
+        if R_color > 255 then R_color = 255 end
+        local G_color = round((200000 - stime) * 0.00127)
+        if G_color < 0 then G_color = 0 end
+        if G_color > 255 then G_color = 255 end
+        local B_color = round((100000 - stime) * 0.00255)
+        if B_color < 0 then B_color = 0 end
+        if B_color > 255 then B_color = 255 end
+        if count_broken ~= 0 then
+        B_color = 0
+        end
+        r[k] = {
+            [1] = string.format("Objects online: %i; Objects broken: %i; CPU Time: %G", count_normal, count_broken, stime / mks_count),
+            [2] = {255, R_color, G_color, B_color}
+            }
+        engine_time = engine_time - stime
+    end
+    -- r["engine"] = string.format("Engine CPU Time: %G", engine_time / mks_count)
+    return r
+end
+
+class "binder_controller"
+function binder_controller:__init()
+    self.status = true
+    self.time = 0
+    self.timer = nil
+end
+
+function binder_controller:__finalize()
+    self.timer = nil
+end
+
+function binder_controller:start()
+    self.timer = profile_timer()
+    self.timer:start()
+    self.status = false
+end
+
+function binder_controller:stop()
+    self.timer:stop()
+    self.time = self.time + self.timer:time()
+    self.status = true
+    self.timer = nil
+end
+
+function binder_controller:get()
+    return {self.status, self.time}
+    
+end
+
+function binder_controller:set_0()
+    self.time = 0
+end

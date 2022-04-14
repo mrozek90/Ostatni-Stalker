@@ -1,0 +1,63 @@
+function tv_day()
+	local obj = alife():story_object(20317)
+	if obj then
+	alife():set_switch_offline(obj.id, false)
+	alife():set_switch_online(obj.id, true)
+	alife():set_interactive(obj.id, true)
+	end
+
+	local obj = alife():story_object(20318)
+	if obj then
+	alife():set_switch_offline(obj.id, true)
+	alife():set_switch_online(obj.id, false)
+	alife():set_interactive(obj.id, false)
+	end
+end
+
+function tv_night()
+	local obj = alife():story_object(20318)
+	if obj then
+	alife():set_switch_offline(obj.id, false)
+	alife():set_switch_online(obj.id, true)
+	alife():set_interactive(obj.id, true)
+	end
+
+	local obj = alife():story_object(21317)
+	if obj then
+	alife():set_switch_offline(obj.id, true)
+	alife():set_switch_online(obj.id, false)
+	alife():set_interactive(obj.id, false)
+	end
+end
+
+function tv_gold()
+	local obj = alife():story_object(21382)
+	if obj then
+	alife():set_switch_offline(obj.id, false)
+	alife():set_switch_online(obj.id, true)
+	alife():set_interactive(obj.id, true)
+	end
+
+	local obj = alife():story_object(20318)
+	if obj then
+	alife():set_switch_offline(obj.id, true)
+	alife():set_switch_online(obj.id, false)
+	alife():set_interactive(obj.id, false)
+	end
+end
+
+function tv_no_one()
+	local obj = alife():story_object(20318)
+	if obj then
+	alife():set_switch_offline(obj.id, false)
+	alife():set_switch_online(obj.id, true)
+	alife():set_interactive(obj.id, true)
+	end
+
+	local obj = alife():story_object(21382)
+	if obj then
+	alife():set_switch_offline(obj.id, true)
+	alife():set_switch_online(obj.id, false)
+	alife():set_interactive(obj.id, false)
+	end
+end

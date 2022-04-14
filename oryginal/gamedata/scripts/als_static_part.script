@@ -1,0 +1,313 @@
+local iiTimer = 0
+local last = 0
+function start_timer_static(seconds)
+    if seconds~= nil  then
+        iiTimer = time_global()+seconds*1000  --/ взводим таймер 
+    end
+end
+
+function timer_static() --/ вызывается из ':update' сталкер-биндера
+    if iiTimer then
+        last=iiTimer-time_global() 
+        if iiTimer < time_global() then
+            iiTimer = nil --/ выключаем таймер
+            last=nil
+        --     СКРИПТ.ФУНКЦИЯ--/ выполняем действие
+        end
+    end
+end
+
+function timer_static_taboo() --/ вызывается из ':update' сталкер-биндера
+    if iiTimer then
+        last=iiTimer-time_global() 
+        if iiTimer < time_global() then
+            iiTimer = nil --/ выключаем таймер
+            last=nil
+        xr_effects.game_credits()
+        end
+    end
+end
+
+function timer_static_barier_1() --/ вызывается из ':update' сталкер-биндера
+    if iiTimer then
+        last=iiTimer-time_global() 
+        if iiTimer < time_global() then
+            iiTimer = nil --/ выключаем таймер
+            last=nil
+        xr_effects.dfs_gameover_1()
+        end
+    end
+end
+
+function timer_static_barier_2() --/ вызывается из ':update' сталкер-биндера
+    if iiTimer then
+        last=iiTimer-time_global() 
+        if iiTimer < time_global() then
+            iiTimer = nil --/ выключаем таймер
+            last=nil
+        xr_effects.dfs_gameover_2()
+        end
+    end
+end
+
+function timer_static_barier_3() --/ вызывается из ':update' сталкер-биндера
+    if iiTimer then
+        last=iiTimer-time_global() 
+        if iiTimer < time_global() then
+            iiTimer = nil --/ выключаем таймер
+            last=nil
+        xr_effects.dfs_gameover_3()
+        end
+    end
+end
+
+function timer_static_barier_4() --/ вызывается из ':update' сталкер-биндера
+    if iiTimer then
+        last=iiTimer-time_global() 
+        if iiTimer < time_global() then
+            iiTimer = nil --/ выключаем таймер
+            last=nil
+        xr_effects.dfs_gameover_4()
+        end
+    end
+end
+
+-- выводим  статик нужной части игры на худ
+function hud_static_part(part) 
+if part ~= nil then
+   if part ~= "timer_boom" then 
+         local name = part
+         local snd_obj_l = xr_sound.get_safe_sound_object([[ambient\horror\atto_sound_l]])
+		 local snd_obj_r = xr_sound.get_safe_sound_object([[ambient\horror\atto_sound_r]])
+         local hud_part1 = get_hud()
+         local part1_static = hud_part1:GetCustomStatic(name)
+
+       if iiTimer then
+            if part1_static == nil then
+            --level.add_pp_effector ("deadcity_wake.ppe", 2009, false)
+            snd_obj_l:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+			snd_obj_r:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+            hud_part1:AddCustomStatic(name, true)
+            hud_part1:GetCustomStatic(name):wnd():SetTextST(name)
+            end 
+
+       else
+            if part1_static ~= nil then
+            hud_part1:RemoveCustomStatic(name)
+            --level.remove_pp_effector(2009)
+            end
+       end
+  else
+    local hud = get_hud()
+    local st = false
+    local hud1 = get_hud()
+    local custom_static = hud1:GetCustomStatic("timer_boom")
+    local snd_obj = xr_sound.get_safe_sound_object([[detectors\btimer]])
+    if iiTimer then
+            st = hud:GetCustomStatic("hud_timer_boom")
+           if st==nil then
+		snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+                hud:AddCustomStatic("hud_timer_boom", true)
+                st = hud:GetCustomStatic("hud_timer_boom")
+           end
+           if last~=nil then
+                local hours = math.floor(last/3600000)
+                local minutes = math.floor(last/60000 - hours*60)
+                local seconds = math.floor(last/1000 - hours*3600 - minutes*60)
+                local text = string.format("%02d:%02d",minutes,seconds) -- выводим время в формате 00:00
+                st:wnd():SetTextST(text)  
+           end
+           if custom_static == nil then
+            hud1:AddCustomStatic("timer_boom", true)
+            hud1:GetCustomStatic("timer_boom"):wnd():SetTextST("timer_boom")
+           end  
+      else
+	   if hud:GetCustomStatic("hud_timer_boom")~=nil then
+                hud:RemoveCustomStatic("hud_timer_boom")
+           end
+           if custom_static ~= nil then
+             hud1:RemoveCustomStatic("timer_boom")
+           end
+	  
+     end
+   end
+else
+    news_manager.send_tip(db.actor, "%c[255,200,0,0]part=nil - нет статика для вывода", nil, nil, 15000)
+    name = nil
+end
+
+end
+
+
+function hud_static_dont_kill(msg)
+if msg ~= nil then
+    local name = msg
+    local snd_obj = xr_sound.get_safe_sound_object([[detectors\btimer]])
+    local hud_part1 = get_hud()
+    local part1_static = hud_part1:GetCustomStatic(name)
+    if iiTimer then
+           if part1_static == nil then
+            snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+            hud_part1:AddCustomStatic(name, true)
+            hud_part1:GetCustomStatic(name):wnd():SetTextST(name)
+           end  
+ 
+    else
+	   if part1_static ~= nil then
+            hud_part1:RemoveCustomStatic(name)
+           end
+		db.actor:disable_info_portion("ubil")
+   end
+else
+    news_manager.send_tip(db.actor, "%c[255,200,0,0]part=nil - нет статика для вывода", nil, nil, 15000)
+    name = nil
+end
+end
+
+function hud_static_have_noticed(msg)
+if msg ~= nil then
+    local name = msg
+    local snd_obj = xr_sound.get_safe_sound_object([[detectors\btimer]])
+    local hud_part1 = get_hud()
+    local part1_static = hud_part1:GetCustomStatic(name)
+    if iiTimer then
+           if part1_static == nil then
+            snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+            hud_part1:AddCustomStatic(name, true)
+            hud_part1:GetCustomStatic(name):wnd():SetTextST(name)
+           end  
+ 
+    else
+	   if part1_static ~= nil then
+            hud_part1:RemoveCustomStatic(name)
+           end
+		db.actor:disable_info_portion("have_noticed")
+   end
+else
+    news_manager.send_tip(db.actor, "%c[255,200,0,0]part=nil - нет статика для вывода", nil, nil, 15000)
+    name = nil
+end
+end
+
+function hud_static_you_lost(msg)
+if msg ~= nil then
+    local name = msg
+    local snd_obj = xr_sound.get_safe_sound_object([[detectors\btimer]])
+    local hud_part1 = get_hud()
+    local part1_static = hud_part1:GetCustomStatic(name)
+    if iiTimer then
+           if part1_static == nil then
+            snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+            hud_part1:AddCustomStatic(name, true)
+            hud_part1:GetCustomStatic(name):wnd():SetTextST(name)
+           end  
+ 
+    else
+	   if part1_static ~= nil then
+            hud_part1:RemoveCustomStatic(name)
+           end
+		db.actor:disable_info_portion("you_lost")
+   end
+else
+    news_manager.send_tip(db.actor, "%c[255,200,0,0]part=nil - нет статика для вывода", nil, nil, 15000)
+    name = nil
+end
+end
+
+function hud_static_you_vin(msg)
+if msg ~= nil then
+    local name = msg
+    local snd_obj = xr_sound.get_safe_sound_object([[detectors\btimer]])
+    local hud_part1 = get_hud()
+    local part1_static = hud_part1:GetCustomStatic(name)
+    if iiTimer then
+           if part1_static == nil then
+            snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+            hud_part1:AddCustomStatic(name, true)
+            hud_part1:GetCustomStatic(name):wnd():SetTextST(name)
+           end  
+ 
+    else
+	   if part1_static ~= nil then
+            hud_part1:RemoveCustomStatic(name)
+           end
+		db.actor:disable_info_portion("you_vin")
+   end
+else
+    news_manager.send_tip(db.actor, "%c[255,200,0,0]part=nil - нет статика для вывода", nil, nil, 15000)
+    name = nil
+end
+end
+
+
+
+
+
+
+
+function hud_static_announcement(announcement) 
+if announcement ~= nil then
+   if announcement ~= "timer_boom" then 
+         local name = announcement
+         --local snd_obj_l = xr_sound.get_safe_sound_object([[ambient\horror\atto_sound_l]])
+		 --local snd_obj_r = xr_sound.get_safe_sound_object([[ambient\horror\atto_sound_r]])
+         local hud_announcement1 = get_hud()
+         local announcement1_static = hud_announcement1:GetCustomStatic(name)
+
+       if iiTimer then
+            if announcement1_static == nil then
+            --level.add_pp_effector ("deadcity_wake.ppe", 2009, false)
+            --snd_obj_l:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+			--snd_obj_r:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+            hud_announcement1:AddCustomStatic(name, true)
+            hud_announcement1:GetCustomStatic(name):wnd():SetTextST(name)
+            end 
+
+       else
+            if announcement1_static ~= nil then
+            hud_announcement1:RemoveCustomStatic(name)
+            --level.remove_pp_effector(2009)
+            end
+       end
+  else
+    local hud = get_hud()
+    local st = false
+    local hud1 = get_hud()
+    local custom_static = hud1:GetCustomStatic("timer_boom")
+    local snd_obj = xr_sound.get_safe_sound_object([[detectors\btimer]])
+    if iiTimer then
+            st = hud:GetCustomStatic("hud_timer_boom")
+           if st==nil then
+		snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+                hud:AddCustomStatic("hud_timer_boom", true)
+                st = hud:GetCustomStatic("hud_timer_boom")
+           end
+           if last~=nil then
+                local hours = math.floor(last/3600000)
+                local minutes = math.floor(last/60000 - hours*60)
+                local seconds = math.floor(last/1000 - hours*3600 - minutes*60)
+                local text = string.format("%02d:%02d",minutes,seconds) -- выводим время в формате 00:00
+                st:wnd():SetTextST(text)  
+           end
+           if custom_static == nil then
+            hud1:AddCustomStatic("timer_boom", true)
+            hud1:GetCustomStatic("timer_boom"):wnd():SetTextST("timer_boom")
+           end  
+      else
+	   if hud:GetCustomStatic("hud_timer_boom")~=nil then
+                hud:RemoveCustomStatic("hud_timer_boom")
+           end
+           if custom_static ~= nil then
+             hud1:RemoveCustomStatic("timer_boom")
+           end
+	  
+     end
+   end
+else
+    news_manager.send_tip(db.actor, "%c[255,200,0,0]announcement=nil - нет статика для вывода", nil, nil, 15000)
+    name = nil
+end
+
+end
+
+

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+    <string id="tab_type_1">
+		<text>Предметы</text>
+	</string>
+	
+	<string id="tab_type_2">
+		<text>Объекты</text>
+	</string>
+	
+	<string id="tab_where_1">
+		<text>В инвентарь актора</text>
+	</string>
+	
+    <string id="tab_where_1">
+		<text>В инвентарь актора</text>
+	</string>
+	
+	<string id="tab_where_2">
+		<text>В инвентарь объекта</text>
+	</string>
+	
+	<string id="tab_where_3">
+		<text>На поверхность геометрии</text>
+	</string>
+	
+	<string id="show_coord">
+	    <text>Выводить на экран</text>
+	</string>
+	
+	<string id="artefacts">
+	    <text>Артефакты</text>
+	</string>
+	
+	<string id="ammos">
+	    <text>Снаряды</text>
+	</string>
+	
+	<string id="wpns">
+	    <text>Оружие</text>
+	</string>
+	
+	<string id="addons">
+	    <text>Аддоны</text>
+	</string>
+	
+	<string id="outfits">
+	    <text>Броники</text>
+	</string>
+	
+	<string id="meds">
+	    <text>Медикаменты</text>
+	</string>
+	
+	<string id="myaso">
+	    <text>Мясо</text>
+	</string>
+	
+	<string id="eats">
+	    <text>Еда</text>
+	</string>
+	
+	<string id="devices">
+	    <text>Предметы</text>
+	</string>
+	
+	<string id="quests">
+	    <text>Квестовые</text>
+	</string>
+	
+	<string id="uniqus">
+	    <text>Уникальные</text>
+	</string>
+	
+	<string id="physics">
+	    <text>Физические</text>
+	</string>
+	
+	<string id="stalkers">
+	    <text>Сталкеры</text>
+	</string>
+	
+	<string id="spawn_sections">
+	    <text>Sections</text>
+	</string>
+	
+	<string id="monsters">
+	    <text>Монстры</text>
+	</string>
+	
+	<string id="tab_pov_geo_1">
+	    <text>По координатам актора</text>
+	</string>
+	
+	<string id="tab_pov_geo_2">
+	    <text>По файл-поинтам</text>
+	</string>
+	
+	<string id="tab_pov_geo_3">
+	    <text>Ввод координат</text>
+	</string>
+	
+	<string id="dist_from_act">
+	    <text>Дистанция от актора, по направлению его взгляда.</text>
+	</string>
+	
+	<string id="tele_jump_title">
+	    <text>Произвести прыжок на</text>
+	</string>
+	
+	<string id="tele_jump_metr">
+	    <text>метров вперёд.</text>
+	</string>
+	
+	<string id="coord_fp">
+	    <text>Нажмите, чтобы выбрать файл-поинт.</text>
+	</string>
+	
+	<string id="re_prop">
+	    <text>Изменить</text>
+	</string>
+	
+	<string id="spawn_dist_metr">
+	    <text>метров</text>
+	</string>
+	
+	<string id="tab_inv_obj_1">
+	    <text>По Story_id объекта.</text>
+	</string>
+	
+	<string id="tab_inv_obj_2">
+	    <text>NPC online.</text>
+	</string>
+	
+	<string id="tab_inv_obj_3">
+	    <text>Inventory boxes</text>
+	</string>
+	
+	<string id="story_id_inv">
+	    <text>Введите Story_id нужного объекта.</text>
+	</string>
+	
+	<string id="hint_fixed_window">
+	    <text>Закрепить окно, как стартовое.</text>
+	</string>
+
+</string_table>

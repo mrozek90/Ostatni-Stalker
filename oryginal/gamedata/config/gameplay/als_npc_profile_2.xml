@@ -1,0 +1,1851 @@
+<?xml version='1.0' encoding="UTF-8"?>
+
+<xml>
+
+	<character id="sor_galash">
+		<class>sor_galash</class>
+	</character>
+	
+	<character id="sor_bar_stalker_1">
+		<class>sor_bar_stalker_1</class>
+	</character>
+	
+	<character id="sor_bar_stalker_2">
+		<class>sor_bar_stalker_2</class>
+	</character>
+	
+	<character id="sor_bar_stalker_3">
+		<class>sor_bar_stalker_3</class>
+	</character>
+	
+	<character id="sor_bar_stalker_4">
+		<class>sor_bar_stalker_4</class>
+	</character>
+	
+	<character id="sor_bar_stalker_5">
+		<class>sor_bar_stalker_5</class>
+	</character>
+	
+	<character id="sor_bar_stalker_6">
+		<class>sor_bar_stalker_6</class>
+	</character>
+	
+	<character id="sor_bar_stalker_7">
+		<class>sor_bar_stalker_7</class>
+	</character>
+	
+	<character id="haker_bandit_1">
+		<class>haker_bandit_1</class>
+	</character>
+	
+	<character id="haker_bandit_2">
+		<class>haker_bandit_2</class>
+	</character>
+	
+	<character id="cptn_gryaznov">
+		<class>cptn_gryaznov</class>
+	</character>
+	
+	<character id="ltnt_ivanzov">
+		<class>ltnt_ivanzov</class>
+	</character>
+	
+	<character id="ltnt_marchenko">
+		<class>ltnt_marchenko</class>
+	</character>
+	
+	<character id="srg_russkih">
+		<class>srg_russkih</class>
+	</character>
+	
+	<character id="srg_timchenko">
+		<class>srg_timchenko</class>
+	</character>
+	
+	<character id="prv_zvezdizky">
+		<class>prv_zvezdizky</class>
+	</character>
+	
+	<character id="prv_teplov">
+		<class>prv_teplov</class>
+	</character>
+	
+	<character id="sor_grc_chimist">
+		<class>sor_grc_chimist</class>
+	</character>
+	
+	<character id="sor_grc_lukanov">
+		<class>sor_grc_lukanov</class>
+	</character>
+	
+	<character id="lukanov">
+		<class>lukanov</class>
+	</character>
+	
+	<character id="sor_soldier_1">
+		<class>sor_soldier_1</class>
+	</character>
+	
+	<character id="sor_soldier_2">
+		<class>sor_soldier_2</class>
+	</character>
+	
+	<character id="sor_soldier_3">
+		<class>sor_soldier_3</class>
+	</character>
+	
+	<character id="sor_soldier_4">
+		<class>sor_soldier_4</class>
+	</character>
+	
+	<character id="sor_soldier_5">
+		<class>sor_soldier_5</class>
+	</character>
+	
+	<character id="sor_soldier_6">
+		<class>sor_soldier_6</class>
+	</character>
+	
+	<character id="sor_soldier_7">
+		<class>sor_soldier_7</class>
+	</character>
+	
+	<character id="sor_soldier_8">
+		<class>sor_soldier_8</class>
+	</character>
+	
+	<character id="sor_soldier_9">
+		<class>sor_soldier_9</class>
+	</character>
+	
+	<character id="sor_soldier_commander_1">
+		<class>sor_soldier_commander_1</class>
+	</character>
+	
+	<character id="sor_soldier_commander_2">
+		<class>sor_soldier_commander_2</class>
+	</character>
+	
+	<character id="sor_grc_kum">
+		<class>sor_grc_kum</class>
+	</character>
+	
+	<character id="agr_dead_grc">
+		<class>agr_dead_grc</class>
+	</character>
+	
+	<character id="kasper">
+		<class>kasper</class>
+	</character>
+	
+	<character id="red_kasper">
+		<class>red_kasper</class>
+	</character>
+	
+	<character id="lim_kasper">
+		<class>lim_kasper</class>
+	</character>
+	
+	<character id="val_kasper">
+		<class>val_kasper</class>
+	</character>
+	
+	<character id="sor_grc_stalker_1">
+		<class>sor_grc_stalker_1</class>
+	</character>
+	
+	<character id="sor_grc_stalker_2">
+		<class>sor_grc_stalker_2</class>
+	</character>
+	
+	<character id="sor_grc_stalker_3">
+		<class>sor_grc_stalker_3</class>
+	</character>
+	
+	<character id="sor_arestant_1">
+		<class>sor_arestant_1</class>
+	</character>
+	
+	<character id="sor_arestant_2">
+		<class>sor_arestant_2</class>
+	</character>
+	
+	<character id="sor_arestant_3">
+		<class>sor_arestant_3</class>
+	</character>
+	
+	<character id="sor_arestant_4">
+		<class>sor_arestant_4</class>
+	</character>
+	
+	<character id="sor_grc_agent">
+		<class>sor_grc_agent</class>
+	</character>
+	
+	<character id="tankist">
+		<class>tankist</class>
+	</character>
+	
+	<character id="sor_tankist">
+		<class>sor_tankist</class>
+	</character>
+	
+	<character id="esc_tankist">
+		<class>esc_tankist</class>
+	</character>
+	
+	<character id="esc_tankist_dead_stalker">
+		<class>esc_tankist_dead_stalker</class>
+	</character>
+	
+	<character id="stalker_tankist_1">
+		<class>stalker_tankist_1</class>
+	</character>
+	
+	<character id="stalker_tankist_2">
+		<class>stalker_tankist_2</class>
+	</character>
+	
+	<character id="stalker_tankist_3">
+		<class>stalker_tankist_3</class>
+	</character>
+	
+	<character id="stalker_tankist_4">
+		<class>stalker_tankist_4</class>
+	</character>
+	
+	<character id="stalker_tankist_5">
+		<class>stalker_tankist_5</class>
+	</character>
+	
+	<character id="stalker_tankist_6">
+		<class>stalker_tankist_6</class>
+	</character>
+	
+	<character id="stalker_tankist_7">
+		<class>stalker_tankist_7</class>
+	</character>
+	
+	<character id="als_bandit_new_1">
+		<class>als_bandit_new_1</class>
+	</character>
+	
+	<character id="als_bandit_new_2">
+		<class>als_bandit_new_2</class>
+	</character>
+	
+	<character id="als_bandit_new_3">
+		<class>als_bandit_new_3</class>
+	</character>
+	
+	<character id="als_bandit_new_4">
+		<class>als_bandit_new_4</class>
+	</character>
+	
+	<character id="als_neutral_new_1">
+		<class>als_neutral_new_1</class>
+	</character>
+	
+	<character id="als_neutral_new_2">
+		<class>als_neutral_new_2</class>
+	</character>
+	
+	<character id="als_neutral_new_3">
+		<class>als_neutral_new_3</class>
+	</character>
+	
+	<character id="als_neutral_new_4">
+		<class>als_neutral_new_4</class>
+	</character>
+	
+	<character id="als_neutral_new_5">
+		<class>als_neutral_new_5</class>
+	</character>
+	
+	<character id="als_neutral_new_6">
+		<class>als_neutral_new_6</class>
+	</character>
+	
+	<character id="als_neutral_new_7">
+		<class>als_neutral_new_7</class>
+	</character>
+	
+	<character id="als_neutral_new_8">
+		<class>als_neutral_new_8</class>
+	</character>
+	
+	<character id="als_neutral_new_9">
+		<class>als_neutral_new_9</class>
+	</character>
+	
+	<character id="als_neutral_new_10">
+		<class>als_neutral_new_10</class>
+	</character>
+	
+	<character id="als_neutral_new_11">
+		<class>als_neutral_new_11</class>
+	</character>
+	
+	<character id="als_neutral_new_12">
+		<class>als_neutral_new_12</class>
+	</character>
+	
+	<character id="als_neutral_new_13">
+		<class>als_neutral_new_13</class>
+	</character>
+	
+	<character id="als_neutral_new_14">
+		<class>als_neutral_new_14</class>
+	</character>
+	
+	<character id="als_neutral_new_15">
+		<class>als_neutral_new_15</class>
+	</character>
+	
+	<character id="als_neutral_new_16">
+		<class>als_neutral_new_16</class>
+	</character>
+	
+	<character id="als_neutral_new_17">
+		<class>als_neutral_new_17</class>
+	</character>
+	
+	<character id="mackleens">
+		<class>mackleens</class>
+	</character>
+	
+	<character id="mackleens_stalker_1">
+		<class>mackleens_stalker_1</class>
+	</character>
+	
+	<character id="mackleens_stalker_2">
+		<class>mackleens_stalker_2</class>
+	</character>
+	
+	<character id="mackleens_stalker_3">
+		<class>mackleens_stalker_3</class>
+	</character>
+	
+	<character id="mackleens_stalker_4">
+		<class>mackleens_stalker_4</class>
+	</character>
+	
+	<character id="mackleens_exo">
+		<class>mackleens_exo</class>
+	</character>
+	
+	<character id="mackleens_stalker_exo_1">
+		<class>mackleens_stalker_exo_1</class>
+	</character>
+	
+	<character id="mackleens_stalker_exo_2">
+		<class>mackleens_stalker_exo_2</class>
+	</character>
+	
+	<character id="mackleens_stalker_exo_3">
+		<class>mackleens_stalker_exo_3</class>
+	</character>
+	
+	<character id="mackleens_stalker_exo_4">
+		<class>mackleens_stalker_exo_4</class>
+	</character>
+	
+	<character id="marsh_svoboda_commander">
+		<class>marsh_svoboda_commander</class>
+	</character>
+	
+	<character id="marsh_svoboda_trader">
+		<class>marsh_svoboda_trader</class>
+	</character>
+	
+	<character id="marsh_svoboda_mexanik">
+		<class>marsh_svoboda_mexanik</class>
+	</character>
+	
+	<character id="marsh_svoboda_gruver">
+		<class>marsh_svoboda_gruver</class>
+	</character>
+	
+	<character id="marsh_svoboda_bayda">
+		<class>marsh_svoboda_bayda</class>
+	</character>
+	
+	<character id="marsh_svoboda_1">
+		<class>marsh_svoboda_1</class>
+	</character>
+	
+	<character id="marsh_svoboda_2">
+		<class>marsh_svoboda_2</class>
+	</character>
+	
+	<character id="marsh_svoboda_3">
+		<class>marsh_svoboda_3</class>
+	</character>
+	
+	<character id="marsh_svoboda_4">
+		<class>marsh_svoboda_4</class>
+	</character>
+	
+	<character id="marsh_svoboda_5">
+		<class>marsh_svoboda_5</class>
+	</character>
+	
+	<character id="marsh_svoboda_6">
+		<class>marsh_svoboda_6</class>
+	</character>
+	
+	<character id="marsh_svoboda_7">
+		<class>marsh_svoboda_7</class>
+	</character>
+	
+	<character id="marsh_svoboda_8">
+		<class>marsh_svoboda_8</class>
+	</character>
+	
+	<character id="marsh_svoboda_9">
+		<class>marsh_svoboda_9</class>
+	</character>
+	
+	<character id="marsh_svoboda_10">
+		<class>marsh_svoboda_10</class>
+	</character>
+	
+	<character id="marsh_bandit_siply">
+		<class>marsh_bandit_siply</class>
+	</character>
+	
+	<character id="marsh_mogilshik">
+		<class>marsh_mogilshik</class>
+	</character>
+	
+	<character id="marsh_mogilshik_bandit_1">
+		<class>marsh_mogilshik_bandit_1</class>
+	</character>
+	
+	<character id="marsh_mogilshik_bandit_2">
+		<class>marsh_mogilshik_bandit_2</class>
+	</character>
+	
+	<character id="marsh_mogilshik_bandit_3">
+		<class>marsh_mogilshik_bandit_3</class>
+	</character>
+	
+	<character id="marsh_mogilshik_bandit_4">
+		<class>marsh_mogilshik_bandit_4</class>
+	</character>
+	
+	<character id="pol_mogilshik_bandit_sniper">
+		<class>pol_mogilshik_bandit_sniper</class>
+	</character>
+	
+	<character id="pol_mogilshik_bandit_1">
+		<class>pol_mogilshik_bandit_1</class>
+	</character>
+	
+	<character id="pol_mogilshik_bandit_2">
+		<class>pol_mogilshik_bandit_2</class>
+	</character>
+	
+	<character id="pol_mogilshik_bandit_3">
+		<class>pol_mogilshik_bandit_3</class>
+	</character>
+	
+	<character id="pol_mogilshik_bandit_4">
+		<class>pol_mogilshik_bandit_4</class>
+	</character>
+	
+	<character id="pol_dushman">
+		<class>pol_dushman</class>
+	</character>
+	
+	<character id="sor_kuchma">
+		<class>sor_kuchma</class>
+	</character>
+	
+	<character id="marsh_uzbek">
+		<class>marsh_uzbek</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_1">
+		<class>marsh_uzbek_bandit_1</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_2">
+		<class>marsh_uzbek_bandit_2</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_3">
+		<class>marsh_uzbek_bandit_3</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_4">
+		<class>marsh_uzbek_bandit_4</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_5">
+		<class>marsh_uzbek_bandit_5</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_6">
+		<class>marsh_uzbek_bandit_6</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_7">
+		<class>marsh_uzbek_bandit_7</class>
+	</character>
+	
+	<character id="marsh_uzbek_bandit_8">
+		<class>marsh_uzbek_bandit_8</class>
+	</character>
+	
+	<character id="waterrat">
+		<class>waterrat</class>
+	</character>
+	
+	<character id="waterrat_stalker_1">
+		<class>waterrat_stalker_1</class>
+	</character>
+	
+	<character id="waterrat_stalker_2">
+		<class>waterrat_stalker_2</class>
+	</character>
+	
+	<character id="waterrat_stalker_3">
+		<class>waterrat_stalker_3</class>
+	</character>
+	
+	<character id="waterrat_stalker_4">
+		<class>waterrat_stalker_4</class>
+	</character>
+	
+	<character id="waterrat_stalker_5">
+		<class>waterrat_stalker_5</class>
+	</character>
+	
+	<character id="waterrat_stalker_6">
+		<class>waterrat_stalker_6</class>
+	</character>
+	
+	<character id="waterrat_stalker_7">
+		<class>waterrat_stalker_7</class>
+	</character>
+	
+	<character id="waterrat_stalker_8">
+		<class>waterrat_stalker_8</class>
+	</character>
+	
+	<character id="waterrat_stalker_9">
+		<class>waterrat_stalker_9</class>
+	</character>
+	
+	<character id="waterrat_stalker_10">
+		<class>waterrat_stalker_10</class>
+	</character>
+	
+	<character id="waterrat_stalker_11">
+		<class>waterrat_stalker_11</class>
+	</character>
+	
+	<character id="waterrat_stalker_12">
+		<class>waterrat_stalker_12</class>
+	</character>
+	
+	<character id="waterrat_stalker_13">
+		<class>waterrat_stalker_13</class>
+	</character>
+	
+	<character id="marsh_deadman">
+		<class>marsh_deadman</class>
+	</character>
+	
+	<character id="esc_deadman">
+		<class>esc_deadman</class>
+	</character>
+	
+	<character id="marsh_galash">
+		<class>marsh_galash</class>
+	</character>
+	
+	<character id="marsh_galash_stalker_1">
+		<class>marsh_galash_stalker_1</class>
+	</character>
+	
+	<character id="marsh_galash_stalker_2">
+		<class>marsh_galash_stalker_2</class>
+	</character>
+	
+	<character id="marsh_galash_stalker_3">
+		<class>marsh_galash_stalker_3</class>
+	</character>
+	
+	<character id="marsh_galash_stalker_4">
+		<class>marsh_galash_stalker_4</class>
+	</character>
+	
+	<character id="marsh_galash_stalker_5">
+		<class>marsh_galash_stalker_5</class>
+	</character>
+	
+	<character id="als_soldier_desant_1">
+		<class>als_soldier_desant_1</class>
+	</character>
+	
+	<character id="als_soldier_desant_2">
+		<class>als_soldier_desant_2</class>
+	</character>
+	
+	<character id="als_soldier_desant_3">
+		<class>als_soldier_desant_3</class>
+	</character>
+	
+	<character id="als_soldier_desant_4">
+		<class>als_soldier_desant_4</class>
+	</character>
+	
+	<character id="als_soldier_desant_4_w_rat">
+		<class>als_soldier_desant_4_w_rat</class>
+	</character>
+	
+	<character id="als_soldier_desant_1_antigas">
+		<class>als_soldier_desant_1_antigas</class>
+	</character>
+	
+	<character id="als_soldier_desant_2_antigas">
+		<class>als_soldier_desant_2_antigas</class>
+	</character>
+	
+	<character id="als_soldier_desant_3_antigas">
+		<class>als_soldier_desant_3_antigas</class>
+	</character>
+	
+	<character id="als_soldier_desant_4_antigas">
+		<class>als_soldier_desant_4_antigas</class>
+	</character>
+	
+	<character id="dc_soldier_desant_1_antigas">
+		<class>dc_soldier_desant_1_antigas</class>
+	</character>
+	
+	<character id="dc_soldier_desant_2_antigas">
+		<class>dc_soldier_desant_2_antigas</class>
+	</character>
+	
+	<character id="dc_soldier_desant_3_antigas">
+		<class>dc_soldier_desant_3_antigas</class>
+	</character>
+	
+	<character id="dc_soldier_desant_4_antigas">
+		<class>dc_soldier_desant_4_antigas</class>
+	</character>
+	
+	<character id="als_shamray_bandit_lost">
+		<class>als_shamray_bandit_lost</class>
+	</character>
+	
+	<character id="esc_grek_for_cutscene">
+		<class>esc_grek_for_cutscene</class>
+	</character>
+	
+	<character id="sor_hazar_arestant">
+		<class>sor_hazar_arestant</class>
+	</character>
+	
+	<character id="sor_sidor">
+		<class>sidor</class>
+		<specific_character>sor_sidor</specific_character>
+	</character>
+	
+	<character id="sor_kosta">
+		<class>sor_kosta</class>
+	</character>
+	
+	<character id="sor_uzbek_bandit_1">
+		<class>sor_uzbek_bandit_1</class>
+	</character>
+	
+	<character id="sor_uzbek_bandit_2">
+		<class>sor_uzbek_bandit_2</class>
+	</character>
+	
+	<character id="sor_uzbek_bandit_3">
+		<class>sor_uzbek_bandit_3</class>
+	</character>
+	
+	<character id="sor_cafe_bandit_1">
+		<class>sor_cafe_bandit_1</class>
+	</character>
+	
+	<character id="sor_cafe_bandit_2">
+		<class>sor_cafe_bandit_2</class>
+	</character>
+	
+	<character id="sor_cafe_bandit_3">
+		<class>sor_cafe_bandit_3</class>
+	</character>
+	
+	<character id="sor_cafe_bandit_4">
+		<class>sor_cafe_bandit_4</class>
+	</character>
+	
+	<character id="sor_cafe_stalker_1">
+		<class>sor_cafe_stalker_1</class>
+	</character>
+	
+	<character id="sor_cafe_stalker_2">
+		<class>sor_cafe_stalker_2</class>
+	</character>
+	
+	<character id="sor_cafe_stalker_3">
+		<class>sor_cafe_stalker_3</class>
+	</character>
+	
+	<character id="sor_cafe_stalker_4">
+		<class>sor_cafe_stalker_4</class>
+	</character>
+	
+	<character id="sor_cafe_stalker_5">
+		<class>sor_cafe_stalker_5</class>
+	</character>
+	
+	<character id="sor_cafe_stalker_6">
+		<class>sor_cafe_stalker_6</class>
+	</character>
+	
+	<character id="sor_cafe_stalker_7">
+		<class>sor_cafe_stalker_7</class>
+	</character>
+	
+	<character id="marsh_tankist">
+		<class>marsh_tankist</class>
+	</character>
+	
+	<character id="marsh_stalker_tankist_1">
+		<class>marsh_stalker_tankist_1</class>
+	</character>
+	
+	<character id="marsh_stalker_tankist_2">
+		<class>marsh_stalker_tankist_2</class>
+	</character>
+	
+	<character id="marsh_stalker_tankist_3">
+		<class>marsh_stalker_tankist_3</class>
+	</character>
+	
+	<character id="marsh_stalker_tankist_4">
+		<class>marsh_stalker_tankist_4</class>
+	</character>
+	
+	<character id="marsh_stalker_tankist_5">
+		<class>marsh_stalker_tankist_5</class>
+	</character>
+	
+	<character id="marsh_stalker_tankist_6">
+		<class>marsh_stalker_tankist_6</class>
+	</character>
+	
+	<character id="marsh_stalker_tankist_7">
+		<class>marsh_stalker_tankist_7</class>
+	</character>
+	
+	<character id="marsh_uzbek_com">
+		<class>marsh_uzbek_com</class>
+	</character>
+	
+	<character id="marsh_sevchuk">
+		<class>marsh_sevchuk</class>
+	</character>
+	
+	<character id="sor_barmaley">
+		<class>sor_barmaley</class>
+	</character>
+	
+	<character id="marsh_uzbek_wr">
+		<class>marsh_uzbek_wr</class>
+	</character>
+	
+	<character id="marsh_bunch">
+		<class>marsh_bunch</class>
+	</character>
+	
+	<character id="lim_scientist_1">
+		<class>lim_scientist_1</class>
+	</character>
+	
+	<character id="lim_scientist_2">
+		<class>lim_scientist_2</class>
+	</character>
+	
+	<character id="lim_dolg_stalker_1">
+		<class>lim_dolg_stalker_1</class>
+	</character>
+	
+	<character id="lim_dolg_stalker_2">
+		<class>lim_dolg_stalker_2</class>
+	</character>
+	
+	<character id="lim_dolg_stalker_3">
+		<class>lim_dolg_stalker_3</class>
+	</character>
+	
+	<character id="lim_dolg_stalker_4">
+		<class>lim_dolg_stalker_4</class>
+	</character>
+	
+	<character id="lim_dolg_stalker_5">
+		<class>lim_dolg_stalker_5</class>
+	</character>
+	
+	<character id="lim_dolg_stalker_6">
+		<class>lim_dolg_stalker_6</class>
+	</character>
+	
+	<character id="lim_dolg_stalker_7">
+		<class>lim_dolg_stalker_7</class>
+	</character>
+	
+	<character id="lim_ltnt_yakovlev">
+		<class>lim_ltnt_yakovlev</class>
+	</character>
+	
+	<character id="kat_princeps">
+		<class>kat_princeps</class>
+	</character>
+	
+	<character id="kat_conductor">
+		<class>kat_conductor</class>
+	</character>
+	
+	<character id="kat_director">
+		<class>kat_director</class>
+	</character>
+	
+	<character id="kat_strateg">
+		<class>kat_strateg</class>
+	</character>
+	
+	<character id="kat_taktik">
+		<class>kat_taktik</class>
+	</character>
+	
+	<character id="kat_engineer">
+		<class>kat_engineer</class>
+	</character>
+	
+	<character id="kat_archiater">
+		<class>kat_archiater</class>
+	</character>
+	
+	<character id="kat_technician">
+		<class>kat_technician</class>
+	</character>
+	
+	<character id="kat_artifex">
+		<class>kat_artifex</class>
+	</character>
+	
+	<character id="kat_decan">
+		<class>kat_decan</class>
+	</character>
+	
+	<character id="kat_executor">
+		<class>kat_executor</class>
+	</character>
+	
+	<character id="panzhc_dolg_stalker_1">
+		<class>panzhc_dolg_stalker_1</class>
+	</character>
+	
+	<character id="panzhc_dolg_stalker_2">
+		<class>panzhc_dolg_stalker_2</class>
+	</character>
+	
+	<character id="panzhc_dolg_stalker_3">
+		<class>panzhc_dolg_stalker_3</class>
+	</character>
+	
+	<character id="panzhc_dolg_stalker_4">
+		<class>panzhc_dolg_stalker_4</class>
+	</character>
+	
+	<character id="panzhc_dolg_stalker_5">
+		<class>panzhc_dolg_stalker_5</class>
+	</character>
+	
+	<character id="panzhc_dolg_stalker_6">
+		<class>panzhc_dolg_stalker_6</class>
+	</character>
+	
+	<character id="panzhc_dolg_stalker_7">
+		<class>panzhc_dolg_stalker_7</class>
+	</character>
+	
+	<character id="panzhc_col_panzer">
+		<class>panzhc_col_panzer</class>
+	</character>
+	
+	<character id="panzhc_ltnt_yakovlev">
+		<class>panzhc_ltnt_yakovlev</class>
+	</character>
+	
+	<character id="panzhc_ivancov">
+		<class>panzhc_ivancov</class>
+	</character>
+	
+	<character id="panzhc_pinochet">
+		<class>panzhc_pinochet</class>
+	</character>
+	
+	<character id="panzhc_arestant_1">
+		<class>panzhc_arestant_1</class>
+	</character>
+	
+	<character id="panzhc_arestant_2">
+		<class>panzhc_arestant_2</class>
+	</character>
+	
+	<character id="panzhc_arestant_3">
+		<class>panzhc_arestant_3</class>
+	</character>
+	
+	<character id="panzhc_arestant_4">
+		<class>panzhc_arestant_4</class>
+	</character>
+	
+	<character id="panzhc_armed_arestant_1">
+		<class>panzhc_armed_arestant_1</class>
+	</character>
+	
+	<character id="panzhc_armed_arestant_2">
+		<class>panzhc_armed_arestant_2</class>
+	</character>
+	
+	<character id="panzhc_armed_arestant_3">
+		<class>panzhc_armed_arestant_3</class>
+	</character>
+	
+	<character id="panzhc_armed_arestant_4">
+		<class>panzhc_armed_arestant_4</class>
+	</character>
+	
+	<character id="panzhc_dead_dolg_stalker_1">
+		<class>panzhc_dead_dolg_stalker_1</class>
+	</character>
+	
+	<character id="panzhc_dead_dolg_stalker_2">
+		<class>panzhc_dead_dolg_stalker_2</class>
+	</character>
+	
+	<character id="panzhc_dead_dolg_stalker_3">
+		<class>panzhc_dead_dolg_stalker_3</class>
+	</character>
+	
+	<character id="panzhc_dead_dolg_stalker_4">
+		<class>panzhc_dead_dolg_stalker_4</class>
+	</character>
+	
+	<character id="panzhc_dead_dolg_stalker_5">
+		<class>panzhc_dead_dolg_stalker_5</class>
+	</character>
+	
+	<character id="obamaboy">
+		<class>obamaboy</class>
+	</character>
+	
+	<character id="agr_dushman">
+		<class>agr_dushman</class>
+	</character>
+	
+	<character id="agr_deadman">
+		<class>agr_deadman</class>
+	</character>
+	
+	<character id="gar_deadman">
+		<class>gar_deadman</class>
+	</character>
+	
+	<character id="bun_killer">
+		<class>bun_killer</class>
+	</character>
+	
+	<character id="gar_grc_commando">
+		<class>gar_grc_commando</class>
+	</character>
+	
+	<character id="val_killer_langolier">
+		<class>val_killer_langolier</class>
+	</character>
+	
+	<character id="val_killer_verny">
+		<class>val_killer_verny</class>
+	</character>
+	
+	<character id="val_killer_yalta">
+		<class>val_killer_yalta</class>
+	</character>
+	
+	<character id="val_killer_chizh">
+		<class>val_killer_chizh</class>
+	</character>
+	
+	<character id="val_killer_verny_arrest">
+		<class>val_killer_verny_arrest</class>
+	</character>
+	
+	<character id="val_killer_yalta_arrest">
+		<class>val_killer_yalta_arrest</class>
+	</character>
+	
+	<character id="val_killer_chizh_arrest">
+		<class>val_killer_chizh_arrest</class>
+	</character>
+	
+	<character id="val_dead_stalker_1">
+		<class>val_dead_stalker_1</class>
+	</character>
+	
+	<character id="sinoptic_sinoptic">
+		<class>sinoptic_sinoptic</class>
+	</character>
+	
+	<character id="sinoptic_mikha_murzov">
+		<class>sinoptic_mikha_murzov</class>
+	</character>
+	
+	<character id="sinoptic_ben">
+		<class>sinoptic_ben</class>
+	</character>
+	
+	<character id="darklab_dead_scientist">
+		<class>darklab_dead_scientist</class>
+	</character>
+	
+	<character id="mil_military_stalker_1">
+		<class>mil_military_stalker_1</class>
+	</character>
+	
+	<character id="mil_military_stalker_2">
+		<class>mil_military_stalker_2</class>
+	</character>
+	
+	<character id="mil_military_stalker_3">
+		<class>mil_military_stalker_3</class>
+	</character>
+	
+	<character id="mil_military_stalker_3_qu">
+		<class>mil_military_stalker_3_qu</class>
+	</character>
+	
+	<character id="mil_military_stalker_sniper">
+		<class>mil_military_stalker_sniper</class>
+	</character>
+	
+	<character id="mil_military_stalker_commander">
+		<class>mil_military_stalker_commander</class>
+	</character>
+	
+	<character id="mil_military_stalker_guard_chieff_1">
+		<class>mil_military_stalker_guard_chieff_1</class>
+	</character>
+	
+	<character id="mil_military_stalker_guard_chieff_2">
+		<class>mil_military_stalker_guard_chieff_2</class>
+	</character>
+	
+	<character id="mil_military_stalker_storekeeper">
+		<class>mil_military_stalker_storekeeper</class>
+	</character>
+	
+	<character id="agr_dead_military_stalker_1">
+		<class>agr_dead_military_stalker_1</class>
+	</character>
+	
+	<character id="agr_dead_military_stalker_2">
+		<class>agr_dead_military_stalker_2</class>
+	</character>
+	
+	<character id="agr_dead_military_stalker_3">
+		<class>agr_dead_military_stalker_3</class>
+	</character>
+	
+	<character id="pri_military_stalker_1">
+		<class>pri_military_stalker_1</class>
+	</character>
+	
+	<character id="pri_military_stalker_2">
+		<class>pri_military_stalker_2</class>
+	</character>
+	
+	<character id="pri_military_stalker_3">
+		<class>pri_military_stalker_3</class>
+	</character>
+	
+	<character id="pri_military_stalker_sniper">
+		<class>pri_military_stalker_sniper</class>
+	</character>
+	
+	<character id="pri_military_stalker_commander">
+		<class>pri_military_stalker_commander</class>
+	</character>
+	
+	<character id="pri_military_stalker_guard_chieff_1">
+		<class>pri_military_stalker_guard_chieff_1</class>
+	</character>
+	
+	<character id="pri_military_stalker_guard_chieff_2">
+		<class>pri_military_stalker_guard_chieff_2</class>
+	</character>
+	
+	<character id="pri_military_stalker_storekeeper">
+		<class>pri_military_stalker_storekeeper</class>
+	</character>
+	
+	<character id="lim_military_stalker_1">
+		<class>lim_military_stalker_1</class>
+	</character>
+	
+	<character id="lim_military_stalker_2">
+		<class>lim_military_stalker_2</class>
+	</character>
+	
+	<character id="lim_military_stalker_3">
+		<class>lim_military_stalker_3</class>
+	</character>
+	
+	<character id="lim_military_stalker_sniper">
+		<class>lim_military_stalker_sniper</class>
+	</character>
+	
+	<character id="lim_military_stalker_commander">
+		<class>lim_military_stalker_commander</class>
+	</character>
+	
+	<character id="lim_military_stalker_guard_chieff_1">
+		<class>lim_military_stalker_guard_chieff_1</class>
+	</character>
+	
+	<character id="lim_military_stalker_guard_chieff_2">
+		<class>lim_military_stalker_guard_chieff_2</class>
+	</character>
+	
+	<character id="lim_military_stalker_storekeeper">
+		<class>lim_military_stalker_storekeeper</class>
+	</character>
+	
+	<character id="lim_dead_military_stalker_1">
+		<class>lim_dead_military_stalker_1</class>
+	</character>
+	
+	<character id="lim_dead_military_stalker_2">
+		<class>lim_dead_military_stalker_2</class>
+	</character>
+	
+	<character id="lim_dead_military_stalker_3">
+		<class>lim_dead_military_stalker_3</class>
+	</character>
+	
+	<character id="hos_dead_military_stalker_1">
+		<class>hos_dead_military_stalker_1</class>
+	</character>
+	
+	<character id="hos_dead_military_stalker_2">
+		<class>hos_dead_military_stalker_2</class>
+	</character>
+	
+	<character id="hos_dead_military_stalker_3">
+		<class>hos_dead_military_stalker_3</class>
+	</character>
+	
+	<character id="demon_boy">
+		<class>demon_boy</class>
+	</character>
+	
+	<character id="demon_girl">
+		<class>demon_girl</class>
+	</character>
+	
+	<character id="dc_demon_boy">
+		<class>dc_demon_boy</class>
+	</character>
+	
+	<character id="dc_demon_girl">
+		<class>dc_demon_girl</class>
+	</character>
+	
+	<character id="sor_panzer_for_cutscene">
+		<class>sor_panzer_for_cutscene</class>
+	</character>
+	
+	<character id="sor_pinochet">
+		<class>sor_pinochet</class>
+	</character>
+	
+	<character id="sor_yakovlev">
+		<class>sor_yakovlev</class>
+	</character>
+	
+	<character id="atp_mogilshik">
+		<class>atp_mogilshik</class>
+	</character>
+	
+	<character id="atp_mogilshik_fighter">
+		<class>atp_mogilshik_fighter</class>
+	</character>
+	
+	<character id="atp_waterrat">
+		<class>atp_waterrat</class>
+	</character>
+	
+	<character id="marsh_svoboda_robot">
+		<class>marsh_svoboda_robot</class>
+	</character>
+	
+	<character id="gold">
+		<class>gold</class>
+	</character>
+	
+	<character id="ltnt_marchenko_dolg">
+		<class>ltnt_marchenko_dolg</class>
+	</character>
+	
+	<character id="sor_ivancov">
+		<class>sor_ivancov</class>
+	</character>
+	
+	<character id="sor_ivancov_sniper">
+		<class>sor_ivancov_sniper</class>
+	</character>
+	
+	<character id="sor_grc_agent_prisoner">
+		<class>sor_grc_agent_prisoner</class>
+	</character>
+	
+	<character id="sor_ltnt_simonov">
+		<class>sor_ltnt_simonov</class>
+	</character>
+	
+	<character id="darklab_killer">
+		<class>darklab_killer</class>
+	</character>
+	
+	<character id="val_wild_killer_1">
+		<class>val_wild_killer_1</class>
+	</character>
+	
+	<character id="val_wild_killer_2">
+		<class>val_wild_killer_2</class>
+	</character>
+	
+	<character id="val_wild_killer_3">
+		<class>val_wild_killer_3</class>
+	</character>
+	
+	<character id="val_wild_killer_4">
+		<class>val_wild_killer_4</class>
+	</character>
+	
+	<character id="val_wild_killer_5">
+		<class>val_wild_killer_5</class>
+	</character>
+	
+	<character id="val_wild_killer_6">
+		<class>val_wild_killer_6</class>
+	</character>
+	
+	<character id="val_wild_killer_7">
+		<class>val_wild_killer_7</class>
+	</character>
+	
+	<character id="val_wild_killer_commander">
+		<class>val_wild_killer_commander</class>
+	</character>
+	
+	<character id="val_wild_killer_operator">
+		<class>val_wild_killer_operator</class>
+	</character>
+	
+	<character id="sor_killer_verny">
+		<class>sor_killer_verny</class>
+	</character>
+	
+	<character id="sor_killer_yalta">
+		<class>sor_killer_yalta</class>
+	</character>
+	
+	<character id="sor_killer_chizh">
+		<class>sor_killer_chizh</class>
+	</character>
+	
+	<character id="sor_killer_verny_attack">
+		<class>sor_killer_verny_attack</class>
+	</character>
+	
+	<character id="sor_killer_yalta_attack">
+		<class>sor_killer_yalta_attack</class>
+	</character>
+	
+	<character id="sor_killer_chizh_attack">
+		<class>sor_killer_chizh_attack</class>
+	</character>
+	
+	<character id="gar_grc_sniper_1">
+		<class>gar_grc_sniper_1</class>
+	</character>
+	
+	<character id="gar_grc_sniper_2">
+		<class>gar_grc_sniper_2</class>
+	</character>
+	
+	<character id="gar_grc_assault">
+		<class>gar_grc_assault</class>
+	</character>
+
+	<character id="gar_dead_sinoptic_stalker">
+		<class>gar_dead_sinoptic_stalker</class>
+	</character>
+	
+	<character id="gar_grc_dead_commando">
+		<class>gar_grc_dead_commando</class>
+	</character>
+	
+	<character id="esc_grc_krasnov">
+		<class>esc_grc_krasnov</class>
+	</character>
+		
+	<character id="val_scorpio">
+		<class>val_scorpio</class>
+	</character>
+	
+	<character id="mil_gold">
+		<class>mil_gold</class>
+	</character>
+	
+	<character id="red_gold">
+		<class>red_gold</class>
+	</character>
+	
+	<character id="sor_panzer">
+		<class>sor_panzer</class>
+	</character>
+	
+	<character id="red_zombied_sceznaz_commander">
+		<class>red_zombied_sceznaz_commander</class>
+	</character>
+	
+	<character id="red_zombied_sceznaz_leutnant">
+		<class>red_zombied_sceznaz_leutnant</class>
+	</character>
+	
+	<character id="red_zombied_sceznaz_sergeant">
+		<class>red_zombied_sceznaz_sergeant</class>
+	</character>
+	
+	<character id="red_zombied_sceznaz">
+		<class>red_zombied_sceznaz</class>
+	</character>
+	
+	<character id="mil_zombied_sceznaz_sergeant">
+		<class>mil_zombied_sceznaz_sergeant</class>
+	</character>
+	
+	<character id="mil_zombied_sceznaz">
+		<class>mil_zombied_sceznaz</class>
+	</character>
+	
+	<character id="red_zombied_sniper">
+		<class>red_zombied_sniper</class>
+	</character>
+	
+	<character id="agr_reanimator">
+		<class>agr_reanimator</class>
+	</character>
+	
+	<character id="gar_raider_1">
+		<class>gar_raider_1</class>
+	</character>
+	
+	<character id="gar_raider_2">
+		<class>gar_raider_2</class>
+	</character>
+	
+	<character id="gar_raider_3">
+		<class>gar_raider_3</class>
+	</character>
+	
+	<character id="gar_zombied_sinoptic_stalker">
+		<class>gar_zombied_sinoptic_stalker</class>
+	</character>
+	
+	<character id="gar_grc_zombied_commando">
+		<class>gar_grc_zombied_commando</class>
+	</character>
+	
+	<character id="armed_monk_1">
+		<class>armed_monk_1</class>
+	</character>
+	
+	<character id="armed_monk_2">
+		<class>armed_monk_2</class>
+	</character>
+	
+	<character id="armed_monk_3">
+		<class>armed_monk_3</class>
+	</character>
+	
+	<character id="armed_monk_4">
+		<class>armed_monk_4</class>
+	</character>
+	
+	<character id="armed_monk_5">
+		<class>armed_monk_5</class>
+	</character>
+	
+	<character id="armed_monk_6">
+		<class>armed_monk_6</class>
+	</character>
+	
+	<character id="armed_monk_7">
+		<class>armed_monk_7</class>
+	</character>
+	
+	<character id="armed_monk_8">
+		<class>armed_monk_8</class>
+	</character>
+	
+	<character id="armed_monk_9">
+		<class>armed_monk_9</class>
+	</character>
+	
+	<character id="armed_monk_10">
+		<class>armed_monk_10</class>
+	</character>
+	
+	<character id="armed_monk_11">
+		<class>armed_monk_11</class>
+	</character>
+	
+	<character id="armed_monk_12">
+		<class>armed_monk_12</class>
+	</character>
+	
+	<character id="black_raider_captain">
+		<class>black_raider_captain</class>
+	</character>
+	
+	<character id="black_raider_lieutenant">
+		<class>black_raider_lieutenant</class>
+	</character>
+	
+	<character id="black_raider_sergeant">
+		<class>black_raider_sergeant</class>
+	</character>
+	
+	<character id="black_raider_corporal">
+		<class>black_raider_corporal</class>
+	</character>
+	
+	<character id="black_raider_private">
+		<class>black_raider_private</class>
+	</character>
+	
+	<character id="marsh_yalta">
+		<class>marsh_yalta</class>
+	</character>
+	
+	<character id="marsh_verny">
+		<class>marsh_verny</class>
+	</character>
+	
+	<character id="marsh_chizh">
+		<class>marsh_chizh</class>
+	</character>
+	
+	<character id="esc_grc_commando_1">
+		<class>esc_grc_commando_1</class>
+	</character>
+	
+	<character id="esc_grc_commando_2">
+		<class>esc_grc_commando_2</class>
+	</character>
+	
+	<character id="esc_grc_sniper_svd">
+		<class>esc_grc_sniper_svd</class>
+	</character>
+	
+	<character id="esc_grc_sniper_gauss">
+		<class>esc_grc_sniper_gauss</class>
+	</character>
+	
+	<character id="esc_grc_krasnov_commando">
+		<class>esc_grc_krasnov_commando</class>
+	</character>
+	
+	<character id="esc_col_panzer">
+		<class>esc_col_panzer</class>
+	</character>
+	
+	<character id="esc_col_panzer_2">
+		<class>esc_col_panzer_2</class>
+	</character>
+	
+	<character id="esc_dolg_medic">
+		<class>esc_dolg_medic</class>
+	</character>
+	
+	<character id="esc_ltnt_yakovlev">
+		<class>esc_ltnt_yakovlev</class>
+	</character>
+	
+	<character id="esc_ivancov">
+		<class>esc_ivancov</class>
+	</character>
+	
+	<character id="esc_pinochet">
+		<class>esc_pinochet</class>
+	</character>
+	
+	<character id="esc_dolg_commando">
+		<class>esc_dolg_commando</class>
+	</character>
+	
+	<character id="esc_ltnt_marchenko_dolg">
+		<class>esc_ltnt_marchenko_dolg</class>
+	</character>
+	
+	<character id="esc_dolg_commando_commander">
+		<class>esc_dolg_commando_commander</class>
+	</character>
+	
+	<character id="esc_dolg_sidor_guard">
+		<class>esc_dolg_sidor_guard</class>
+	</character>
+	
+	<character id="marsh_degtyarev">
+		<class>marsh_degtyarev</class>
+	</character>
+	
+	<character id="marsh_vano">
+		<class>marsh_vano</class>
+	</character>
+	
+	<character id="marsh_zulus">
+		<class>marsh_zulus</class>
+	</character>
+	
+	<character id="marsh_obamaboy">
+		<class>marsh_obamaboy</class>
+	</character>
+	
+	<character id="last_sinoptic">
+		<class>last_sinoptic</class>
+	</character>
+	
+	<character id="last_sinoptic_mikha_murzov">
+		<class>last_sinoptic_mikha_murzov</class>
+	</character>
+	
+	<character id="last_sinoptic_ben">
+		<class>last_sinoptic_ben</class>
+	</character>
+	
+	<character id="last_deadman">
+		<class>last_deadman</class>
+	</character>
+	
+	<character id="esc_grc_zibrov">
+		<class>esc_grc_zibrov</class>
+	</character>
+	
+	<character id="aes_taktik">
+		<class>aes_taktik</class>
+	</character>
+	
+	<character id="aes_decan">
+		<class>aes_decan</class>
+	</character>
+	
+	<character id="aes_executor">
+		<class>aes_executor</class>
+	</character>
+	
+	<character id="ls_iron_mask">
+		<class>ls_iron_mask</class>
+	</character>
+	
+	<character id="dc_zombied_sceznaz">
+		<class>dc_zombied_sceznaz</class>
+	</character>
+	
+	<character id="dc_zombied_1">
+		<class>dc_zombied_1</class>
+	</character>
+	
+	<character id="dc_zombied_2">
+		<class>dc_zombied_2</class>
+	</character>
+	
+	<character id="dc_zombied_3">
+		<class>dc_zombied_3</class>
+	</character>
+	
+	<character id="dc_zombied_4">
+		<class>dc_zombied_4</class>
+	</character>
+	
+	<character id="dc_zombied_5">
+		<class>dc_zombied_5</class>
+	</character>
+	
+	<character id="dc_zombied_6">
+		<class>dc_zombied_6</class>
+	</character>
+	
+	<character id="dc_zombied_7">
+		<class>dc_zombied_7</class>
+	</character>
+	
+	<character id="dc_zombied_8">
+		<class>dc_zombied_8</class>
+	</character>
+	
+	<character id="dc_zombied_exoskeleton">
+		<class>dc_zombied_exoskeleton</class>
+	</character>
+	
+	<character id="dc_fresh_zombied_1">
+		<class>dc_fresh_zombied_1</class>
+	</character>
+	
+	<character id="dc_fresh_zombied_2">
+		<class>dc_fresh_zombied_2</class>
+	</character>
+	
+	<character id="dc_fresh_zombied_3">
+		<class>dc_fresh_zombied_3</class>
+	</character>
+	
+	<character id="gen_pope_vitaly">
+		<class>gen_pope_vitaly</class>
+	</character>
+	
+	<character id="gen_soldier_desant_1_antigas">
+		<class>gen_soldier_desant_1_antigas</class>
+	</character>
+	
+	<character id="gen_soldier_desant_2_antigas">
+		<class>gen_soldier_desant_2_antigas</class>
+	</character>
+	
+	<character id="gen_soldier_desant_3_antigas">
+		<class>gen_soldier_desant_3_antigas</class>
+	</character>
+	
+	<character id="gen_soldier_desant_4_antigas">
+		<class>gen_soldier_desant_4_antigas</class>
+	</character>
+	
+	<character id="gen_col_panzer">
+		<class>gen_col_panzer</class>
+	</character>
+	
+	<character id="gen_ltnt_yakovlev">
+		<class>gen_ltnt_yakovlev</class>
+	</character>
+	
+	<character id="gen_ivancov">
+		<class>gen_ivancov</class>
+	</character>
+	
+	<character id="gen_pinochet">
+		<class>gen_pinochet</class>
+	</character>
+	
+	<character id="gen_dolg_stalker_1">
+		<class>gen_dolg_stalker_1</class>
+	</character>
+	
+	<character id="gen_dolg_stalker_2">
+		<class>gen_dolg_stalker_2</class>
+	</character>
+	
+	<character id="gen_dolg_stalker_3">
+		<class>gen_dolg_stalker_3</class>
+	</character>
+	
+	<character id="gen_dolg_stalker_4">
+		<class>gen_dolg_stalker_4</class>
+	</character>
+	
+	<character id="gen_dolg_stalker_5">
+		<class>gen_dolg_stalker_5</class>
+	</character>
+	
+	<character id="gen_dolg_stalker_6">
+		<class>gen_dolg_stalker_6</class>
+	</character>
+	
+	<character id="gen_dolg_stalker_7">
+		<class>gen_dolg_stalker_7</class>
+	</character>
+	
+	<character id="gen_borman">
+		<class>gen_borman</class>
+	</character>
+	
+	<character id="gen_moldovan">
+		<class>gen_moldovan</class>
+	</character>
+	
+	<character id="gen_mitjay">
+		<class>gen_mitjay</class>
+	</character>
+	
+	<character id="gen_nomad">
+		<class>gen_nomad</class>
+	</character>
+	
+	<character id="gen_shustryi">
+		<class>gen_shustryi</class>
+	</character>
+	
+	<character id="esc_jj">
+		<class>esc_jj</class>
+	</character>
+	
+	<character id="esc_slaven">
+		<class>esc_slaven</class>
+	</character>
+	
+	<character id="esc_sanja_tzar">
+		<class>esc_sanja_tzar</class>
+	</character>
+	
+	<character id="esc_serg_tzar">
+		<class>esc_serg_tzar</class>
+	</character>
+	
+	<character id="esc_timych">
+		<class>esc_timych</class>
+	</character>
+	
+	<character id="esc_egor">
+		<class>esc_egor</class>
+	</character>
+	
+	<character id="esc_soldier_desant_1_antigas">
+		<class>esc_soldier_desant_1_antigas</class>
+	</character>
+	
+	<character id="esc_soldier_desant_2_antigas">
+		<class>esc_soldier_desant_2_antigas</class>
+	</character>
+	
+	<character id="esc_soldier_desant_3_antigas">
+		<class>esc_soldier_desant_3_antigas</class>
+	</character>
+	
+	<character id="esc_soldier_desant_4_antigas">
+		<class>esc_soldier_desant_4_antigas</class>
+	</character>
+	
+	<character id="esc_moldovan">
+		<class>esc_moldovan</class>
+	</character>
+	
+	<character id="esc_mitjay">
+		<class>esc_mitjay</class>
+	</character>
+	
+	<character id="esc_nomad">
+		<class>esc_nomad</class>
+	</character>
+	
+	<character id="esc_shustryi">
+		<class>esc_shustryi</class>
+	</character>
+	
+	<character id="nestor">
+		<class>nestor</class>
+	</character>
+	
+	<character id="mil_ls_dolg_stalker_1">
+		<class>mil_ls_dolg_stalker_1</class>
+	</character>
+	
+	<character id="mil_ls_dolg_stalker_2">
+		<class>mil_ls_dolg_stalker_2</class>
+	</character>
+	
+	<character id="mil_ls_dolg_stalker_3">
+		<class>mil_ls_dolg_stalker_3</class>
+	</character>
+	
+	<character id="mil_ls_dolg_stalker_4">
+		<class>mil_ls_dolg_stalker_4</class>
+	</character>
+	
+	<character id="mil_ls_dolg_stalker_5">
+		<class>mil_ls_dolg_stalker_5</class>
+	</character>
+	
+	<character id="mil_ls_dolg_stalker_6">
+		<class>mil_ls_dolg_stalker_6</class>
+	</character>
+	
+	<character id="mil_ls_dolg_stalker_7">
+		<class>mil_ls_dolg_stalker_7</class>
+	</character>
+	
+	<character id="val_ls_dolg_stalker_1">
+		<class>val_ls_dolg_stalker_1</class>
+	</character>
+	
+	<character id="val_ls_dolg_stalker_2">
+		<class>val_ls_dolg_stalker_2</class>
+	</character>
+	
+	<character id="val_ls_dolg_stalker_3">
+		<class>val_ls_dolg_stalker_3</class>
+	</character>
+	
+	<character id="val_ls_dolg_stalker_4">
+		<class>val_ls_dolg_stalker_4</class>
+	</character>
+	
+	<character id="val_ls_dolg_stalker_5">
+		<class>val_ls_dolg_stalker_5</class>
+	</character>
+	
+	<character id="val_ls_dolg_stalker_6">
+		<class>val_ls_dolg_stalker_6</class>
+	</character>
+	
+	<character id="val_ls_dolg_stalker_7">
+		<class>val_ls_dolg_stalker_7</class>
+	</character>
+	
+	<character id="val_gena_hacker">
+		<class>val_gena_hacker</class>
+	</character>
+	
+	<character id="val_pinochet">
+		<class>val_pinochet</class>
+	</character>
+	
+	<character id="black_raider_private_respawn">
+		<class>black_raider_private_respawn</class>
+	</character>
+	
+	<character id="black_raider_sergeant_respawn">
+		<class>black_raider_sergeant_respawn</class>
+	</character>
+	
+	<!-- <character id="">
+		<class></class>
+	</character> -->
+	
+	<!-- <character id="">
+		<class></class>
+	</character> -->
+		
+</xml>
+

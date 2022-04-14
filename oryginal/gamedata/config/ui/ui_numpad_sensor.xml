@@ -1,0 +1,28 @@
+<ui_texture>
+    <file_name>item\item_numpad_sensor</file_name>
+
+    <texture id="ui_numpad_sensor_lockframe" x="32" y="34" width="336" height="538" />
+    <texture id="ui_numpad_sens_key07" x="401" y="350" width="98" height="98" />
+    <texture id="ui_numpad_sens_key04" x="401" y="250" width="98" height="98" />
+    <texture id="ui_numpad_sens_key01" x="401" y="150" width="98" height="98" />
+    <texture id="ui_numpad_sens_key00" x="501" y="450" width="98" height="98" />
+    <texture id="ui_numpad_sens_key0c" x="401" y="450" width="98" height="98" />
+    <texture id="ui_numpad_sens_key02" x="501" y="150" width="98" height="98" />
+    <texture id="ui_numpad_sens_key05" x="501" y="250" width="98" height="98" />
+    <texture id="ui_numpad_sens_key08" x="501" y="350" width="98" height="98" />
+    <texture id="ui_numpad_sens_key09" x="601" y="350" width="98" height="98" />
+    <texture id="ui_numpad_sens_key06" x="601" y="250" width="98" height="98" />
+    <texture id="ui_numpad_sens_key03" x="601" y="150" width="98" height="98" />
+    <texture id="ui_numpad_sens_keyEnter" x="601" y="450" width="98" height="98" />
+    <texture id="ui_numpad_sens_keyCancel" x="450" y="180" width="98" height="98" />
+    <texture id="ui_numpad_void" x="450" y="50" width="98" height="98" />
+    <texture id="ui_numpad_sens_key0b" x="483" y="135" width="98" height="98" />
+
+    <texture id="ui_talk_dialogue_b"		x="2" y="369"	width="600" height="75" />
+    <texture id="ui_talk_dialogue_back"		x="2" y="444"	width="600" height="96" />
+    <texture id="ui_talk_dialogue_e"		x="2" y="540"	width="600" height="40" />
+    
+    <texture id="ui_talk_dialogue2_b"		x="0" y="580"	width="600" height="98" />
+    <texture id="ui_talk_dialogue2_back"	x="0" y="444"	width="600" height="96" />
+    <texture id="ui_talk_dialogue2_e"		x="0" y="540"	width="600" height="40" />
+</ui_texture>

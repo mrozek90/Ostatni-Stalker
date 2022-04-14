@@ -1,0 +1,12 @@
+
+<cs_debug  x="200" y="10" width="270" height="150" complex_mode="1">
+	<text font="letterica18"  r="255" g="255" b="255" a="255" align="l"/>
+</cs_debug>
+
+<fps_debug  x="10" y="250" width="250" height="300" complex_mode="1">
+	<text font="letterica18"  r="255" g="255" b="255" a="255" align="l"/>
+</fps_debug>
+
+<prs_debug  x="450" y="10" width="290" height="300" complex_mode="1">
+	<text font="letterica18"  r="255" g="255" b="255" a="255" align="l"/>
+</prs_debug>

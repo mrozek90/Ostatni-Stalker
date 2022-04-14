@@ -1,0 +1,2225 @@
+
+<game_task id="kill_jj" prio="100">
+		<title>Убить Джон-Джо</title>
+		<objective>
+			<text>Убить Джон-Джо</text>
+			<icon>jj_tasks</icon>
+			<article>als_help_1</article>
+			<infoportion_complete>player_complete_kill_jj</infoportion_complete>
+			<infoportion_fail>kill_jj_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Убить Джон-Джо</text>
+			<infoportion_complete>_kill_jj</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="meet_garfirst_bandits" prio="50">
+		<title>Группировка Шамрая</title>
+		<objective>
+			<text>Найти Шамрая</text>
+			<icon>ui_iconsTotal_shamrai</icon>
+			<article>als_help_2</article>
+			<infoportion_complete>player_complete_meet_garfirst_bandits</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Шамрая</text>
+			<infoportion_complete>meet_garfirst_bandits_9</infoportion_complete>
+		</objective>
+		<!-- <objective>
+			<text>Авто-кладбище</text>
+	<map_location_type hint= "auto_garbage_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_1_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-Агропром</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_2_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>База</text>
+	<map_location_type hint= "basa_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_3_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-Агропром-2</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_4_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_4</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-Росток</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_5_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_5</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-ТД-3</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_6_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_6</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-ТД-2</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_7_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_7</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-ТД</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_8_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_8</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-Кордон</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_9_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_9</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Блокпост-Барахолка</text>
+	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
+	<object_story_id>meet_garfirst_bandits_10_point</object_story_id>
+			<infoportion_complete>meet_garfirst_bandits_10</infoportion_complete>
+		</objective> -->
+</game_task>
+
+<game_task id="talk_esc_shamray" prio="50">
+		<title>На Юг</title>
+		<objective>
+			<text>Поговорить с Шамраем</text>
+			<icon>ui_iconsTotal_shamrai</icon>
+			<article>als_help_3</article>
+			<infoportion_complete>player_complete_talk_esc_shamray</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Шамраем</text>
+			<infoportion_complete>talk_esc_shamray_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="esc_recon" prio="50">
+		<title>На Юг 2</title>
+		<objective>
+			<text>Кордон-разведка</text>
+			<icon>ui_iconsTotal_technique</icon>
+			<article>als_help_4</article>
+			<infoportion_complete>player_complete_esc_recon</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Кордон-разведка</text>
+			<infoportion_complete>esc_recon_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Кордон-разведка</text>
+			<infoportion_complete>esc_recon_2</infoportion_complete>
+		</objective>
+</game_task>О
+
+<game_task id="lc_to_escape" prio="50">
+		<title>Переход на Кордон</title>
+		<objective>
+			<text>Найти переход на Кордон</text>
+			<icon>ui_iconsTotal_find_railroad_passage</icon>
+			<article>als_help_5</article>
+			<infoportion_complete>player_complete_lc_to_escape</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти переход на Кордон</text>
+			<infoportion_complete>lc_to_escape_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="get_otstoynik_passdoc" prio="40">
+		<title>Пропуск</title>
+		<objective>
+			<text>Получить пропуск в отстойник</text>
+			<icon>ui_iconsTotal_find_railroad_passage</icon>
+			<article>als_help_6</article>
+			<infoportion_complete>player_complete_get_otstoynik_passdoc</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Получить пропуск в отстойник</text>
+	<map_location_type hint= "esc_cptn_krasnov_name">green_location</map_location_type>
+	<object_story_id>esc_grc_krasnov</object_story_id>
+			<infoportion_complete>get_otstoynik_passdoc_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="cross_perimetre" prio="30">
+		<title>Периметр</title>
+		<objective>
+			<text>Периметр</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_7</article>
+			<infoportion_complete>player_complete_cross_perimetre</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать вещи из схрона</text>
+	<map_location_type hint= "shron_hint">green_location</map_location_type>
+	<object_story_id>esc_hazar_shron</object_story_id>
+			<infoportion_complete>cross_perimetre_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Перерезать проволоку</text>
+	<map_location_type hint= "koluchka_hint">green_location</map_location_type>
+	<object_story_id>esc_physic_destroyable_object_0006</object_story_id>
+			<infoportion_complete>cross_perimetre_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Выбраться за Периметр</text>
+	<map_location_type hint= "gap_in_perimeter_hint">green_location</map_location_type>
+	<object_story_id>esc_space_restrictor_0000</object_story_id>
+			<infoportion_complete>cross_perimetre_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="escape_from_escape" prio="30">
+		<title>Выбраться с Кордона</title>
+		<objective>
+			<text>Выбраться с Кордона</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_8</article>
+			<infoportion_complete>player_complete_escape_from_escape</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Добраться до тоннеля</text>
+	<map_location_type hint= "tonnel_hint">green_location</map_location_type>
+	<object_story_id>esc_tonnel_2</object_story_id>
+			<infoportion_complete>escape_from_escape_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Выйти на Сортировку</text>
+			<infoportion_complete>escape_from_escape_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="greetings_from_shamray" prio="40">
+		<title>Привет от Шамрая</title>
+		<objective>
+			<text>Привет от Шамрая</text>
+			<icon>ui_iconsTotal_galash</icon>
+			<article>als_help_9</article>
+			<infoportion_complete>player_complete_greetings_from_shamray</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Галаша на Сортировке</text>
+	<map_location_type hint= "galash_name">blue_location</map_location_type>
+	<object_story_id>sor_galash_1</object_story_id>
+			<infoportion_complete>greetings_from_shamray_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Передать Галашу привет от Шамрая</text>
+			<infoportion_complete>greetings_from_shamray_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="arrival_on_stalkers" prio="100">
+		<title>Наезд</title>
+		<objective>
+			<text>Наезд</text>
+			<icon>ui_iconsTotal_bar_hunter_rifle</icon>
+			<article>als_help_10</article>
+			<infoportion_complete>player_complete_arrival_on_stalkers</infoportion_complete>
+			<infoportion_fail>arrival_on_stalkers_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Помочь ограбить сталкеров</text>
+			<infoportion_complete>arrival_on_stalkers_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="signal_for_shamray" prio="50">
+		<title>Сигнал</title>
+		<objective>
+			<text>Сигнал</text>
+			<icon>ui_iconsTotal_racia</icon>
+			<article>als_help_11</article>
+			<infoportion_complete>signal_for_shamray_done</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Маякнуть Шамраю</text>
+			<infoportion_complete>signal_for_shamray_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="organize_brigada" prio="50">
+		<title>Сколотить бригаду</title>
+		<objective>
+			<text>Сколотить бригаду</text>
+			<icon>ui_iconsTotal_esc_trader_job</icon>
+			<article>als_help_12</article>
+			<function_complete>als_quests_complit.organize_brigada_cmplt</function_complete>
+			<infoportion_complete>player_complete_organize_brigada</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Сидором</text>
+			<infoportion_complete>organize_brigada_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Сколотить бригаду</text>
+			<infoportion_complete>organize_brigada_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="conversation_with_uzbek" prio="40">
+		<title>Узбек</title>
+		<objective>
+			<text>Разговор с Узбеком</text>
+			<icon>ui_iconsTotal_uzbek</icon>
+			<article>als_help_13</article>
+			<infoportion_complete>player_complete_conversation_with_uzbek</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Попасть на Болота</text>
+	<map_location_type hint= "esc2marsh_01_hint">green_location</map_location_type>
+	<object_story_id>esc2marsh_01</object_story_id>
+			<infoportion_complete>conversation_with_uzbek_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Узбека</text>
+	<map_location_type hint= "uzbek_name">green_location</map_location_type>
+	<object_story_id>marsh_bandit_uzbek</object_story_id>
+			<infoportion_complete>conversation_with_uzbek_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Узбеком</text>
+			<infoportion_complete>conversation_with_uzbek_3</infoportion_complete>
+		</objective>
+		<!--objective>
+			<text>Сообщить Танкисту</text>
+			<infoportion_complete>conversation_with_uzbek_4</infoportion_complete>
+		</objective-->
+</game_task>
+
+<game_task id="conversation_with_uzbek_short" prio="40">
+		<title>Узбек</title>
+		<objective>
+			<text>Разговор с Узбеком</text>
+			<icon>ui_iconsTotal_uzbek</icon>
+			<article>als_help_14</article>
+			<infoportion_complete>player_complete_conversation_with_uzbek_short</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Попасть на Болота</text>
+	<map_location_type hint= "esc2marsh_01_hint">green_location</map_location_type>
+	<object_story_id>esc2marsh_01</object_story_id>
+			<infoportion_complete>conversation_with_uzbek_short_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Узбека</text>
+	<map_location_type hint= "uzbek_name">green_location</map_location_type>
+	<object_story_id>marsh_bandit_uzbek</object_story_id>
+			<infoportion_complete>conversation_with_uzbek_short_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Узбеком</text>
+			<infoportion_complete>conversation_with_uzbek_short_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="shron_at_marsh" prio="70">
+		<title>Схрон на Болотах</title>
+		<objective>
+			<text>Схрон на Болотах</text>
+			<icon>ui_iconsTotal_weapons</icon>
+			<article>als_help_15</article>
+			<infoportion_complete>player_complete_shron_at_marsh</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти схрон с оружием</text>
+	<map_location_type hint= "shron_hint">green_location</map_location_type>
+	<object_story_id>marsh_sidor_skhron_restrictor</object_story_id>
+			<infoportion_complete>shron_at_marsh_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="check_sor_borman_skhron" prio="20">
+		<title>Снаряжение</title>
+		<objective>
+			<text>Снаряжение</text>
+			<icon>borman_tasks</icon>
+			<article>als_help_16</article>
+			<infoportion_complete>player_complete_check_sor_borman_skhron</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Проверить схрон группировки</text>
+	<map_location_type hint= "shron_hint">green_location</map_location_type>
+	<object_story_id>sor_inventory_box_borman</object_story_id>
+			<infoportion_complete>check_sor_borman_skhron_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="fight_on_bogs1" prio="50">
+		<title>Разборка на Болотах</title>
+		<objective>
+			<text>Уничтожить банду Могильщика</text>
+			<icon>ui_iconsTotal_bar_crazy_veterans_quest</icon>
+			<article>als_help_17</article>
+			<infoportion_complete>player_complete_fight_on_bogs1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Связаться с Танкистом</text>
+			<infoportion_complete>fight_on_bogs1_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Шамраем</text>
+	<map_location_type hint= "shamray_name">green_location</map_location_type>
+	<object_story_id>marsh_shamray_1</object_story_id>
+			<infoportion_complete>fight_on_bogs1_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Галашом</text>
+	<map_location_type hint= "galash_name">green_location</map_location_type>
+	<object_story_id>marsh_galash_1</object_story_id>
+			<infoportion_complete>fight_on_bogs1_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Танкистом</text>
+	<map_location_type hint= "marsh_baza_svoboda_hint">green_location</map_location_type>
+	<object_story_id>marsh_baza_svoboda</object_story_id>
+			<infoportion_complete>fight_on_bogs1_4</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Связаться с Юз-баши</text>
+			<infoportion_complete>fight_on_bogs1_5</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Уничтожить банду Могильщика</text>
+	<map_location_type hint= "marsh_mogilshik_lager_hint">eliminate_lager_location</map_location_type>
+	<object_story_id>marsh_mogilshik_lager</object_story_id>
+	<function_complete>als_quests_complit.fight_on_bogs1_cmplt</function_complete>
+			<infoportion_complete>fight_on_bogs1_6</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="fight_on_bogs2" prio="50">
+		<title>Разборка на Болотах</title>
+		<objective>
+			<text>Уничтожить банду Могильщика</text>
+			<icon>ui_iconsTotal_bar_crazy_veterans_quest</icon>
+			<article>als_help_18</article>
+			<infoportion_complete>player_complete_fight_on_bogs2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Связаться с Танкистом</text>
+			<infoportion_complete>fight_on_bogs2_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Танкистом</text>
+	<map_location_type hint= "marsh_baza_svoboda_hint">green_location</map_location_type>
+	<object_story_id>marsh_baza_svoboda</object_story_id>
+			<infoportion_complete>fight_on_bogs2_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Связаться с Юз-баши</text>
+			<infoportion_complete>fight_on_bogs2_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Уничтожить банду Могильщика</text>
+	<map_location_type hint= "marsh_mogilshik_lager_hint">eliminate_lager_location</map_location_type>
+	<object_story_id>marsh_mogilshik_lager</object_story_id>
+	<function_complete>als_quests_complit.fight_on_bogs2_cmplt</function_complete>
+			<infoportion_complete>fight_on_bogs2_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="fight_on_bogs3" prio="50">
+		<title>Разборка на Болотах</title>
+		<objective>
+			<text>Уничтожить банду Могильщика</text>
+			<icon>ui_iconsTotal_bar_crazy_veterans_quest</icon>
+			<article>als_help_19</article>
+			<infoportion_complete>player_complete_fight_on_bogs3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Шамраем</text>
+	<map_location_type hint= "shamray_name">green_location</map_location_type>
+	<object_story_id>marsh_shamray_1</object_story_id>
+			<infoportion_complete>fight_on_bogs3_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Галашом</text>
+	<map_location_type hint= "galash_name">green_location</map_location_type>
+	<object_story_id>marsh_galash_1</object_story_id>
+			<infoportion_complete>fight_on_bogs3_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Связаться с Юз-баши</text>
+			<infoportion_complete>fight_on_bogs3_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Уничтожить банду Могильщика</text>
+	<map_location_type hint= "marsh_mogilshik_lager_hint">eliminate_lager_location</map_location_type>
+	<object_story_id>marsh_mogilshik_lager</object_story_id>
+	<function_complete>als_quests_complit.fight_on_bogs3_cmplt</function_complete>
+			<infoportion_complete>fight_on_bogs3_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="knifes_and_waterrat" prio="70">
+		<title>Ножи и Водяная Крыса</title>
+		<objective>
+			<text>Ножи и Водяная Крыса</text>
+			<icon>kovzur_tasks</icon>
+			<article>als_help_20</article>
+			<infoportion_complete>player_complete_knifes_and_waterrat</infoportion_complete>
+			<infoportion_fail>arrive_on_waterrat_base_start</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Поговорить с Водяной Крысой о метательных ножах</text>
+	<map_location_type hint= "waterrat_name">green_location</map_location_type>
+	<object_story_id>marsh_waterrat</object_story_id>
+			<infoportion_complete>knifes_and_waterrat_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="knifes_in_wall" prio="20">
+		<title>Ножи в стене</title>
+		<objective>
+			<text>Ножи в стене</text>
+			<icon>ui_iconsTotal_knife</icon>
+			<article>als_help_21</article>
+			<infoportion_complete>player_complete_knifes_in_wall</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Спросить Юз-баши про метательные ножи</text>
+			<infoportion_complete>knifes_in_wall_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="gone_scouts" prio="100">
+		<title>Пропавшие разведчики</title>
+		<objective>
+			<text>Пропавшие разведчики</text>
+			<icon>ui_iconsTotal_galash</icon>
+			<article>als_help_22</article>
+			<infoportion_complete>player_complete_gone_scouts</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти пропавших людей Галаша</text>
+	<function_complete>als_quests_complit.gone_scouts_1_cmplt</function_complete>
+			<infoportion_complete>gone_scouts_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вернуться к Галашу</text>
+			<infoportion_complete>gone_scouts_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="not_complete_mission" prio="30">
+		<title>Незаконченная миссия</title>
+		<objective>
+			<text>Найти Могильщика</text>
+			<icon>ui_iconsTotal_mogila</icon>
+			<article>als_help_23</article>
+			<infoportion_complete>player_complete_not_complete_mission</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Юз-баши</text>
+			<infoportion_complete>not_complete_mission_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Обыскать лагерь Могильщика</text>
+			<infoportion_complete>not_complete_mission_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти схрон Могильщика</text>
+			<infoportion_complete>not_complete_mission_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Могильщика</text>
+			<infoportion_complete>not_complete_mission_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="crime_at_marsh" prio="50">
+		<title>Копатели</title>
+		<objective>
+			<text>Копатели</text>
+			<icon>ui_iconsTotal_eliminate_lager</icon>
+			<article>als_help_24</article>
+			<infoportion_complete>player_complete_crime_at_marsh</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Осмотреть место происшествия</text>
+			<infoportion_complete>crime_at_marsh_1</infoportion_complete>
+		<function_complete>als_quests_complit.crime_at_marsh_cmplt</function_complete>
+		</objective>
+</game_task>
+
+<game_task id="detector_of_dead_man" prio="20">
+		<title>Детектор мертвеца</title>
+		<objective>
+			<text>Детектор мертвеца</text>
+			<icon>ui_iconsTotal_yan_find_scientist</icon>
+			<article>als_help_25</article>
+			<infoportion_complete>player_complete_detector_of_dead_man</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти детектор Морлока</text>
+	<map_location_type hint= "marsh_peshera_corpse_hint">green_location</map_location_type>
+	<object_story_id>marsh_peshera_corpse</object_story_id>
+			<infoportion_complete>detector_of_dead_man_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="marsh_meet_deadman" prio="100">
+		<title>Хозяин схрона</title>
+		<objective>
+			<text>Хозяин схрона</text>
+			<icon>ui_iconsTotal_dedman</icon>
+			<article>als_help_26</article>
+			<infoportion_complete>player_complete_marsh_meet_deadman</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Дэдмэном</text>
+	<map_location_type hint= "deadman_name">green_location</map_location_type>
+	<object_story_id>marsh_stalker_deadman</object_story_id>
+			<infoportion_complete>marsh_meet_deadman_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="arrive_on_waterrat_base" prio="90">
+		<title>Группа Водяной Крысы</title>
+		<objective>
+			<text>Группа Водяной Крысы</text>
+			<icon>kovzur_tasks</icon>
+			<article>als_help_27</article>
+			<infoportion_complete>player_complete_arrive_on_waterrat_base</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Прибыть на базу Водяной Крысы</text>
+	<map_location_type hint= "waterrat_base_hint">red_location</map_location_type>
+	<object_story_id>marsh_waterrat_base</object_story_id>
+			<infoportion_complete>arrive_on_waterrat_base_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="marsh_find_deadman" prio="50">
+		<title>Найти Дэдмэна</title>
+		<objective>
+			<text>Найти Дэдмэна</text>
+			<icon>ui_iconsTotal_dedman</icon>
+			<article>als_help_28</article>
+			<infoportion_complete>player_complete_marsh_find_deadman</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Место последней встречи</text>
+	<map_location_type hint= "marsh_deadman_place_hint">green_location</map_location_type>
+	<object_story_id>marsh_deadman_place</object_story_id>
+			<infoportion_complete>marsh_find_deadman_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Дэдмэна</text>
+			<infoportion_complete>marsh_find_deadman_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="heli_and_ikons_1" prio="30">
+		<title>Упавший вертолет и иконы</title>
+		<objective>
+			<text>Поговорить с Кремнем</text>
+	<map_location_type hint= "atp_freedom_trader_name">green_location</map_location_type>
+	<object_story_id>marsh_svoboda_baza_trader</object_story_id>
+			<icon>ui_iconsTotal_heli_fail</icon>
+			<article>als_help_29</article>
+			<infoportion_complete>player_complete_heli_and_ikons_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Кремнем</text>
+			<infoportion_complete>heli_and_ikons_1_1</infoportion_complete>
+		<function_complete>als_quests_complit.heli_and_ikons_3_cmplt</function_complete>
+		</objective>
+</game_task>
+
+<game_task id="heli_and_ikons_2" prio="30">
+		<title>Упавший вертолет и иконы</title>
+		<objective>
+			<text>Найти Симпсона, или Катчера</text>
+			<icon>ui_iconsTotal_heli_fail</icon>
+			<article>als_help_30</article>
+			<infoportion_complete>player_complete_heli_and_ikons_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Симпсона, или Катчера</text>
+	<map_location_type hint= "marsh_watchtower_hint">blue_location</map_location_type>
+	<object_story_id>marsh_watchtower</object_story_id>
+			<infoportion_complete>heli_and_ikons_2_1</infoportion_complete>
+		<function_complete>als_quests_complit.heli_and_ikons_3_cmplt</function_complete>
+		</objective>
+</game_task>
+
+<game_task id="heli_and_ikons_3" prio="30">
+		<title>Упавший вертолет и иконы</title>
+		<objective>
+			<text>Найти иконы</text>
+			<icon>ui_iconsTotal_heli_fail</icon>
+			<article>als_help_31</article>
+			<infoportion_complete>player_complete_heli_and_ikons_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти иконы</text>
+	<map_location_type hint= "marsh_inventory_box_helicopter_hint">crlc_big</map_location_type>
+	<object_story_id>marsh_inventory_box_helicopter</object_story_id>
+			<infoportion_complete>heli_and_ikons_3_1</infoportion_complete>
+		<function_complete>als_quests_complit.heli_and_ikons_3_cmplt</function_complete>
+		</objective>
+</game_task>
+
+<game_task id="marsh_key_decision_1" prio="50">
+		<title>Ключевое решение</title>
+		<objective>
+			<text>Ключевое решение</text>
+			<icon>ui_iconsTotal_lost_money</icon>
+			<article>als_help_32</article>
+			<infoportion_complete>player_complete_marsh_key_decision_1</infoportion_complete>
+			<infoportion_fail>player_complete_marsh_key_decision_2</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Отдать иконы</text>
+	<map_location_type hint= "marsh_key_decision_1_hint">green_location</map_location_type>
+	<object_story_id>marsh_pope_8</object_story_id>
+			<infoportion_complete>marsh_key_decision_1_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="marsh_key_decision_2" prio="50">
+		<title>Ключевое решение</title>
+		<objective>
+			<text>Ключевое решение</text>
+			<icon>ui_iconsTotal_found_money</icon>
+			<article>als_help_33</article>
+			<infoportion_complete>player_complete_marsh_key_decision_2</infoportion_complete>
+			<infoportion_fail>player_complete_marsh_key_decision_1</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Продать иконы</text>
+	<map_location_type hint= "marsh_key_decision_2_hint">green_location</map_location_type>
+	<object_story_id>marsh_svoboda_baza_trader</object_story_id>
+			<infoportion_complete>marsh_key_decision_2_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="old_bunker_sidor" prio="80">
+		<title>Старый бункер Сидоровича</title>
+		<objective>
+			<text>Старый бункер Сидоровича</text>
+			<icon>ui_iconsTotal_dedman</icon>
+			<article>als_help_34</article>
+			<infoportion_complete>player_complete_old_bunker_sidor</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Дэдмэном в старом бункере</text>
+	<map_location_type hint= "old_bunker_hint">green_location</map_location_type>
+	<object_story_id>esc_deadman</object_story_id>
+			<infoportion_complete>old_bunker_sidor_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="find_gone_selectors" prio="40">
+		<title>Пропавшие копатели</title>
+		<objective>
+			<text>Пропавшие копатели</text>
+			<icon>ui_iconsTotal_eliminate_lager</icon>
+			<article>als_help_35</article>
+			<infoportion_complete>player_complete_find_gone_selectors</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти пропавшую группу копателей</text>
+			<infoportion_complete>find_gone_selectors_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Получить вознаграждение</text>
+			<infoportion_complete>find_gone_selectors_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="there_will_be_light1" prio="50">
+		<title>Да будет Свет!</title>
+		<objective>
+			<text>Да будет Свет!</text>
+			<icon>ui_iconsTotal_yan_kill_brain_task_2</icon>
+			<article>als_help_36</article>
+			<infoportion_complete>player_complete_there_will_be_light1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Запустить генератор</text>
+			<infoportion_complete>there_will_be_light1_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Открыть сейф</text>
+			<infoportion_complete>there_will_be_light1_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать контейнер</text>
+			<infoportion_complete>there_will_be_light1_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="there_will_be_light2" prio="50">
+		<title>Да будет Свет!</title>
+		<objective>
+			<text>Да будет Свет!</text>
+			<icon>ui_iconsTotal_yan_kill_brain_task_2</icon>
+			<article>als_help_37</article>
+			<infoportion_complete>player_complete_there_will_be_light2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить со сталкерами</text>
+			<infoportion_complete>there_will_be_light2_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Запустить генератор</text>
+			<infoportion_complete>there_will_be_light2_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Открыть сейф</text>
+			<infoportion_complete>there_will_be_light2_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать контейнер</text>
+			<infoportion_complete>there_will_be_light2_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="work_on_corporation" prio="20">
+		<title>Работа на Корпорацию</title>
+		<objective>
+			<text>Работа на Корпорацию</text>
+			<icon>ui_iconsTotal_pool</icon>
+			<article>als_help_38</article>
+			<infoportion_complete>player_complete_work_on_corporation</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Пулевичем</text>
+	<map_location_type hint= "grc_agent_name">blue_location</map_location_type>
+	<object_story_id>sor_grc_agent</object_story_id>
+			<infoportion_complete>work_on_corporation_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="find_boxes_hsm" prio="20">
+		<title>Контейнеры с маркировкой HSM</title>
+		<objective>
+			<text>Контейнеры с маркировкой HSM</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_39</article>
+			<infoportion_complete>player_complete_find_boxes_hsm</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Точка на Свалке</text>
+	<map_location_type hint= "garbage_hsm_hint">crlc_big</map_location_type>
+	<object_story_id>garbage_hsm_point</object_story_id>
+			<infoportion_complete>find_boxes_hsm_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать GPS-маяки</text>
+	<map_location_type hint= "yantar_hsm_hint">crlc_big</map_location_type>
+	<object_story_id>yantar_hsm_point</object_story_id>
+			<infoportion_complete>find_boxes_hsm_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>HSM-1</text>
+	<map_location_type hint= "box_hsm_hint">crlc_big</map_location_type>
+	<object_story_id>agr_hsm_point</object_story_id>
+			<infoportion_complete>find_boxes_hsm_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>HSM-2</text>
+	<map_location_type hint= "box_hsm_hint">crlc_big</map_location_type>
+	<object_story_id>gar_hsm_point</object_story_id>
+			<infoportion_complete>find_boxes_hsm_4</infoportion_complete>
+		</objective>
+		<objective>
+			<text>HSM-3</text>
+	<map_location_type hint= "box_hsm_hint">green_location</map_location_type>
+	<object_story_id>katacomba_hsm_point</object_story_id>
+			<infoportion_complete>find_boxes_hsm_5</infoportion_complete>
+		</objective>
+		<objective>
+			<text>HSM-4</text>
+	<map_location_type hint= "box_hsm_hint">crlc_big</map_location_type>
+	<object_story_id>val_hsm_point</object_story_id>
+			<infoportion_complete>find_boxes_hsm_6</infoportion_complete>
+		</objective>
+		<objective>
+			<text>HSM-5</text>
+	<map_location_type hint= "box_hsm_hint">crlc_big</map_location_type>
+	<object_story_id>red_hsm_point</object_story_id>
+			<infoportion_complete>find_boxes_hsm_7</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="silence_of_scientists" prio="70">
+		<title>Молчание ученых</title>
+		<objective>
+			<text>Молчание ученых</text>
+			<icon>ui_iconsTotal_agro</icon>
+			<article>als_help_40</article>
+			<infoportion_complete>player_complete_silence_of_scientists</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти попутчиков</text>
+			<infoportion_complete>silence_of_scientists_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Добраться до модуля на Агропроме</text>
+	<map_location_type hint= "agro_scientists_hint">green_location</map_location_type>
+	<object_story_id>agro_scientists_module</object_story_id>
+			<infoportion_complete>silence_of_scientists_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="agru_take_away_container_hsm" prio="50">
+		<title>Забрать контейнер</title>
+		<objective>
+			<text>Забрать контейнер</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_41</article>
+			<infoportion_complete>player_complete_agru_take_away_container_hsm</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти контейнер</text>
+	<map_location_type hint= "box_hsm_hint">green_location</map_location_type>
+	<object_story_id>agr_fake_hsm_box</object_story_id>
+			<infoportion_complete>agru_take_away_container_hsm_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать контейнер</text>
+			<infoportion_complete>agru_take_away_container_hsm_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="transfer_agru_hsm_box" prio="50">
+		<title>Отдать контейнер</title>
+		<objective>
+			<text>Отдать контейнер</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_42</article>
+			<infoportion_complete>player_complete_transfer_agru_hsm_box</infoportion_complete>
+			<infoportion_fail>transfer_agru_hsm_box_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Дождаться представителя Пулевича</text>
+	<map_location_type hint= "meet_point">green_location</map_location_type>
+	<object_story_id>agr_hsm_meet_point</object_story_id>
+			<infoportion_complete>transfer_agru_hsm_box_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="meeting_near_tunnel" prio="50">
+		<title>Встреча возле тоннеля</title>
+		<objective>
+			<text>Встреча возле тоннеля</text>
+			<icon>ui_iconsTotal_dedman</icon>
+			<article>als_help_43</article>
+			<infoportion_complete>player_complete_meeting_near_tunnel</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отдать контейнер Краснову</text>
+	<map_location_type hint= "esc_cptn_krasnov_name">green_location</map_location_type>
+	<object_story_id>esc_grc_krasnov</object_story_id>
+			<infoportion_complete>meeting_near_tunnel_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Дэдмэном</text>
+	<map_location_type hint= "">green_location</map_location_type>
+	<object_story_id></object_story_id>
+			<infoportion_complete>meeting_near_tunnel_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="container_number_two" prio="50">
+		<title>Контейнер номер 2</title>
+		<objective>
+			<text>Контейнер номер 2</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_44</article>
+			<infoportion_complete>player_complete_container_number_two</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать контейнер</text>
+			<infoportion_complete>container_number_two_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Выбраться на поверхность</text>
+			<infoportion_complete>container_number_two_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Связаться с Пулевичем</text>
+			<infoportion_complete>container_number_two_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="foolish_plan" prio="50">
+		<title>Дурацкий план Дэдмэна</title>
+		<objective>
+			<text>Дурацкий план Дэдмэна</text>
+			<icon>ui_iconsTotal_dedman</icon>
+			<article>als_help_45</article>
+			<infoportion_complete>player_complete_foolish_plan</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Спрятать контейнер</text>
+	<map_location_type hint= "gar_flea_market_hiding_place_hint">green_location</map_location_type>
+	<object_story_id>gar_flea_market_hiding_place</object_story_id>
+			<infoportion_complete>foolish_plan_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Устроить засаду отряду GRC</text>
+	<map_location_type hint= "gar_ambush_restrictor_hint">green_location</map_location_type>
+	<object_story_id>gar_ambush_restrictor</object_story_id>
+			<infoportion_complete>foolish_plan_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Перебить отряд</text>
+			<infoportion_complete>foolish_plan_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Связаться с Пулевичем</text>
+			<infoportion_complete>foolish_plan_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="container_number_three" prio="50">
+		<title>Контейнер в Х-18</title>
+		<objective>
+			<text>Контейнер в Х-18</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_46</article>
+			<infoportion_complete>player_complete_container_number_three</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Проникнуть в лабораторию Х-18</text>
+	<map_location_type hint= "box_hsm_hint">green_location</map_location_type>
+	<object_story_id>val_hsm_point</object_story_id>
+			<infoportion_complete>container_number_three_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать контейнер HSM</text>
+			<infoportion_complete>container_number_three_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Спрятать контейнер в тайнике группы Синоптика</text>
+			<infoportion_complete>container_number_three_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="first_meeting_sinoptic" prio="40">
+		<title>Встреча с Синоптиком</title>
+		<objective>
+			<text>Встреча с Синоптиком</text>
+			<icon>sinoptic_tasks</icon>
+			<article>als_help_47</article>
+			<infoportion_complete>player_complete_first_meeting_sinoptic</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Синоптиком</text>
+			<infoportion_complete>first_meeting_sinoptic_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Разговор с Синоптиком</text>
+			<infoportion_complete>first_meeting_sinoptic_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="find_necronomicon" prio="30">
+		<title>Некрономикон</title>
+		<objective>
+			<text>Некрономикон</text>
+			<icon>ui_iconsTotal_book</icon>
+			<article>als_help_48</article>
+			<infoportion_complete>player_complete_find_necronomicon</infoportion_complete>
+			<infoportion_fail>esc_panzer_told</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Найти Кучму</text>
+			<infoportion_complete>find_necronomicon_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать манускрипт</text>
+			<infoportion_complete>find_necronomicon_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отдать манускрипт Синоптику</text>
+			<infoportion_complete>find_necronomicon_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="killing_paranoia" prio="50">
+		<title>Убойная паранойя</title>
+		<objective>
+			<text>Убойная паранойя</text>
+			<icon>ui_iconsTotal_dar_codedoor_2</icon>
+			<article>als_help_49</article>
+			<infoportion_complete>player_complete_killing_paranoia</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти способ выбраться из Х-18</text>
+			<infoportion_complete>killing_paranoia_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Разобраться с наемниками</text>
+	<map_location_type hint= "revenge_to_mercenaries_hint">green_location</map_location_type>
+	<object_story_id>val_revenge_to_mercenaries_restrictor</object_story_id>
+			<infoportion_complete>killing_paranoia_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="headquarters_counterintelligence_duty" prio="50">
+		<title>Контейнер в штабе СРКР Долга</title>
+		<objective>
+			<text>Контейнер в штабе СРКР Долга</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_50</article>
+			<infoportion_complete>player_complete_headquarters_counterintelligence_duty</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Проникнуть в штаб СРКР Долга</text>
+			<infoportion_complete>headquarters_counterintelligence_duty_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать контейнер</text>
+			<infoportion_complete>headquarters_counterintelligence_duty_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Спрятать контейнер в тайнике группы Синоптика</text>
+			<infoportion_complete>headquarters_counterintelligence_duty_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="conscience_of_colonel" prio="50">
+		<title>Совесть полковника Панцера</title>
+		<objective>
+			<text>Совесть полковника Панцера</text>
+			<icon>ui_iconsNpc_stalker_do_balon_6</icon>
+			<article>als_help_51</article>
+			<infoportion_complete>player_complete_conscience_of_colonel</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вернуться и узнать, что нужно Панцеру</text>
+			<infoportion_complete>conscience_of_colonel_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="agent_grc" prio="50">
+		<title>Агент GRC</title>
+		<objective>
+			<text>Агент GRC</text>
+			<icon>ui_iconsTotal_mil_mad_job</icon>
+			<article>als_help_52</article>
+			<infoportion_complete>player_complete_agent_grc</infoportion_complete>
+			<infoportion_fail>actor_refused_cooperation</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Найти дешифровальщика</text>
+			<infoportion_complete>agent_grc_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="base_of_military_stalkers" prio="100">
+		<title>База военных сталкеров</title>
+		<objective>
+			<text>База военных сталкеров</text>
+			<icon>ui_iconsTotal_eliminate_lager</icon>
+			<article>als_help_53</article>
+			<infoportion_complete>player_complete_base_of_military_stalkers</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Попасть на территорию базы</text>
+	<map_location_type hint= "entrance_on_base">green_location</map_location_type>
+	<object_story_id>mil_military_stalker_base</object_story_id>
+			<infoportion_complete>base_of_military_stalkers_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Лео</text>
+	<map_location_type hint= "mil_military_stalker_commander_name">green_location</map_location_type>
+	<object_story_id>mil_military_stalker_commander</object_story_id>
+			<infoportion_complete>base_of_military_stalkers_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="military_stalkers" prio="100">
+		<title>Военные сталкеры</title>
+		<objective>
+			<text>Военные сталкеры</text>
+			<icon>ui_iconsTotal_tutorial_help_wounded</icon>
+			<article>als_help_54</article>
+			<infoportion_complete>player_complete_military_stalkers</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Доставить флэш-диск на базу</text>
+	<map_location_type hint= "agr_ms_base_hint">green_location</map_location_type>
+	<object_story_id>agr_psy_zone_2</object_story_id>
+			<infoportion_complete>military_stalkers_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="ritual_knife" prio="90">
+		<title>Обсидиановый нож</title>
+		<objective>
+			<text>Обсидиановый нож</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_55</article>
+			<infoportion_complete>player_complete_ritual_knife</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти схрон о. Виталия</text>
+			<infoportion_complete>ritual_knife_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать нож</text>
+			<infoportion_complete>ritual_knife_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отдать нож Бармену</text>
+			<infoportion_complete>ritual_knife_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="the_knife_for_the_barman" prio="90">
+		<title>Нож для Бармена</title>
+		<objective>
+			<text>Нож для Бармена</text>
+			<icon>ui_iconsNpc_barman</icon>
+			<article>als_help_56</article>
+			<infoportion_complete>player_complete_the_knife_for_the_barman</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отдать нож Бармену</text>
+			<infoportion_complete>the_knife_for_the_barman_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="track_to_limansk" prio="40">
+		<title>Тропа в Лиманск</title>
+		<objective>
+			<text>Тропа в Лиманск</text>
+			<icon>ui_iconsNpc_green_stalker_7</icon>
+			<article>als_help_57</article>
+			<infoportion_complete>player_complete_track_to_limansk</infoportion_complete>
+			<infoportion_fail>actor_refused_cooperation</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Найти Гену-хакера.</text>
+			<infoportion_complete>track_to_limansk_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отдать Гене цифровые носители на дешифровку</text>
+			<infoportion_complete>track_to_limansk_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Дождаться результатов дешифрования</text>
+			<infoportion_complete>track_to_limansk_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="in_the_law" prio="100">
+		<title>В законе</title>
+		<objective>
+			<text>В законе</text>
+			<icon>borman_tasks</icon>
+			<article>als_help_58</article>
+			<infoportion_complete>player_complete_in_the_law</infoportion_complete>
+			<infoportion_fail>gen_borman_isdead</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Найти Лешу Бормана</text>
+			<infoportion_complete>in_the_law_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Передать Леше решение сходки</text>
+			<infoportion_complete>in_the_law_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="glade_centre" prio="10">
+		<title>Точка встречи</title>
+		<objective>
+			<text>Точка встречи</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>als_help_59</article>
+			<infoportion_complete>player_complete_glade_centre</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Занять место в центре поляны</text>
+	<map_location_type hint= "glade_centre_hint">green_location</map_location_type>
+	<object_story_id>pol_centre_restrictor</object_story_id>
+			<infoportion_complete>glade_centre_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="kill_gravedigger" prio="50">
+		<title>Убить Могильщика</title>
+		<objective>
+			<text>Убить Могильщика</text>
+			<icon>ui_iconsTotal_mogila</icon>
+			<article>als_help_60</article>
+			<infoportion_complete>player_complete_kill_gravedigger</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Пристрелить Могильщика</text>
+			<infoportion_complete>kill_gravedigger_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать манускрипт</text>
+			<infoportion_complete>kill_gravedigger_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="in_private" prio="50">
+		<title>Один на один</title>
+		<objective>
+			<text>Один на один</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>als_help_61</article>
+			<infoportion_complete>player_complete_in_private</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поместить ключи в ящик</text>
+			<infoportion_complete>in_private_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Дождаться сигнала</text>
+	<map_location_type hint= "wait_signal_hint">green_location</map_location_type>
+	<object_story_id>atp_expectation_point_restrictor</object_story_id>
+			<infoportion_complete>in_private_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Победить в поединке</text>
+			<infoportion_complete>in_private_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать ключи и манускрипт</text>
+	<function_complete>als_quests_complit.in_private_cmplt</function_complete>
+			<infoportion_complete>in_private_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="other_debts" prio="60">
+		<title>Не долговские долги</title>
+		<objective>
+			<text>Не долговские долги</text>
+			<icon>ui_iconsTotal_dushman</icon>
+			<article>als_help_62</article>
+			<infoportion_complete>player_complete_other_debts</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вернуться на Поляну</text>
+			<infoportion_complete>other_debts_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Добить группу Могильщика</text>
+	<function_complete>als_quests_complit.other_debts_1_1_cmplt</function_complete>
+			<infoportion_complete>other_debts_1_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать вещи Душмана</text>
+	<function_complete>als_quests_complit.other_debts_cmplt</function_complete>
+			<infoportion_complete>other_debts_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="signal_from_varnak" prio="150">
+		<title>Сигнал от Варнака</title>
+		<objective>
+			<text>Сигнал от Варнака</text>
+			<icon>ui_iconsTotal_racia</icon>
+			<article>als_help_63</article>
+			<infoportion_complete>player_complete_signal_from_varnak</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Дождаться сообщения от Варнака</text>
+			<infoportion_complete>signal_from_varnak_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="sacred_business" prio="30">
+		<title>Святое дело</title>
+		<objective>
+			<text>Святое дело</text>
+			<icon>ui_iconsTotal_val_prisoner_help</icon>
+			<article>als_help_64</article>
+			<infoportion_complete>player_complete_sacred_business</infoportion_complete>
+			<infoportion_fail>sacred_business_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Занять позицию</text>
+	<map_location_type hint= "gun_position_hint">green_location</map_location_type>
+	<object_story_id>sor_gun_position_restrictor</object_story_id>
+			<infoportion_complete>sacred_business_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Дождаться готовности Иванцова</text>
+			<infoportion_complete>sacred_business_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Разбить выстрелом окно</text>
+	<map_location_type hint= "window_hint">green_location</map_location_type>
+	<object_story_id>sor_police_window_1</object_story_id>
+			<infoportion_complete>sacred_business_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Освободить арестантов</text>
+	<map_location_type hint= "prisoners_hint">green_location</map_location_type>
+	<object_story_id>sor_monkeyhouse_restrictor</object_story_id>
+			<infoportion_complete>sacred_business_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="werewolf_in_epaulets" prio="70">
+		<title>Оборотень в погонах</title>
+		<objective>
+			<text>Оборотень в погонах</text>
+			<icon>ui_iconsTotal_val_prisoner_help</icon>
+			<article>als_help_65</article>
+			<infoportion_complete>player_complete_werewolf_in_epaulets</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Пробраться на Сортировку</text>
+			<infoportion_complete>werewolf_in_epaulets_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с майором Иванцовым</text>
+	<map_location_type hint= "ivancov_name">green_location</map_location_type>
+	<object_story_id>sor_ivancov</object_story_id>
+			<infoportion_complete>werewolf_in_epaulets_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="take_away_passports" prio="150">
+		<title>Паспорта</title>
+		<objective>
+			<text>Паспорта</text>
+			<icon>ui_iconsNpc_soldier_beret</icon>
+			<article>als_help_66</article>
+			<infoportion_complete>player_complete_take_away_passports</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с капитаном Паршиным</text>
+	<map_location_type hint= "cptn_parshin_name">green_location</map_location_type>
+	<object_story_id>sor_baza_commander</object_story_id>
+			<infoportion_complete>take_away_passports_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать паспорта</text>
+			<infoportion_complete>take_away_passports_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="large_caliber_sniper_rifle" prio="100">
+		<title>Оптика с большим калибром</title>
+		<objective>
+			<text>Оптика с большим калибром</text>
+			<icon>ui_iconsTotal_svdk</icon>
+			<article>als_help_67</article>
+			<infoportion_complete>player_complete_large_caliber_sniper_rifle</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Достать снайперскую винтовку большого калибра</text>
+			<infoportion_complete>large_caliber_sniper_rifle_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="vague_memoirs" prio="90">
+		<title>Смутные воспоминания</title>
+		<objective>
+			<text>Смутные воспоминания</text>
+			<icon>ui_iconsNpc_green_stalker_1</icon>
+			<article>als_help_68</article>
+			<infoportion_complete>player_complete_vague_memoirs</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти артефакт в Х-18</text>
+	<map_location_type hint= "art_red_name">green_location</map_location_type>
+	<object_story_id>darklab_art_red</object_story_id>
+			<infoportion_complete>vague_memoirs_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Принести артефакт Шустрому</text>
+	<map_location_type hint= "esc_shustryi_name">green_location</map_location_type>
+	<object_story_id>sor_sidor_stalker_1</object_story_id>
+			<infoportion_complete>vague_memoirs_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="dark_valley_abnormal_activity" prio="70">
+		<title>Аномальная активность в Темной Долине</title>
+		<objective>
+			<text>Аномальная активность в Темной Долине</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_69</article>
+			<infoportion_complete>player_complete_dark_valley_abnormal_activity</infoportion_complete>
+			<infoportion_fail>dark_valley_abnormal_activity_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Разведка в Темной Долине</text>
+			<infoportion_complete>dark_valley_abnormal_activity_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="dark_valley_abnormal_activity2" prio="70">
+		<title>Аномальная активность в Темной Долине</title>
+		<objective>
+			<text>Аномальная активность в Темной Долине</text>
+			<icon>ui_iconsTotal_mil_mad_job</icon>
+			<article>als_help_70</article>
+			<infoportion_complete>player_complete_dark_valley_abnormal_activity2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Проникнуть на базу наемников</text>
+	<map_location_type hint= "val_killers_basa_hint">green_location</map_location_type>
+	<object_story_id>val_killers_basa</object_story_id>
+			<infoportion_complete>dark_valley_abnormal_activity2_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вскрыть сейф Шокера</text>
+	<map_location_type hint= "val_safe_door_hint">green_location</map_location_type>
+	<object_story_id>val_safe_door</object_story_id>
+			<infoportion_complete>dark_valley_abnormal_activity2_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать флешку Шокера</text>
+	<map_location_type hint= "val_shocker_flash_fake_hint">green_location</map_location_type>
+	<object_story_id>val_shocker_flash_fake</object_story_id>
+			<infoportion_complete>dark_valley_abnormal_activity2_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отключить турели</text>
+	<map_location_type hint= "val_comp_klava_1_hint">green_location</map_location_type>
+	<object_story_id>val_comp_klava_1</object_story_id>
+			<infoportion_complete>dark_valley_abnormal_activity2_4</infoportion_complete>
+			<infoportion_fail>val_comp_is_blocked</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Выбраться с базы</text>
+			<infoportion_complete>dark_valley_abnormal_activity2_5</infoportion_complete>
+		</objective>
+		<!--objective>
+			<text>Отдать флешку Сидоровичу</text>
+			<infoportion_complete>dark_valley_abnormal_activity2_6</infoportion_complete>
+		</objective-->
+</game_task>
+
+<game_task id="gone_nestor" prio="180">
+		<title>Пропавший Нестор</title>
+		<objective>
+			<text>Пропавший Нестор</text>
+			<icon>ui_iconsTotal_agr_agr_help_krot</icon>
+			<article>als_help_71</article>
+			<infoportion_complete>player_complete_gone_nestor</infoportion_complete>
+			<infoportion_fail>gone_nestor_1_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Поговорить с Грувером</text>
+			<infoportion_complete>gone_nestor_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="gone_nestor_2" prio="80">
+		<title>Пропавший Нестор 2</title>
+		<objective>
+			<text>Пропавший Нестор</text>
+			<icon>ui_iconsTotal_agr_agr_help_krot</icon>
+			<article>als_help_72</article>
+			<infoportion_complete>player_complete_gone_nestor_2</infoportion_complete>
+			<infoportion_fail>gone_nestor_2_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Найти любую информацию о Несторе</text>
+			<infoportion_complete>gone_nestor_2_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="yalta" prio="100">
+		<title>Ялта</title>
+		<objective>
+			<text>Ялта</text>
+			<icon>ui_iconsTotal_kill_stalker</icon>
+			<article>als_help_73</article>
+			<infoportion_complete>player_complete_yalta</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Рассказать план Ялте</text>
+	<map_location_type hint= "val_killer_yalta_name">green_location</map_location_type>
+	<object_story_id>sor_stalker_yalta</object_story_id>
+			<infoportion_complete>yalta_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="mcleens" prio="100">
+		<title>Макклинз</title>
+		<objective>
+			<text>Макклинз</text>
+			<icon>ui_iconsTotal_kill_stalker</icon>
+			<article>als_help_74</article>
+			<infoportion_complete>player_complete_mcleens</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Рассказать план Макклинзу</text>
+	<map_location_type hint= "mackleens_name">green_location</map_location_type>
+	<object_story_id>sor_mcleens_exo_from_pol</object_story_id>
+			<infoportion_complete>mcleens_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="yalta_and_mcleens" prio="100">
+		<title>Ялта и Макклинз</title>
+		<objective>
+			<text>Ялта и Макклинз</text>
+			<icon>ui_iconsTotal_kill_stalker</icon>
+			<article>als_help_75</article>
+	<function_complete>als_quests_complit.yalta_and_mcleens_cmplt</function_complete>
+			<infoportion_complete>player_complete_yalta_and_mcleens</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Рассказать план Ялте</text>
+	<map_location_type hint= "val_killer_yalta_name">green_location</map_location_type>
+	<object_story_id>sor_stalker_yalta</object_story_id>
+			<infoportion_complete>yalta_and_mcleens_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Рассказать план Макклинзу</text>
+	<map_location_type hint= "mackleens_name">green_location</map_location_type>
+	<object_story_id>sor_mcleens_exo_from_pol</object_story_id>
+			<infoportion_complete>yalta_and_mcleens_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="patronage_for_mercenaries" prio="120">
+		<title>Протекция для наемников</title>
+		<objective>
+			<text>Протекция для наемников</text>
+			<icon>ui_iconsTotal_yalta</icon>
+			<article>als_help_76</article>
+			<infoportion_complete>player_complete_patronage_for_mercenaries</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Незаконченный разговор</text>
+	<map_location_type hint= "val_killer_yalta_name">green_location</map_location_type>
+	<object_story_id>sor_attack_stalker_1</object_story_id>
+			<infoportion_complete>patronage_for_mercenaries_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="secrets_of_diggers" prio="100">
+		<title>Тайны диггеров</title>
+		<objective>
+			<text>Тайны диггеров</text>
+			<icon>ui_iconsTotal_sortirovka</icon>
+			<article>als_help_77</article>
+			<infoportion_complete>player_complete_secrets_of_diggers</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Фабрика переработки</text>
+			<infoportion_complete>secrets_of_diggers_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="devices_from_factory" prio="100">
+		<title>Приборы с фабрики</title>
+		<objective>
+			<text>Приборы с фабрики</text>
+			<icon>ui_iconsTotal_sortirovka</icon>
+			<article>als_help_78</article>
+			<infoportion_complete>player_complete_devices_from_factory</infoportion_complete>
+			<infoportion_fail>devices_from_factory_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Расспросить Сидора про фабрику</text>
+			<infoportion_complete>devices_from_factory_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Расспросить Бармена про фабрику</text>
+			<infoportion_complete>devices_from_factory_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="grc_compensation" prio="200">
+		<title>Компенсация</title>
+		<objective>
+			<text>Компенсация</text>
+			<icon>ui_iconsTotal_found_money</icon>
+			<article>als_help_79</article>
+			<infoportion_complete>player_complete_grc_compensation</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать деньги из сейфа</text>
+			<infoportion_complete>grc_compensation_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="tarnished_reputation" prio="20">
+		<title>«Подмоченная» репутация</title>
+		<objective>
+			<text>«Подмоченная» репутация</text>
+			<icon>ui_iconsTotal_bar_barman_job</icon>
+			<article>als_help_80</article>
+		<function_complete>als_quests_complit.tarnished_reputation_cmplt</function_complete>
+			<infoportion_complete>player_complete_tarnished_reputation</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с торговцами на Сортировке</text>
+			<infoportion_complete>tarnished_reputation_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="fallen_helicopter" prio="50">
+		<title>Рухнувший борт</title>
+		<objective>
+			<text>Рухнувший борт</text>
+			<icon>ui_iconsTotal_heli_fail</icon>
+			<article>als_help_81</article>
+			<infoportion_complete>player_complete_fallen_helicopter</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Обследовать место падения вертолета</text>
+			<infoportion_complete>fallen_helicopter_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="meeting_on_farm" prio="100">
+		<title>Встреча на ферме</title>
+		<objective>
+			<text>Встреча на ферме</text>
+			<icon>ui_iconsTotal_yalta</icon>
+			<article>als_help_82</article>
+			<infoportion_complete>player_complete_meeting_on_farm</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретить группу Ялты на ферме в Темной долине</text>
+	<map_location_type hint= "val_farm_hint">green_location</map_location_type>
+	<object_story_id>val_farm</object_story_id>
+			<infoportion_complete>meeting_on_farm_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="meeting_on_krovososovka" prio="100">
+		<title>Деревня Кровососовка</title>
+		<objective>
+			<text>Деревня Кровососовка</text>
+			<icon>ui_iconsTotal_gold</icon>
+			<article>als_help_83</article>
+			<infoportion_complete>player_complete_meeting_on_krovososovka</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Золотого в деревне на Армейских Складах</text>
+	<map_location_type hint= "krovososovka_hint">green_location</map_location_type>
+	<object_story_id>mil_krovososovka</object_story_id>
+			<infoportion_complete>meeting_on_krovososovka_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="zindan" prio="20">
+		<title>Зиндан</title>
+		<objective>
+			<text>Зиндан</text>
+			<icon>ui_iconsTotal_yalta</icon>
+			<article>als_help_84</article>
+			<infoportion_complete>player_complete_zindan</infoportion_complete>
+			<infoportion_fail>val_zindan_prisoners_are_dead</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Освободить пленных</text>
+	<map_location_type hint= "val_prisoner_frei_restrictor_hint">green_location</map_location_type>
+	<object_story_id>val_prisoner_frei_restrictor</object_story_id>
+			<infoportion_complete>zindan_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="last_container_hsm" prio="50">
+		<title>Последний контейнер</title>
+		<objective>
+			<text>Последний контейнер</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_85</article>
+			<infoportion_complete>player_complete_last_container_hsm</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти в Госпитале контейнер HSM</text>
+			<infoportion_complete>last_container_hsm_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="principle_business" prio="10">
+		<title>Дело принципа</title>
+		<objective>
+			<text>Дело принципа</text>
+			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
+			<article>als_help_86</article>
+			<infoportion_complete>player_complete_principle_business</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Спрятать последний контейнер в тайнике группы Синоптика</text>
+			<infoportion_complete>principle_business_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="lost_scientist" prio="100">
+		<title>Пропавший ученый</title>
+		<objective>
+			<text>Пропавший ученый</text>
+			<icon>ui_iconsTotal_bar_resque_information</icon>
+			<article>als_help_87</article>
+			<infoportion_complete>player_complete_lost_scientist</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти доктора Бравермана</text>
+			<infoportion_complete>lost_scientist_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Получить вознаграждение</text>
+			<infoportion_complete>lost_scientist_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="message_from_the_next_world" prio="100">
+		<title>Сообщение с того света</title>
+		<objective>
+			<text>Сообщение с того света</text>
+			<icon>ui_iconsTotal_bar_resque_information</icon>
+			<article>als_help_88</article>
+			<infoportion_complete>player_complete_message_from_the_next_world</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти доктора Луценко</text>
+			<infoportion_complete>message_from_the_next_world_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Рассказать про Бравермана</text>
+			<infoportion_complete>message_from_the_next_world_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="flying_laboratory" prio="100">
+		<title>Летающая лаборатория</title>
+		<objective>
+			<text>Летающая лаборатория</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_89</article>
+			<infoportion_complete>player_complete_flying_laboratory</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти место падения беспилотника</text>
+			<infoportion_complete>flying_laboratory_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Получить вознаграждение</text>
+			<infoportion_complete>flying_laboratory_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="contract_with_colonel" prio="100">
+		<title>Договор с полковником</title>
+		<objective>
+			<text>Договор с полковником</text>
+			<icon>ui_iconsNpc_stalker_do_balon_6</icon>
+			<article>als_help_90</article>
+			<infoportion_complete>player_complete_contract_with_colonel</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Панцером в баре</text>
+			<infoportion_complete>contract_with_colonel_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="peace_talker" prio="20">
+		<title>Переговорщик</title>
+		<objective>
+			<text>Переговорщик</text>
+			<icon>greese_tasks</icon>
+			<article>als_help_91</article>
+			<infoportion_complete>player_complete_peace_talker</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Переговорить с Пулевичем</text>
+			<infoportion_complete>peace_talker_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вывести Пулевича на Кордон</text>
+			<infoportion_complete>peace_talker_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Договориться с GRC о сдаче Периметра</text>
+			<infoportion_complete>peace_talker_3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Сообщить Панцеру о результатах переговоров</text>
+			<infoportion_complete>peace_talker_4</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="gate_in_the_zone" prio="50">
+		<title>Врата в Зону</title>
+		<objective>
+			<text>Врата в Зону</text>
+			<icon>ui_iconsTotal_find_railroad_passage</icon>
+			<article>als_help_92</article>
+			<infoportion_complete>player_complete_gate_in_the_zone</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Открыть ворота Периметра</text>
+			<infoportion_complete>gate_in_the_zone_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отправить сигнал Панцеру</text>
+			<infoportion_complete>gate_in_the_zone_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="perimetre_storm" prio="20">
+		<title>Штурм Периметра</title>
+		<objective>
+			<text>Штурм Периметра</text>
+			<icon>ui_iconsTotal_find_railroad_passage</icon>
+			<article>als_help_93</article>
+	<function_complete>als_quests_complit.perimetre_storm_cmplt</function_complete>
+			<infoportion_complete>player_complete_perimetre_storm</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отключить СУ на блокпосте</text>
+			<infoportion_complete>perimetre_storm_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отключить СУ турелями Периметра</text>
+			<infoportion_complete>perimetre_storm_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Открыть ворота Периметра</text>
+			<infoportion_complete>perimetre_storm_3</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="return_usbdisk_to_leo" prio="20">
+		<title>Совесть</title>
+		<objective>
+			<text>Совесть</text>
+			<icon>ui_iconsTotal_mil_mad_job</icon>
+			<article>als_help_94</article>
+			<infoportion_complete>player_complete_return_usbdisk_to_leo</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вернуть флэшку и деньги Лео</text>
+	<map_location_type hint= "mil_military_stalker_commander_name">green_location</map_location_type>
+	<object_story_id>mil_military_stalker_commander</object_story_id>
+			<infoportion_complete>return_usbdisk_to_leo_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="legend_about_reanimator" prio="200">
+		<title>Легенда о Реаниматоре</title>
+		<objective>
+			<text>Легенда о Реаниматоре</text>
+			<icon>ui_iconsTotal_yan_find_scientist</icon>
+			<article>als_help_95</article>
+			<function_complete>als_quests_complit.legend_about_reanimator_cmplt</function_complete>
+			<infoportion_complete>player_complete_legend_about_reanimator</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Реаниматора</text>
+			<infoportion_complete>legend_about_reanimator_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Приобрести прибор ПУМА</text>
+			<infoportion_complete>legend_about_reanimator_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="unknown_persons" prio="20">
+		<title>Неизвестные</title>
+		<objective>
+			<text>Неизвестные</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_96</article>
+			<infoportion_complete>player_complete_unknown_persons</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с неизвестными на блокпосте</text>
+	<map_location_type hint= "block_post_hint">green_location</map_location_type>
+	<object_story_id>gar_raider_meet_point</object_story_id>
+			<infoportion_complete>unknown_persons_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="disappearance_of_teuton" prio="100">
+		<title>Исчезновение Тевтона</title>
+		<objective>
+			<text>Исчезновение Тевтона</text>
+			<icon>ui_iconsTotal_gar_help_dymon</icon>
+			<article>als_help_97</article>
+			<infoportion_complete>player_complete_disappearance_of_teuton</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти Тевтона</text>
+			<infoportion_complete>disappearance_of_teuton_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="key_for_portal" prio="30">
+		<title>Ключ от портала</title>
+		<objective>
+			<text>Ключ от портала</text>
+			<icon>ui_iconsTotal_gold</icon>
+			<article>als_help_98</article>
+			<infoportion_complete>player_complete_key_for_portal</infoportion_complete>
+			<infoportion_fail>gold_is_dead</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Выйти в Рыжий Лес</text>
+			<infoportion_complete>key_for_portal_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Довести Золотого до портала</text>
+			<infoportion_complete>key_for_portal_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="neutralise_turrets" prio="30">
+		<title>Взлом АСО</title>
+		<objective>
+			<text>Взлом АСО</text>
+			<icon>ui_iconsTotal_dar_codedoor_2</icon>
+			<article>als_help_99</article>
+			<infoportion_complete>player_complete_neutralise_turrets</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Попасть в Госпиталь</text>
+			<infoportion_complete>neutralise_turrets_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Нейтрализовать турели</text>
+			<infoportion_complete>neutralise_turrets_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="group_poisk_hiding_place" prio="100">
+		<title>Тайник группы "Поиск"</title>
+		<objective>
+			<text>Тайник группы "Поиск"</text>
+			<icon>ui_iconsTotal_artefact</icon>
+			<article>als_help_100</article>
+			<infoportion_complete>player_complete_group_poisk_hiding_place</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать артефакт из тайника</text>
+			<infoportion_complete>group_poisk_hiding_place_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Отдать артефакт Симонову</text>
+			<infoportion_complete>group_poisk_hiding_place_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="tell_to_gold" prio="10">
+		<title>Золотой</title>
+		<objective>
+			<text>Золотой</text>
+			<icon>ui_iconsTotal_gold</icon>
+			<article>als_help_101</article>
+			<infoportion_complete>player_complete_tell_to_gold</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Золотым о дороге в Лиманск</text>
+	<map_location_type hint= "sor_m_barman_hint">green_location</map_location_type>
+	<object_story_id>sor_gold</object_story_id>
+			<infoportion_complete>tell_to_gold_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="mine_power_supply" prio="100">
+		<title>Источник питания</title>
+		<objective>
+			<text>Источник питания</text>
+			<icon>ui_iconsTotal_yan_kill_brain_task</icon>
+			<article>als_help_102</article>
+			<infoportion_complete>player_complete_mine_power_supply</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Добыть подходящий источник питания</text>
+			<infoportion_complete>mine_power_supply_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="duty_help" prio="100">
+		<title>Помощь со стороны</title>
+		<objective>
+			<text>Помощь со стороны</text>
+			<icon>ui_iconsTotal_agroprom_get_military_documents</icon>
+			<article>als_help_103</article>
+			<infoportion_complete>player_complete_duty_help</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Обратиться за помощью к Лео</text>
+			<infoportion_complete>duty_help_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Обратиться за помощью к «Долгу»</text>
+			<infoportion_complete>duty_help_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="relatives" prio="100">
+		<title>Родственники</title>
+		<objective>
+			<text>Родственники</text>
+			<icon>ui_iconsTotal_uzbek</icon>
+			<article>als_help_104</article>
+			<infoportion_complete>player_complete_relatives</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Юз-баши о Тевтоне</text>
+			<infoportion_complete>relatives_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="the_last_stalker" prio="10">
+		<title>Последний сталкер</title>
+		<objective>
+			<text>Последний сталкер</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<article>als_help_105</article>
+			<infoportion_complete>player_complete_the_last_stalker</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти сталкеров за Барьером</text>
+			<infoportion_complete>the_last_stalker_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вывести всех за Барьер</text>
+			<infoportion_complete>the_last_stalker_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="destiny_yalta_group" prio="20">
+		<title>Судьба наемника</title>
+		<objective>
+			<text>Судьба наемника</text>
+			<icon>ui_iconsTotal_yalta</icon>
+			<article>als_help_106</article>
+			<infoportion_complete>player_complete_destiny_yalta_group</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Поговорить с Ялтой</text>
+	<map_location_type hint= "val_killer_yalta_name">green_location</map_location_type>
+	<object_story_id>sor_attack_stalker_1</object_story_id>
+			<infoportion_complete>destiny_yalta_group_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="stalker_catcher" prio="100">
+		<title>Катчер</title>
+		<objective>
+			<text>Катчер</text>
+			<icon>ui_iconsTotal_agr_meet_krot_band</icon>
+			<article>als_help_107</article>
+			<infoportion_complete>player_complete_stalker_catcher</infoportion_complete>
+			<infoportion_fail>stalker_catcher_fail</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Разговорить Катчера</text>
+			<infoportion_complete>stalker_catcher_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="courtyard_in_east_pripyat" prio="50">
+		<title>Двор в восточной Припяти</title>
+		<objective>
+			<text>Двор в восточной Припяти</text>
+			<icon>ui_iconsTotal_dedman</icon>
+			<article>als_help_108</article>
+			<infoportion_complete>player_complete_courtyard_in_east_pripyat</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Встретиться с Дэдмэном в Припяти</text>
+	<map_location_type hint= "meet_point_yard">crlc_big</map_location_type>
+	<object_story_id>pri_court_yard_restrictor</object_story_id>
+			<infoportion_complete>courtyard_in_east_pripyat_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="kill_iron_mask" prio="100">
+		<title>Последний бой</title>
+		<objective>
+			<text>Последний бой</text>
+			<icon>xenomorph_tasks</icon>
+			<article>als_help_109</article>
+			<infoportion_complete>player_complete_kill_iron_mask</infoportion_complete>
+			<infoportion_fail>im_flies_away</infoportion_fail>
+		</objective>
+		<objective>
+			<text>Убить Меняющего Лица</text>
+			<infoportion_complete>kill_iron_mask_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="artefacts_from_obscure" prio="100">
+		<title>Артефакты из Сумрака</title>
+		<objective>
+			<text>Артефакты из Сумрака</text>
+			<icon>ui_iconsTotal_tutorial_find_artefact</icon>
+			<article>artefacts_obscure</article>
+			<infoportion_complete>player_complete_artefacts_from_obscure</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти ловушки-зонтики</text>
+			<infoportion_complete>artefacts_from_obscure_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Собрать необычные артефакты</text>
+			<infoportion_complete>artefacts_from_obscure_2</infoportion_complete>
+	<function_complete>als_quests_complit.artefacts_from_obscure_2_cmplt</function_complete>
+		</objective>
+		<objective>
+			<text>Принести артефакты Груверу</text>
+			<infoportion_complete>artefacts_from_obscure_3</infoportion_complete>
+		</objective>
+</game_task>
+
+
+<game_task id="dr_pirogov_fly_box" prio="100">
+		<title>Аппаратура с беспилотника</title>
+		<objective>
+			<text>Аппаратура с беспилотника</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_200</article>
+			<infoportion_complete>dr_pirogov_fly_box_end</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Найти погибшего долговца</text>
+ 	<map_location_type hint= "antigrav_hint">crlc_big</map_location_type>
+	<object_story_id>marsh_dolg_trup</object_story_id> 
+			<infoportion_complete>dr_pirogov_fly_box_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Забрать исследовательский комплекс</text>
+			<infoportion_complete>dr_pirogov_fly_box_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Вернуться к доктору Пирогову</text>
+			<infoportion_complete>dr_pirogov_fly_box_3</infoportion_complete>
+		</objective>
+</game_task>
+
+
+
+
+
+
+<!-- <game_task id="" prio="100">
+		<title></title>
+		<objective>
+			<text></text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<infoportion_complete>player_complete_</infoportion_complete>
+		</objective>
+		<objective>
+			<text></text>
+			<infoportion_complete>_</infoportion_complete>
+		</objective>
+</game_task> -->
+

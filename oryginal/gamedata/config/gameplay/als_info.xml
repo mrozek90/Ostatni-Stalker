@@ -1,0 +1,2839 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<game_information_portions>
+
+<info_portion id="blabla_init_dialog"></info_portion>
+
+<info_portion id="zaglushka_black_1"></info_portion>
+<info_portion id="zaglushka_black_2"></info_portion>
+<info_portion id="zaglushka_black_3"></info_portion>
+<info_portion id="zaglushka_black_4"></info_portion>
+<info_portion id="black_soul_have"></info_portion>
+<info_portion id="zaglushka_agr_grek_pulevich"></info_portion>
+
+<info_portion id="dr_pirogov_about_fly_box"></info_portion>
+<info_portion id="dr_pirogov_fly_box_no"></info_portion>
+<info_portion id="moldovan_speek"></info_portion>
+<info_portion id="shamray_nazad"></info_portion>
+<info_portion id="marsh_kill_bloodsuckers"></info_portion>
+<info_portion id="last_spawn"></info_portion>
+<info_portion id="mil_spawn_1"></info_portion>
+<info_portion id="mil_spawn_2"></info_portion>
+<info_portion id="mil_spawn_3"></info_portion>
+<info_portion id="marsh_spawn_1"></info_portion>
+<info_portion id="marsh_spawn_2"></info_portion>
+<info_portion id="marsh_spawn_3"></info_portion>
+<info_portion id="marsh_spawn_4"></info_portion>
+<info_portion id="agr_spawn_1"></info_portion>
+<info_portion id="agr_spawn_2"></info_portion>
+<info_portion id="agr_spawn_3"></info_portion>
+<info_portion id="zaglushka_777"></info_portion>
+<info_portion id="esc_dolg_regrouping_gate"></info_portion>
+<info_portion id="dark_valley_abnormal_activity_fail"></info_portion>
+<info_portion id="info_val_shocker"></info_portion>
+<info_portion id="zaglushka_gar_spawn"></info_portion>
+<info_portion id="zaglushka_gar_spawn_1"></info_portion>
+<info_portion id="zaglushka_dar_spawn"></info_portion>
+<info_portion id="zaglushka_dar_spawn_1"></info_portion>
+<info_portion id="zaglushka_esc_spawn"></info_portion>
+<info_portion id="info_zlatich_nagrada"></info_portion>
+
+<info_portion id="speek_gruver_arts"></info_portion>
+
+<info_portion id="info_crime_at_marsh">
+	<article>crime_at_marsh_name</article>
+</info_portion>
+
+<info_portion id="info_announcement_2">
+	<article>announcement_2_name</article>
+</info_portion>
+
+<info_portion id="info_announcement_3">
+	<article>announcement_3_name</article>
+</info_portion>
+
+<info_portion id="info_announcement_4">
+	<article>announcement_4_name</article>
+</info_portion>
+
+<info_portion id="info_announcement_5">
+	<article>announcement_5_name</article>
+</info_portion>
+
+<info_portion id="info_announcement_6">
+	<article>announcement_6_name</article>
+</info_portion>
+
+<info_portion id="info_langolier_code">
+	<article>langolier_code_name</article>
+</info_portion>
+
+<info_portion id="info_gena_maljawa">
+	<article>gena_maljawa_name</article>
+</info_portion>
+
+<info_portion id="info_nestor_pda">
+	<article>nestor_pda_name</article>
+</info_portion>
+
+<info_portion id="info_bunker_door_code">
+	<article>bunker_door_code_name</article>
+</info_portion>
+
+<info_portion id="info_malyawa_01">
+	<article>malyawa_01_name</article>
+</info_portion>
+
+<info_portion id="info_esc_operator_pda_name">
+	<article>esc_operator_pda_name</article>
+</info_portion>
+
+<info_portion id="info_hazar_malyawa">
+	<article>hazar_malyawa_name</article>
+</info_portion>
+
+<info_portion id="info_shevchuk_pda">
+	<article>shevchuk_pda_name</article>
+</info_portion>
+
+<info_portion id="info_ded_mar_malyawa">
+	<article>ded_mar_malyawa_name</article>
+</info_portion>
+
+<info_portion id="info_simpson_pda">
+	<article>simpson_pda_name</article>
+</info_portion>
+
+<info_portion id="info_broken_pda">
+	<article>broken_pda_name</article>
+</info_portion>
+
+<info_portion id="info_reanimator_malyawa">
+	<article>reanimator_malyawa_name</article>
+</info_portion>
+
+<info_portion id="info_doctor_malyawa">
+	<article>doctor_malyawa_name</article>
+</info_portion>
+
+<info_portion id="info_agru_code_malyawa">
+	<article>agru_code_malyawa_name</article>
+</info_portion>
+		
+<info_portion id="info_bun_code_malyawa">
+	<article>piece_of_paper_name</article>
+</info_portion>
+
+<info_portion id="info_morlok_pda">
+	<article>morlok_pda_name</article>
+</info_portion>
+
+<info_portion id="info_shilo_pda">
+	<article>shilo_pda_name</article>
+</info_portion>
+
+<info_portion id="info_waterrat_malyawa">
+	<article>waterrat_malyawa_name</article>
+</info_portion>
+
+<!-- Статики -->
+<info_portion id="static_1"></info_portion>
+<info_portion id="atto_primo_start"></info_portion>
+<info_portion id="zaglushka_s1"></info_portion>
+
+<info_portion id="static_2"></info_portion>
+<info_portion id="atto_secondo_start"></info_portion>
+<info_portion id="atto_secondo_bad_start"></info_portion>
+<info_portion id="zaglushka_s2"></info_portion>
+
+<info_portion id="static_3"></info_portion>
+<info_portion id="atto_terzo_start"></info_portion>
+<info_portion id="zaglushka_s3"></info_portion>
+
+<info_portion id="static_4"></info_portion>
+<info_portion id="atto_quarto_status_quo_start"></info_portion>
+<info_portion id="zaglushka_s4"></info_portion>
+
+<info_portion id="static_5"></info_portion>
+<info_portion id="atto_quarto_alienation_zone_start"></info_portion>
+<info_portion id="zaglushka_s5"></info_portion>
+
+<info_portion id="static_6"></info_portion>
+<info_portion id="atto_quarto_the_derelict_start"></info_portion>
+<info_portion id="zaglushka_s6"></info_portion>
+
+<info_portion id="static_7"></info_portion>
+<info_portion id="atto_quinto_alienation_zone_start"></info_portion>
+<info_portion id="zaglushka_s7"></info_portion>
+
+<info_portion id="static_8"></info_portion>
+<info_portion id="atto_quinto_last_stalker_start"></info_portion>
+<info_portion id="zaglushka_s8"></info_portion>
+
+<info_portion id="static_9"></info_portion>
+<info_portion id="atto_sesto_last_stalker_start"></info_portion>
+<info_portion id="zaglushka_s9"></info_portion>
+
+<info_portion id="static_0"></info_portion>
+<info_portion id="atto_quinto_last_stalker_derelict_start"></info_portion>
+<info_portion id="zaglushka_s0"></info_portion>
+
+<!-- <info_portion id="static_"></info_portion>
+<info_portion id="atto__start"></info_portion>
+<info_portion id="zaglushka_s"></info_portion> -->
+
+<!-- Объявления -->
+<info_portion id="static_gone_selectors_announcement"></info_portion>
+<info_portion id="gone_selectors_announcement"></info_portion>
+<info_portion id="zaglushka_a1"></info_portion>
+
+<info_portion id="static_job_for_corporation_announcement"></info_portion>
+<info_portion id="job_for_corporation_announcement"></info_portion>
+<info_portion id="zaglushka_a2"></info_portion>
+
+<info_portion id="static_will_sell_necronomicon_announcement"></info_portion>
+<info_portion id="will_sell_necronomicon_announcement"></info_portion>
+<info_portion id="zaglushka_a3"></info_portion>
+
+<info_portion id="static_lost_scientist_announcement"></info_portion>
+<info_portion id="lost_scientist_announcement"></info_portion>
+<info_portion id="zaglushka_a4"></info_portion>
+
+<info_portion id="static_lost_scientist_radio_announcement"></info_portion>
+<info_portion id="lost_scientist_radio_announcement"></info_portion>
+<info_portion id="zaglushka_a5"></info_portion>
+
+<info_portion id="static_fallen_aircraft_announcement"></info_portion>
+<info_portion id="fallen_aircraft_announcement"></info_portion>
+<info_portion id="zaglushka_a6"></info_portion>
+
+
+<!-- <info_portion id="static__announcement"></info_portion>
+<info_portion id="_announcement"></info_portion>
+<info_portion id="zaglushka_a"></info_portion> -->
+
+<!-- Эпизоды -->
+
+<info_portion id="zaglushka_1"></info_portion>
+<info_portion id="zaglushka_2"></info_portion>
+<info_portion id="zaglushka_3"></info_portion>
+<info_portion id="zaglushka_4"></info_portion>
+<info_portion id="zaglushka_5"></info_portion>
+<info_portion id="zaglushka_6"></info_portion>
+<info_portion id="zaglushka_7"></info_portion>
+<info_portion id="zaglushka_8"></info_portion>
+<info_portion id="zaglushka_9"></info_portion>
+<info_portion id="zaglushka_10"></info_portion>
+<info_portion id="zaglushka_11"></info_portion>
+<info_portion id="zaglushka_12"></info_portion>
+<info_portion id="zaglushka_13"></info_portion>
+<info_portion id="zaglushka_14"></info_portion>
+<info_portion id="zaglushka_15"></info_portion>
+<info_portion id="zaglushka_16"></info_portion>
+<info_portion id="zaglushka_17"></info_portion>
+<info_portion id="zaglushka_18"></info_portion>
+<info_portion id="zaglushka_19"></info_portion>
+<info_portion id="zaglushka_20"></info_portion>
+<info_portion id="zaglushka_21"></info_portion>
+<info_portion id="zaglushka_22"></info_portion>
+<info_portion id="zaglushka_23"></info_portion>
+<info_portion id="zaglushka_24"></info_portion>
+<info_portion id="zaglushka_25"></info_portion>
+<info_portion id="zaglushka_26"></info_portion>
+<info_portion id="zaglushka_27"></info_portion>
+<info_portion id="zaglushka_28"></info_portion>
+<info_portion id="zaglushka_29"></info_portion>
+<info_portion id="zaglushka_30"></info_portion>
+<info_portion id="zaglushka_31"></info_portion>
+<info_portion id="zaglushka_32"></info_portion>
+<info_portion id="zaglushka_33"></info_portion>
+<info_portion id="zaglushka_34"></info_portion>
+<info_portion id="zaglushka_35"></info_portion>
+<info_portion id="zaglushka_36"></info_portion>
+<info_portion id="zaglushka_37"></info_portion>
+<info_portion id="zaglushka_38"></info_portion>
+<info_portion id="zaglushka_39"></info_portion>
+<!-- <info_portion id="zaglushka_40"></info_portion> -->
+<info_portion id="zaglushka_41"></info_portion>
+<info_portion id="zaglushka_42"></info_portion>
+<info_portion id="zaglushka_43"></info_portion>
+<info_portion id="zaglushka_44"></info_portion>
+<info_portion id="zaglushka_45"></info_portion>
+<info_portion id="zaglushka_46"></info_portion>
+<info_portion id="zaglushka_47"></info_portion>
+<!-- <info_portion id="zaglushka_48"></info_portion> -->
+<!-- <info_portion id="zaglushka_49"></info_portion> -->
+<info_portion id="zaglushka_50"></info_portion>
+<info_portion id="zaglushka_51"></info_portion>
+<info_portion id="zaglushka_52"></info_portion>
+<info_portion id="zaglushka_53"></info_portion>
+<info_portion id="zaglushka_54"></info_portion>
+<info_portion id="zaglushka_55"></info_portion>
+<!-- <info_portion id="zaglushka_56"></info_portion> -->
+<info_portion id="zaglushka_57"></info_portion>
+<info_portion id="zaglushka_58"></info_portion>
+<info_portion id="zaglushka_59"></info_portion>
+<info_portion id="zaglushka_60"></info_portion>
+<info_portion id="zaglushka_61"></info_portion>
+<info_portion id="zaglushka_62"></info_portion>
+<info_portion id="zaglushka_63"></info_portion>
+<info_portion id="zaglushka_64"></info_portion>
+<info_portion id="zaglushka_65"></info_portion>
+<info_portion id="zaglushka_66"></info_portion>
+<info_portion id="zaglushka_67"></info_portion>
+<info_portion id="zaglushka_68"></info_portion>
+<info_portion id="zaglushka_69"></info_portion>
+<info_portion id="zaglushka_70"></info_portion>
+<info_portion id="zaglushka_71"></info_portion>
+<info_portion id="zaglushka_72"></info_portion>
+<info_portion id="zaglushka_72_dubl"></info_portion>
+<info_portion id="zaglushka_73"></info_portion>
+<info_portion id="zaglushka_74"></info_portion>
+<info_portion id="zaglushka_75"></info_portion>
+<info_portion id="zaglushka_76"></info_portion>
+<info_portion id="zaglushka_77"></info_portion>
+<info_portion id="zaglushka_78"></info_portion>
+<info_portion id="zaglushka_79"></info_portion>
+<info_portion id="zaglushka_80"></info_portion>
+<info_portion id="zaglushka_81"></info_portion>
+<info_portion id="zaglushka_82"></info_portion>
+<info_portion id="zaglushka_83"></info_portion>
+<info_portion id="zaglushka_84"></info_portion>
+<info_portion id="zaglushka_85"></info_portion>
+<info_portion id="zaglushka_86"></info_portion>
+<info_portion id="zaglushka_87"></info_portion>
+<info_portion id="zaglushka_88"></info_portion>
+<info_portion id="zaglushka_89"></info_portion>
+<info_portion id="zaglushka_90"></info_portion>
+<info_portion id="zaglushka_91"></info_portion>
+<info_portion id="zaglushka_92"></info_portion>
+<info_portion id="zaglushka_93"></info_portion>
+<info_portion id="zaglushka_94"></info_portion>
+<info_portion id="zaglushka_95"></info_portion>
+<info_portion id="zaglushka_96"></info_portion>
+<info_portion id="zaglushka_97"></info_portion>
+<info_portion id="zaglushka_98"></info_portion>
+<info_portion id="zaglushka_99"></info_portion>
+<info_portion id="zaglushka_100"></info_portion>
+<info_portion id="zaglushka_101"></info_portion>
+<info_portion id="zaglushka_102"></info_portion>
+<!-- <info_portion id="zaglushka_103"></info_portion> -->
+<info_portion id="zaglushka_104"></info_portion>
+<info_portion id="zaglushka_105"></info_portion>
+<info_portion id="zaglushka_106"></info_portion>
+<info_portion id="zaglushka_107"></info_portion>
+<info_portion id="zaglushka_108"></info_portion>
+<info_portion id="zaglushka_109"></info_portion>
+<info_portion id="zaglushka_110"></info_portion>
+<info_portion id="zaglushka_111"></info_portion>
+<info_portion id="zaglushka_112"></info_portion>
+<info_portion id="zaglushka_113"></info_portion>
+<info_portion id="zaglushka_114"></info_portion>
+<info_portion id="zaglushka_115"></info_portion>
+<info_portion id="zaglushka_116"></info_portion>
+<info_portion id="zaglushka_117"></info_portion>
+<info_portion id="zaglushka_118"></info_portion>
+<info_portion id="zaglushka_119"></info_portion>
+<info_portion id="zaglushka_120"></info_portion>
+<info_portion id="zaglushka_121"></info_portion>
+<info_portion id="zaglushka_122"></info_portion>
+<info_portion id="zaglushka_123"></info_portion>
+<info_portion id="zaglushka_124"></info_portion>
+<info_portion id="zaglushka_125"></info_portion>
+<info_portion id="zaglushka_126"></info_portion>
+<info_portion id="zaglushka_127"></info_portion>
+<info_portion id="zaglushka_128"></info_portion>
+<info_portion id="zaglushka_129"></info_portion>
+<info_portion id="zaglushka_130"></info_portion>
+<info_portion id="zaglushka_131"></info_portion>
+<info_portion id="zaglushka_132"></info_portion>
+<info_portion id="zaglushka_133"></info_portion>
+<info_portion id="zaglushka_134"></info_portion>
+<info_portion id="zaglushka_135"></info_portion>
+<info_portion id="zaglushka_136"></info_portion>
+<info_portion id="zaglushka_137"></info_portion>
+<info_portion id="zaglushka_138"></info_portion>
+<info_portion id="zaglushka_139"></info_portion>
+<info_portion id="zaglushka_140"></info_portion>
+<info_portion id="zaglushka_141"></info_portion>
+<info_portion id="zaglushka_142"></info_portion>
+<info_portion id="zaglushka_143"></info_portion>
+<info_portion id="zaglushka_144"></info_portion>
+<info_portion id="zaglushka_145"></info_portion>
+<info_portion id="zaglushka_146"></info_portion>
+<info_portion id="zaglushka_147"></info_portion>
+<info_portion id="zaglushka_148"></info_portion>
+<info_portion id="zaglushka_149"></info_portion>
+<info_portion id="zaglushka_150"></info_portion>
+<info_portion id="zaglushka_151"></info_portion>
+<info_portion id="zaglushka_152"></info_portion>
+<info_portion id="zaglushka_153"></info_portion>
+<info_portion id="zaglushka_154"></info_portion>
+<info_portion id="zaglushka_155"></info_portion>
+<info_portion id="zaglushka_156"></info_portion>
+<info_portion id="zaglushka_157"></info_portion>
+<info_portion id="zaglushka_158"></info_portion>
+<info_portion id="zaglushka_159"></info_portion>
+<info_portion id="zaglushka_160"></info_portion>
+<info_portion id="zaglushka_161"></info_portion>
+<info_portion id="zaglushka_162"></info_portion>
+<info_portion id="zaglushka_163"></info_portion>
+<info_portion id="zaglushka_164"></info_portion>
+<info_portion id="zaglushka_165"></info_portion>
+<info_portion id="zaglushka_166"></info_portion>
+<info_portion id="zaglushka_167"></info_portion>
+<info_portion id="zaglushka_168"></info_portion>
+<info_portion id="zaglushka_169"></info_portion>
+<info_portion id="zaglushka_170"></info_portion>
+<info_portion id="zaglushka_171"></info_portion>
+<info_portion id="zaglushka_172"></info_portion>
+<info_portion id="zaglushka_173"></info_portion>
+<info_portion id="zaglushka_174"></info_portion>
+<info_portion id="zaglushka_175"></info_portion>
+<info_portion id="zaglushka_176"></info_portion>
+<info_portion id="zaglushka_177"></info_portion>
+<info_portion id="zaglushka_178"></info_portion>
+<info_portion id="zaglushka_179"></info_portion>
+<info_portion id="zaglushka_180"></info_portion>
+<info_portion id="zaglushka_181"></info_portion>
+<!-- <info_portion id="zaglushka_182"></info_portion> -->
+<info_portion id="zaglushka_183"></info_portion>
+<info_portion id="zaglushka_184"></info_portion>
+<info_portion id="zaglushka_185"></info_portion>
+<info_portion id="zaglushka_186"></info_portion>
+<info_portion id="zaglushka_187"></info_portion>
+<info_portion id="zaglushka_188"></info_portion>
+<info_portion id="zaglushka_189"></info_portion>
+<info_portion id="zaglushka_190"></info_portion>
+<info_portion id="zaglushka_191"></info_portion>
+<info_portion id="zaglushka_192"></info_portion>
+<info_portion id="zaglushka_193"></info_portion>
+<info_portion id="zaglushka_194"></info_portion>
+<info_portion id="zaglushka_195"></info_portion>
+<info_portion id="zaglushka_196"></info_portion>
+<info_portion id="zaglushka_197"></info_portion>
+<info_portion id="zaglushka_198"></info_portion>
+<info_portion id="zaglushka_199"></info_portion>
+<info_portion id="zaglushka_200"></info_portion>
+<info_portion id="zaglushka_201"></info_portion>
+<info_portion id="zaglushka_202"></info_portion>
+<info_portion id="zaglushka_203"></info_portion>
+<info_portion id="zaglushka_204"></info_portion>
+<info_portion id="zaglushka_205"></info_portion>
+<info_portion id="zaglushka_206"></info_portion>
+<info_portion id="zaglushka_207"></info_portion>
+<info_portion id="zaglushka_208"></info_portion>
+<info_portion id="zaglushka_209"></info_portion>
+<info_portion id="zaglushka_210"></info_portion>
+<info_portion id="zaglushka_211"></info_portion>
+<info_portion id="zaglushka_212"></info_portion>
+<info_portion id="zaglushka_213"></info_portion>
+<info_portion id="zaglushka_214"></info_portion>
+<info_portion id="zaglushka_215"></info_portion>
+<info_portion id="zaglushka_216"></info_portion>
+<info_portion id="zaglushka_217"></info_portion>
+<info_portion id="zaglushka_218"></info_portion>
+<info_portion id="zaglushka_219"></info_portion>
+<info_portion id="zaglushka_220"></info_portion>
+<info_portion id="zaglushka_221"></info_portion>
+<info_portion id="zaglushka_222"></info_portion>
+<info_portion id="zaglushka_223"></info_portion>
+<info_portion id="zaglushka_224"></info_portion>
+<info_portion id="zaglushka_225"></info_portion>
+<info_portion id="zaglushka_226"></info_portion>
+<info_portion id="zaglushka_227"></info_portion>
+<info_portion id="zaglushka_228"></info_portion>
+<info_portion id="zaglushka_229"></info_portion>
+<info_portion id="zaglushka_230"></info_portion>
+<info_portion id="zaglushka_231"></info_portion>
+<!-- <info_portion id="zaglushka_232"></info_portion> -->
+<info_portion id="zaglushka_233"></info_portion>
+<info_portion id="zaglushka_234"></info_portion>
+<info_portion id="zaglushka_235"></info_portion>
+<info_portion id="zaglushka_236"></info_portion>
+<info_portion id="zaglushka_237"></info_portion>
+<info_portion id="zaglushka_238"></info_portion>
+<info_portion id="zaglushka_239"></info_portion>
+<info_portion id="zaglushka_240"></info_portion>
+<info_portion id="zaglushka_241"></info_portion>
+<info_portion id="zaglushka_242"></info_portion>
+<info_portion id="zaglushka_243"></info_portion>
+<info_portion id="zaglushka_244"></info_portion>
+<info_portion id="zaglushka_245"></info_portion>
+<info_portion id="zaglushka_246"></info_portion>
+<info_portion id="zaglushka_247"></info_portion>
+<info_portion id="zaglushka_248"></info_portion>
+<info_portion id="zaglushka_249"></info_portion>
+<info_portion id="zaglushka_250"></info_portion>
+<info_portion id="zaglushka_251"></info_portion>
+<info_portion id="zaglushka_252"></info_portion>
+<info_portion id="zaglushka_253"></info_portion>
+<info_portion id="zaglushka_254"></info_portion>
+<info_portion id="zaglushka_255"></info_portion>
+<info_portion id="zaglushka_256"></info_portion>
+<info_portion id="zaglushka_257"></info_portion>
+<info_portion id="zaglushka_258"></info_portion>
+<info_portion id="zaglushka_259"></info_portion>
+<info_portion id="zaglushka_260"></info_portion>
+<info_portion id="zaglushka_261"></info_portion>
+<info_portion id="zaglushka_262"></info_portion>
+<info_portion id="zaglushka_263"></info_portion>
+<info_portion id="zaglushka_264"></info_portion>
+<info_portion id="zaglushka_265"></info_portion>
+<info_portion id="zaglushka_266"></info_portion>
+<info_portion id="zaglushka_267"></info_portion>
+<info_portion id="zaglushka_268"></info_portion>
+<info_portion id="zaglushka_269"></info_portion>
+<info_portion id="zaglushka_270"></info_portion>
+<info_portion id="zaglushka_271"></info_portion>
+<info_portion id="zaglushka_272"></info_portion>
+<info_portion id="zaglushka_273"></info_portion>
+<info_portion id="zaglushka_274"></info_portion>
+<info_portion id="zaglushka_275"></info_portion>
+<info_portion id="zaglushka_276"></info_portion>
+<info_portion id="zaglushka_277"></info_portion>
+<info_portion id="zaglushka_278"></info_portion>
+<info_portion id="zaglushka_279"></info_portion>
+<info_portion id="zaglushka_280"></info_portion>
+<info_portion id="zaglushka_281"></info_portion>
+<info_portion id="zaglushka_282"></info_portion>
+<info_portion id="zaglushka_283"></info_portion>
+<info_portion id="zaglushka_284"></info_portion>
+<info_portion id="zaglushka_285"></info_portion>
+<info_portion id="zaglushka_286"></info_portion>
+<!-- <info_portion id="zaglushka_287"></info_portion> -->
+<info_portion id="zaglushka_288"></info_portion>
+<info_portion id="zaglushka_289"></info_portion>
+<info_portion id="zaglushka_290"></info_portion>
+<info_portion id="zaglushka_291"></info_portion>
+<info_portion id="zaglushka_292"></info_portion>
+<info_portion id="zaglushka_293"></info_portion>
+<info_portion id="zaglushka_294"></info_portion>
+<info_portion id="zaglushka_295"></info_portion>
+<info_portion id="zaglushka_296"></info_portion>
+<info_portion id="zaglushka_297"></info_portion>
+<info_portion id="zaglushka_298"></info_portion>
+<info_portion id="zaglushka_299"></info_portion>
+<info_portion id="zaglushka_300"></info_portion>
+<info_portion id="zaglushka_301"></info_portion>
+<info_portion id="zaglushka_302"></info_portion>
+<!-- <info_portion id="zaglushka_303"></info_portion> -->
+<info_portion id="zaglushka_304"></info_portion>
+<info_portion id="zaglushka_305"></info_portion>
+<info_portion id="zaglushka_306"></info_portion>
+<info_portion id="zaglushka_307"></info_portion>
+<info_portion id="zaglushka_308"></info_portion>
+<info_portion id="zaglushka_309"></info_portion>
+<info_portion id="zaglushka_310"></info_portion>
+<info_portion id="zaglushka_311"></info_portion>
+<info_portion id="zaglushka_312"></info_portion>
+<info_portion id="zaglushka_313"></info_portion>
+<info_portion id="zaglushka_314"></info_portion>
+<info_portion id="zaglushka_315"></info_portion>
+<info_portion id="zaglushka_316"></info_portion>
+<info_portion id="zaglushka_317"></info_portion>
+<info_portion id="zaglushka_318"></info_portion>
+<info_portion id="zaglushka_319"></info_portion>
+<info_portion id="zaglushka_320"></info_portion>
+<info_portion id="zaglushka_321"></info_portion>
+<info_portion id="zaglushka_322"></info_portion>
+<info_portion id="zaglushka_323"></info_portion>
+<info_portion id="zaglushka_324"></info_portion>
+<info_portion id="zaglushka_325"></info_portion>
+<info_portion id="zaglushka_326"></info_portion>
+<info_portion id="zaglushka_327"></info_portion>
+<info_portion id="zaglushka_328"></info_portion>
+<info_portion id="zaglushka_329"></info_portion>
+<info_portion id="zaglushka_330"></info_portion>
+<info_portion id="zaglushka_331"></info_portion>
+<info_portion id="zaglushka_332"></info_portion>
+<info_portion id="zaglushka_333"></info_portion>
+<info_portion id="zaglushka_334"></info_portion>
+<info_portion id="zaglushka_335"></info_portion>
+<info_portion id="zaglushka_336"></info_portion>
+<info_portion id="zaglushka_337"></info_portion>
+<info_portion id="zaglushka_338"></info_portion>
+<info_portion id="zaglushka_339"></info_portion>
+<info_portion id="zaglushka_340"></info_portion>
+<info_portion id="zaglushka_341"></info_portion>
+<info_portion id="zaglushka_342"></info_portion>
+<info_portion id="zaglushka_343"></info_portion>
+<info_portion id="zaglushka_344"></info_portion>
+<info_portion id="zaglushka_345"></info_portion>
+<info_portion id="zaglushka_346"></info_portion>
+<info_portion id="zaglushka_347"></info_portion>
+<info_portion id="zaglushka_348"></info_portion>
+<info_portion id="zaglushka_349"></info_portion>
+<info_portion id="zaglushka_350"></info_portion>
+<info_portion id="zaglushka_351"></info_portion>
+<info_portion id="zaglushka_352"></info_portion>
+<info_portion id="zaglushka_353"></info_portion>
+<info_portion id="zaglushka_354"></info_portion>
+<info_portion id="zaglushka_355"></info_portion>
+<info_portion id="zaglushka_356"></info_portion>
+<info_portion id="zaglushka_357"></info_portion>
+<info_portion id="zaglushka_358"></info_portion>
+<info_portion id="zaglushka_359"></info_portion>
+<info_portion id="zaglushka_360"></info_portion>
+<info_portion id="zaglushka_361"></info_portion>
+<info_portion id="zaglushka_362"></info_portion>
+<info_portion id="zaglushka_363"></info_portion>
+<info_portion id="zaglushka_364"></info_portion>
+<info_portion id="zaglushka_365"></info_portion>
+<info_portion id="zaglushka_366"></info_portion>
+<info_portion id="zaglushka_367"></info_portion>
+<info_portion id="zaglushka_368"></info_portion>
+<info_portion id="zaglushka_369"></info_portion>
+<info_portion id="zaglushka_370"></info_portion>
+<info_portion id="zaglushka_371"></info_portion>
+<info_portion id="zaglushka_372"></info_portion>
+<info_portion id="zaglushka_373"></info_portion>
+<info_portion id="zaglushka_374"></info_portion>
+<info_portion id="zaglushka_375"></info_portion>
+<info_portion id="zaglushka_376"></info_portion>
+<info_portion id="zaglushka_377"></info_portion>
+<info_portion id="zaglushka_378"></info_portion>
+<info_portion id="zaglushka_379"></info_portion>
+<info_portion id="zaglushka_380"></info_portion>
+<info_portion id="zaglushka_381"></info_portion>
+<info_portion id="zaglushka_382"></info_portion>
+<info_portion id="zaglushka_383"></info_portion>
+<info_portion id="zaglushka_384"></info_portion>
+<info_portion id="zaglushka_385"></info_portion>
+<info_portion id="zaglushka_386"></info_portion>
+<info_portion id="zaglushka_387"></info_portion>
+<info_portion id="zaglushka_388"></info_portion>
+<info_portion id="zaglushka_389"></info_portion>
+<info_portion id="zaglushka_390"></info_portion>
+<info_portion id="zaglushka_391"></info_portion>
+<info_portion id="zaglushka_392"></info_portion>
+<info_portion id="zaglushka_393"></info_portion>
+<info_portion id="zaglushka_394"></info_portion>
+<info_portion id="zaglushka_395"></info_portion>
+<info_portion id="zaglushka_396"></info_portion>
+<info_portion id="zaglushka_397"></info_portion>
+<info_portion id="zaglushka_398"></info_portion>
+<info_portion id="zaglushka_399"></info_portion>
+<info_portion id="zaglushka_400"></info_portion>
+<info_portion id="zaglushka_401"></info_portion>
+<info_portion id="zaglushka_402"></info_portion>
+<info_portion id="zaglushka_403"></info_portion>
+<info_portion id="zaglushka_404"></info_portion>
+<info_portion id="zaglushka_405"></info_portion>
+<info_portion id="zaglushka_406"></info_portion>
+<info_portion id="zaglushka_407"></info_portion>
+<info_portion id="zaglushka_408"></info_portion>
+<info_portion id="zaglushka_409"></info_portion>
+<info_portion id="zaglushka_410"></info_portion>
+<info_portion id="zaglushka_411"></info_portion>
+<info_portion id="zaglushka_412"></info_portion>
+<info_portion id="zaglushka_413"></info_portion>
+<info_portion id="zaglushka_414"></info_portion>
+<info_portion id="zaglushka_415"></info_portion>
+<info_portion id="zaglushka_416"></info_portion>
+<info_portion id="zaglushka_417"></info_portion>
+<info_portion id="zaglushka_418"></info_portion>
+<info_portion id="zaglushka_419"></info_portion>
+<info_portion id="zaglushka_420"></info_portion>
+<info_portion id="zaglushka_421"></info_portion>
+<info_portion id="zaglushka_422"></info_portion>
+<info_portion id="zaglushka_423"></info_portion>
+<info_portion id="zaglushka_424"></info_portion>
+<info_portion id="zaglushka_425"></info_portion>
+<info_portion id="zaglushka_426"></info_portion>
+<info_portion id="zaglushka_427"></info_portion>
+<info_portion id="zaglushka_428"></info_portion>
+<info_portion id="zaglushka_429"></info_portion>
+<info_portion id="zaglushka_430"></info_portion>
+<info_portion id="zaglushka_431"></info_portion>
+<info_portion id="zaglushka_432"></info_portion>
+<info_portion id="zaglushka_433"></info_portion>
+<info_portion id="zaglushka_434"></info_portion>
+<info_portion id="zaglushka_435"></info_portion>
+<info_portion id="zaglushka_436"></info_portion>
+<info_portion id="zaglushka_437"></info_portion>
+<info_portion id="zaglushka_438"></info_portion>
+<info_portion id="zaglushka_439"></info_portion>
+<info_portion id="zaglushka_440"></info_portion>
+<!-- <info_portion id="zaglushka_441"></info_portion> -->
+<info_portion id="zaglushka_442"></info_portion>
+<info_portion id="zaglushka_443"></info_portion>
+<info_portion id="zaglushka_444"></info_portion>
+<info_portion id="zaglushka_445"></info_portion>
+<info_portion id="zaglushka_446"></info_portion>
+<!-- <info_portion id="zaglushka_447"></info_portion> -->
+<info_portion id="zaglushka_448"></info_portion>
+<info_portion id="zaglushka_449"></info_portion>
+<info_portion id="zaglushka_450"></info_portion>
+<info_portion id="zaglushka_451"></info_portion>
+<info_portion id="zaglushka_452"></info_portion>
+<info_portion id="zaglushka_453"></info_portion>
+<info_portion id="zaglushka_454"></info_portion>
+<info_portion id="zaglushka_455"></info_portion>
+<info_portion id="zaglushka_456"></info_portion>
+<info_portion id="zaglushka_457"></info_portion>
+<info_portion id="zaglushka_458"></info_portion>
+<info_portion id="zaglushka_459"></info_portion>
+<info_portion id="zaglushka_460"></info_portion>
+<info_portion id="zaglushka_461"></info_portion>
+<info_portion id="zaglushka_462"></info_portion>
+<info_portion id="zaglushka_463"></info_portion>
+<info_portion id="zaglushka_464"></info_portion>
+<info_portion id="zaglushka_465"></info_portion>
+<info_portion id="zaglushka_466"></info_portion>
+<info_portion id="zaglushka_467"></info_portion>
+<info_portion id="zaglushka_468"></info_portion>
+<info_portion id="zaglushka_469"></info_portion>
+<info_portion id="zaglushka_470"></info_portion>
+<info_portion id="zaglushka_471"></info_portion>
+<info_portion id="zaglushka_472"></info_portion>
+<info_portion id="zaglushka_473"></info_portion>
+<info_portion id="zaglushka_474"></info_portion>
+<info_portion id="zaglushka_475"></info_portion>
+<info_portion id="zaglushka_476"></info_portion>
+<info_portion id="zaglushka_477"></info_portion>
+<info_portion id="zaglushka_478"></info_portion>
+<info_portion id="zaglushka_479"></info_portion>
+<info_portion id="zaglushka_480"></info_portion>
+<info_portion id="zaglushka_481"></info_portion>
+<info_portion id="zaglushka_482"></info_portion>
+<info_portion id="zaglushka_483"></info_portion>
+<info_portion id="zaglushka_484"></info_portion>
+<info_portion id="zaglushka_485"></info_portion>
+<info_portion id="zaglushka_486"></info_portion>
+<info_portion id="zaglushka_487"></info_portion>
+<info_portion id="zaglushka_488"></info_portion>
+<info_portion id="zaglushka_489"></info_portion>
+<info_portion id="zaglushka_490"></info_portion>
+<info_portion id="zaglushka_491"></info_portion>
+<info_portion id="zaglushka_492"></info_portion>
+<info_portion id="zaglushka_493"></info_portion>
+<info_portion id="zaglushka_494"></info_portion>
+<info_portion id="zaglushka_495"></info_portion>
+<info_portion id="zaglushka_496"></info_portion>
+<info_portion id="zaglushka_497"></info_portion>
+<info_portion id="zaglushka_498"></info_portion>
+<info_portion id="zaglushka_499"></info_portion>
+<info_portion id="zaglushka_500"></info_portion>
+<info_portion id="zaglushka_501"></info_portion>
+<info_portion id="zaglushka_502"></info_portion>
+<info_portion id="zaglushka_503"></info_portion>
+<info_portion id="zaglushka_504"></info_portion>
+<info_portion id="zaglushka_505"></info_portion>
+<info_portion id="zaglushka_506"></info_portion>
+<info_portion id="zaglushka_507"></info_portion>
+<info_portion id="zaglushka_508"></info_portion>
+<info_portion id="zaglushka_509"></info_portion>
+<info_portion id="zaglushka_510"></info_portion>
+<info_portion id="zaglushka_511"></info_portion>
+<info_portion id="zaglushka_512"></info_portion>
+<info_portion id="zaglushka_513"></info_portion>
+<info_portion id="zaglushka_514"></info_portion>
+<info_portion id="zaglushka_515"></info_portion>
+<info_portion id="zaglushka_516"></info_portion>
+<info_portion id="zaglushka_517"></info_portion>
+<info_portion id="zaglushka_518"></info_portion>
+<info_portion id="zaglushka_519"></info_portion>
+<info_portion id="zaglushka_520"></info_portion>
+<info_portion id="zaglushka_521"></info_portion>
+<info_portion id="zaglushka_522"></info_portion>
+<info_portion id="zaglushka_523"></info_portion>
+<info_portion id="zaglushka_524"></info_portion>
+<info_portion id="zaglushka_525"></info_portion>
+<info_portion id="zaglushka_526"></info_portion>
+<info_portion id="zaglushka_527"></info_portion>
+<info_portion id="zaglushka_528"></info_portion>
+<info_portion id="zaglushka_529"></info_portion>
+<info_portion id="zaglushka_530"></info_portion>
+<info_portion id="zaglushka_531"></info_portion>
+<info_portion id="zaglushka_532"></info_portion>
+<info_portion id="zaglushka_533"></info_portion>
+<info_portion id="zaglushka_534"></info_portion>
+<info_portion id="zaglushka_535"></info_portion>
+<info_portion id="zaglushka_536"></info_portion>
+<info_portion id="zaglushka_537"></info_portion>
+<info_portion id="zaglushka_538"></info_portion>
+<info_portion id="zaglushka_539"></info_portion>
+<info_portion id="zaglushka_540"></info_portion>
+<info_portion id="zaglushka_541"></info_portion>
+<info_portion id="zaglushka_542"></info_portion>
+<info_portion id="zaglushka_543"></info_portion>
+<info_portion id="zaglushka_544"></info_portion>
+<info_portion id="zaglushka_545"></info_portion>
+<info_portion id="zaglushka_546"></info_portion>
+<info_portion id="zaglushka_547"></info_portion>
+<info_portion id="zaglushka_548"></info_portion>
+<info_portion id="zaglushka_549"></info_portion>
+<info_portion id="zaglushka_550"></info_portion>
+<info_portion id="zaglushka_551"></info_portion>
+<info_portion id="zaglushka_552"></info_portion>
+<info_portion id="zaglushka_553"></info_portion>
+<info_portion id="zaglushka_554"></info_portion>
+<info_portion id="zaglushka_555"></info_portion>
+<info_portion id="zaglushka_556"></info_portion>
+<info_portion id="zaglushka_557"></info_portion>
+<info_portion id="zaglushka_558"></info_portion>
+<info_portion id="zaglushka_559"></info_portion>
+<info_portion id="zaglushka_560"></info_portion>
+<info_portion id="zaglushka_561"></info_portion>
+<info_portion id="zaglushka_562"></info_portion>
+<info_portion id="zaglushka_563"></info_portion>
+<info_portion id="zaglushka_564"></info_portion>
+<info_portion id="zaglushka_565"></info_portion>
+<info_portion id="zaglushka_566"></info_portion>
+<info_portion id="zaglushka_567"></info_portion>
+<info_portion id="zaglushka_568"></info_portion>
+<info_portion id="zaglushka_569"></info_portion>
+<info_portion id="zaglushka_570"></info_portion>
+<info_portion id="zaglushka_571"></info_portion>
+<info_portion id="zaglushka_572"></info_portion>
+<info_portion id="zaglushka_573"></info_portion>
+<info_portion id="zaglushka_574"></info_portion>
+<info_portion id="zaglushka_575"></info_portion>
+<info_portion id="zaglushka_576"></info_portion>
+<info_portion id="zaglushka_577"></info_portion>
+<info_portion id="zaglushka_578"></info_portion>
+<info_portion id="zaglushka_579"></info_portion>
+<info_portion id="zaglushka_580"></info_portion>
+<info_portion id="zaglushka_581"></info_portion>
+<info_portion id="zaglushka_582"></info_portion>
+<info_portion id="zaglushka_582_1"></info_portion>
+<info_portion id="zaglushka_583"></info_portion>
+<info_portion id="zaglushka_584"></info_portion>
+<info_portion id="zaglushka_585"></info_portion>
+<info_portion id="zaglushka_586"></info_portion>
+<info_portion id="zaglushka_587"></info_portion>
+<info_portion id="zaglushka_583_1"></info_portion>
+<info_portion id="zaglushka_584_1"></info_portion>
+<info_portion id="zaglushka_585_1"></info_portion>
+<info_portion id="zaglushka_586_1"></info_portion>
+<info_portion id="zaglushka_587_1"></info_portion>
+<info_portion id="zaglushka_588"></info_portion>
+<info_portion id="zaglushka_589"></info_portion>
+<info_portion id="zaglushka_590"></info_portion>
+
+<!-- <info_portion id="zaglushka_59"></info_portion> -->
+
+<info_portion id="last_stalker_test_start"></info_portion>
+<info_portion id="last_stalker_test_start_dubl"></info_portion>
+
+<info_portion id="last_stalker_start"></info_portion>
+<info_portion id="taked_ak74u"></info_portion>
+<info_portion id="esc_gate_open"></info_portion>
+<info_portion id="agr_cutscene_start"></info_portion>
+<info_portion id="agr_cutscene_wait"></info_portion>
+<info_portion id="gen_grek_clip_start"></info_portion>
+<info_portion id="sor_clip_start"></info_portion>
+<info_portion id="sor_clip_heli_start"></info_portion>
+<info_portion id="pri_sniper_start"></info_portion>
+<info_portion id="grek_start_move"></info_portion>
+<info_portion id="clip_degen_spawn"></info_portion>
+<info_portion id="has_knife_d"></info_portion>
+<info_portion id="has_knife_bak"></info_portion>
+<info_portion id="has_knife_map"></info_portion>
+<info_portion id="has_knife_tanto"></info_portion>
+<info_portion id="has_knife_d_test"></info_portion>
+<info_portion id="has_knife_als"></info_portion>
+<info_portion id="marsh_peshera_burer_spawn"></info_portion>
+<info_portion id="marsh_actor_see_jj_knifes"></info_portion>
+<info_portion id="yan_desant_4_meet_actor"></info_portion>
+<info_portion id="garfirst_shamray_spawn"></info_portion>
+<info_portion id="esc_shamray_spawn"></info_portion>
+<info_portion id="esc_shamray_bandit_01_spawn"></info_portion>
+<info_portion id="esc_shamray_bandit_02_spawn"></info_portion>
+<info_portion id="esc_otstoynik_entrance_allowed"></info_portion>
+<info_portion id="told_primus"></info_portion>
+<info_portion id="arrival_on_stalkers_fail"></info_portion>
+<info_portion id="arrival_on_stalkers_refusal"></info_portion>
+<info_portion id="told_sor_sidor_1"></info_portion>
+<info_portion id="organize_brigada_told_vano"></info_portion>
+<info_portion id="organize_brigada_told_kosta"></info_portion>
+<info_portion id="kosta_has_refused"></info_portion>
+<info_portion id="kosta_has_agreed"></info_portion>
+<info_portion id="told_waterrat"></info_portion>
+<info_portion id="marsh_tankist_group_spawn"></info_portion>
+<info_portion id="marsh_b_mogilshik_1_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_2_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_3_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_4_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_5_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_6_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_7_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_8_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_9_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_10_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_11_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_12_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_13_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_14_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_15_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_16_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_17_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_18_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_19_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_20_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_21_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_22_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_23_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_24_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_25_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_26_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_27_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_28_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_29_dead"></info_portion>
+<info_portion id="marsh_b_mogilshik_30_dead"></info_portion>
+<info_portion id="gone_scout_1_dead"></info_portion>
+<info_portion id="gone_scout_2_dead"></info_portion>
+<info_portion id="see_gone_scouts_dead"></info_portion>
+<info_portion id="sor_grc_offenced"></info_portion>
+<info_portion id="sor_gorodok_grc_offenced"></info_portion>
+<!-- <info_portion id="see_marsh_sevchuk"></info_portion> -->
+<!-- <info_portion id="take_necronomikon"></info_portion> -->
+<info_portion id="has_searched_corpse_1"></info_portion>
+<info_portion id="has_searched_corpse_2"></info_portion>
+<info_portion id="told_marsh_bunch"></info_portion>
+<info_portion id="told_marsh_alexander"></info_portion>
+<info_portion id="take_icon_1"></info_portion>
+<info_portion id="take_icon_2"></info_portion>
+<info_portion id="told_marsh_siply_1"></info_portion>
+<!-- <info_portion id="told_marsh_gruver_1"></info_portion> -->
+<info_portion id="esc_death_timer_start"></info_portion>
+<info_portion id="esc_death_timer_stop"></info_portion>
+<info_portion id="scaned_lim_ss_box"></info_portion>
+<info_portion id="agr_generator_on"></info_portion>
+<info_portion id="agr_generator_start"></info_portion>
+<info_portion id="agr_generator_off"></info_portion>
+<info_portion id="panz_generator_on"></info_portion>
+<info_portion id="panz_generator_start_1"></info_portion>
+<info_portion id="panz_generator_start_2"></info_portion>
+<info_portion id="kill_jj_fail"></info_portion>
+<info_portion id="panzhc_bag_1_isdead"></info_portion>
+<info_portion id="panzhc_bag_2_isdead"></info_portion>
+<info_portion id="panzhc_bag_3_isdead"></info_portion>
+<info_portion id="panzhc_bag_4_isdead"></info_portion>
+<info_portion id="agru_bag_isdead"></info_portion>
+<info_portion id="panz_armed_arestant_1_isdead"></info_portion>
+<info_portion id="panz_armed_arestant_2_isdead"></info_portion>
+<info_portion id="panz_armed_arestant_3_isdead"></info_portion>
+<info_portion id="panz_armed_arestant_4_isdead"></info_portion>
+<info_portion id="panz_safe_opened"></info_portion>
+<info_portion id="panzhc_cutscene_start"></info_portion>
+<info_portion id="panzhc_door_blocked"></info_portion>
+<info_portion id="agru_code_entered"></info_portion>
+<info_portion id="agr_code_entered"></info_portion>
+<info_portion id="agru_doorlocker_isbroken"></info_portion>
+<info_portion id="agru_doorlocker_isbroken_1"></info_portion>
+<info_portion id="agru_code1331_entered"></info_portion>
+<info_portion id="beacon_1_isunstuck"></info_portion>
+<info_portion id="beacon_2_isunstuck"></info_portion>
+<info_portion id="beacon_3_isunstuck"></info_portion>
+<info_portion id="beacon_4_isunstuck"></info_portion>
+<info_portion id="beacon_5_isunstuck"></info_portion>
+<info_portion id="yan_mm_cutscene_end"></info_portion>
+<info_portion id="card_is_inserted_1"></info_portion>
+<info_portion id="card_is_inserted_2"></info_portion>
+<info_portion id="card_is_inserted_3"></info_portion>
+<info_portion id="card_is_inserted_4"></info_portion>
+<info_portion id="access_code_is_entered_1"></info_portion>
+<info_portion id="access_code_is_entered_2"></info_portion>
+<info_portion id="access_code_is_entered_3"></info_portion>
+<info_portion id="access_code_is_entered_4"></info_portion>
+<info_portion id="agru_hsm_activated"></info_portion>
+<info_portion id="uv_light_torch_taked"></info_portion>
+<info_portion id="agru_with_desant"></info_portion>
+<info_portion id="agru_without_desant"></info_portion>
+<info_portion id="agru_desant_spawn"></info_portion>
+<info_portion id="agru_desant_raid_start"></info_portion>
+<info_portion id="agru_darkness_approach"></info_portion>
+<info_portion id="agru_dead_desant_spawn"></info_portion>
+<info_portion id="hsm_box_1_is_found"></info_portion>
+<info_portion id="agr_heli_get_hit"></info_portion>
+<info_portion id="transfer_agru_hsm_box_fail"></info_portion>
+<info_portion id="bun_code_door_1_open"></info_portion>
+<info_portion id="bun_code_door_2_open"></info_portion>
+<info_portion id="bun_code_door_3_open"></info_portion>
+<info_portion id="bun_generator_start"></info_portion>
+<info_portion id="bun_generator_start_1"></info_portion>
+<info_portion id="bun_generator_start_2"></info_portion>
+<info_portion id="bun_light_on"></info_portion>
+<info_portion id="kill_bun_killer"></info_portion>
+<info_portion id="gar_grc_speznaz_1_dead"></info_portion>
+<info_portion id="gar_grc_speznaz_2_dead"></info_portion>
+<info_portion id="gar_grc_speznaz_3_dead"></info_portion>
+<info_portion id="gar_grc_speznaz_4_dead"></info_portion>
+<info_portion id="gar_grc_speznaz_5_dead"></info_portion>
+<info_portion id="gar_grc_speznaz_6_dead"></info_portion>
+<info_portion id="gar_grc_speznaz_7_dead"></info_portion>
+<info_portion id="gar_grc_speznaz_spawn"></info_portion>
+<info_portion id="val_killer_1_dead"></info_portion>
+<info_portion id="val_killer_2_dead"></info_portion>
+<info_portion id="val_killer_3_dead"></info_portion>
+<info_portion id="val_killer_4_dead"></info_portion>
+<info_portion id="val_excursion_in_laboratory_alone"></info_portion>
+<info_portion id="val_excursion_in_laboratory_group"></info_portion>
+<info_portion id="has_talked_to_langolier"></info_portion>
+<info_portion id="has_talked_to_ben"></info_portion>
+<info_portion id="to_wake_guide_mikha"></info_portion>
+<info_portion id="val_excursion_in_laboratory_dont_meeting_sinoptic"></info_portion>
+<info_portion id="darklab_killers_spawn_1"></info_portion>
+<info_portion id="darklab_killers_spawn_2"></info_portion>
+<info_portion id="darklab_gone_through_manhole"></info_portion>
+<info_portion id="has_talked_to_sinoptic_val"></info_portion>
+<info_portion id="has_talked_to_sinoptic_gar"></info_portion>
+<info_portion id="darklab_langolier_spawn"></info_portion>
+<info_portion id="darklab_door_is_folded"></info_portion>
+<info_portion id="darklab_door_is_unclosed"></info_portion>
+<info_portion id="darklab_bag_spawn"></info_portion>
+<info_portion id="darklab_langolier_fastened_down_inside"></info_portion>
+<info_portion id="darklab_bag_attack"></info_portion>
+<info_portion id="darklab_langolier_dead"></info_portion>
+<info_portion id="val_big_boom"></info_portion>
+<info_portion id="val_door_is_opened"></info_portion>
+<!-- <info_portion id="about_dr_bravermann_name"></info_portion> -->
+<info_portion id="darklab_door_is_opened"></info_portion>
+<info_portion id="find_out_code_07966904"></info_portion>
+<info_portion id="find_out_code_31777"></info_portion>
+<info_portion id="darklab_horse_in_leather_coat"></info_portion>
+<info_portion id="darklab_grek_luzenko_talked_2"></info_portion>
+<info_portion id="darklab_grek_luzenko_talked_3"></info_portion>
+<info_portion id="gar_meet_sinoptik_1"></info_portion>
+<info_portion id="gar_meet_sinoptik_2"></info_portion>
+<info_portion id="panz_dialog_cutscene_start"></info_portion>
+<!-- <info_portion id="panz_dialog_cutscene_end"></info_portion> -->
+<info_portion id="panz_dialog_sound_start"></info_portion>
+
+<info_portion id="panz_grek_end_phrase_1"></info_portion>
+<info_portion id="panz_grek_end_phrase_2"></info_portion>
+<info_portion id="panz_grek_end_phrase_3"></info_portion>
+<info_portion id="panz_grek_end_phrase_4"></info_portion>
+<info_portion id="panz_grek_end_phrase_5"></info_portion>
+<info_portion id="panz_grek_end_phrase_6"></info_portion>
+<info_portion id="panz_panzer_end_phrase_1"></info_portion>
+<info_portion id="panz_panzer_end_phrase_2"></info_portion>
+<info_portion id="panz_panzer_end_phrase_3"></info_portion>
+<info_portion id="panz_panzer_end_phrase_4"></info_portion>
+<info_portion id="panz_panzer_end_phrase_5"></info_portion>
+<info_portion id="panz_panzer_end_phrase_6"></info_portion>
+<info_portion id="panz_panzer_end_phrase_7"></info_portion>
+
+<info_portion id="panz_grek_start_phrase_1"></info_portion>
+<info_portion id="panz_grek_start_phrase_2"></info_portion>
+<info_portion id="panz_grek_start_phrase_3"></info_portion>
+<info_portion id="panz_grek_start_phrase_4"></info_portion>
+<info_portion id="panz_grek_start_phrase_5"></info_portion>
+<info_portion id="panz_grek_start_phrase_6"></info_portion>
+<info_portion id="panz_panzer_start_phrase_1"></info_portion>
+<info_portion id="panz_panzer_start_phrase_2"></info_portion>
+<info_portion id="panz_panzer_start_phrase_3"></info_portion>
+<info_portion id="panz_panzer_start_phrase_4"></info_portion>
+<info_portion id="panz_panzer_start_phrase_5"></info_portion>
+<info_portion id="panz_panzer_start_phrase_6"></info_portion>
+<info_portion id="panz_panzer_start_phrase_7"></info_portion>
+<info_portion id="esc_cutscene_1_end"></info_portion>
+
+<info_portion id="esc_cutscene_start_phrase_1"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_2"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_3"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_4"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_5"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_6"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_7"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_8"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_9"></info_portion>
+<info_portion id="esc_cutscene_start_phrase_10"></info_portion>
+<info_portion id="esc_grek_megafon_1_1_start"></info_portion>
+<info_portion id="esc_grek_megafon_1_2_start"></info_portion>
+<info_portion id="esc_grek_megafon_1_3_start"></info_portion>
+<info_portion id="esc_grek_megafon_2_1_start"></info_portion>
+<info_portion id="esc_grek_megafon_2_2_start"></info_portion>
+<info_portion id="esc_grek_megafon_2_3_start"></info_portion>
+<info_portion id="has_found_panz_encryption_malyawa"></info_portion>
+<info_portion id="red_told_soker"></info_portion>
+<info_portion id="panz_pseudo_execution"></info_portion>
+<info_portion id="atp_switcher_on"></info_portion>
+<info_portion id="test_tushka_spawn"></info_portion>
+<info_portion id="waterrat_shmon"></info_portion>
+<info_portion id="val_door2x18lab_open"></info_portion>
+<info_portion id="zaglushka_for_val_langolier"></info_portion>
+<info_portion id="find_agru_code_malyawa"></info_portion>
+<info_portion id="find_agru_doctor_malyawa"></info_portion>
+<!-- <info_portion id="agr_saw_corpses"></info_portion> -->
+<!-- <info_portion id="agr_saw_corpses_under_task"></info_portion> -->
+<info_portion id="mil_saw_absense_group"></info_portion>
+<info_portion id="agr_taras_dictophone_start"></info_portion>
+<info_portion id="agr_taras_dictophone_stop"></info_portion>
+<info_portion id="has_found_obsidian_knife"></info_portion>
+<info_portion id="has_found_obsidian_knife_nonquest"></info_portion>
+<info_portion id="sor_grek_phrase_1_1_end"></info_portion>
+<info_portion id="sor_grek_phrase_1_2_end"></info_portion>
+<info_portion id="sor_grek_phrase_2_1_end"></info_portion>
+<info_portion id="sor_grek_phrase_2_2_end"></info_portion>
+<info_portion id="sor_autoritet_phrase_1_end"></info_portion>
+<info_portion id="sor_autoritet_phrase_2_end"></info_portion>
+<info_portion id="sor_autoritet_phrase_3_end"></info_portion>
+<info_portion id="sor_panzer_phrase_1_end"></info_portion>
+<info_portion id="sor_panzer_phrase_2_end"></info_portion>
+<info_portion id="sor_panzer_phrase_3_end"></info_portion>
+<info_portion id="sor_autoritet_cutscene_start"></info_portion>
+<info_portion id="sor_panzer_cutscene_start"></info_portion>
+<!-- <info_portion id="sor_autoritet_cutscene_end"></info_portion> -->
+<!-- <info_portion id="sor_panzer_cutscene_end"></info_portion> -->
+<!-- <info_portion id="talked_pol_dushman"></info_portion> -->
+<info_portion id="pol_bandits_insult"></info_portion>
+<info_portion id="agr_known_1052"></info_portion>
+<info_portion id="pol_stalker_dusman_is_dead"></info_portion>
+<info_portion id="pol_stalker_sniper_is_dead"></info_portion>
+<info_portion id="pol_stalker_is_dead"></info_portion>
+<info_portion id="pol_stalker_0000_is_dead"></info_portion>
+<info_portion id="pol_stalker_0001_is_dead"></info_portion>
+<info_portion id="pol_stalker_0002_is_dead"></info_portion>
+<info_portion id="pol_stalker_0003_is_dead"></info_portion>
+<info_portion id="pol_stalker_0004_is_dead"></info_portion>
+<info_portion id="pol_stalker_0005_is_dead"></info_portion>
+<info_portion id="pol_stalker_0006_is_dead"></info_portion>
+<info_portion id="pol_stalker_0007_is_dead"></info_portion>
+<info_portion id="pol_stalker_0008_is_dead"></info_portion>
+<info_portion id="pol_stalker_0009_is_dead"></info_portion>
+<info_portion id="pol_stalker_0010_is_dead"></info_portion>
+<info_portion id="pol_stalker_0011_is_dead"></info_portion>
+<info_portion id="pol_stalker_0012_is_dead"></info_portion>
+<info_portion id="pol_stalker_0013_is_dead"></info_portion>
+<info_portion id="pol_stalker_0014_is_dead"></info_portion>
+<info_portion id="atp_has_keys"></info_portion>
+<info_portion id="atp_hasnot_keys"></info_portion>
+<info_portion id="atp_mogilshik_spawn"></info_portion>
+<info_portion id="atp_bags_spawn_start"></info_portion>
+<info_portion id="atp_bags_spawn_1"></info_portion>
+<info_portion id="atp_bags_spawn_2"></info_portion>
+<info_portion id="atp_bags_spawn_3"></info_portion>
+<info_portion id="atp_bags_spawn_4"></info_portion>
+<info_portion id="atp_bags_spawn_5"></info_portion>
+<info_portion id="atp_warlock_taked"></info_portion>
+<info_portion id="know_val_right_code"></info_portion>
+<info_portion id="marsh_has_good_radio"></info_portion>
+<info_portion id="marsh_know_about_broken_scaner"></info_portion>
+<info_portion id="atp_dishonour_action"></info_portion>
+<info_portion id="has_searched_dushman_corpse"></info_portion>
+<info_portion id="can_talk_to_mcleens_about_polyana"></info_portion>
+<info_portion id="told_to_mcleens_about_polyana"></info_portion>
+<info_portion id="pol_keys_taken"></info_portion>
+<info_portion id="pol_mcleens_exo_2_dead"></info_portion>
+<info_portion id="pol_mcleens_exo_3_dead"></info_portion>
+<info_portion id="pol_mcleens_exo_4_dead"></info_portion>
+<info_portion id="pol_mcleens_raid_start"></info_portion>
+<info_portion id="mcleens_from_raid_spawn"></info_portion>
+<info_portion id="sor_mcleens_ready_to_help"></info_portion>
+<info_portion id="sor_mcleens_dont_ready_to_help"></info_portion>
+<info_portion id="sor_mcleens_ready_to_help_2"></info_portion>
+<info_portion id="sor_mcleens_dont_ready_to_help_2"></info_portion>
+<info_portion id="cptn_gryaznov_is_dead"></info_portion>
+<info_portion id="sor_grc_agent_is_dead"></info_portion>
+<info_portion id="sor_ivancov_about_sniper_rifle"></info_portion>
+<info_portion id="sor_gorodok_grc_stalker_8_is_dead"></info_portion>
+<info_portion id="told_to_sor_baza_blockpost_commander"></info_portion>
+<info_portion id="sor_baza_soldier_6_see_actor"></info_portion>
+<info_portion id="sor_vano_about_tank"></info_portion>
+<info_portion id="darklab_wild_killers_spawn"></info_portion>
+<info_portion id="darklab_wild_killers_spawn2"></info_portion>
+<info_portion id="val_btr_1_is_dead"></info_portion>
+<info_portion id="val_btr_1_walk"></info_portion>
+<info_portion id="val_btr_2_is_dead"></info_portion>
+<info_portion id="val_btr_2_walk"></info_portion>
+<info_portion id="val_btr_3_is_dead"></info_portion>
+<info_portion id="val_btr_3_walk"></info_portion>
+<info_portion id="val_wild_killer_11_is_dead"></info_portion>
+<info_portion id="val_wild_killer_commander_is_dead"></info_portion>
+<info_portion id="val_turrets_turn_off"></info_portion>
+<info_portion id="val_comp_is_blocked"></info_portion>
+<info_portion id="val_rupor_off"></info_portion>
+<info_portion id="val_shocker_safe_open"></info_portion>
+<info_portion id="val_comp_code_entered"></info_portion>
+<info_portion id="told_to_sor_yalta"></info_portion>
+<info_portion id="sor_attack_stalker_1_start_attack"></info_portion>
+<info_portion id="sor_attack_stalker_2_start_attack"></info_portion>
+<info_portion id="sor_attack_stalker_3_start_attack"></info_portion>
+<info_portion id="sor_attack_stalker_4_start_attack"></info_portion>
+<info_portion id="sor_attack_stalker_5_start_attack"></info_portion>
+<info_portion id="sor_attack_stalker_6_start_attack"></info_portion>
+<info_portion id="sor_attack_stalker_7_start_attack"></info_portion>
+<info_portion id="sor_attack_stalker_8_start_attack"></info_portion>
+<info_portion id="yalta_attack_group_spawn"></info_portion>
+<info_portion id="mcleens_attack_group_spawn"></info_portion>
+<info_portion id="sor_gorodok_rupor_off"></info_portion>
+<info_portion id="sor_zulus_can_talk"></info_portion>
+<info_portion id="taked_sor_psylockator_1"></info_portion>
+<info_portion id="taked_sor_psylockator_2"></info_portion>
+<info_portion id="taked_blade_pda"></info_portion>
+<info_portion id="gar_grc_sniper_1_is_dead"></info_portion>
+<info_portion id="gar_grc_sniper_2_is_dead"></info_portion>
+<info_portion id="sor_blockpost_cutscene_start"></info_portion>
+<info_portion id="sor_blockpost_cutscene_end"></info_portion>
+
+<info_portion id="sor_blockpost_grek_phrase_1_start"></info_portion>
+<info_portion id="sor_blockpost_grek_phrase_2_start"></info_portion>
+<info_portion id="sor_blockpost_grek_phrase_3_start"></info_portion>
+<info_portion id="sor_blockpost_grek_phrase_1_end"></info_portion>
+<info_portion id="sor_blockpost_grek_phrase_2_end"></info_portion>
+<info_portion id="sor_blockpost_grek_phrase_3_end"></info_portion>
+
+<info_portion id="sor_blockpost_ivanzov_phrase_1_start"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_2_start"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_3_start"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_4_start"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_5_start"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_6_start"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_7_start"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_1_end"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_2_end"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_3_end"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_4_end"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_5_end"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_6_end"></info_portion>
+<info_portion id="sor_blockpost_ivanzov_phrase_7_end"></info_portion>
+
+<info_portion id="sor_blockpost_pulevich_phrase_1_start"></info_portion>
+<info_portion id="sor_blockpost_pulevich_phrase_2_start"></info_portion>
+<info_portion id="sor_blockpost_pulevich_phrase_3_start"></info_portion>
+<info_portion id="sor_blockpost_pulevich_phrase_1_end"></info_portion>
+<info_portion id="sor_blockpost_pulevich_phrase_2_end"></info_portion>
+<info_portion id="sor_blockpost_pulevich_phrase_3_end"></info_portion>
+
+<info_portion id="sor_told_barman_about_killers"></info_portion>
+<info_portion id="sor_told_sidor_about_killers"></info_portion>
+<info_portion id="pda_trade_insertion"></info_portion>
+<info_portion id="deserted_earths_card_activated"></info_portion>
+<info_portion id="gar_crows_are_dead"></info_portion>
+<info_portion id="sor_yalta_group_fix"></info_portion>
+<info_portion id="red_blowout_start"></info_portion>
+<info_portion id="red_blowout_first_blow"></info_portion>
+<info_portion id="red_blowout_phase_1"></info_portion>
+<info_portion id="red_blowout_phase_2"></info_portion>
+<info_portion id="red_blowout_phase_3"></info_portion>
+<info_portion id="red_blowout_phase_4"></info_portion>
+<info_portion id="red_blowout_phase_5"></info_portion>
+<info_portion id="marsh_galash_stalker_com_1_is_dead"></info_portion>
+<info_portion id="marsh_galash_stalker_com_2_is_dead"></info_portion>
+<info_portion id="marsh_galash_stalker_com_3_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_1_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_2_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_3_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_4_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_5_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_6_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_7_is_dead"></info_portion>
+<info_portion id="marsh_uzbek_bandit_8_is_dead"></info_portion>
+<info_portion id="marsh_stalker_tankist_com_3_is_dead"></info_portion>
+<info_portion id="marsh_stalker_tankist_com_4_is_dead"></info_portion>
+<info_portion id="marsh_stalker_tankist_com_5_is_dead"></info_portion>
+<info_portion id="marsh_stalker_tankist_com_6_is_dead"></info_portion>
+<info_portion id="marsh_stalker_tankist_com_7_is_dead"></info_portion>
+<info_portion id="esc_kill_bloodsuckers"></info_portion>
+<info_portion id="agru_controler_spawn"></info_portion>
+<info_portion id="bun_m_poltergeist_strong_flame_spawn"></info_portion>
+<info_portion id="bun_m_poltergeist_strong_flame_0000_spawn"></info_portion>
+<info_portion id="bun_m_poltergeist_strong_flame_0001_spawn"></info_portion>
+<info_portion id="bun_m_poltergeist_strong_flame_0002_spawn"></info_portion>
+<info_portion id="bun_m_poltergeist_strong_flame_0003_spawn"></info_portion>
+<info_portion id="bun_m_poltergeist_strong_flame_0004_spawn"></info_portion>
+<info_portion id="bun_m_poltergeist_strong_flame_0005_spawn"></info_portion>
+<info_portion id="bun_first_caution"></info_portion>
+<info_portion id="bun_second_caution"></info_portion>
+<info_portion id="sor_has_talked_lukanov"></info_portion>
+<info_portion id="sor_has_sold_bioscaners"></info_portion>
+<info_portion id="sor_hasnot_sold_bioscaners"></info_portion>
+<info_portion id="told_to_sor_yalta_after_attack"></info_portion>
+<info_portion id="sor_pulevich_off"></info_portion>
+<info_portion id="told_kasper_after_pulevich_off"></info_portion>
+<info_portion id="told_kasper_perimeter_storm"></info_portion>
+<info_portion id="told_kasper_yes"></info_portion>
+<info_portion id="told_kasper_no"></info_portion>
+<info_portion id="told_hazar_after_attack"></info_portion>
+<info_portion id="told_gena_after_attack"></info_portion>
+<info_portion id="told_gold_after_attack"></info_portion>
+<info_portion id="told_bubenersh_after_attack"></info_portion>
+<info_portion id="val_stalker_chizh_is_dead"></info_portion>
+<info_portion id="val_stalker_verny_is_dead"></info_portion>
+<info_portion id="val_stalker_yalta_is_dead"></info_portion>
+<info_portion id="val_zindan_prisoners_are_dead"></info_portion>
+<info_portion id="val_zindan_mine_timer_start"></info_portion>
+<info_portion id="val_killers_alarm_wakeup"></info_portion>
+<info_portion id="val_told_yalta_group"></info_portion>
+<info_portion id="val_drop_necronomicon"></info_portion>
+<info_portion id="val_necronomicon_has_burnt_down"></info_portion>
+<info_portion id="told_ivancov"></info_portion>
+<info_portion id="tell_to_hacker"></info_portion>
+<info_portion id="told_hacker_about_decoding"></info_portion>
+<info_portion id="told_hacker_about_decoding_panzer"></info_portion>
+<info_portion id="has_broken_pda_given_to_hacker"></info_portion>
+<info_portion id="has_simpson_pda_given_to_hacker"></info_portion>
+<info_portion id="has_blade_pda_given_to_hacker"></info_portion>
+<info_portion id="has_braverman_pda_given_to_hacker"></info_portion>
+<info_portion id="has_military_stalkers_flash_given_to_hacker"></info_portion>
+<info_portion id="has_shocker_flash_given_to_hacker"></info_portion>
+<info_portion id="has_shevchuk_pda_given_to_hacker"></info_portion>
+<info_portion id="has_panz_encryption_malyawa_given_to_hacker"></info_portion>
+<info_portion id="gone_nestor_2_fail"></info_portion>
+<info_portion id="gone_nestor_1_fail"></info_portion>
+<info_portion id="esc_kasper_spawn"></info_portion>
+<info_portion id="esc_yalta_group_go_darkvalley"></info_portion>
+<info_portion id="val_verny_free_go"></info_portion>
+<info_portion id="val_yalta_free_go"></info_portion>
+<info_portion id="agr_controller_spawn"></info_portion>
+<info_portion id="meet_garfirst_bandits_1"></info_portion>
+<info_portion id="meet_garfirst_bandits_2"></info_portion>
+<info_portion id="meet_garfirst_bandits_3"></info_portion>
+<info_portion id="meet_garfirst_bandits_4"></info_portion>
+<info_portion id="meet_garfirst_bandits_5"></info_portion>
+<info_portion id="meet_garfirst_bandits_6"></info_portion>
+<info_portion id="meet_garfirst_bandits_7"></info_portion>
+<info_portion id="meet_garfirst_bandits_8"></info_portion>
+<info_portion id="meet_garfirst_bandits_10"></info_portion>
+<info_portion id="sor_attack_on_chimist"></info_portion>
+<info_portion id="agr_marsh_tushkans_spawn"></info_portion>
+<info_portion id="mil_quadro_is_unblocked"></info_portion>
+<info_portion id="darklab_emergency_generator_turn_on"></info_portion>
+<info_portion id="darklab_emergency_lamps_on"></info_portion>
+<info_portion id="sor_gold_switch"></info_portion>
+<info_portion id="puma_activated"></info_portion>
+<info_portion id="agr_knife_tanto"></info_portion>
+<info_portion id="agr_marsh_ratwolf_spawn"></info_portion>
+<info_portion id="gar_makar_spawn"></info_portion>
+<info_portion id="told_varnak_about_teuton_1"></info_portion>
+<info_portion id="told_varnak_about_teuton_2"></info_portion>
+<info_portion id="told_barman_about_teuton_1"></info_portion>
+<info_portion id="told_barman_about_teuton_2"></info_portion>
+<info_portion id="teuton_maljawa_taked"></info_portion>
+<info_portion id="gold_is_dead"></info_portion>
+<info_portion id="rsz_isdead"></info_portion>
+<info_portion id="rsz_isdead_0000"></info_portion>
+<info_portion id="rsz_isdead_0001"></info_portion>
+<info_portion id="rsz_isdead_0002"></info_portion>
+<info_portion id="rsz_isdead_0003"></info_portion>
+<info_portion id="red_gold_spawn"></info_portion>
+<info_portion id="lim_kasper_spawn"></info_portion>
+<info_portion id="lim_cutscene_start"></info_portion>
+<info_portion id="lim_cutscene_end"></info_portion>
+<info_portion id="lim_cutscene_dialog_start"></info_portion>
+<info_portion id="protection_for_luzenko"></info_portion>
+<!-- <info_portion id="lim_turrets_turn_off"></info_portion> -->
+<info_portion id="dr_pirogov_about_teleporter_1"></info_portion>
+<info_portion id="lim_see_lc_cutscene_end"></info_portion>
+<info_portion id="hos_leiutenant_spawn"></info_portion>
+<info_portion id="hos_secury_key_insert"></info_portion>
+<info_portion id="hos_from_pripyat_spawn"></info_portion>
+<info_portion id="hos_from_limansk_spawn"></info_portion>
+<info_portion id="hos_nohelp_checkpoint"></info_portion>
+<info_portion id="sor_has_found_the_things"></info_portion>
+<info_portion id="esc_operator_spawn"></info_portion>
+<info_portion id="take_esc_grc_operator_pda"></info_portion>
+<info_portion id="esc_mobil_is_terminated"></info_portion>
+<info_portion id="esc_mobil_0000_is_terminated"></info_portion>
+<info_portion id="esc_mobil_0001_is_terminated"></info_portion>
+<info_portion id="esc_mobil_0002_is_terminated"></info_portion>
+<info_portion id="esc_mobil_0003_is_terminated"></info_portion>
+<info_portion id="esc_realmobil_is_spawned"></info_portion>
+<info_portion id="esc_south_gate_is_brocken"></info_portion>
+<info_portion id="esc_mine_boom_1"></info_portion>
+<info_portion id="esc_mine_boom_2"></info_portion>
+<info_portion id="esc_mine_boom_3"></info_portion>
+<info_portion id="esc_mine_boom_4"></info_portion>
+<info_portion id="esc_mine_boom_5"></info_portion>
+<info_portion id="esc_mine_boom_6"></info_portion>
+<info_portion id="esc_mine_boom_7"></info_portion>
+<info_portion id="esc_mine_boom_8"></info_portion>
+<info_portion id="esc_mine_boom_9"></info_portion>
+<info_portion id="esc_told_panzer"></info_portion>
+<info_portion id="esc_dead_megafon"></info_portion>
+<info_portion id="esc_force_hit_on_drezina"></info_portion>
+<info_portion id="esc_turret_are_activated"></info_portion>
+<info_portion id="esc_dolg_regrouping"></info_portion>
+<info_portion id="esc_check_fuel_level"></info_portion>
+<info_portion id="sor_gold_cafe_off"></info_portion>
+<info_portion id="sor_told_sor_sidor"></info_portion>
+<info_portion id="found_teuton_malyawa"></info_portion>
+<info_portion id="stalker_catcher_fail"></info_portion>
+<info_portion id="stalker_catcher_said_no"></info_portion>
+<info_portion id="val_operator_is_dead"></info_portion>
+<info_portion id="gar_sinoptic_gang_spawn"></info_portion>
+<info_portion id="gar_sinoptic_gang_off"></info_portion>
+<info_portion id="gar_drop_necronomicon"></info_portion>
+<info_portion id="gar_necronomicon_has_burnt_down"></info_portion>
+<info_portion id="esc_peacetalker_cutscene_start"></info_portion>
+<info_portion id="esc_peacetalker_cutscene_end"></info_portion>
+<info_portion id="esc_pulevich_cut_scene_phrase_end_1"></info_portion>
+<info_portion id="esc_pulevich_cut_scene_phrase_end_2"></info_portion>
+<info_portion id="esc_pulevich_cut_scene_phrase_end_3"></info_portion>
+<info_portion id="esc_pulevich_cut_scene_phrase_end_4"></info_portion>
+<info_portion id="esc_pulevich_cut_scene_phrase_end_5"></info_portion>
+<info_portion id="esc_zibrov_cut_scene_phrase_end_1"></info_portion>
+<info_portion id="esc_zibrov_cut_scene_phrase_end_2"></info_portion>
+<info_portion id="esc_zibrov_cut_scene_phrase_end_3"></info_portion>
+<info_portion id="esc_zibrov_cut_scene_phrase_end_4"></info_portion>
+<info_portion id="lim_bloodsucker_1_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_2_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_3_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_4_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_5_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_6_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_7_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_8_spawn"></info_portion>
+<info_portion id="lim_bloodsucker_9_spawn"></info_portion>
+<info_portion id="all_lim_bloodsuckers_are_dead"></info_portion>
+<info_portion id="lim_kasper_last_dialog"></info_portion>
+<info_portion id="lim_luzenko_about_devices"></info_portion>
+<info_portion id="lim_pirogov_about_teleport"></info_portion>
+<info_portion id="devices_from_factory_fail"></info_portion>
+<info_portion id="pri_meet_gunman"></info_portion>
+<info_portion id="pri_about_final_journey"></info_portion>
+<info_portion id="pri_actor_near_yard"></info_portion>
+<info_portion id="pri_degtyarev_group_spawn"></info_portion>
+<info_portion id="aes_cliric_1_spawn"></info_portion>
+<info_portion id="aes_cliric_2_spawn"></info_portion>
+<info_portion id="aes_cliric_3_spawn"></info_portion>
+<info_portion id="aes_cliric_4_spawn"></info_portion>
+<info_portion id="aes_cliric_5_spawn"></info_portion>
+<info_portion id="aes_cliric_6_spawn"></info_portion>
+<info_portion id="aes_cliric_7_spawn"></info_portion>
+<info_portion id="aes_cliric_8_spawn"></info_portion>
+<info_portion id="aes_cliric_9_spawn"></info_portion>
+<info_portion id="aes_cliric_10_spawn"></info_portion>
+<info_portion id="aes_cliric_11_spawn"></info_portion>
+<info_portion id="aes_cliric_12_spawn"></info_portion>
+<info_portion id="aes_cliric_1_isdead"></info_portion>
+<info_portion id="aes_cliric_2_isdead"></info_portion>
+<info_portion id="aes_cliric_3_isdead"></info_portion>
+<info_portion id="aes_cliric_4_isdead"></info_portion>
+<info_portion id="aes_cliric_5_isdead"></info_portion>
+<info_portion id="aes_cliric_6_isdead"></info_portion>
+<info_portion id="aes_cliric_7_isdead"></info_portion>
+<info_portion id="aes_cliric_8_isdead"></info_portion>
+<info_portion id="aes_cliric_9_isdead"></info_portion>
+<info_portion id="aes_cliric_10_isdead"></info_portion>
+<info_portion id="aes_cliric_11_isdead"></info_portion>
+<info_portion id="aes_cliric_12_isdead"></info_portion>
+<info_portion id="aes_degens_spawn"></info_portion>
+<info_portion id="aes_ambush_blackraiders_spawn"></info_portion>
+<info_portion id="aes_add_blackraiders_spawn"></info_portion>
+<info_portion id="aes_all_npc_del"></info_portion>
+<!-- <info_portion id="dc_told_deev_1"></info_portion> -->
+<info_portion id="dc_told_deev_2"></info_portion>
+<info_portion id="dc_told_pope_vitaly_1"></info_portion>
+<info_portion id="dc_told_pope_vitaly_2"></info_portion>
+<info_portion id="dc_demons_spawn"></info_portion>
+<info_portion id="dc_desant_off"></info_portion>
+<info_portion id="dc_cutscene_start"></info_portion>
+<info_portion id="dc_cutscene_phase_0"></info_portion>
+<info_portion id="dc_cutscene_phase_0_0"></info_portion>
+<info_portion id="dc_cutscene_phase_1"></info_portion>
+<info_portion id="dc_cutscene_phase_2"></info_portion>
+<info_portion id="dc_cutscene_phase_3"></info_portion>
+<info_portion id="dc_cutscene_phase_4"></info_portion>
+<info_portion id="dc_cutscene_phase_5"></info_portion>
+<info_portion id="dc_cutscene_phase_6"></info_portion>
+<info_portion id="dc_cutscene_phase_7"></info_portion>
+<info_portion id="dc_cutscene_phase_8"></info_portion>
+<info_portion id="dc_cutscene_phase_9"></info_portion>
+<info_portion id="dc_cutscene_phase_10"></info_portion>
+<info_portion id="dc_cutscene_phase_11"></info_portion>
+<info_portion id="dc_cutscene_phase_12"></info_portion>
+<info_portion id="dc_cutscene_phase_13"></info_portion>
+<info_portion id="dc_cutscene_phase_14"></info_portion>
+<info_portion id="dc_cutscene_phase_15"></info_portion>
+<info_portion id="gen_desant_spawn"></info_portion>
+<info_portion id="gen_pope_vitaly_spawn"></info_portion>
+<info_portion id="gen_poisk_cutscene_start"></info_portion>
+<info_portion id="gen_poisk_cutscene_end"></info_portion>
+<info_portion id="gen_grek_kill_cutscene_start"></info_portion>
+<info_portion id="gen_grek_kill_cutscene_end"></info_portion>
+
+<info_portion id="gen_told_slaven_1"></info_portion>
+<info_portion id="gen_told_slaven_2"></info_portion>
+<info_portion id="gen_told_slaven_3"></info_portion>
+<info_portion id="gen_told_slaven_4"></info_portion>
+<info_portion id="gen_told_slaven_about_jj_alive"></info_portion>
+<info_portion id="gen_told_slaven_about_jj_dead"></info_portion>
+<info_portion id="gen_cross_cutscene_end"></info_portion>
+<info_portion id="gen_slaven_group_out"></info_portion>
+<info_portion id="iron_mask_isdead"></info_portion>
+<info_portion id="iron_mask_alive"></info_portion>
+<info_portion id="gen_told_borman"></info_portion>
+<info_portion id="gen_told_jj"></info_portion>
+<info_portion id="gen_borman_isdead"></info_portion>
+<info_portion id="gen_ufo_start_fly"></info_portion>
+<info_portion id="gen_ufo_flyaway"></info_portion>
+<info_portion id="ls_good_final_info"></info_portion>
+<info_portion id="nikogda_info"></info_portion>
+<info_portion id="gen_reject_start"></info_portion>
+<info_portion id="gen_reject_first_blow"></info_portion>
+<info_portion id="gen_reject_phase_1"></info_portion>
+<info_portion id="gen_reject_phase_2"></info_portion>
+<info_portion id="gen_reject_phase_3"></info_portion>
+<info_portion id="gen_reject_phase_4"></info_portion>
+<info_portion id="gen_reject_phase_5"></info_portion>
+<info_portion id="kat_told_doctor"></info_portion>
+<info_portion id="kat_told_doctor_2"></info_portion>
+<!-- <info_portion id="pri_grisha_spawn"></info_portion> -->
+<info_portion id="gen_talk_borman_n_jj"></info_portion>
+<info_portion id="gen_talk_borman"></info_portion>
+<!-- <info_portion id="esc_panzer_told"></info_portion> -->
+<info_portion id="aes_monolith_spawn"></info_portion>
+<info_portion id="gamer_200"></info_portion>
+<info_portion id="gamer_400"></info_portion>
+<info_portion id="gamer_600"></info_portion>
+<info_portion id="gamer_800"></info_portion>
+<info_portion id="gamer_1000"></info_portion>
+<info_portion id="gamer_1200"></info_portion>
+<info_portion id="gamer_1400"></info_portion>
+<info_portion id="xtreme_help"></info_portion>
+<info_portion id="actor_refused_cooperation"></info_portion>
+<info_portion id="im_flies_away"></info_portion>
+<info_portion id="has_searched_pesh_bastard"></info_portion>
+<info_portion id="has_taked_golden_pig"></info_portion>
+<info_portion id="kill_iron_mask"></info_portion>
+<info_portion id="sacred_business_fail"></info_portion>
+<info_portion id="dc_black_raiders_spawn"></info_portion>
+
+<!-- <info_portion id=""></info_portion> -->
+
+<info_portion id="als_debug_1"></info_portion>
+
+<!-- story line -->
+<info_portion id="info_als_story_ar_0">
+	<article>als_story_ar_0</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_1">
+	<article>als_story_ar_1</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_2">
+	<article>als_story_ar_2</article>
+</info_portion>
+
+<info_portion id="sor_told_varnak_about_killers">
+	<article>als_story_ar_3</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_3">
+	<article>als_story_ar_3</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_4">
+	<article>als_story_ar_4</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_5">
+	<article>als_story_ar_5</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_6">
+	<article>als_story_ar_6</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_7">
+	<article>als_story_ar_7</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_8">
+	<article>als_story_ar_8</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_9">
+	<article>als_story_ar_9</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_10">
+	<article>als_story_ar_10</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_11">
+	<article>als_story_ar_11</article>
+</info_portion>
+
+<info_portion id="zaglushka_40">
+	<article>als_story_ar_12</article>
+</info_portion>
+
+<info_portion id="zaglushka_48">
+	<article>als_story_ar_13</article>
+</info_portion>
+
+<info_portion id="zaglushka_49">
+	<article>als_story_ar_14</article>
+</info_portion>
+
+<info_portion id="zaglushka_56">
+	<article>als_story_ar_15</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_16">
+	<article>als_story_ar_16</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_17">
+	<article>als_story_ar_17</article>
+</info_portion>
+
+<info_portion id="see_marsh_sevchuk">
+	<article>als_story_ar_18</article>
+</info_portion>
+
+<info_portion id="take_necronomikon">
+	<article>als_story_ar_19</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_20">
+	<article>als_story_ar_20</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_21">
+	<article>als_story_ar_21</article>
+</info_portion>
+
+<info_portion id="zaglushka_103">
+	<article>als_story_ar_22</article>
+</info_portion>
+
+<info_portion id="told_marsh_gruver_1">
+	<article>als_story_ar_23</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_24">
+	<article>als_story_ar_24</article>
+</info_portion>
+
+<info_portion id="sor_panzer_cutscene_end">
+	<article>als_story_ar_25</article>
+</info_portion>
+
+<info_portion id="panz_dialog_cutscene_end">
+	<article>als_story_ar_25</article>
+</info_portion>
+
+<info_portion id="sor_autoritet_cutscene_end">
+	<article>als_story_ar_26</article>
+</info_portion>
+
+<info_portion id="zaglushka_182">
+	<article>als_story_ar_27</article>
+</info_portion>
+
+<info_portion id="zaglushka_232">
+	<article>als_story_ar_28</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_29">
+	<article>als_story_ar_29</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_30">
+	<article>als_story_ar_30</article>
+</info_portion>
+
+<info_portion id="zaglushka_287">
+	<article>als_story_ar_31</article>
+</info_portion>
+
+<info_portion id="agr_saw_corpses">
+	<article>als_story_ar_32</article>
+</info_portion>
+
+<info_portion id="talked_pol_dushman">
+	<article>als_story_ar_33</article>
+</info_portion>
+
+<info_portion id="zaglushka_303">
+	<article>als_story_ar_34</article>
+</info_portion>
+
+<info_portion id="zaglushka_447">
+	<article>als_story_ar_35</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_36">
+	<article>als_story_ar_36</article>
+</info_portion>
+
+<info_portion id="info_als_story_ar_37">
+	<article>als_story_ar_37</article>
+</info_portion>
+
+<info_portion id="about_dr_bravermann_name">
+	<article>als_story_ar_38</article>
+</info_portion>
+
+<info_portion id="lim_turrets_turn_off">
+	<article>als_story_ar_39</article>
+</info_portion>
+
+<info_portion id="zaglushka_441">
+	<article>als_story_ar_40</article>
+</info_portion>
+
+<info_portion id="pri_grisha_spawn">
+	<article>als_story_ar_41</article>
+</info_portion>
+
+<info_portion id="dc_told_deev_1">
+	<article>als_story_ar_42</article>
+</info_portion>
+
+<info_portion id="esc_panzer_told"></info_portion>
+
+<info_portion id="esc_panzer_tolda">
+	<article>als_story_ar_43</article>
+</info_portion>
+
+<info_portion id="esc_panzer_tolda_1">
+	<article>als_story_ar_43_1</article>
+</info_portion>
+
+<info_portion id="agr_saw_corpses_under_task">
+	<article>als_story_ar_44</article>
+</info_portion>
+
+<!--<info_portion id="info_als_story_ar_">
+	<article>als_story_ar_</article>
+</info_portion> -->
+
+<!-- known info -->
+<info_portion id="info_has_knew_sor_monkeyhouse_code">
+	<article>has_knew_sor_monkeyhouse_code</article>
+</info_portion>
+
+<info_portion id="val_shocker_safe_code">
+	<article>has_val_shocker_safe_code</article>
+</info_portion>
+
+<info_portion id="val_turrets_control_access">
+	<article>has_val_turrets_control_access</article>
+</info_portion>
+
+<info_portion id="learned_pulevich_safe_code">
+	<article>has_learned_pulevich_safe_code</article>
+</info_portion>
+
+<info_portion id="lim_access_code">
+	<article>has_lim_access_code</article>
+</info_portion>
+
+<!--<info_portion id="">
+	<article></article>
+</info_portion>-->
+
+<info_portion id="kill_jj_start">
+		<task>kill_jj</task>
+	</info_portion>
+	<info_portion id="kill_jj_1">
+	</info_portion>
+	<info_portion id="player_complete_kill_jj"> 
+</info_portion>
+
+<info_portion id="meet_garfirst_bandits_start">
+		<task>meet_garfirst_bandits</task>
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_9">
+	</info_portion>
+	<!-- <info_portion id="meet_garfirst_bandits_1">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_2">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_3">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_4">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_5">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_6">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_7">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_8">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_9">
+	</info_portion>
+	<info_portion id="meet_garfirst_bandits_10">
+	</info_portion> -->
+	<info_portion id="player_complete_meet_garfirst_bandits"> 
+</info_portion>
+
+<info_portion id="talk_esc_shamray_start">
+		<task>talk_esc_shamray</task>
+	</info_portion>
+	<info_portion id="talk_esc_shamray_1">
+	</info_portion>
+	<info_portion id="player_complete_talk_esc_shamray"> 
+</info_portion>
+
+<info_portion id="esc_recon_start">
+		<task>esc_recon</task>
+	</info_portion>
+	<info_portion id="esc_recon_1">
+	</info_portion>
+	<info_portion id="esc_recon_2">
+	</info_portion>
+	<info_portion id="player_complete_esc_recon"> 
+</info_portion>
+
+<info_portion id="lc_to_escape_start">
+		<task>lc_to_escape</task>
+	</info_portion>
+	<info_portion id="lc_to_escape_1">
+	</info_portion>
+	<info_portion id="player_complete_lc_to_escape"> 
+</info_portion>
+
+<info_portion id="get_otstoynik_passdoc_start">
+		<task>get_otstoynik_passdoc</task>
+	</info_portion>
+	<info_portion id="get_otstoynik_passdoc_1">
+	</info_portion>
+	<info_portion id="player_complete_get_otstoynik_passdoc"> 
+</info_portion>
+
+<info_portion id="cross_perimetre_start">
+		<task>cross_perimetre</task>
+	</info_portion>
+	<info_portion id="cross_perimetre_1">
+	</info_portion>
+	<info_portion id="cross_perimetre_2">
+	</info_portion>
+	<info_portion id="cross_perimetre_3">
+	</info_portion>
+	<info_portion id="player_complete_cross_perimetre"> 
+</info_portion>
+
+
+<info_portion id="dr_pirogov_fly_box_start">
+		<task>dr_pirogov_fly_box</task>
+	</info_portion>
+	<info_portion id="dr_pirogov_fly_box_1">
+	</info_portion>
+	<info_portion id="dr_pirogov_fly_box_2">
+	</info_portion>
+	<info_portion id="dr_pirogov_fly_box_3">
+	</info_portion>
+	<info_portion id="dr_pirogov_fly_box_end"> 
+</info_portion>
+
+<info_portion id="escape_from_escape_start">
+		<task>escape_from_escape</task>
+	</info_portion>
+	<info_portion id="escape_from_escape_1">
+	</info_portion>
+	<info_portion id="escape_from_escape_2">
+	</info_portion>
+	<info_portion id="player_complete_escape_from_escape"> 
+</info_portion>
+
+<info_portion id="greetings_from_shamray_start">
+		<task>greetings_from_shamray</task>
+	</info_portion>
+	<info_portion id="greetings_from_shamray_1">
+	</info_portion>
+	<info_portion id="greetings_from_shamray_2">
+	</info_portion>
+	<info_portion id="player_complete_greetings_from_shamray"> 
+</info_portion>
+
+<info_portion id="arrival_on_stalkers_start">
+		<task>arrival_on_stalkers</task>
+	</info_portion>
+	<info_portion id="arrival_on_stalkers_1">
+	</info_portion>
+	<info_portion id="player_complete_arrival_on_stalkers"> 
+</info_portion>
+
+<info_portion id="signal_for_shamray_start">
+		<task>signal_for_shamray</task>
+	</info_portion>
+	<info_portion id="signal_for_shamray_1">
+	</info_portion>
+	<info_portion id="signal_for_shamray_done"> 
+</info_portion>
+
+<info_portion id="organize_brigada_start">
+		<task>organize_brigada</task>
+	</info_portion>
+	<info_portion id="organize_brigada_1">
+	</info_portion>
+	<info_portion id="organize_brigada_2">
+	</info_portion>
+	<info_portion id="player_complete_organize_brigada"> 
+</info_portion>
+
+<info_portion id="conversation_with_uzbek_start">
+		<task>conversation_with_uzbek</task>
+	</info_portion>
+	<info_portion id="conversation_with_uzbek_1">
+	</info_portion>
+	<info_portion id="conversation_with_uzbek_2">
+	</info_portion>
+	<info_portion id="conversation_with_uzbek_3">
+	</info_portion>
+	<!--info_portion id="conversation_with_uzbek_4">
+	</info_portion-->
+	<info_portion id="player_complete_conversation_with_uzbek"> 
+</info_portion>
+
+<info_portion id="conversation_with_uzbek_short_start">
+		<task>conversation_with_uzbek_short</task>
+	</info_portion>
+	<info_portion id="conversation_with_uzbek_short_1">
+	</info_portion>
+	<info_portion id="conversation_with_uzbek_short_2">
+	</info_portion>
+	<info_portion id="conversation_with_uzbek_short_3">
+	</info_portion>
+	<info_portion id="player_complete_conversation_with_uzbek_short"> 
+</info_portion>
+
+<info_portion id="shron_at_marsh_start">
+		<task>shron_at_marsh</task>
+	</info_portion>
+	<info_portion id="shron_at_marsh_1">
+	</info_portion>
+	<info_portion id="player_complete_shron_at_marsh"> 
+</info_portion>
+
+<info_portion id="check_sor_borman_skhron_start">
+		<task>check_sor_borman_skhron</task>
+	</info_portion>
+	<info_portion id="check_sor_borman_skhron_1">
+	</info_portion>
+	<info_portion id="player_complete_check_sor_borman_skhron"> 
+</info_portion>
+
+<info_portion id="fight_on_bogs1_start">
+		<task>fight_on_bogs1</task>
+	</info_portion>
+	<info_portion id="fight_on_bogs1_1">
+	</info_portion>
+	<info_portion id="fight_on_bogs1_2">
+	</info_portion>
+	<info_portion id="fight_on_bogs1_3">
+	</info_portion>
+	<info_portion id="fight_on_bogs1_4">
+	</info_portion>
+	<info_portion id="fight_on_bogs1_5">
+	</info_portion>
+	<info_portion id="fight_on_bogs1_6">
+	</info_portion>
+	<info_portion id="player_complete_fight_on_bogs1"> 
+</info_portion>
+
+<info_portion id="fight_on_bogs2_start">
+		<task>fight_on_bogs2</task>
+	</info_portion>
+	<info_portion id="fight_on_bogs2_1">
+	</info_portion>
+	<info_portion id="fight_on_bogs2_2">
+	</info_portion>
+	<info_portion id="fight_on_bogs2_3">
+	</info_portion>
+	<info_portion id="fight_on_bogs2_4">
+	</info_portion>
+	<info_portion id="player_complete_fight_on_bogs2"> 
+</info_portion>
+
+<info_portion id="fight_on_bogs3_start">
+		<task>fight_on_bogs3</task>
+	</info_portion>
+	<info_portion id="fight_on_bogs3_1">
+	</info_portion>
+	<info_portion id="fight_on_bogs3_2">
+	</info_portion>
+	<info_portion id="fight_on_bogs3_3">
+	</info_portion>
+	<info_portion id="fight_on_bogs3_4">
+	</info_portion>
+	<info_portion id="player_complete_fight_on_bogs3"> 
+</info_portion>
+
+<info_portion id="knifes_and_waterrat_start">
+		<task>knifes_and_waterrat</task>
+	</info_portion>
+	<info_portion id="knifes_and_waterrat_1">
+	</info_portion>
+	<info_portion id="player_complete_knifes_and_waterrat"> 
+</info_portion>
+
+<info_portion id="knifes_in_wall_start">
+		<task>knifes_in_wall</task>
+	</info_portion>
+	<info_portion id="knifes_in_wall_1">
+	</info_portion>
+	<info_portion id="player_complete_knifes_in_wall"> 
+</info_portion>
+
+<info_portion id="gone_scouts_start">
+		<task>gone_scouts</task>
+	</info_portion>
+	<info_portion id="gone_scouts_1">
+	</info_portion>
+	<info_portion id="gone_scouts_2">
+	</info_portion>
+	<info_portion id="player_complete_gone_scouts"> 
+</info_portion>
+
+<info_portion id="not_complete_mission_start">
+		<task>not_complete_mission</task>
+	</info_portion>
+	<info_portion id="not_complete_mission_1">
+	</info_portion>
+	<info_portion id="not_complete_mission_2">
+	</info_portion>
+	<info_portion id="not_complete_mission_3">
+	</info_portion>
+	<info_portion id="not_complete_mission_4">
+	</info_portion>
+	<info_portion id="player_complete_not_complete_mission"> 
+</info_portion>
+
+<info_portion id="crime_at_marsh_start">
+		<task>crime_at_marsh</task>
+	</info_portion>
+	<info_portion id="crime_at_marsh_1">
+	</info_portion>
+	<info_portion id="player_complete_crime_at_marsh"> 
+</info_portion>
+
+<info_portion id="detector_of_dead_man_start">
+		<task>detector_of_dead_man</task>
+	</info_portion>
+	<info_portion id="detector_of_dead_man_1">
+	</info_portion>
+	<info_portion id="player_complete_detector_of_dead_man"> 
+</info_portion>
+
+<info_portion id="marsh_meet_deadman_start">
+		<task>marsh_meet_deadman</task>
+	</info_portion>
+	<info_portion id="marsh_meet_deadman_1">
+	</info_portion>
+	<info_portion id="player_complete_marsh_meet_deadman"> 
+</info_portion>
+
+<info_portion id="arrive_on_waterrat_base_start">
+		<task>arrive_on_waterrat_base</task>
+	</info_portion>
+	<info_portion id="arrive_on_waterrat_base_1">
+	</info_portion>
+	<info_portion id="player_complete_arrive_on_waterrat_base"> 
+</info_portion>
+
+<info_portion id="marsh_find_deadman_start">
+		<task>marsh_find_deadman</task>
+	</info_portion>
+	<info_portion id="marsh_find_deadman_1">
+	</info_portion>
+	<info_portion id="marsh_find_deadman_2">
+	</info_portion>
+	<info_portion id="player_complete_marsh_find_deadman"> 
+</info_portion>
+
+<info_portion id="heli_and_ikons_1_start">
+		<task>heli_and_ikons_1</task>
+	</info_portion>
+	<info_portion id="heli_and_ikons_1_1">
+	</info_portion>
+	<info_portion id="player_complete_heli_and_ikons_1"> 
+</info_portion>
+
+<info_portion id="heli_and_ikons_2_start">
+		<task>heli_and_ikons_2</task>
+	</info_portion>
+	<info_portion id="heli_and_ikons_2_1">
+	</info_portion>
+	<info_portion id="player_complete_heli_and_ikons_2"> 
+</info_portion>
+
+<info_portion id="heli_and_ikons_3_start">
+		<task>heli_and_ikons_3</task>
+	</info_portion>
+	<info_portion id="heli_and_ikons_3_1">
+	</info_portion>
+	<info_portion id="player_complete_heli_and_ikons_3"> 
+</info_portion>
+
+<info_portion id="marsh_key_decision_1_start">
+		<task>marsh_key_decision_1</task>
+	</info_portion>
+	<info_portion id="marsh_key_decision_1_1">
+	</info_portion>
+	<info_portion id="player_complete_marsh_key_decision_1"> 
+</info_portion>
+
+<info_portion id="marsh_key_decision_2_start">
+		<task>marsh_key_decision_2</task>
+	</info_portion>
+	<info_portion id="marsh_key_decision_2_1">
+	</info_portion>
+	<info_portion id="player_complete_marsh_key_decision_2"> 
+</info_portion>
+
+<info_portion id="old_bunker_sidor_start">
+		<task>old_bunker_sidor</task>
+	</info_portion>
+	<info_portion id="old_bunker_sidor_1">
+	</info_portion>
+	<info_portion id="player_complete_old_bunker_sidor"> 
+</info_portion>
+
+<info_portion id="find_gone_selectors_start">
+		<task>find_gone_selectors</task>
+	</info_portion>
+	<info_portion id="find_gone_selectors_1">
+	</info_portion>
+	<info_portion id="find_gone_selectors_2">
+	</info_portion>
+	<info_portion id="player_complete_find_gone_selectors"> 
+</info_portion>
+
+<info_portion id="there_will_be_light1_start">
+		<task>there_will_be_light1</task>
+	</info_portion>
+	<info_portion id="there_will_be_light1_1">
+	</info_portion>
+	<info_portion id="there_will_be_light1_2">
+	</info_portion>
+	<info_portion id="there_will_be_light1_3">
+	</info_portion>
+	<info_portion id="player_complete_there_will_be_light1"> 
+</info_portion>
+
+<info_portion id="there_will_be_light2_start">
+		<task>there_will_be_light2</task>
+	</info_portion>
+	<info_portion id="there_will_be_light2_1">
+	</info_portion>
+	<info_portion id="there_will_be_light2_2">
+	</info_portion>
+	<info_portion id="there_will_be_light2_3">
+	</info_portion>
+	<info_portion id="there_will_be_light2_4">
+	</info_portion>
+	<info_portion id="player_complete_there_will_be_light2"> 
+</info_portion>
+
+<info_portion id="work_on_corporation_start">
+		<task>work_on_corporation</task>
+	</info_portion>
+	<info_portion id="work_on_corporation_1">
+	</info_portion>
+	<info_portion id="player_complete_work_on_corporation"> 
+</info_portion>
+
+<info_portion id="find_boxes_hsm_start">
+		<task>find_boxes_hsm</task>
+	</info_portion>
+	<info_portion id="find_boxes_hsm_1">
+	</info_portion>
+	<info_portion id="find_boxes_hsm_2">
+	</info_portion>
+	<info_portion id="find_boxes_hsm_3">
+	</info_portion>
+	<info_portion id="find_boxes_hsm_4">
+	</info_portion>
+	<info_portion id="find_boxes_hsm_5">
+	</info_portion>
+	<info_portion id="find_boxes_hsm_6">
+	</info_portion>
+	<info_portion id="find_boxes_hsm_7">
+	</info_portion>
+	<info_portion id="player_complete_find_boxes_hsm"> 
+</info_portion>
+
+<info_portion id="silence_of_scientists_start">
+		<task>silence_of_scientists</task>
+	</info_portion>
+	<info_portion id="silence_of_scientists_1">
+	</info_portion>
+	<info_portion id="silence_of_scientists_2">
+	</info_portion>
+	<info_portion id="player_complete_silence_of_scientists"> 
+</info_portion>
+
+<info_portion id="agru_take_away_container_hsm_start">
+		<task>agru_take_away_container_hsm</task>
+	</info_portion>
+	<info_portion id="agru_take_away_container_hsm_1">
+	</info_portion>
+	<info_portion id="agru_take_away_container_hsm_2">
+	</info_portion>
+	<info_portion id="player_complete_agru_take_away_container_hsm"> 
+</info_portion>
+
+<info_portion id="transfer_agru_hsm_box_start">
+		<task>transfer_agru_hsm_box</task>
+	</info_portion>
+	<info_portion id="transfer_agru_hsm_box_1">
+	</info_portion>
+	<info_portion id="player_complete_transfer_agru_hsm_box"> 
+</info_portion>
+
+<info_portion id="meeting_near_tunnel_start">
+		<task>meeting_near_tunnel</task>
+	</info_portion>
+	<info_portion id="meeting_near_tunnel_1">
+	</info_portion>
+	<info_portion id="meeting_near_tunnel_2">
+	</info_portion>
+	<info_portion id="player_complete_meeting_near_tunnel"> 
+</info_portion>
+
+<info_portion id="container_number_two_start">
+		<task>container_number_two</task>
+	</info_portion>
+	<info_portion id="container_number_two_1">
+	</info_portion>
+	<info_portion id="container_number_two_2">
+	</info_portion>
+	<info_portion id="container_number_two_3">
+	</info_portion>
+	<info_portion id="player_complete_container_number_two"> 
+</info_portion>
+
+<info_portion id="foolish_plan_start">
+		<task>foolish_plan</task>
+	</info_portion>
+	<info_portion id="foolish_plan_1">
+	</info_portion>
+	<info_portion id="foolish_plan_2">
+	</info_portion>
+	<info_portion id="foolish_plan_3">
+	</info_portion>
+	<info_portion id="foolish_plan_4">
+	</info_portion>
+	<info_portion id="player_complete_foolish_plan"> 
+</info_portion>
+
+<info_portion id="container_number_three_start">
+		<task>container_number_three</task>
+	</info_portion>
+	<info_portion id="container_number_three_1">
+	</info_portion>
+	<info_portion id="container_number_three_2">
+	</info_portion>
+	<info_portion id="container_number_three_3">
+	</info_portion>
+	<info_portion id="player_complete_container_number_three"> 
+</info_portion>
+
+<info_portion id="first_meeting_sinoptic_start">
+		<task>first_meeting_sinoptic</task>
+	</info_portion>
+	<info_portion id="first_meeting_sinoptic_1">
+	</info_portion>
+	<info_portion id="first_meeting_sinoptic_2">
+	</info_portion>
+	<info_portion id="player_complete_first_meeting_sinoptic"> 
+</info_portion>
+
+<info_portion id="find_necronomicon_start">
+		<task>find_necronomicon</task>
+	</info_portion>
+	<info_portion id="find_necronomicon_1">
+	</info_portion>
+	<info_portion id="find_necronomicon_2">
+	</info_portion>
+	<info_portion id="find_necronomicon_3">
+	</info_portion>
+	<info_portion id="player_complete_find_necronomicon"> 
+</info_portion>
+
+<info_portion id="killing_paranoia_start">
+		<task>killing_paranoia</task>
+	</info_portion>
+	<info_portion id="killing_paranoia_1">
+	</info_portion>
+	<info_portion id="killing_paranoia_2">
+	</info_portion>
+	<info_portion id="player_complete_killing_paranoia"> 
+</info_portion>
+
+<info_portion id="headquarters_counterintelligence_duty_start">
+		<task>headquarters_counterintelligence_duty</task>
+	</info_portion>
+	<info_portion id="headquarters_counterintelligence_duty_1">
+	</info_portion>
+	<info_portion id="headquarters_counterintelligence_duty_2">
+	</info_portion>
+	<info_portion id="headquarters_counterintelligence_duty_3">
+	</info_portion>
+	<info_portion id="player_complete_headquarters_counterintelligence_duty"> 
+</info_portion>
+
+<info_portion id="conscience_of_colonel_start">
+		<task>conscience_of_colonel</task>
+	</info_portion>
+	<info_portion id="conscience_of_colonel_1">
+	</info_portion>
+	<info_portion id="player_complete_conscience_of_colonel"> 
+</info_portion>
+
+<info_portion id="agent_grc_start">
+		<task>agent_grc</task>
+	</info_portion>
+	<info_portion id="agent_grc_1">
+	</info_portion>
+	<info_portion id="player_complete_agent_grc"> 
+</info_portion>
+
+<info_portion id="base_of_military_stalkers_start">
+		<task>base_of_military_stalkers</task>
+	</info_portion>
+	<info_portion id="base_of_military_stalkers_1">
+	</info_portion>
+	<info_portion id="base_of_military_stalkers_2">
+	</info_portion>
+	<info_portion id="player_complete_base_of_military_stalkers"> 
+</info_portion>
+
+<info_portion id="military_stalkers_start">
+		<task>military_stalkers</task>
+	</info_portion>
+	<info_portion id="military_stalkers_1">
+	</info_portion>
+	<info_portion id="player_complete_military_stalkers"> 
+</info_portion>
+
+<info_portion id="ritual_knife_start">
+		<task>ritual_knife</task>
+	</info_portion>
+	<info_portion id="ritual_knife_1">
+	</info_portion>
+	<info_portion id="ritual_knife_2">
+	</info_portion>
+	<info_portion id="ritual_knife_3">
+	</info_portion>
+	<info_portion id="player_complete_ritual_knife"> 
+</info_portion>
+
+<info_portion id="the_knife_for_the_barman_start">
+		<task>the_knife_for_the_barman</task>
+	</info_portion>
+	<info_portion id="the_knife_for_the_barman_1">
+	</info_portion>
+	<info_portion id="player_complete_the_knife_for_the_barman"> 
+</info_portion>
+
+<info_portion id="track_to_limansk_start">
+		<task>track_to_limansk</task>
+	</info_portion>
+	<info_portion id="track_to_limansk_1">
+	</info_portion>
+	<info_portion id="track_to_limansk_2">
+	</info_portion>
+	<info_portion id="track_to_limansk_3">
+	</info_portion>
+	<info_portion id="player_complete_track_to_limansk"> 
+</info_portion>
+
+<info_portion id="in_the_law_start">
+		<task>in_the_law</task>
+	</info_portion>
+	<info_portion id="in_the_law_1">
+	</info_portion>
+	<info_portion id="in_the_law_2">
+	</info_portion>
+	<info_portion id="player_complete_in_the_law"> 
+</info_portion>
+
+<info_portion id="glade_centre_start">
+		<task>glade_centre</task>
+	</info_portion>
+	<info_portion id="glade_centre_1">
+	</info_portion>
+	<info_portion id="player_complete_glade_centre"> 
+</info_portion>
+
+<info_portion id="kill_gravedigger_start">
+		<task>kill_gravedigger</task>
+	</info_portion>
+	<info_portion id="kill_gravedigger_1">
+	</info_portion>
+	<info_portion id="kill_gravedigger_2">
+	</info_portion>
+	<info_portion id="player_complete_kill_gravedigger"> 
+</info_portion>
+
+<info_portion id="in_private_start">
+		<task>in_private</task>
+	</info_portion>
+	<info_portion id="in_private_1">
+	</info_portion>
+	<info_portion id="in_private_2">
+	</info_portion>
+	<info_portion id="in_private_3">
+	</info_portion>
+	<info_portion id="in_private_4">
+	</info_portion>
+	<info_portion id="player_complete_in_private"> 
+</info_portion>
+
+<info_portion id="other_debts_start">
+		<task>other_debts</task>
+	</info_portion>
+	<info_portion id="other_debts_1">
+	</info_portion>
+	<info_portion id="other_debts_1_1">
+	</info_portion>
+	<info_portion id="other_debts_2">
+	</info_portion>
+	<info_portion id="player_complete_other_debts"> 
+</info_portion>
+
+<info_portion id="signal_from_varnak_start">
+		<task>signal_from_varnak</task>
+	</info_portion>
+	<info_portion id="signal_from_varnak_1">
+	</info_portion>
+	<info_portion id="player_complete_signal_from_varnak"> 
+</info_portion>
+
+<info_portion id="sacred_business_start">
+		<task>sacred_business</task>
+	</info_portion>
+	<info_portion id="sacred_business_1">
+	</info_portion>
+	<info_portion id="sacred_business_2">
+	</info_portion>
+	<info_portion id="sacred_business_3">
+	</info_portion>
+	<info_portion id="sacred_business_4">
+	</info_portion>
+	<info_portion id="player_complete_sacred_business"> 
+</info_portion>
+
+<info_portion id="werewolf_in_epaulets_start">
+		<task>werewolf_in_epaulets</task>
+	</info_portion>
+	<info_portion id="werewolf_in_epaulets_1">
+	</info_portion>
+	<info_portion id="werewolf_in_epaulets_2">
+	</info_portion>
+	<info_portion id="player_complete_werewolf_in_epaulets"> 
+</info_portion>
+
+<info_portion id="take_away_passports_start">
+		<task>take_away_passports</task>
+	</info_portion>
+	<info_portion id="take_away_passports_1">
+	</info_portion>
+	<info_portion id="take_away_passports_2">
+	</info_portion>
+	<info_portion id="player_complete_take_away_passports"> 
+</info_portion>
+
+<info_portion id="large_caliber_sniper_rifle_start">
+		<task>large_caliber_sniper_rifle</task>
+	</info_portion>
+	<info_portion id="large_caliber_sniper_rifle_1">
+	</info_portion>
+	<info_portion id="player_complete_large_caliber_sniper_rifle"> 
+</info_portion>
+
+<info_portion id="vague_memoirs_start">
+		<task>vague_memoirs</task>
+	</info_portion>
+	<info_portion id="vague_memoirs_1">
+	</info_portion>
+	<info_portion id="vague_memoirs_2">
+	</info_portion>
+	<info_portion id="player_complete_vague_memoirs"> 
+</info_portion>
+
+<info_portion id="dark_valley_abnormal_activity_start">
+		<task>dark_valley_abnormal_activity</task>
+	</info_portion>
+	<info_portion id="dark_valley_abnormal_activity_1">
+	</info_portion>
+	<info_portion id="player_complete_dark_valley_abnormal_activity">
+</info_portion>
+
+<info_portion id="dark_valley_abnormal_activity2_start">
+		<task>dark_valley_abnormal_activity2</task>
+	</info_portion>
+	<info_portion id="dark_valley_abnormal_activity2_1">
+	</info_portion>
+	<info_portion id="dark_valley_abnormal_activity2_2">
+	</info_portion>
+	<info_portion id="dark_valley_abnormal_activity2_3">
+	</info_portion>
+	<info_portion id="dark_valley_abnormal_activity2_4">
+	</info_portion>
+	<info_portion id="dark_valley_abnormal_activity2_5">
+	</info_portion>
+	<!--info_portion id="dark_valley_abnormal_activity2_6">
+	</info_portion-->
+	<info_portion id="player_complete_dark_valley_abnormal_activity2">
+</info_portion>
+
+<info_portion id="gone_nestor_start">
+		<task>gone_nestor</task>
+	</info_portion>
+	<info_portion id="gone_nestor_1">
+	</info_portion>
+	<info_portion id="player_complete_gone_nestor">
+</info_portion>
+
+<info_portion id="gone_nestor_2_start">
+		<task>gone_nestor_2</task>
+	</info_portion>
+	<info_portion id="gone_nestor_2_1">
+	</info_portion>
+	<info_portion id="player_complete_gone_nestor_2">
+</info_portion>
+
+<info_portion id="yalta_start">
+		<task>yalta</task>
+	</info_portion>
+	<info_portion id="yalta_1">
+	</info_portion>
+	<info_portion id="player_complete_yalta">
+</info_portion>
+
+<info_portion id="mcleens_start">
+		<task>mcleens</task>
+	</info_portion>
+	<info_portion id="mcleens_1">
+	</info_portion>
+	<info_portion id="player_complete_mcleens">
+</info_portion>
+
+<info_portion id="yalta_and_mcleens_start">
+		<task>yalta_and_mcleens</task>
+	</info_portion>
+	<info_portion id="yalta_and_mcleens_1">
+	</info_portion>
+	<info_portion id="yalta_and_mcleens_2">
+	</info_portion>
+	<info_portion id="player_complete_yalta_and_mcleens">
+</info_portion>
+
+<info_portion id="patronage_for_mercenaries_start">
+		<task>patronage_for_mercenaries</task>
+	</info_portion>
+	<info_portion id="patronage_for_mercenaries_1">
+	</info_portion>
+	<info_portion id="player_complete_patronage_for_mercenaries">
+</info_portion>
+
+<info_portion id="secrets_of_diggers_start">
+		<task>secrets_of_diggers</task>
+	</info_portion>
+	<info_portion id="secrets_of_diggers_1">
+	</info_portion>
+	<info_portion id="player_complete_secrets_of_diggers">
+</info_portion>
+
+<info_portion id="devices_from_factory_start">
+		<task>devices_from_factory</task>
+	</info_portion>
+	<info_portion id="devices_from_factory_1">
+	</info_portion>
+	<info_portion id="devices_from_factory_2">
+	</info_portion>
+	<info_portion id="player_complete_devices_from_factory">
+</info_portion>
+
+<info_portion id="grc_compensation_start">
+		<task>grc_compensation</task>
+	</info_portion>
+	<info_portion id="grc_compensation_1">
+	</info_portion>
+	<info_portion id="player_complete_grc_compensation">
+</info_portion>
+
+<info_portion id="tarnished_reputation_start">
+		<task>tarnished_reputation</task>
+	</info_portion>
+	<info_portion id="tarnished_reputation_1">
+	</info_portion>
+	<info_portion id="player_complete_tarnished_reputation">
+</info_portion>
+
+<info_portion id="fallen_helicopter_start">
+		<task>fallen_helicopter</task>
+	</info_portion>
+	<info_portion id="fallen_helicopter_1">
+	</info_portion>
+	<info_portion id="player_complete_fallen_helicopter">
+</info_portion>
+
+<info_portion id="meeting_on_farm_start">
+		<task>meeting_on_farm</task>
+	</info_portion>
+	<info_portion id="meeting_on_farm_1">
+	</info_portion>
+	<info_portion id="player_complete_meeting_on_farm">
+</info_portion>
+
+<info_portion id="meeting_on_krovososovka_start">
+		<task>meeting_on_krovososovka</task>
+	</info_portion>
+	<info_portion id="meeting_on_krovososovka_1">
+	</info_portion>
+	<info_portion id="player_complete_meeting_on_krovososovka">
+</info_portion>
+
+<info_portion id="zindan_start">
+		<task>zindan</task>
+	</info_portion>
+	<info_portion id="zindan_1">
+	</info_portion>
+	<info_portion id="player_complete_zindan">
+</info_portion>
+
+<info_portion id="last_container_hsm_start">
+		<task>last_container_hsm</task>
+	</info_portion>
+	<info_portion id="last_container_hsm_1">
+	</info_portion>
+	<info_portion id="player_complete_last_container_hsm">
+</info_portion>
+
+<info_portion id="principle_business_start">
+		<task>principle_business</task>
+	</info_portion>
+	<info_portion id="principle_business_1">
+	</info_portion>
+	<info_portion id="player_complete_principle_business">
+</info_portion>
+
+<info_portion id="lost_scientist_start">
+		<task>lost_scientist</task>
+	</info_portion>
+	<info_portion id="lost_scientist_1">
+	</info_portion>
+	<info_portion id="lost_scientist_2">
+	</info_portion>
+	<info_portion id="player_complete_lost_scientist">
+</info_portion>
+
+<info_portion id="message_from_the_next_world_start">
+		<task>message_from_the_next_world</task>
+	</info_portion>
+	<info_portion id="message_from_the_next_world_1">
+	</info_portion>
+	<info_portion id="message_from_the_next_world_2">
+	</info_portion>
+	<info_portion id="player_complete_message_from_the_next_world">
+</info_portion>
+
+<info_portion id="flying_laboratory_start">
+		<task>flying_laboratory</task>
+	</info_portion>
+	<info_portion id="flying_laboratory_1">
+	</info_portion>
+	<info_portion id="flying_laboratory_2">
+	</info_portion>
+	<info_portion id="player_complete_flying_laboratory">
+</info_portion>
+
+<info_portion id="contract_with_colonel_start">
+		<task>contract_with_colonel</task>
+	</info_portion>
+	<info_portion id="contract_with_colonel_1">
+	</info_portion>
+	<info_portion id="player_complete_contract_with_colonel">
+</info_portion>
+
+<info_portion id="peace_talker_start">
+		<task>peace_talker</task>
+	</info_portion>
+	<info_portion id="peace_talker_1">
+	</info_portion>
+	<info_portion id="peace_talker_2">
+	</info_portion>
+	<info_portion id="peace_talker_3">
+	</info_portion>
+	<info_portion id="peace_talker_4">
+	</info_portion>
+	<info_portion id="player_complete_peace_talker">
+</info_portion>
+
+<info_portion id="gate_in_the_zone_start">
+		<task>gate_in_the_zone</task>
+	</info_portion>
+	<info_portion id="gate_in_the_zone_1">
+	</info_portion>
+	<info_portion id="gate_in_the_zone_2">
+	</info_portion>
+	<info_portion id="player_complete_gate_in_the_zone">
+</info_portion>
+
+<info_portion id="perimetre_storm_start">
+		<task>perimetre_storm</task>
+	</info_portion>
+	<info_portion id="perimetre_storm_1">
+	</info_portion>
+	<info_portion id="perimetre_storm_2">
+	</info_portion>
+	<info_portion id="perimetre_storm_3">
+	</info_portion>
+	<info_portion id="player_complete_perimetre_storm">
+</info_portion>
+
+<info_portion id="return_usbdisk_to_leo_start">
+		<task>return_usbdisk_to_leo</task>
+	</info_portion>
+	<info_portion id="return_usbdisk_to_leo_1">
+	</info_portion>
+	<info_portion id="player_complete_return_usbdisk_to_leo">
+</info_portion>
+
+<info_portion id="legend_about_reanimator_start">
+		<task>legend_about_reanimator</task>
+	</info_portion>
+	<info_portion id="legend_about_reanimator_1">
+	</info_portion>
+	<info_portion id="legend_about_reanimator_2">
+	</info_portion>
+	<info_portion id="player_complete_legend_about_reanimator">
+</info_portion>
+
+<info_portion id="unknown_persons_start">
+		<task>unknown_persons</task>
+	</info_portion>
+	<info_portion id="unknown_persons_1">
+	</info_portion>
+	<info_portion id="player_complete_unknown_persons">
+</info_portion>
+
+<info_portion id="disappearance_of_teuton_start">
+		<task>disappearance_of_teuton</task>
+	</info_portion>
+	<info_portion id="disappearance_of_teuton_1">
+	</info_portion>
+	<info_portion id="player_complete_disappearance_of_teuton">
+</info_portion>
+
+<info_portion id="key_for_portal_start">
+		<task>key_for_portal</task>
+	</info_portion>
+	<info_portion id="key_for_portal_1">
+	</info_portion>
+	<info_portion id="key_for_portal_2">
+	</info_portion>
+	<info_portion id="player_complete_key_for_portal">
+</info_portion>
+
+<info_portion id="neutralise_turrets_start">
+		<task>neutralise_turrets</task>
+	</info_portion>
+	<info_portion id="neutralise_turrets_1">
+	</info_portion>
+	<info_portion id="neutralise_turrets_2">
+	</info_portion>
+	<info_portion id="player_complete_neutralise_turrets">
+</info_portion>
+
+<info_portion id="group_poisk_hiding_place_start">
+		<task>group_poisk_hiding_place</task>
+	</info_portion>
+	<info_portion id="group_poisk_hiding_place_1">
+	</info_portion>
+	<info_portion id="group_poisk_hiding_place_2">
+	</info_portion>
+	<info_portion id="player_complete_group_poisk_hiding_place">
+</info_portion>
+
+<info_portion id="tell_to_gold_start">
+		<task>tell_to_gold</task>
+	</info_portion>
+	<info_portion id="tell_to_gold_1">
+	</info_portion>
+	<info_portion id="player_complete_tell_to_gold">
+</info_portion>
+
+<info_portion id="mine_power_supply_start">
+		<task>mine_power_supply</task>
+	</info_portion>
+	<info_portion id="mine_power_supply_1">
+	</info_portion>
+	<info_portion id="player_complete_mine_power_supply">
+</info_portion>
+
+<info_portion id="duty_help_start">
+		<task>duty_help</task>
+	</info_portion>
+	<info_portion id="duty_help_1">
+	</info_portion>
+	<info_portion id="duty_help_2">
+	</info_portion>
+	<info_portion id="player_complete_duty_help">
+</info_portion>
+
+<info_portion id="relatives_start">
+		<task>relatives</task>
+	</info_portion>
+	<info_portion id="relatives_1">
+	</info_portion>
+	<info_portion id="player_complete_relatives">
+</info_portion>
+
+<info_portion id="the_last_stalker_start">
+		<task>the_last_stalker</task>
+	</info_portion>
+	<info_portion id="the_last_stalker_1">
+	</info_portion>
+	<info_portion id="the_last_stalker_2">
+	</info_portion>
+	<info_portion id="player_complete_the_last_stalker">
+</info_portion>
+
+<info_portion id="destiny_yalta_group_start">
+		<task>destiny_yalta_group</task>
+	</info_portion>
+	<info_portion id="destiny_yalta_group_1">
+	</info_portion>
+	<info_portion id="player_complete_destiny_yalta_group">
+</info_portion>
+
+<info_portion id="stalker_catcher_start">
+		<task>stalker_catcher</task>
+	</info_portion>
+	<info_portion id="stalker_catcher_1">
+	</info_portion>
+	<info_portion id="player_complete_stalker_catcher">
+</info_portion>
+
+<info_portion id="courtyard_in_east_pripyat_start">
+		<task>courtyard_in_east_pripyat</task>
+	</info_portion>
+	<info_portion id="courtyard_in_east_pripyat_1">
+	</info_portion>
+	<info_portion id="player_complete_courtyard_in_east_pripyat">
+</info_portion>
+
+<info_portion id="kill_iron_mask_start">
+		<task>kill_iron_mask</task>
+	</info_portion>
+	<info_portion id="kill_iron_mask_1">
+	</info_portion>
+	<info_portion id="player_complete_kill_iron_mask">
+</info_portion>
+
+<info_portion id="artefacts_from_obscure_start">
+		<task>artefacts_from_obscure</task>
+	</info_portion>
+	<info_portion id="artefacts_from_obscure_1">
+	</info_portion>
+	<info_portion id="artefacts_from_obscure_2">
+	</info_portion>
+	<info_portion id="artefacts_from_obscure_3">
+	</info_portion>
+	<info_portion id="player_complete_artefacts_from_obscure">
+</info_portion>
+
+<!-- <info_portion id="_start">
+		<task></task>
+	</info_portion>
+	<info_portion id="_">
+	</info_portion>
+	<info_portion id="player_complete_">
+</info_portion> -->
+		
+</game_information_portions>
+

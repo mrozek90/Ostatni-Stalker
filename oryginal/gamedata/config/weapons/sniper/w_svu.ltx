@@ -1,0 +1,178 @@
+;;;;;;;;;;;;;; —найперска€ винтовка —¬” ;;;;;;;;;;;;;;
+;-----------------------------------------------------
+[wpn_svu]:identity_immunities
+GroupControlSection	= spawn_group
+discovery_dependency = 
+$spawn                  = "weapons\svu"		; option for Level Editor
+$npc			 		= on				; option for Level Editor
+$prefetch 		 		= 8
+scheduled               = off              	; option for ALife Simulator
+cform                   = skeleton
+class                   = WP_SVU
+min_radius              = 50
+max_radius              = 250
+description				= enc_weapons1_wpn-svu
+
+ef_main_weapon_type		 = 3
+ef_weapon_type			 = 8
+
+;--- scope weapons -----------------------------------------------------------------
+holder_range_modifier	= 2.15               ; во сколько раз увеличиваетс€ eye_range 
+holder_fov_modifier		= 0.3              ; во сколько раз увеличиваетс€ eye_fov
+;-----------------------------------------------------------------------------------
+
+cost				= 12000
+weapon_class			= sniper_rifle
+
+ammo_limit		 	= 60
+ammo_current			= 10
+ammo_elapsed		 	= 10
+
+f_mode				= 1
+
+ammo_mag_size		 	= 10
+ammo_class		 		= ammo_7.62x54_ap, ammo_7.62x54_7h14, ammo_7.62x54_7h1
+
+sprint_allowed			= true;  false
+;-----------------------------------------------------------------------------------
+;базова€ дисперси€
+fire_dispersion_base		= 0.03	;угол (в градусах) базовой дисперсии оружи€ (оружи€ зажатого в тисках)
+control_inertion_factor		= 1.6f
+
+;отдача
+cam_relax_speed         	= 8.5	;скорость возврата в исходное положение
+cam_relax_speed_ai         	= 120.75	;скорость возврата в исходное положение
+cam_dispersion          	= 1.75	;увеличени€ угла (в градусах) с каждым выстрелом
+cam_dispersion_inc		= 0.15	;увеличениe cam_dispersion с каждым выстрелом
+cam_dispertion_frac		= 0.70	;ствол будет подыматьс€ на cam_dispersion*cam_dispertion_frac +- cam_dispersion*(1-cam_dispertion_frac)
+cam_max_angle			= 12.0	;максимальный угол отдачи
+cam_max_angle_horz		= 2.75	;(degree) maximum shot horizontal degree 
+cam_step_angle_horz		= 0.4	;(degree) size of step camera moved in horizontal position while shooting
+
+fire_dispersion_condition_factor = 5	;увеличение дисперсии в процентах при максимальном износе 
+misfire_probability 	= 0.005	;веро€тность осечки при максимальном износе 
+misfire_condition_k		= 0.05
+condition_shot_dec 		= 0.0002 ;увеличение износа при каждом выстреле
+;-----------------------------------------------------------------------------------
+
+hand_dependence 		= 1
+single_handed			= 0
+
+slot 			 	= 2		; // secondary
+animation_slot			= 8		; type of the animation that will be used
+
+inv_name		 	= wpn-svu
+inv_name_short		 	= wpn-svu
+inv_weight		 	= 4.4
+
+inv_grid_width			= 5
+inv_grid_height			= 2
+inv_grid_x			= 0
+inv_grid_y			= 2
+
+kill_msg_x		= 0
+kill_msg_y		= 59
+kill_msg_width		= 80
+kill_msg_height		= 26
+
+direction               = 0, 0, 1
+fire_point              = 0.0, 0.128, 0.445
+
+;flame_particles		= weapons\generic_weapon05
+smoke_particles		   	= weapons\generic_shoot_00
+rpm_empty_click 	 	= 200
+
+shell_point		 		= 0.0, 0.128, -0.11
+shell_dir		 		= 0.0, 0.0, 0.4
+shell_particles				= weapons\762x54
+
+PDM_disp_base 			= 4.0
+PDM_disp_vel_factor 		= 0.8
+PDM_disp_accel_factor 		= 1.0
+PDM_crouch	 		= 1.0
+PDM_crouch_no_acc 		= 1.0
+
+;;;;;;; ƒл€ "ѕоследний —талкер"
+hit_power          = 1.0
+hit_impulse	   = 90
+hit_type 		   = fire_wound
+
+fire_distance      = 500
+bullet_speed	   = 830	;начальна€ скорость пули
+rpm                = 140
+; end ttc
+
+use_aim_bullet				= true		;ѕоддерживаетс€ ли перва€ суппер пул€
+time_to_aim					= 1.0	
+
+hud                     = wpn_svu_hud
+normal                  = 0, 1, 0
+position                = -0.021, -0.085, -0.0105
+orientation             = 0, 0, 0
+
+;--STRAP PARAMETERS-----------------------------------------------------------------
+;под мишкой
+strap_position         		= 0.00,-0.12,0.25 ;0.00,-0.16,0.25 ;-0.26,-0.11,0.25			; position (offset) and orientation of the weapon when it is strapped
+strap_orientation      		= 182,-1,105	;175,-1,110 ;-15,-9,110				; (3rd person view in degrees)
+strap_bone0					= bip01_spine2
+strap_bone1					= bip01_spine1
+
+startup_ammo            = 10
+visual                  = weapons\svu\wpn_svu.ogf
+
+light_disabled					= true
+
+ph_mass			 		= 3
+;cost			 		= 900
+
+;addons
+scope_status			= 1
+silencer_status			= 1
+grenade_launcher_status	        = 0
+; zoom_enabled			= true
+
+scope_texture			= wpn\wpn_svu  ;wpn\wpn_crosshair
+zoom_enabled			= true
+scope_zoom_factor	        = 15		;ѕ—ќ1M1-AMK 4X
+
+;------------------------------ S.T.A.L.K.E.R`s sound remake ------------------------------
+;звуки
+snd_draw				= weapons\svu\svu_draw
+snd_holster				= weapons\sniper_holster
+snd_shoot				= weapons\svu\svu_shoot
+snd_empty				= weapons\val\val_empty,0.9
+snd_reload				= weapons\svu\svu_reload
+snd_close				= weapons\val\val_empty,0.9
+snd_silncer_shot			= weapons\svu\shoot
+;------------------------------------------------------------------------------------------
+
+[wpn_svu_hud]
+shell_point				= 0.1,-0.03,-0.85
+shell_dir               		= 0,1,0
+shell_bone				= gilza
+
+fire_point					= -0.01,-0.1,-0.5
+fire_bone               				= muzzle
+orientation             = 1.5, 1.25, 0
+
+position		= -0.004200, -0.1410, 0.2540
+	
+visual                  = weapons\svu\wpn_svu_hud.ogf
+
+anim_holster			= svu_holster
+anim_idle			= svu_idle
+anim_idle_aim			= svu_idle_aim
+anim_reload			= svu_reload
+anim_draw			= svu_draw
+anim_shoot			= svu_shoot
+anim_idle_sprint 		= svu_idle_sprint
+;anim_idle_moving    		= svu_idle_moving
+
+
+;смещени€ HUD дл€ режима приближени€
+zoom_offset			= -0.11350,0.025,-0.033	;-0.0.071000,0.031999,-0.103000
+zoom_rotate_x			= 0.055000
+zoom_rotate_y			= 0.052500
+
+zoom_rotate_time		= 0.3
+rotate_time			= 0.3

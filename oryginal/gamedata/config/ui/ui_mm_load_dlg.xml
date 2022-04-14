@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<window>
+
+<back_video x="0" y="0" width="1024" height="430">
+		<texture x="0" y="0" width="1024" height="430">ui\ui_mm_window_back_crop</texture>
+	</back_video>
+
+	<_back_video x="0" y="0" width="1024" height="512" stretch="1">
+		<texture>ui\ui_vid_back_04</texture>
+	</_back_video>
+
+	<background x="0" y="0" width="1024" height="768">
+		<texture x="0" y="0" width="1024" height="768">ui\ui_mm_load_ls</texture>
+	</background>
+
+	<newspaper_video x="1337" y="512" width="256" height="256">
+		<texture>ui\ui_mm_newspaper</texture>
+	</newspaper_video>
+
+	<form x="558" y="162" width="560" height="660">
+	    <texture></texture>
+	    <caption x="-50" y="10" width="560" height="30">
+		    <text font="graffiti32" align="c">ui_mm_load_game</text>
+	    </caption>
+	    <picture x="31" y="85" width="128" height="128" clipper="1">
+		    <texture>ui\ui_noise</texture>
+	    </picture>
+
+<file_info	x="47" y="55" width="497" height="171">
+			<_texture>ui\ui_static_loadgameinfo</_texture>
+			<texture x="0" y="768" width="197" height="171"></texture>
+		</file_info>
+
+	    <file_caption x="170" y="70" width="240" height="20">
+		    <text font="letterica18" color="green"/>
+	    </file_caption>
+	    <file_data x="170" y="90" width="240" height="50" complex_mode="1">
+		    <text font="letterica18"/>
+	    </file_data>
+	    <list_frame x="30" y="215" width="400" height="215">
+		    <texture>ui_inGame2_listbox</texture>
+	    </list_frame>
+	    <list x="38" y="219" width="391" height="210" item_height="18">
+		    <font font="letterica16"/>
+	    </list>
+		
+		<btn_load x="47" y="510" width="122" height="26" stretch="1">
+			<texture>ui_inGame2_Mp_bigbuttone</texture>
+			<text font="letterica18">ui_mm_load</text>
+			<text_color>
+				<e r="170" g="170" b="170"/>
+ 				<t r="180" g="153" b="155"/>
+ 				<d r="106" g="95" b="91"/>
+ 				<h r="0" g="0" b="0"/>
+			</text_color>
+		</btn_load>
+		
+		<btn_delete x="165" y="510" width="122" height="26" stretch="1">
+			<texture>ui_inGame2_Mp_bigbuttone</texture>
+			<text font="letterica18">ui_mm_delete</text>
+			<text_color>
+				<e r="170" g="170" b="170"/>
+ 				<t r="180" g="153" b="155"/>
+ 				<d r="106" g="95" b="91"/>
+ 				<h r="0" g="0" b="0"/>
+			</text_color>
+		</btn_delete>
+		
+		<btn_cancel x="288" y="510" width="122" height="26" stretch="1">
+			<texture>ui_inGame2_Mp_bigbuttone</texture>			
+			<text font="letterica18">ui_mm_cancel</text>
+			<text_color>
+				<e r="170" g="170" b="170"/>
+ 				<t r="180" g="153" b="155"/>
+ 				<d r="106" g="95" b="91"/>
+ 				<h r="0" g="0" b="0"/>
+			</text_color>
+		</btn_cancel>
+	
+	</form>
+</window>

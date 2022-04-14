@@ -1,0 +1,254 @@
+<frame_all_list x="105" y="35" width="200" height="300">
+    <texture>ui\ui_pda_frame_sub</texture>
+	<auto_static x="20" y="2" width="150" height="18" stretch="1">
+	    <texture x="0" y="14" width="160" height="18">ui\ui_pda_frame_sub_b</texture>
+		<text font="letterica16" align="c" vert_align="c">base objects</text>
+	</auto_static>
+	<list_all x="5" y="20" width="194" height="270" item_height="20" always_show_scroll="1">
+	    <font font="letterica16" r="216" g="186" b="140" />
+	</list_all>
+</frame_all_list>
+
+<frame_spawn_list x="345" y="35" width="200" height="300">
+    <texture>ui\ui_pda_frame_sub</texture>
+	<auto_static x="20" y="2" width="150" height="18" stretch="1">
+	    <texture x="0" y="14" width="160" height="18">ui\ui_pda_frame_sub_b</texture>
+		<text font="letterica16" align="c" vert_align="c">spawn objects</text>
+	</auto_static>
+	<list_spawn x="5" y="20" width="194" height="270" item_height="20" always_show_scroll="1">
+	    <font font="letterica16" r="216" g="186" b="140" />
+	</list_spawn>
+</frame_spawn_list>
+
+<but_add_object x="309" y="151" width="32" height="32">
+    <texture>ui\ui_scb_rigth_arrow</texture>
+</but_add_object>
+
+<but_del_object x="309" y="187" width="32" height="32">
+    <texture>mobile\ui_scb_left_arrow</texture>
+</but_del_object>
+
+<tab_type x="10" y="4" width="240" height="23">
+    <button x="0" y="0" width="120" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica18" align="l" x="32" vert_align="c" complex_mode="0">tab_type_1</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+	<button x="120" y="0" width="120" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica18" align="l" x="32" vert_align="c" complex_mode="0">tab_type_2</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+</tab_type>
+
+<tab_where x="0" y="350" width="200" height="69">
+    <button x="0" y="0" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_where_1</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button> 
+	<button x="0" y="23" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_where_2</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+	<button x="0" y="46" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_where_3</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+</tab_where>
+
+<list_types x="0" y="35" width="115" height="300" item_height="27" always_hide_scroll="1" active_bg="0">
+    <font font="letterica25" align="c" vert_align="c" r="216" g="186" b="140" />
+</list_types>
+
+<btn_spawn x="604" y="305" width="117" height="29"  accel="kRETURN">
+    <texture>ui_button_ordinary</texture>
+	<text>Spawn</text>
+</btn_spawn>
+
+<edit_section x="345" y="2" width="200" height="32">
+    <texture>ui\ui_string_07</texture>
+</edit_section>
+
+<valid_sec_icon x="320" y="7" width="14" height="14" stretch="1">
+    <texture>ui_icons_newPDA_SmallRed</texture>
+</valid_sec_icon>
+
+<btn_add_sec_from_edit x="550" y="2" width="117" height="29">
+    <texture>ui_button_ordinary</texture>
+	<text>Add</text>
+</btn_add_sec_from_edit>
+
+<frame_prop x="552" y="35" width="220" height="240">
+    <texture>ui\ui_pda_frame_sub</texture>
+	<auto_static x="20" y="2" width="170" height="18" stretch="1">
+	    <texture x="0" y="14" width="160" height="18">ui\ui_pda_frame_sub_b</texture>
+		<text font="letterica16" align="c" vert_align="c">Properties</text>
+	</auto_static>
+	<list_prop x="5" y="20" width="214" height="180" item_height="20" always_show_scroll="1">
+	    <font font="letterica16" r="216" g="186" b="140" />
+	</list_prop>
+	<btn x="68" y="210" width="88" height="20">
+        <texture>mobile\ui_btn_03</texture>
+	    <text>re_prop</text>
+    </btn>
+</frame_prop>
+
+<el_prop_edit x="100" y="0" width="100" height="20" max_symb_count="12">
+    <text y="10"/>
+</el_prop_edit>
+
+<el_prop_stat x="100" y="0" width="97" height="20" clipper="1"/>
+
+<fill_value_prop x="552" y="280" width="220" height="17" stretch="1">
+	<texture x="909" y="571" width="30" height="17">ui\ui_common</texture>
+	<text x="3" r="0" g="250" b="0"/>
+</fill_value_prop>
+
+<tab_pov_geo x="210" y="350" width="200" height="69">
+    <button x="0" y="0" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_pov_geo_1</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button> 
+	<button x="0" y="23" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_pov_geo_2</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+	<button x="0" y="46" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_pov_geo_3</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+</tab_pov_geo>
+
+<edit_distance x="420" y="350" width="350" height="69">
+    <text>dist_from_act</text>
+	<auto_static x="105" y="23" width="100" height="23">
+	    <text>spawn_dist_metr</text>
+	</auto_static>
+    <edit_box x="0" y="23" width="100" height="23" max_symb_count="3" numonly="1">
+        <texture>ui\ui_string_07</texture>
+		<text>5</text>
+    </edit_box>
+</edit_distance>
+
+<win_file_point x="420" y="350" width="350" height="69">
+    <image x="0" y="0" width="69" height="69" stretch="1">
+	    <texture>ui\ui_noise</texture>
+	</image>
+	<btn x="75" y="17" width="256" height="35" hint="rechoice">
+	    <texture>ui\ui_btn_mm</texture>
+		<text>coord_fp</text>
+	</btn>
+</win_file_point>
+
+<tab_inv_obj x="210" y="350" width="200" height="69">
+    <button x="0" y="0" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_inv_obj_1</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button> 
+	<button x="0" y="23" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_inv_obj_2</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+	<button x="0" y="46" width="200" height="23">
+		<texture_t>ui_radio_t</texture_t>
+		<texture_e>ui_radio_e</texture_e>
+		<texture_d>ui_radio_d</texture_d>
+		<text font="letterica16" align="l" x="32" vert_align="c" complex_mode="0">tab_inv_obj_3</text>
+		<text_color>
+			<e r="106" g="95" b="91"/>				
+			<t r="227" g="227" b="0"/>				
+			<h r="180" g="153" b="155"/>
+			<d r="50" g="50" b="50"/>
+		</text_color>
+	</button>
+</tab_inv_obj> 
+
+<edit_sid x="420" y="350" width="350" height="69">
+    <text>story_id_inv</text>
+    <edit_box x="0" y="23" width="100" height="23" max_symb_count="5" numonly="1">
+        <texture>ui\ui_string_07</texture>
+		<text>0</text>
+    </edit_box>
+</edit_sid>
+
+<list_invent x="420" y="345" width="350" height="80" item_height="20" always_show_scroll="1"/>
+
+<list_ex x="50" y="50" width="400" height="400" item_height="100" always_show_scroll="1" active_bg="1" align="t"/>

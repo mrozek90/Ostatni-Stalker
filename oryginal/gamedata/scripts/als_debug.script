@@ -1,0 +1,12 @@
+function del_bad_objects()
+	local bad_object_names = {"val_lights_hanging_lamp_0004"}
+	local i, se_name, se_obj
+	
+	for i, se_name in ipairs(bad_object_names) do
+		se_obj = alife():object(se_name)
+	if se_obj then
+		news_manager.send_tip(db.actor,"удалили неправильный объект:"..se_name, nil, nil, 5000)
+		alife():release(se_obj, true)
+		end
+	end
+end

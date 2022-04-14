@@ -709,6 +709,20 @@ night_vision_discharge_time			= 20	;(c) время разрядки (работы) устройства после
 slot								= 9
 disabled_maps						= ai_test,ai_test2, andy_test_
 
+; eatable item
+eat_health = 0
+eat_satiety = 0
+eat_power = 0
+eat_radiation = -1.0
+wounds_heal_perc = 0
+eat_portions_num = 1
+
+; food item
+animation_slot		= 4
+
+;hud item
+hud = wpn_vodka_hud
+
 [detector_simple]:identity_immunities
 GroupControlSection	= spawn_group
 discovery_dependency =
@@ -1007,6 +1021,73 @@ wounds_heal_perc = 0
 eat_portions_num = 1
 cost    = 0
 animation_slot  = 4
+
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+;; Детекторы артефактов Автор мода: Singapur22
+;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;
+[detektor_amorf]:identity_immunities
+GroupControlSection	        = spawn_group
+discovery_dependency            =
+$spawn 				= "devices\detektor_amorf"
+$prefetch 			= 32
+class				= D_SIMDET
+cform				= skeleton
+visual				= equipments\detector_arts_3.ogf
+radius				= 10
+
+ef_detector_type	        = 1
+
+description			= detektor_amorf_info
+inv_name   		     = "Детектор изоморфов"
+inv_name_short          = "Детектор изоморфов"
+inv_weight   	          = 0.35
+
+inv_grid_width     = 1
+inv_grid_height    = 1
+inv_grid_x         = 30
+inv_grid_y         = 14
+
+cost                     = 25
+
+slot 				= 9
+belt				= true
+default_to_ruck		= true
+
+;slot 				= 1
+;animation_slot          = 1
+
+
+[det_artefact_indy]:identity_immunities
+GroupControlSection	        = spawn_group
+discovery_dependency            =
+$spawn 				= "devices\det_artefact_indy"
+$prefetch 			= 32
+class				= D_SIMDET
+cform				= skeleton
+visual				= equipments\detector_arts_1.ogf
+radius				= 10
+
+ef_detector_type	     = 1
+
+description			= det_art_indy_info
+inv_name   		     = "Простой детектор артефактов"
+inv_name_short          = "Простой детектор артефактов"
+inv_weight   	          = 0.3
+
+inv_grid_width     = 1
+inv_grid_height    = 1
+inv_grid_x         = 28
+inv_grid_y         = 14
+
+
+cost                            = 5000
+
+slot 				= 9
+belt				= true
+default_to_ruck		= true
+
+;slot 				= 1
+;animation_slot                  = 1
 
 
 
