@@ -1,11 +1,11 @@
-# Ostatni-Stalker 2020
+# Ostatni-Stalker 2020 
 
-Spolszczenie dla wersji 1.1 autorstwa https://stalkerteam.pl/profile/2818-kondotier/
+Spolszczenie dla wersji 1.1 autorstwa https://stalkerteam.pl/profile/11-kobal/
 
 Spolszczenie dla wersji 1.3 OGSR x64
 
 
-Zakaz udostêpniania linków na stronach trzecich.
+Zakaz udostÄ™pniania linkÃ³w na stronach trzecich.
 
 Mrozek
 https://stalkerteam.pl
@@ -14,7 +14,7 @@ https://stalkerteam.pl
 
 1.3:
 
-By³o usuniête przez komentarz (??):
+ByÅ‚o usuniÄ™te przez komentarz (??):
 
 -string_table_enc_equipment
 -string_table_enc_mutants
