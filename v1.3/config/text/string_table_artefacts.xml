@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding="windows-1250"?>
+
+<string_table>
+	<string id="artefact_af_medusa">
+		<text>MEDUZA</text>
+		<text ln="rus">Resztki roślin ściśnięte i dziwnie wygięte przez silną grawitację,
+glebę i ogólnie wszystko, co wpada w anomalię. Ma słabe właściwości anomalne, a przez
+łatwość w znalezieniu jest niedroga. Zainteresowanie artefaktem wykazują organizacje naukowe.</text>
+	</string>
+
+	<string id="artefact_af_cristall_flower">
+		<text>CRYSTALICZNY KWIAT</text>
+		<text ln="rus">Różne śmieci zostały zamienione przez anomalną grawitację w piękny kryształ. Dość rzadki artefakt. Jest poszukiwany przez naukowców, ale
+		kolekcjonerzy i jubilerzy oferują lepsze ceny.</text>
+	</string>
+
+	<string id="artefact_af_night_star">
+		<text>NOCNA GWIAZDA</text>
+		<text ln="rus">Wielu jest gotowych oddać życie, by zobaczyć w ciemności
+zielonkawe światło "nocnej gwiazdy". Właściciel takiego trofeum może natychmiast się wzbogacić,
+a może po prostu stracić życie z powodu zazdrosnego konkurenta.</text>
+	</string>
+
+	<string id="artefact_af_vyvert">
+		<text>SKRĘTAK</text>
+		<text ln="rus">Dość powszechny drobiazg wynikający z
+anomalnej krzywizny grawitacyjnej oraz substancji organicznych. Jest mało prawdopodobne, że dostaniesz za to dużo pieniędzy.
+Ze względu na niską cenę na rynku jest skupowany przez naukowców w dużych ilościach.</text>
+	</string>
+
+	<string id="artefact_af_gravi">
+		<text>GRAWI</text>
+		<text ln="rus">Rzadki artefakt pochodzenia grawitacyjnego.
+Czasami pojawia się w dużych ilościach i jego cena spada. A czasem odwrotnie.
+W każdym razie nie jest to rzecz, przez którą powinieneś ryzykować życiem.</text>
+	</string>
+
+	<string id="artefact_af_gold_fish">
+		<text>ZŁOTA RYBKA</text>
+		<text ln="rus">Ze względu na urokliwy blask jest bardzo popularny wśród jubilerów.
+Często staje się przedmiotem kobiecej zazdrości i przyczyną śmierci mężczyzn.
+Jeśli uda Ci się dostarczyć go do kupca, rozwiąże to wszystkie Twoje problemy finansowe.
+ W przeciwnym razie odbierze Ci to życie.</text>
+	</string>
+
+	<string id="artefact_af_blood">
+		<text>KREW</text>
+		<text ln="rus">Brzydkie czerwone coś ściśnięte i dziwacznie zakrzywione. Składa się ze szczątek roślin, gleby, kości. Popularny wśród kultów religijnych. Cena nie jest szczególnie wysoka.</text>
+	</string>
+
+	<string id="artefact_af_mincer_meat">
+		<text>MASZYNKA DO MIĘSA</text>
+		<text ln="rus">Istnieje przekonanie, że ten artefakt zawiera moc tych, którzy zginęli w anomalii. Ze względu na niezbadaną jeszcze zdolność artefaktu do leczenia ran, jest on aktywnie poszukiwany przez uczonych i sekty religijne.</text>
+	</string>
+
+	<string id="artefact_af_soul">
+		<text>DUSZA</text>
+		<text ln="rus">Mówi się, że artefakt jest tylko naczyniem dla duszy stalkera. I im czystsza była dusza, tym piękniejszy artefakt. Za taki egzemplarz na czarnym rynku można za niego kupić kilka czołgów.</text>
+	</string>
+
+</string_table>

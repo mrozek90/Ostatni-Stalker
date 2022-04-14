@@ -1,0 +1,66 @@
+
+function logic_time_spy(obj_id)
+	local obj = level.object_by_id(obj_id)
+	local xxx = obj:id()
+	local st = db.storage[xxx]
+	local s_ini = obj:spawn_ini()
+	if not st.ini_filename and s_ini and logic_not_empty(obj, s_ini) then
+		if obj:clsid() == clsid.smart_terrain or
+		obj:clsid() == clsid.respawn or
+		obj:clsid() == clsid.switcher or
+		( obj:clsid() == clsid.script_stalker and obj:alive() ) or
+		obj:clsid() == clsid.script_trader or
+		obj:clsid() == clsid.script_heli or
+		obj:clsid() == clsid.script_restr or
+		obj:clsid() == clsid.obj_physic or
+		obj:clsid() == clsid.car_s	then
+		local text_log = "W obiekcie "..obj:name().." zawiesi³a siê logika. Usuñ uszkodzony zapis i zacznij grê z poprzedniego."
+--			abort(" obiekcie "..obj:name().." zawiesi³a siê logika. Usuñ uszkodzony zapis i zacznij grê z poprzedniego.")
+		news_manager.send_tip(db.actor, text_log, 0, "trader", 17000)
+			if not has_timer("no_save") and not db.debug then
+				start_timer("no_save", 5)
+			end
+		end
+	end
+end
+
+
+-- ó îáúåêòà åñòü "íåïóñòàÿ" ëîãèêà
+function logic_not_empty(npc, ini)
+return ini:section_exist("logic") and
+(ini:line_exist("logic", "cfg") or (ini:line_exist("logic", "active") and ini:r_string("logic", "active") ~= "nil"))
+end
+
+function has_timer(name)
+  for a=1,100,1 do
+    tmp=my.load_variable("xt"..a,nil)
+    if tmp and tmp==name then
+      return true
+    end
+  end  
+  return false
+end
+
+function start_timer(name,delay,action)
+  if not delay then
+    return false
+  end
+  
+  if not action then
+    action = ""
+  end
+
+    local time = game.time() --time in seconds since 1970
+  local a=1
+  while db.storage[db.actor:id()].pstor["xt"..a] do
+    a=a+1
+    if a>100 then 
+      return false 
+    end
+  end
+  save_variable("xt"..a, name)
+  save_variable("xd"..a, time+delay*1000*system_ini():r_float("alife","time_factor"))
+  save_variable("xp"..a, action)
+
+  return true
+end

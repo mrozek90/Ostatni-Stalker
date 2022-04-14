@@ -1,0 +1,49 @@
+	<string id="descr_yan_find_ghost_task">
+		<text>Wasiliew: "...to wspó³rzêdne wejœcia do laboratorium X-16. Znajduje siê w piwnicy g³ównego budynku, którego przeznaczenia nie znamy. Podejrzewam, ¿e to w nim odbywaj¹ siê przegl¹dy techniczne podziemnych emiterów: na podstawie dokumentów od N*** wnoszê, ¿e projekt ten ma na celu przeprowadzony na szerok¹ skalê rozwój broni psychotronicznej o du¿ym polu oddzia³ywania na...\n\n ...Posiadamy wszystkie niezbêdne dokumenty i wiemy, jak wy³¹czyæ emiter. Schodzimy z Duchem do laboratorium. Zewsz¹d wy³a¿¹ zombie...\n\n ...Wszystko idzie nie tak, Duch zupe³nie oszala³ i bredzi. Chyba uleg³ dzia³aniu emisji. Rzuci³em wszystko i uciekam tunelami...\n\n ...Jestem na bagnach, gdzie ten bunkier? Do jasnej cholery!!! Nie potrafiê okreœliæ swojego po³o¿enia! Ten tchórz, Sacharow, nie odpowiada!!! Co siê dzieje??? Wszêdzie pe³no zombie, a mnie siê koñczy amunicja..."</text>
+	</string>
+	<string id="descr_yan_find_lab">
+		<text>Sacharow: "Musisz jedynie odnaleŸæ cia³o Wasiliewa i zdobyæ dok³adne informacje o po³o¿eniu laboratorium X-16. Potem, przenikn¹wszy do laboratorium, odnaleŸæ Ducha. On wiedzia³, jak wy³¹czyæ emisjê i jak siê póŸniej stamt¹d wydostaæ".</text>
+	</string>
+	<string id="descr_yan_find_scientist">
+		<text>Sacharow: "Jeœli razem z naszym wspó³pracownikiem wykonacie pomiary, ja dam skalibrowany prototyp, który pozwoli Wam wejœæ do laboratorium".</text>
+	</string>
+	<string id="descr_yan_find_scientist_semenov">
+		<text>Sacharow: "Jeœli razem z naszym wspó³pracownikiem wykonacie pomiary, ja dam skalibrowany prototyp, który pozwoli Wam wejœæ do laboratorium".</text>
+	</string>
+	<string id="descr_yan_kill_brain">
+		<text>Sacharow: "Dobra robota, Naznaczony, dotarliœcie do laboratorium. Zbadanie znajduj¹cej siê tam instalacji jest dla nas niezmiernie wa¿ne. Postarajcie siê j¹ wy³¹czyæ, ¿ebyœmy mogli to zrobiæ.\n\nPos³uchajcie, Naznaczony, prototyp nie mo¿e zbyt d³ugo chroniæ Was przed silnym promieniowaniem. Przewidzia³em to, i dlatego, gdy traficie w obszar silnego promieniowania, w³¹czy siê zegar. Kiedy czas minie, prototyp przestanie Was chroniæ. Zachowajcie wyj¹tkow¹ ostro¿noœæ i nie zapominajcie o zegarze".</text>
+	</string>
+	<string id="descr_yan_kill_brain_2">
+		<text>Urz¹dzenie jest wy³¹czone. Pozosta³ tylko drobiazg - wydostaæ siê stamt¹d ¿ywym.</text>
+	</string>
+	<string id="descr_yan_provodnik_task">
+		<text>Duch: "Przewodniku, wysy³am do ciebie cz³owieka. Mamy wa¿ne informacje dla Doktora, pomó¿ mu". \n\nPrzewodnik: "Dobrze. Ale Duch, nie tak, jak ostatnim razem. A najlepiej sam przyjdŸ, ju¿ od dawna chcê z tob¹ porozmawiaæ. Bêdê czekaæ w sta³ym miejscu, przy moœcie. Nie zgub siê i uwa¿aj na patrole wojskowe".</text>
+	</string>
+	<string id="descr_yan_scientist_return_task">
+		<text>Sacharow: "Co siê sta³o?! Nie ¿yje?! Zróbcie pomiary i natychmiast wracajcie!"</text>
+	</string>
+	<string id="journal_after_find_ghost">
+		<text>Jestem w szoku... Duch i cz³owiek z fotografii w PDA, dodanej do zadania na zabicie Strie³oka, to... jeden i ten sam cz³owiek! Ju¿ nic z tego nie rozumiem. To chyba jakiœ b³¹d. Ale kto go pope³ni³? Na razie nie znam odpowiedzi. Z zapisków Ducha pozna³em imiê ich wspólnego znajomego i czwartego cz³onka grupy Strie³oka. Nazywa siê Doktor. Od dawna pomaga grupie, a miejsce, gdzie przebywa, robi za ich kwaterê g³ówn¹. Mo¿na go znaleŸæ przez stalkera zwanego Przewodnikiem, który czêsto bywa na Kordonie. W porz¹dku, Przewodniku, tylko nie umrzyj nagle... zanim siê nie spotkamy. Przy zw³okach Ducha znalaz³em równie¿ dokumenty dotycz¹ce mechanizmu "mózgu psionicznego". Ca³a okolica by³a pod wp³ywem tego drañstwa - uzombifikowa³ wszystkich, którzy znaleŸli siê w jego zasiêgu. Dowiedzia³em siê, ¿e w laboratorium X-10 jest jeszcze jedna instalacja i ¿e prawdopodobnie to w³aœnie jest "Mózgozwêglacz". Wiem równie¿, ¿e te instalacje nie zawsze dzia³aj¹ pe³n¹ par¹. S¹ okresy, w których zmniejsza siê moc ich promieniowania, ¿eby mo¿na by³o sch³odziæ agregaty.</text>
+	</string>
+	<string id="journal_after_find_ghost_name">
+		<text>Kolejna zagadka</text>
+	</string>
+	<string id="journal_after_kill_brain">
+		<text>Po wy³¹czeniu tego potwornego mózgu w kolbie straci³em przytomnoœæ. Napiêcie ostatnich dni da³o chyba o sobie znaæ. Gdy by³em nieprzytomny, mia³em sen... Zdjêcie. Trzyma je siwow³osy mê¿czyzna, a u jego stóp siedzi wielki pies. Mê¿czyzna patrzy w dal, ale wokó³ niego widaæ tylko bagno, a krajobraz wcale nie przypomina tego ze zdjêcia. We mgle ledwo mo¿na odró¿niæ sylwetkê oddalaj¹cej siê postaci. Mê¿czyzna mamrocze, jakby rozmawia³ z samym sob¹: "Jeœli to takie wa¿ne, dlaczego mi nie powiedzia³eœ, co to za miejsce i sk¹d masz to zdjêcie..." Potem...  widzê z boku uœmiechaj¹cego siê m³odego mê¿czyznê, który stoi na progu chaty i mówi weso³o: "Gdybyœ tylko wiedzia³, gdzie by³em i co tam widzia³em!" Wyci¹ga rêkê, w której trzyma dziwaczn¹ rzecz, od której p³ynie blask na ca³¹ chatê. Pies zaczyna warczeæ i chowa siê w k¹cie, a siwy mê¿czyzna mamrocze: "Któregoœ dnia te gierki sprowadz¹ na ciebie k³opoty"... B³ysk... Ten sam m³ody mê¿czyzna, z twarz¹ zniekszta³con¹ i pokryt¹ krwi¹, niepewnym krokiem wchodzi do chaty i pada za progiem... Niebo przecinaj¹ b³yskawice, chlasta ulewny deszcz... B³ysk... £ó¿ko w izbie, na nim ten m³ody mê¿czyzna, jego twarz ca³a w szramach i banda¿ach. Jest nieprzytomny, a siwow³osy mamrocze: "Trzymaj siê, synu". W k¹cie zwalone na stos le¿¹ rzeczy, wœród nich to dziwne zdjêcie... B³ysk... zdjêcie w rêkach siwego. M³ody mê¿czyzna z bliznami na twarzy zbiera siê do odejœcia. Siwow³osy pyta: "A dok¹d teraz?". Pada ponura odpowiedŸ: "Na pó³noc"... B³ysk... potem siê obudzi³em.</text>
+	</string>
+	<string id="journal_after_kill_brain_name">
+		<text>Drugi sen</text>
+	</string>
+	<string id="journal_before_vasilyev_pda">
+		<text>No i znalaz³em siê niemal o krok od jednego z ludzi Strie³oka. Duch zszed³ do podziemnego laboratorium X-16 wraz z jednym z naukowców. Jest tylko jedno ale... Raczej nie odnajdê go ¿ywego. Naukowiec wróci³ stamt¹d sam i zgin¹³, gdy zbli¿a³ siê do obozu. Naukowcy dali mi jakieœ urz¹dzenie, które ma mnie chroniæ przed tymi tajemniczymi emisjami. Mam nadziejê, ¿e zadzia³a. Chc¹, ¿ebym siê dosta³ do œrodka i wy³¹czy³ emiter. Wtedy bêd¹ w stanie zbadaæ go na miejscu. No có¿... Z Bogiem.</text>
+	</string>
+	<string id="journal_before_vasilyev_pda_name">
+		<text>O krok od Ducha</text>
+	</string>
+	<string id="storyline_ghost_info">
+		<text>Zapis #257\n >>Przewodnik, wysy³am do ciebie cz³owieka. Mamy wa¿ne informacje dla Doktora, pomó¿ mu. \n >>Dobrze. Ale Duch, nie tak, jak ostatnim razem. A najlepiej sam przyjdŸ, ju¿ od dawna chcê z tob¹ porozmawiaæ. Bêdê czekaæ w sta³ym miejscu, przy moœcie. Nie zgub siê i uwa¿aj na patrole wojskowe".\n\n Zapis #384\n ...Wasiliew stchórzy³ w ostatniej chwili i zamiast od³¹czyæ dolne tablice sterownicze, po prostu uciek³, gdy otworzy³y siê drzwi. Nie trzeba by³o na nim polegaæ. Mia³ racjê Strie³ok, ¿e nie nale¿y ufaæ tym k³amliwym psom. Moja jedyna szansa - to dotarcie do drzwi, zanim kontroler...</text>
+	</string>
+	<string id="storyline_vasilyev_info">
+		<text>...to wspó³rzêdne wejœcia do laboratorium X-16. Znajduje siê w piwnicy g³ównego budynku, którego przeznaczenia nie znamy. Podejrzewam, ¿e to w nim odbywaj¹ siê przegl¹dy techniczne podziemnych emiterów: na podstawie dokumentów od N*** wnoszê, ¿e projekt ten ma na celu przeprowadzony na szerok¹ skalê rozwój broni psychotronicznej o du¿ym polu oddzia³ywania na...\n\n ...posiadamy wszystkie niezbêdne dokumenty i wiemy, jak wy³¹czyæ emiter. Schodzimy z Duchem do laboratorium. Zewsz¹d wy³a¿¹ zombi...\n\n ...wszystko idzie nie tak, Duch zupe³nie oszala³ i bredzi. Chyba uleg³ dzia³aniu emisji. Rzuci³em wszystko i uciekam tunelami...\n\n ...jestem na bagnach, gdzie ten bunkier? Do jasnej cholery!!! Nie potrafiê okreœliæ swojego po³o¿enia! Ten tchórz, Sacharow, nie odpowiada!!! Co siê dzieje??? Wszêdzie pe³no zombie, a mnie siê koñczy amunicja..."</text>
+	</string>
+

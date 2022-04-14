@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+<!-- ŃŇŔŇČĘČ -->
+<string id="static_1">
+		<text>ATTO PRIMO *Towarzysze broni*</text>
+	</string>
+<string id="static_2">
+	<text>ATTO SECONDO *Zagubione horyzonty*</text>
+</string>
+<string id="static_3">
+		<text>ATTO TERZO *Casus Belli*</text>
+	</string>
+<string id="static_4">
+		<text>ATTO QUARTO *Południowa kampania*</text>
+	</string>
+<string id="static_5">
+		<text>ATTO QUARTO *Zona*</text>
+	</string>
+<string id="static_6">
+		<text>ATTO QUARTO *P.A.R.I.A.S..*</text>
+	</string>
+<string id="static_7">
+		<text>ATTO QUINTO *Zona*</text>
+	</string>
+<string id="static_8">
+		<text>ATTO QUINTO *Ostatni stalker*</text>
+	</string>
+<string id="static_9">
+		<text>ATTO SESTO *Ostatni stalker*</text>
+	</string>
+<string id="static_0">
+		<text>ATTO QUINTO *Ostatni stalker*</text>
+	</string>
+	
+<string id="dont_kill">
+		<text>bla-bla-bla</text>
+	</string>
+<!-- <string id="static_9">
+		<text>ATTO SESTO **</text>
+	</string> -->
+
+<!-- Îáú˙âëĺíč˙ -->
+<string id="static_gone_selectors_announcement_1">
+	<text>Zaginęli kopacze.</text>
+</string>
+<string id="static_gone_selectors_announcement_2">
+	<text>Ostatni raz nawiązali łączność 29-go kwietnia z Bagien.</text>
+</string>
+<string id="static_gone_selectors_announcement_3">
+	<text>Za informacje zostanie wypłacone wynagrodzenie - 10 000.</text>
+</string>
+<string id="static_gone_selectors_announcement_4">
+	<text>Zlaticz.</text>
+</string>
+
+<string id="static_job_for_corporation_announcement_1">
+	<text>P.r.a.c.a.!!!</text>
+</string>
+<string id="static_job_for_corporation_announcement_2">
+	<text>Potrzebny doświadczony i śmiały stalker dla realizacji specjalnego zadania.</text>
+</string>
+<string id="static_job_for_corporation_announcement_3">
+	<text>Wynagrodzenie - niebotycznie wysokie!</text>
+</string>
+<string id="static_job_for_corporation_announcement_4">
+	<text>Przyznany wyjątkowy status i szczególne pełnomocnictwa!</text>
+</string>
+
+<string id="static_will_sell_necronomicon_announcement_1">
+	<text>SPRZEDAM!!!</text>
+</string>
+<string id="static_will_sell_necronomicon_announcement_2">
+	<text>Starodruk "manuskrypt" w dobrym stanie</text>
+</string>
+<string id="static_will_sell_necronomicon_announcement_3">
+	<text>BARDZO DROGO!!!</text>
+</string>
+<string id="static_will_sell_necronomicon_announcement_4">
+	<text>pytać o Kuczmę</text>
+</string>
+
+<string id="static_lost_scientist_announcement_1">
+	<text>ZAGINĄŁ NAUKOWIEC!!!</text>
+</string>
+<string id="static_lost_scientist_announcement_2">
+	<text>Szczodrze zapłacimy za każde wiadomości</text>
+</string>
+<string id="static_lost_scientist_announcement_3">
+	<text>o doktorze Bravermanie.</text>
+</string>
+<string id="static_lost_scientist_announcement_4">
+	<text>Łuczenko.</text>
+</string>
+
+<string id="static_lost_scientist_radio_announcement_1">
+	<text>ZAGINĄŁ NAUKOWIEC!!!</text>
+</string>
+<string id="static_lost_scientist_radio_announcement_2">
+	<text>Doktor Braverman. Ostatnia łączność z Lab. X-18.</text>
+</string>
+<string id="static_lost_scientist_radio_announcement_3">
+	<text>Szczodre wynagrodzenie.</text>
+</string>
+<string id="static_lost_scientist_radio_announcement_4">
+	<text>Łuczenko.</text>
+</string>
+
+<string id="static_fallen_aircraft_announcement_1">
+	<text>Powietrzne Laboratorium!!!</text>
+</string>
+<string id="static_fallen_aircraft_announcement_2">
+	<text>Szczodre wynagrodzenie za</text>
+</string>
+<string id="static_fallen_aircraft_announcement_3">
+	<text>współrzędne miejsca upadku.</text>
+</string>
+<string id="static_fallen_aircraft_announcement_4">
+	<text>Łuczenko.</text>
+</string>
+
+
+<string id="to_hospital">
+	<text>Do Szpitala</text>
+</string>
+
+<string id="to_panzhc">
+	<text>Do sztabu Powinności</text>
+</string>
+
+<string id="to_limansk">
+	<text>Do Limańska</text>
+</string>
+
+<string id="to_polyana">
+	<text>Na Polanę</text>
+</string>
+
+<string id="to_sortirovka">
+	<text>Na Sortownię</text>
+</string>
+
+<string id="to_red_forest">
+	<text>Do Czerwonego Lasu</text>
+</string>
+
+<string id="to_bunker">
+	<text>Do X-10</text>
+</string>
+
+<string id="to_darklab">
+	<text>Do X-18</text>
+</string>
+
+<string id="to_marsh">
+	<text>Na Bagna</text>
+</string>
+
+<string id="to_agrunder">
+	<text>Do podziemi Agropromu</text>
+</string>
+
+<string id="auto_garbage_hint">
+	<text>cmentarzysko pojazdów</text>
+</string>
+
+<string id="meet_point">
+	<text>miejsce spotkania</text>
+</string>
+
+<string id="meet_point_yard">
+	<text>plac</text>
+</string>
+
+<string id="antigrav_hint">
+	<text>martwy powinnościowiec</text>
+</string>
+
+<string id="block_post_hint">
+	<text>posterunek</text>
+</string>
+
+<string id="basa_hint">
+	<text>baza</text>
+</string>
+
+<string id="marsh_sevchuk_shron">
+	<text>możliwa lokalizacja schowka Szewczuka</text>
+</string>
+
+<string id="marsh_baza_svoboda_hint">
+	<text>baza Wolności</text>
+</string>
+
+<string id="krovososovka_hint">
+	<text>wioska pijawek</text>
+</string>
+
+<string id="marsh_mogilshik_lager_hint">
+	<text>baza Grabarza</text>
+</string>
+
+<string id="shron_hint">
+	<text>schowek</text>
+</string>
+
+<string id="koluchka_hint">
+	<text>przeciąć</text>
+</string>
+
+<string id="gap_in_perimeter_hint">
+	<text>wyłom w Perymetrze</text>
+</string>
+
+<string id="tonnel_hint">
+	<text>tunel</text>
+</string>
+
+<string id="val_farm_hint">
+	<text>ferma</text>
+</string>
+
+<string id="turnoff">
+	<text>wyłączono</text>
+</string>
+
+<string id="esc2marsh_01_hint">
+	<text>na Bagna</text>
+</string>
+
+<string id="shamray_gang">
+	<text>grupa Szamraja</text>
+</string>
+
+<string id="bb">
+	<text>grupa Bormana</text>
+</string>
+
+<string id="army">
+	<text>żołnierze</text>
+</string>
+
+<string id="mogilshik_gang">
+	<text>grupa Grabarza</text>
+</string>
+
+<string id="tankist_gang">
+	<text>grupa Czołgisty</text>
+</string>
+
+<string id="uzbek_gang">
+	<text>grupa Uzbeka</text>
+</string>
+
+<string id="sinoptik_gang">
+	<text>grupa Synoptyka</text>
+</string>
+
+<string id="waterrat_gang">
+	<text>grupa Wodnego Szczura</text>
+</string>
+
+<string id="mackleens_gang">
+	<text>Grupa McClensa</text>
+</string>
+
+<string id="police">
+	<text>policja</text>
+</string>
+
+<string id="galash_gang">
+		<text>grupa Gałasza</text>
+</string>
+
+<string id="marsh_peshera_corpse_hint">
+	<text>trup Morloka</text>
+</string>
+
+<string id="cliric">
+	<text>mnisi</text>
+</string>
+
+<string id="stranger">
+	<text>czarni rajderzy</text>
+</string>
+
+<string id="usarmy">
+	<text>rajderzy</text>
+</string>
+
+<string id="demon">
+	<text>obcy</text>
+</string>
+
+<string id="degen">
+	<text>wyrodki</text>
+</string>
+
+<string id="cnn">
+	<text>Poszukiwacze</text>
+</string>
+
+<string id="exmon">
+	<text>Weterani Zony</text>
+</string>
+
+<string id="nato">
+	<text>GRC</text>
+</string>
+
+<string id="military_stalker">
+	<text>wojskowy stalker</text>
+</string>
+
+<string id="waterrat_base_hint">
+	<text>baza Wodnego Szczura</text>
+</string>
+
+<string id="agr_ms_base_hint">
+	<text>baza wojskowych stalkerów</text>
+</string>
+
+<string id="marsh_deadman_place_hint">
+	<text>miejsce ostatniego spotkania</text>
+</string>
+
+<string id="wait_signal_hint">
+	<text>czekać na sygnał</text>
+</string>
+
+<string id="marsh_watchtower_hint">
+	<text>wieża obserwacyjna</text>
+</string>
+
+<string id="marsh_inventory_box_helicopter_hint">
+	<text>miejsce upadku helikoptera</text>
+</string>
+
+<string id="marsh_key_decision_1_hint">
+	<text>oddać</text>
+</string>
+
+<string id="marsh_key_decision_2_hint">
+	<text>sprzedać</text>
+</string>
+
+<string id="old_bunker_hint">
+	<text>stary bunkier</text>
+</string>
+
+<string id="garbage_hsm_hint">
+	<text>początek poszukiwań</text>
+</string>
+
+<string id="yantar_hsm_hint">
+	<text>mobilny moduł naukowy</text>
+</string>
+
+<string id="box_hsm_hint">
+	<text>kontener</text>
+</string>
+
+<string id="agro_scientists_hint">
+	<text>mobilny moduł naukowy</text>
+</string>
+
+<string id="hack_impossible">
+	<text>TYCH DRZWI NIE MOŻNA WYŁAMAĆ</text>
+</string>
+
+<string id="gar_ambush_restrictor_hint">
+	<text>zająć pozycję</text>
+</string>
+
+<string id="gar_flea_market_hiding_place_hint">
+	<text>schowek grupy Synoptyka</text>
+</string>
+
+<string id="sor_m_barman_hint">
+	<text>spytać Barmana</text>
+</string>
+
+<string id="stop_stranger">
+	<text>Zadbaj o powrót</text>
+</string>
+
+<string id="entrance_on_base">
+	<text>wejście na bazę</text>
+</string>
+
+<string id="glade_centre_hint">
+	<text>centrum</text>
+</string>
+
+<string id="comp_is_blocked">
+	<text>komputer zablokowany</text>
+</string>
+
+<string id="no_fuel">
+	<text>brak paliwa</text>
+</string>
+
+<string id="legend">
+	<text>Legenda</text>
+</string>
+
+<string id="agroprom_underground">
+	<text>Podziemia Agropromu</text>
+</string>
+
+<string id="darklab">
+	<text>X-18</text>
+</string>
+
+<string id="polyana">
+	<text>Polana</text>
+</string>
+
+<string id="katacomba">
+	<text>Schronienie</text>
+</string>
+
+<string id="atp">
+	<text>ATP-miraż</text>
+</string>
+
+<string id="bunker">
+	<text>X-10</text>
+</string>
+
+<string id="panzer_hc">
+	<text>Sztab Pancera</text>
+</string>
+
+<string id="peshera">
+	<text>Pieczara</text>
+</string>
+
+<string id="kb_turn_engine2">
+	<text>Zapłon</text>
+</string>
+
+<string id="kb_cam_1">
+	<text>Widok z I osoby</text>
+</string>
+<string id="kb_cam_2">
+	<text>Widok z II osoby</text>
+</string>
+<string id="kb_cam_3">
+	<text>Niezależna kamera</text>
+</string>
+
+<string id="cant_sleep_near_enemies">
+	<text>Nie należy spać w obecności wrogów</text>
+</string>
+
+<string id="tanto_description">
+	<text>Tanto – dosłownie *krótki miecz* - sztylet samuraja. \n Tanto wykorzystywano tylko jako broń pomocniczą (dla dobicia, odcięcia głowy, harakiri itp.) a nigdy jako nóż.</text>
+</string>
+
+<string id="km_description">
+	<text>Składany nóż MAR. \n Nie jest bronią białą.</text>
+</string>
+
+<string id="buck_description">
+	<text>Amerykańska firma Buck Knives, która w 2002 roku świętowała stuletni jubileusz, produkuje całą gamę noży Buck, które zyskały popularność wśród myśliwych, rybaków, żołnierzy i wszystkich tych, którzy lubią podróżować po świecie.</text>
+</string>
+
+<string id="CB1115Wh_description">
+	<text>Bojowy nóż do rzucania City Brother 1115 Warhawk.</text>
+</string>
+
+<string id="val_shocker_flash_fake_hint">
+	<text>fleszka najemników</text>
+</string>
+
+<string id="val_safe_door_hint">
+	<text>sejf</text>
+</string>
+
+<string id="val_comp_klava_1_hint">
+	<text>wyłączyć działka</text>
+</string>
+
+<string id="val_killers_basa_hint">
+	<text>przeniknąć na bazę</text>
+</string>
+
+<string id="val_prisoner_frei_restrictor_hint">
+	<text>więzienie</text>
+</string>
+
+<string id="esc_mobil_real_point">
+	<text>mobilny punkt dowodzenia</text>
+</string>
+
+<!-- <string id="">
+	<text></text>
+</string> -->
+
+<!-- ŢÇŔÍČĹ -->
+<string id="to_pull_out_the_knife">
+	<text>wyciągnąć nóż ($$ACTION_USE$$)</text>
+</string>
+
+<string id="to_take_up_the_knife">
+	<text>wziąć nóż ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_helicopter">
+	<text>przeszukać helikopter ($$ACTION_USE$$)</text>
+</string>
+
+<string id="osmotr_helicopter">
+	<text>obejrzeć helikopter ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_car">
+	<text>przeszukać samochód ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_object">
+	<text>przeszukać obiekt ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_skhron">
+	<text>przeszukać schowek ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_corpse">
+	<text>przeszukać ciało ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_autobus">
+	<text>przeszukać autobus ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_btr">
+	<text>przeszukać BTR ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_doser">
+	<text>przeszukać buldożer ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_pancer">
+	<text>przeszukać czołg ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_tractor">
+	<text>przeszukać traktor ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_exquator">
+	<text>przeszukać koparkę ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_seif">
+	<text>otworzyć sejf ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_box">
+	<text>przeszukać skrzynkę ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_tomb">
+	<text>przeszukać grób ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_refregerator">
+	<text>przeszukać lodówkę ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_container">
+	<text>obejrzeć kontener ($$ACTION_USE$$)</text>
+</string>
+
+<string id="knockknock">
+	<text>kopnąć w drzwi ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_the_knifes">
+	<text>zabrać noże ($$ACTION_USE$$)</text>
+</string>
+
+<string id="press_down">
+	<text>nacisnąć ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_accumulator">
+	<text>podnieść akumulator ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_accumulator_2">
+	<text>wziąć akumulator ($$ACTION_USE$$)</text>
+</string>
+
+<string id="connect_accumulator">
+	<text>podłączyć źródło zasilania ($$ACTION_USE$$)</text>
+</string>
+
+<string id="start_repairworks">
+	<text>zająć się remontem wyposażenia ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_on_generator">
+	<text>włączyć generator ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_off_generator">
+	<text>zatrzymać generator ($$ACTION_USE$$)</text>
+</string>
+
+<string id="read_announcement">
+	<text>przeczytać ogłoszenie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="light_turn_on">
+	<text>włączyć oświetlenie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="light_turn_off">
+	<text>wyłączyć oświetlenie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="marsh_gone_selectors">
+	<text>Zaginęli kopacze. \n Ostatni raz nawiązali łączność 29-go kwietnia z Bagien. Za informacje zostanie wypłacone wynagrodzenie - 10 000. \n Zlaticz. \n zerwać ogłoszenie($$ACTION_USE$$)</text>
+</string>
+
+<string id="is_disconnected">
+	<text>bez zasilania</text>
+</string>
+
+<string id="freerepair">
+	<text>***</text>
+</string>
+
+<string id="gun_position_hint">
+	<text>zająć pozycję</text>
+</string>
+
+<string id="window_hint">
+	<text>okno</text>
+</string>
+
+<string id="prisoners_hint">
+	<text>więźniowie</text>
+</string>
+
+<string id="revenge_to_mercenaries_hint">
+	<text>pozbyć się najemników</text>
+</string>
+
+<string id="job_for_corporation">
+	<text>Praca dla korporacji. \n zerwać ogłoszenie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="will_sell_necronomicon">
+	<text>SPRZEDAM!!! \n zerwać ogłoszenie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="lost_scientist">
+	<text>ZAGINĄŁ NAUKOWIEC!!! \n zerwać ogłoszenie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="falen_flying_laboratory">
+	<text>Powietrzne laboratorium!!! \n zerwać ogłoszenie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="unstick_beacon">
+	<text>Odkleić ($$ACTION_USE$$)</text>
+</string>
+
+<string id="tip_no_access_card">
+	<text>Wsunąć kartę dostępu  ($$ACTION_USE$$)</text>
+</string>
+
+<string id="tip_yes_access_card">
+	<text>wprowadź kod  ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_pda">
+	<text>wziąć PDA ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_uv_light_torch">
+	<text>wziać latarkę ($$ACTION_USE$$)</text>
+</string>
+
+<string id="hide_container">
+	<text>schować kontener ($$ACTION_USE$$)</text>
+</string>
+
+<string id="to_erase">
+	<text>zetrzeć ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_on_transceiver">
+	<text>włączyć radiostację ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_taynik">
+	<text>sprawdzić schowek ($$ACTION_USE$$)</text>
+</string>
+
+<string id="input_accesscard">
+	<text>wstaw kartę dostępu ($$ACTION_USE$$)</text>
+</string>
+
+<string id="insert_the_keys">
+	<text>włożyć klucze? ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_on_dictophone">
+	<text>przesłuchać nagranie ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_away_dictophone">
+	<text>zabrać dyktafon ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_weapon">
+	<text>wziąć broń ($$ACTION_USE$$)</text>
+</string>
+
+<string id="shift_keys">
+	<text>przełożyć klucze ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_away_passports">
+	<text>zabrać dokumenty ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_away_artefact">
+	<text>wziąć artefakt ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_off_turrets">
+	<text>deaktywować działka ($$ACTION_USE$$)</text>
+</string>
+
+<string id="enter_access_code">
+	<text>wprowadź kod dostępu ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_device">
+	<text>wziąć przyrząd ($$ACTION_USE$$)</text>
+</string>
+
+<string id="use_basement_key">
+	<text>wykorzystać klucz ($$ACTION_USE$$)</text>
+</string>
+	
+<string id="open_door">
+	<text>otworzyć drzwi ($$ACTION_USE$$)</text>
+</string>
+
+<string id="barrier_to_raise">
+	<text>podnieść szlaban ($$ACTION_USE$$)</text>
+</string>
+
+<string id="barrier_to_dip">
+	<text>opuścić szlaban ($$ACTION_USE$$)</text>
+</string>
+
+<string id="drop_book_into_fire">
+	<text>wrzucić księgę do ogniska ($$ACTION_USE$$)</text>
+</string>
+
+<string id="search_the_plane">
+	<text>przeszukać drona ($$ACTION_USE$$)</text>
+</string>
+
+<string id="als_sit">
+	<text>usiąść ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_on_emergency_power">
+	<text>włączyć zasilanie awaryjne ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_malyawa">
+	<text>wziąć notatkę ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_the_paper">
+	<text>podnieść pudełko ($$ACTION_USE$$)</text>
+</string>
+
+<string id="replace_botle">
+	<text>przestawić butelkę ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_on_singulator">
+	<text>aktywować singulator ($$ACTION_USE$$)</text>
+</string>
+
+<string id="insert_key">
+	<text>wstaw klucz bezpieczeństwa ($$ACTION_USE$$)</text>
+</string>
+
+<string id="key_is_accepted">
+	<text>klucz przyjęty</text>
+</string>
+
+<string id="to_push_power">
+	<text>pchnąć ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_the_outfit">
+	<text>wziąć pancerz ($$ACTION_USE$$)</text>
+</string>
+
+<string id="check_fuel_level">
+	<text>sprawdzić poziom paliwa ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_up_the_key">
+	<text>podnieść klucz ($$ACTION_USE$$)</text>
+</string>
+
+<string id="open_depoe">
+	<text>otworzyć magazyn ($$ACTION_USE$$)</text>
+</string>
+
+<string id="change_warlock">
+	<text>zamienić ($$ACTION_USE$$)</text>
+</string>
+
+<string id="do_activation">
+	<text>aktywować ($$ACTION_USE$$)</text>
+</string>
+
+<string id="luggage_here">
+	<text>położyć przyrządy ($$ACTION_USE$$)</text>
+</string>
+
+<string id="obysk_ruckzak">
+	<text>przeszukać plecak ($$ACTION_USE$$)</text>
+</string>
+
+<string id="take_golden_pig">
+	<text>wziąć "złota świnię" ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_on_timer">
+	<text>włączyć timer ($$ACTION_USE$$)</text>
+</string>
+
+<string id="turn_off_timer">
+	<text>wyłączyc timer ($$ACTION_USE$$)</text>
+</string>
+
+<string id="do_place_mine">
+	<text>postawić minę ($$ACTION_USE$$)</text>
+</string>
+
+<!-- <string id="">
+	<text> ($$ACTION_USE$$)</text>
+</string> -->
+
+
+
+	
+</string_table>

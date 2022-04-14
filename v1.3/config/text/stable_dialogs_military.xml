@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
+<string_table>
+    <string id="dolg_kvest1_0">
+        <text>Stalker, właśnie Was potrzebowaliśmy.</text>
+    </string>
+    <string id="dolg_kvest1_01">
+        <text>O czym mówisz?</text>
+    </string>
+    <string id="dolg_kvest1_02">
+        <text>Macie wspaniałą okazję, by przysłużyć się sprawie Powinności a Powinność dobrze nagradza za wyświadczone mu usługi. To jak, jesteście zainteresowani?</text>
+    </string>
+    <string id="dolg_kvest1_03">
+        <text>Dlaczego sam nie rozwiążesz tego problemu?</text>
+    </string>
+    <string id="dolg_kvest1_031">
+        <text>Nie posiadamy odpowiedniego karabinu snajperskiego, oraz nie jesteśmy idiotami by leźć na otwartą przestrzeń. A Wy możecie podejść znacznie bliżej.</text>
+    </string>
+    <string id="dolg_kvest1_032">
+        <text>Zastanowię się.</text>
+    </string>
+    <string id="dolg_kvest1_04">
+        <text>Tak, ile?</text>
+    </string>
+    <string id="dolg_kvest1_05">
+        <text>Uwielbiam biznesmenów. Waszym zadaniem jest usunięcie dwóch znajperów z wież. Jak Wam się to uda - będziemy mogli zaatakować a Wy dostaniecie premię. Płacimy 3000 rubli.</text>
+    </string>
+    <string id="dolg_kvest1_06">
+        <text>Dobra.</text>
+    </string>
+    <string id="mil_dolg_done_svoboda_quest_0">
+        <text>O! Twój RG6.</text>
+    </string>
+    <string id="mil_dolg_done_svoboda_quest_1">
+        <text>Masz torcik.</text>
+    </string>
+    <string id="mil_dolg_get_svoboda_quest_0">
+        <text>Chcę pomóc, co mogę zrobić?</text>
+    </string>
+    <string id="mil_dolg_get_svoboda_quest_1">
+        <text>OK, wezmę RG6</text>
+    </string>
+    <string id="mil_dolg_get_svoboda_quest_11">
+        <text>Tak</text>
+    </string>
+    <string id="mil_dolg_get_svoboda_quest_12">
+        <text>Nie</text>
+    </string>
+    <string id="mil_dolg_get_svoboda_quest_2">
+        <text>Nie, sami sobie poradzimy.</text>
+    </string>
+    <string id="mil_dolg_get_svoboda_quest_3">
+        <text>Ty nie masz nic.</text>
+    </string>
+    <string id="mil_dolg_start_dialog_11">
+        <text>Ja Was potrzebuję</text>
+    </string>
+    <string id="mil_dolg_start_dialog_21">
+        <text>Wiecie co robić.</text>
+    </string>
+    <string id="mil_dolg_start_dialog_31">
+        <text>Dziękuję za pomoc, w czym mogę pomóć?</text>
+    </string>
+</string_table>

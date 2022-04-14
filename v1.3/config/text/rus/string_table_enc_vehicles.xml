@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="btr-70">
+		<text>BTR-70</text>
+	</string>
+	<string id="enc_vehicles_btr-70">
+		<text>Stary transporter opancerzony. Wojsko stara się nie używać nowego sprzętu w Zonie, ponieważ ulegają one skażeniu przez różnego rodzaju radioaktywne pyły.</text>
+	</string>
+	<string id="enc_vehicles_kamaz">
+		<text>Popularna rosyjska ciężarówka.</text>
+	</string>
+	<string id="enc_vehicles_mi-24">
+		<text>Wojskowy helikopter szturmowy.</text>
+	</string>
+	<string id="enc_vehicles_niva">
+		<text>Samochód terenowy. Zaskakująco sprawny. Rosjanie wiedzą jak robić dobre samochody terenowe.</text>
+	</string>
+	<string id="enc_vehicles_uaz">
+		<text>Jeep armii rosyjskiej. Zwarty, szybki, może przewieźć do 10 pasażerów, ma duży zbiornik paliwa, zdolny do jazdy po bezdrożach. Nic dziwnego, że armia ich używa.</text>
+	</string>
+	<string id="enc_vehicles_zaporozh">
+		<text>Mały ukraiński samochód. Używany przez stalkerów, którym nie udało się znaleźć nic lepszego. Jest w tym coś, że Rosjanie są zadowoleni, że od upadku Związku Radzieckiego jest on uważany za "import".</text>
+	</string>
+	<string id="Kamaz">
+		<text>Kamaz</text>
+	</string>
+	<string id="mi-24">
+		<text>Helikopter Mi-24</text>
+	</string>
+	<string id="Niva">
+		<text>Łada Niva</text>
+	</string>
+	<string id="Uaz">
+		<text>UAZ</text>
+	</string>
+	<string id="Vehicles">
+		<text>Transport</text>
+	</string>
+	<string id="Zaporozh">
+		<text>Zaporożec</text>
+	</string>
+</string_table>

@@ -1,0 +1,44 @@
+<!-- plik wyglada na bezuzyteczny -->
+
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
+<string_table>
+    <string id="barman_dialog_0">
+        <text>brak 0</text>
+    </string>
+    <string id="barmen_dialog_2">
+        <text>brak 2</text>
+    </string>
+    <string id="barmen_dialog_0">
+        <text>Witam Naznaczony. Wowan już o Tobie opowiadał. Striełoka szukasz... no cóż, co ja mogę wiedzieć.</text>
+    </string>
+    <string id="barmen_dialog_1">
+        <text>brak 1</text>
+    </string>
+    <string id="1_2">
+        <text>brak 1_2</text>
+    </string>
+    <string id="1_12">
+        <text>brak 1_12</text>
+    </string>
+    <string id="1_1">
+        <text>brak 1_1</text>
+    </string>
+    <string id="1_11">
+        <text>brak 1_11</text>
+    </string>
+    <string id="1_111">
+        <text>brak 1_111</text>
+    </string>
+    <string id="1_0">
+        <text>brak 1_0</text>
+    </string>
+    <string id="Good by." />
+    <string id="" />
+    <!-- tu w oryginale było napisane po rosyjsku. Kodowanie Windows-1250 nie pozwala a i tak wyglada na zbedne -->
+    <string id="..." />
+
+    
+    <string id="aa_0">
+        <text>brak aa_0</text>
+    </string>
+</string_table>

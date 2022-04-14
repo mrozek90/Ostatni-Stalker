@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding="windows-1250"?>
+<string_table>
+	<string id="escape_trader_start_dialog__hello">
+		<text>Hi! How you doing? Hopefully feeling well. \n I've got a job for you for the weekend.</text>
+		<text ln="rus">Witaj! Jak zdrowko? Mam nadzieje, ze w porzadku. \n Mam dla Ciebie robotke na odchdne.</text>
+	</string>
+
+	<string id="escape_trader_jobs__0">
+		<text ln="rus">Co to za robota?</text>
+		<text>What kind of job?</text>
+	</string>
+
+	<string id="escape_trader_jobs__2">
+		<text ln="rus">Zwykle rzeczy. Przede wszystkim potrzebuje artefaktow. Zaplace normalnie - nie wiecej, nie mniej.\n Wiesz, potrzebuje "specjalnego" czlowieka do "specjalnej" roboty.</text>
+		<text>Usual stuff. First off, I need artefacts. Paying normal price, not more, no less.\n And well, now and then I need special people for special kind of job.</text>
+	</string>
+
+	<string id="escape_trader_jobs__3">
+		<text ln="rus">Rzeczywiscie... zwykle rzeczy. W porzadku - jesli znajde takie cos to nie zapomne przyniesc.</text>
+		<text>Indeed, the usual stuff. Okay - if I find something will try not to forget to bring it.</text>
+	</string>
+
+	<string id="escape_trader_jobs__4">
+		<text ln="rus">Moze masz tego "specjalnego" czlowieka do tej swojej "specjalnej" roboty?</text>
+		<text>And, would you have a "special" job for a "special" man?</text>
+	</string>
+
+	<string id="escape_trader_jobs__5">
+		<text ln="rus">Jest pewna rzecz. Kraza sluchy, ze jest jedno miejsce w okolicy. Tam mozna znalezc rzadki artefakt. Nie wysylal bym tam byle kota, jesli wiesz co mam na mysli. Przynies mi ten artefakt, moze to mi rozjasni pamiec o Twoim Strieloku. Za artefakt zaplace sowicie, rzecz jasna.</text>
+		<text>There is one thing here. As rumours go, there's a place nearby. It has a rare artefact. But I wouldn't send newbies there, if you know what I mean. Deliver me the artefact, and in the meantime, I'll try to clarify about your Gunslinger. The artefact will be rewarded decently, of course.</text>
+	</string>
+
+	<string id="escape_trader_jobs__6">
+		<text ln="rus">Sztama.[Zadanie]</text>
+		<text>Deal.[Objective]</text>
+	</string>
+
+	<string id="escape_trader_jobs__7">
+		<text ln="rus">Nie, nie chce.</text>
+		<text>No, thanks.</text>
+	</string>
+
+	<string id="escape_trader_jobs__8">
+		<text ln="rus">Zgoda.</text>
+		<text>Agreed.</text>
+	</string>
+
+	<string id="escape_trader_jobs__9">
+		<text ln="rus">Jak sobie chcesz.</text>
+		<text>It's up to you.</text>
+	</string>
+
+	<string id="escape_trader_jobs__51">
+		<text ln="rus">Jest pewna rzecz... Nie bede owijal w bawelne - trzeba cos gwizdnac z posterunku. Potrzebuje walizki, ktora tam jest. Tylko ostroznie! Gdy ich wkurwisz to bedzie niezla jadka, ze wszystkm w okolicy w piety pojdzie.</text>
+		<text>There's a thing. I need you to steal a case from the army post. Carefully though. When they are offended, they make mince of everything around, making even rats hell scared.</text>
+	</string>
+
+	<string id="escape_trader_jobs__61">
+		<text ln="rus">W porzadku, zrobie co trzeba bardzo dyskretnie.[Zadanie]</text>
+		<text>Okay, I'll try to be discreet.[Objective]</text>
+	</string>
+
+	<string id="escape_trader_jobs__71">
+		<text ln="rus">Nie, to nie dla mnie.</text>
+		<text>No, I'm not up to it.</text>
+	</string>
+
+	<string id="escape_trader_jobs__81">
+		<text ln="rus">Gdy tylko przyniesiesz walizke to od razu Ci zaplace. Tylko musze Cie ostrzec, jesli strzelisz do zolnierza to
+		ja Cie nie obronie. Ja mam z nimi interesy, rozumiesz. To dzieki nim moge tu byc. Mamy pewien uklad. Oni i tak czasem do kogos strzela jak sie napatoczy, ale mimo wszystko nie ma tu otwartej wojny.
+		Jak juz bedziesz na tyle glupi by zalesc im za skore to lepiej od razu wystaw sie dla ich dowodcy do ostrzalu. Tak bedzie latwiej i taniej. Mam nadzieje, ze wyrazilem sie jasno. </text>
+		<text>When you bring the case, I'll do the payment. Let me warn you though, if you start killing soldiers,
+		 I'll proclaim you out of law. I don't need recklessness. We've built a fragile world here. Soldiers shoot
+		 stalkers now and then, of course, but there's no severe opposition and we have channels to vend the loot
+		 to. If someone starts raising up a storm here, it will all instantly change and such a scenario does not
+		 make excited at all. It's simpler and cheaper to bring your head to the army post commander. I hope you
+		 read me.</text>
+	</string>
+
+	<string id="escape_trader_jobs__91">
+		<text ln="rus">Wedle zyczenia.</text>
+		<text>As you wish.</text>
+	</string>
+
+	<string id="escape_trader_jobs__52">
+		<text ln="rus">Jest jedna rzecz. Barman z baru dla stalkerow prosil o dostarczenie teczek z dokumentami. Wystarczy wziac je z Agropromu. Jest tylko jedno "ale", teraz jest tam pelno
+		zolnierzy. Podobno czegos tam szukaja.</text>
+		<text>There's a thing. Bartender from stalker bar asked to locate a folder with
+		documents from "Agroprom" SRI for him. There is one "but" here. Currently the building
+		of the institute is occupied by the military. They are looking for something there.</text>
+	</string>
+
+	<string id="escape_trader_jobs__62">
+		<text ln="rus">Dobra, skocze po to, tylko wytlumacz mi jak sie tam dostac.[Zadanie]</text>
+		<text>Alright, I'll pick that up, but you need to explain me how to get there.[Objective]</text>
+	</string>
+
+	<string id="escape_trader_jobs__72">
+		<text ln="rus">Oszalales?! To nie dla mnie.</text>
+		<text>Sorry, I'm not yet ready for it.</text>
+	</string>
+
+	<string id="escape_trader_jobs__82">
+		<text ln="rus">Idz w glab Zony, przez Wysypisko, potem skrec na zachod - tam bedzie Agroprom.
+		Jak juz tam wejdziesz to uzyj PDA do zlokalizowania budynku instytutu. Wrzuce Ci wspolrzedne.</text>
+		<text>Go to the zone center, through dumps, then turn to the west - you'll find agroprom there.
+		When you see agroprom, use your PDA to locate the institute. I dropped you the coordinates.</text>
+	</string>
+
+	<string id="escape_trader_jobs__92">
+		<text ln="rus">Wroc jak bedziesz gotow.</text>
+		<text>Come back when you are done.</text>
+	</string>
+
+	<string id="escape_trader_jobs__12">
+		<text ln="rus">Nie, poki co nic.</text>
+		<text>No, nothing for now.</text>
+	</string>
+
+	<string id="escape_trader_jobs__15">
+		<text ln="rus">Dobrze, dobrze Cos jeszcze?</text>
+		<text>Good, good. Anything else there?</text>
+	</string>
+
+	<string id="escape_trader_done_artefact__0">
+		<text ln="rus">to ten artefakt. Ladna blyskotka.</text>
+		<text>Here's your artefact. A rather cute thing.</text>
+	</string>
+
+	<string id="escape_trader_done_artefact__2">
+		<text ln="rus">W porzadku.</text>
+		<text>Deal.</text>
+	</string>
+
+	<string id="escape_trader_done_blockpost_box__0">
+		<text ln="rus">Twoja walizka.</text>
+		<text>Here's your case.</text>
+	</string>
+
+	<string id="escape_trader_done_blockpost_box__2">
+		<text ln="rus">Taaak, 1000 lub nie... 500 rubli i jestesmy kwita.</text>
+		<text>Weeell, 1000 or no, 500 roubles, and we are quits.</text>
+	</string>
+
+	<string id="escape_trader_talk_about__0">
+		<text ln="rus">Opowiedz mi o ...</text>
+		<text>Tell me about ...</text>
+	</string>
+
+	<string id="escape_trader_talk_about__10">
+		<text ln="rus">Dziekuje, to wszystko na dzis.</text>
+		<text>Thanks, that's it for today.</text>
+	</string>
+
+	<string id="escape_trader_talk_about__1">
+		<text ln="rus">Pytaj o co chcesz, tylko ze ja niewiele wiem. Sam rozumiesz, ja tu sobie siedze a zycie toczy sie tam - na zewnatrz.</text>
+		<text>Feel free to ask, though I don't know much. You understand, I hang all the time around here, and life goes there, outside.</text>
+	</string>
+
+	<string id="escape_trader_talk_about__2">
+		<text ln="rus">Opowiedz mi o Wojskowych.</text>
+		<text>Tell me about military stalkers.</text>
+	</string>
+
+	<string id="escape_trader_talk_about__21">
+		<text ln="rus">Jak to zolnierze. Patrza z gory na wszystkich, jakby byli najwazniejsi w Strefie.
+		Nie maja za grosz uczuc, nigdy Ci nie pomoga nawet gdybys wyl o pomoc. Predzej zastrzela Cie bo taka maja nature - najpierw strzelac, potem pytac.
+		Chcial-niechcial jakos dogaduje sie z nimi.
+		Glownie za pomoca wodki, swierszczykow i innych takich. A ja dostaje za to kase i spokoj. Tak to wyglada.</text>
+		<text>They are military, give or take. Look haughtily on everyone, as if they are local gods or something.
+		They have no reverence for customs, will never help out, however hard you call. They may shoot you down though,
+		but no out of pity, out of their nature - first shoot, then think. However, I managed to find agreement with them.
+		Vodka, magazines and stuff in exchange for peace. You know what I'm talking about.</text>
+	</string>
+
+	<string id="escape_trader_talk_about__22">
+		<text ln="rus">Co Wojskowi robia w Zonie?</text>
+		<text>What do the military do in the Zone?</text>
+	</string>
+
+	<string id="escape_trader_talk_about__221">
+		<text ln="rus">Co robia co robia... ochraniaja przeciez. Nie wiadomo czy Zone przed swiatem czy swiat przed Zonaa.
+		Czasem cale oddzialy przechodza przez Strefe wiec musza czegos szukac. Tylko wiesz co? Oni nie szanuja Zony i za to Zona nie lubi ich.
+		Cynkowe trumny to czesty widok tutaj.</text>
+		<text>They guard, of course. Either the zone itself is guarded, or the entire world from the zone.
+		It's kinda vague. Sometimes the military arrange mass-scale expeditions into the zone. So they must be
+		looking for something there. But I tell you one thing. The military don't respect the zone, and the zone
+		doesn't like them too. Zinc coffins are a frequent sight here.</text>
+	</string>
+
+	<string id="escape_trader_talk_about__3">
+		<text ln="rus">Opowiedz mi o Zonie.</text>
+		<text>Tell me about the Zone.</text>
+	</string>
+
+	<string id="escape_trader_talk_about__31">
+		<text ln="rus">Nierozsadnie jest poruszac sie po Zonie bez broni... zawsze mozesz je u mnie kupic, dla Ciebie po kosztach: prawie...
+		W centrum Strefy na pewno znajduje sie zatrzesienie artefaktow i taki, ktory sobie poradzi to stanie sie bajecznie bogaty. Rozumiesz co mam na mysli?</text>
+		<text>It's dangerous without weapons in the Zone... and you can always buy it from me, the prices for you are
+		almost the lowest: virtually the lowest... almost... In the Zone center there definitely is an artifact bonanza
+		and the one who will reach it will get fabulously rich. Understand what I'm driving at?</text>
+	</string>
+
+	<string id="escape_trader_talk_level__0">
+		<text ln="rus">Opowiedz mi o tym miejscu.</text>
+		<text>Tell about that place.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__10">
+		<text ln="rus">W porzadku, dzieki.</text>
+		<text>Alright, thanks.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__1">
+		<text ln="rus">To jest przedsionek Zony. Po lakach hasaja watahy slepych psow. Czasem natknac sie mozna na mutanta. Generalnie zwykle jest tu spokoj, tylko Wojsko czasem baluje.
+		Glownie swiezaki zatrzymuja sie tu na chwile. Wiekszosc z nich klepie biede i nie maja dokad pojsc, wiec nie zbijesz tu kokosow. Co by tu jeszcze... w okolicy jest zawalony most oraz opuszczona fabryka,
+		tchyba to by bylo na tyle.
+		</text>
+		<text>It's the Zone doorway, the army cordon. On the plains there roam packs of blind dogs. Sometimes here come
+		mutants. Basically, itŇs calm and peaceful here most of the time, but for the military who like to have
+		fun now and then. Stalkers come and go. Only newbies would stay for a while sometimes. You won't find a
+		good loot here. What else shall I say, there is a ruined Bridge and abandoned factory nearby. That's about it.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__2">
+		<text ln="rus">Opowiedz mi wiecej o posterunku.</text>
+		<text>Tell me more about the army post.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__21">
+		<text ln="rus">Kilkudziesieciu zolnierzy i rozkaz strzelania bez ostrzezenia. Lepiej ominac. Kiedy ich wkurwisz to wzywaja swoje
+		odwazne sily specjalne. Oni natomiast robia taka jadke, ze nie mam klientow przez miesiac. Lepiej ich nie draznij.
+		Niewiele wiem o ich dowodcy. Zwykla moczymorda. Dzieki niemu jestem tutaj.</text>
+		<text>Several dozens of soldiers and order to shoot on sight. Best to avoid direct contact. When
+		they get offended, they call for special forces. Those leave no stone unturned up there, so that I
+		see no customers for a month then. So you better make sure you don't offend them. I know their
+		commander a bit. A complete alcohol-addict. It's owing to him that I can hold here.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__3">
+		<text ln="rus">Opowiedz mi o zniszczonym moscie.</text>
+		<text>Tell me more about the ruined bridge.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__31">
+		<text ln="rus">Jesli pojdziesz droga w glab Strefy, zobaczysz nasyp kolejowy. Wczesniej byl most nad droga, a potem
+		wzial i spadl podczas wyladowania. Wojsko lubi robic zasadzki na powracajacych z lupem stalkerow, wiec miej oczy dookola glowy.</text>
+		<text>If you go down the road deep in the zone, you will see a railway embankment. Previously
+		there was a bridge above the road, but it fell down during the blowout. The military like to hide
+		in wait for stalkers returning with loot there.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__4">
+		<text ln="rus">Opowiedz mi o opuszczonej fabryce.</text>
+		<text>Tell me more about the abandoned factory.</text>
+	</string>
+
+	<string id="escape_trader_talk_level__41">
+		<text ln="rus">Gdy przejdziesz na druga strone ulicy to ja zobaczysz. Bialy budynek. Co mogli ukrasc - ukradli dawno temu, a czego nie mogli
+		strawila rdza. Ulubione miejsce bandytow. Obok znajduje sie zaglebienie, podobno mozna znalezc tam artefakty.</text>
+		<text>As you cross the road, you will surely see it. A whitish building it is. What could be stolen -
+		was stolen long ago, and what couldn't be is rusty by now. It's a favourite bandit's place. Right nearby
+		there is a lowland - there you can even find some artifacts.</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__0">
+		<text ln="rus">Porozmawiajmy.</text>
+		<text>Let's chat.</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__10">
+		<text ln="rus">Super, dzieki.</text>
+		<text>Well, thanks.</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__1">
+		<text ln="rus">W porzadku.</text>
+		<text>Alright.</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__2">
+		<text ln="rus">Co wiesz o Strielce?</text>
+		<text>What do you know about Gunslinger?</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__21">
+		<text ln="rus">Plotki sa rozne - wyglada na okolicznego celebryte, a wszystko po tym jak poszedl do centrum.
+		Popytaj Stalkerow, powinni wiedziec wiecej.</text>
+		<text>Rumours are there. He's rumoured a kind of local celebrity or so. He's rumoured to go into
+		the Zone center. Ask stalkers, they know more.</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__22">
+		<text ln="rus">Jak Strielok poszedl do centrum?</text>
+		<text>How did Gunslinger reach the Zone center?</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__221">
+		<text ln="rus">Ja nie wiem. Moze Barman lub ktorys z weteranow wie wiecej.</text>
+		<text>I have no idea. Possibly, the bartender or somebody from the veteran stalkers knows.</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__3">
+		<text ln="rus">Potrzebuje ekwipunku, gdzie molbym go zdobyc? Sa tu jakies sklepy?</text>
+		<text>I need equipment, where can I find it? Are there any shops or something around here?</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__31">
+		<text ln="rus">Coz... akutat stoisz w jednym z nich.
+		Sprzedaje wszystko po najnizszych cenach. Co prawda z amunicja jest krucho w okolicy, dlatego jest taka droga.</text>
+		<text>Well, you are standing right in the middle of one of those at the moment. Selling everything at
+		lowest prices. Ammunition, though is tough in the zone, that's why it costs so much.</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__4">
+		<text ln="rus">Potrzebuje kasy, jak moge zarobic?</text>
+		<text>I need money, how can I earn it?</text>
+	</string>
+
+	<string id="escape_trader_talk_flame__41">
+		<text ln="rus">Wszystko jest proste. Wyswiadczasz przyslugi innym,
+		jesli przezyjesz - dadza Ci pieniadze. Mozesz sprzedawac artefakty.
+		Zaplace dobra cene, a nie jak jakies handlarzyki.</text>
+		<text>Everything is pretty simple. You do favours to others, unless they kill you, they pay. You can sell
+		artefacts to me. Will pay a good price, unlike other misers.</text>
+	</string>
+
+	<string id="loser_hello_dialog__0">
+		<text ln="rus">Urki okradli!!! Przynies mi porzadna bron.
+		To prawda, ze ??moge strzelac tylko z kalacha lub z dwururki...\nPrzynies, a nigdy Ci tego nie zapomne...</text>
+		<text>Mugs robbed me!!! Bring me a serious weapon. To be frank though, I can shoot Kalash or double-barreller only...
+		\nBring it please! I won't forget that...</text>
+	</string>
+
+	<string id="loser_hello_dialog__1">
+		<text ln="rus">Zobacze co moge zrobic.[Zadanie]</text>
+		<text>I'll see what can be done.[Objective]</text>
+	</string>
+
+	<string id="loser_hello_dialog__2">
+		<text ln="rus">Moze innym razem.</text>
+		<text>Some other day.</text>
+	</string>
+
+	<string id="loser_hello_dialog__3">
+		<text ln="rus">No, wez tego kalacha. Moze Ci sie przyda...</text>
+		<text>Here, grab Kalash, maybe it'll do for you...</text>
+	</string>
+
+	<string id="loser_hello_dialog__6">
+		<text ln="rus">No, wez ta dwururke. Moze Ci sie przyda...</text>
+		<text>Here, take this rifle, perhaps it'll do for you...</text>
+	</string>
+
+	<string id="loser_hello_dialog__4">
+		<text ln="rus">Dzieki bracie... Nie zapomne Ci tego. Teraz urki zaplaca.</text>
+		<text>Thanks, brother... I will never forget your help. Now the mugs will suffer.</text>
+	</string>
+
+	<string id="loser_hello_dialog__5">
+		<text ln="rus">Trzymaj sie, bede w okolicy jak by co.</text>
+		<text>Take care, I'll be around here, just in case.</text>
+	</string>
+
+	<string id="escape_novice_thank_actor__0">
+		<text ln="rus">Dzieki brat. Nie zapomne Ci tego, jestem Twoim dluznikiem.</text>
+		<text>Well, thanks brother. I won't forget that. I'm in dept to you.</text>
+	</string>
+
+	<string id="escape_talk_about_escape__0">
+		<text ln="rus">Opowiedz mi o tym miejscu.</text>
+		<text>Tell me about the place.</text>
+	</string>
+
+	<string id="escape_talk_about_escape__10">
+		<text ln="rus">Dziekuje.</text>
+		<text>Thanks.</text>
+	</string>
+
+	<string id="escape_talk_about_escape__1">
+		<text ln="rus">To droga do Zony. W poblizu, za wsia, obok posterunku, w piwnicy, znajdziesz kupca.
+		Pokaz sie na punkcie kontrolnym to zostaniesz schywytany. Lepiej nie rzucac sie w oczy wojskowym, bo maja rozkaz strzelania do wszystkiego co sie rusza.
+		Zabijac zolnierzy nie wolno, tylko w ostatecznosci. Za kazdego zabitego handlarz musi slono zaplacic. Uwierz, ze nie bedzie zadowolony z tych wyrownan.
+		Watahy slepych psow na rowninach, lepiej sie tam nie krec z marnym ekwipunkiem. Od czasu do czasu mozna natknac sie na mutanta.</text>
+		<text>This is a road into the Zone. In a basement behind the village close to the
+		army post you will find a dealer. I don't recommend going to the army post and exposing
+		yourself to soldiers, they were ordered to shoot on sight. You should not kill soldiers,
+		only in extreme cases. For each soldier killed the dealer has to pay and he will not be
+		happy of your killings. On the plains there roam large packs of blind dogs, it's dangerous
+		for newbies to challenge them. Now and then mutants come by.</text>
+	</string>
+
+	<string id="escape_talk_about_escape__2">
+		<text ln="rus">Co jest dalej na po drodze na polnoc?</text>
+		<text>And what's next there on the way to north?</text>
+	</string>
+
+	<string id="escape_talk_about_escape__21">
+		<text ln="rus">Tam jest Wysypisko. Mroczne miejsce. Mozna ugrzasc w radioaktywnych smieciach.</text>
+		<text>There is a dump. A murky place. Sometimes the trash piles are too high to pass there.</text>
+	</string>
+
+</string_table>

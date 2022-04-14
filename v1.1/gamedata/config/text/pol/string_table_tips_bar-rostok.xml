@@ -1,0 +1,144 @@
+	<string id="bar_arena_actor_afraid">
+		<text>Walka zostaje odwo³ana! Wyzywaj¹cy stchórzy³ i nie wyszed³ na ring!</text>
+	</string>
+	<string id="bar_arena_fight_10">
+		<text>Minê³o 10 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_20">
+		<text>Minê³o 20 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_30">
+		<text>Minê³o 30 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_40">
+		<text>Minê³o 40 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_50">
+		<text>Minê³o 50 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_60">
+		<text>Minuta walki!</text>
+	</string>
+	<string id="bar_arena_fight_70">
+		<text>Minê³a 1 minuta 10 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_80">
+		<text>Minê³a 1 minuta 20 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_90">
+		<text>Minê³a 1 minuta 30 sekund!</text>
+	</string>
+	<string id="bar_arena_fight_begin">
+		<text>Walka siê rozpoczê³a!</text>
+	</string>
+	<string id="bar_arena_fight_bloodsucker">
+		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku najgorszy koszmar Zony - wiecznie g³odna pijawka! A w prawym... Cz³owiek? Tak, to cz³owiek! Oklaski dla Naznaczonego!</text>
+	</string>
+	<string id="bar_arena_fight_burer">
+		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku potrafi¹cy zginaæ ³y¿eczki si³¹ woli, mistrz kung-fu we w³asnej osobie - burer! A w prawym naro¿niku - cz³owiek, który ca³y czas ma siê na bacznoœci! Zw¹ go Naznaczonym!</text>
+	</string>
+	<string id="bar_arena_fight_dead">
+		<text>Hm! Wyzywaj¹cy zosta³ zabity! A to niespodzianka!</text>
+	</string>
+	<string id="bar_arena_fight_lose">
+		<text>No, no! Wyzywaj¹cy zabi³ swego przeciwnika. Zrobi³ to jednak za póŸno, przegrywa wiêc walkê!</text>
+	</string>
+	<string id="bar_arena_fight_pseudodog">
+		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku... bia³y, puchaty i wœciek³y... to nibypies! A w prawym naro¿niku - przyby³ znik¹d i dok³adnie tam zmierza. Zw¹ go Naznaczonym!</text>
+	</string>
+	<string id="bar_arena_fight_savage">
+		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku - znacie go, kochacie go, a on was za to nienawidzi! To Zwierz! A w prawym naro¿niku ca³y i zdrowy - przynajmniej na razie - Naznaczony!</text>
+	</string>
+	<string id="bar_arena_fight_snork">
+		<text>Uwaga! Uwaga! Za chwilê na Arenie rozpocznie siê nowa walka! W lewym naro¿niku guru sztuk walki i specjalista w dziedzinie zdrowia - snork! A w prawym naro¿niku - cz³owiek bez przesz³oœci i bez przysz³oœci. Zw¹ go Naznaczonym!</text>
+	</string>
+	<string id="bar_arena_fight_timeout">
+		<text>Czas dobieg³ koñca! Wyzywaj¹cy przegra³, lecz ci¹gle walczy o ¿ycie!</text>
+	</string>
+	<string id="bar_arena_fight_victory">
+		<text>Ha! Wyzywaj¹cy zabi³ przeciwnika w przepisowym czasie! Wygrywa!</text>
+	</string>
+	<string id="bar_ecolog_attack">
+		<text>Jak sobie ¿yczysz.</text>
+	</string>
+	<string id="bar_ecolog_crush_attract_actor">
+		<text>Stalkerze, przyjacielu! B³agam, nie odchodŸ, pomó¿ nam! Anarchiœci zestrzelili nasz helikopter i teraz chc¹ nas wykoñczyæ. Mamy rannych! Potrzebujemy twojej pomocy!</text>
+	</string>
+	<string id="bar_ecolog_crush_heli_down">
+		<text>He-he, i po wszystkim. Nie ma ju¿ waszego œmig³owca! Teraz kolej na was, wy szczury rz¹dowe!</text>
+	</string>
+	<string id="bar_ecolog_crush_start_heli">
+		<text>Tym razem ju¿ przesadzi³eœ, Wilczarz. Leci tu wojskowy œmig³owiec. Wystrzelaj¹ was jak kaczki!</text>
+	</string>
+	<string id="bar_ecolog_escape">
+		<text>Profesor uciek³! Natychmiast wszyscy za Krug³owem! Nie móg³ uciec daleko!</text>
+	</string>
+	<string id="bar_ecolog_hit">
+		<text>Pomó¿ mi, Naznaczony!!! Oni chc¹ mnie  zabiæ!!!</text>
+	</string>
+	<string id="bar_ecolog_spam_1">
+		<text>Marzenia, psie! Najpierw skoñcz szko³ê, zanim zaczniesz stawiaæ ultimatum!</text>
+	</string>
+	<string id="bar_ecolog_spam_2">
+		<text>Jeœli zaatakujesz, zniszczê dane! Nic nie dostaniesz!</text>
+	</string>
+	<string id="bar_ecolog_spam_3">
+		<text>Jeœli nie chcesz, ¿ebym zniszczy³ wyniki badañ, lepiej lepiej trzymaj siê z daleka!</text>
+	</string>
+	<string id="bar_ecolog_spam_4">
+		<text>Zabierz st¹d swoje pieski, Wilczarz, i wynoœ siê, póki jeszcze mo¿esz.</text>
+	</string>
+	<string id="bar_freedom_attack">
+		<text>Koniec gadania. Czas na zabijanie.</text>
+	</string>
+	<string id="bar_freedom_attack_attract_actor">
+		<text>Ej, goœciu, chodŸ no tu! Jest sprawa. Razem mo¿emy wykoñczyæ te szczury rz¹dowe.</text>
+	</string>
+	<string id="bar_freedom_attack_spy">
+		<text>Naznaczony, ty sukinsynu! Jeszcze zap³acisz za to, ¿e nas wystawi³eœ! </text>
+	</string>
+	<string id="bar_freedom_chase">
+		<text>Id¹ za nami?! Naznaczony, zatrzymaj ich!</text>
+	</string>
+	<string id="bar_freedom_spam_1">
+		<text>Krótko mówi¹c, jesteœ uczonym ba³wanem. Albo oddasz mi wyniki badañ, albo odwioz¹ ciê st¹d w plastikowym worku.</text>
+	</string>
+	<string id="bar_freedom_spam_2">
+		<text>Krug³ow, mo¿e ja nie znam ³aciny, ale doskonale w³adam przemoc¹. Mam ci pokazaæ? Czy sam oddasz mi te informacje?</text>
+	</string>
+	<string id="bar_freedom_spam_3">
+		<text>Profesorze, przecie¿ jest pan m¹drym cz³owiekiem. Proszê mi daæ te informacje, i mo¿e pan iœæ gdzie chce!</text>
+	</string>
+	<string id="bar_freedom_spam_4">
+		<text>Chyba nie bardzo rozumiesz, Krug³ow? Zestrzeliliœmy twój pieprzony œmig³owiec, bo potrzebne nam informacje, które przewozisz. Kiedy nam je oddasz, bêdziesz móg³ zabraæ swoich i wynieœæ siê st¹d. To twoja ostatnia szansa wyjœæ z tego ca³o. Daj mi tê fleszkê i zmywaj siê!</text>
+	</string>
+	<string id="bar_psih_come">
+		<text>Wal szybko tutaj! Moi ch³opcy z³apali ko³o Radaru szalonego stalkera. Teraz staramy siê coœ z niego wycisn¹æ!</text>
+	</string>
+	<string id="bar_territory_dolg_1_hit">
+		<text>Naznaczony, zwariowa³eœ?! Natychmiast przerwij ogieñ! To rozkaz!</text>
+	</string>
+	<string id="bar_territory_dolg_2_hit">
+		<text>Naznaczony, natychmiast przestañ strzelaæ! Jeœli nie wykonasz rozkazu, ju¿ nie ¿yjesz!</text>
+	</string>
+	<string id="bar_territory_dolg_3_hit">
+		<text>Naznaczony, za z³amanie kodeksu "Powinnoœci" zostajesz usuniêty z ugrupowania. Od dziœ jesteœ naszym wrogiem.</text>
+	</string>
+	<string id="bar_territory_dolg_kill">
+		<text>Naznaczony, nie wykona³eœ rozkazu! "Powinnoœæ" tego nie wybacza. Jesteœ ju¿ martwy.</text>
+	</string>
+	<string id="bar_territory_nodolg_1_hit">
+		<text>Przestañ strzelaæ! To zakazane na terytorium "Powinnoœci"! Ci, którzy ³ami¹ regu³y, zostan¹ ukarani!</text>
+	</string>
+	<string id="bar_territory_nodolg_2_hit">
+		<text>Uwaga! Za naruszenie prawa o u¿yciu broni palnej na terytorium "Powinnoœci", Naznaczony zosta³ og³oszony przestêpc¹.</text>
+	</string>
+	<string id="bar_territory_nodolg_kill">
+		<text>Uwaga! Pojawi³ siê morderca! Rozkaz do wszystkich obecnych na terytorium "Powinnoœci"! Natychmiast zlikwidowaæ mordercê!</text>
+	</string>
+	<string id="rostok_kruglov_spam_1">
+		<text>Ej, stalkerze, pomocy! Napadli na nas najemnicy, nie ¿yje po³owa naszej ekipy. Pomó¿ nam, a obiecujê, ¿e nie po¿a³ujesz.</text>
+	</string>
+	<string id="rostok_kruglov_spam_2">
+		<text>Pomó¿ nam wydostaæ siê z zasadzki przy fabryce. Przes³a³em ci wspó³rzêdne. B¹dŸ ostro¿ny, Wilczarz i jego zbiry s¹ przy helikopterze.</text>
+	</string>

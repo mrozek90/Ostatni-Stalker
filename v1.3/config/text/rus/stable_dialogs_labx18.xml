@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="dar_explorer_dialog_1">
+		<text>Wypełniam zadanie.</text>
+	</string>
+	<string id="dar_explorer_dialog_11">
+		<text>Hm. Jakie zadanie? Szukasz czegoś? A może już znalazłeś? Słyszałem, że jest tu sporo fantów...</text>
+	</string>
+	<string id="dar_explorer_dialog_111">
+		<text>Przykro mi, nie mogę powiedzieć, zresztą i tak nie mam czasu.</text>
+	</string>
+	<string id="dar_explorer_dialog_1111">
+		<text>Czekaj, nie pędź tak. Jeszcze się nabiegasz... Co znalazłeś? Bo widzisz, ja tutaj też nie chodzę ot tak sobie.</text>
+	</string>
+	<string id="dar_explorer_dialog_11111">
+		<text>Moja sprawa, co znalazłem.</text>
+	</string>
+	<string id="dar_explorer_dialog_11112">
+		<text>Znalazłem trochę dokumentów z X-18. Barman obiecał, że dobrze za nie zapłaci.</text>
+	</string>
+	<string id="dar_explorer_dialog_112">
+		<text>Nie, niczego nie znalazłem.</text>
+	</string>
+	<string id="dar_explorer_dialog_2">
+		<text>Nawet nie wiem, jak się tu znalazłem. Chciałbym się stąd zmyć, możliwie jak najszybciej.</text>
+	</string>
+	<string id="dar_explorer_dialog_21">
+		<text>Nie znalazłeś przypadkiem nic ciekawego? Podobno można tu znaleźć informacje o eksperymentach. Warte grubą kasę...</text>
+	</string>
+	<string id="dar_explorer_dialog_211">
+		<text>Nie, nie znalazłem.</text>
+	</string>
+	<string id="dar_explorer_dialog_2111">
+		<text>Tak?... A gdybyś się tak naprawdę dobrze zastanowił? Może coś przede mną ukrywasz?</text>
+	</string>
+	<string id="dar_explorer_dialog_21111">
+		<text>Nie.</text>
+	</string>
+	<string id="dar_explorer_dialog_21112">
+		<text>A co to, przesłuchanie?</text>
+	</string>
+	<string id="dar_explorer_dialog_21113">
+		<text>Grozisz mi?</text>
+	</string>
+	<string id="dar_explorer_dialog_212">
+		<text>Pieprzyć te informacje, ja tu się ledwie przy życiu trzymam.</text>
+	</string>
+	<string id="dar_explorer_dialog_2121">
+		<text>No dobra, nie zatrzymuję. Ale jeśli coś znajdziesz - będę w pobliżu...</text>
+	</string>
+	<string id="dar_explorer_dialog_25">
+		<text>Słuchaj, koleś, ja w tej samej Zonie przeszedłem przez ogień, anomalie i mutanty, a - jak widać - wciąż jeszcze żyję! Więc nie będziesz mi dyktował, co mi wolno mówić, a czego nie. Przyszedłem tu po dokumenty i nie odejdę bez nich. Jak masz je przy sobie, to lepiej mi je oddaj, albo czeka cię wieczny spoczynek w tej dziurze! Kapujesz?</text>
+	</string>
+	<string id="dar_explorer_dialog_251">
+		<text>Jasne.</text>
+	</string>
+	<string id="dar_explorer_dialog_2511">
+		<text>Jeśli kłamiesz, to siedzisz po uszy w gównie. Jeśli zamierzasz mnie wyrolować, siedzisz po uszy w gównie, jeśli będziesz chciał mi wcisnąć jakieś śmieci, siedzisz po uszy w gównie. Generalnie siedzisz po uszy w gównie, więc musisz ostro płynąć, żeby się wynurzyć! A teraz jeszcze raz tekst dla opóźnionych: znalazłeś dokumenty?</text>
+	</string>
+	<string id="dar_explorer_dialog_2521">
+		<text>W porządku, a następnym razem licz się ze słowami. Możesz już iść. Jak coś znajdziesz, to jestem w pobliżu...</text>
+	</string>
+	<string id="dar_explorer_dialog_253">
+		<text>Koniec rozmowy. Zejdź mi z drogi.</text>
+	</string>
+	<string id="dar_explorer_dialog_26">
+		<text>Nie mam żadnych dokumentów.</text>
+	</string>
+	<string id="dar_explorer_dialog_271">
+		<text>O to chodzi, kolego. A teraz dawaj wszelkie informacje, jakie znalazłeś. Do ostatniego skrawka papieru. I nawet nie myśl o żadnych numerach, bo to byłby twój ostatni numer w życiu...</text>
+	</string>
+	<string id="dar_explorer_dialog_51">
+		<text>Skończ z tym wreszcie! Nie łażę po tej dziurze dla zabawy. Nie wydurniaj się, tylko mów, co znalazłeś. Jak by co, możemy się podzielić...</text>
+	</string>
+	<string id="dar_explorer_dialog_511">
+		<text>Nie mam zamiaru niczym się dzielić.</text>
+	</string>
+	<string id="dar_explorer_dialog_5111">
+		<text>Aha, no to spieprzaj... I jeszcze ostatnia rada: patrz pod nogi, stalkerze, bo możesz się potknąć!</text>
+	</string>
+	<string id="dar_explorer_dialog_512">
+		<text>Grozisz mi?</text>
+	</string>
+	<string id="dar_explorer_dialog_5121">
+		<text>Dobra, dobra, wyluzuj... Trochę się człowiek zaciekawi, a ty już łapiesz za spluwę! Koniec pytań. Po prostu uważaj i tyle.</text>
+	</string>
+	<string id="dar_explorer_dialog_61">
+		<text>Dokumenty, hm... Dla twojej informacji - właśnie po nie tu przyszedłem. A ty mi je teraz przekażesz i ruszysz w swoją drogę. Jasne?</text>
+	</string>
+	<string id="dar_explorer_dialog_6111">
+		<text>Mam dla ciebie propozycję.</text>
+	</string>
+	<string id="dar_explorer_dialog_6121">
+		<text>Stary, przestań mi robić wodę z mózgu. Zawrzyjmy układ. Odpalę ci niezłą kasę, nie pożałujesz.</text>
+	</string>
+	<string id="dar_explorer_dialog_6131">
+		<text>Słuchaj, ja bardzo potrzebuję tych dokumentów. Pokaż, co tam masz - myślę, że możemy się dogadać...</text>
+	</string>
+	<string id="dar_explorer_dialog_8011">
+		<text>Ciemno tu, ni cholery nie widzę. Wszędzie wokół burery... Po co ja się zgodziłem?! A ty co? Jak się tu znalazłeś?</text>
+	</string>
+	<string id="dar_explorer_dialog_8021">
+		<text>Idź swoją drogą, stalkerze.</text>
+	</string>
+	<string id="dar_explorer_dialog_8031">
+		<text>Nienawidzę, kiedy ktoś mi przerywa. Tak czy siak, przyszedłem tu po ważne dokumenty. Jeśli coś znalazłeś, to gadaj albo będą problemy. Jak nic nie masz, to zjeżdżaj i nie marnuj mojego czasu.</text>
+	</string>
+	<string id="dar_explorer_dialog_8041">
+		<text>Nienawidzę, kiedy ktoś mi przerywa. Dawaj te dokumenty, jeśli nie chcesz zostać tu na zawsze.</text>
+	</string>
+	<string id="dar_explorer_dialog_9">
+		<text>Zapamiętam to.</text>
+	</string>
+</string_table>
