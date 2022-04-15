@@ -1,0 +1,75 @@
+function automaic_check_health()
+	if	db.actor.health <= 0.4 then
+		check_medkits()
+	end
+	if	db.actor.radiation >= 0.7 then
+		check_antirad()
+	end
+	if	db.actor:get_bleeding() >= 0.8 then
+		check_bandage()
+	end
+	if	db.actor.power <= 0.22 then
+		check_energy_drink()
+	end
+end
+ 
+function check_medkits()
+
+local medkit_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критическое состояние здоровья. Применяю аптечку. %c[default]"
+local medkit_army_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критическое состояние здоровья. Применяю армейскую аптечку. %c[default]"
+local medkit_scientic_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критическое состояние здоровья. Применяю научную аптечку. %c[default]"
+
+	if db.actor:object("medkit") ~= nil then
+		db.actor:eat(db.actor:object("medkit"))
+		xr_effects.system_message_10()
+		db.actor:give_game_news(medkit_text, "ui\\ui_iconsTotal",Frect():set(0,188,83,47), 0, 5000)
+
+	elseif db.actor:object("medkit_army") ~= nil then
+		db.actor:eat(db.actor:object("medkit_army"))
+		xr_effects.system_message_11()
+		db.actor:give_game_news(medkit_army_text, "ui\\ui_iconsTotal",Frect():set(0,188,83,47), 0, 5000)
+
+	elseif db.actor:object("medkit_scientic") ~= nil then
+		db.actor:eat(db.actor:object("medkit_scientic"))
+		xr_effects.system_message_12()
+		db.actor:give_game_news(medkit_scientic_text, "ui\\ui_iconsTotal",Frect():set(0,188,83,47), 0, 5000)
+	end
+end
+
+function check_antirad()
+local antirad_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критический уровень радиационного заражения. Применяю антирадиационный препарат. %c[default]"
+local antirad_scientic_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критический уровень радиационного заражения. Применяю научную аптечку. %c[default]"
+	
+	 if	db.actor:object("antirad") ~= nil then
+		db.actor:eat(db.actor:object("antirad"))
+		xr_effects.system_message_13()
+		db.actor:give_game_news(antirad_text, "ui\\ui_iconsTotal", Frect():set(0,188,83,47), 0, 5000)
+	
+	elseif db.actor:object("medkit_scientic") ~= nil then
+		db.actor:eat(db.actor:object("medkit_scientic"))
+		xr_effects.system_message_14()
+		db.actor:give_game_news(antirad_scientic_text, "ui\\ui_iconsTotal",Frect():set(0,188,83,47), 0, 5000)
+	
+	end
+end
+
+function check_bandage()
+
+local bandage_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Опасное кровотечение. Применяю бинт. %c[default]"
+
+	if db.actor:object("bandage") ~= nil then
+		db.actor:eat(db.actor:object("bandage"))
+		xr_effects.system_message_15()
+		db.actor:give_game_news(bandage_text, "ui\\ui_iconsTotal",Frect():set(0,188,83,47), 0, 5000)
+	end
+end
+
+function check_energy_drink()
+local energy_drink_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критический упадок сил. Применяю энергетический коктейль. %c[default]"
+
+	if db.actor:object("energy_drink") ~= nil then
+		db.actor:eat(db.actor:object("energy_drink"))
+		xr_effects.system_message_16()
+		db.actor:give_game_news(energy_drink_text, "ui\\ui_iconsTotal",Frect():set(0,188,83,47), 0, 5000)
+	end
+end
