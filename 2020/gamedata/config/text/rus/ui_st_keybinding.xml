@@ -22,7 +22,7 @@
 		<text>Czat</text>
 	</string>
 	<string id="kb_chat_team">
-		<text>Czat druzynowy</text>
+		<text>Czat dru¿ynowy</text>
 	</string>
 	<string id="kb_console">
 		<text>Konsola</text>
@@ -34,22 +34,22 @@
 		<text>Przysiad</text>
 	</string>
 	<string id="kb_crouch_toggle">
-		<text>Staly przysiad</text>
+		<text>Sta³y przysiad</text>
 	</string>
 	<string id="kb_down">
-		<text>W dol</text>
+		<text>W dó³</text>
 	</string>
 	<string id="kb_drop">
-		<text>Wyrzuc</text>
+		<text>Wyrzuæ</text>
 	</string>
 	<string id="kb_fire">
-		<text>Strzal</text>
+		<text>Strza³</text>
 	</string>
 	<string id="kb_firemode_next">
-		<text>Nastepny tryb strzalu</text>
+		<text>Nastêpny tryb strza³u</text>
 	</string>
 	<string id="kb_firemode_prev">
-		<text>Poprzedni tryb strzalu</text>
+		<text>Poprzedni tryb strza³u</text>
 	</string>
 	<string id="kb_forward">
 		<text>Do przodu</text>
@@ -58,7 +58,7 @@
 		<text>Granatnik</text>
 	</string>
 	<string id="kb_grp_common">
-		<text>Ogolne</text>
+		<text>Ogólne</text>
 	</string>
 	<string id="kb_grp_direction">
 		<text>Kierunek</text>
@@ -73,7 +73,7 @@
 		<text>Gra sieciowa</text>
 	</string>
 	<string id="kb_grp_weapons">
-		<text>Bron</text>
+		<text>Broñ</text>
 	</string>
 	<string id="kb_inventory">
 		<text>Ekwipunek</text>
@@ -94,7 +94,7 @@
 		<text>Mapa w PDA</text>
 	</string>
 	<string id="kb_next_slot">
-		<text>Nastepna bron</text>
+		<text>Nastêpna broñ</text>
 	</string>
 	<string id="kb_night_vision">
 		<text>Noktowizor</text>
@@ -106,13 +106,13 @@
 		<text>PDA</text>
 	</string>
 	<string id="kb_prev_slot">
-		<text>Poprzednia bron</text>
+		<text>Poprzednia broñ</text>
 	</string>
 	<string id="kb_quit">
-		<text>Wyjscie</text>
+		<text>Wyjœcie</text>
 	</string>
 	<string id="kb_reload">
-		<text>Przeladuj</text>
+		<text>Prze³aduj</text>
 	</string>
 	<string id="kb_repair">
 		<text>Napraw</text>
@@ -133,75 +133,75 @@
 		<text>Zrzut ekranu</text>
 	</string>
 	<string id="kb_skin_menu">
-		<text>Menu "skorek"</text>
+		<text>Menu "skórek"</text>
 	</string>
 	<string id="kb_sprint">
 		<text>Biegnij</text>
 	</string>
 	<string id="kb_team_menu">
-		<text>Menu druzyny</text>
+		<text>Menu dru¿yny</text>
 	</string>
 	<string id="kb_torch">
 		<text>Latarka</text>
 	</string>
 	<string id="kb_turn_engine">
-		<text>Wlacz</text>
+		<text>W³¹cz</text>
 	</string>
 	<string id="kb_up">
-		<text>W gore</text>
+		<text>W górê</text>
 	</string>
 	<string id="kb_use">
-		<text>Uzyj</text>
+		<text>U¿yj</text>
 	</string>
 	<string id="kb_use_bandage">
-		<text>Bandazuj</text>
+		<text>Banda¿uj</text>
 	</string>
 	<string id="kb_use_medkit">
-		<text>Uzyj apteczke</text>
+		<text>U¿yj apteczkê</text>
 	</string>
 	<string id="kb_vote_begin">
-		<text>Rozpocznij glosowanie</text>
+		<text>Rozpocznij g³osowanie</text>
 	</string>
 	<string id="kb_vote_menu">
-		<text>Glosuj</text>
+		<text>G³osuj</text>
 	</string>
 	<string id="kb_vote_no">
-		<text>Glosuj na "nie"</text>
+		<text>G³osuj na "nie"</text>
 	</string>
 	<string id="kb_vote_yes">
-		<text>Glosuj na "tak"</text>
+		<text>G³osuj na "tak"</text>
 	</string>
 	<string id="kb_weapon1">
-		<text>Bron 1</text>
+		<text>Broñ 1</text>
 	</string>
 	<string id="kb_weapon2">
-		<text>Bron 2</text>
+		<text>Broñ 2</text>
 	</string>
 	<string id="kb_weapon3">
-		<text>Bron 3</text>
+		<text>Broñ 3</text>
 	</string>
 	<string id="kb_weapon4">
-		<text>Bron 4</text>
+		<text>Broñ 4</text>
 	</string>
 	<string id="kb_weapon5">
-		<text>Bron 5</text>
+		<text>Broñ 5</text>
 	</string>
 	<string id="kb_weapon6">
-		<text>Bron 6</text>
+		<text>Broñ 6</text>
 	</string>
 	<string id="kb_wpn_next">
-		<text>Zmien typ amunicji</text>
+		<text>Zmieñ typ amunicji</text>
 	</string>
 	<string id="kb_wpn_prev">
-		<text>Poprzednia bron tego typu</text>
+		<text>Poprzednia broñ tego typu</text>
 	</string>
 	<string id="kb_zoom">
-		<text>Przyblizanie</text>
+		<text>Przybli¿anie</text>
 	</string>
 	<string id="speech_menu_group">
-		<text>Wiadomosci glosowe (1)</text>
+		<text>Wiadomoœci g³osowe (1)</text>
 	</string>
 	<string id="speech_menu_personal">
-		<text>Wiadomosci glosowe (2)</text>
+		<text>Wiadomoœci g³osowe (2)</text>
 	</string>
 </string_table>

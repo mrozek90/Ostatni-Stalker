@@ -16,16 +16,16 @@
 		<text>0.45Hydro</text>
 	</string>
 	<string id="ammo-12x70-buck">
-		<text>Naboje 12x70 srut</text>
+		<text>Naboje 12x70 úrut</text>
 	</string>
 	<string id="ammo-12x70-buck_s">
-		<text>12x70 srut.</text>
+		<text>12x70 úrut.</text>
 	</string>
 	<string id="ammo-12x76-dart">
-		<text>Naboje 12x76 strzalka</text>
+		<text>Naboje 12x76 strza≥ka</text>
 	</string>
 	<string id="ammo-12x76-dart_s">
-		<text>12x76 strzalka.</text>
+		<text>12x76 strza≥ka.</text>
 	</string>
 	<string id="ammo-12x76-zhekan">
 		<text>Naboje 12x76 czekan</text>
@@ -52,7 +52,7 @@
 		<text>5,56 AP</text>
 	</string>
 	<string id="ammo-5.56x45-ss190">
-		<text>5,56o45 mm SS109</text>
+		<text>5,56ı45 mm SS109</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
 		<text>5,56 SS</text>
@@ -148,259 +148,259 @@
 		<text>VOG-25P</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-fmj">
-		<text>Standardowy naboj do pistoletow Colt 1911, USP45 Compact i SIG-220. Ma klasyczny rdzen i pocisk pelnoplaszczowy.</text>
+		<text>Standardowy nabÛj do pistoletÛw Colt 1911, USP45 Compact i SIG-220. Ma klasyczny rdzeÒ i pocisk pe≥nop≥aszczowy.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-11.43x23-hydro">
-		<text>Ulepszony naboj Hydro-Shock dla pistoletow Colt 1911, USP45 Compact i SIG-220. Ma pocisk z wglebieniem czubkowym o duzej mocy obalajacej.</text>
+		<text>Ulepszony nabÛj Hydro-Shock dla pistoletÛw Colt 1911, USP45 Compact i SIG-220. Ma pocisk z wg≥Íbieniem czubkowym o duøej mocy obalajπcej.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x70-buck">
-		<text>Standardowy naboj kaliber 12 ze srutem 6 mm. Ma ogromna sile niszczaca na krotki dystans. Stworzony dla strzelb TOZ-34, BM-17, Winchester 1300, Wiepr-12 ´Mlotª oraz SPAS-12. Najbardziej skuteczny na odleglosc ponizej 30 metrow.</text>
+		<text>Standardowy nabÛj kaliber 12 ze úrutem 6 mm. Ma ogromnπ si≥Í niszczπcπ na krÛtki dystans. Stworzony dla strzelb TOZ-34, BM-17, Winchester 1300, Wiepr-12 ´M≥otª oraz SPAS-12. Najbardziej skuteczny na odleg≥oúÊ poniøej 30 metrÛw.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-dart">
-		<text>Pocisk przeciwpancerny stabilizowany brzechwowo, dzieki czemu ma wieksza celnosc. Stworzony dla strzelb TOZ-34, BM-17, Winchester 1300, Wiepr-12 ´Mlotª oraz SPAS-12. Ma zwiekszony zasieg. Skuteczny na odleglosc do 150 metrow.</text>
+		<text>Pocisk przeciwpancerny stabilizowany brzechwowo, dziÍki czemu ma wiÍkszπ celnoúÊ. Stworzony dla strzelb TOZ-34, BM-17, Winchester 1300, Wiepr-12 ´M≥otª oraz SPAS-12. Ma zwiÍkszony zasiÍg. Skuteczny na odleg≥oúÊ do 150 metrÛw.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-12x76-zhekan">
-		<text>Naboj z pociskiem bezplaszczowym. Zazwyczaj wykorzystywany do polowania na duza zwierzyne, ale rowniez do innych celow. Duzy pocisk nie przebija, ale wrecz przewierca sie przez kamizelki kuloodporne. Stworzony dla strzelb TOZ-34, BM-17, Winchester 1300, Wiepr-12 ´Mlotª oraz SPAS-12. Skuteczny na odleglosc do 100 metrow.</text>
+		<text>NabÛj z pociskiem bezp≥aszczowym. Zazwyczaj wykorzystywany do polowania na duøπ zwierzynÍ, ale rÛwnieø do innych celÛw. Duøy pocisk nie przebija, ale wrÍcz przewierca siÍ przez kamizelki kuloodporne. Stworzony dla strzelb TOZ-34, BM-17, Winchester 1300, Wiepr-12 ´M≥otª oraz SPAS-12. Skuteczny na odleg≥oúÊ do 100 metrÛw.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-ap">
-		<text>Przeciwpancerny naboj do karabinow szturmowych AKS-74, AK-74M, AKS-74U, AN-94 ´Abakanª i RPK-74. Zwiekszona przebijalnosc, lecz zmniejszona moc obalajaca.</text>
+		<text>Przeciwpancerny nabÛj do karabinÛw szturmowych AKS-74, AK-74M, AKS-74U, AN-94 ´Abakanª i RPK-74. ZwiÍkszona przebijalnoúÊ, lecz zmniejszona moc obalajπca.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.45x39-fmj">
-		<text>Standardowy naboj do karabinow szturmowych AKS-74, AK-74M, AKS-74U, AN-94 ´Abakanª i RPK-74. Klasyczny rdzen i pelnoplaszczowy pocisk.</text>
+		<text>Standardowy nabÛj do karabinÛw szturmowych AKS-74, AK-74M, AKS-74U, AN-94 ´Abakanª i RPK-74. Klasyczny rdzeÒ i pe≥nop≥aszczowy pocisk.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ap">
-		<text>Naboj z przeciwpancernym pociskiem do karabinow szturmowych Enfield L85A2, LR-300ML, SIG SG 550, HK G36C ´Commandoª, FN 2000, Colt M4A1.</text>
+		<text>NabÛj z przeciwpancernym pociskiem do karabinÛw szturmowych Enfield L85A2, LR-300ML, SIG SG 550, HK G36C ´Commandoª, FN 2000, Colt M4A1.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-5.56x45-ss190">
-		<text>Standardowy naboj NATO powszechnie znany w swej belgijskiej wersji, SS109. Uzywany do karabinow szturmowych Enfield L85A2, LR-300ML, SIG SG 550, HK G36C ´Commandoª, FN 2000, Colt M4A1.</text>
+		<text>Standardowy nabÛj NATO powszechnie znany w swej belgijskiej wersji, SS109. Uøywany do karabinÛw szturmowych Enfield L85A2, LR-300ML, SIG SG 550, HK G36C ´Commandoª, FN 2000, Colt M4A1.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h1">
-		<text>Tania wersja naboju do karabinow snajperskich  SWD oraz SWU.</text>
+		<text>Tania wersja naboju do karabinÛw snajperskich  SWD oraz SWU.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-7h14">
-		<text>Naboj do karabinow snajperskich SWD oraz SWU. Ma ulepszona celnosc i zasieg.</text>
+		<text>NabÛj do karabinÛw snajperskich SWD oraz SWU. Ma ulepszonπ celnoúÊ i zasiÍg.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x54-ap">
-		<text>Naboj z przeciwpancernym pociskiem do karabinow snajperskich SWD oraz SWU.</text>
+		<text>NabÛj z przeciwpancernym pociskiem do karabinÛw snajperskich SWD oraz SWU.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-fmj">
-		<text>Standardowy naboj do pistoletow PM, PB, APC oraz Fort. Klasyczny rdzen i pelnoplaszczowy pocisk. Slaba przebijalnosc.</text>
+		<text>Standardowy nabÛj do pistoletÛw PM, PB, APC oraz Fort. Klasyczny rdzeÒ i pe≥nop≥aszczowy pocisk. S≥aba przebijalnoúÊ.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x18-pmm">
-		<text>Ulepszony naboj z poprawionymi osiagami balistycznymi do pistoletow PM, PB, APC oraz Fort. Dzieki wysokiej predkosci wylotowej pocisku jest bardziej skuteczny od standardowego naboju. Ma lepsza przebijalnosc.</text>
+		<text>Ulepszony nabÛj z poprawionymi osiπgami balistycznymi do pistoletÛw PM, PB, APC oraz Fort. DziÍki wysokiej prÍdkoúci wylotowej pocisku jest bardziej skuteczny od standardowego naboju. Ma lepszπ przebijalnoúÊ.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-fmj">
-		<text>Standardowy naboj do pistoletu Walther P99, Beretta 92FS, XPSS, Luger P08, ´Glockª 19 oraz do pistoletu maszynowego MP-5. Pocisk pelnoplaszczowy ze slaba przebijalnoscia.</text>
+		<text>Standardowy nabÛj do pistoletu Walther P99, Beretta 92FS, XPSS, Luger P08, ´Glockª 19 oraz do pistoletu maszynowego MP-5. Pocisk pe≥nop≥aszczowy ze s≥abπ przebijalnoúciπ.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x19-pbp">
-		<text>Ulepszony naboj do pistoletu Walther P99, Beretta 92FS, XPSS, Luger P08, ´Glockª 19 oraz do pistoletu maszynowego MP-5. Naboj o duzym zasiegu, pocisk z wglebieniem czubkowym i rdzeniem przeciwpancernym.</text>
+		<text>Ulepszony nabÛj do pistoletu Walther P99, Beretta 92FS, XPSS, Luger P08, ´Glockª 19 oraz do pistoletu maszynowego MP-5. NabÛj o duøym zasiÍgu, pocisk z wg≥Íbieniem czubkowym i rdzeniem przeciwpancernym.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-ap">
-		<text>Naboj przeciwpancerny do karabinow szturmowych "Groza" i "WAL" oraz do karabinu snajperskiego "Wintorez". Ma poddzwiekowy pocisk, ktory dzieki specjalnej budowie przebija wiekszosc kamizelek kuloodpornych z odleglosci do 400 metrow.</text>
+		<text>NabÛj przeciwpancerny do karabinÛw szturmowych "Groza" i "WA£" oraz do karabinu snajperskiego "Wintorez". Ma poddüwiÍkowy pocisk, ktÛry dziÍki specjalnej budowie przebija wiÍkszoúÊ kamizelek kuloodpornych z odleg≥oúci do 400 metrÛw.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-pab9">
-		<text>Naboj do karabinow szturmowych "Groza" i "WAL" oraz karabinu snajperskiego "Wintorez". Pozniejsza i tansza wersja naboju przeciwpancernego. Ma poddzwiekowy pocisk, ktory dzieki specjalnej budowie przebija wiekszosc kamizelek kuloodpornych z odleglosci do 300 metrow.</text>
+		<text>NabÛj do karabinÛw szturmowych "Groza" i "WA£" oraz karabinu snajperskiego "Wintorez". PÛüniejsza i taÒsza wersja naboju przeciwpancernego. Ma poddüwiÍkowy pocisk, ktÛry dziÍki specjalnej budowie przebija wiÍkszoúÊ kamizelek kuloodpornych z odleg≥oúci do 300 metrÛw.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-9x39-sp5">
-		<text>Naboj snajperski do karabinow szturmowych "Groza" i "WAL" oraz do karabinu snajperskiego "Wintorez". Ma poddzwiekowy pocisk, ktory dzieki swemu ciezarowi i specjalnej budowie przebija wiekszosc kamizelek kuloodpornych z odleglosci do 400 metrow.</text>
+		<text>NabÛj snajperski do karabinÛw szturmowych "Groza" i "WA£" oraz do karabinu snajperskiego "Wintorez". Ma poddüwiÍkowy pocisk, ktÛry dziÍki swemu ciÍøarowi i specjalnej budowie przebija wiÍkszoúÊ kamizelek kuloodpornych z odleg≥oúci do 400 metrÛw.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-gauss">
-		<text>Ogniwa energetyczne ze smiercionosnymi elementami w magazynku do karabinu Gaussa. Zrodlem energii jest fragment artefaktu "Blysk".</text>
+		<text>Ogniwa energetyczne ze úmiercionoúnymi elementami w magazynku do karabinu Gaussa. èrÛd≥em energii jest fragment artefaktu "B≥ysk".</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-m209">
-		<text>Granat do granatnika M203 (dla karabinow LR-300ML, SIG SG 550, Enfield L85A2, Colt M4A1) oraz do zintegrowanego granatnika w FN-2000.</text>
+		<text>Granat do granatnika M203 (dla karabinÛw LR-300ML, SIG SG 550, Enfield L85A2, Colt M4A1) oraz do zintegrowanego granatnika w FN-2000.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-og-7b">
-		<text>Silnie wybuchowy pocisk do RPG-7u. Rownie skuteczny przeciw oddzialom wojska jak i lekkim pojazdom opancerzonym.</text>
+		<text>Silnie wybuchowy pocisk do RPG-7u. RÛwnie skuteczny przeciw oddzia≥om wojska jak i lekkim pojazdom opancerzonym.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25">
 		<text>Granat do granatnika GP-25 "Ognisko", zintegrowanego granatnika w "Grozie" oraz do granatnika rewolwerowego Buldog-6.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-vog-25p">
-		<text>Granat do granatnika GP-25 "Ognisko", zintegrowanego granatnika w "Grozie" oraz do granatnika rewolwerowego Buldog-6. Przed wybuchem podskakuje na wysokosc okolo metra, zwiekszajac w ten sposob sile niszczaca.</text>
+		<text>Granat do granatnika GP-25 "Ognisko", zintegrowanego granatnika w "Grozie" oraz do granatnika rewolwerowego Buldog-6. Przed wybuchem podskakuje na wysokoúÊ oko≥o metra, zwiÍkszajπc w ten sposÛb si≥Í niszczπcπ.</text>
 	</string>
 	<string id="enc_weapons1_grenade-f1">
-		<text>Reczny granat obronny o duzym promieniu razenia odlamkowego. Zaleca sie rzucac jedynie z ukrycia.</text>
+		<text>RÍczny granat obronny o duøym promieniu raøenia od≥amkowego. Zaleca siÍ rzucaÊ jedynie z ukrycia.</text>
 	</string>
 	<string id="enc_weapons1_grenade-gd05">
-		<text>Granat dymny, ktorego zadaniem jest stworzenie zaslony utrzymujacej sie przez 10 sekund.</text>
+		<text>Granat dymny, ktÛrego zadaniem jest stworzenie zas≥ony utrzymujπcej siÍ przez 10 sekund.</text>
 	</string>
 	<string id="enc_weapons1_grenade-rgd5">
-		<text>Granat zaczepny o niewielkim promieniu razenia odlamkowego.</text>
+		<text>Granat zaczepny o niewielkim promieniu raøenia od≥amkowego.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasieg 400m\n ï zasieg celowania 600m\n ï szybkostrzelnosc 600 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Celownik optyczny ´PSO-1ª\n ï Tlumik PBiBS\n ï Granatnik podlufowy GP-25 ´Ogniskoª\n Automat Nikonowa "Abakan" (AN-94) model 1994 roku na bazie systemu Kalasznikowa. Glowna cecha odrozniajaca AN-94 od AK-74 z punktu widzenia zastosowania bojowego - to wprowadzenie dodatkowego trybu prowadzenia ognia seriami po 2 naboje z wysoka powtarzalnoscia. Taki rodzaj ognia zapewnia wysoka dokladnosc i celnosc trafiania - wedlug ocen ludzi, strzelajacych z AN-94, doswiadczony strzelec moze ulozyc na 100 metrow obie kule w jeden punkt tarczy.  Takie strzelanie zdecydowanie podwyzsza szanse eliminacji celu w porownaniu z pojedynczym strzalem celowanym, znacznie zwiekszajac przebijajace, obalajace i przeciwpancerne dzialanie pociskow.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasiÍg 400m\n ï zasiÍg celowania 600m\n ï szybkostrzelnoúÊ 600 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Celownik optyczny ´PSO-1ª\n ï T≥umik PBiBS\n ï Granatnik podlufowy GP-25 ´Ogniskoª\n Automat Nikonowa "Abakan" (AN-94) model 1994 roku na bazie systemu Ka≥asznikowa. G≥Ûwnπ cechπ odrÛøniajπcπ AN-94 od AK-74 z punktu widzenia zastosowania bojowego - to wprowadzenie dodatkowego trybu prowadzenia ognia seriami po 2 naboje z wysokπ powtarzalnoúciπ. Taki rodzaj ognia zapewnia wysokπ dok≥adnoúÊ i celnoúÊ trafiania - wed≥ug ocen ludzi, strzelajπcych z AN-94, doúwiadczony strzelec moøe u≥oøyÊ na 100 metrÛw obie kule w jeden punkt tarczy.  Takie strzelanie zdecydowanie podwyøsza szansÍ eliminacji celu w porÛwnaniu z pojedynczym strza≥em celowanym, znacznie zwiÍkszajπc przebijajπce, obalajπce i przeciwpancerne dzia≥anie pociskÛw.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m1">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasieg 600m\n ï zasieg celowania 850m\n ï szybkostrzelnosc 1800 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Zintegrowany celownik ´PSO-3ª\n ï Tlumik PBiBS\n ï Granatnik podlufowy ---\n Karabin maszynowy wyposazony w ulepszony celownik optyczny nadajacy sie do ostrzalu snajperskiego. Wbudowany celownik ma wyzsza rozdzielczosc niz model standardowy.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasiÍg 600m\n ï zasiÍg celowania 850m\n ï szybkostrzelnoúÊ 1800 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Zintegrowany celownik ´PSO-3ª\n ï T≥umik PBiBS\n ï Granatnik podlufowy ---\n Karabin maszynowy wyposaøony w ulepszony celownik optyczny nadajπcy siÍ do ostrza≥u snajperskiego. Wbudowany celownik ma wyøszπ rozdzielczoúÊ niø model standardowy.</text>
 	</string>
 	<string id="enc_weapons1_wpn-abakan_m2">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasieg 400m\n ï zasieg celowania 600m\n ï szybkostrzelnosc 600 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Zintegrowany celownik kolimatorowy\n ï Tlumik PBiBS\n ï Zintegrowany granatnik GP-25 ´Ogniskoª\n Ten karabin maszynowy ma pod lufa zintegrowany granatnik, co sprawia, ze staje sie bronia jeszcze bardziej uniwersalna.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasiÍg 400m\n ï zasiÍg celowania 600m\n ï szybkostrzelnoúÊ 600 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Zintegrowany celownik kolimatorowy\n ï T≥umik PBiBS\n ï Zintegrowany granatnik GP-25 ´Ogniskoª\n Ten karabin maszynowy ma pod lufπ zintegrowany granatnik, co sprawia, øe staje siÍ broniπ jeszcze bardziej uniwersalnπ.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher">
-		<text>Granatnik podlufowy montowany w automatach bedacych na wyposazeniu panstw bylego Ukladu Warszawskiego. \n Amunicja ñ granaty VOG-25\n i granaty VOG-25P.</text>
+		<text>Granatnik podlufowy montowany w automatach bÍdπcych na wyposaøeniu paÒstw by≥ego Uk≥adu Warszawskiego. \n Amunicja ñ granaty VOG-25\n i granaty VOG-25P.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-grenade-launcher-m203">
-		<text>Granatnik podlufowy M203 dla karabinow NATO.\n Amunicja ñ granaty M209.</text>
+		<text>Granatnik podlufowy M203 dla karabinÛw NATO.\n Amunicja ñ granaty M209.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope">
-		<text>Popularny radziecki celownik. Mozna go umiescic na broni za pomoca szyny "jaskolczy ogon" uzywanej przez kraje Ukladu Warszawskiego.</text>
+		<text>Popularny radziecki celownik. Moøna go umieúciÊ na broni za pomocπ szyny "jaskÛ≥czy ogon" uøywanej przez kraje Uk≥adu Warszawskiego.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-scope-susat">
-		<text>Celownik o powiekszeniu 4x produkowany w krajach NATO. Mozna go zamocowac za pomoca standardowej szyny NATO zwanej rowniez szyna Picatinny.</text>
+		<text>Celownik o powiÍkszeniu 4x produkowany w krajach NATO. Moøna go zamocowaÊ za pomocπ standardowej szyny NATO zwanej rÛwnieø szynπ Picatinny.</text>
 	</string>
 	<string id="enc_weapons1_wpn-addon-silencer">
-		<text>Skuteczny tlumik stworzony przez rusznikarzy z Zony. W sklad zestawu wchodzi komplet zlaczek do broni wszystkich kalibrow.</text>
+		<text>Skuteczny t≥umik stworzony przez rusznikarzy z Zony. W sk≥ad zestawu wchodzi komplet z≥πczek do broni wszystkich kalibrÛw.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasieg 320m\n ï zasieg celowania 400m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Celownik optyczny ´PSO-1ª\n ï Tlumik PBiBS\n ï Granatnik podlufowy GP-25 ´Ogniskoª\n 5,45-mm automat Kalasznikowa ze skladana kolba (indeks GRAU 6P21) ñ wariant AK74 ze skladana na bok metalowa kolba, bardziej wygodna, niz w AKMS. Trojkatny ksztalt zapewnia kolbie duza sztywnosc. Zaprojektowany dla wykorzystania w wojskach powietrzno desantowych.\n W Zonie to podstawowa bron wojskowych stalkerow i wielu samotnikow.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasiÍg 320m\n ï zasiÍg celowania 400m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Celownik optyczny ´PSO-1ª\n ï T≥umik PBiBS\n ï Granatnik podlufowy GP-25 ´Ogniskoª\n 5,45-mm automat Ka≥asznikowa ze sk≥adanπ kolbπ (indeks GRAU 6P21) ñ wariant AK74 ze sk≥adanπ na bok metalowπ kolbπ, bardziej wygodnπ, niø w AKMS. TrÛjkπtny kszta≥t zapewnia kolbie duøπ sztywnoúÊ. Zaprojektowany dla wykorzystania w wojskach powietrzno desantowych.\n W Zonie to podstawowa broÒ wojskowych stalkerÛw i wielu samotnikÛw.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74_m1">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasieg 350m\n ï zasieg celowania 460m\n ï szybkostrzelnosc 850 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Celownik optyczny ´PSO-1ª\n ï Tlumik PBiBS\n ï Granatnik podlufowy GP-25 ´Ogniskoª\n AK-74M w dzisiejszych czasach stal sie ostatnim i najbardziej rozpowszechnionym wariantem, przyjetym na uzbrojenie Armii Rosyjskiej od poczatku lat 1990-tych. Najwazniejsza cecha tego automatu jest fakt, ze za jednym zamachem zastapil AK-74, AKS-74 i AK-74N, dzieki temu, ze ma skladana na lewa strone kolbe z czarnego tworzywa, a takze uniwersalna szyne do mocowania celownikow (zarowno nocnych, jak i dziennych) po lewej stronie komory zamka. W Zonie to podstawowa bron wojskowych stalkerow i wielu samotnikow.\n Zmodyfikowany mechanizm zamkowy zwieksza szybkostrzelnosc do 850 s/m.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasiÍg 350m\n ï zasiÍg celowania 460m\n ï szybkostrzelnoúÊ 850 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Celownik optyczny ´PSO-1ª\n ï T≥umik PBiBS\n ï Granatnik podlufowy GP-25 ´Ogniskoª\n AK-74M w dzisiejszych czasach sta≥ siÍ ostatnim i najbardziej rozpowszechnionym wariantem, przyjÍtym na uzbrojenie Armii Rosyjskiej od poczπtku lat 1990-tych. Najwaøniejszπ cechπ tego automatu jest fakt, øe za jednym zamachem zastπpi≥ AK-74, AKS-74 i AK-74N, dziÍki temu, øe ma sk≥adanπ na lewπ stronÍ kolbÍ z czarnego tworzywa, a takøe uniwersalnπ szynÍ do mocowania celownikÛw (zarÛwno nocnych, jak i dziennych) po lewej stronie komory zamka. W Zonie to podstawowa broÒ wojskowych stalkerÛw i wielu samotnikÛw.\n Zmodyfikowany mechanizm zamkowy zwiÍksza szybkostrzelnoúÊ do 850 s/m.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï efektywny zasieg 200m\n ï zasieg celowania 280m\n ï szybkostrzelnosc 600 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Celownik optyczny ---\n ï Tlumik PBiBS\n ï Granatnik podlufowy ---\n Rozmiarem i waga Akm 74/U przypomina pistolet maszynowy, ale sposob uzytkowania tej broni oraz stosowana amunicja kaza ja sklasyfikowac jako karabin szturmowy. Jego zaletami sa niewielkie rozmiary (szczegolnie wazne w trakcie walki wewnatrz budynku lub w gestym lesie) oraz stosunkowo wysoka przebijalnosc. Glowne wady to ograniczona celnosc oraz szybkie przegrzewanie sie przy ogniu ciaglym.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï efektywny zasiÍg 200m\n ï zasiÍg celowania 280m\n ï szybkostrzelnoúÊ 600 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Celownik optyczny ---\n ï T≥umik PBiBS\n ï Granatnik podlufowy ---\n Rozmiarem i wagπ Akm 74/U przypomina pistolet maszynowy, ale sposÛb uøytkowania tej broni oraz stosowana amunicja kaøπ jπ sklasyfikowaÊ jako karabin szturmowy. Jego zaletami sπ niewielkie rozmiary (szczegÛlnie waøne w trakcie walki wewnπtrz budynku lub w gÍstym lesie) oraz stosunkowo wysoka przebijalnoúÊ. G≥Ûwne wady to ograniczona celnoúÊ oraz szybkie przegrzewanie siÍ przy ogniu ciπg≥ym.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ak74u_m1">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï efektywny zasieg 200m\n ï zasieg celowania 280m\n ï szybkostrzelnosc 600 s/m\n ï pojemnosc magazynka 45 nabojow\nDodatki:\n ï Zintegrowany kolimator ´Kobraª\n ï Zintegrowany tlumik\n ï Granatnik podlufowy ---\n Ulepszony automat z niewymiennym tlumikiem.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï efektywny zasiÍg 200m\n ï zasiÍg celowania 280m\n ï szybkostrzelnoúÊ 600 s/m\n ï pojemnoúÊ magazynka 45 nabojÛw\nDodatki:\n ï Zintegrowany kolimator ´Kobraª\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy ---\n Ulepszony automat z niewymiennym t≥umikiem.</text>
 	</string>
 	<string id="enc_weapons1_wpn-beretta">
-		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ?pojemnosc magazynka 15 nabojow\n Uzywany przez armie i policje w Stanach Zjednoczonych oraz przez wiele jednostek wojskowych i policyjnych na calym swiecie. Jest rowniez bardzo popularny wsrod przestepcow ze wzgledu na naboje o duzej mocy oraz pojemny magazynek.</text>
+		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ®pojemnoúÊ magazynka 15 nabojÛw\n Uøywany przez armiÍ i policjÍ w Stanach Zjednoczonych oraz przez wiele jednostek wojskowych i policyjnych na ca≥ym úwiecie. Jest rÛwnieø bardzo popularny wúrÛd przestÍpcÛw ze wzglÍdu na naboje o duøej mocy oraz pojemny magazynek.</text>
 	</string>
 	<string id="enc_weapons1_wpn-bm16">
-		<text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n Obrzyn BM-16. Jest lzejszy i mniejszy niz oryginalna dubeltowka, ale skuteczny tylko na krotki zasieg. Jedna z broni czesto uzywanych przez poczatkujacych.</text>
+		<text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n Obrzyn BM-16. Jest løejszy i mniejszy niø oryginalna dubeltÛwka, ale skuteczny tylko na krÛtki zasiÍg. Jedna z broni czÍsto uøywanych przez poczπtkujπcych.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt_m1">
-		<text>Amunicja:\n ï zwykly .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ?pojemnosc magazynka 7 nabojow\n Bron platnych zabojcow. Stary, dobry, niezawodny Colt z niewymiennym tlumikiem.</text>
+		<text>Amunicja:\n ï zwyk≥y .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ®pojemnoúÊ magazynka 7 nabojÛw\n BroÒ p≥atnych zabÛjcÛw. Stary, dobry, niezawodny Colt z niewymiennym t≥umikiem.</text>
 	</string>
 	<string id="enc_weapons1_wpn-colt1911">
-		<text>Amunicja:\n ï zwykly .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ?pojemnosc magazynka 7 nabojow\n Bron, ktora godnie uczestniczyla we wszystkich konfliktach w XX wieku i ze smialoscia wkroczyla w nowy wiek. Niewielki magazynek czesciowo wynagradza wykorzystanie nabojow o duzej mocy.</text>
+		<text>Amunicja:\n ï zwyk≥y .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ®pojemnoúÊ magazynka 7 nabojÛw\n BroÒ, ktÛra godnie uczestniczy≥a we wszystkich konfliktach w XX wieku i ze úmia≥oúciπ wkroczy≥a w nowy wiek. Niewielki magazynek czÍúciowo wynagradza wykorzystanie nabojÛw o duøej mocy.</text>
 	</string>
 	<string id="enc_weapons1_wpn-desert-eagle">
-		<text>Amunicja:\n ï zwykly .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ?pojemnosc magazynka 8 nabojow\n Prawdziwa bron dla prawdziwych bohaterow. Jest duza, ciezka i sieje zniszczenie. W Zonie nie cieszy sie zbytnia popularnoscia ze wzgledu na swa cene i rozmiar. Przeciez nie codziennie poluje sie na slonie.</text>
+		<text>Amunicja:\n ï zwyk≥y .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Prawdziwa broÒ dla prawdziwych bohaterÛw. Jest duøa, ciÍøka i sieje zniszczenie. W Zonie nie cieszy siÍ zbytniπ popularnoúciπ ze wzglÍdu na swπ cenÍ i rozmiar. Przecieø nie codziennie poluje siÍ na s≥onie.</text>
 	</string>
 	<string id="enc_weapons1_wpn-eagle_m1">
-		<text>Amunicja:\n ï zwykly 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï ?pojemnosc magazynka 8 nabojow\n Potezna bron dodatkowo przerobiona tak, ze pasuja do niej naboje karabinowe. Maszyna do zabijania w walce na krotki zasieg.</text>
+		<text>Amunicja:\n ï zwyk≥y 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n PotÍøna broÒ dodatkowo przerobiona tak, øe pasujπ do niej naboje karabinowe. Maszyna do zabijania w walce na krÛtki zasiÍg.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fn2000">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasieg 450m\n ï zasieg celowania 600m\n ï szybkostrzelnosc 860 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Zintegrowany celownik optyczny\n ï Tlumik PBiBS\n ï Fabrique Nationale Herstal F2000 - Karabin modulowy produkcji belgijskiej z komputerowym celownikiem, modulem sterowania ogniem i 40mm granatnikiem.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasiÍg 450m\n ï zasiÍg celowania 600m\n ï szybkostrzelnoúÊ 860 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Zintegrowany celownik optyczny\n ï T≥umik PBiBS\n ï Fabrique Nationale Herstal F2000 - Karabin modu≥owy produkcji belgijskiej z komputerowym celownikiem, modu≥em sterowania ogniem i 40mm granatnikiem.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fort">
-		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ?pojemnosc magazynka: 12 nabojow\n Ukrainski pistolet policyjny, ktory zastapil PMm. W porownaniu z innymi pistoletami ma wieksza celnosc, lepsza ergonomie i wiekszy magazynek, ale jest mniej niezawodny.</text>
+		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ®pojemnoúÊ magazynka: 12 nabojÛw\n UkraiÒski pistolet policyjny, ktÛry zastπpi≥ PMm. W porÛwnaniu z innymi pistoletami ma wiÍkszπ celnoúÊ, lepszπ ergonomiÍ i wiÍkszy magazynek, ale jest mniej niezawodny.</text>
 	</string>
 	<string id="enc_weapons1_wpn-fort_m1">
-		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ?pojemnosc magazynka 16 nabojow\n Pistolet Fort-15 produkowany seryjnie od 2007 roku dla ukrainskiej armii i MWD. Konstrukcja zamka i praca automatyki pistoletu skonstruowana na bazie modernizowanego systemu Browninga.  Rama z polimeru. Ergonomika rekojesci zaadaptowana dla korzystania z pistoletu tak prawa, jak i lewa reka. Mozliwosc montazu dodatkowego wyposazenia, takiego jak taktyczna latarka lub celownik laserowy.</text>
+		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ®pojemnoúÊ magazynka 16 nabojÛw\n Pistolet Fort-15 produkowany seryjnie od 2007 roku dla ukraiÒskiej armii i MWD. Konstrukcja zamka i praca automatyki pistoletu skonstruowana na bazie modernizowanego systemu Browninga.  Rama z polimeru. Ergonomika rÍkojeúci zaadaptowana dla korzystania z pistoletu tak prawπ, jak i lewπ rÍkπ. MoøliwoúÊ montaøu dodatkowego wyposaøenia, takiego jak taktyczna latarka lub celownik laserowy.</text>
 	</string>
 	<string id="enc_weapons1_wpn-g36">
-		<text>Niemiecki karabin szturmowy. Okaz wspolczesnej broni najwyzszej klasy: lekki, niezawodny, ergonomiczny.\n Amunicja:\n zwykly 5,56x45 mm SS109,\n przeciwpancerny 5,56x45 mm AP.</text>
+		<text>Niemiecki karabin szturmowy. Okaz wspÛ≥czesnej broni najwyøszej klasy: lekki, niezawodny, ergonomiczny.\n Amunicja:\n zwyk≥y 5,56x45 mm SS109,\n przeciwpancerny 5,56x45 mm AP.</text>
 	</string>
 	<string id="enc_weapons1_wpn-gauss">
-		<text>Amunicja:\n ï 2-milimetrowe naboje Gaussa\n ï efektywny zasieg 1000m\n ï zasieg celowania 1800m\n ï szybkostrzelnosc 30 s/m\n ï pojemnosc magazynka 10 ladunkow\n Dodatki:\n ï Zintegrowany celownik optyczny\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Supercelna bron stworzona przez naukowcow z Zony. Korzystanie z niej jest niemal bezglosne, gdyz zamiast prochu strzelniczego zuzywa energie artefaktu. Mimo ogromnej sily ognia odrzut jest nieznaczny, natomiast celnoscia oraz sila niszczaca karabin Gaussa przewyzsza inne bronie niewielkich rozmiarow.</text>
+		<text>Amunicja:\n ï 2-milimetrowe naboje Gaussa\n ï efektywny zasiÍg 1000m\n ï zasiÍg celowania 1800m\n ï szybkostrzelnoúÊ 30 s/m\n ï pojemnoúÊ magazynka 10 ≥adunkÛw\n Dodatki:\n ï Zintegrowany celownik optyczny\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Supercelna broÒ stworzona przez naukowcÛw z Zony. Korzystanie z niej jest niemal bezg≥oúne, gdyø zamiast prochu strzelniczego zuøywa energiÍ artefaktu. Mimo ogromnej si≥y ognia odrzut jest nieznaczny, natomiast celnoúciπ oraz si≥π niszczπcπ karabin Gaussa przewyøsza inne bronie niewielkich rozmiarÛw.</text>
 	</string>
 	<string id="enc_weapons1_wpn-groza">
-		<text>Amunicja:\n ï zwykly 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasieg 120m\n ï zasieg celowania 150m\n ï szybkostrzelnosc 750 s/m\n ï pojemnosc magazynka 20 nabojow\n Dodatki:\n ï Celownik optyczny ´PSO-1ª\n ï Tlumik PBiBS\n ï Zintegrowany granatnik podlufowy\n Karabin szturmowy z granatnikiem. To swietna bron jak na warunki w Zonie: jest niewielka, niezawodna, ale uniwersalna i o duzej mocy. "Groza" to jeden z ulubionych karabinow wojskowych stalkerow.</text>
+		<text>Amunicja:\n ï zwyk≥y 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasiÍg 120m\n ï zasiÍg celowania 150m\n ï szybkostrzelnoúÊ 750 s/m\n ï pojemnoúÊ magazynka 20 nabojÛw\n Dodatki:\n ï Celownik optyczny ´PSO-1ª\n ï T≥umik PBiBS\n ï Zintegrowany granatnik podlufowy\n Karabin szturmowy z granatnikiem. To úwietna broÒ jak na warunki w Zonie: jest niewielka, niezawodna, ale uniwersalna i o duøej mocy. "Groza" to jeden z ulubionych karabinÛw wojskowych stalkerÛw.</text>
 	</string>
 	<string id="enc_weapons1_wpn-groza_m1">
-		<text>Amunicja:\n ï zwykly 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasieg 120m\n ï zasieg celowania 150m\n ï szybkostrzelnosc 750 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Celownik ´PSO-1ª\n ï Tlumik PBiBS\n ï Zintegrowany granatnik podlufowy\n Ta bron ñ to dzielo jednego ze stalkerskich rzemieslnikow, ktory ja ulepszyl tak, by pasowaly do niej bardziej rozpowszechnione naboje 5,45 mm.\n Wspaniala bron na sredni dystans. Pasuje magazynek od AK-74.</text>
+		<text>Amunicja:\n ï zwyk≥y 5,45x39 mm\n ï przeciwpancerny 5,45x39 mm BP\n ï granat VOG-25, granat VOG-25P\n ï efektywny zasiÍg 120m\n ï zasiÍg celowania 150m\n ï szybkostrzelnoúÊ 750 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Celownik ´PSO-1ª\n ï T≥umik PBiBS\n ï Zintegrowany granatnik podlufowy\n Ta broÒ ñ to dzie≥o jednego ze stalkerskich rzemieúlnikÛw, ktÛry jπ ulepszy≥ tak, by pasowa≥y do niej bardziej rozpowszechnione naboje 5,45 mm.\n Wspania≥a broÒ na úredni dystans. Pasuje magazynek od AK-74.</text>
 	</string>
 	<string id="enc_weapons1_wpn-hpsa">
-		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ?pojemnosc magazynka 13 nabojow\n FN Browning HP.\n´Browningª zasluzenie uwaza sie za jeden z najlepszych pistoletow XX wieku. Niezawodny i potezny. Posiada dobra celnosc strzalu. Dany model to nowoczesna modyfikacja belgijskiego pistoletu FN Browning HP (High Power 1935), ktory pochodzi z 1935 roku.</text>
+		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ®pojemnoúÊ magazynka 13 nabojÛw\n FN Browning HP.\n´Browningª zas≥uøenie uwaøa siÍ za jeden z najlepszych pistoletÛw XX wieku. Niezawodny i potÍøny. Posiada dobrπ celnoúÊ strza≥u. Dany model to nowoczesna modyfikacja belgijskiego pistoletu FN Browning HP (High Power 1935), ktÛry pochodzi z 1935 roku.</text>
 	</string>
 	<string id="enc_weapons1_wpn-knife">
-		<text>Noz mysliwski</text>
+		<text>NÛø myúliwski</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasieg 320m\n ï zasieg celowania 400m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Zintegrowany celownik SUSAT\n ï Tlumik PBiBS\n ï Granatnik podlufowy M203\n Po tym jak brytyjska armia zaczela uzywac niemieckiego G-36 zamiast tej broni, pojawila sie ona w duzych ilosciach na czarnym rynku, a nastepnie w Zonie. Glownymi zaletami L85A2 sa standardowy celownik o powiekszeniu 4x oraz wysoka celnosc pierwszego strzalu. W trybie ognia ciaglego celnosc znacznie sie zmniejsza, a glowne mechanizmy karabinu nie sa niezawodne.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasiÍg 320m\n ï zasiÍg celowania 400m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Zintegrowany celownik SUSAT\n ï T≥umik PBiBS\n ï Granatnik podlufowy M203\n Po tym jak brytyjska armia zaczÍ≥a uøywaÊ niemieckiego G-36 zamiast tej broni, pojawi≥a siÍ ona w duøych iloúciach na czarnym rynku, a nastÍpnie w Zonie. G≥Ûwnymi zaletami L85A2 sπ standardowy celownik o powiÍkszeniu 4x oraz wysoka celnoúÊ pierwszego strza≥u. W trybie ognia ciπg≥ego celnoúÊ znacznie siÍ zmniejsza, a g≥Ûwne mechanizmy karabinu nie sπ niezawodne.</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85_m1">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasieg 320m\n ï zasieg celowania 400m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Zintegrowany celownik SUSAT\n ï Tlumik PBiBS\n ï Granatnik podlufowy M203\n Dzieki kilku ulepszeniom zmniejszono efekt podrzucania lufy w gore podczas strzalu, co pozytywnie wplynelo na celnosc, zwlaszcza przy strzelaniu seriami .</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasiÍg 320m\n ï zasiÍg celowania 400m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Zintegrowany celownik SUSAT\n ï T≥umik PBiBS\n ï Granatnik podlufowy M203\n DziÍki kilku ulepszeniom zmniejszono efekt podrzucania lufy w gÛrÍ podczas strza≥u, co pozytywnie wp≥ynÍ≥o na celnoúÊ, zw≥aszcza przy strzelaniu seriami .</text>
 	</string>
 	<string id="enc_weapons1_wpn-l85_m2">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasieg 320m\n ï zasieg celowania 400m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Zintegrowany celownik SUSAT\n ï Zintegrowany tlumik\n ï Granatnik podlufowy M203\n Bron ze zintegrowanym tlumikiem. Wiele czesci zastapiono lzejszymi odpowiednikami, dzieki czemu i sama bron jest znacznie lzejsza.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasiÍg 320m\n ï zasiÍg celowania 400m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Zintegrowany celownik SUSAT\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy M203\n BroÒ ze zintegrowanym t≥umikiem. Wiele czÍúci zastπpiono løejszymi odpowiednikami, dziÍki czemu i sama broÒ jest znacznie løejsza.</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasieg 300m\n ï zasieg celowania 380m\n ï szybkostrzelnosc 800 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Celownik optyczny ACOG\n ï Tlumik PBiBS\n ï Granatnik podlufowy M203\n Lekki karabin o rzeczywistym zasiegu do 300 metrow. Dzieki wyjatkowej latwosci strzalu, wysokiej ergonomii i niewielkiej wadze bron ta ma wysoka celnosc. Jest jednak wrazliwa na zanieczyszczenia i nie zawsze nadaje sie do uzycia w trudnych warunkach polowych.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasiÍg 300m\n ï zasiÍg celowania 380m\n ï szybkostrzelnoúÊ 800 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Celownik optyczny ACOG\n ï T≥umik PBiBS\n ï Granatnik podlufowy M203\n Lekki karabin o rzeczywistym zasiÍgu do 300 metrÛw. DziÍki wyjπtkowej ≥atwoúci strza≥u, wysokiej ergonomii i niewielkiej wadze broÒ ta ma wysokπ celnoúÊ. Jest jednak wraøliwa na zanieczyszczenia i nie zawsze nadaje siÍ do uøycia w trudnych warunkach polowych.</text>
 	</string>
 	<string id="enc_weapons1_wpn-lr300_m1">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasieg 500m\n ï zasieg celowania 650m\n ï szybkostrzelnosc 300 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Zintegrowany celownik 8x\n ï Zintegrowany tlumik\n ï Granatnik podlufowy ---\n Ulepszona bron szturmowa do strzelania ogniem pojedynczym. Zakladano, ze bedzie uzywana jako tani odpowiednik karabinu snajperskiego.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasiÍg 500m\n ï zasiÍg celowania 650m\n ï szybkostrzelnoúÊ 300 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Zintegrowany celownik 8x\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy ---\n Ulepszona broÒ szturmowa do strzelania ogniem pojedynczym. Zak≥adano, øe bÍdzie uøywana jako tani odpowiednik karabinu snajperskiego.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5">
-		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï efektywny zasieg 100m\n ï zasieg celowania 160m\n ï szybkostrzelnosc 800 s/m\n ï pojemnosc magazynka 30 nabojow\n Dodatki\n ï Celownik optyczny ---\n ï Tlumik PBiBS\n ï Granatnik podlufowy ---\n Heckler und Koch MP5A3 - Szczegolnie popularnymi MP-5 staly sie po tym, jak caly swiat zobaczyl je w rekach angielskiego SAS, w czasie antyterrorystycznej operacji uwolnienia Iranskiej ambasady w Anglii, w latach 1970-tych, oraz w szeregu innych akcji. W dzisiejszych czasach MP-5 w rozlicznych modyfikacjach wchodzi w sklad zbrojenia sil policyjnych wielu krajow Europy, wlaczajac Hiszpanie, Wielka Brytanie, Niemcy. MP-5 jest uzywany w policji USA, w Marynarce i Piechocie Morskiej USA, oraz w wielu innych formacjach.</text>
+		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï efektywny zasiÍg 100m\n ï zasiÍg celowania 160m\n ï szybkostrzelnoúÊ 800 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\n Dodatki\n ï Celownik optyczny ---\n ï T≥umik PBiBS\n ï Granatnik podlufowy ---\n Heckler und Koch MP5A3 - SzczegÛlnie popularnymi MP-5 sta≥y siÍ po tym, jak ca≥y úwiat zobaczy≥ je w rÍkach angielskiego SAS, w czasie antyterrorystycznej operacji uwolnienia IraÒskiej ambasady w Anglii, w latach 1970-tych, oraz w szeregu innych akcji. W dzisiejszych czasach MP-5 w rozlicznych modyfikacjach wchodzi w sk≥ad zbrojenia si≥ policyjnych wielu krajÛw Europy, w≥πczajπc HiszpaniÍ, Wielkπ BrytaniÍ, Niemcy. MP-5 jest uøywany w policji USA, w Marynarce i Piechocie Morskiej USA, oraz w wielu innych formacjach.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m1">
-		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï efektywny zasieg 100m\n ï zasieg celowania 160m\n ï szybkostrzelnosc 800 s/m\n ï pojemnosc magazynka 30 nabojow\n Dodatki\n ï Celownik optyczny ---\n ï Tlumik PBiBS\n ï Granatnik podlufowy ---\n Lekki, niewielki i ulepszony tak, ze pasuja do niego naboje popularniejszego kalibru - ten pistolet maszynowy to prawdziwe odkrycie dla poczatkujacych strzelcow.</text>
+		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï efektywny zasiÍg 100m\n ï zasiÍg celowania 160m\n ï szybkostrzelnoúÊ 800 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\n Dodatki\n ï Celownik optyczny ---\n ï T≥umik PBiBS\n ï Granatnik podlufowy ---\n Lekki, niewielki i ulepszony tak, øe pasujπ do niego naboje popularniejszego kalibru - ten pistolet maszynowy to prawdziwe odkrycie dla poczπtkujπcych strzelcÛw.</text>
 	</string>
 	<string id="enc_weapons1_wpn-mp5_m2">
-		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï efektywny zasieg 100m\n ï zasieg celowania 160m\n ï szybkostrzelnosc 800 s/m\n ï pojemnosc magazynka 30 nabojow\n Dodatki\n ï Celownik optyczny ---\n ï Zintegrowany tlumik\n ï Granatnik podlufowy ---\n Dla przeprowadzania operacji specjalnych, na bazie MP-5 zaprojektowano specjalny wariant MP-5SD, majacy niezdejmowany zintegrowany tlumik.</text>
+		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï efektywny zasiÍg 100m\n ï zasiÍg celowania 160m\n ï szybkostrzelnoúÊ 800 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\n Dodatki\n ï Celownik optyczny ---\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy ---\n Dla przeprowadzania operacji specjalnych, na bazie MP-5 zaprojektowano specjalny wariant MP-5SD, majπcy niezdejmowany zintegrowany t≥umik.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pb">
-		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ?pojemnosc magazynka 8 nabojow\n Pistolet ze zintegrowanym tlumikiem, niegdys wykorzystywany przez radziecki specnaz. Jest juz przestarzaly, ale we wprawnych rekach ciagle jest dosc efektywny.</text>
+		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Pistolet ze zintegrowanym t≥umikiem, niegdyú wykorzystywany przez radziecki specnaz. Jest juø przestarza≥y, ale we wprawnych rÍkach ciπgle jest doúÊ efektywny.</text>
 	</string>
 	<string id="enc_weapons1_wpn-pm">
-		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ?pojemnosc magazynka 8 nabojow\n Najpopularniejszy pistolet w Zonie - spuscizna po Zwiazku Radzieckim. Wzglednie niezawodny i tani, ma niewielka pojemnosc magazynka, niewielka moc oraz znaczny rozrzut. Podstawowa bron poczatkujacego stalkera.</text>
+		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Najpopularniejszy pistolet w Zonie - spuúcizna po Zwiπzku Radzieckim. WzglÍdnie niezawodny i tani, ma niewielkπ pojemnoúÊ magazynka, niewielkπ moc oraz znaczny rozrzut. Podstawowa broÒ poczπtkujπcego stalkera.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg-6">
-		<text>Amunicja:\n ï granaty VOG-25\n ï granaty VOG-25P\n ï ?pojemnosc magazynka 6 granatow\n Granatnik rewolwerowy. Czasem niezbedny - szczegolnie gdy celem sa duze grupy mutantow, dobrze strzezone nieruchome obiekty lub wyjatkowo trudni przeciwnicy.</text>
+		<text>Amunicja:\n ï granaty VOG-25\n ï granaty VOG-25P\n ï ®pojemnoúÊ magazynka 6 granatÛw\n Granatnik rewolwerowy. Czasem niezbÍdny - szczegÛlnie gdy celem sπ duøe grupy mutantÛw, dobrze strzeøone nieruchome obiekty lub wyjπtkowo trudni przeciwnicy.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rg6_m1">
-		<text>Amunicja:\n ï granat M-209\n ï ?pojemnosc magazynka 6 granatow\n Odmiana granatnika rewolwerowego. Ten model zostal stworzony specjalnie do granatow z modelu zachodniego.</text>
+		<text>Amunicja:\n ï granat M-209\n ï ®pojemnoúÊ magazynka 6 granatÛw\n Odmiana granatnika rewolwerowego. Ten model zosta≥ stworzony specjalnie do granatÛw z modelu zachodniego.</text>
 	</string>
 	<string id="enc_weapons1_wpn-rpg7">
-		<text>Amunicja:\n ï granat OG-7B\n ï ?pojemnosc magazynka 1 granat\n Granatnik stworzony w latach szescdziesiatych XX wieku. Duze ilosci takiej broni przechowywane sa w skladach wojskowych, skad przewozi sie je do Zony. Stalkerzy rzadko z niej korzystaja: ogromne rozmiary i ciezar sprawiaja, ze nie jest popularna, choc w niektorych misjach wydaje sie niezastapiona.</text>
+		<text>Amunicja:\n ï granat OG-7B\n ï ®pojemnoúÊ magazynka 1 granat\n Granatnik stworzony w latach szeúÊdziesiπtych XX wieku. Duøe iloúci takiej broni przechowywane sπ w sk≥adach wojskowych, skπd przewozi siÍ je do Zony. Stalkerzy rzadko z niej korzystajπ: ogromne rozmiary i ciÍøar sprawiajπ, øe nie jest popularna, choÊ w niektÛrych misjach wydaje siÍ niezastπpiona.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig220">
-		<text>Amunicja:\n ï zwykly .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ?pojemnosc magazynka 7 nabojow\n Bron stworzona w 1975 roku, lecz ciagle popularna na calym swiecie. Magazynek niewielkiej pojemnosci, ale niezawodny mechanizm. Druga z zalet jest mozliwosc korzystania z coltowskich nabojow o duzej mocy.</text>
+		<text>Amunicja:\n ï zwyk≥y .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ®pojemnoúÊ magazynka 7 nabojÛw\n BroÒ stworzona w 1975 roku, lecz ciπgle popularna na ca≥ym úwiecie. Magazynek niewielkiej pojemnoúci, ale niezawodny mechanizm. Drugπ z zalet jest moøliwoúÊ korzystania z coltowskich nabojÛw o duøej mocy.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig550">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasieg 380m\n ï zasieg celowania 500m\n ï szybkostrzelnosc 700 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Celownik optyczny ACOG\n ï Tlumik PBiBS\n ï Granatnik podlufowy M203\n SIG SG-550 w 1983 roku zostal oficjalnie przyjety na uzbrojenie armii szwajcarskiej. Generalnie, automaty rodziny SIG SG-550 sa jednymi z lepszych w swojej klasie, wyrozniaja sie wysoka niezawodnoscia, celnoscia strzalu i wygoda uzytkowania.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasiÍg 380m\n ï zasiÍg celowania 500m\n ï szybkostrzelnoúÊ 700 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Celownik optyczny ACOG\n ï T≥umik PBiBS\n ï Granatnik podlufowy M203\n SIG SG-550 w 1983 roku zosta≥ oficjalnie przyjÍty na uzbrojenie armii szwajcarskiej. Generalnie, automaty rodziny SIG SG-550 sπ jednymi z lepszych w swojej klasie, wyrÛøniajπ siÍ wysokπ niezawodnoúciπ, celnoúciπ strza≥u i wygodπ uøytkowania.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig_m1">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasieg 250m\n ï zasieg celowania 320m\n ï szybkostrzelnosc 700 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Zintegrowany celownik kolimatorowy\n ï Tlumik PBiBS\n ï Granatnik podlufowy ---\n Modyfikowany wariant karabinu SIG SG 550 ñ SIG SG-551 ´Commandoª dla przeprowadzania operacji szturmowych. Bron zaprojektowana dla prowadzenia walki w warunkach miejskich. By zmniejszyc ciezar, pewne komponenty zostaly usuniete lub zastapione lzejszymi.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasiÍg 250m\n ï zasiÍg celowania 320m\n ï szybkostrzelnoúÊ 700 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Zintegrowany celownik kolimatorowy\n ï T≥umik PBiBS\n ï Granatnik podlufowy ---\n Modyfikowany wariant karabinu SIG SG 550 ñ SIG SG-551 ´Commandoª dla przeprowadzania operacji szturmowych. BroÒ zaprojektowana dla prowadzenia walki w warunkach miejskich. By zmniejszyÊ ciÍøar, pewne komponenty zosta≥y usuniÍte lub zastπpione løejszymi.</text>
 	</string>
 	<string id="enc_weapons1_wpn-sig_m2">
-		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasieg 500m\n ï zasieg celowania 650m\n ï szybkostrzelnosc 700 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Zintegrowany celownik optyczny\n ï Tlumik PBiBS\n ï Granatnik podlufowy ---\n Ulepszona tak, ze nadaje sie do ostrzalu snajperskiego. Wbudowany celownik optyczny o duzym powiekszeniu.</text>
+		<text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasiÍg 500m\n ï zasiÍg celowania 650m\n ï szybkostrzelnoúÊ 700 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Zintegrowany celownik optyczny\n ï T≥umik PBiBS\n ï Granatnik podlufowy ---\n Ulepszona tak, øe nadaje siÍ do ostrza≥u snajperskiego. Wbudowany celownik optyczny o duøym powiÍkszeniu.</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12">
-		<text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n ï ?pojemnosc magazynka 8 nabojow\n Strzelba gladkolufowa SPAS-12 powstala w latach siedemdziesiatych XX wieku. Niezawodna i odpowiednia w wielu sytuacjach. Jednak jest stosunkowo duza, droga i ma zbyt skomplikowany mechanizm. To prawdopodobnie najlepsza bron krotkodystansowa w Zonie.</text>
+		<text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Strzelba g≥adkolufowa SPAS-12 powsta≥a w latach siedemdziesiπtych XX wieku. Niezawodna i odpowiednia w wielu sytuacjach. Jednak jest stosunkowo duøa, droga i ma zbyt skomplikowany mechanizm. To prawdopodobnie najlepsza broÒ krÛtkodystansowa w Zonie.</text>
 	</string>
 	<string id="enc_weapons1_wpn-spas12_m1">
-		<text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n ï ?pojemnosc magazynka 8 nabojow\n Ta strzelba ma gwintowana lufe, dzieki czemu zwieksza sie jej celnosc przy strzelaniu strzalkami lub czekanem. Jednak uzywanie amunicji srutowej jest utrudnione.</text>
+		<text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Ta strzelba ma gwintowanπ lufÍ, dziÍki czemu zwiÍksza siÍ jej celnoúÊ przy strzelaniu strza≥kami lub czekanem. Jednak uøywanie amunicji úrutowej jest utrudnione.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svd">
-		<text>Amunicja:\n ï zwykly 7,62x54mm 7N1\n ï przeciwpancerny 7,62x54mm BP\n ï snajperski 7,62x54mm 7N14\n\n ï efektywny zasieg 800m\n ï zasieg celowania 1000m\n ï szybkostrzelnosc 120 s/m\n ï pojemnosc magazynka 10 nabojow\n Dodatki\n ï Zintegrowany celownik optyczny\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Snajperski Karabin. Szeroko stosowany we wszystkich operacjach bojowych, prowadzonych przez radziecka i rosyjska armie od lat 1960-tych. Zdobyl slawe wyjatkowo niezawodnej i wygodnej w uzytkowaniu broni. Celownik PSO-1M2 - 4x krotne powiekszenie optyczne. Skala celownika przewidziana do strzelania od 100 m do 1300 m. W Zonie szczegolnie doceniany przez doswiadczonych stalkerow ugrupowania ´Powinnoscª.</text>
+		<text>Amunicja:\n ï zwyk≥y 7,62x54mm 7N1\n ï przeciwpancerny 7,62x54mm BP\n ï snajperski 7,62x54mm 7N14\n\n ï efektywny zasiÍg 800m\n ï zasiÍg celowania 1000m\n ï szybkostrzelnoúÊ 120 s/m\n ï pojemnoúÊ magazynka 10 nabojÛw\n Dodatki\n ï Zintegrowany celownik optyczny\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Snajperski Karabin. Szeroko stosowany we wszystkich operacjach bojowych, prowadzonych przez radzieckπ i rosyjskπ armiÍ od lat 1960-tych. Zdoby≥ s≥awÍ wyjπtkowo niezawodnej i wygodnej w uøytkowaniu broni. Celownik PSO-1M2 - 4x krotne powiÍkszenie optyczne. Skala celownika przewidziana do strzelania od 100 m do 1300 m. W Zonie szczegÛlnie doceniany przez doúwiadczonych stalkerÛw ugrupowania ´PowinnoúÊª.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svd_m1">
-		<text>SWDK (Indeks GRAU 6W9) - rosyjski wielkokalibrowy karabin snajperski, opracowany i przyjety na uzbrojenie w ramach programu OKR ´Wlamywaczª. Opracowany na bazie SWD, korzysta z wielkokalibrowej amunicji 9,3x64mm 7N33, wojskowego wariantu starego mysliwskiego naboju 9,3x64mm Brenneke. Kula przy strzale z SWDK ma energie rzedu 4900 Dzuli i zapewnia 80% przebicie pancerza o grubosci 1 cm na odleglosci 100 m. Standardowym celownikiem SWDK jest celownik optyczny 1P70 "Hiperon".\n Pistoletowa rekojesc i skladana w bok metalowa kolba sa analogiczne jak w SWD-Z, za wyjatkiem zwiekszonej powierzchni gumowej nakladki na kolbie.\n Mozna tez korzystac z amunicji 9.3x64mm Brenneke.</text>
+		<text>SWDK (Indeks GRAU 6W9) - rosyjski wielkokalibrowy karabin snajperski, opracowany i przyjÍty na uzbrojenie w ramach programu OKR ´W≥amywaczª. Opracowany na bazie SWD, korzysta z wielkokalibrowej amunicji 9,3x64mm 7N33, wojskowego wariantu starego myúliwskiego naboju 9,3x64mm Brenneke. Kula przy strzale z SWDK ma energiÍ rzÍdu 4900 Døuli i zapewnia 80% przebicie pancerza o gruboúci 1 cm na odleg≥oúci 100 m. Standardowym celownikiem SWDK jest celownik optyczny 1P70 "Hiperon".\n Pistoletowa rÍkojeúÊ i sk≥adana w bok metalowa kolba sπ analogiczne jak w SWD-Z, za wyjπtkiem zwiÍkszonej powierzchni gumowej nak≥adki na kolbie.\n Moøna teø korzystaÊ z amunicji 9.3x64mm Brenneke.</text>
 	</string>
 	<string id="enc_weapons1_wpn-svu">
-		<text>Amunicja:\n ï zwykly 7,62x54mm 7N1\n ï przeciwpancerny 7,62x54mm BP\n ï snajperski 7,62x54mm 7N14\n\n ï efektywny zasieg 600m\n ï zasieg celowania 800m\n ï szybkostrzelnosc 140 s/m\n ï pojemnosc magazynka 10 nabojow\n Dodatki\n ï Zintegrowany celownik optyczny\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Snajperski Karabin Skrocony (SWU). Opracowanie skroconego wariantu snajperskiego karabinu SWD dla uzbrojenia Wojsk Powietrzno-Desantowych ZSRR rozpoczeto w 70-tych latach 20 wieku, zmniejszono gabaryty broni, dzieki zaprojektowaniu broni w systemie "bullpup", w ktorym magazynek, mechanizm spustowy i zamek umieszczone sa za uchwytem. SWU wykorzystuje mechanizmy bazowe i zmodyfikowana komore zamkowa  od karabinu snajperskiego SWD. Pod wzgledem celnosci na krotkim i srednim zasiegu SWU osiaga analogiczne wyniki jak SWD.</text>
+		<text>Amunicja:\n ï zwyk≥y 7,62x54mm 7N1\n ï przeciwpancerny 7,62x54mm BP\n ï snajperski 7,62x54mm 7N14\n\n ï efektywny zasiÍg 600m\n ï zasiÍg celowania 800m\n ï szybkostrzelnoúÊ 140 s/m\n ï pojemnoúÊ magazynka 10 nabojÛw\n Dodatki\n ï Zintegrowany celownik optyczny\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Snajperski Karabin SkrÛcony (SWU). Opracowanie skrÛconego wariantu snajperskiego karabinu SWD dla uzbrojenia Wojsk Powietrzno-Desantowych ZSRR rozpoczÍto w 70-tych latach 20 wieku, zmniejszono gabaryty broni, dziÍki zaprojektowaniu broni w systemie "bullpup", w ktÛrym magazynek, mechanizm spustowy i zamek umieszczone sπ za uchwytem. SWU wykorzystuje mechanizmy bazowe i zmodyfikowanπ komorÍ zamkowπ  od karabinu snajperskiego SWD. Pod wzglÍdem celnoúci na krÛtkim i úrednim zasiÍgu SWU osiπga analogiczne wyniki jak SWD.</text>
 	</string>
 	<string id="enc_weapons1_wpn-toz34">
-		<text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n Ten karabin mysliwski jest popularny, lecz nie ma w nim nic szczegolnego.</text>
+		<text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n Ten karabin myúliwski jest popularny, lecz nie ma w nim nic szczegÛlnego.</text>
 	</string>
 	<string id="enc_weapons1_wpn-usp">
-		<text>Amunicja:\n ï zwykly .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ?pojemnosc magazynka 8 nabojow\n Niezawodna bron krotkodystansowa, ktora dzieki niewielkim rozmiarom i wysokiej jakosci wykonania jest bardzo popularna wsrod weteranow Zony.</text>
+		<text>Amunicja:\n ï zwyk≥y .45 ACP\n ï ulepszony .45 ACP Hydro-Shock.\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Niezawodna broÒ krÛtkodystansowa, ktÛra dziÍki niewielkim rozmiarom i wysokiej jakoúci wykonania jest bardzo popularna wúrÛd weteranÛw Zony.</text>
 	</string>
 	<string id="enc_weapons1_wpn-val">
-		<text>Amunicja:\n ï zwykly 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasieg 200m\n ï zasieg celowania 320m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 20 nabojow\n Ta bron bazuje na bezglosnym karabinie snajperskim "Wintorez", ale ma skladana kolbe, wiekszy magazynek i moze strzelac seriami. Zostala stworzona dla sil specjalnych dzialajacych w warunkach, w ktorych niezbedny jest bezglosny i bezblyskowy ostrzal.</text>
+		<text>Amunicja:\n ï zwyk≥y 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasiÍg 200m\n ï zasiÍg celowania 320m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 20 nabojÛw\n Ta broÒ bazuje na bezg≥oúnym karabinie snajperskim "Wintorez", ale ma sk≥adanπ kolbÍ, wiÍkszy magazynek i moøe strzelaÊ seriami. Zosta≥a stworzona dla si≥ specjalnych dzia≥ajπcych w warunkach, w ktÛrych niezbÍdny jest bezg≥oúny i bezb≥yskowy ostrza≥.</text>
 	</string>
 	<string id="enc_weapons1_wpn-val_m1">
-		<text>Amunicja:\n ï zwykly 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasieg 350m\n ï zasieg celowania 400m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 20 nabojow\nDodatki\n ï Zintegrowany celownik PSO-3\n ï Zintegrowany tlumik\n ï Granatnik podlufowy ---\n Snajperska modyfikacja AS ´Walª. Od modelu bazowego odroznia sie zintegrowanym celownikiem kolimatorowym, wieksza precyzja i plaskoscia toru lotu pocisku.</text>
+		<text>Amunicja:\n ï zwyk≥y 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasiÍg 350m\n ï zasiÍg celowania 400m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 20 nabojÛw\nDodatki\n ï Zintegrowany celownik PSO-3\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy ---\n Snajperska modyfikacja AS ´Wa≥ª. Od modelu bazowego odrÛønia siÍ zintegrowanym celownikiem kolimatorowym, wiÍkszπ precyzjπ i p≥askoúciπ toru lotu pocisku.</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez">
-		<text>Amunicja:\n ï zwykly 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasieg 400m\n ï zasieg celowania 650m\n ï szybkostrzelnosc 600 s/m\n ï pojemnosc magazynka 10 nabojow\nDodatki:\n ï Zintegrowany celownik ´PSO-1ª\n ï Zintegrowany tlumik\n ï Granatnik podlufowy ---\n Specjalny karabin snajperski stworzony do bezglosnego i bezblyskowego ostrzalu, wyposazony w zintegrowany tlumik. Przebija kazda kamizelke kuloodporna z odleglosci 400 metrow. Cenia go sobie wszyscy stalkerzy.</text>
+		<text>Amunicja:\n ï zwyk≥y 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasiÍg 400m\n ï zasiÍg celowania 650m\n ï szybkostrzelnoúÊ 600 s/m\n ï pojemnoúÊ magazynka 10 nabojÛw\nDodatki:\n ï Zintegrowany celownik ´PSO-1ª\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy ---\n Specjalny karabin snajperski stworzony do bezg≥oúnego i bezb≥yskowego ostrza≥u, wyposaøony w zintegrowany t≥umik. Przebija kaødπ kamizelkÍ kuloodpornπ z odleg≥oúci 400 metrÛw. Ceniπ go sobie wszyscy stalkerzy.</text>
 	</string>
 	<string id="enc_weapons1_wpn-vintorez_m1">
-		<text>Amunicja:\n ï zwykly 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasieg 500m\n ï zasieg celowania 750m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 20 nabojow\nDodatki:\n ï Zintegrowany celownik ´PSO-3ª\n ï Zintegrowany tlumik\n ï Granatnik podlufowy ---\n Reczna modyfikacja standardowego karabinu snajperskiego specjalnego WSS "Wintorez". Prawie nie wystepuje zuzycie broni, zwiekszona wylotowa predkosc kuli, wygodniejsza kolba z wysokiej jakosci drewna. Sekrety pracy mistrza, modernizujacego ten karabin, tak jak i jego imie - nieznane, wiadomo tylko to, ze wytworzono ja w jednym jedynym egzemplarzu.</text>
+		<text>Amunicja:\n ï zwyk≥y 9x39 mm PAB-9\n ï przeciwpancerny 9x39 mm SP-6\n ï snajperski 9x39 mm SP-5\n ï efektywny zasiÍg 500m\n ï zasiÍg celowania 750m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 20 nabojÛw\nDodatki:\n ï Zintegrowany celownik ´PSO-3ª\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy ---\n RÍczna modyfikacja standardowego karabinu snajperskiego specjalnego WSS "Wintorez". Prawie nie wystÍpuje zuøycie broni, zwiÍkszona wylotowa prÍdkoúÊ kuli, wygodniejsza kolba z wysokiej jakoúci drewna. Sekrety pracy mistrza, modernizujπcego ten karabin, tak jak i jego imiÍ - nieznane, wiadomo tylko to, øe wytworzono jπ w jednym jedynym egzemplarzu.</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther">
-		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ?pojemnosc magazynka 16 nabojow\n Swietny pistolet. Niezawodny, o duzej celnosci i znacznej pojemnosci magazynka - szczegolnie w przypadku modelu stworzonego dla nabojow 9 mm Parabellum.</text>
+		<text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ®pojemnoúÊ magazynka 16 nabojÛw\n åwietny pistolet. Niezawodny, o duøej celnoúci i znacznej pojemnoúci magazynka - szczegÛlnie w przypadku modelu stworzonego dla nabojÛw 9 mm Parabellum.</text>
 	</string>
 	<string id="enc_weapons1_wpn-walther_m1">
-		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ?pojemnosc magazynka 8 nabojow\n Ulepszona wersja broni - mozna do niej uzywac nabojow kaliber  9x18 mm.</text>
+		<text>Amunicja:\n ï podstawowy 9x18 mm\n ï ulepszony 9x18 mm +P+\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Ulepszona wersja broni - moøna do niej uøywaÊ nabojÛw kaliber  9x18 mm.</text>
 	</string>
 	<string id="enc_weapons1_wpn-wincheaster1300">
-		<text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n ï ?pojemnosc magazynka 6 nabojow\n Gladkolufowa strzelba samopowtarzalna stworzona do uzytku w najbardziej niesprzyjajacych warunkach. Niezawodna. Cala pokryta powloka antykorozyjna.</text>
+		<text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n ï ®pojemnoúÊ magazynka 6 nabojÛw\n G≥adkolufowa strzelba samopowtarzalna stworzona do uøytku w najbardziej niesprzyjajπcych warunkach. Niezawodna. Ca≥a pokryta pow≥okπ antykorozyjnπ.</text>
 	</string>
 	<string id="grenade-f1">
 		<text>Granat F1</text>
@@ -412,10 +412,10 @@
 		<text>Granat RGD-5</text>
 	</string>
 	<string id="Weapons1">
-		<text>Bron</text>
+		<text>BroÒ</text>
 	</string>
 	<string id="wp_desert_eagle">
-		<text>Czarny Jastrzab</text>
+		<text>Czarny Jastrzπb</text>
 	</string>
 	<string id="wpn_hpsa">
 		<text>Browning High-Power</text>
@@ -445,7 +445,7 @@
 		<text>Celownik SUSAT</text>
 	</string>
 	<string id="wpn-addon-silencer">
-		<text>Tlumik PBiBS</text>
+		<text>T≥umik PBiBS</text>
 	</string>
 	<string id="wpn-ak74">
 		<text>AKS-74</text>
@@ -466,7 +466,7 @@
 		<text>Obrzyn dwururki</text>
 	</string>
 	<string id="wpn-colt_m1">
-		<text>Colt ´Bezglosnyª</text>
+		<text>Colt ´Bezg≥oúnyª</text>
 	</string>
 	<string id="wpn-colt1911">
 		<text>Colt 1911</text>
@@ -502,7 +502,7 @@
 		<text>L85A2 ´Zbalansowanyª</text>
 	</string>
 	<string id="wpn-l85_m2">
-		<text>L85A2 ´Lzejszyª</text>
+		<text>L85A2 ´Løejszyª</text>
 	</string>
 	<string id="wpn-lr300">
 		<text>LR-300ML</text>
@@ -565,10 +565,10 @@
 		<text>TOZ-34</text>
 	</string>
 	<string id="wpn-val">
-		<text>AS ´Walª</text>
+		<text>AS ´Wa≥ª</text>
 	</string>
 	<string id="wpn-val_m1">
-		<text>Wal ´Szturmowyª</text>
+		<text>Wa≥ ´Szturmowyª</text>
 	</string>
 	<string id="wpn-vintorez">
 		<text>WSS ´Wintorezª</text>
@@ -586,131 +586,131 @@
 		<text>Wincheaster1300</text>
 	</string>
 
-           <!-- Iiail idoccl, aiaraeliiil e nnaiere idcacirer -->
+           <!-- ÕÓ‚ÓÂ ÓÛÊËÂ, ‰Ó·‡‚ÎÂÌÌÓÂ Í ÒÚ‚ÓÎ‡Ï ÓË„ËÌ‡Î‡ -->
    <string id="ars-p38">
     <text>Walther P38</text>
   </string>
    <string id="enc_arsenal_p38">
-    <text>Niemiecki samopowtarzalny pistolet kalibru 9 mm. Opracowany przez firme ´Karl Walter Waffenfabrikª. Na uzbrojenie Wehrmachtu zostal przyjety w 1938 roku. Z czasem on wyparl pistolet Luger-Parabellum (chociaz nie calkowicie) i stal sie najbardziej masowym pistoletem niemieckiej armii. Produkowany byl nie tylko na terytorium Trzeciej Rzeszy, lecz rowniez na terytorium Belgii i okupowanej Czechoslowacji. P38 cieszyl sie takze powodzeniem u zolnierzy Armii Czerwonej i jej sojusznikow jako cenny lup i bron do walki na krotki dystans. Po wojnie produkcja broni w Niemczech na dlugi termin byla wstrzymana. Dopiero w 1957 roku w Republice Federalnej Niemiec wznowiono produkcje tego pistoletu. Byl dostarczany jako uzbrojenie dla Bundeswehry pod nazwa P-1. \n Amunicja:\n podstawowy 9x19 mm CMO,\n ulepszony 9x19 mm PBP.</text>
+    <text>Niemiecki samopowtarzalny pistolet kalibru 9 mm. Opracowany przez firmÍ ´Karl Walter Waffenfabrikª. Na uzbrojenie Wehrmachtu zosta≥ przyjÍty w 1938 roku. Z czasem on wypar≥ pistolet Luger-Parabellum (chociaø nie ca≥kowicie) i sta≥ siÍ najbardziej masowym pistoletem niemieckiej armii. Produkowany by≥ nie tylko na terytorium Trzeciej Rzeszy, lecz rÛwnieø na terytorium Belgii i okupowanej Czechos≥owacji. P38 cieszy≥ siÍ takøe powodzeniem u øo≥nierzy Armii Czerwonej i jej sojusznikÛw jako cenny ≥up i broÒ do walki na krÛtki dystans. Po wojnie produkcja broni w Niemczech na d≥ugi termin by≥a wstrzymana. Dopiero w 1957 roku w Republice Federalnej Niemiec wznowiono produkcjÍ tego pistoletu. By≥ dostarczany jako uzbrojenie dla Bundeswehry pod nazwπ P-1. \n Amunicja:\n podstawowy 9x19 mm CMO,\n ulepszony 9x19 mm PBP.</text>
   </string>
 
    <string id="wpn_pkm_name">
     <text>PKM</text>
   </string>
    <string id="wpn_pkm_description">
-    <text>Amunicja:\n ï 7.62x54R\n ï efektywny zasieg 800m\n ï zasieg celowania 1200m\n ï szybkostrzelnosc 650 s/m\n ï pojemnosc magazynka 100 nabojow\nDodatki:\n ï Celownik optyczny ---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Modernizowany ujednolicony karabin maszynowy PKM, przyjety na uzbrojenie w 1969 roku. Karabiny maszynowe serii PK / PKM odznaczaja sie wysoka niezawodnoscia i ciesza sie wysoka popularnoscia w wojskach, pomimo nieco skomplikowanego dwustopniowego systemu podawania naboju z tasmy do lufy. Na Szybkowymiennej lufie  znajduje sie rekojesc uzywana do przenoszenia, a takze do wymiany goracej lufy. Zasilanie nabojami - z nierozsypnej metalowej tasmy z zamknietymi ogniwami. Standardowa pojemnosc tasm wynosi 100 (w recznym wariancie) nabojow.\n W podobna bron zazwyczaj sa wyposazone ciezkozbrojne oddzialy wojskowych stalkerow.</text>
+    <text>Amunicja:\n ï 7.62x54R\n ï efektywny zasiÍg 800m\n ï zasiÍg celowania 1200m\n ï szybkostrzelnoúÊ 650 s/m\n ï pojemnoúÊ magazynka 100 nabojÛw\nDodatki:\n ï Celownik optyczny ---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Modernizowany ujednolicony karabin maszynowy PKM, przyjÍty na uzbrojenie w 1969 roku. Karabiny maszynowe serii PK / PKM odznaczajπ siÍ wysokπ niezawodnoúciπ i cieszπ siÍ wysokπ popularnoúciπ w wojskach, pomimo nieco skomplikowanego dwustopniowego systemu podawania naboju z taúmy do lufy. Na Szybkowymiennej lufie  znajduje siÍ rekojeúÊ uøywana do przenoszenia, a takøe do wymiany gorπcej lufy. Zasilanie nabojami - z nierozsypnej metalowej taúmy z zamkniÍtymi ogniwami. Standardowa pojemnoúÊ taúm wynosi 100 (w rÍcznym wariancie) nabojÛw.\n W podobnπ broÒ zazwyczaj sπ wyposaøone ciÍøkozbrojne oddzia≥y wojskowych stalkerÛw.</text>
   </string>
 
    <string id="wpn_aps_name">
     <text>Pistolet Steczkina</text>
   </string>
    <string id="wpn_aps_description">
-    <text>Amunicja:\n ï 9x18 ñ podstawowy\n ï 9x18 ´Pª ñ ulepszony\n ï ?pojemnosc magazynka: 20 nabojow\n Pistolet APS opracowano na przelomie lat 40-tych i 50-tych przez konstruktora I. J. Steczkina i przyjeto na uzbrojenie Armii Radzieckiej w 1951 roku, razem z pistoletem Makarowa PM. W porownaniu z PM APS dysponowal duzo wieksza sila ognia i bojowa skutecznoscia, dzieki wiekszemu magazynkowi i dluzszej lufie. W razie koniecznosci z APS mozna prowadzic ogien seriami, a dzieki obecnosci nastawnika tempa strzelania, pistoletem daje sie wtedy mniej wiecej kierowac.</text>
+    <text>Amunicja:\n ï 9x18 ñ podstawowy\n ï 9x18 ´Pª ñ ulepszony\n ï ®pojemnoúÊ magazynka: 20 nabojÛw\n Pistolet APS opracowano na prze≥omie lat 40-tych i 50-tych przez konstruktora I. J. Steczkina i przyjÍto na uzbrojenie Armii Radzieckiej w 1951 roku, razem z pistoletem Makarowa PM. W porÛwnaniu z PM APS dysponowa≥ duøo wiÍkszπ si≥π ognia i bojowπ skutecznoúciπ, dziÍki wiÍkszemu magazynkowi i d≥uøszej lufie. W razie koniecznoúci z APS moøna prowadziÊ ogieÒ seriami, a dziÍki obecnoúci nastawnika tempa strzelania, pistoletem daje siÍ wtedy mniej wiÍcej kierowaÊ.</text>
   </string>
 
    <string id="ars-glock_19">
     <text>´Glockª 19</text>
   </string>
    <string id="enc_arsenal_glock_19">
-    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ?pojemnosc magazynka 15 nabojow\n Glock 18 zostal opracowany na bazie pistoletu Glock 17 i odroznia sie przede wszystkim obecnoscia przelacznika trybu ognia, co pozwala prowadzic ogien pojedynczy lub seriami. W tym ostatnim przypadku szybkostrzelnosc teoretyczna wynosi w przyblizeniu 1200 strz/min. Mozliwa jest produkcja modeli strzelajacych seria po 3 strzaly, jak i w trybie calkowicie automatycznym, ale nie w jednym modelu. Bron moze wykorzystywac standardowe magazynki o pojemnosci 19 naboi, jak i magazynki do modelu 17. Sa takze magazynki o pojemnosci 31 naboi.</text>
+    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ®pojemnoúÊ magazynka 15 nabojÛw\n Glock 18 zosta≥ opracowany na bazie pistoletu Glock 17 i odrÛønia siÍ przede wszystkim obecnoúciπ prze≥πcznika trybu ognia, co pozwala prowadziÊ ogieÒ pojedynczy lub seriami. W tym ostatnim przypadku szybkostrzelnoúÊ teoretyczna wynosi w przybliøeniu 1200 strz/min. Moøliwa jest produkcja modeli strzelajπcych seriπ po 3 strza≥y, jak i w trybie ca≥kowicie automatycznym, ale nie w jednym modelu. BroÒ moøe wykorzystywaÊ standardowe magazynki o pojemnoúci 19 naboi, jak i magazynki do modelu 17. Sπ takøe magazynki o pojemnoúci 31 naboi.</text>
   </string>
 
    <string id="wpn-luger">
     <text>Luger P08</text>
   </string>
    <string id="enc_weapons1_wpn-luger">
-    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ?pojemnosc magazynka 8 nabojow\n Pistolet Lugera (Luger, Parabellum; niem. P08, Parabellum, Borchardt-Luger) ó pistolet opracowany w 1900 roku przez austriaka Georga Lugera na bazie pistoletu Hugo Borchardta. Glowne zalety ´Parabellumª to wysoka precyzja prowadzenia ognia, osiagnieta dzieki wygodnej ´anatomicznejª rekojesci z duzym katem nachylenia i lekkim (prawie sportowym) spustem. Mimo drogiej i pracochlonnej produkcji, wrazliwosci na zanieczyszczenia oraz skomplikowanej budowy, ´Parabellumª stal sie z czasem jednym z najpopularniejszych typow broni krotkiej. Produkowany po dzis dzien.\n Istnieje wiele modyfikacji pod naboje roznego kalibru i o roznej dlugosci lufy. Luger cieszyl sie powodzeniem wsrod zolnierzy Armii Czerwonej i jej sojusznikow jako dobra bron w walce na krotki dystans.\n Dany pistolet kalibru 9 mm ma dlugosc lufy 102 mm.</text>
+    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n Pistolet Lugera (Luger, Parabellum; niem. P08, Parabellum, Borchardt-Luger) ó pistolet opracowany w 1900 roku przez austriaka Georga Lugera na bazie pistoletu Hugo Borchardta. G≥Ûwne zalety ´Parabellumª to wysoka precyzja prowadzenia ognia, osiπgniÍta dziÍki wygodnej ´anatomicznejª rÍkojeúci z duøym kπtem nachylenia i lekkim (prawie sportowym) spustem. Mimo drogiej i pracoch≥onnej produkcji, wraøliwoúci na zanieczyszczenia oraz skomplikowanej budowy, ´Parabellumª sta≥ siÍ z czasem jednym z najpopularniejszych typÛw broni krÛtkiej. Produkowany po dziú dzieÒ.\n Istnieje wiele modyfikacji pod naboje rÛønego kalibru i o rÛønej d≥ugoúci lufy. Luger cieszy≥ siÍ powodzeniem wúrÛd øo≥nierzy Armii Czerwonej i jej sojusznikÛw jako dobra broÒ w walce na krÛtki dystans.\n Dany pistolet kalibru 9 mm ma d≥ugoúÊ lufy 102 mm.</text>
   </string>
 
    <string id="ars-mauser_red9">
     <text>Mauser Red 9</text>
   </string>
    <string id="enc_weapons1_wpn_mauser_red9">
-    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ?pojemnosc magazynka 20 nabojow\n Wiekszosc Mauserow byla projektowana pod amunicje 7.63mm Mauser (prawie identyczna z rodzimym nabojem 7.62x25mm TT). Procz tego, w 1916-m roku Prusy zamowily u Mausera 150000 pistoletow pod swoj standardowy naboj 9mm Parabellum. Od zwyklych pistoletow te modele wyroznialy sie przede wszystkim kalibrem (9mm Parabellum zamiast 7.63 Mauser). Druga wazna roznica byl celownik z podzialka 50-500 metrow.Takie pistolety charakteryzowaly sie duza cyfra "9", wycinana na rekojesci i zalana czerwona farba.</text>    
+    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï ®pojemnoúÊ magazynka 20 nabojÛw\n WiÍkszoúÊ MauserÛw by≥a projektowana pod amunicjÍ 7.63mm Mauser (prawie identyczna z rodzimym nabojem 7.62x25mm TT). PrÛcz tego, w 1916-m roku Prusy zamÛwi≥y u Mausera 150000 pistoletÛw pod swÛj standardowy nabÛj 9mm Parabellum. Od zwyk≥ych pistoletÛw te modele wyrÛønia≥y siÍ przede wszystkim kalibrem (9mm Parabellum zamiast 7.63 Mauser). Drugπ waønπ rÛønicπ by≥ celownik z podzia≥kπ 50-500 metrÛw.Takie pistolety charakteryzowa≥y siÍ duøπ cyfrπ "9", wycinanπ na rÍkojeúci i zalanπ czerwonπ farbπ.</text>    
   </string>
 
    <string id="ars-rpk74">
     <text>RPK-74</text>
   </string>
    <string id="enc_arsenal_rpk74">
-    <text>Amunicja:\n ï 5,45x39 ñ podstawowy\n ï 5,45x39 BP ñ przeciwpancerny\n ï efektywny zasieg 600m\n ï zasieg celowania do 1000m\n ï szybkostrzelnosc 600 s/m\n ï pojemnosc magazynka 45 nabojow\n Dodatki:\n ï Celownik optyczny ---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Modyfikowany karabin maszynowy RPK-74M, zbudowany na bazie recznego karabinu maszynowego Kalasznikowa (RPK-74), wyrozniajacy sie wzmocniona konstrukcja, listwa dla instalacji dziennych lub nocnych celownikow, skladana na bok plastikowa kolba, wygodniejszym plastikowym lozem i lufowa nakladka. Na dolnej czesci lufy RPK umocowano niezdejmowalne nozki ze stala wysokoscia linii ognia.</text>
+    <text>Amunicja:\n ï 5,45x39 ñ podstawowy\n ï 5,45x39 BP ñ przeciwpancerny\n ï efektywny zasiÍg 600m\n ï zasiÍg celowania do 1000m\n ï szybkostrzelnoúÊ 600 s/m\n ï pojemnoúÊ magazynka 45 nabojÛw\n Dodatki:\n ï Celownik optyczny ---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Modyfikowany karabin maszynowy RPK-74M, zbudowany na bazie rÍcznego karabinu maszynowego Ka≥asznikowa (RPK-74), wyrÛøniajπcy siÍ wzmocnionπ konstrukcjπ, listwπ dla instalacji dziennych lub nocnych celownikÛw, sk≥adanπ na bok plastikowπ kolbπ, wygodniejszym plastikowym ≥oøem i lufowπ nak≥adkπ. Na dolnej czÍúci lufy RPK umocowano niezdejmowalne nÛøki ze sta≥π wysokoúciπ linii ognia.</text>
   </string>
 
    <string id="wpn-tt33">
     <text>´TTª</text>
   </string>
    <string id="enc_weapons1_wpn-tt33">
-    <text>Amunicja:\n ï 7,62x25mm zwykly TT\n ï 7,62x25mm ze stalowa kula PS\n ï ?pojemnosc magazynka 8 nabojow\n O pistolecie TT w naszych czasach czesciej mowia w kronikach kryminalnych, ale ten wytwor rosyjskiego zbrojmistrza Fiodora Tokariewa nie zasluzyl sobie na taka slawe. Wytwor Tokariewa otrzymal robocza nazwe ´7,62-mm samopowtarzalny pistolet wz. 1930ª, ale w procesie przygotowan do masowej produkcji ten model zostal poddany szeregowi zmian, ktore uproscily technologie produkcji. W rezultacie w 1934 r. w Tulskiej fabryce zbrojeniowej zakladzie rozpoczela sie masowa produkcja modelu ´7,62-mm pistolet TT wz. 1933ª, a juz po kilku latach nikt go inaczej niz ´TT(Tulski, Tokariewa)ª  nie nazywal. Ten model byl eksportowany do NRD, Polski, Rumunii, Bulgarii, Polnocnego Wietnamu, Afganistanu, a Jugoslawia, Wegry, Chiny i Korea Polnocna nawet zdobyly licencje na produkcje TT i amunicji do niego.</text>    
+    <text>Amunicja:\n ï 7,62x25mm zwyk≥y TT\n ï 7,62x25mm ze stalowπ kulπ PS\n ï ®pojemnoúÊ magazynka 8 nabojÛw\n O pistolecie TT w naszych czasach czÍúciej mÛwiπ w kronikach kryminalnych, ale ten wytwÛr rosyjskiego zbrojmistrza Fiodora Tokariewa nie zas≥uøy≥ sobie na takπ s≥awÍ. WytwÛr Tokariewa otrzyma≥ roboczπ nazwÍ ´7,62-mm samopowtarzalny pistolet wz. 1930ª, ale w procesie przygotowaÒ do masowej produkcji ten model zosta≥ poddany szeregowi zmian, ktÛre uproúci≥y technologiÍ produkcji. W rezultacie w 1934 r. w Tulskiej fabryce zbrojeniowej zak≥adzie rozpoczÍ≥a siÍ masowa produkcja modelu ´7,62-mm pistolet TT wz. 1933ª, a juø po kilku latach nikt go inaczej niø ´TT(Tulski, Tokariewa)ª  nie nazywa≥. Ten model by≥ eksportowany do NRD, Polski, Rumunii, Bu≥garii, PÛ≥nocnego Wietnamu, Afganistanu, a Jugos≥awia, WÍgry, Chiny i Korea PÛ≥nocna nawet zdoby≥y licencjÍ na produkcjÍ TT i amunicji do niego.</text>    
   </string>
 
    <string id="ars-mp40">
     <text>´MP-40ª</text>
   </string>
    <string id="enc_arsenal_mp40">
-    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï efektywny zasieg 150m\n ï zasieg celowania 180m\n ï szybkostrzelnosc 550 s/m\n ï pojemnosc magazynka 32 naboje\n Dodatki:\n ï Celownik optyczny ---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Pistolety maszynowe MP-38 i MP-40, czesto mylnie zwane Schmeisserami, zostaly opracowane przez niemieckiego konstruktora Heinricha Vollmera w firmie Erma-Werke GmbH, i weszly na uzbrojenie Wehrmachtu w 1938 roku. Pierwotnie byly przeznaczone na uzbrojenie komandosow i zalog pojazdow bojowych, ale pozniej weszly na uzbrojenie pieszych oddzialow Wehrmachtu i SS. W sumie wyprodukowano okolo 1.2 miliona sztuk MP-38 i MP-40. MP-40 to modyfikacja MP-38, w ktorej frezowana komore zamkowa zastapiono wytlaczana.</text>    
+    <text>Amunicja:\n ï podstawowy 9x19 mm CMO\n ï ulepszony 9x19 mm PBP\n ï efektywny zasiÍg 150m\n ï zasiÍg celowania 180m\n ï szybkostrzelnoúÊ 550 s/m\n ï pojemnoúÊ magazynka 32 naboje\n Dodatki:\n ï Celownik optyczny ---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Pistolety maszynowe MP-38 i MP-40, czÍsto mylnie zwane Schmeisserami, zosta≥y opracowane przez niemieckiego konstruktora Heinricha Vollmera w firmie Erma-Werke GmbH, i wesz≥y na uzbrojenie Wehrmachtu w 1938 roku. Pierwotnie by≥y przeznaczone na uzbrojenie komandosÛw i za≥Ûg pojazdÛw bojowych, ale pÛüniej wesz≥y na uzbrojenie pieszych oddzia≥Ûw Wehrmachtu i SS. W sumie wyprodukowano oko≥o 1.2 miliona sztuk MP-38 i MP-40. MP-40 to modyfikacja MP-38, w ktÛrej frezowanπ komorÍ zamkowπ zastπpiono wyt≥aczanπ.</text>    
   </string>
 
    <string id="wpn-ppsh41">
     <text>´PPSZ-41ª</text>
   </string>
    <string id="enc_weapons1_wpn-ppsh41">
-    <text>Amunicja:\n ï 7,62x25mm zwykly TT\n ï 7,62x25mm ze stalowa kula PS\n ï efektywny zasieg 200m\n ï zasieg celowania 280m\n ï szybkostrzelnosc 900 s/m\n ï pojemnosc magazynka 71 nabojow\n Dodatki:\n ï Celownik optyczny ---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Pistolet maszynowy Szpagina model z 1941 roku (PPSZ-41) pod amunicje 7,62x25 mm. Prosty i pewny, a przy tym posiada calkiem niezle charakterystyki.</text>    
+    <text>Amunicja:\n ï 7,62x25mm zwyk≥y TT\n ï 7,62x25mm ze stalowπ kulπ PS\n ï efektywny zasiÍg 200m\n ï zasiÍg celowania 280m\n ï szybkostrzelnoúÊ 900 s/m\n ï pojemnoúÊ magazynka 71 nabojÛw\n Dodatki:\n ï Celownik optyczny ---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Pistolet maszynowy Szpagina model z 1941 roku (PPSZ-41) pod amunicjÍ 7,62x25 mm. Prosty i pewny, a przy tym posiada ca≥kiem niez≥e charakterystyki.</text>    
   </string>
 
    <string id="ars-stg44">
     <text>´Sturmgewehr-44ª</text>
   </string>
    <string id="arsenal_mod-stg44">
-    <text>Amunicja:\n ï 7.92x33mm\n ï efektywny zasieg 400m\n ï zasieg celowania 600m\n ï szybkostrzelnosc 500 s/m\n ï pojemnosc magazynka 30 nabojow\n Dodatki:\n ï Celownik optyczny ---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Sturmgewehr-44 ñ niemiecki karabin szturmowy model z 1943/44 r. Karabinek dziala na zasadzie odprowadzenia gazow przez boczny otwor w sciance lufy. Komora gazowa typu zamknietego ma stala objetosc. Ryglowanie przewodu lufy nastepuje przez wychylenie zamka w plaszczyznie pionowej podczas ryglowania (przekoszenie). Ryglowania i odryglowania dokonuje sie za pomoca wspolpracujacych ze soba odpowiednio pochylych plaszczyzn na zamku i suwadle.</text>    
+    <text>Amunicja:\n ï 7.92x33mm\n ï efektywny zasiÍg 400m\n ï zasiÍg celowania 600m\n ï szybkostrzelnoúÊ 500 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\n Dodatki:\n ï Celownik optyczny ---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Sturmgewehr-44 ñ niemiecki karabin szturmowy model z 1943/44 r. Karabinek dzia≥a na zasadzie odprowadzenia gazÛw przez boczny otwÛr w úciance lufy. Komora gazowa typu zamkniÍtego ma sta≥π objÍtoúÊ. Ryglowanie przewodu lufy nastÍpuje przez wychylenie zamka w p≥aszczyünie pionowej podczas ryglowania (przekoszenie). Ryglowania i odryglowania dokonuje siÍ za pomocπ wspÛ≥pracujπcych ze sobπ odpowiednio pochy≥ych p≥aszczyzn na zamku i suwadle.</text>    
   </string>
 
    <string id="ars-vepr">
-    <text>Wiepr-12 ´Mlotª</text>
+    <text>Wiepr-12 ´M≥otª</text>
   </string>
    <string id="enc_arsenal_vepr">
-    <text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n ï pojemnosc magazynka 8 nabojow\nDodatki:\n ï Zintegrowany celownik kolimatorowy\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Wiepr-12 ´Mlotª ñ wielostrzalowy, gladkolufowy, samopowtarzalny karabinek, przeznaczony do polowania, zawodow sportowych, samoobrony, a takze wykorzystywany w charakterze broni sluzbowej. Gladkolufowe strzelby Wiepr-12 odziedziczyly ogolna budowe i uklad automatu (recznego karabinu maszynowego) Kalasznikowa, z mechanizmem odprowadzania gazow prochowych i zamkiem ryglowanym przez obrot. Naturalnie, komora zamkowa i slufa zostaly przekonstruowane z zamiarem wykorzystania amunicji mysliwskiej. Dla podniesienia odpornosci na korozje wiekszosc elementow jest chromowanych.</text>    
+    <text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n ï pojemnoúÊ magazynka 8 nabojÛw\nDodatki:\n ï Zintegrowany celownik kolimatorowy\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Wiepr-12 ´M≥otª ñ wielostrza≥owy, g≥adkolufowy, samopowtarzalny karabinek, przeznaczony do polowania, zawodÛw sportowych, samoobrony, a takøe wykorzystywany w charakterze broni s≥uøbowej. G≥adkolufowe strzelby Wiepr-12 odziedziczy≥y ogÛlnπ budowÍ i uk≥ad automatu (rÍcznego karabinu maszynowego) Ka≥asznikowa, z mechanizmem odprowadzania gazÛw prochowych i zamkiem ryglowanym przez obrÛt. Naturalnie, komora zamkowa i slufa zosta≥y przekonstruowane z zamiarem wykorzystania amunicji myúliwskiej. Dla podniesienia odpornoúci na korozjÍ wiÍkszoúÊ elementÛw jest chromowanych.</text>    
   </string>
 
    <string id="wpn-winchester_m1">
     <text>Bojowy winchester</text>
   </string>
    <string id="enc_weapons1_wpn-winchester_m1">
-    <text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n ï pojemnosc magazynka 5 nabojow\n Dodatki:\n ï Celownik optyczny---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Autorska modyfikacja Winchester 1300. W podlufowy magazynek wbudowano niewielki fragment artefaktu "Grawi", ustawiony w taki sposob, by jego garwitacyjne oddzialywanie zwiekszalo predkosc lotu kuli i stabilizowalo ja w locie, dzieki czemu zwiekszyly sie zasieg i skutecznosc ostrzalu.</text>
+    <text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n ï pojemnoúÊ magazynka 5 nabojÛw\n Dodatki:\n ï Celownik optyczny---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Autorska modyfikacja Winchester 1300. W podlufowy magazynek wbudowano niewielki fragment artefaktu "Grawi", ustawiony w taki sposÛb, by jego garwitacyjne oddzia≥ywanie zwiÍksza≥o prÍdkoúÊ lotu kuli i stabilizowa≥o jπ w locie, dziÍki czemu zwiÍkszy≥y siÍ zasiÍg i skutecznoúÊ ostrza≥u.</text>
   </string>
 
    <string id="wpn-blaster">
     <text>´Stanner BS-rLS1.0ª</text>
   </string>
    <string id="enc_weapons1_wpn_blaster">
-    <text>Amunicja:\n ï Akumulatory\n ï pojemnosc magazynka 30 ladunkow\n Dodatki:\n ï Celownik optyczny dla Stannera BS-rLS1.0\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Fanat twierdzi, ze ta jedyna w swoim rodzaju bron zostala opracowana dla nich w 1996 roku. Ogromny minus ñ amunicji do niego nie znajdziesz i nie kupisz.</text>
+    <text>Amunicja:\n ï Akumulatory\n ï pojemnoúÊ magazynka 30 ≥adunkÛw\n Dodatki:\n ï Celownik optyczny dla Stannera BS-rLS1.0\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Fanat twierdzi, øe ta jedyna w swoim rodzaju broÒ zosta≥a opracowana dla nich w 1996 roku. Ogromny minus ñ amunicji do niego nie znajdziesz i nie kupisz.</text>
   </string>
 
    <string id="wpn-m1000">
     <text>´M-1000 Sztyletª</text>
   </string>
    <string id="enc_weapons1_wpn-m1000">
-    <text>Amunicja:\n ï zwykly .45 ACP\n ï ulepszony .45 ACP Hydro-Shock\n ï pojemnosc magazynka 50 nabojow\n Dodatki:\n ï Zintegrowany celownik optyczny\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Podobny z wygladu zewnetrznego do legendarnego Wintoreza, snajperski karabin szturmowy M-1000 Sztylet. Powiadaja, ze na calej planecie nie znajdziesz wiecej niz tuzina takich modeli. Bron unikatowa.</text>
+    <text>Amunicja:\n ï zwyk≥y .45 ACP\n ï ulepszony .45 ACP Hydro-Shock\n ï pojemnoúÊ magazynka 50 nabojÛw\n Dodatki:\n ï Zintegrowany celownik optyczny\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Podobny z wyglπdu zewnÍtrznego do legendarnego Wintoreza, snajperski karabin szturmowy M-1000 Sztylet. Powiadajπ, øe na ca≥ej planecie nie znajdziesz wiÍcej niø tuzina takich modeli. BroÒ unikatowa.</text>
   </string>
 
    <string id="wpn-sr25">
     <text>´SR-25ª</text>
   </string>
    <string id="enc_weapons1_wpn-sr25">
-    <text>Amunicja:\n ï 7.62x51 FMJ zwykly\n ï 7.62x51 AP przeciwpancerny\n ï efektywny zasieg 800m\n ï zasieg celowania 1100m\n ï szybkostrzelnosc 150 s/m\n ï pojemnosc magazynka 20 nabojow\n Dodatki:\n ï Zintegrowany celownik optyczny\n ï Zintegrowany tlumik\n ï Granatnik podlufowy ---\n Karabin SR-25 zostal opracowany przez Eugena Stonera (jednego z konstruktorow karabinu AR-15 / M16) na poczatku lat 1990-ch, kiedy wspolpracowal z amerykanska kompania Knight's Armaments Co. Jako podstawe karabinu SR-25 (Stoner Rifle model 25) wzieto konstrukcje karabinu AR-15, modyfikowana pod naboj 7.62x51 NATO. Zasadnicze przeznaczenie karabinow Mk.11 Mod.0 i XM110 - to celowany ogien do zywej sily przeciwnika na odleglosc do 800 metrow. Z taktycznego punktu widzenia te karabiny okazuja sie analogami snajperskiego karabinu Dragunowa SWD, jednak odroznia je wyzsza celnosc strzelania (w tym dzieki stosowaniu nabojow wyzszej jakosci) i wieksza elastycznosc taktyczna.</text>
+    <text>Amunicja:\n ï 7.62x51 FMJ zwyk≥y\n ï 7.62x51 AP przeciwpancerny\n ï efektywny zasiÍg 800m\n ï zasiÍg celowania 1100m\n ï szybkostrzelnoúÊ 150 s/m\n ï pojemnoúÊ magazynka 20 nabojÛw\n Dodatki:\n ï Zintegrowany celownik optyczny\n ï Zintegrowany t≥umik\n ï Granatnik podlufowy ---\n Karabin SR-25 zosta≥ opracowany przez Eugena Stonera (jednego z konstruktorÛw karabinu AR-15 / M16) na poczπtku lat 1990-ch, kiedy wspÛ≥pracowa≥ z amerykaÒskπ kompaniπ Knight's Armaments Co. Jako podstawÍ karabinu SR-25 (Stoner Rifle model 25) wziÍto konstrukcjÍ karabinu AR-15, modyfikowanπ pod nabÛj 7.62x51 NATO. Zasadnicze przeznaczenie karabinÛw Mk.11 Mod.0 i XM110 - to celowany ogieÒ do øywej si≥y przeciwnika na odleg≥oúÊ do 800 metrÛw. Z taktycznego punktu widzenia te karabiny okazujπ siÍ analogami snajperskiego karabinu Dragunowa SWD, jednak odrÛønia je wyøsza celnoúÊ strzelania (w tym dziÍki stosowaniu nabojÛw wyøszej jakoúci) i wiÍksza elastycznoúÊ taktyczna.</text>
   </string>
 
    <string id="ars-vihlop">
     <text>WSSK ´Wydechª</text>
   </string>
    <string id="enc_arsenal_vihlop">
-   <text>Amunicja:\n ï 12.7x55 PT ñ snajperski\n ï 12.7x55 BPS ñ przeciwpancerny\n ï efektywny zasieg 550m\n ï zasieg celowania 650m\n ï szybkostrzelnosc 40 s/m\n ï pojemnosc magazynka 5 nabojow\n Dodatki:\n ï Zintegrowany celownik ´PKS-07ª\n ï Zintegrowany tlumik M12.7-A\n ï Granatnik podlufowy ---\n Bezglosny wielkokalibrowy karabin snajperski "Wydech" opracowany w CKIB SOO (Centralne KB broni sportowej i mysliwskiej, Tula, filia KB budowy maszyn) w 2002 roku, na specjalne zamowienie Centrum Specjalnego Przeznaczenia (CSN) FSB Rosji. Karabin (dokladnie - zestaw snajperski WKS/WSSK "Wydech", skladajacy sie z broni i amunicji do niej, indeks GRAU 6S8) po raz pierwszy zostal zaprezentowana jesienia 2005 roku na wystawie Interpolitech w Moskwie. O ile wiadomo, zestaw "Wydech" wyprodukowano w niewielkiej ilosci i jest na wyposazeniu oddzialow CSN FSB Rosji.</text>
+   <text>Amunicja:\n ï 12.7x55 PT ñ snajperski\n ï 12.7x55 BPS ñ przeciwpancerny\n ï efektywny zasiÍg 550m\n ï zasiÍg celowania 650m\n ï szybkostrzelnoúÊ 40 s/m\n ï pojemnoúÊ magazynka 5 nabojÛw\n Dodatki:\n ï Zintegrowany celownik ´PKS-07ª\n ï Zintegrowany t≥umik M12.7-A\n ï Granatnik podlufowy ---\n Bezg≥oúny wielkokalibrowy karabin snajperski "Wydech" opracowany w CKIB SOO (Centralne KB broni sportowej i myúliwskiej, Tu≥a, filia KB budowy maszyn) w 2002 roku, na specjalne zamÛwienie Centrum Specjalnego Przeznaczenia (CSN) FSB Rosji. Karabin (dok≥adnie - zestaw snajperski WKS/WSSK "Wydech", sk≥adajπcy siÍ z broni i amunicji do niej, indeks GRAU 6S8) po raz pierwszy zosta≥ zaprezentowana jesieniπ 2005 roku na wystawie Interpolitech w Moskwie. O ile wiadomo, zestaw "Wydech" wyprodukowano w niewielkiej iloúci i jest na wyposaøeniu oddzia≥Ûw CSN FSB Rosji.</text>
   </string>
 
    <string id="wpn-warlock">
     <text>´Warlock-666ª</text>
   </string>
    <string id="enc_weapons1_wpn-warlock">
-    <text>Amunicja:\n ï Energetyczne akumulatory\n ï efektywny zasieg 1000m\n ï zasieg celowania 1800m\n ï szybkostrzelnosc 300 s/m\n ï pojemnosc akumulatora 3 ladunki\n Dodatki:\n ï Zintegrowany celownik optyczny\n Przedziwna bron o straszliwej sile razenia. Podobno stworzona przez powinnosciowego mechanika Grisze Budulaja.</text>
+    <text>Amunicja:\n ï Energetyczne akumulatory\n ï efektywny zasiÍg 1000m\n ï zasiÍg celowania 1800m\n ï szybkostrzelnoúÊ 300 s/m\n ï pojemnoúÊ akumulatora 3 ≥adunki\n Dodatki:\n ï Zintegrowany celownik optyczny\n Przedziwna broÒ o straszliwej sile raøenia. Podobno stworzona przez powinnosciowego mechanika GriszÍ Budu≥aja.</text>
   </string>
    <string id="wpn-warlock_error">
     <text>Niesprawny ´Warlockª</text>
@@ -723,46 +723,46 @@
     <text>Colt M4A1</text>
   </string>
    <string id="enc_wpn-m4_a1">
-    <text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasieg 400m\n ï zasieg celowania 550m\n ï szybkostrzelnosc 900 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki\n ï Celownik optyczny ACOG\n ï Tlumik PBiBS\n ï Granatnik podlufowy  M203\n Po ukazaniu sie kolejnego wariantu karabinu M16 ñ modelu Colt M16A3, na jej podstawie firma Colt zaprojektowala nowy karabinek automatyczny M4A1, ktory otrzymal tryb automatycznego prowadzenia ognia. Colt M4A1 odroznia sie od wczesniejszego M4 obecnoscia szyny Picatinny w gornej czesci podstawy lufy dla mocowania wszelkich typow celownikow i wyposazony w loze Rail Interface System. W komplecie jest tlumik szybkiego montazu, nakladany zwyczajnie na etatowy wygaszacz plomienia karabinka. Karabinek automatyczny Colt M4A1 z zestawem SOPMOD M4 obecnie wchodzi w sklad uzbrojenia wiekszosci amerykanskich oddzialow specjalnego przeznaczenia.</text>
+    <text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï granat M-209\n ï efektywny zasiÍg 400m\n ï zasiÍg celowania 550m\n ï szybkostrzelnoúÊ 900 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki\n ï Celownik optyczny ACOG\n ï T≥umik PBiBS\n ï Granatnik podlufowy  M203\n Po ukazaniu siÍ kolejnego wariantu karabinu M16 ñ modelu Colt M16A3, na jej podstawie firma Colt zaprojektowa≥a nowy karabinek automatyczny M4A1, ktÛry otrzyma≥ tryb automatycznego prowadzenia ognia. Colt M4A1 odrÛønia siÍ od wczesniejszego M4 obecnoúciπ szyny Picatinny w gÛrnej czÍúci podstawy lufy dla mocowania wszelkich typÛw celownikÛw i wyposaøony w ≥oøe Rail Interface System. W komplecie jest t≥umik szybkiego montaøu, nak≥adany zwyczajnie na etatowy wygaszacz p≥omienia karabinka. Karabinek automatyczny Colt M4A1 z zestawem SOPMOD M4 obecnie wchodzi w sk≥ad uzbrojenia wiÍkszoúci amerykaÒskich oddzia≥Ûw specjalnego przeznaczenia.</text>
   </string>
 
    <string id="ars-g36c">
     <text>HK G36C ´Commandoª</text>
   </string>
    <string id="enc_ars-g36c">
-    <text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasieg 320m\n ï zasieg celowania 400m\n ï szybkostrzelnosc 800 s/m\n ï pojemnosc magazynka 30 nabojow\nDodatki:\n ï Celownik optyczny ACOG\n ï Tlumik PBiBS\n ï Granatnik podlufowy ---\n Skrocony karabin szturmowy Heckler und Koch HK G36C (´Compactª lub ´Commandoª) modyfikacja niemieckiego karabinu szturmowego G36, z uniwersalna szyna montazowa Picatinny i lufa\lozem. HK G36C ´Compactª to wygodny i krotki karabin szturmowy, idealny do prowadzenia walki w warunkach miejskich i w pomieszczeniach.</text>
+    <text>Amunicja:\n ï 5,56x45 SS109 ñ podstawowy\n ï 5,56x45 AP ñ przeciwpancerny\n ï efektywny zasiÍg 320m\n ï zasiÍg celowania 400m\n ï szybkostrzelnoúÊ 800 s/m\n ï pojemnoúÊ magazynka 30 nabojÛw\nDodatki:\n ï Celownik optyczny ACOG\n ï T≥umik PBiBS\n ï Granatnik podlufowy ---\n SkrÛcony karabin szturmowy Heckler und Koch HK G36C (´Compactª lub ´Commandoª) modyfikacja niemieckiego karabinu szturmowego G36, z uniwersalnπ szynπ montaøowπ Picatinny i lufπ\≥oøem. HK G36C ´Compactª to wygodny i krÛtki karabin szturmowy, idealny do prowadzenia walki w warunkach miejskich i w pomieszczeniach.</text>
   </string>
 
    <string id="wpn-toz34_short">
     <text>Obrzyn TOZ-34</text>
   </string>
    <string id="enc_weapons1_wpn-toz34_short">
-    <text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n ï pojemnosc magazynka 2 naboje\nDodatki:\n ï Celownik optyczny---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Obrzyn szeroko rozpowszechnionej i niczym szczegolnym sie nie wyrozniajacej strzelby mysliwskiej-"wertykalki".\n Efektywny tylko w zwarciu, 10-15 metrow.</text>
+    <text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n ï pojemnoúÊ magazynka 2 naboje\nDodatki:\n ï Celownik optyczny---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n Obrzyn szeroko rozpowszechnionej i niczym szczegÛlnym siÍ nie wyrÛøniajacej strzelby myúliwskiej-"wertykalki".\n Efektywny tylko w zwarciu, 10-15 metrÛw.</text>
   </string>
 
    <string id="wpn_rem870_magnum">
     <text>Remington 870 ´Marine Magnumª</text>
   </string>
    <string id="enc_wpn_rem870_magnum">
-    <text>Amunicja:\n ï 12x70 srut\n ï 12x76 czekan\n ï 12x76 strzalka\n ï efektywny zasieg 60m\n ï szybkostrzelnosc 55 s/m\n ï pojemnosc magazynka 7 nabojow\nDodatki:\n ï Celownik optyczny ---\n ï Tlumik ---\n ï Granatnik podlufowy ---\n Gladkolufowa strzelba Remington 870 ´Marine Magnumª zostala wyprodukowana przez firme Remington w 1950 roku i odtad jest najczesciej sprzedawana w USA strzelba pompowa. Pierwotnie zaprojektowana jako uniwersalna bron mysliwska, Remington 870 byl i jest produkowana w dziesiatkach modyfikacji o roznych kalibrach i nadaje sie zarowno do celow wojskowych i policyjnych, jak i dla mysliwych i sportowcow, jak rowniez dla samoobrony.</text>
+    <text>Amunicja:\n ï 12x70 úrut\n ï 12x76 czekan\n ï 12x76 strza≥ka\n ï efektywny zasiÍg 60m\n ï szybkostrzelnoúÊ 55 s/m\n ï pojemnoúÊ magazynka 7 nabojÛw\nDodatki:\n ï Celownik optyczny ---\n ï T≥umik ---\n ï Granatnik podlufowy ---\n G≥adkolufowa strzelba Remington 870 ´Marine Magnumª zosta≥a wyprodukowana przez firmÍ Remington w 1950 roku i odtπd jest najczÍúciej sprzedawanπ w USA strzelbπ pompowπ. Pierwotnie zaprojektowana jako uniwersalna broÒ myúliwska, Remington 870 by≥ i jest produkowana w dziesiπtkach modyfikacji o rÛønych kalibrach i nadaje siÍ zarÛwno do celÛw wojskowych i policyjnych, jak i dla myúliwych i sportowcÛw, jak rÛwnieø dla samoobrony.</text>
   </string>
 
    <string id="ars-c96">
     <text>Mauser C-96</text>
   </string>
    <string id="arsenal_mod-c96">
-    <text>Amunicja:\n ï 7,62x25mm zwykly TT\n ï 7,62x25mm ze stalowa kula PS\n ï efektywny zasieg 75m\n ï pojemnosc magazynka 20 nabojow\nDodatki:\n ï standardowa kabura - kolba\n Mauser C-96 ñ wybor stalkera, ktory chce maksymalnie efektywnie wykorzystac swoja najtansza amunicje w sprawie... Raczej, w cialo. Czyjekolwiek. Pistolet jest modyfikowany pod amunicje 7,62x25mm TT. Bron automatyczna, z magazynkiem na dwudziescia nabojow, opracowana w koncu XIX wieku. Pistolet odnosi sie do najlepszych modeli pistoletow automatycznych, dzialanie automatyki oparte jest na wykorzystaniu energii odrzutu lufy przy jej krotkim suwie. Do zalet pistoletu naleza sila, dokladnosc i zasieg strzalu, dobra zywotnosc broni w warunkach bojowych. Do niedostatkow ñ klopotliwe przeladowanie, duza masa i gabaryty.</text>
+    <text>Amunicja:\n ï 7,62x25mm zwyk≥y TT\n ï 7,62x25mm ze stalowπ kulπ PS\n ï efektywny zasiÍg 75m\n ï pojemnoúÊ magazynka 20 nabojÛw\nDodatki:\n ï standardowa kabura - kolba\n Mauser C-96 ñ wybÛr stalkera, ktÛry chce maksymalnie efektywnie wykorzystaÊ swojπ najtaÒszπ amunicjÍ w sprawie... Raczej, w cia≥o. Czyjekolwiek. Pistolet jest modyfikowany pod amunicjÍ 7,62x25mm TT. BroÒ automatyczna, z magazynkiem na dwudzieúcia nabojÛw, opracowana w koÒcu XIX wieku. Pistolet odnosi siÍ do najlepszych modeli pistoletÛw automatycznych, dzia≥anie automatyki oparte jest na wykorzystaniu energii odrzutu lufy przy jej krÛtkim suwie. Do zalet pistoletu naleøπ si≥a, dok≥adnoúÊ i zasiÍg strza≥u, dobra øywotnoúÊ broni w warunkach bojowych. Do niedostatkÛw ñ k≥opotliwe prze≥adowanie, duøa masa i gabaryty.</text>
   </string>
 
    <string id="ars-c96_priklad">
     <text>Kolba do Mauser C-96</text>
   </string>
    <string id="enc_ars-c96">
-    <text>Zdejmowana kabura ñ kolba do Mauser C96. Kolba znacznie obniza odrzut, podnoszac skutecznosc strzelania.</text>
+    <text>Zdejmowana kabura ñ kolba do Mauser C96. Kolba znacznie obniøa odrzut, podnoszπc skutecznoúÊ strzelania.</text>
   </string>
 
 <string id="enc_arsenal_g18">
-    <text>Amunicja\n ï 9x19mm Parabellum\n ï 9x19mm +P+\n ï efektywny zasieg 75m\n ï pojemnosc magazynka 31 nabojow\n Glock 18 zostal opracowany na bazie pistoletu Glock 17 i odroznia sie przede wszystkim obecnoscia przelacznika trybu ognia, co pozwala prowadzic ogien pojedynczy lub seriami. W tym ostatnim przypadku szybkostrzelnosc teoretyczna wynosi w przyblizeniu 1200 strz/min. Mozliwa jest produkcja modeli strzelajacych seria po 3 strzaly, jak i w trybie calkowicie automatycznym, ale nie w jednym modelu. Bron moze wykorzystywac standardowe magazynki o pojemnosci 19 naboi, jak i magazynki do modelu 17. Sa takze magazynki o pojemnosci 31 naboi. Szereg firm produkuje dla niego dodatkowe akcesoria, w rodzaju skladanej kolby albo specjalnego mocowania, pozwalajacego uzywac zapasowego magazynka w charakterze przedniej rekojesci.</text>
+    <text>Amunicja\n ï 9x19mm Parabellum\n ï 9x19mm +P+\n ï efektywny zasiÍg 75m\n ï pojemnoúÊ magazynka 31 nabojÛw\n Glock 18 zosta≥ opracowany na bazie pistoletu Glock 17 i odrÛønia siÍ przede wszystkim obecnoúciπ prze≥πcznika trybu ognia, co pozwala prowadziÊ ogieÒ pojedynczy lub seriami. W tym ostatnim przypadku szybkostrzelnoúÊ teoretyczna wynosi w przybliøeniu 1200 strz/min. Moøliwa jest produkcja modeli strzelajπcych seriπ po 3 strza≥y, jak i w trybie ca≥kowicie automatycznym, ale nie w jednym modelu. BroÒ moøe wykorzystywaÊ standardowe magazynki o pojemnoúci 19 naboi, jak i magazynki do modelu 17. Sπ takøe magazynki o pojemnoúci 31 naboi. Szereg firm produkuje dla niego dodatkowe akcesoria, w rodzaju sk≥adanej kolby albo specjalnego mocowania, pozwalajπcego uøywaÊ zapasowego magazynka w charakterze przedniej rÍkojeúci.</text>
   </string>
 
         <string id="ars_g18">
@@ -770,31 +770,31 @@
 	</string>
 
 
-           <!-- Idncer -->
+           <!-- ŒÔÚËÍ‡ -->
    <string id="wpn-scope_blaster">
     <text>Celownik optyczny do ´Stanner BS-rLS1.0ª</text>
   </string>
    <string id="enc_weapons1_scope_blaster">
-    <text>Optyka do ´Stanner BS-rLS1.0ª. Przygotowana na zlecenie Strieloka.</text>
+    <text>Optyka do ´Stanner BS-rLS1.0ª. Przygotowana na zlecenie Strie≥oka.</text>
   </string>
 
    <string id="ars-acog">
     <text>Celownik ACOG</text>
   </string>
    <string id="enc_arsenal_acog">
-    <text>4-x krotny celownik optyczny dla karabinow NATO.</text>
+    <text>4-x krotny celownik optyczny dla karabinÛw NATO.</text>
   </string>
 
 
-          <!-- Iiaul Naboje -->
+          <!-- ÕÓ‚˚Â Naboje -->
 	<string id="ammo-7.92x33_name">
-		<text>naboj 7,92x33</text>
+		<text>nabÛj 7,92x33</text>
 	</string>
 	<string id="ammo-7.92x33_description">
-		<text>Posredni naboj kalibru 7,92x33 (Pistolen Patrone 43 m.E.), wyprodukowany w Niemczech w 1944 roku, producent: Metallwarenfabrik Treuenbritzen GmbH, Werk Sebaldushof, oznakowanie: ´hla st 7 44ª, luska stalowa pokryta lakiem, zwykly pocisk ze stalowym rdzeniem w bimetalicznej powloce, luska: Zdh 30/40, oznakowanie: czarny pierscien po obwodzie luski.</text>
+		<text>Poúredni nabÛj kalibru 7,92x33 (Pistolen Patrone 43 m.E.), wyprodukowany w Niemczech w 1944 roku, producent: Metallwarenfabrik Treuenbritzen GmbH, Werk Sebaldushof, oznakowanie: ´hla st 7 44ª, ≥uska stalowa pokryta lakiem, zwyk≥y pocisk ze stalowym rdzeniem w bimetalicznej pow≥oce, ≥uska: Zdh 30/40, oznakowanie: czarny pierúcieÒ po obwodzie ≥uski.</text>
 	</string>
 	<string id="ammo-7.62x54r">
-		<text>Tasma z nabojami 7,62x54</text>
+		<text>Taúma z nabojami 7,62x54</text>
 	</string>
 	<string id="ammo-7.62x54r_s">
 		<text>7,62x54</text>
@@ -810,7 +810,7 @@
 		<text>Akumulator do stannera Fanata.</text>
 	</string>
 	<string id="ammo_blaster_original_description">
-		<text>Akumulator o ogromnej pojemnosci. Nie wiadomo do czego jest wykorzystywany.</text>
+		<text>Akumulator o ogromnej pojemnoúci. Nie wiadomo do czego jest wykorzystywany.</text>
 	</string>
 
 	<string id="ars-7.62x51_fmj">
@@ -826,10 +826,10 @@
 		<text>7.62x51 AP</text>
 	</string>
 	<string id="enc_arsenal_7.62x51_fmj">
-		<text>Amunicja karabinowa standardu NATO. Kaliber ñ 7.62mm. Zwykla pelnometaliczna kula.\n Naboj 7.62x51 NATO, jedne z najpopularniejszych karabinowych i mysliwskich nabojow drugiej polowy 20 wieku, zaczal swoja historie w latach 50-tych, kiedy w ramach programu budowy lekkiego karabinu dla Armii USA opracowano cala linie amunicji pod ogolnym indeksem T65. Pod ten naboj na swiecie produkowano i produkuje sie znaczna ilosc karabinow szturmowych i karabinow maszynowych. W srodku lat 50-tych amerykanska firma Winchester wypuscila komercyjny wariant tego naboju pod oznaczeniem .308 Winchester, obecnie ten naboj jest jednym z najpopularniejszych na swiecie dla mysliwstwa i celowanego strzelania. Obywatelska bron i amunicje w tym kalibrze produkuje sie praktycznie we wszystkich czesciach swiata, gdzie tylko sa zaklady zbrojeniowe.</text>
+		<text>Amunicja karabinowa standardu NATO. Kaliber ñ 7.62mm. Zwyk≥a pe≥nometaliczna kula.\n NabÛj 7.62x51 NATO, jedne z najpopularniejszych karabinowych i myúliwskich nabojÛw drugiej po≥owy 20 wieku, zaczπ≥ swojπ historiÍ w latach 50-tych, kiedy w ramach programu budowy lekkiego karabinu dla Armii USA opracowano ca≥π liniÍ amunicji pod ogÛlnym indeksem T65. Pod ten nabÛj na úwiecie produkowano i produkuje siÍ znacznπ iloúÊ karabinÛw szturmowych i karabinÛw maszynowych. W úrodku lat 50-tych amerykaÒska firma Winchester wypuúci≥a komercyjny wariant tego naboju pod oznaczeniem .308 Winchester, obecnie ten nabÛj jest jednym z najpopularniejszych na úwiecie dla myúliwstwa i celowanego strzelania. Obywatelskπ broÒ i amunicjÍ w tym kalibrze produkuje siÍ praktycznie we wszystkich czÍúciach úwiata, gdzie tylko sπ zak≥ady zbrojeniowe.</text>
 	</string>
 	<string id="enc_arsenal_7.62x51_ap">
-		<text>Karabinowa amunicja standardu NATO. Kaliber ñ 7.62mm. Kula ze stalowym rdzeniem, zwiekszona przebijalnosc.</text>
+		<text>Karabinowa amunicja standardu NATO. Kaliber ñ 7.62mm. Kula ze stalowym rdzeniem, zwiÍkszona przebijalnoúÊ.</text>
 	</string>
 
 	<string id="ammo-12.7x55-fmj">
@@ -845,10 +845,10 @@
 		<text>12.7x55 BPS</text>
 	</string>
 	<string id="enc_weapons1_ammo-12.7x55-fmj">
-		<text>Naboje 12.7x55mm SC-130 PT ñ podwyzszonej celnosci z powlekana kula od naboju 7N34.\n Naboje 12.7x55mm serii SC-130 naleza do segmentu elitarnej, dosyc kosztownej amunicji. Przeznaczone do niszczenia sily zywej przeciwnika (w tej liczbie bronionej przez indywidualne srodki kuloodporne), lekkoopancerzonej i nieopancerzonej techniki w zasiegu do 600 metrow.\n Stosowane w karabinie snajperskim WSSK ´Wydechª i karabinie szturmowym ASZ-12.</text>
+		<text>Naboje 12.7x55mm SC-130 PT ñ podwyøszonej celnoúci z powlekanπ kulπ od naboju 7N34.\n Naboje 12.7x55mm serii SC-130 naleøπ do segmentu elitarnej, dosyÊ kosztownej amunicji. Przeznaczone do niszczenia si≥y øywej przeciwnika (w tej liczbie bronionej przez indywidualne úrodki kuloodporne), lekkoopancerzonej i nieopancerzonej techniki w zasiÍgu do 600 metrÛw.\n Stosowane w karabinie snajperskim WSSK ´Wydechª i karabinie szturmowym ASZ-12.</text>
 	</string>
 	<string id="enc_weapons1_ammo-12.7x55-ap">
-		<text>Naboje 12.7x55mm SC-130 BPS ñ podwyzszonej zdolnosci pzrebijania z przeciwpancerna kula z podwojnym rdzeniem.\n 12.7x55mm SC-130 ñ rosyjska amunicja karabinowa, opracowana w CKIB SOO dla bezglosnego i bezblyskowego razenia bronionych celow i sily zywej w ciezkich kamizelkach kuloodpornych w zasiegu do 600 metrow. Amunicja korzysta z specjalnie wytworzonej odwazonej kuli i stosunkowo krotkiej luski o cylindrycznej formie, dlugosci 55 mm, ktorych potencjalu energetycznego wystarcza tylko na poddzwiekowy strzal.\n Stosowane w karabinie snajperskim WSSK ´Wydechª i karabinie szturmowym ASZ-12.</text>
+		<text>Naboje 12.7x55mm SC-130 BPS ñ podwyøszonej zdolnoúci pzrebijania z przeciwpancernπ kulπ z podwÛjnym rdzeniem.\n 12.7x55mm SC-130 ñ rosyjska amunicja karabinowa, opracowana w CKIB SOO dla bezg≥oúnego i bezb≥yskowego raøenia bronionych celÛw i si≥y øywej w ciÍøkich kamizelkach kuloodpornych w zasiÍgu do 600 metrÛw. Amunicja korzysta z specjalnie wytworzonej odwaøonej kuli i stosunkowo krÛtkiej ≥uski o cylindrycznej formie, d≥ugoúci 55 mm, ktÛrych potencja≥u energetycznego wystarcza tylko na poddüwiÍkowy strza≥.\n Stosowane w karabinie snajperskim WSSK ´Wydechª i karabinie szturmowym ASZ-12.</text>
 	</string>
 
 	<string id="ammo-7.62x25-p">
@@ -866,10 +866,10 @@
 	</string>
 
 	<string id="enc_weapons1_ammo_ammo-7.62x25-p">
-		<text>Standardowy naboj pistoletowy dla pistoletu TT-33 i PPSZ-41. Zwykly rdzen, powlekana kula.</text>
+		<text>Standardowy nabÛj pistoletowy dla pistoletu TT-33 i PPSZ-41. Zwyk≥y rdzeÒ, powlekana kula.</text>
 	</string>
 	<string id="enc_weapons1_ammo_ammo-7.62x25-ps">
-		<text>Naboj wyposazony w kule ze stalowym rdzeniem, dla pistoletu TT-33 i PPSZ-41. Zwiekszona zdolnosc przebijania kuli.</text>
+		<text>NabÛj wyposaøony w kulÍ ze stalowym rdzeniem, dla pistoletu TT-33 i PPSZ-41. ZwiÍkszona zdolnoúÊ przebijania kuli.</text>
 	</string>
 
 	<string id="ars-ammo_93x64_ap">
@@ -879,7 +879,7 @@
 		<text>9.3x64 Br.</text>
 	</string>
 	<string id="enc_arsenal_ammo_93x64_ap">
-		<text>Naboj kalibru 9.3x64mm zostal opracowany w Niemczech, w 1910 roku, pzrez niemieckiego konstruktora Wilhelma Brenneke. Stal sie najpotezniejszym nabojem w Europie z grupy 9-milimetrow.\n Dany naboj wykorzystuje sie w strzelbach mysliwskich dla polowania na duzego zwierza (bawola, slonia, nosorozca, hipopotama). Optymalny dystans strzalu tej amunicji to 160 m. Po 300 m ciezka kula zaczyna szybko opadac.\n Do Drugiej Wojny Swiatowej byla to najpotezniejsza amunicja karabinowa w kontynentalnej Europie i reklamowala sie jako ´amunicja na kazde zwierze na Ziemiª.</text>
+		<text>NabÛj kalibru 9.3x64mm zosta≥ opracowany w Niemczech, w 1910 roku, pzrez niemieckiego konstruktora Wilhelma Brenneke. Sta≥ siÍ najpotÍøniejszym nabojem w Europie z grupy 9-milimetrÛw.\n Dany nabÛj wykorzystuje siÍ w strzelbach myúliwskich dla polowania na duøego zwierza (bawo≥a, s≥onia, nosoroøca, hipopotama). Optymalny dystans strza≥u tej amunicji to 160 m. Po 300 m ciÍøka kula zaczyna szybko opadaÊ.\n Do Drugiej Wojny åwiatowej by≥a to najpotÍøniejsza amunicja karabinowa w kontynentalnej Europie i reklamowa≥a siÍ jako ´amunicja na kaøde zwierzÍ na Ziemiª.</text>
         </string>
 
 	<string id="ars-ammo_93x64_sp">
@@ -889,16 +889,16 @@
 		<text>9.3x64 (7N33)</text>
 	</string>
 	<string id="enc_arsenal_ammo_93x64_sp">
-		<text>Snajperski naboj 9.3x64mm (ind. 7N33) z mosiezna luska, posiada kule ze stalowym rdzeniem, masa 16,6 g, z predkoscia poczatkowa 785-800 m/s i energia 4920 Dzuli, stworzono na bazie mysliwskiego naboju 9.3x64mm Brenneke. Pod niego zas zostal opracowany karabin SWDK: karabin snajperski Dragunowa wielkokalibrowy. Dany naboj z racji swojej nowosci i waskiego zastosowaania, jest na razie bardzo rzadki.</text>
+		<text>Snajperski nabÛj 9.3x64mm (ind. 7N33) z mosiÍønπ ≥uskπ, posiada kulÍ ze stalowym rdzeniem, masπ 16,6 g, z prÍdkoúciπ poczπtkowπ 785-800 m/s i energiπ 4920 Døuli, stworzono na bazie myúliwskiego naboju 9.3x64mm Brenneke. Pod niego zaú zosta≥ opracowany karabin SWDK: karabin snajperski Dragunowa wielkokalibrowy. Dany nabÛj z racji swojej nowoúci i wπskiego zastosowaania, jest na razie bardzo rzadki.</text>
         </string>
 	<string id="ars-glock_17">
 		<text>Glock-17</text>
 	</string>
 	<string id="enc_arsenal_glock_17">
-		<text>Amunicja:\n ï 9x19mm Parabellum\n ï 9x19mm +P+\n ï efektywny zasieg 75m\n ï pojemnosc magazynka 17 nabojow\nGlock 17 jest bronia, ktora zostala stworzona na potrzeby austriackiej armii. Wielu ludzi nazywa go Ñpistoletem XXI wiekuî. Zostal on wykonany ze stali, ale rowniez z innych komponentow. Materialy, o ktorych mowa, sa o wiele lzejsze i bardziej wytrzymale niz wspomniana wyzej stal. Lekkie polimery, z ktorych wykonany jest szkielet broni byly przyczyna powstania opowiastek o Ñpistolecie zrobionym z plastikuî. Tworzywa sztuczne zostaly wykorzystane do budowy : szkieletu broni z uchwytem, korpusu magazynka i jego podajnika, jezyka spustowego oraz osi prowadnicy sprezyny powrotnej. Zas lufa, zamek, sprezyny, kolki itp. sa wysokiej jakosci stala.</text>
+		<text>Amunicja:\n ï 9x19mm Parabellum\n ï 9x19mm +P+\n ï efektywny zasiÍg 75m\n ï pojemnoúÊ magazynka 17 nabojÛw\nGlock 17 jest broniπ, ktÛra zosta≥a stworzona na potrzeby austriackiej armii. Wielu ludzi nazywa go Ñpistoletem XXI wiekuî. Zosta≥ on wykonany ze stali, ale rÛwnieø z innych komponentÛw. Materia≥y, o ktÛrych mowa, sπ o wiele løejsze i bardziej wytrzyma≥e niø wspomniana wyøej stal. Lekkie polimery, z ktÛrych wykonany jest szkielet broni by≥y przyczynπ powstania opowiastek o Ñpistolecie zrobionym z plastikuî. Tworzywa sztuczne zosta≥y wykorzystane do budowy : szkieletu broni z uchwytem, korpusu magazynka i jego podajnika, jÍzyka spustowego oraz osi prowadnicy sprÍøyny powrotnej. Zaú lufa, zamek, sprÍøyny, ko≥ki itp. sπ wysokiej jakoúci stalπ.</text>
 	</string>
 	<string id="enc_weapons1_wpn-ppsh">
-		<text>Amunicja:\n ï 7,62x25 mm TT\n ï efektywny zasieg 250m\n ï odleglosc celowania 400m\n ï szybkostrzelnosc 900 s/m\n ï pojemnosc magazynka 71 nabojow\nSowietski pistolet maszynowy opracowany w 1940 roku przez konstruktora G. S. Szpagina pod amunicje 7,62x25 mm TT i przyjety na uzbrojenie Armii Czerwonej 21 grudnia 1940 roku. PPSz razem z PPS-43 byl podstawowym pistoletem maszynowym radzieckich Sil Zbrojnych podczas II Wojny Swiatowej</text>
+		<text>Amunicja:\n ï 7,62x25 mm TT\n ï efektywny zasiÍg 250m\n ï odleg≥oúÊ celowania 400m\n ï szybkostrzelnoúÊ 900 s/m\n ï pojemnoúÊ magazynka 71 nabojÛw\nSowietski pistolet maszynowy opracowany w 1940 roku przez konstruktora G. S. Szpagina pod amunicjÍ 7,62x25 mm TT i przyjÍty na uzbrojenie Armii Czerwonej 21 grudnia 1940 roku. PPSz razem z PPS-43 by≥ podstawowym pistoletem maszynowym radzieckich Si≥ Zbrojnych podczas II Wojny åwiatowej</text>
 	</string>
 
 

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
   <string id="mp_art_destroyed">
-    <text>Artefakt zostal zniszczony.</text>
+    <text>Artefakt został zniszczony.</text>
   </string>
   <string id="mp_art_spowned">
-    <text>Powstal artefakt. Zanies go do bazy, zeby zdobyc punkt.</text>
+    <text>Powstał artefakt. Zanieś go do bazy, żeby zdobyć punkt.</text>
   </string>
   <string id="mp_artefacts">
     <text>Artefakty</text>
@@ -13,7 +13,7 @@
     <text>Artefakty</text>
   </string>
   <string id="mp_auto_select">
-    <text>Autowybor</text>
+    <text>Autowybór</text>
   </string>
   <string id="mp_back">
     <text>Wstecz</text>
@@ -22,37 +22,37 @@
     <text>Zbanuj</text>
   </string>
   <string id="mp_by_anomaly">
-    <text>Przez anomalie</text>
+    <text>Przez anomalię</text>
   </string>
   <string id="mp_cancel">
     <text>Anuluj</text>
   </string>
   <string id="mp_change_map">
-    <text>Zmien mape</text>
+    <text>Zmień mapę</text>
   </string>
   <string id="mp_change_weather">
-    <text>Zmien pogode</text>
+    <text>Zmień pogodę</text>
   </string>
   <string id="mp_chat">
     <text>Rozmowa</text>
   </string>
   <string id="mp_connected">
-    <text>polaczony</text>
+    <text>połączony</text>
   </string>
   <string id="mp_deaths">
-    <text>Smierci</text>
+    <text>Śmierci</text>
   </string>
   <string id="mp_description">
     <text>Opis</text>
   </string>
   <string id="mp_disconnected">
-    <text>rozlaczony</text>
+    <text>rozłączony</text>
   </string>
   <string id="mp_enter_text">
-    <text>Wprowadz tekst do glosowania</text>
+    <text>Wprowadź tekst do głosowania</text>
   </string>
   <string id="mp_entered_game">
-    <text>wlacza sie do gry</text>
+    <text>włącza się do gry</text>
   </string>
   <string id="mp_first_eye">
     <text>(widok z pierwszej osoby)</text>
@@ -73,7 +73,7 @@
     <text>z</text>
   </string>
   <string id="mp_go">
-    <text>JUZ!</text>
+    <text>JUŻ!</text>
   </string>
   <string id="mp_has_drop_art">
     <text>upuszcza artefakt: %s</text>
@@ -88,10 +88,10 @@
     <text>jest teraz</text>
   </string>
   <string id="mp_joined">
-    <text>dolacza</text>
+    <text>dołącza</text>
   </string>
   <string id="mp_kick">
-    <text>Wyrzuc</text>
+    <text>Wyrzuć</text>
   </string>
   <string id="mp_look_at">
     <text>(Wolny widok)</text>
@@ -100,19 +100,19 @@
     <text>Opis mapy</text>
   </string>
   <string id="mp_match_started">
-    <text>Rozpoczal sie mecz</text>
+    <text>Rozpoczął się mecz</text>
   </string>
   <string id="mp_modes">
     <text>Tryby</text>
   </string>
   <string id="mp_name">
-    <text>Imie</text>
+    <text>Imię</text>
   </string>
   <string id="mp_next">
     <text>Dalej</text>
   </string>
   <string id="mp_no_voted">
-    <text>nie glosowali</text>
+    <text>nie głosowali</text>
   </string>
   <string id="mp_ping">
     <text>Ping</text>
@@ -124,58 +124,58 @@
     <text>Gracze</text>
   </string>
   <string id="mp_press_fire2spectator">
-    <text>Wcisnij "strzal", zeby przelaczyc sie w tryb widza</text>
+    <text>Wciśnij "strzał", żeby przełączyć się w tryb widza</text>
   </string>
   <string id="mp_press_jump2pay_spaw">
-    <text>Wcisnij "skok", zeby kupic natychmiastowe odrodzenie</text>
+    <text>Wciśnij "skok", żeby kupić natychmiastowe odrodzenie</text>
   </string>
   <string id="mp_press_jump2select_skin">
-    <text>Wcisnij "skok", zeby wybrac skorke</text>
+    <text>Wciśnij "skok", żeby wybrać skórkę</text>
   </string>
   <string id="mp_press_jump2select_team">
-    <text>Wcisnij "skok", zeby wybrac druzyny</text>
+    <text>Wciśnij "skok", żeby wybrać drużyny</text>
   </string>
   <string id="mp_press_jump2spawn">
-    <text>Wcisnij "skok", zeby sie odrodzic</text>
+    <text>Wciśnij "skok", żeby się odrodzić</text>
   </string>
   <string id="mp_press_jump2start">
-    <text>Wcisnij "skok", zeby rozpoczac</text>
+    <text>Wciśnij "skok", żeby rozpocząć</text>
   </string>
   <string id="mp_press_to_buy">
-    <text>Wcisnij ($$ACTION_BUY_MENU$$), zeby otworzyc menu handlu</text>
+    <text>Wciśnij ($$ACTION_BUY_MENU$$), żeby otworzyć menu handlu</text>
   </string>
   <string id="mp_press_yes2pay">
-    <text>Masz %d$. Mozesz kupic odrodzenie za %d$. Kliknij "tak", zeby zaplacic.</text>
+    <text>Masz %d$. Możesz kupić odrodzenie za %d$. Kliknij "tak", żeby zapłacić.</text>
   </string>
   <string id="mp_ready">
     <text>Gotowy...</text>
   </string>
   <string id="mp_restart">
-    <text>Ponowne rozpoczecie</text>
+    <text>Ponowne rozpoczęcie</text>
   </string>
   <string id="mp_restart_fast">
-    <text>Szybkie ponowne rozpoczecie</text>
+    <text>Szybkie ponowne rozpoczęcie</text>
   </string>
   <string id="mp_scores">
     <text>: frakcja zdobywa punkt</text>
   </string>
   <string id="mp_select_ban">
-    <text>Wybierz gracza, ktory w glosowaniu ma zostac zbanowany</text>
+    <text>Wybierz gracza, który w głosowaniu ma zostać zbanowany</text>
   </string>
   <string id="mp_select_category">
-    <text>Wybierz kategorie glosowania</text>
+    <text>Wybierz kategorię głosowania</text>
   </string>
   <string id="mp_select_kick">
-    <text>Wybierz gracza, ktory w glosowaniu ma zostac wyrzucony</text>
+    <text>Wybierz gracza, który w głosowaniu ma zostać wyrzucony</text>
   </string>
   <string id="mp_select_kick_player">
-    <text>Wybierz gracza, ktory w glosowaniu ma zostac wyrzucony</text>
+    <text>Wybierz gracza, który w głosowaniu ma zostać wyrzucony</text>
   </string>
   <string id="mp_select_map">
-    <text>Wybierz mape do glosowania</text>
+    <text>Wybierz mapę do głosowania</text>
   </string>
   <string id="mp_skin_selection">
-    <text>Wybor skorki</text>
+    <text>Wybór skórki</text>
   </string>
   <string id="mp_spectator">
     <text>Widz</text>
@@ -187,16 +187,16 @@
     <text>Status</text>
   </string>
   <string id="mp_switched_to">
-    <text>przelacza sie do</text>
+    <text>przełącza się do</text>
   </string>
   <string id="mp_team_free_stalkers">
-    <text>Wolnosc</text>
+    <text>Wolność</text>
   </string>
   <string id="mp_team_selection">
-    <text>Wybor druzyny</text>
+    <text>Wybór drużyny</text>
   </string>
   <string id="mp_team_wins">
-    <text>Druzyna %s WYGRYWA!</text>
+    <text>Drużyna %s WYGRYWA!</text>
   </string>
   <string id="mp_text">
     <text>Tekst</text>
@@ -205,10 +205,10 @@
     <text>Czas do odrodzenia</text>
   </string>
   <string id="mp_time2start">
-    <text>Czas do rozpoczecia:</text>
+    <text>Czas do rozpoczęcia:</text>
   </string>
   <string id="mp_timeleft">
-    <text>Pozostaly czas: %d:%d; Zgoda %.2f</text>
+    <text>Pozostały czas: %d:%d; Zgoda %.2f</text>
   </string>
   <string id="mp_vote_no">
     <text>Nie</text>
@@ -217,7 +217,7 @@
     <text>Tak</text>
   </string>
   <string id="mp_voted">
-    <text>glosowalo</text>
+    <text>głosowało</text>
   </string>
   <string id="mp_voted_no">
     <text>przeciw</text>
@@ -226,13 +226,13 @@
     <text>za</text>
   </string>
   <string id="mp_voting_broken">
-    <text>Glosowanie anulowane przez serwer!</text>
+    <text>Głosowanie anulowane przez serwer!</text>
   </string>
   <string id="mp_voting_started">
-    <text>%s glosowanie rozpoczyna '%s'.</text>
+    <text>%s głosowanie rozpoczyna '%s'.</text>
   </string>
   <string id="mp_voting_started_msg">
-    <text>Glosowanie sie rozpoczelo!</text>
+    <text>Głosowanie się rozpoczęło!</text>
   </string>
   <string id="mp_weather_clear">
     <text>Bezchmurnie</text>
@@ -250,16 +250,16 @@
     <text>Trafiony w plecy!!!</text>
   </string>
   <string id="mp_with_headshot">
-    <text>Strzal w glowe!!!</text>
+    <text>Strzał w głowę!!!</text>
   </string>
   <string id="mp_your_rank">
-    <text>Masz teraz range</text>
+    <text>Masz teraz rangę</text>
   </string>
   <string id="ui_st_description">
     <text>Opis</text>
   </string>
   <string id="ui_st_team1_name">
-    <text>Wolnosc</text>
+    <text>Wolność</text>
   </string>
   <string id="ui_st_team2_name">
     <text>Najemnicy</text>
@@ -274,10 +274,10 @@
     <text>Sojusznik</text>
   </string>
   <string id="team_base_1">
-    <text>Baza "Wolnosci"</text>
+    <text>Baza "Wolności"</text>
   </string>
   <string id="team_base_2">
-    <text>Baza najemnikow</text>
+    <text>Baza najemników</text>
   </string>
   <string id="mp_si_no">
     <text>Nie</text>
@@ -292,16 +292,16 @@
     <text>sek.</text>
   </string>
   <string id="mp_si_maprotation">
-    <text>Obrot mapy</text>
+    <text>Obrót mapy</text>
   </string>
   <string id="mp_si_voting">
-    <text>Glosowanie</text>
+    <text>Głosowanie</text>
   </string>
   <string id="mp_si_enabled">
-    <text>Wlaczone</text>
+    <text>Włączone</text>
   </string>
   <string id="mp_si_disabled">
-    <text>Wylaczone</text>
+    <text>Wyłączone</text>
   </string>
   <string id="mp_si_spectatormodes">
     <text>Tryby widza:</text>
@@ -325,22 +325,22 @@
     <text>- Swobodna kamera</text>
   </string>
   <string id="mp_si_team_only">
-    <text>- Tylko dla druzyny</text>
+    <text>- Tylko dla drużyny</text>
   </string>
   <string id="mp_si_fraglimit">
-    <text>Limit fragow</text>
+    <text>Limit fragów</text>
   </string>
   <string id="mp_si_time_limit">
     <text>Limit czasu</text>
   </string>
   <string id="mp_si_invinsibility_indicators">
-    <text>- Wskazniki</text>
+    <text>- Wskaźniki</text>
   </string>
   <string id="mp_si_invinsibility_time">
     <text>- Time</text>
   </string>
   <string id="mp_si_invinsibility">
-    <text>Niesmiertelnosc</text>
+    <text>Nieśmiertelność</text>
   </string>
   <string id="mp_si_anomalies">
     <text>Anomalie</text>
@@ -349,7 +349,7 @@
     <text>Czas trwania anomalii</text>
   </string>
   <string id="mp_si_infinite">
-    <text>Nieskonczony</text>
+    <text>Nieskończony</text>
   </string>
   <string id="mp_si_forcerespawn">
     <text>Wymuszone odrodzenie</text>
@@ -358,19 +358,19 @@
     <text>Rozgrzewka</text>
   </string>
   <string id="mp_si_autoteam_balance">
-    <text>Automatyczny balans druzyn</text>
+    <text>Automatyczny balans drużyn</text>
   </string>
   <string id="mp_si_autoteam_swap">
-    <text>Automatyczna zmiana druzyny</text>
+    <text>Automatyczna zmiana drużyny</text>
   </string>
   <string id="mp_si_friendly_indicators">
-    <text>Wskazniki sojusznikow</text>
+    <text>Wskaźniki sojuszników</text>
   </string>
   <string id="mp_si_friendly_names">
-    <text>Nicki sojusznikow</text>
+    <text>Nicki sojuszników</text>
   </string>
   <string id="mp_si_friendly_fire">
-    <text>Obrazenia od sojusznikow</text>
+    <text>Obrażenia od sojuszników</text>
   </string>
   <string id="mp_si_artefacts">
     <text>Artefakty:</text>
@@ -397,7 +397,7 @@
     <text>Bazy chronione</text>
   </string>
   <string id="mp_si_return_players">
-    <text>Gracze wrocili do baz</text>
+    <text>Gracze wrócili do baz</text>
   </string>
   <string id="mp_si_afbearer_cant_sprint">
     <text>Bez sprintu z artefaktem</text>

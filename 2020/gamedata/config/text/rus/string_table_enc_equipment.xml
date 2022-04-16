@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 <string id="dinhud_gasmask_text">
-		<text>Nie mozna korzystac z maski przeciwgazowej w tym pancerzu.</text>
+		<text>Nie można korzystać z maski przeciwgazowej w tym pancerzu.</text>
 	</string>
 <string id="af_maska_1">
 		<text>Maska przeciwgazowa</text>
 	</string>
 		<string id="enc_zone_af_maska_1">
-		<text>Zwykla maska przeciwgazowa, jakie w duzych ilosciach produkowano we wszystkich bylych republikach ZSSR. Do tej pory miliony takich masek jest przechowywane w magazynach. Artykul pierwszej potrzeby dla nowicjusza w Zonie. Chroni organy oddychania przed promieniotworczym pylem, szkodliwymi gazami, oparami i bakteriami w powietrzu. Bieganie sprintem w masce przeciwgazowej nie jest zalecane.</text>
+		<text>Zwykła maska przeciwgazowa, jakie w dużych ilościach produkowano we wszystkich byłych republikach ZSSR. Do tej pory miliony takich masek jest przechowywane w magazynach. Artykuł pierwszej potrzeby dla nowicjusza w Zonie. Chroni organy oddychania przed promieniotwórczym pyłem, szkodliwymi gazami, oparami i bakteriami w powietrzu. Bieganie sprintem w masce przeciwgazowej nie jest zalecane.</text>
 	</string>
 	<string id="af_maska_2">
 		<text>Nowoczesna maska przeciwgazowa</text>
 	</string>
 		<string id="enc_zone_af_maska_2">
-		<text>Nowoczesna maska przeciwgazowa. Chroni organy oddychania przed promieniotworczym pylem, szkodliwymi gazami, oparami i bakteriami w powietrzu. Dzieki nowoczesnym technologiom daje lepsza ochrone przy mniejszym oporze w oddychaniu.</text>
+		<text>Nowoczesna maska przeciwgazowa. Chroni organy oddychania przed promieniotwórczym pyłem, szkodliwymi gazami, oparami i bakteriami w powietrzu. Dzięki nowoczesnym technologiom daje lepszą ochronę przy mniejszym oporze w oddychaniu.</text>
 	</string>
 	<string id="Antirad">
 		<text>Leki przeciwpromienne</text>
 	</string>
 	<string id="Arm-heavy">
-		<text>Ciezki sprzet stalkera</text>
+		<text>Ciężki sprzęt stalkera</text>
 	</string>
 	<string id="Arm-light">
-		<text>Lekki sprzet stalkera</text>
+		<text>Lekki sprzęt stalkera</text>
 	</string>
 	<string id="Arm-medium">
-		<text>Sredni sprzet stalkera</text>
+		<text>Średni sprzęt stalkera</text>
 	</string>
 	<string id="bandage">
-		<text>Bandaze</text>
+		<text>Bandaże</text>
 	</string>
 	<string id="Binocul">
 		<text>Lornetka</text>
@@ -37,13 +37,13 @@
 		<text>Chleb</text>
 	</string>
 	<string id="cit_deadcity_maps_desc">
-		<text>Szczegolowy plan Martwego Miasta z zaznaczonymi pozycjami najemnikow</text>
+		<text>Szczegółowy plan Martwego Miasta z zaznaczonymi pozycjami najemników</text>
 	</string>
 	<string id="cit_deadcity_maps_name">
 		<text>Plan Martwego Miasta</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>Nalezacy do Doktora klucz do schowka w Prypeci</text>
+		<text>Należący do Doktora klucz do schowka w Prypeci</text>
 	</string>
 	<string id="cit_doctors_key_short_desc">
 		<text>Klucz Doktora</text>
@@ -55,7 +55,7 @@
 		<text>Detektor anomalii</text>
 	</string>
 	<string id="Devic">
-		<text>Przyrzady i urzadzenia</text>
+		<text>Przyrządy i urządzenia</text>
 	</string>
 	<string id="device-PDA">
 		<text>PDA</text>
@@ -64,76 +64,76 @@
 		<text>Latarka</text>
 	</string>
 	<string id="enc_equipment_armors_arm-heavy">
-		<text>Kombinezon ochronny. Waga: 18 kg. Szczegoly: chroni cialo przed obrazeniami fizycznymi, Galareta, Klujacym Puchem oraz wiekszoscia innych anomalii. Klatka piersiowa i plecy chronione sa przez wbudowane biometaliczne plyty. Kombinezon jest wyposazony we wzmocniony, hermetyczny helm z plastiku i dwie butle z tlenem. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
+		<text>Kombinezon ochronny. Waga: 18 kg. Szczegóły: chroni ciało przed obrażeniami fizycznymi, Galaretą, Kłującym Puchem oraz większością innych anomalii. Klatka piersiowa i plecy chronione są przez wbudowane biometaliczne płyty. Kombinezon jest wyposażony we wzmocniony, hermetyczny hełm z plastiku i dwie butle z tlenem. Uwaga: w czasie długotrwałej eksploatacji kombinezon niszczy się i stopniowo przestaje się nadawać do użytku.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-light">
-		<text>Kombinezon ochronny. Waga: 8 kg. Szczegoly: chroni cialo przed slabymi anomaliami i obrazeniami fizycznymi. Wyposazony w maske tlenowa. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
+		<text>Kombinezon ochronny. Waga: 8 kg. Szczegóły: chroni ciało przed słabymi anomaliami i obrażeniami fizycznymi. Wyposażony w maskę tlenową. Uwaga: w czasie długotrwałej eksploatacji kombinezon niszczy się i stopniowo przestaje się nadawać do użytku.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-medium">
-		<text>Kombinezon ochronny. Waga: 12 kg. Szczegoly: chroni cialo przed obrazeniami fizycznymi, Galareta, Klujacym Puchem oraz wieloma innymi anomaliami. Wyposazony w hermetyczny plastikowy helm i butle z tlenem. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
+		<text>Kombinezon ochronny. Waga: 12 kg. Szczegóły: chroni ciało przed obrażeniami fizycznymi, Galaretą, Kłującym Puchem oraz wieloma innymi anomaliami. Wyposażony w hermetyczny plastikowy hełm i butlę z tlenem. Uwaga: w czasie długotrwałej eksploatacji kombinezon niszczy się i stopniowo przestaje się nadawać do użytku.</text>
 	</string>
 	<string id="enc_equipment_armors_sci2">
-		<text>Czerwony kombinezon cisnieniowy z hermetycznym helmem. Waga: 11 kg. Szczegoly: Chroni cialo przed ogniem, kwasem, toksycznym gazem, roznymi anomaliami (m.in. Klujacym Puchem) i obrazeniami fizycznymi. Wyposazony w dwie butle z tlenem. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
+		<text>Czerwony kombinezon ciśnieniowy z hermetycznym hełmem. Waga: 11 kg. Szczegóły: Chroni ciało przed ogniem, kwasem, toksycznym gazem, różnymi anomaliami (m.in. Kłującym Puchem) i obrażeniami fizycznymi. Wyposażony w dwie butle z tlenem. Uwaga: w czasie długotrwałej eksploatacji kombinezon niszczy się i stopniowo przestaje się nadawać do użytku.</text>
 	</string>
 	<string id="enc_equipment_devic_binocul1">
 		<text>Wojskowa lornetka polowa.</text>
 	</string>
 	<string id="enc_equipment_devic_detect1">
-		<text>Urzadzenie sluzace do wykrywania pol anomalii i zaklocen. W razie ich wykrycia wydaje sygnal dzwiekowy. Zeby sprawnie funkcjonowalo, nalezy je przymocowac do pasa i wlaczyc.</text>
+		<text>Urządzenie służące do wykrywania pól anomalii i zakłóceń. W razie ich wykrycia wydaje sygnał dźwiękowy. Żeby sprawnie funkcjonowało, należy je przymocować do pasa i włączyć.</text>
 	</string>
 	<string id="enc_equipment_devic_device-PDA1">
-		<text>Kieszonkowy komputer osobisty - niezbedna rzecz w Zonie.</text>
+		<text>Kieszonkowy komputer osobisty - niezbędna rzecz w Zonie.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1">
-		<text>Mocna latarka. Bardzo przydatna na niedostatecznie oswietlonym terenie.</text>
+		<text>Mocna latarka. Bardzo przydatna na niedostatecznie oświetlonym terenie.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1_m1">
-		<text>Mocna latarka. Dzieki unowoczesnionemu transformatorowi skrocony zostal czas ladowania baterii.</text>
+		<text>Mocna latarka. Dzięki unowocześnionemu transformatorowi skrócony został czas ładowania baterii.</text>
 	</string>
 	<string id="enc_equipment_energydrink">
-		<text>To wspanialy napoj energetyzujacy, zawierajacy kofeine, tauryne oraz mieszanke odzywczych witamin. Tego wlasnie ci trzeba, gdy braknie sil, by ruszyc w dalsza droge.</text>
+		<text>To wspaniały napój energetyzujący, zawierający kofeinę, taurynę oraz mieszankę odżywczych witamin. Tego właśnie ci trzeba, gdy braknie sił, by ruszyć w dalszą drogę.</text>
 	</string>
 	<string id="enc_equipment_food_bread1">
-		<text>Ciezko stwierdzic, komu sie udaje piec ten chleb w Zonie, ale nie jest skazony i jak najbardziej nadaje sie do spozycia. Przynajmniej zaden ze stalkerow na niego nie psioczyl.</text>
+		<text>Ciężko stwierdzić, komu się udaje piec ten chleb w Zonie, ale nie jest skażony i jak najbardziej nadaje się do spożycia. Przynajmniej żaden ze stalkerów na niego nie psioczył.</text>
 	</string>
 	<string id="enc_equipment_food_conserva1">
-		<text>Konserwy zabrane przez stalkerow z wojskowego magazynu. Termin przydatnosci do spozycia jeszcze nie minal.</text>
+		<text>Konserwy zabrane przez stalkerów z wojskowego magazynu. Termin przydatności do spożycia jeszcze nie minął.</text>
 	</string>
 	<string id="enc_equipment_food_kolbasa1">
-		<text>Dietetyczna kielbasa zrobiona z mieszanki kurczaka i soi czesto jest dla stalkera - z braku innych mozliwosci - sniadaniem, obiadem i kolacja w jednym.</text>
+		<text>Dietetyczna kiełbasa zrobiona z mieszanki kurczaka i soi często jest dla stalkera - z braku innych możliwości - śniadaniem, obiadem i kolacją w jednym.</text>
 	</string>
 	<string id="enc_equipment_food_vodka1">
-		<text>Wodka wyprodukowana przez wytwornie GSC. Dobrze wchodzi i znacznie zmniejsza skutki promieniowania, ale z oczywistych wzgledow powinno sie jej uzywac z umiarem.</text>
+		<text>Wódka wyprodukowana przez wytwórnię GSC. Dobrze wchodzi i znacznie zmniejsza skutki promieniowania, ale z oczywistych względów powinno się jej używać z umiarem.</text>
 	</string>
 	<string id="enc_equipment_medi_antirad1">
-		<text>Zmniejszaja skutki promieniowania.</text>
+		<text>Zmniejszają skutki promieniowania.</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
-		<text>Bandaze. Pomagaja zatrzymac krwawienie.</text>
+		<text>Bandaże. Pomagają zatrzymać krwawienie.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
-		<text>Uniwersalna apteczka. Uzywana do leczenia roznego typu obrazen - ran, oparzen, zatruc, itd.</text>
+		<text>Uniwersalna apteczka. Używana do leczenia różnego typu obrażeń - ran, oparzeń, zatruć, itd.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
-		<text>Specjalistyczny zestaw medyczny pomocny w leczeniu obrazen fizycznych i zapobieganiu utracie krwi. W jego sklad wchodzi preparat zwiekszajacy krzepliwosc krwi, antybiotyki, stymulator ukladu odpornosciowego oraz leki przeciwbolowe.</text>
+		<text>Specjalistyczny zestaw medyczny pomocny w leczeniu obrażeń fizycznych i zapobieganiu utracie krwi. W jego skład wchodzi preparat zwiększający krzepliwość krwi, antybiotyki, stymulator układu odpornościowego oraz leki przeciwbólowe.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit3">
-		<text>Zestaw medyczny stworzony specjalnie dla Zony. W jego sklad wchodza srodki do opatrywania i leczenia ran oraz do oczyszczania organizmu z radionuklidow. Zapobiega rozwojowi chorob popromiennych i obniza stopien napromieniowania.</text>
+		<text>Zestaw medyczny stworzony specjalnie dla Zony. W jego skład wchodzą środki do opatrywania i leczenia ran oraz do oczyszczania organizmu z radionuklidów. Zapobiega rozwojowi chorób popromiennych i obniża stopień napromieniowania.</text>
 	</string>
 	<string id="energy_drink_name">
-		<text>Napoj energetyczny "Non Stop"</text>
+		<text>Napój energetyczny "Non Stop"</text>
 	</string>
 	<string id="energy_drink_short_name">
-		<text>Napoj energetyczny "Non Stop"</text>
+		<text>Napój energetyczny "Non Stop"</text>
 	</string>
 	<string id="Equipment">
-		<text>Sprzet i prowiant</text>
+		<text>Sprzęt i prowiant</text>
 	</string>
 	<string id="Food">
 		<text>Prowiant</text>
 	</string>
 	<string id="Kolbasa">
-		<text>Kielbasa "Praktyczna"</text>
+		<text>Kiełbasa "Praktyczna"</text>
 	</string>
 	<string id="Medi">
 		<text>Lekarstwa</text>
@@ -145,28 +145,28 @@
 		<text>Apteczka wojskowa</text>
 	</string>
 	<string id="Medkit_scientific">
-		<text>Apteczka naukowcow</text>
+		<text>Apteczka naukowców</text>
 	</string>
 	<string id="Sci2">
 		<text>Naukowy EXP-4</text>
 	</string>
 	<string id="Vodka">
-		<text>Wodka "Kozak"</text>
+		<text>Wódka "Kozak"</text>
 	</string>
 	<string id="st_detector">
 		<text>Detektor anomalii</text>
 	</string>
 	<string id="st_detector_descr">
-		<text>Przeznaczony do wykrywania pol anomalii oraz ognisk zanieczyszczenia radioaktywnego.</text>
+		<text>Przeznaczony do wykrywania pól anomalii oraz ognisk zanieczyszczenia radioaktywnego.</text>
 	</string>
 	<string id="st_grenade_gd5">
 		<text>Granat dymny</text>
 	</string>
 		<string id="enc_equipment_devic_detect2">
-		<text>Urzadzenie okreslajace obecnosc pol i zaburzen anomalnych i powiadamiajace o nich sygnalem dzwiekowym. Znacznie rozszerzona skala rozpoznawalnych anomalii.</text>
+		<text>Urządzenie określające obecność pól i zaburzeń anomalnych i powiadamiające o nich sygnałem dźwiękowym. Znacznie rozszerzona skala rozpoznawalnych anomalii.</text>
 	</string>
 	<string id="enc_equipment_devic_detect3">
-		<text>Elitarny detektor anomalii wynaleziony przez naukowcow w Zonie. Okresla nie tylko obecnosc pol i zaburzen anomalnych, ale takze pokazuje na mapie ich rozmieszczenie i powiadamia o nich sygnalem dzwiekowym.</text>
+		<text>Elitarny detektor anomalii wynaleziony przez naukowców w Zonie. Określa nie tylko obecność pól i zaburzeń anomalnych, ale także pokazuje na mapie ich rozmieszczenie i powiadamia o nich sygnałem dźwiękowym.</text>
 	</string>
 	<string id="st_detector3">
 		<text>Elitarny detektor anomalii</text>
@@ -175,12 +175,12 @@
 		<text>Detektor anomalii</text>
 	</string>
 	<string id="accesscard_hsm_3_description">
-		<text>Karta dostepu do klawiatury zamka aresztu na Sortowni.\n Kod dostepu 6911</text>
+		<text>Karta dostępu do klawiatury zamka aresztu na Sortowni.\n Kod dostępu 6911</text>
 	</string>
 	<string id="outfit_tank_name">
 		<text>Pancerz szturmowy</text>
 	</string>
 	<string id="outfit_tank_description">
-		<text>Nie wiadomo jakim sposobem do Zony trafiaja najnowsze naukowe prototypy. W tym pancerzu zastosowano osiagniecia nauki, ktorych po prostu nie mozna wykonac w Zonie. Jednoczesnie wiadomo, ze w sklad materialu ochronnego wchodza czastki bardzo drogich artefaktow. Na bazie takiej symbiozy wykonano swietnie broniacy przed stala i olowiem pancerz. Ale jest jedna bardzo istotna wada - do normalnej pracy i regeneracji pancerza wymagane jest indukowane pole elektromagnetyczne. Operator kieruje pole ze stanowiska dowodzenia bardzo waska wiazka. Bez tego pola pancerz jest praktycznie bezuzyteczny..</text>
+		<text>Nie wiadomo jakim sposobem do Zony trafiają najnowsze naukowe prototypy. W tym pancerzu zastosowano osiągnięcia nauki, których po prostu nie można wykonać w Zonie. Jednocześnie wiadomo, że w skład materiału ochronnego wchodzą cząstki bardzo drogich artefaktów. Na bazie takiej symbiozy wykonano świetnie broniący przed stalą i ołowiem pancerz. Ale jest jedna bardzo istotna wada - do normalnej pracy i regeneracji pancerza wymagane jest indukowane pole elektromagnetyczne. Operator kieruje pole ze stanowiska dowodzenia bardzo wąską wiązką. Bez tego pola pancerz jest praktycznie bezużyteczny..</text>
 	</string>
 </string_table>

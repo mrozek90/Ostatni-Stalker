@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="st_activate_artefact">
-		<text>uzyj artefaktu</text>
+		<text>użyj artefaktu</text>
 	</string>
 	<string id="st_attach_gl_to_rifle">
 		<text>przyczep granatnik do karabinu</text>
@@ -13,10 +13,10 @@
 		<text>przyczep celownik do karabinu</text>
 	</string>
 	<string id="st_attach_silencer_to_pistol">
-		<text>przyczep tlumik do pistoletu</text>
+		<text>przyczep tłumik do pistoletu</text>
 	</string>
 	<string id="st_attach_silencer_to_rifle">
-		<text>przyczep tlumik do karabinu</text>
+		<text>przyczep tłumik do karabinu</text>
 	</string>
 	<string id="st_base_cost">
 		<text>cena</text>
@@ -31,16 +31,16 @@
 		<text>odczep celownik</text>
 	</string>
 	<string id="st_detach_silencer">
-		<text>odczep tlumik</text>
+		<text>odczep tłumik</text>
 	</string>
 	<string id="st_dress_outfit">
-		<text>zaloz kombinezon</text>
+		<text>załóż kombinezon</text>
 	</string>
 	<string id="st_drop">
-		<text>wyrzuc</text>
+		<text>wyrzuć</text>
 	</string>
 	<string id="st_drop_all">
-		<text>wyrzuc wszystko</text>
+		<text>wyrzuć wszystko</text>
 	</string>
 	<string id="st_eat">
 		<text>zjedz</text>
@@ -49,10 +49,10 @@
 		<text>przymocuj do pasa</text>
 	</string>
 	<string id="st_move_to_bag">
-		<text>przenies do plecaka</text>
+		<text>przenieś do plecaka</text>
 	</string>
 	<string id="st_move_to_slot">
-		<text>przenies do okienka</text>
+		<text>przenieś do okienka</text>
 	</string>
 	<string id="st_sell_item">
 		<text>sprzedaj przedmiot</text>
@@ -61,16 +61,16 @@
 		<text>zdejmij kombinezon</text>
 	</string>
 	<string id="st_unload_magazine">
-		<text>rozladuj</text>
+		<text>rozładuj</text>
 	</string>
 	<string id="st_use">
-		<text>uzyj</text>
+		<text>użyj</text>
 	</string>
 	<string id="st_weight">
 		<text>waga</text>
 	</string>
 	<string id="ui_inv_accuracy">
-		<text>CELNOSC</text>
+		<text>CELNOŚĆ</text>
 	</string>
 	<string id="ui_inv_bag">
 		<text>Plecak</text>
@@ -82,10 +82,10 @@
 		<text>Anuluj</text>
 	</string>
 	<string id="ui_inv_clear">
-		<text>Wyczysc</text>
+		<text>Wyczyść</text>
 	</string>
 	<string id="ui_inv_damage">
-		<text>OBRAZENIA</text>
+		<text>OBRAŻENIA</text>
 	</string>
 	<string id="ui_inv_description">
 		<text>Opis</text>
@@ -94,25 +94,25 @@
 		<text>Radioskaner</text>
 	</string>
 	<string id="ui_inv_equipment">
-		<text>Sprzet</text>
+		<text>Sprzęt</text>
 	</string>
 	<string id="ui_inv_exit">
-		<text>Wyjscie</text>
+		<text>Wyjście</text>
 	</string>
 	<string id="ui_inv_granades_rifle">
 		<text>Kup granaty do granatnika (E)</text>
 	</string>
 	<string id="ui_inv_handling">
-		<text>OBSLUGA</text>
+		<text>OBSŁUGA</text>
 	</string>
 	<string id="ui_inv_heavy_weapons">
-		<text>Ciezkie</text>
+		<text>Ciężkie</text>
 	</string>
 	<string id="ui_inv_items_list">
-		<text>Lista przedmiotow</text>
+		<text>Lista przedmiotów</text>
 	</string>
 	<string id="ui_inv_money">
-		<text>Pieniadze</text>
+		<text>Pieniądze</text>
 	</string>
 	<string id="ui_inv_ok">
 		<text>OK</text>
@@ -127,7 +127,7 @@
 		<text>Wybuch</text>
 	</string>
 	<string id="ui_inv_outfit_fire_wound_protection">
-		<text>Kuloodpornosc</text>
+		<text>Kuloodporność</text>
 	</string>
 	<string id="ui_inv_outfit_params">
 		<text>Parametry pancerza</text>
@@ -160,7 +160,7 @@
 		<text>Podstawowa</text>
 	</string>
 	<string id="ui_inv_rate_of_fire">
-		<text>SZYBKOSTRZELNOSC</text>
+		<text>SZYBKOSTRZELNOŚĆ</text>
 	</string>
 	<string id="ui_inv_rest">
 		<text>Odpoczynek</text>
@@ -181,16 +181,16 @@
 		<text>Czas</text>
 	</string>
 	<string id="ui_inv_total_money">
-		<text>Suma pieniedzy</text>
+		<text>Suma pieniędzy</text>
 	</string>
 	<string id="ui_inv_weight">
-		<text>Ciezar</text>
+		<text>Ciężar</text>
 	</string>
 	<string id="ui_inv_ammo_pistol">
-		<text>Kup podstawowa amunicje do pistoletu  (Q)</text>
+		<text>Kup podstawową amunicję do pistoletu  (Q)</text>
 	</string>
 	<string id="ui_inv_ammo_rifle">
-		<text>Kup amunicje do karabinu (W)</text>
+		<text>Kup amunicję do karabinu (W)</text>
 	</string>
 	<string id="ui_inv_granadelauncher_rifle">
 		<text>Kup granatnik do karabinu  (D)</text>
@@ -202,10 +202,10 @@
 		<text>Kup celownik optyczny do karabinu (S)</text>
 	</string>
 	<string id="ui_inv_silencer_pistol">
-		<text>Kup tlumik do pistoletu (A)</text>
+		<text>Kup tłumik do pistoletu (A)</text>
 	</string>
 	<string id="ui_inv_silencer_rifle">
-		<text>Kup tlumik do karabinu (F)</text>
+		<text>Kup tłumik do karabinu (F)</text>
 	</string>
 	<string id="ui_inv_last_buy">
 		<text>Kup poprzedni zestaw</text>
@@ -229,7 +229,7 @@
 		<text>Ostatnie przedmioty  (F4)</text>
 	</string>
 	<string id="ui_inv_default(F5)">
-		<text>Domyslne przedmioty  (F5)</text>
+		<text>Domyślne przedmioty  (F5)</text>
 	</string>
 	<string id="ui_st_preset_def">
 		<text>Zestaw startowy</text>
@@ -238,16 +238,16 @@
 		<text>Zresetuj przedmioty (C)</text>
 	</string>
 	<string id="ui_inv_cant_buy_item">
-		<text>Nie mozesz kupic broni</text>
+		<text>Nie możesz kupić broni</text>
 	</string>
 	<string id="ui_inv_rank_restr">
 		<text>Ograniczenie rangi</text>
 	</string>
 	<string id="ui_inv_not_enought_money">
-		<text>Za malo pieniedzy</text>
+		<text>Za mało pieniędzy</text>
 	</string>
 	<string id="ui_inv_count_restr">
-		<text>Ograniczenie ilosci</text>
+		<text>Ograniczenie ilości</text>
 	</string>
 	<string id="ui_inv_has">
 		<text>teraz</text>
@@ -256,15 +256,15 @@
 		<text>wymagane</text>
 	</string>
 	<string id="ui_inv_you_already_have">
-		<text>Masz juz</text>
+		<text>Masz już</text>
 	</string>
 	<string id="ui_st_err_gs_not_available">
-		<text>Uslugi online dla gry "S.T.A.L.K.E.R." nie sa dostepne.</text>
+		<text>Usługi online dla gry "S.T.A.L.K.E.R." nie są dostępne.</text>
 	</string>
 	<string id="ui_st_err_sb_master_server_conn_fail">
-		<text>Nie udalo sie polaczyc z glownym serwerem</text>
+		<text>Nie udało się połączyć z głównym serwerem</text>
 	</string>
 <string id="ui_st_sleep_dialog">
-		<text>Rzeczywiscie chcesz isc spac?</text>
+		<text>Rzeczywiście chcesz iść spać?</text>
 	</string>
 </string_table>

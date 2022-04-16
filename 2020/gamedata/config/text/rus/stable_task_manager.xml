@@ -1,240 +1,240 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="artefact">
-		<text>Zdobadz artefakt</text>
+		<text>Zdobądź artefakt</text>
 	</string>
 	<string id="barmen_defend_camp_1">
-		<text>Obron oboz na Wysypisku</text>
+		<text>Obroń obóz na Wysypisku</text>
 	</string>
 	<string id="barmen_defend_camp_1_descr">
-		<text>Obron oboz stalkerow na Wysypisku przed atakiem bandytow.</text>
+		<text>Obroń obóz stalkerów na Wysypisku przed atakiem bandytów.</text>
 	</string>
 	<string id="barmen_defend_camp_1_text">
-		<text>Grupa stalkerow przybedzie do mnie z wizyta i bardzo mi zalezy na tym, zeby dotarli tu bezpiecznie. Zatrzymaja sie niedaleko baru. Pewien skruszony przestepca niemal dobrowolnie poinformowal nas, ze wkrotce zostana zaatakowani. Udaj sie wiec w tamtym kierunku i obron ich oboz przed atakiem.</text>
+		<text>Grupa stalkerów przybędzie do mnie z wizytą i bardzo mi zależy na tym, żeby dotarli tu bezpiecznie. Zatrzymają się niedaleko baru. Pewien skruszony przestępca niemal dobrowolnie poinformował nas, że wkrótce zostaną zaatakowani. Udaj się więc w tamtym kierunku i obroń ich obóz przed atakiem.</text>
 	</string>
 	<string id="barmen_defend_camp_2">
-		<text>Pomoz stalkerom odeprzec bandytow w Agropromie</text>
+		<text>Pomóż stalkerom odeprzeć bandytów w Agropromie</text>
 	</string>
 	<string id="barmen_defend_camp_2_descr">
-		<text>Pomoz stalkerom odeprzec bandytow w Agropromie.</text>
+		<text>Pomóż stalkerom odeprzeć bandytów w Agropromie.</text>
 	</string>
 	<string id="barmen_defend_camp_2_text">
-		<text>Sprawa wyglada tak: niedawno grupa stalkerow wybrala sie do Agropromu. Kiedy ostatni raz sie kontaktowali, powiedzieli, ze w podziemiach jest cos wartosciowego, ale ze cisna ich bandyci. Trzymaja sie jakos, ale nie moga sie wydostac. Pomozesz im?</text>
+		<text>Sprawa wygląda tak: niedawno grupa stalkerów wybrała się do Agropromu. Kiedy ostatni raz się kontaktowali, powiedzieli, że w podziemiach jest coś wartościowego, ale że cisną ich bandyci. Trzymają się jakoś, ale nie mogą się wydostać. Pomożesz im?</text>
 	</string>
 	<string id="barmen_eliminate_camp_1">
-		<text>Zabij bandytow</text>
+		<text>Zabij bandytów</text>
 	</string>
 	<string id="barmen_eliminate_camp_1_descr">
-		<text>Zlikwiduj grupe bandytow, ktorzy zadomowili sie na Wysypisku. Akcja musi zostac przeprowadzona szybko i skutecznie. </text>
+		<text>Zlikwiduj grupę bandytów, którzy zadomowili się na Wysypisku. Akcja musi zostać przeprowadzona szybko i skutecznie. </text>
 	</string>
 	<string id="barmen_eliminate_camp_1_text">
-		<text>Praca, tak? Niech zobacze, co my tu mamy... Aha! Prosze: mozesz sie pozbyc grupy bandytow z Wysypiska? "Powinnosc", mimo tych ciaglych gadek o prawie i porzadku, jakos nie moze sie do tego zabrac. To sa wyjatkowe gnoje, wiec i tak dlugo nie pociagna. Ale ktos, kto dorwie ich pierwszy, zgarnie gruba kase... a gorzale stawiam oczywiscie ja.</text>
+		<text>Praca, tak? Niech zobaczę, co my tu mamy... Aha! Proszę: możesz się pozbyć grupy bandytów z Wysypiska? "Powinność", mimo tych ciągłych gadek o prawie i porządku, jakoś nie może się do tego zabrać. To są wyjątkowe gnoje, więc i tak długo nie pociągną. Ale ktoś, kto dorwie ich pierwszy, zgarnie grubą kasę... a gorzałę stawiam oczywiście ja.</text>
 	</string>
 	<string id="barmen_eliminate_camp_2">
-		<text>Zabij najemnikow i bandytow z Rostoku.</text>
+		<text>Zabij najemników i bandytów z Rostoku.</text>
 	</string>
 	<string id="barmen_eliminate_camp_2_descr">
-		<text>Pozbadz sie najemnikow i bandytow, ktorzy zagradzaja przejscie przez Rostok.</text>
+		<text>Pozbądź się najemników i bandytów, którzy zagradzają przejście przez Rostok.</text>
 	</string>
 	<string id="barmen_eliminate_camp_2_text">
-		<text>Niedaleko stad, w Rostoku, jest banda najemnikow. Skumplowali sie z bandytami i teraz planuja zablokowac przejscie przez fabryke. Nie musze chyba wyjasniac, ze to problem, ktory trzeba natychmiast rozwiazac. Kolesie z "Powinnosci" i kilku weteranow juz sie tam wybralo, zeby dac im nauczke, ale od jakiegos czasu sie nie odzywaja... Wiec moze... ten... wybierz sie tam i sprawdz, co sie dzieje. Mozesz dobrze zarobic.</text>
+		<text>Niedaleko stąd, w Rostoku, jest banda najemników. Skumplowali się z bandytami i teraz planują zablokować przejście przez fabrykę. Nie muszę chyba wyjaśniać, że to problem, który trzeba natychmiast rozwiązać. Kolesie z "Powinności" i kilku weteranów już się tam wybrało, żeby dać im nauczkę, ale od jakiegoś czasu się nie odzywają... Więc może... ten... wybierz się tam i sprawdź, co się dzieje. Możesz dobrze zarobić.</text>
 	</string>
 	<string id="barmen_eliminate_camp_3">
-		<text>Zabij bandytow z gospodarstwa.</text>
+		<text>Zabij bandytów z gospodarstwa.</text>
 	</string>
 	<string id="barmen_eliminate_camp_3_descr">
-		<text>Prosta sprawa: pozbadz sie bandytow z gospodarstwa.</text>
+		<text>Prosta sprawa: pozbądź się bandytów z gospodarstwa.</text>
 	</string>
 	<string id="barmen_eliminate_camp_3_text">
-		<text>Niedaleko starych magazynow lezy gospodarstwo. Kiedys bylo to idealne miejsce na spotkania, wymiane towarow - no wiesz... tego typu rzeczy. Ale teraz zajeli je bandyci i nie wyglada na to, zeby mieli sie stamtad wyniesc. A mi to zupelnie nie odpowiada. Potrzebuje tego gospodarstwa jak najszybciej. Nie obchodzi mnie, co sie stanie z obecnymi lokatorami. </text>
+		<text>Niedaleko starych magazynów leży gospodarstwo. Kiedyś było to idealne miejsce na spotkania, wymianę towarów - no wiesz... tego typu rzeczy. Ale teraz zajęli je bandyci i nie wygląda na to, żeby mieli się stamtąd wynieść. A mi to zupełnie nie odpowiada. Potrzebuję tego gospodarstwa jak najszybciej. Nie obchodzi mnie, co się stanie z obecnymi lokatorami. </text>
 	</string>
 	<string id="barmen_eliminate_camp_4">
-		<text>Zlikwiduj oboz bandytow w Dziczy</text>
+		<text>Zlikwiduj obóz bandytów w Dziczy</text>
 	</string>
 	<string id="barmen_eliminate_camp_4_descr">
-		<text>Zlikwiduj oboz bandytow w Dziczy.</text>
+		<text>Zlikwiduj obóz bandytów w Dziczy.</text>
 	</string>
 	<string id="barmen_eliminate_camp_4_text">
-		<text>W Dziczy sa bandyci. Nie mozemy pozwolic tym wyrzutkom spoleczenstwa szerzyc zepsucie tuz obok baru. Trzeba zmiesc ich oboz z powierzchni ziemi.</text>
+		<text>W Dziczy są bandyci. Nie możemy pozwolić tym wyrzutkom społeczeństwa szerzyć zepsucie tuż obok baru. Trzeba zmieść ich obóz z powierzchni ziemi.</text>
 	</string>
 	<string id="barmen_eliminate_camp_5">
-		<text>Zniszcz legowisko zmutowanych psow w Dziczy.</text>
+		<text>Zniszcz legowisko zmutowanych psów w Dziczy.</text>
 	</string>
 	<string id="barmen_eliminate_camp_5_descr">
-		<text>Zniszcz legowisko zmutowanych psow w Dziczy.</text>
+		<text>Zniszcz legowisko zmutowanych psów w Dziczy.</text>
 	</string>
 	<string id="barmen_eliminate_camp_5_text">
-		<text>Kilku naszych wybralo sie na wyprawe, wrocili pojedynczo. Cali poszarpani, zakrwawieni, ze szklistymi oczami. Najwyrazniej natkneli sie na psy. Jest ich tam cale stado. Znajdz ich legowisko i wyrznij co do jednego.</text>
+		<text>Kilku naszych wybrało się na wyprawę, wrócili pojedynczo. Cali poszarpani, zakrwawieni, ze szklistymi oczami. Najwyraźniej natknęli się na psy. Jest ich tam całe stado. Znajdź ich legowisko i wyrżnij co do jednego.</text>
 	</string>
 	<string id="barmen_eliminate_camp_6">
-		<text>Zlikwiduj grupe bandytow w Agropromie</text>
+		<text>Zlikwiduj grupę bandytów w Agropromie</text>
 	</string>
 	<string id="barmen_eliminate_camp_6_descr">
-		<text>Zlikwiduj grupe bandytow w Agropromie.</text>
+		<text>Zlikwiduj grupę bandytów w Agropromie.</text>
 	</string>
 	<string id="barmen_eliminate_camp_6_text">
-		<text>Pamietam, jak w 1994 rekieterzy doczepili sie do mnie, powiedzieli, zebym wyskoczyl z kasy. Czlowieku, przeszedlem wtedy pieklo - mialem restauracje i w ogole. Wtedy nie mozna im bylo nic zrobic! A tu nagle dowiaduje sie, ze ten sam gang pracuje w Agropromie, zarabiajac sobie na artefaktach, ktore tam znajduja. Teraz jednak moge cos zrobic... Wiem nawet dokladnie, gdzie sie ukrywaja. Wyswiadcz mi przysluge - ukarz ich.</text>
+		<text>Pamiętam, jak w 1994 rekieterzy doczepili się do mnie, powiedzieli, żebym wyskoczył z kasy. Człowieku, przeszedłem wtedy piekło - miałem restaurację i w ogóle. Wtedy nie można im było nic zrobić! A tu nagle dowiaduję się, że ten sam gang pracuje w Agropromie, zarabiając sobie na artefaktach, które tam znajdują. Teraz jednak mogę coś zrobić... Wiem nawet dokładnie, gdzie się ukrywają. Wyświadcz mi przysługę - ukarz ich.</text>
 	</string>
 	<string id="barmen_eliminate_camp_7">
-		<text>Zniszcz legowisko snorkow w Dolinie Mroku</text>
+		<text>Zniszcz legowisko snorków w Dolinie Mroku</text>
 	</string>
 	<string id="barmen_eliminate_camp_7_descr">
-		<text>Zniszcz legowisko snorkow w Dolinie Mroku</text>
+		<text>Zniszcz legowisko snorków w Dolinie Mroku</text>
 	</string>
 	<string id="barmen_eliminate_camp_7_text">
-		<text>Taa.. Wyglada na to, ze ci, co mowia, ze Zona sie powieksza, jednak maja racje. W Dolinie Mroku pojawilo sie kilka snorkow, a wczesniej nigdy ich tam nie widywano. No i niektorzy zaczeli panikowac. Kolesie z "Powinnosci" obiecali zlikwidowac snorki, ale jakos nie moga sie do tego zabrac. Zalatwisz to?</text>
+		<text>Taa.. Wygląda na to, że ci, co mówią, że Zona się powiększa, jednak mają rację. W Dolinie Mroku pojawiło się kilka snorków, a wcześniej nigdy ich tam nie widywano. No i niektórzy zaczęli panikować. Kolesie z "Powinności" obiecali zlikwidować snorki, ale jakoś nie mogą się do tego zabrać. Załatwisz to?</text>
 	</string>
 	<string id="barmen_find_artefact_1">
-		<text>Znajdz "kotlet"</text>
+		<text>Znajdź "kotlet"</text>
 	</string>
 	<string id="barmen_find_artefact_1_descr">
-		<text>Znajdz "kotlet", ktory leczy rany i choroby.</text>
+		<text>Znajdź "kotlet", który leczy rany i choroby.</text>
 	</string>
 	<string id="barmen_find_artefact_1_text">
-		<text>Byli tu jacys duchowni - zostawili zamowienie na "kotleta". No wiesz, interesuja sie tym leczacym artefaktem... Zasrani cudotworcy! Niewazne... Zdobedziesz go? Decyzja nalezy do ciebie.</text>
+		<text>Byli tu jacyś duchowni - zostawili zamówienie na "kotleta". No wiesz, interesują się tym leczącym artefaktem... Zasrani cudotwórcy! Nieważne... Zdobędziesz go? Decyzja należy do ciebie.</text>
 	</string>
 	<string id="barmen_find_artefact_2">
-		<text>Znajdz "krysztalowy kolec" </text>
+		<text>Znajdź "kryształowy kolec" </text>
 	</string>
 	<string id="barmen_find_artefact_2_descr">
-		<text>Znajdz "krysztalowy kolec", ktory chroni przed atakami psionicznymi.</text>
+		<text>Znajdź "kryształowy kolec", który chroni przed atakami psionicznymi.</text>
 	</string>
 	<string id="barmen_find_artefact_2_text">
-		<text>"Bolec"? Nie, to nie to... "Krysztalowy palec "? Nie, to tez nie to... Kurde! "Krysztalowy kolec"! Tak! Sprawa wyglada tak: mam zlecenie na artefakt zwany "krysztalowym kolcem". Slyszales o nim? Podobno jak masz taki przy sobie, nikt nie bedzie mogl grzebac w twoim mozgu. Co ty na to?</text>
+		<text>"Bolec"? Nie, to nie to... "Kryształowy palec "? Nie, to też nie to... Kurde! "Kryształowy kolec"! Tak! Sprawa wygląda tak: mam zlecenie na artefakt zwany "kryształowym kolcem". Słyszałeś o nim? Podobno jak masz taki przy sobie, nikt nie będzie mógł grzebać w twoim mózgu. Co ty na to?</text>
 	</string>
 	<string id="barmen_find_artefact_3">
-		<text>Znajdz "gwiazde wieczorna" </text>
+		<text>Znajdź "gwiazdę wieczorną" </text>
 	</string>
 	<string id="barmen_find_artefact_3_descr">
-		<text>Znajdz "gwiazde wieczorna", zeby pomoc wojskowym instytucjom badawczym.</text>
+		<text>Znajdź "gwiazdę wieczorną", żeby pomóc wojskowym instytucjom badawczym.</text>
 	</string>
 	<string id="barmen_find_artefact_3_text">
-		<text>Potrzebuje "gwiazdy wieczornej". Przykro mi to mowic, ale nie spelnia zyczen - wiem to z autopsji - moze natomiast przyniesc sporo kasy. Naukowcy duzo za to wybula. Podobno robia z tego jakis wojskowy sprzet... Czujesz sie na silach?</text>
+		<text>Potrzebuję "gwiazdy wieczornej". Przykro mi to mówić, ale nie spełnia życzeń - wiem to z autopsji - może natomiast przynieść sporo kasy. Naukowcy dużo za to wybulą. Podobno robią z tego jakiś wojskowy sprzęt... Czujesz się na siłach?</text>
 	</string>
 	<string id="barmen_find_artefact_4">
-		<text>Znajdz "blysk"</text>
+		<text>Znajdź "błysk"</text>
 	</string>
 	<string id="barmen_find_artefact_4_descr">
-		<text>Znajdz "blysk".</text>
+		<text>Znajdź "błysk".</text>
 	</string>
 	<string id="barmen_find_artefact_4_text">
-		<text>Zlecenie jest proste, a zaplata dobra. Masz znalezc artefakt "blysk". Nawet nie pytaj, dla kogo i po co. Zrobisz to?</text>
+		<text>Zlecenie jest proste, a zapłata dobra. Masz znaleźć artefakt "błysk". Nawet nie pytaj, dla kogo i po co. Zrobisz to?</text>
 	</string>
 	<string id="barmen_find_artefact_5">
-		<text>Znajdz "zlota rybke"</text>
+		<text>Znajdź "złotą rybkę"</text>
 	</string>
 	<string id="barmen_find_artefact_5_descr">
-		<text>Znajdz "zlota rybke".</text>
+		<text>Znajdź "złotą rybkę".</text>
 	</string>
 	<string id="barmen_find_artefact_5_text">
-		<text>Naznaczony, znasz opowiesc o zlotej rybce? Tak, tak, wlasnie te. Jest rowniez sporo dowcipow na ten temat. No, ale do rzeczy - jest taki stary czlowiek, ktory caly czas chce ja zlapac. Podsumowujac, potrzebuje jedynego w swoim rodzaju artefaktu, zwanego "zlota rybka". To szanowany klient. Z zewnatrz. Pomozesz?</text>
+		<text>Naznaczony, znasz opowieść o złotej rybce? Tak, tak, właśnie tę. Jest również sporo dowcipów na ten temat. No, ale do rzeczy - jest taki stary człowiek, który cały czas chce ją złapać. Podsumowując, potrzebuję jedynego w swoim rodzaju artefaktu, zwanego "złotą rybką". To szanowany klient. Z zewnątrz. Pomożesz?</text>
 	</string>
 	<string id="barmen_find_item_1">
-		<text>Znajdz kombinezon psioniczny</text>
+		<text>Znajdź kombinezon psioniczny</text>
 	</string>
 	<string id="barmen_find_item_1_descr">
-		<text>Znajdz kombinezon, ktory skutecznie chroni przed emisjami psionicznymi. Szukaj w opuszczonych laboratoriach w Dolinie Mroku.</text>
+		<text>Znajdź kombinezon, który skutecznie chroni przed emisjami psionicznymi. Szukaj w opuszczonych laboratoriach w Dolinie Mroku.</text>
 	</string>
 	<string id="barmen_find_item_1_text">
-		<text>W tych laboratoriach w Dolinie Mroku usilowano znalezc sposob na ochrone ludzkiego mozgu przed emisjami psionicznymi. Nie spieszyli sie, to pewne... Tak czy inaczej - jedna z prob udala sie i podobno istnieje kombinezon, po ktorego wlozeniu mozesz nawet dac buziaka Kontrolerowi. Fajna rzecz. Jesli przyniesiesz mi to cos, nigdy ci tego nie zapomne.</text>
+		<text>W tych laboratoriach w Dolinie Mroku usiłowano znaleźć sposób na ochronę ludzkiego mózgu przed emisjami psionicznymi. Nie śpieszyli się, to pewne... Tak czy inaczej - jedna z prób udała się i podobno istnieje kombinezon, po którego włożeniu możesz nawet dać buziaka Kontrolerowi. Fajna rzecz. Jeśli przyniesiesz mi to coś, nigdy ci tego nie zapomnę.</text>
 	</string>
 	<string id="barmen_find_item_2">
-		<text>Znajdz bron obcokrajowca.</text>
+		<text>Znajdź broń obcokrajowca.</text>
 	</string>
 	<string id="barmen_find_item_2_descr">
-		<text>Ciekawe zadanie. Skads znam to nazwisko... ale skad?</text>
+		<text>Ciekawe zadanie. Skądś znam to nazwisko... ale skąd?</text>
 	</string>
 	<string id="barmen_find_item_2_text">
-		<text>Kiedys w tych stronach pojawil sie pewien obcokrajowiec... Nazywal sie chyba Gordon. Widac bylo po nim, ze to doswiadczony stalker, ale mowil, ze nigdy wczesniej nie byl w Zonie. Niewazne, nie o to chodzi. W koncu zniknal gdzies w Zonie. Mial jedna ciekawa rzecz - "Black Kite'a". Gdybym tylko mogl mu sie dokladniej przyjrzec...</text>
+		<text>Kiedyś w tych stronach pojawił się pewien obcokrajowiec... Nazywał się chyba Gordon. Widać było po nim, że to doświadczony stalker, ale mówił, że nigdy wcześniej nie był w Zonie. Nieważne, nie o to chodzi. W końcu zniknął gdzieś w Zonie. Miał jedną ciekawą rzecz - "Black Kite'a". Gdybym tylko mógł mu się dokładniej przyjrzeć...</text>
 	</string>
 	<string id="barmen_find_item_3">
-		<text>Znajdz ulepszonego Wintara</text>
+		<text>Znajdź ulepszonego Wintara</text>
 	</string>
 	<string id="barmen_find_item_3_descr">
-		<text>Znajdz ulepszonego Wintara. Wyglada na to, ze powinienes szukac w okolicy Czerwonego Lasu. </text>
+		<text>Znajdź ulepszonego Wintara. Wygląda na to, że powinieneś szukać w okolicy Czerwonego Lasu. </text>
 	</string>
 	<string id="barmen_find_item_3_text">
-		<text>Krazyla taka dziwna opowiesc. Pojawil sie jakis koles z kieszeniami wypchanymi forsa. Wynajal bande ludzi, ale nie weteranow, tylko takich swiezszych. Kupil tony sprzetu... Mialem takiego nowiutkiego Wintara - cudowna bron! I bylem na tyle glupi, ze mu go sprzedalem. Nie bede sciemniac, zarobilem na tym kupe kasy... Tyle ze cala ekipa oberwala niedaleko Czerwonego Lasu. Coz moge powiedziec, zgineli na darmo... Jaki z tego moral? Drogi przez Zone nie utorujesz sobie pieniedzmi. Tak czy inaczej... Nie moge przestac myslec o tym Wintarze - taka wspaniala pukawka gdzies tam rdzewieje! Znajdziesz ja dla mnie? Dobrze zaplace!</text>
+		<text>Krążyła taka dziwna opowieść. Pojawił się jakiś koleś z kieszeniami wypchanymi forsą. Wynajął bandę ludzi, ale nie weteranów, tylko takich świeższych. Kupił tony sprzętu... Miałem takiego nowiutkiego Wintara - cudowna broń! I byłem na tyle głupi, że mu go sprzedałem. Nie będę ściemniać, zarobiłem na tym kupę kasy... Tyle że cała ekipa oberwała niedaleko Czerwonego Lasu. Cóż mogę powiedzieć, zginęli na darmo... Jaki z tego morał? Drogi przez Zonę nie utorujesz sobie pieniędzmi. Tak czy inaczej... Nie mogę przestać myśleć o tym Wintarze - taka wspaniała pukawka gdzieś tam rdzewieje! Znajdziesz ją dla mnie? Dobrze zapłacę!</text>
 	</string>
 	<string id="barmen_kill_stalker_1">
-		<text>Zabij zolnierza</text>
+		<text>Zabij żołnierza</text>
 	</string>
 	<string id="barmen_kill_stalker_1_descr">
-		<text>Jakis zolnierz ma gryzc ziemie. To zaden problem, ale... dziwne jest to, ze celem jest wojskowy. A klient jest naprawde wkurzony. </text>
+		<text>Jakiś żołnierz ma gryźć ziemię. To żaden problem, ale... dziwne jest to, że celem jest wojskowy. A klient jest naprawdę wkurzony. </text>
 	</string>
 	<string id="barmen_kill_stalker_1_text">
-		<text>Chce, zebys wykonczyl tego trepa... Nie pytaj mnie, kim jest - co mnie to obchodzi?! Po prostu to zrob. To jak? Moge na ciebie liczyc?</text>
+		<text>Chcę, żebyś wykończył tego trepa... Nie pytaj mnie, kim jest - co mnie to obchodzi?! Po prostu to zrób. To jak? Mogę na ciebie liczyć?</text>
 	</string>
 	<string id="barmen_kill_stalker_2">
 		<text>Zabij stalkera</text>
 	</string>
 	<string id="barmen_kill_stalker_2_descr">
-		<text>Wykoncz jednego ze stalkerow. Smierc oszustowi - taka jest zemsta handlarza.</text>
+		<text>Wykończ jednego ze stalkerów. Śmierć oszustowi - taka jest zemsta handlarza.</text>
 	</string>
 	<string id="barmen_kill_stalker_2_text">
-		<text>Wiesz, sa tacy ludzie, o ktorych nigdy nie powiesz zlego slowa... Ufasz takiemu komus jak bratu, nie? Liczysz na niego... Ale nagle dowiadujesz sie, ze to najpodlejszy i najbardziej nikczemny sukinsyn... Sprawa wyglada tak: ten problem musi zostac rozwiazany. Zrob to, a ja zajme sie reszta. </text>
+		<text>Wiesz, są tacy ludzie, o których nigdy nie powiesz złego słowa... Ufasz takiemu komuś jak bratu, nie? Liczysz na niego... Ale nagle dowiadujesz się, że to najpodlejszy i najbardziej nikczemny sukinsyn... Sprawa wygląda tak: ten problem musi zostać rozwiązany. Zrób to, a ja zajmę się resztą. </text>
 	</string>
 	<string id="barmen_kill_stalker_3">
 		<text>Zabij stalkera z frakcji Monolit</text>
 	</string>
 	<string id="barmen_kill_stalker_3_descr">
-		<text>Znajdz bylego przyjaciela handlarza i pomoz mu umrzec.</text>
+		<text>Znajdź byłego przyjaciela handlarza i pomóż mu umrzeć.</text>
 	</string>
 	<string id="barmen_kill_stalker_3_text">
-		<text>Mialem kiedys przyjaciela... ciezko w to uwierzyc, nie? Hm. Przybylismy razem do Zony, kiedy jeszcze tego wszystkiego tu nie bylo. Czego mysmy nie robili, gdzie mysmy nie byli... No coz, bylismy mlodzi i nic nas nie obchodzilo... Ale jemu ciagle bylo malo. Chcial sie wybrac do centrum Zony i namawial mnie na to, ale ja odmowilem - i slusznie... Strasznie sie poklocilismy i wyruszyl sam... A teraz podobno ktos go widzial... trzyma z Monolitem. Naznaczony, oto, czego od ciebie chce... Jako przyjaciel - znajdz go i... nie sprawiaj mu cierpienia, i tak musi bardzo cierpiec... Byl dla mnie jak brat, rozumiesz?</text>
+		<text>Miałem kiedyś przyjaciela... ciężko w to uwierzyć, nie? Hm. Przybyliśmy razem do Zony, kiedy jeszcze tego wszystkiego tu nie było. Czego myśmy nie robili, gdzie myśmy nie byli... No cóż, byliśmy młodzi i nic nas nie obchodziło... Ale jemu ciągle było mało. Chciał się wybrać do centrum Zony i namawiał mnie na to, ale ja odmówiłem - i słusznie... Strasznie się pokłóciliśmy i wyruszył sam... A teraz podobno ktoś go widział... trzyma z Monolitem. Naznaczony, oto, czego od ciebie chcę... Jako przyjaciel - znajdź go i... nie sprawiaj mu cierpienia, i tak musi bardzo cierpieć... Był dla mnie jak brat, rozumiesz?</text>
 	</string>
 	<string id="barmen_kill_stalker_4">
 		<text>Zabij stalkera zwanego Wampirem</text>
 	</string>
 	<string id="barmen_kill_stalker_4_descr">
-		<text>Znajdz i zabij stalkera zwanego Wampirem.</text>
+		<text>Znajdź i zabij stalkera zwanego Wampirem.</text>
 	</string>
 	<string id="barmen_kill_stalker_4_text">
-		<text>Tego juz za wiele, mam dosc tego drania! Mowie o Wampirze - znasz go? Sukinsyn! Wysysa z ludzi szczescie zamiast krwi. Wszyscy co z nim ida, gina co do jednego, a on zawsze wraca caly i zdrowy! Juz piec razy tak sie dzialo! To jakies chore, nie sadzisz? Wspaniale byloby moc zlozyc kwiaty na jego grobie... To jak, bierzesz zlecenie? </text>
+		<text>Tego już za wiele, mam dość tego drania! Mówię o Wampirze - znasz go? Sukinsyn! Wysysa z ludzi szczęście zamiast krwi. Wszyscy co z nim idą, giną co do jednego, a on zawsze wraca cały i zdrowy! Już pięć razy tak się działo! To jakieś chore, nie sądzisz? Wspaniale byłoby móc złożyć kwiaty na jego grobie... To jak, bierzesz zlecenie? </text>
 	</string>
 	<string id="barmen_kill_stalker_5">
-		<text>Zabij stalkera zwanego Wroblem</text>
+		<text>Zabij stalkera zwanego Wróblem</text>
 	</string>
 	<string id="barmen_kill_stalker_5_descr">
-		<text>Znajdz Wrobla i pomscij smierc innego stalkera.</text>
+		<text>Znajdź Wróbla i pomścij śmierć innego stalkera.</text>
 	</string>
 	<string id="barmen_kill_stalker_5_text">
-		<text>Cholerni muszkieterzy! Dupki, bawia sie w d'Artagnana! Jak gdyby omijanie anomalii i chowanie sie przed kulami im nie starczalo - teraz sie wzieli za pojedynki! Byla jakas klotnia, nikt teraz nawet nie pamieta, o co poszlo. A te dwa tepaki postanowily przelac troche krwi. No i prosze - jeden nie zyje. I to dobry stalker. A drugi, Wrobel, wyparowal, bo jako pierwszy wsadzilbym mu kulke w leb. Znajdz go. Jestem pewien, ze ciagle przebywa w Zonie. Zrobisz to?</text>
+		<text>Cholerni muszkieterzy! Dupki, bawią się w d'Artagnana! Jak gdyby omijanie anomalii i chowanie się przed kulami im nie starczało - teraz się wzięli za pojedynki! Była jakaś kłótnia, nikt teraz nawet nie pamięta, o co poszło. A te dwa tępaki postanowiły przelać trochę krwi. No i proszę - jeden nie żyje. I to dobry stalker. A drugi, Wróbel, wyparował, bo jako pierwszy wsadziłbym mu kulkę w łeb. Znajdź go. Jestem pewien, że ciągle przebywa w Zonie. Zrobisz to?</text>
 	</string>
 	<string id="barmen_monster_part_1">
-		<text>Zdobadz oko miesacza</text>
+		<text>Zdobądź oko mięsacza</text>
 	</string>
 	<string id="barmen_monster_part_1_descr">
-		<text>Zdobadz oko miesacza</text>
+		<text>Zdobądź oko mięsacza</text>
 	</string>
 	<string id="barmen_monster_part_1_text">
-		<text>Niedlugo mamy przyjecie - bedzie wykwintny obiad, a pewni miejscowi smakosze w wyjatkowo dobrych nastrojach (nie musimy wskazywac palcem) niewatpliwie beda chcieli sprobowac mojej specjalnosci,  oczu "miesacza" w sosie z wieprzowiny. To znaczy, we wlasnym sosie z majonezem. Krotko mowiac, potrzebuje oka tego stwora, i to szybko.</text>
+		<text>Niedługo mamy przyjęcie - będzie wykwintny obiad, a pewni miejscowi smakosze w wyjątkowo dobrych nastrojach (nie musimy wskazywać palcem) niewątpliwie będą chcieli spróbować mojej specjalności,  oczu "mięsacza" w sosie z wieprzowiny. To znaczy, we własnym sosie z majonezem. Krótko mówiąc, potrzebuję oka tego stwora, i to szybko.</text>
 	</string>
 	<string id="tm_b_monster_part_1_descr">
-		<text>To tak mozna? Zrec oczy zmutowanej swini?</text>
+		<text>To tak można? Żreć oczy zmutowanej świni?</text>
 	</string>
 	
 	
 	<string id="barmen_monster_part_2">
-		<text>Przynies kopyto dzika</text>
+		<text>Przynieś kopyto dzika</text>
 	</string>
 	<string id="barmen_monster_part_2_descr">
-		<text>Przynies kopyto dzika.</text>
+		<text>Przynieś kopyto dzika.</text>
 	</string>
 	<string id="barmen_monster_part_2_text">
-		<text>Wiesz, ze preparujemy rogi i kopyta? Sa rzadkoscia. Z kopyt zmutowanych zwierzat robi sie wspaniala bizuterie - znam takiego jednego jubilera, jest zainteresowany. Wiec smialo, zdobadz kopyto dzika, a w twojej kieszeni pojawia sie pieniazki.</text>
+		<text>Wiesz, że preparujemy rogi i kopyta? Są rzadkością. Z kopyt zmutowanych zwierząt robi się wspaniałą biżuterię - znam takiego jednego jubilera, jest zainteresowany. Więc śmiało, zdobądź kopyto dzika, a w twojej kieszeni pojawią się pieniążki.</text>
 	</string>
 	<string id="tm_b_monster_part_2_descr">
-		<text>Pozlacane rogi i kopyta dzika - coz moze byc lepszego?</text>
+		<text>Pozłacane rogi i kopyta dzika - cóż może być lepszego?</text>
 	</string>
 	<string id="dolg_defend_lager_1">
-		<text>Obron posterunek "Powinnosci"</text>
+		<text>Obroń posterunek "Powinności"</text>
 	</string>
 	<string id="dolg_defend_lager_1_descr">
-		<text>Obron posterunek "Powinnosci"</text>
+		<text>Obroń posterunek "Powinności"</text>
 	</string>
 	<string id="dolg_defend_lager_1_text">
-		<text>Obron posterunek "Powinnosci"</text>
+		<text>Obroń posterunek "Powinności"</text>
 	</string>
 	<string id="dolg_eliminate_lager_1">
 		<text>Zlikwiduj zombi</text>
@@ -243,43 +243,43 @@
 		<text>Zlikwiduj zombi nad Jantarem.</text>
 	</string>
 	<string id="dolg_eliminate_lager_1_text">
-		<text>Niedawno wyslalismy grupe ludzi nad Jantar. Niestety, zaden z nich nie wrocil. Otrzymalem informacje, ze niedaleko laboratorium nad Jantarem widziano kilku zombifikowanych stalkerow z tej grupy . Nie mozemy pozwolic, zeby pozostali w tym okropnym stanie. Twoje zadanie: znajdz i zniszcz to, czym sie stali.</text>
+		<text>Niedawno wysłaliśmy grupę ludzi nad Jantar. Niestety, żaden z nich nie wrócił. Otrzymałem informacje, że niedaleko laboratorium nad Jantarem widziano kilku zombifikowanych stalkerów z tej grupy . Nie możemy pozwolić, żeby pozostali w tym okropnym stanie. Twoje zadanie: znajdź i zniszcz to, czym się stali.</text>
 	</string>
 	<string id="dolg_eliminate_lager_10">
 		<text>Likwidacja celu</text>
 	</string>
 	<string id="dolg_eliminate_lager_10_descr">
-		<text>Pozbadz sie stada psow na Wysypisku.</text>
+		<text>Pozbądź się stada psów na Wysypisku.</text>
 	</string>
 	<string id="dolg_eliminate_lager_10_text">
-		<text>Oczywiscie nie zlecamy misji obcym stalkerom. Ale to rutynowe zadanie, wiec nie ma co zawracac glowy naszym. Oto jak sie przedstawia sytuacja: na Wysypisku trzeba zniszczyc niewielkie legowisko stworow. Jedna z naszych grup juz sie tym zajmuje, wiec w razie problemow, bedziesz sie mial gdzie wycofac. Nie przewiduje jednak zadnych problemow, bo bestii nie ma za wiele - najwyzej dziesiec. To prawdopodobnie psy: podobno w tej okolicy dostrzezono calkiem spore stado. Mozesz rozpoczac misje.</text>
+		<text>Oczywiście nie zlecamy misji obcym stalkerom. Ale to rutynowe zadanie, więc nie ma co zawracać głowy naszym. Oto jak się przedstawia sytuacja: na Wysypisku trzeba zniszczyć niewielkie legowisko stworów. Jedna z naszych grup już się tym zajmuje, więc w razie problemów, będziesz się miał gdzie wycofać. Nie przewiduję jednak żadnych problemów, bo bestii nie ma za wiele - najwyżej dziesięć. To prawdopodobnie psy: podobno w tej okolicy dostrzeżono całkiem spore stado. Możesz rozpocząć misję.</text>
 	</string>
 	<string id="dolg_eliminate_lager_11">
-		<text>Zniszcz oboz stalkerow</text>
+		<text>Zniszcz obóz stalkerów</text>
 	</string>
 	<string id="dolg_eliminate_lager_11_descr">
-		<text>Zniszcz oboz stalkerow w Agropromie.</text>
+		<text>Zniszcz obóz stalkerów w Agropromie.</text>
 	</string>
 	<string id="dolg_eliminate_lager_11_text">
-		<text>Jest pewna delikatna sprawa, ale nasi ludzie zdecydowanie nie powinni sie w to mieszac. Obecnosc neutralnych w fabryce w Agropromie nie jest pozadana przez naszych sprzymierzencow. Oto zadanie: oczysc okolice ze stalkerow bez wzgledu na to, kim sa albo do jakiej grupy naleza. Jasne?</text>
+		<text>Jest pewna delikatna sprawa, ale nasi ludzie zdecydowanie nie powinni się w to mieszać. Obecność neutralnych w fabryce w Agropromie nie jest pożądana przez naszych sprzymierzeńców. Oto zadanie: oczyść okolicę ze stalkerów bez względu na to, kim są albo do jakiej grupy należą. Jasne?</text>
 	</string>
 	<string id="dolg_eliminate_lager_12">
-		<text>Zlikwiduj oddzial najemnikow</text>
+		<text>Zlikwiduj oddział najemników</text>
 	</string>
 	<string id="dolg_eliminate_lager_12_descr">
-		<text>Zlikwiduj oddzial najemnikow w Dziczy.</text>
+		<text>Zlikwiduj oddział najemników w Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_12_text">
-		<text>Oto twoje zadanie: zlikwiduj oddzial snajperow z grupy najemnikow. Sytuacja wyglada nastepujaco: zajeli najwyzsze pietro na placu budowy. Prawdopodobna liczba: nie mniej niz dwoch, nie wiecej niz pieciu. Wedlug wszelkich przeslanek sa uzbrojeni w karabiny snajperskie. Rada: nie pokazuj sie tam za dnia.</text>
+		<text>Oto twoje zadanie: zlikwiduj oddział snajperów z grupy najemników. Sytuacja wygląda następująco: zajęli najwyższe piętro na placu budowy. Prawdopodobna liczba: nie mniej niż dwóch, nie więcej niż pięciu. Według wszelkich przesłanek są uzbrojeni w karabiny snajperskie. Rada: nie pokazuj się tam za dnia.</text>
 	</string>
 	<string id="dolg_eliminate_lager_13">
-		<text>Zlikwiduj baze bandytow</text>
+		<text>Zlikwiduj bazę bandytów</text>
 	</string>
 	<string id="dolg_eliminate_lager_13_descr">
-		<text>Zlikwiduj glowna baze bandytow w Dolinie Mroku</text>
+		<text>Zlikwiduj główną bazę bandytów w Dolinie Mroku</text>
 	</string>
 	<string id="dolg_eliminate_lager_13_text">
-		<text>Koniecznie trzeba napasc na glowna baze bandytow i zlikwidowac jak najwiecej wrogow. Baza znajduje sie w Dolinie Mroku, przy niedokonczonym centrum naukowym. Bojownikow wroga jest okolo trzydziestu - uzbrojeni w lekka bron automatyczna, pistolety, strzelby. Wszystko jasne?</text>
+		<text>Koniecznie trzeba napaść na główną bazę bandytów i zlikwidować jak najwięcej wrogów. Baza znajduje się w Dolinie Mroku, przy niedokończonym centrum naukowym. Bojowników wroga jest około trzydziestu - uzbrojeni w lekką broń automatyczną, pistolety, strzelby. Wszystko jasne?</text>
 	</string>
 	<string id="dolg_eliminate_lager_14">
 		<text>Zlikwiduj snorki.</text>
@@ -288,52 +288,52 @@
 		<text>Zlikwiduj snorki w tunelach nad Jantarem.</text>
 	</string>
 	<string id="dolg_eliminate_lager_14_text">
-		<text>Tym razem chodzi o czystke. Tunele nad Jantarem wprost uginaja sie pod ciezarem snorkow: jest ich tam okolo dziesieciu. Coz, nie mozna juz tam przeczekac burzy jak kiedys...</text>
+		<text>Tym razem chodzi o czystkę. Tunele nad Jantarem wprost uginają się pod ciężarem snorków: jest ich tam około dziesięciu. Cóż, nie można już tam przeczekać burzy jak kiedyś...</text>
 	</string>
 	<string id="dolg_eliminate_lager_2">
-		<text>Zlikwiduj stado miesaczy</text>
+		<text>Zlikwiduj stado mięsaczy</text>
 	</string>
 	<string id="dolg_eliminate_lager_2_descr">
-		<text>Zlikwiduj stado miesaczy w Dziczy.</text>
+		<text>Zlikwiduj stado mięsaczy w Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_2_text">
-		<text>Namierzylismy przemieszczajace sie calkiem duze stado stworow... To dosyc obrzydliwe swiniopodobne mutanty, ktore wszyscy nazywaja miesaczami. Sa teraz w okolicy Wysypiska. Wszyscy nasi ludzie maja robote, ale te stwory trzeba zlikwidowac. To wyjatkowe zadanie - zaplacimy.</text>
+		<text>Namierzyliśmy przemieszczające się całkiem duże stado stworów... To dosyć obrzydliwe świniopodobne mutanty, które wszyscy nazywają mięsaczami. Są teraz w okolicy Wysypiska. Wszyscy nasi ludzie mają robotę, ale te stwory trzeba zlikwidować. To wyjątkowe zadanie - zapłacimy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_3">
-		<text>Pozbadz sie nibypsow</text>
+		<text>Pozbądź się nibypsów</text>
 	</string>
 	<string id="dolg_eliminate_lager_3_descr">
-		<text>Zniszcz legowisko nibypsow niedaleko magazynow wojskowych.</text>
+		<text>Zniszcz legowisko nibypsów niedaleko magazynów wojskowych.</text>
 	</string>
 	<string id="dolg_eliminate_lager_3_text">
-		<text>Sprzymierzency powiadomili nas o odkryciu legowiska potworow na terenie magazynow wojskowych. Sadzimy, ze to stado nibypsow. Nie powinnismy sie teraz pokazywac na tamtym terenie, wiec to idealne zadanie dla kogos neutralnego. Wchodzisz w to?</text>
+		<text>Sprzymierzeńcy powiadomili nas o odkryciu legowiska potworów na terenie magazynów wojskowych. Sądzimy, że to stado nibypsów. Nie powinniśmy się teraz pokazywać na tamtym terenie, więc to idealne zadanie dla kogoś neutralnego. Wchodzisz w to?</text>
 	</string>
 	<string id="dolg_eliminate_lager_4">
-		<text>Zniszcz posterunek najemnikow</text>
+		<text>Zniszcz posterunek najemników</text>
 	</string>
 	<string id="dolg_eliminate_lager_4_descr">
-		<text>Zniszcz posterunek najemnikow niedaleko magazynow wojskowych.</text>
+		<text>Zniszcz posterunek najemników niedaleko magazynów wojskowych.</text>
 	</string>
 	<string id="dolg_eliminate_lager_4_text">
-		<text>Ostatnio dalo sie zauwazyc wzrost aktywnosci grup najemnikow - odnotowano kilka atakow na naukowcow i badaczy pracujacych w Zonie. Nie mozemy tego pozostawic bez odpowiedzi. Trzeba przeprowadzic niewielka akcje odwetowa. Cel: posterunek najemnikow niedaleko magazynow wojskowych za opuszczona wioska.</text>
+		<text>Ostatnio dało się zauważyć wzrost aktywności grup najemników - odnotowano kilka ataków na naukowców i badaczy pracujących w Zonie. Nie możemy tego pozostawić bez odpowiedzi. Trzeba przeprowadzić niewielką akcję odwetową. Cel: posterunek najemników niedaleko magazynów wojskowych za opuszczoną wioską.</text>
 	</string>
 	<string id="dolg_eliminate_lager_5">
-		<text>Zlikwiduj najemnikow w Dziczy</text>
+		<text>Zlikwiduj najemników w Dziczy</text>
 	</string>
 	<string id="dolg_eliminate_lager_5_descr">
-		<text>Zlikwiduj najemnikow w Dziczy.</text>
+		<text>Zlikwiduj najemników w Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_5_text">
-		<text>Grupa naukowcow planuje zbadac Dzicz. Ale ostatnio nie jest tam zbyt bezpiecznie, pojawili sie najemnicy... Dopilnuj, zeby stamtad znikneli.</text>
+		<text>Grupa naukowców planuje zbadać Dzicz. Ale ostatnio nie jest tam zbyt bezpiecznie, pojawili się najemnicy... Dopilnuj, żeby stamtąd zniknęli.</text>
 	</string>
 	<string id="dolg_eliminate_lager_6">
-		<text>Zabij bandytow</text>
+		<text>Zabij bandytów</text>
 	</string>
 	<string id="dolg_eliminate_lager_6_descr">
-		<text>Zabij bandytow, ktorzy dostali sie do Dziczy.</text>
+		<text>Zabij bandytów, którzy dostali się do Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_6_text">
-		<text>Ujme to wprost - bandyci omineli nasze posterunki przy barze i teraz sa w Dziczy. Trzeba ich zlikwidowac.</text>
+		<text>Ujmę to wprost - bandyci ominęli nasze posterunki przy barze i teraz są w Dziczy. Trzeba ich zlikwidować.</text>
 	</string>
 	<string id="dolg_eliminate_lager_7">
 		<text>Zniszcz Kontrolera</text>
@@ -342,328 +342,328 @@
 		<text>Zniszcz Kontrolera nad Jantarem.</text>
 	</string>
 	<string id="dolg_eliminate_lager_7_text">
-		<text>Do tego zadania potrzebne sa specjalne umiejetnosci. Wiemy od naukowcow, ze zauwazyli Kontrolera nad Jantarem, przy wejsciu do podziemnego laboratorium (w centralnym budynku). Kontrolerzy sa bardzo niebezpieczni, ale jestem pewny, ze sobie poradzisz.</text>
+		<text>Do tego zadania potrzebne są specjalne umiejętności. Wiemy od naukowców, że zauważyli Kontrolera nad Jantarem, przy wejściu do podziemnego laboratorium (w centralnym budynku). Kontrolerzy są bardzo niebezpieczni, ale jestem pewny, że sobie poradzisz.</text>
 	</string>
 	<string id="dolg_eliminate_lager_8">
-		<text>Zlikwiduj czlonkow "Wolnosci"</text>
+		<text>Zlikwiduj członków "Wolności"</text>
 	</string>
 	<string id="dolg_eliminate_lager_8_descr">
-		<text>Zlikwiduj czlonkow "Wolnosci" przebywajacych w opuszczonej wiosce niedaleko magazynow wojskowych.</text>
+		<text>Zlikwiduj członków "Wolności" przebywających w opuszczonej wiosce niedaleko magazynów wojskowych.</text>
 	</string>
 	<string id="dolg_eliminate_lager_8_text">
-		<text>Patrol "Wolnosci" przebywajacy w opuszczonej wiosce, niedaleko magazynow wojskowych ostatnio wzmogl dzialania. Pozbadz sie ich stamtad. Za wykonanie tego zadania bedzie na ciebie czekac specjalna nagroda.</text>
+		<text>Patrol "Wolności" przebywający w opuszczonej wiosce, niedaleko magazynów wojskowych ostatnio wzmógł działania. Pozbądź się ich stamtąd. Za wykonanie tego zadania będzie na ciebie czekać specjalna nagroda.</text>
 	</string>
 	<string id="dolg_eliminate_lager_9">
-		<text>Zlikwiduj bandytow</text>
+		<text>Zlikwiduj bandytów</text>
 	</string>
 	<string id="dolg_eliminate_lager_9_descr">
-		<text>Zlikwiduj bandytow na Wysypisku.</text>
+		<text>Zlikwiduj bandytów na Wysypisku.</text>
 	</string>
 	<string id="dolg_eliminate_lager_9_text">
-		<text>Obecna sytuacja nie jest za ciekawa - bandyci gromadza sie w okolicy Wysypiska i Doliny Mroku. Najlepszym wyjsciem jest przeprowadzenie dwoch atakow wyprzedzajacych w tym samym czasie! Nasi bojownicy zajma sie dolina, tobie przypada Wysypisko.</text>
+		<text>Obecna sytuacja nie jest za ciekawa - bandyci gromadzą się w okolicy Wysypiska i Doliny Mroku. Najlepszym wyjściem jest przeprowadzenie dwóch ataków wyprzedzających w tym samym czasie! Nasi bojownicy zajmą się doliną, tobie przypada Wysypisko.</text>
 	</string>
 	<string id="dolg_find_item_1">
-		<text>Znajdz ulepszony karabin</text>
+		<text>Znajdź ulepszony karabin</text>
 	</string>
 	<string id="dolg_find_item_1_descr">
-		<text>Znajdz egzemplarz ulepszonego TRs 301 niedaleko magazynow wojskowych.</text>
+		<text>Znajdź egzemplarz ulepszonego TRs 301 niedaleko magazynów wojskowych.</text>
 	</string>
 	<string id="dolg_find_item_1_text">
-		<text>Ktos pomaga najemnikom. Niedawno dostali karabiny maszynowe ulepszone tak, ze mozna z nich strzelac jak ze snajperek. Rozumiesz, ze to niebezpieczna zabawka? Chcialbym miec taka bron. Na pewno sie stosownie odwdziecze.</text>
+		<text>Ktoś pomaga najemnikom. Niedawno dostali karabiny maszynowe ulepszone tak, że można z nich strzelać jak ze snajperek. Rozumiesz, że to niebezpieczna zabawka? Chciałbym mieć taką broń. Na pewno się stosownie odwdzięczę.</text>
 	</string>
 	<string id="dolg_kill_stalker_1">
-		<text>Zlikwiduj bandyte</text>
+		<text>Zlikwiduj bandytę</text>
 	</string>
 	<string id="dolg_kill_stalker_1_descr">
-		<text>Zlikwiduj bandyte Pogrzebacza.</text>
+		<text>Zlikwiduj bandytę Pogrzebacza.</text>
 	</string>
 	<string id="dolg_kill_stalker_1_text">
-		<text>Ksywka goscia to Pogrzebacz. Jest jednym z najokrutniejszych przywodcow bandytow, kanalia i gwalcicielem... Niewatpliwie ma cos z glowa - podobno zlapal jakas rzadka chorobe w Zonie. Teraz czesto traci przytomnosc, a kiedy dochodzi do siebie, nie pamieta, kim jest i gdzie sie znajduje. Mimo to zawsze jest uzbrojony po zeby i bardzo agresywny. Prawdopodobne miejsce pobytu: Dolina Mroku. Gotow do rozpoczecia misji?</text>
+		<text>Ksywka gościa to Pogrzebacz. Jest jednym z najokrutniejszych przywódców bandytów, kanalią i gwałcicielem... Niewątpliwie ma coś z głową - podobno złapał jakąś rzadką chorobę w Zonie. Teraz często traci przytomność, a kiedy dochodzi do siebie, nie pamięta, kim jest i gdzie się znajduje. Mimo to zawsze jest uzbrojony po zęby i bardzo agresywny. Prawdopodobne miejsce pobytu: Dolina Mroku. Gotów do rozpoczęcia misji?</text>
 	</string>
 	<string id="drunk_dolg_find_item">
-		<text>Bron czlonka "Powinnosci"</text>
+		<text>Broń członka "Powinności"</text>
 	</string>
 	<string id="drunk_dolg_find_item_descr">
-		<text>Czlonek "Powinnosci" prosi, zebys znalazl bron, ktora zgubil gdzies w Dolinie Mroku w trakcie wyprawy zwiadowczej.</text>
+		<text>Członek "Powinności" prosi, żebyś znalazł broń, którą zgubił gdzieś w Dolinie Mroku w trakcie wyprawy zwiadowczej.</text>
 	</string>
 	<string id="drunk_dolg_find_item_text">
-		<text>Niepotrzebnie tak panikowalem. Zona na rozne sposoby miesza mi w glowie. Sadzilem, ze mam nerwy ze stali, ze niczego sie nie boje - a tu prosze. To wycie rozbrzmiewajace w uszach. Wszystko bylo jak zwykle. Szlismy na ekspedycje zwiadowcza do Doliny Mroku, zeszlismy z Kriwym do okopow, zeby kryc reszte oddzialu, a tu nagle uslyszalem to wycie i strach mnie chwycil za gardlo. Cholera, nawet nie pamietam, jak dotarlem na miejsce. Kiedy wrocilem do bazy, Woronin o malo co mnie nie zastrzelil na miejscu - przeciez dopiero co dal mi ulepszona giwere, jak to mowia: "za zaslugi"... A tu nagle... spanikowalem i zwialem tak szybko, ze przez mysl mi nie przeszlo, zeby ja zabrac. Odnajdziesz ja dla mnie? Bez porzadnej broni nie mam dokad pojsc. </text>
+		<text>Niepotrzebnie tak panikowałem. Zona na różne sposoby miesza mi w głowie. Sądziłem, że mam nerwy ze stali, że niczego się nie boję - a tu proszę. To wycie rozbrzmiewające w uszach. Wszystko było jak zwykle. Szliśmy na ekspedycję zwiadowczą do Doliny Mroku, zeszliśmy z Kriwym do okopów, żeby kryć resztę oddziału, a tu nagle usłyszałem to wycie i strach mnie chwycił za gardło. Cholera, nawet nie pamiętam, jak dotarłem na miejsce. Kiedy wróciłem do bazy, Woronin o mało co mnie nie zastrzelił na miejscu - przecież dopiero co dał mi ulepszoną giwerę, jak to mówią: "za zasługi"... A tu nagle... spanikowałem i zwiałem tak szybko, że przez myśl mi nie przeszło, żeby ją zabrać. Odnajdziesz ją dla mnie? Bez porządnej broni nie mam dokąd pójść. </text>
 	</string>
 	<string id="ecolog_eliminate_lager_1">
-		<text>Zniszcz legowisko snorkow</text>
+		<text>Zniszcz legowisko snorków</text>
 	</string>
 	<string id="ecolog_eliminate_lager_1_descr">
-		<text>Zniszcz legowisko snorkow nad Jantarem.</text>
+		<text>Zniszcz legowisko snorków nad Jantarem.</text>
 	</string>
 	<string id="ecolog_eliminate_lager_1_text">
-		<text>Otrzymasz niewielka ilosc pieniedzy, jesli mieszkajace na bagnach snorki przestana naprzykrzac sie mnie i moim kolegom. Czasem, gdy przeprowadzamy eksperymenty, kompletnie nie mozemy sie skupic.</text>
+		<text>Otrzymasz niewielką ilość pieniędzy, jeśli mieszkające na bagnach snorki przestaną naprzykrzać się mnie i moim kolegom. Czasem, gdy przeprowadzamy eksperymenty, kompletnie nie możemy się skupić.</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2">
-		<text>Zniszcz legowisko dzikich psow</text>
+		<text>Zniszcz legowisko dzikich psów</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2_descr">
-		<text>Zniszcz legowisko dzikich psow w Dziczy</text>
+		<text>Zniszcz legowisko dzikich psów w Dziczy</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2_text">
-		<text>W Dziczy znajduje sie legowisko zmutowanych psow. Chce, zebys tam wyruszyl i je zniszczyl. Te mutanty stanowia wyjatkowe zagrozenie dla naszych ekspedycji. Wiem, ze zoologowie tego nie pochwala, ale to przeciez nie zoo. Takie stwory roznosza wscieklizne, zaraze i Bog wie, co jeszcze.</text>
+		<text>W Dziczy znajduje się legowisko zmutowanych psów. Chcę, żebyś tam wyruszył i je zniszczył. Te mutanty stanowią wyjątkowe zagrożenie dla naszych ekspedycji. Wiem, że zoologowie tego nie pochwalą, ale to przecież nie zoo. Takie stwory roznoszą wściekliznę, zarazę i Bóg wie, co jeszcze.</text>
 	</string>
 	<string id="ecolog_find_artefact_1">
-		<text>Znajdz "kule ognista"</text>
+		<text>Znajdź "kulę ognistą"</text>
 	</string>
 	<string id="ecolog_find_artefact_1_descr">
-		<text>Dostarcz "kule ognista" naukowcom do badan.</text>
+		<text>Dostarcz "kulę ognistą" naukowcom do badań.</text>
 	</string>
 	<string id="ecolog_find_artefact_1_text">
-		<text>Udalo nam sie stworzyc artefakt w warunkach laboratoryjnych! To przelom! Caly swiat uslyszy o naszym sukcesie - Nobel na wyciagniecie reki! To wlasnie ten wyjatkowy artefakt: "blona". Jego glowna zaleta jest to, ze chroni przed oparzeniami chemicznymi. Chcesz, zebym ci go dal w imieniu naukowcow? Mam jednak prosbe - w zamian potrzebuje "kuli ognistej", slyszales o takim artefakcie? Trzeba go dokladnie zbadac ze wzgledu na wyjatkowe wlasciwosci termiczne jego powierzchni.</text>
+		<text>Udało nam się stworzyć artefakt w warunkach laboratoryjnych! To przełom! Cały świat usłyszy o naszym sukcesie - Nobel na wyciągnięcie ręki! To właśnie ten wyjątkowy artefakt: "błona". Jego główną zaletą jest to, że chroni przed oparzeniami chemicznymi. Chcesz, żebym ci go dał w imieniu naukowców? Mam jednak prośbę - w zamian potrzebuję "kuli ognistej", słyszałeś o takim artefakcie? Trzeba go dokładnie zbadać ze względu na wyjątkowe właściwości termiczne jego powierzchni.</text>
 	</string>
 	<string id="ecolog_find_artefact_2">
-		<text>Znajdz "grawi"</text>
+		<text>Znajdź "grawi"</text>
 	</string>
 	<string id="ecolog_find_artefact_2_descr">
-		<text>Przynies naukowcom "grawi".</text>
+		<text>Przynieś naukowcom "grawi".</text>
 	</string>
 	<string id="ecolog_find_artefact_2_text">
-		<text>Jestesmy juz blisko zrozumienia istoty grawitacji. Juz wkrotce bedziemy w stanie stworzyc nowa generacje silnikow na bazie antygrawitacji. Bardzo mozliwe, ze dzieki temu droga do gwiazd stanie przed nami otworem. Potrzebujemy jednak "grawi", i to szybko.</text>
+		<text>Jesteśmy już blisko zrozumienia istoty grawitacji. Już wkrótce będziemy w stanie stworzyć nową generację silników na bazie antygrawitacji. Bardzo możliwe, że dzięki temu droga do gwiazd stanie przed nami otworem. Potrzebujemy jednak "grawi", i to szybko.</text>
 	</string>
 	<string id="ecolog_find_artefact_3">
-		<text>Znajdz "meduze"</text>
+		<text>Znajdź "meduzę"</text>
 	</string>
 	<string id="ecolog_find_artefact_3_descr">
-		<text>Naukowcy potrzebuja "meduzy" do przeprowadzenia badan czasoprzestrzeni.</text>
+		<text>Naukowcy potrzebują "meduzy" do przeprowadzenia badań czasoprzestrzeni.</text>
 	</string>
 	<string id="ecolog_find_artefact_3_text">
-		<text>Nasza ekipa badawcza jest na granicy odkrycia tajemnicy czasoprzestrzeni. Mozliwosc teleportacji nie jest juz mrzonka! Lejek to anomalia, ktora sciska przestrzen, zamiast oddzialywac na obiekty sila grawitacji, w co wierza niektorzy z moich zramolalych kolegow naukowcow, ktorzy siedza w cieplym osrodku badawczym, przezuwajac krede. Zaparuja im okulary, jak sie dowiedza, do czego zdolna jest nauka, jesli pracujesz w terenie! Prosze, zdobadz dla mnie "meduze".</text>
+		<text>Nasza ekipa badawcza jest na granicy odkrycia tajemnicy czasoprzestrzeni. Możliwość teleportacji nie jest już mrzonką! Lejek to anomalia, która ściska przestrzeń, zamiast oddziaływać na obiekty siłą grawitacji, w co wierzą niektórzy z moich zramolałych kolegów naukowców, którzy siedzą w ciepłym ośrodku badawczym, przeżuwając kredę. Zaparują im okulary, jak się dowiedzą, do czego zdolna jest nauka, jeśli pracujesz w terenie! Proszę, zdobądź dla mnie "meduzę".</text>
 	</string>
 	<string id="ecolog_find_artefact_4">
-		<text>Znajdz "blask ksiezyca"</text>
+		<text>Znajdź "blask księżyca"</text>
 	</string>
 	<string id="ecolog_find_artefact_4_descr">
-		<text>Znajdz dla naukowcow znad Jantaru "blask ksiezyca". Wspanialy artefakt...</text>
+		<text>Znajdź dla naukowców znad Jantaru "blask księżyca". Wspaniały artefakt...</text>
 	</string>
 	<string id="ecolog_find_artefact_4_text">
-		<text>Rozpaczliwie potrzebujemy nowych materialow, zeby kontynuowac badania z zakresu energetyki. Widzisz, nauczylismy sie wytwarzac energie z pomoca artefaktow. Normalnie nie mozemy liczyc na zbyt wysoka wydajnosc, ale dzieki "blaskowi ksiezyca" osiagamy o wiele lepsze wyniki. Przynies nam probke takiego artefaktu do eksperymentow.</text>
+		<text>Rozpaczliwie potrzebujemy nowych materiałów, żeby kontynuować badania z zakresu energetyki. Widzisz, nauczyliśmy się wytwarzać energię z pomocą artefaktów. Normalnie nie możemy liczyć na zbyt wysoką wydajność, ale dzięki "blaskowi księżyca" osiągamy o wiele lepsze wyniki. Przynieś nam próbkę takiego artefaktu do eksperymentów.</text>
 	</string>
 	<string id="ecolog_find_artefact_5">
-		<text>Znajdz "jezowca"</text>
+		<text>Znajdź "jeżowca"</text>
 	</string>
 	<string id="ecolog_find_artefact_5_descr">
-		<text>Naukowcy potrzebuja "jezowca", zeby ulepszyc swoje kombinezony.</text>
+		<text>Naukowcy potrzebują "jeżowca", żeby ulepszyć swoje kombinezony.</text>
 	</string>
 	<string id="ecolog_find_artefact_5_text">
-		<text>Zdajesz sobie chyba sprawe, ze nasze kombinezony zapewniaja najlepsza ochrone przed promieniowaniem. Ich sekret tkwi w tym, ze nasaczamy je plynem stworzonym z dosyc rzadkiego artefaktu. Teraz potrzebujemy kolejnego, zeby wyprodukowac nowa partie kombinezonow. Wy mowicie na niego "jezowiec".</text>
+		<text>Zdajesz sobie chyba sprawę, że nasze kombinezony zapewniają najlepszą ochronę przed promieniowaniem. Ich sekret tkwi w tym, że nasączamy je płynem stworzonym z dosyć rzadkiego artefaktu. Teraz potrzebujemy kolejnego, żeby wyprodukować nową partię kombinezonów. Wy mówicie na niego "jeżowiec".</text>
 	</string>
 	<string id="ecolog_find_item_1">
-		<text>Przynies unikatowy kombinezon</text>
+		<text>Przynieś unikatowy kombinezon</text>
 	</string>
 	<string id="ecolog_find_item_1_descr">
-		<text>Przynies unikatowy kombinezon z podziemnego laboratorium X16.</text>
+		<text>Przynieś unikatowy kombinezon z podziemnego laboratorium X16.</text>
 	</string>
 	<string id="ecolog_find_item_1_text">
-		<text>Mamy do ciebie sprawe. Niedawno wynajelismy stalkera, zeby dostal sie do laboratorium. Zauwazylem, ze ma niezwykly kombinezon, ktory wydziela odczuwalne cieplo. Stalker powiedzial, ze kombinezon leczy rany. A teraz sie okazuje, ze stalker nie wrocil z laboratorium. O nie! Nawet tak nie mysl - nie mielismy z tym nic wspolnego! Jego kombinezon prawdopodobnie ciagle tam jest. Bylbym przeszczesliwy, gdybym mogl go zbadac. </text>
+		<text>Mamy do ciebie sprawę. Niedawno wynajęliśmy stalkera, żeby dostał się do laboratorium. Zauważyłem, że ma niezwykły kombinezon, który wydziela odczuwalne ciepło. Stalker powiedział, że kombinezon leczy rany. A teraz się okazuje, że stalker nie wrócił z laboratorium. O nie! Nawet tak nie myśl - nie mieliśmy z tym nic wspólnego! Jego kombinezon prawdopodobnie ciągle tam jest. Byłbym przeszczęśliwy, gdybym mógł go zbadać. </text>
 	</string>
 	<string id="ecolog_monster_part_1">
-		<text>Przynies czesc ciala snorka</text>
+		<text>Przynieś część ciała snorka</text>
 	</string>
 	<string id="ecolog_monster_part_1_descr">
-		<text>W tych okolicach znalezienie czesci ciala snorka to zaden problem.</text>
+		<text>W tych okolicach znalezienie części ciała snorka to żaden problem.</text>
 	</string>
 	<string id="ecolog_monster_part_1_text">
-		<text>Poznalismy sie z Siemienowem jeszcze na uniwersytecie, gdzie mialem wyklady z genetyki - byl moim studentem. W ten sposob zostalem jego naukowym zwierzchnikiem. Wtedy jeszcze odslanianie tajemnicy modyfikacji genomu znajdowalo sie w powijakach. O czym to ja mowilem? Ach, tak. Do eksperymentow bedziemy potrzebowac swiezych komorek tkanki miesniowej snorka. Zeby zdobyc ten material genetyczny, trzeba bedzie przetrzasnac mokradla. Istnieje hipoteza, wedlug ktorej snorki jako gatunek stanowia nastepne stadium ewolucji czlowieka. Zeby sie co do tego upewnic, potrzebujemy DNA do badan!</text>
+		<text>Poznaliśmy się z Siemienowem jeszcze na uniwersytecie, gdzie miałem wykłady z genetyki - był moim studentem. W ten sposób zostałem jego naukowym zwierzchnikiem. Wtedy jeszcze odsłanianie tajemnicy modyfikacji genomu znajdowało się w powijakach. O czym to ja mówiłem? Ach, tak. Do eksperymentów będziemy potrzebować świeżych komórek tkanki mięśniowej snorka. Żeby zdobyć ten materiał genetyczny, trzeba będzie przetrząsnąć mokradła. Istnieje hipoteza, według której snorki jako gatunek stanowią następne stadium ewolucji człowieka. Żeby się co do tego upewnić, potrzebujemy DNA do badań!</text>
 	</string>
 	<string id="ecolog_monster_part_2">
-		<text>Przynies oko miesacza</text>
+		<text>Przynieś oko mięsacza</text>
 	</string>
 	<string id="ecolog_monster_part_2_descr">
-		<text>Chyba lepiej, zebym sie nie zblizal do tych jajoglowych - tak na wszelki wypadek! W porzadku, zdobede dla nich oko miesacza, a potem moga z tymi swoimi ochotnikami robic, co im sie podoba.</text>
+		<text>Chyba lepiej, żebym się nie zbliżał do tych jajogłowych - tak na wszelki wypadek! W porządku, zdobędę dla nich oko mięsacza, a potem mogą z tymi swoimi ochotnikami robić, co im się podoba.</text>
 	</string>
 	<string id="ecolog_monster_part_2_text">
-		<text>Dobre wiesci, mlody czlowieku: mamy dla ciebie bardzo ciekawe zadanie! Sadze, ze jako istota myslaca z pewnym doswiadczeniem bedziesz w stanie docenic teorie moich kolegow. Nasze badania wykazaly, ze stworzenia zwane miesaczami sa wyposazone w... nadazasz?... w receptory wechowe! Dzieki temu moga nie tylko widziec, ale rowniez wachac oczami! Przygotowujemy sie do wszczepienia tych wspanialych oczu... jednemu z naszych asystentow-ochotnikow. Sadze, ze zapoczatkujemy nowy trend! A tak przy okazji - chcialbys otrzymac ten niezwykly narzad?</text>
+		<text>Dobre wieści, młody człowieku: mamy dla ciebie bardzo ciekawe zadanie! Sądzę, że jako istota myśląca z pewnym doświadczeniem będziesz w stanie docenić teorie moich kolegów. Nasze badania wykazały, że stworzenia zwane mięsaczami są wyposażone w... nadążasz?... w receptory węchowe! Dzięki temu mogą nie tylko widzieć, ale również wąchać oczami! Przygotowujemy się do wszczepienia tych wspaniałych oczu... jednemu z naszych asystentów-ochotników. Sądzę, że zapoczątkujemy nowy trend! A tak przy okazji - chciałbyś otrzymać ten niezwykły narząd?</text>
 	</string>
 	<string id="ecolog_monster_part_3">
-		<text>Przynies noge dzika</text>
+		<text>Przynieś nogę dzika</text>
 	</string>
 	<string id="ecolog_monster_part_3_descr">
-		<text>Poszukiwacze dreszczyka emocji... W porzadku, zdobede dla nich troche szynki.</text>
+		<text>Poszukiwacze dreszczyka emocji... W porządku, zdobędę dla nich trochę szynki.</text>
 	</string>
 	<string id="ecolog_monster_part_3_text">
-		<text>Witaj, hm... podrozniku! Tak sie ciesze, ze wpadles - potrzebujemy kogos, kto wezmie udzial w bardzo waznym eksperymencie. Moj kolega, Brenter, chce sporzadzic posilek na bazie miejscowej fauny, zeby zbadac w praktyce wplyw zmutowanego bialka na organizm ludzki. Na poczatek postanowil wyprobowac dziki. Potrzebujemy szynki - nogi dzika, jasne? A jesli sie podejmiesz tego zadania, wybierz, prosze, najzdrowszy okaz.</text>
+		<text>Witaj, hm... podróżniku! Tak się cieszę, że wpadłeś - potrzebujemy kogoś, kto weźmie udział w bardzo ważnym eksperymencie. Mój kolega, Brenter, chce sporządzić posiłek na bazie miejscowej fauny, żeby zbadać w praktyce wpływ zmutowanego białka na organizm ludzki. Na początek postanowił wypróbować dziki. Potrzebujemy szynki - nogi dzika, jasne? A jeśli się podejmiesz tego zadania, wybierz, proszę, najzdrowszy okaz.</text>
 	</string>
 	<string id="ecolog_monster_part_4">
-		<text>Przynies ogon nibypsa</text>
+		<text>Przynieś ogon nibypsa</text>
 	</string>
 	<string id="ecolog_monster_part_4_descr">
-		<text>Tylko spojrz na te Nauke! Probuja znalezc u ludzi drugi mozg? Biedne pieski - teraz jeden z nich bedzie sobie musial radzic bez ogona.</text>
+		<text>Tylko spójrz na tę Naukę! Próbują znaleźć u ludzi drugi mózg? Biedne pieski - teraz jeden z nich będzie sobie musiał radzić bez ogona.</text>
 	</string>
 	<string id="ecolog_monster_part_4_text">
-		<text>Witaj, chlopcze! Chcialbys nam jeszcze raz pomoc? Mam nadzieje, ze wiesz, iz psy naleza do kregowcow... co znaczy, ze ich kregoslup zaczyna sie od glowy, a konczy na ogonie. I tu tkwi haczyk! Jeden z moich mlodych kolegow udowodnil teoretycznie, ze kregoslup nibypsow - gdyz tak nazwaliscie te zwierzeta - zaczyna sie od ogona, nie od glowy! Tylko sie zastanow - to zupelnie podwaza wszelkie nasze zalozenia dotyczace tej dziedziny wiedzy. Powstaly juz nawet odwazne teorie, ktore zakladaja, ze istoty ludzkie wokol kosci krzyzowej maja... no, ale na ten temat sa jeszcze prowadzone dyskusje. Krotko mowiac, potrzebujemy glowy nibypsa, ktora przez wlasna niewiedze uwazalismy za jego ogon.</text>
+		<text>Witaj, chłopcze! Chciałbyś nam jeszcze raz pomóc? Mam nadzieję, że wiesz, iż psy należą do kręgowców... co znaczy, że ich kręgosłup zaczyna się od głowy, a kończy na ogonie. I tu tkwi haczyk! Jeden z moich młodych kolegów udowodnił teoretycznie, że kręgosłup nibypsów - gdyż tak nazwaliście te zwierzęta - zaczyna się od ogona, nie od głowy! Tylko się zastanów - to zupełnie podważa wszelkie nasze założenia dotyczące tej dziedziny wiedzy. Powstały już nawet odważne teorie, które zakładają, że istoty ludzkie wokół kości krzyżowej mają... no, ale na ten temat są jeszcze prowadzone dyskusje. Krótko mówiąc, potrzebujemy głowy nibypsa, którą przez własną niewiedzę uważaliśmy za jego ogon.</text>
 	</string>
 	<string id="ecolog_monster_part_5">
-		<text>Przynies macki pijawki</text>
+		<text>Przynieś macki pijawki</text>
 	</string>
 	<string id="ecolog_monster_part_5_descr">
-		<text>Nie obchodzi mnie, co chca zrobic ze szczeka pijawki. Obchodzi mnie za to, ile dostane za ten rarytas.</text>
+		<text>Nie obchodzi mnie, co chcą zrobić ze szczęką pijawki. Obchodzi mnie za to, ile dostanę za ten rarytas.</text>
 	</string>
 	<string id="ecolog_monster_part_5_text">
-		<text>Ciesze sie, ze cie widze, stalkerze! Hm… Miales juz do czynienia z pijawkami, prawda? Jesli nie, chcielibysmy, zeby to nastapilo. Przynies nam dolna szczeke przedstawiciela tego gatunku z calym - jak by to ujac - serwisem obiadowym. Niestety, nie moge zdradzic ci szczegolow dotyczacych eksperymentu. Poza tym chyba i tak zle by to wplynelo na twoja psychike. Bedziemy czekac.</text>
+		<text>Cieszę się, że cię widzę, stalkerze! Hm… Miałeś już do czynienia z pijawkami, prawda? Jeśli nie, chcielibyśmy, żeby to nastąpiło. Przynieś nam dolną szczękę przedstawiciela tego gatunku z całym - jak by to ująć - serwisem obiadowym. Niestety, nie mogę zdradzić ci szczegółów dotyczących eksperymentu. Poza tym chyba i tak źle by to wpłynęło na twoją psychikę. Będziemy czekać.</text>
 	</string>
 	<string id="eliminate_lager">
 		<text>Likwidacja grupy</text>
 	</string>
 	<string id="find_item">
-		<text>Znajdz przedmiot</text>
+		<text>Znajdź przedmiot</text>
 	</string>
 	<string id="freedom_defend_lager_1">
-		<text>Ochron stalkerow w Agropromie</text>
+		<text>Ochroń stalkerów w Agropromie</text>
 	</string>
 	<string id="freedom_defend_lager_1_descr">
-		<text>Odeprzyj bandytow atakujacych oboz stalkerow w Agropromie.</text>
+		<text>Odeprzyj bandytów atakujących obóz stalkerów w Agropromie.</text>
 	</string>
 	<string id="freedom_defend_lager_1_text">
-		<text>Pewna grupa stalkerow mieszka w Agropromie. Normalni goscie - rozumieja, ze Zona to miejsce pelne wolnosci, ze prawo tu nie obowiazuje i ze trzeba postepowac zgodnie z wlasnym sumieniem. A teraz zaczeli rozwazac przylaczenie sie do nas. Pomozesz im odeprzec bandytow? Przeslemy ci amunicje.</text>
+		<text>Pewna grupa stalkerów mieszka w Agropromie. Normalni goście - rozumieją, że Zona to miejsce pełne wolności, że prawo tu nie obowiązuje i że trzeba postępować zgodnie z własnym sumieniem. A teraz zaczęli rozważać przyłączenie się do nas. Pomożesz im odeprzeć bandytów? Prześlemy ci amunicję.</text>
 	</string>
 	<string id="freedom_defend_lager_2">
-		<text>Ochron granice</text>
+		<text>Ochroń granicę</text>
 	</string>
 	<string id="freedom_defend_lager_2_descr">
-		<text>Ochron przed potworami granice niedaleko magazynow wojskowych.</text>
+		<text>Ochroń przed potworami granicę niedaleko magazynów wojskowych.</text>
 	</string>
 	<string id="freedom_defend_lager_2_text">
-		<text>Znowu od strony Zweglacza zblizaja sie potwory. Pomoz ludziom na granicy je powstrzymac. Gwarantuje, ze dostaniesz nagrode.</text>
+		<text>Znowu od strony Zwęglacza zbliżają się potwory. Pomóż ludziom na granicy je powstrzymać. Gwarantuję, że dostaniesz nagrodę.</text>
 	</string>
 	<string id="freedom_eliminate_camp_1">
-		<text>Zniszcz oboz wojskowy</text>
+		<text>Zniszcz obóz wojskowy</text>
 	</string>
 	<string id="freedom_eliminate_camp_1_descr">
-		<text>Zniszcz oboz wojskowy przy Instytucie Badawczym Agroprom.</text>
+		<text>Zniszcz obóz wojskowy przy Instytucie Badawczym Agroprom.</text>
 	</string>
 	<string id="freedom_eliminate_camp_1_text">
-		<text>Wojsko przygotowuje stopniowe przejecie Zony. Musimy ich spowolnic, w przeciwnym wypadku Zona zmieni sie w jedno wielkie zoo. Jeden z ich obozow znajduje sie tuz przy Agropromie. Nawet jesli nie zniszczysz go doszczetnie, i tak opoznisz przejecie Zony przez armie. </text>
+		<text>Wojsko przygotowuje stopniowe przejęcie Zony. Musimy ich spowolnić, w przeciwnym wypadku Zona zmieni się w jedno wielkie zoo. Jeden z ich obozów znajduje się tuż przy Agropromie. Nawet jeśli nie zniszczysz go doszczętnie, i tak opóźnisz przejęcie Zony przez armię. </text>
 	</string>
 	<string id="freedom_eliminate_camp_2">
-		<text>Zniszcz oboz najemnikow</text>
+		<text>Zniszcz obóz najemników</text>
 	</string>
 	<string id="freedom_eliminate_camp_2_descr">
-		<text>Zniszcz oboz najemnikow przy magazynach.</text>
+		<text>Zniszcz obóz najemników przy magazynach.</text>
 	</string>
 	<string id="freedom_eliminate_camp_2_text">
-		<text>Sprawa wyglada tak: trzeba zniszczyc oboz najemnikow. Moglibysmy dac im spokoj, w koncu dobrzy z nich strzelcy... Ale naprawde sami sie prosza o klopoty - wkradaja sie na nasze terytorium, probuja przekupywac moich ludzi. Juz czas dac im nauczke. Zrobisz to?</text>
+		<text>Sprawa wygląda tak: trzeba zniszczyć obóz najemników. Moglibyśmy dać im spokój, w końcu dobrzy z nich strzelcy... Ale naprawdę sami się proszą o kłopoty - wkradają się na nasze terytorium, próbują przekupywać moich ludzi. Już czas dać im nauczkę. Zrobisz to?</text>
 	</string>
 	<string id="freedom_eliminate_camp_3">
-		<text>Zniszcz oddzial "Powinnosci"</text>
+		<text>Zniszcz oddział "Powinności"</text>
 	</string>
 	<string id="freedom_eliminate_camp_3_descr">
-		<text>Zniszcz czyscicieli "Powinnosci" w Rostoku.</text>
+		<text>Zniszcz czyścicieli "Powinności" w Rostoku.</text>
 	</string>
 	<string id="freedom_eliminate_camp_3_text">
-		<text>A moze by sie tak wybrac na polowanie? Oddzial czyscicieli "Powinnosci" pojawil sie w Rostoku. To swietna okazja, zeby wziac ich z zaskoczenia. "Powinnosc" ciagle wysyla ludzi na polowania na potwory, ale nie wahaja sie zabic nikogo, kto choc troche im sie nie podoba. Trzeba zlikwidowac ten oddzial, zanim "Powinnosc" przybedzie do Rostoku. Nie powinno byc ich zbyt wielu: trzech lub czterech weteranow i kilku kotow.</text>
+		<text>A może by się tak wybrać na polowanie? Oddział czyścicieli "Powinności" pojawił się w Rostoku. To świetna okazja, żeby wziąć ich z zaskoczenia. "Powinność" ciągle wysyła ludzi na polowania na potwory, ale nie wahają się zabić nikogo, kto choć trochę im się nie podoba. Trzeba zlikwidować ten oddział, zanim "Powinność" przybędzie do Rostoku. Nie powinno być ich zbyt wielu: trzech lub czterech weteranów i kilku kotów.</text>
 	</string>
 	<string id="freedom_eliminate_camp_4">
-		<text>Zniszcz placowke "Powinnosci"</text>
+		<text>Zniszcz placówkę "Powinności"</text>
 	</string>
 	<string id="freedom_eliminate_camp_4_descr">
-		<text>Najszybciej jak to mozliwe zniszcz placowke "Powinnosci" na Wysypisku.</text>
+		<text>Najszybciej jak to możliwe zniszcz placówkę "Powinności" na Wysypisku.</text>
 	</string>
 	<string id="freedom_eliminate_camp_4_text">
-		<text>Mam niezmiernie pilne zlecenie. Trzeba usunac jednostke "Powinnosci" z drogi z Wysypiska do baru... Zaczeli sie tam ukrywac i okradac tych, ktorzy tamtedy przejezdzaja. Czekamy na bardzo wazna przesylke, ale w takiej sytuacji musimy brac pod uwage, ze "Powinnosc" juz o niej wie i ze bedzie chciala napasc na kuriera. Musimy sie pozbyc tej przeszkody - nawet jesli tylko na jakis czas. Okej?</text>
+		<text>Mam niezmiernie pilne zlecenie. Trzeba usunąć jednostkę "Powinności" z drogi z Wysypiska do baru... Zaczęli się tam ukrywać i okradać tych, którzy tamtędy przejeżdżają. Czekamy na bardzo ważną przesyłkę, ale w takiej sytuacji musimy brać pod uwagę, że "Powinność" już o niej wie i że będzie chciała napaść na kuriera. Musimy się pozbyć tej przeszkody - nawet jeśli tylko na jakiś czas. Okej?</text>
 	</string>
 	<string id="freedom_eliminate_camp_5">
-		<text>Oczysc wioske.</text>
+		<text>Oczyść wioskę.</text>
 	</string>
 	<string id="freedom_eliminate_camp_5_descr">
-		<text>Oczysc wioske z pijawek i - jesli to mozliwe - zlikwiduj Kontrolera. </text>
+		<text>Oczyść wioskę z pijawek i - jeśli to możliwe - zlikwiduj Kontrolera. </text>
 	</string>
 	<string id="freedom_eliminate_camp_5_text">
-		<text>Czlowieku! Spojrz na te cholerne pijawki, od ktorych az sie roi w wiosce! Nikt poza zupelnymi idiotami nie podchodzi blizej niz na sto metrow. A niektorzy mowia, ze ich oczom ukazuja sie rozne rzeczy... jeszcze tylko Kontrolera nam tam brakuje! Najwyzszy czas to zakonczyc. Nie zmuszam cie - prawde mowiac, sam bym tam nie poszedl. Ale jesli sie nie boisz, moja wdziecznosc nie bedzie znala granic. </text>
+		<text>Człowieku! Spójrz na te cholerne pijawki, od których aż się roi w wiosce! Nikt poza zupełnymi idiotami nie podchodzi bliżej niż na sto metrów. A niektórzy mówią, że ich oczom ukazują się różne rzeczy... jeszcze tylko Kontrolera nam tam brakuje! Najwyższy czas to zakończyć. Nie zmuszam cię - prawdę mówiąc, sam bym tam nie poszedł. Ale jeśli się nie boisz, moja wdzięczność nie będzie znała granic. </text>
 	</string>
 	<string id="freedom_eliminate_camp_6">
-		<text>Zlikwiduj stado dzikow i miesaczy.</text>
+		<text>Zlikwiduj stado dzików i mięsaczy.</text>
 	</string>
 	<string id="freedom_eliminate_camp_6_descr">
-		<text>Zlikwiduj stado dzikow i miesaczy w poblizu magazynow wojskowych.</text>
+		<text>Zlikwiduj stado dzików i mięsaczy w pobliżu magazynów wojskowych.</text>
 	</string>
 	<string id="freedom_eliminate_camp_6_text">
-		<text>Nasz snajper jest przy wejsciu do bazy. Siedzi w nocy na wiezy... jest cicho, ciemno... a tu nagle slychac wybuch, dzikie piski, blysk! Co, do... ? Okazuje sie, ze dziki i miesacze przyzwyczaily sie do wycieczek w okolice pola minowego. Czort jeden wie, po co tam laza, ale przynajmniej raz na tydzien jedna z tych bestii zostaje rozerwana przez mine. Zadanie jest proste - wybij te tepe stwory. Zrobisz to?</text>
+		<text>Nasz snajper jest przy wejściu do bazy. Siedzi w nocy na wieży... jest cicho, ciemno... a tu nagle słychać wybuch, dzikie piski, błysk! Co, do... ? Okazuje się, że dziki i mięsacze przyzwyczaiły się do wycieczek w okolice pola minowego. Czort jeden wie, po co tam łażą, ale przynajmniej raz na tydzień jedna z tych bestii zostaje rozerwana przez minę. Zadanie jest proste - wybij te tępe stwory. Zrobisz to?</text>
 	</string>
 	<string id="freedom_eliminate_camp_7">
-		<text>Zniszcz stado tuszkanow</text>
+		<text>Zniszcz stado tuszkanów</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_descr">
-		<text>Zniszcz stado tuszkanow w Dziczy</text>
+		<text>Zniszcz stado tuszkanów w Dziczy</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_text">
-		<text>W poblizu naszej bazy nie ma tuszkanow, a przeciez one moga dotrzec wszedzie! Jednak calkiem niedawno bylo tu ich tyle, ze bys nie uwierzyl. Dwa miesiace sie z nimi uzeralismy... he, he, he. Wykombinowalismy, skad przylazly do nas do bazy. Z Dziczy, kapujesz? Boimy sie, ze te skaczace szczury sie rozmnoza i wroca. Potrzebujemy kogos, kto sie tym dla nas zajmie. Zrobisz to?</text>
+		<text>W pobliżu naszej bazy nie ma tuszkanów, a przecież one mogą dotrzeć wszędzie! Jednak całkiem niedawno było tu ich tyle, że byś nie uwierzył. Dwa miesiące się z nimi użeraliśmy... he, he, he. Wykombinowaliśmy, skąd przylazły do nas do bazy. Z Dziczy, kapujesz? Boimy się, że te skaczące szczury się rozmnożą i wrócą. Potrzebujemy kogoś, kto się tym dla nas zajmie. Zrobisz to?</text>
 	</string>
 	<string id="freedom_find_item_1">
 		<text>Ukradnij karabin snajperski</text>
 	</string>
 	<string id="freedom_find_item_1_descr">
-		<text>Ukradnij z magazynu "Powinnosci" ulepszony SWD-M 2.</text>
+		<text>Ukradnij z magazynu "Powinności" ulepszony SWD-M 2.</text>
 	</string>
 	<string id="freedom_find_item_1_text">
-		<text>Mam wyjatkowe zlecenie... i calkiem ciezkie. Musisz odzyskac ulepszonego Dragunowa z magazynu "Powinnosci". Karabin ma nawet swoja nazwe, ale to nieistotne. Najwazniejsze, ze dzieki niesamowitemu celownikowi i redukcji sily odrzutu mozesz z odleglosci 400 metrow trafic wiewiorke w oko. Ufam, ze sie tym zajmiesz!</text>
+		<text>Mam wyjątkowe zlecenie... i całkiem ciężkie. Musisz odzyskać ulepszonego Dragunowa z magazynu "Powinności". Karabin ma nawet swoją nazwę, ale to nieistotne. Najważniejsze, że dzięki niesamowitemu celownikowi i redukcji siły odrzutu możesz z odległości 400 metrów trafić wiewiórkę w oko. Ufam, że się tym zajmiesz!</text>
 	</string>
 	<string id="freedom_find_item_2">
-		<text>Zdobadz ulepszonego Chasera 13</text>
+		<text>Zdobądź ulepszonego Chasera 13</text>
 	</string>
 	<string id="freedom_find_item_2_descr">
-		<text>Zdobadz od naukowcow ulepszonego Chasera 13.</text>
+		<text>Zdobądź od naukowców ulepszonego Chasera 13.</text>
 	</string>
 	<string id="freedom_find_item_2_text">
-		<text>Slyszalem, ze jajoglowym udalo sie ulepszyc strzelbe Chaser przy pomocy artefaktu. Sile razenia ma taka sama jak haubica. Zloz im wizyte i sprawdz, czy mozesz ubic interes. Pokryje wszystkie wydatki!</text>
+		<text>Słyszałem, że jajogłowym udało się ulepszyć strzelbę Chaser przy pomocy artefaktu. Siłę rażenia ma taką samą jak haubica. Złóż im wizytę i sprawdź, czy możesz ubić interes. Pokryję wszystkie wydatki!</text>
 	</string>
 	<string id="freedom_find_item_3">
-		<text>Przynies kamizelke kuloodporna</text>
+		<text>Przynieś kamizelkę kuloodporną</text>
 	</string>
 	<string id="freedom_find_item_3_descr">
-		<text>Przynies egzemplarz nowej kamizelki kuloodpornej.</text>
+		<text>Przynieś egzemplarz nowej kamizelki kuloodpornej.</text>
 	</string>
 	<string id="freedom_find_item_3_text">
-		<text>Niektore trepy paraduja w nowych kamizelkach kuloodpornych. Podszewka zostala nasaczona jakas mascia lecznicza czy czyms takim... tak czy inaczej, niewielkie rany bardzo szybko sie goja. I posluchaj, jakie szczescie: nie tak dawno dziesieciu gosci ruszylo nad Jantar, ale wrocilo tylko szesciu, niosac trzech kolejnych. Juz rozumiesz? Jeden tam zostal. Jesli zdobedziesz dla nas jego kamizelke, rozlozymy ja na czesci i zrobimy sobie takie same.</text>
+		<text>Niektóre trepy paradują w nowych kamizelkach kuloodpornych. Podszewka została nasączona jakąś maścią leczniczą czy czymś takim... tak czy inaczej, niewielkie rany bardzo szybko się goją. I posłuchaj, jakie szczęście: nie tak dawno dziesięciu gości ruszyło nad Jantar, ale wróciło tylko sześciu, niosąc trzech kolejnych. Już rozumiesz? Jeden tam został. Jeśli zdobędziesz dla nas jego kamizelkę, rozłożymy ją na części i zrobimy sobie takie same.</text>
 	</string>
 	<string id="freedom_kill_stalker_1">
-		<text>Zabij szefa ochrony "Powinnosci"</text>
+		<text>Zabij szefa ochrony "Powinności"</text>
 	</string>
 	<string id="freedom_kill_stalker_1_descr">
-		<text>Zabij szefa ochrony "Powinnosci" i postaraj sie to zrobic jak najciszej sie da.</text>
+		<text>Zabij szefa ochrony "Powinności" i postaraj się to zrobić jak najciszej się da.</text>
 	</string>
 	<string id="freedom_kill_stalker_1_text">
-		<text>Byloby wspaniale, gdyby szef ochrony "Powinnosci" nagle zniknal. A kiedy zapanuje chaos, bede w stanie umiescic w ich bandzie kilku swoich ludzi. Wtedy bedzie mozna wyciac kazdy numer... dobra, lepiej juz sie zamkne. Sugeruje, zebys sie nim zajal z pewnej odleglosci, nie robiac zamieszania. </text>
+		<text>Byłoby wspaniale, gdyby szef ochrony "Powinności" nagle zniknął. A kiedy zapanuje chaos, będę w stanie umieścić w ich bandzie kilku swoich ludzi. Wtedy będzie można wyciąć każdy numer... dobra, lepiej już się zamknę. Sugeruję, żebyś się nim zajął z pewnej odległości, nie robiąc zamieszania. </text>
 	</string>
 	<string id="freedom_kill_stalker_2">
 		<text>Zabij kapitana Iwancowa</text>
 	</string>
 	<string id="freedom_kill_stalker_2_descr">
-		<text>Zabij kapitana Iwancowa, prawa reke przywodcy "Powinnosci". </text>
+		<text>Zabij kapitana Iwancowa, prawą rękę przywódcy "Powinności". </text>
 	</string>
 	<string id="freedom_kill_stalker_2_text">
-		<text>Od razu cie ostrzegam, ze to ciezkie zadanie, ale warto je wykonac. Iwancow, bliski wspolpracownik przywodcy "Powinnosci", az sie prosi o klopoty. Zajmuje sie cala brudna robota: akcjami odwetowymi, nalotami... Gdybys tylko wiedzial, ilu naszych chlopcow juz zabil! Najwyzszy czas, zebysmy skonczyli z ta gnida. Jesli sie zdecydujesz to zrobic, proponuje, zebys sie dobrze uzbroil.</text>
+		<text>Od razu cię ostrzegam, że to ciężkie zadanie, ale warto je wykonać. Iwancow, bliski współpracownik przywódcy "Powinności", aż się prosi o kłopoty. Zajmuje się całą brudną robotą: akcjami odwetowymi, nalotami... Gdybyś tylko wiedział, ilu naszych chłopców już zabił! Najwyższy czas, żebyśmy skończyli z tą gnidą. Jeśli się zdecydujesz to zrobić, proponuję, żebyś się dobrze uzbroił.</text>
 	</string>
 	<string id="freedom_kill_stalker_3">
-		<text>Zabij pulkownika Pietrienke</text>
+		<text>Zabij pułkownika Pietrienkę</text>
 	</string>
 	<string id="freedom_kill_stalker_3_descr">
-		<text>Zabij pulkownika Pietrienke, jednego z zalozycieli "Powinnosci".</text>
+		<text>Zabij pułkownika Pietrienkę, jednego z założycieli "Powinności".</text>
 	</string>
 	<string id="freedom_kill_stalker_3_text">
-		<text>Pulkownik Pietrienko... Moze slyszales to nazwisko, a moze go poznales, ale byloby dobrze, gdybyscie sie spotkali. Ten czlowiek to jeden z zalozycieli "Powinnosci" i jeden z naszych smiertelnych wrogow. Postaraj sie, zeby wasza rozmowa zakonczyla sie jak najszybciej... dla niego. Poradzisz sobie?</text>
+		<text>Pułkownik Pietrienko... Może słyszałeś to nazwisko, a może go poznałeś, ale byłoby dobrze, gdybyście się spotkali. Ten człowiek to jeden z założycieli "Powinności" i jeden z naszych śmiertelnych wrogów. Postaraj się, żeby wasza rozmowa zakończyła się jak najszybciej... dla niego. Poradzisz sobie?</text>
 	</string>
 	<string id="freedom_kill_stalker_4">
-		<text>Wykoncz neutralnego stalkera</text>
+		<text>Wykończ neutralnego stalkera</text>
 	</string>
 	<string id="freedom_kill_stalker_4_descr">
-		<text>Znajdz i wykoncz neutralnego stalkera.</text>
+		<text>Znajdź i wykończ neutralnego stalkera.</text>
 	</string>
 	<string id="freedom_kill_stalker_4_text">
-		<text>Kreci sie tu niedaleko koles, ktory kiedys zastrzelil jednego z naszych. Czegos takiego nie mozna puscic plazem. Zajmiesz sie tym? Zaplacimy, nie martw sie.</text>
+		<text>Kręci się tu niedaleko koleś, który kiedyś zastrzelił jednego z naszych. Czegoś takiego nie można puścić płazem. Zajmiesz się tym? Zapłacimy, nie martw się.</text>
 	</string>
 	<string id="freedom_kill_stalker_5">
-		<text>Zabij jednego z dowodcow "Powinnosci"</text>
+		<text>Zabij jednego z dowódców "Powinności"</text>
 	</string>
 	<string id="freedom_kill_stalker_5_descr">
-		<text>Zabij jednego z dowodcow "Powinnosci"</text>
+		<text>Zabij jednego z dowódców "Powinności"</text>
 	</string>
 	<string id="freedom_kill_stalker_5_text">
-		<text>Zaplace za glowe kazdego z szefow "Powinnosci"! Sprzatnij jakiegos i wroc po nagrode.</text>
+		<text>Zapłacę za głowę każdego z szefów "Powinności"! Sprzątnij jakiegoś i wróć po nagrodę.</text>
 	</string>
 	<string id="freedom_kill_stalker_6">
 		<text>Zabij stalkera zwanego Strachem</text>
@@ -672,127 +672,127 @@
 		<text>Zlikwiduj stalkera zwanego Strachem.</text>
 	</string>
 	<string id="freedom_kill_stalker_6_text">
-		<text>Likwidujemy potwory - z tym, ze dla nas to kwestia przetrwania, a nie zysku. Populacje mutantow nie sa tak liczne, a poza tym to tez zywe stworzenia, wiec nie mozemy pozwolic na ich wytepienie. Niektorzy nie chca tego zrozumiec - swietnym tego przykladem jest stalker zwany Strachem. Nie bez powodu dostal te ksywke, gdyz sprzedaje wypchane mutanty. Juz go ostrzegalismy, ale na nic. Moze wiec spelnisz dobry uczynek dla matki natury?</text>
+		<text>Likwidujemy potwory - z tym, że dla nas to kwestia przetrwania, a nie zysku. Populacje mutantów nie są tak liczne, a poza tym to też żywe stworzenia, więc nie możemy pozwolić na ich wytępienie. Niektórzy nie chcą tego zrozumieć - świetnym tego przykładem jest stalker zwany Strachem. Nie bez powodu dostał tę ksywkę, gdyż sprzedaje wypchane mutanty. Już go ostrzegaliśmy, ale na nic. Może więc spełnisz dobry uczynek dla matki natury?</text>
 	</string>
 	<string id="freedom_kill_stalker_7">
 		<text>Zabij stalkera zwanego Barin</text>
 	</string>
 	<string id="freedom_kill_stalker_7_descr">
-		<text>Zabij stalkera zwanego Barinem, glownego kwatermistrza "Powinnosci".</text>
+		<text>Zabij stalkera zwanego Barinem, głównego kwatermistrza "Powinności".</text>
 	</string>
 	<string id="freedom_kill_stalker_7_text">
-		<text>Lajdak, wazeliniarz, hipokryta i na dodatek tchorz... dla ciebie Barin. Jak widzisz, ma wspanialy charakter, dzieki czemu dostal sie na szczyt "Powinnosci". Obecnie zaopatruje grupe w zapasy, choc od czasu do czasu bierze rowniez udzial w wypadach. Musimy sie go pozbyc, szczegolnie ze wszystkie tropy dotyczace logistyki "Powinnosci" prowadza do Barina.</text>
+		<text>Łajdak, wazeliniarz, hipokryta i na dodatek tchórz... dla ciebie Barin. Jak widzisz, ma wspaniały charakter, dzięki czemu dostał się na szczyt "Powinności". Obecnie zaopatruje grupę w zapasy, choć od czasu do czasu bierze również udział w wypadach. Musimy się go pozbyć, szczególnie że wszystkie tropy dotyczące logistyki "Powinności" prowadzą do Barina.</text>
 	</string>
 	<string id="freedom_monster_part_1">
-		<text>Przynies noge dzika</text>
+		<text>Przynieś nogę dzika</text>
 	</string>
 	<string id="freedom_monster_part_1_descr">
-		<text>Przynies noge dzika.</text>
+		<text>Przynieś nogę dzika.</text>
 	</string>
 	<string id="freedom_monster_part_1_text">
-		<text>Planujemy wydac przyjecie z okazji urodzin Boba Marleya. Moze wiec zdobedziesz troche pysznej szynki? Im wiecej, tym lepiej! Jahwe nigdy ci tego nie zapomni!</text>
+		<text>Planujemy wydać przyjęcie z okazji urodzin Boba Marleya. Może więc zdobędziesz trochę pysznej szynki? Im więcej, tym lepiej! Jahwe nigdy ci tego nie zapomni!</text>
 	</string>
 	<string id="hunter_eliminate_lager">
 		<text>Zniszcz legowisko pijawek</text>
 	</string>
 	<string id="hunter_eliminate_lager_descr">
-		<text>Lowca prosi o zniszczenie legowiska pijawek we wsi, niedaleko magazynow wojskowych. W nagrode obiecuje rzadki artefakt. </text>
+		<text>Łowca prosi o zniszczenie legowiska pijawek we wsi, niedaleko magazynów wojskowych. W nagrodę obiecuje rzadki artefakt. </text>
 	</string>
 	<string id="hunter_eliminate_lager_text">
-		<text>Spotkales kiedys pijawke? Przerazajace stworzenie, prawda? Pewnego razu poszedlem do wsi niedaleko magazynow wojskowych - pomyslalem sobie, ze poszukam artefaktow. I wyobraz sobie - nagle widze pijawke... czarna, z bliznami na calym ciele. Kuca przy swojej ofierze, nie widzi mnie. Spanikowalem i spieprzylem stamtad. Nie powinienem byl jednak biec, bo mnie uslyszala i zaczela gonic. Wszedzie wokol slyszalem wycie i zrozumialem, ze nie byla sama. Sadze, ze maja tam legowisko. Jesli przepedzisz je daleko stad, dam ci rzadki artefakt, ktory znalazlem kilka dni temu.</text>
+		<text>Spotkałeś kiedyś pijawkę? Przerażające stworzenie, prawda? Pewnego razu poszedłem do wsi niedaleko magazynów wojskowych - pomyślałem sobie, że poszukam artefaktów. I wyobraź sobie - nagle widzę pijawkę... czarną, z bliznami na całym ciele. Kuca przy swojej ofierze, nie widzi mnie. Spanikowałem i spieprzyłem stamtąd. Nie powinienem był jednak biec, bo mnie usłyszała i zaczęła gonić. Wszędzie wokół słyszałem wycie i zrozumiałem, że nie była sama. Sądzę, że mają tam legowisko. Jeśli przepędzisz je daleko stąd, dam ci rzadki artefakt, który znalazłem kilka dni temu.</text>
 	</string>
 	<string id="kill_stalker">
 		<text>Zabij stalkera</text>
 	</string>
 	<string id="lisiy_kill_stalker">
-		<text>Zabij zdrajce</text>
+		<text>Zabij zdrajcę</text>
 	</string>
 	<string id="lisiy_kill_stalker_descr">
-		<text>Lysol chce, zebys zabil stalkera, ktory uciekl z bardzo rzadkim artefaktem.</text>
+		<text>Łysol chce, żebyś zabił stalkera, który uciekł z bardzo rzadkim artefaktem.</text>
 	</string>
 	<string id="lisiy_kill_stalker_text">
-		<text>Jakis czas temu razem z innym stalkerem wybralismy sie w podroz niedaleko Zweglacza. Znalezlismy mnostwo rzeczy, w tym kilka artefaktow, jakich nigdy wczesniej nie widzialem nawet na zdjeciach. A ten sukinsyn mnie wykiwal. Ostatniej nocy wykradl sie i schowal najcenniejsze artefakty, a potem probowal mi wmowic, ze same zniknely. Kilka dni temu widzialem jeden z nich u Barmana. Ale sie wkurzylem... W kazdym razie, jesli dasz rade go znalezc, przekaz mu ode mnie olowiane pozdrowienia. A tak przy okazji - moze od razu uda ci sie dowiedziec, gdzie jest jego schowek i zdobyc drugi artefakt? Warto, wierz mi.</text>
+		<text>Jakiś czas temu razem z innym stalkerem wybraliśmy się w podróż niedaleko Zwęglacza. Znaleźliśmy mnóstwo rzeczy, w tym kilka artefaktów, jakich nigdy wcześniej nie widziałem nawet na zdjęciach. A ten sukinsyn mnie wykiwał. Ostatniej nocy wykradł się i schował najcenniejsze artefakty, a potem próbował mi wmówić, że same zniknęły. Kilka dni temu widziałem jeden z nich u Barmana. Ale się wkurzyłem... W każdym razie, jeśli dasz radę go znaleźć, przekaż mu ode mnie ołowiane pozdrowienia. A tak przy okazji - może od razu uda ci się dowiedzieć, gdzie jest jego schowek i zdobyć drugi artefakt? Warto, wierz mi.</text>
 	</string>
 	<string id="mercenary_kill_stalker">
-		<text>Zabij mistrza stalkerow</text>
+		<text>Zabij mistrza stalkerów</text>
 	</string>
 	<string id="mercenary_kill_stalker_descr">
-		<text>Najemnicy powinni zaplacic za zabojstwo kazdego mistrza. Im mniej jest mistrzow, tym latwiej dla najemnikow.</text>
+		<text>Najemnicy powinni zapłacić za zabójstwo każdego mistrza. Im mniej jest mistrzów, tym łatwiej dla najemników.</text>
 	</string>
 	<string id="mercenary_kill_stalker_text">
-		<text>Nie mamy interesu w tym, zeby do Zony zawitaly chodzace pancerniki - uzbrojeni po zeby stalkerzy w egzoszkieletach. Praca stanie sie przez to niebezpieczniejsza i ciezsza. Im jest ich mniej, tym lepiej dla nas. Zabij ktoregos, a otrzymasz nagrode.</text>
+		<text>Nie mamy interesu w tym, żeby do Zony zawitały chodzące pancerniki - uzbrojeni po zęby stalkerzy w egzoszkieletach. Praca stanie się przez to niebezpieczniejsza i cięższa. Im jest ich mniej, tym lepiej dla nas. Zabij któregoś, a otrzymasz nagrodę.</text>
 	</string>
 	<string id="monster_part">
-		<text>Zdobadz czesc ciala potwora</text>
+		<text>Zdobądź część ciała potwora</text>
 	</string>
 	<string id="petrenko_kill_stalker">
-		<text>Zlikwiduj stalkera z "Wolnosci".</text>
+		<text>Zlikwiduj stalkera z "Wolności".</text>
 	</string>
 	<string id="petrenko_kill_stalker_descr">
-		<text>Pewien stalker, byly czlonek "Powinnosci", ktory posiadal wiele waznych informacji o obiektach w Prypeci, przeszedl na strone "Wolnosci". Trzeba go usunac, zanim powie za duzo.</text>
+		<text>Pewien stalker, były członek "Powinności", który posiadał wiele ważnych informacji o obiektach w Prypeci, przeszedł na stronę "Wolności". Trzeba go usunąć, zanim powie za dużo.</text>
 	</string>
 	<string id="petrenko_kill_stalker_text">
-		<text>Posluchaj. Mamy plany Prypeci - nie wspolczesne, ale stare, zrobione we wczesnych latach dziewiecdziesiatych. Najwazniejsze na nich sa oznaczenia wszelkich obiektow wojskowych: podziemnych magazynow czy schronow przeciwbombowych. Oczywiscie teraz nie mamy z tych planow zbyt wiele pozytku, ale jesli znajdziemy droge do Prypeci, informacje te stana sie bezcenne. Jest jednak pewien problem. Jeden z naszych oficerow przeszedl na strone "Wolnosci", a wiedzial o tym wszystkim. Krotko mowiac, trzeba go zlikwidowac, zanim powie za duzo.</text>
+		<text>Posłuchaj. Mamy plany Prypeci - nie współczesne, ale stare, zrobione we wczesnych latach dziewięćdziesiątych. Najważniejsze na nich są oznaczenia wszelkich obiektów wojskowych: podziemnych magazynów czy schronów przeciwbombowych. Oczywiście teraz nie mamy z tych planów zbyt wiele pożytku, ale jeśli znajdziemy drogę do Prypeci, informacje te staną się bezcenne. Jest jednak pewien problem. Jeden z naszych oficerów przeszedł na stronę "Wolności", a wiedział o tym wszystkim. Krótko mówiąc, trzeba go zlikwidować, zanim powie za dużo.</text>
 	</string>
 	<string id="return_for_reward">
-		<text>Wroc po nagrode</text>
+		<text>Wróć po nagrodę</text>
 	</string>
 	<string id="return_for_reward_bring">
 		<text>Dostarcz klientowi obiecany przedmiot</text>
 	</string>
 	<string id="shustriy_find_item">
-		<text>Znajdz ulepszony kombinezon</text>
+		<text>Znajdź ulepszony kombinezon</text>
 	</string>
 	<string id="shustriy_find_item_descr">
-		<text>Zwawy powiedzial mi o schowku, w ktorym bandyci ukryli lup. Chce skradziony kombinezon, a w zamian oczywiscie proponuje nagrode.</text>
+		<text>Żwawy powiedział mi o schowku, w którym bandyci ukryli łup. Chce skradziony kombinezon, a w zamian oczywiście proponuje nagrodę.</text>
 	</string>
 	<string id="shustriy_find_item_text">
-		<text>Kiedy bylem jencem, slyszalem, jak bandyci rozmawiaja o ukrytym schowku, w ktorym trzymaja lup. Podobno ukryli tam super kurtke, a dzien pozniej jakis stwor upatrzyl sobie ten schowek i teraz boja sie tam pojsc. Zrob mi przysluge - przynies te kurtke, a dobrze ci zaplace.</text>
+		<text>Kiedy byłem jeńcem, słyszałem, jak bandyci rozmawiają o ukrytym schowku, w którym trzymają łup. Podobno ukryli tam super kurtkę, a dzień później jakiś stwór upatrzył sobie ten schowek i teraz boją się tam pójść. Zrób mi przysługę - przynieś tę kurtkę, a dobrze ci zapłacę.</text>
 	</string>
 	<string id="tm_barman_has_no_job">
-		<text>W tej chwili nic nie moge zaproponowac.</text>
+		<text>W tej chwili nic nie mogę zaproponować.</text>
 	</string>
 	<string id="tm_barman_job_ask">
-		<text>A o czym chcesz porozmawiac?</text>
+		<text>A o czym chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_barman_job_complete">
-		<text>Dobra robota, zasluzyles na nagrode!</text>
+		<text>Dobra robota, zasłużyłeś na nagrodę!</text>
 	</string>
 	<string id="tm_barman_job_what">
 		<text>Co tam?</text>
 	</string>
 	<string id="tm_barman_list_job">
-		<text>Spojrz, co teraz mamy:</text>
+		<text>Spójrz, co teraz mamy:</text>
 	</string>
 	<string id="tm_defend_camp_1">
-		<text>Ochron oddzial "Powinnosci" przed atakiem bandytow w Dolinie Mroku.</text>
+		<text>Ochroń oddział "Powinności" przed atakiem bandytów w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_defend_camp_1_descr">
-		<text>Ochron oddzial "Powinnosci" przed atakiem bandytow w Dolinie Mroku.</text>
+		<text>Ochroń oddział "Powinności" przed atakiem bandytów w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_defend_camp_1_text">
-		<text>W koncu mi sie udalo wbic w te zakute lby czlonkow "Powinnosci", ze juz najwyzszy czas wykurzyc bandytow z Wysypiska. "Powinnosc" zwiekszy w ten sposob swoj teren i nie bedzie juz tak czesto szkodzic moim stalym klientom. Oto jak wyglada sytuacja: na poczatek przywodcy "Powinnosci" postanowili zatrzymac naplyw bandytow z Doliny Mroku. Ustawili wiec blokade i odkryli, ze bandytom sie to nie podoba. Kto by pomyslal?! Wiec zastanawiam sie, czy nie moglbys pomoc im zabezpieczyc wejscia do Doliny. Bardzo hojnie ci podziekuje.</text>
+		<text>W końcu mi się udało wbić w te zakute łby członków "Powinności", że już najwyższy czas wykurzyć bandytów z Wysypiska. "Powinność" zwiększy w ten sposób swój teren i nie będzie już tak często szkodzić moim stałym klientom. Oto jak wygląda sytuacja: na początek przywódcy "Powinności" postanowili zatrzymać napływ bandytów z Doliny Mroku. Ustawili więc blokadę i odkryli, że bandytom się to nie podoba. Kto by pomyślał?! Więc zastanawiam się, czy nie mógłbyś pomóc im zabezpieczyć wejścia do Doliny. Bardzo hojnie ci podziękuję.</text>
 	</string>
 	<string id="tm_dolg_has_no_job">
-		<text>W tej chwili nie ma zadnych zadan.</text>
+		<text>W tej chwili nie ma żadnych zadań.</text>
 	</string>
 	<string id="tm_dolg_job_ask">
-		<text>O czym chcesz porozmawiac?</text>
+		<text>O czym chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_dolg_job_complete">
-		<text>Zuch chlopak! Swietnie sie spisales!</text>
+		<text>Zuch chłopak! Świetnie się spisałeś!</text>
 	</string>
 	<string id="tm_dolg_job_what">
-		<text>Slucham.</text>
+		<text>Słucham.</text>
 	</string>
 	<string id="tm_dolg_list_job">
-		<text>Oto nowe informacje dotyczace zadania:</text>
+		<text>Oto nowe informacje dotyczące zadania:</text>
 	</string>
 	<string id="tm_drunk_dolg_has_no_job">
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_drunk_dolg_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_drunk_dolg_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -801,130 +801,130 @@
 		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_drunk_dolg_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="tm_ecolog_has_no_job">
-		<text>Przykro mi, ale w tym momencie nie mamy zadnych zlecen.</text>
+		<text>Przykro mi, ale w tym momencie nie mamy żadnych zleceń.</text>
 	</string>
 	<string id="tm_ecolog_job_ask">
-		<text>Co to za zlecenie, o ktorym chcesz porozmawiac?</text>
+		<text>Co to za zlecenie, o którym chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_ecolog_job_complete">
-		<text>Swietnie sie spisales! Pozwol, ze wrecze ci nagrode.</text>
+		<text>Świetnie się spisałeś! Pozwól, że wręczę ci nagrodę.</text>
 	</string>
 	<string id="tm_ecolog_job_what">
-		<text>Slucham.</text>
+		<text>Słucham.</text>
 	</string>
 	<string id="tm_ecolog_list_job">
-		<text>Tyle ci moge zaproponowac:</text>
+		<text>Tyle ci mogę zaproponować:</text>
 	</string>
 	<string id="tm_eliminate_camp_1">
-		<text>Zniszcz oboz bandytow na Wysypisku</text>
+		<text>Zniszcz obóz bandytów na Wysypisku</text>
 	</string>
 	<string id="tm_eliminate_camp_1_descr">
-		<text>Zlikwiduj przebywajacych na Wysypisku bandytow, ktorzy okradaja stalkerow wracajacych z Zony. Handlarz sie ucieszy.</text>
+		<text>Zlikwiduj przebywających na Wysypisku bandytów, którzy okradają stalkerów wracających z Zony. Handlarz się ucieszy.</text>
 	</string>
 	<string id="tm_eliminate_camp_1_text">
-		<text>Niedawno bandyci sie zjednoczyli i wchodza w parade uczciwym ludziom, ktorzy chca handlowac... Wiec ruszaj prosto na Wysypisko - slyszalem, ze te gnojki siedza niedaleko zlomowiska. Jesli sie zajmiesz ta sprawa, wszyscy beda ci wdzieczni i hojnie cie nagrodza. Zgoda?</text>
+		<text>Niedawno bandyci się zjednoczyli i wchodzą w paradę uczciwym ludziom, którzy chcą handlować... Więc ruszaj prosto na Wysypisko - słyszałem, że te gnojki siedzą niedaleko złomowiska. Jeśli się zajmiesz tą sprawą, wszyscy będą ci wdzięczni i hojnie cię nagrodzą. Zgoda?</text>
 	</string>
 	<string id="tm_eliminate_camp_2">
-		<text>Zniszcz oboz bandytow na parkingu.</text>
+		<text>Zniszcz obóz bandytów na parkingu.</text>
 	</string>
 	<string id="tm_eliminate_camp_2_descr">
-		<text>Zlikwiduj bandytow na parkingu. Wyglada na to, ze sa nowi w Zonie, wiec robota nie powinna byc trudna.</text>
+		<text>Zlikwiduj bandytów na parkingu. Wygląda na to, że są nowi w Zonie, więc robota nie powinna być trudna.</text>
 	</string>
 	<string id="tm_eliminate_camp_2_text">
-		<text>Bandyci znowu kreca sie w okolicy parkingu. Juz pewnie wiesz, na czym polega zadanie? No to... do roboty! Przekaz im od nas gorace pozdrowienia i wroc - wtedy ci podziekuje. Umowa stoi? </text>
+		<text>Bandyci znowu kręcą się w okolicy parkingu. Już pewnie wiesz, na czym polega zadanie? No to... do roboty! Przekaż im od nas gorące pozdrowienia i wróć - wtedy ci podziękuję. Umowa stoi? </text>
 	</string>
 	<string id="tm_eliminate_camp_3">
-		<text>Zlikwiduj bandytow</text>
+		<text>Zlikwiduj bandytów</text>
 	</string>
 	<string id="tm_eliminate_camp_3_descr">
-		<text>Zlikwiduj bandytow w okolicy Instytutu Badawczego Agroprom. Lepiej zostac w przyjacielskich stosunkach z handlarzem.</text>
+		<text>Zlikwiduj bandytów w okolicy Instytutu Badawczego Agroprom. Lepiej zostać w przyjacielskich stosunkach z handlarzem.</text>
 	</string>
 	<string id="tm_eliminate_camp_3_text">
-		<text>W okolicy Instytutu Agroprom pojawili sie bandyci. Przeszkadzaja moim kopaczom przegladac odpadki. Rozwiaz ten problem, a bede twoim dluznikiem.</text>
+		<text>W okolicy Instytutu Agroprom pojawili się bandyci. Przeszkadzają moim kopaczom przeglądać odpadki. Rozwiąż ten problem, a będę twoim dłużnikiem.</text>
 	</string>
 	<string id="tm_eliminate_camp_4">
-		<text>Oczysc teren z mutantow</text>
+		<text>Oczyść teren z mutantów</text>
 	</string>
 	<string id="tm_eliminate_camp_4_descr">
-		<text>Oczysc teren z mutantow.</text>
+		<text>Oczyść teren z mutantów.</text>
 	</string>
 	<string id="tm_eliminate_camp_4_text">
-		<text>Jest jedna rzecz - calkiem latwa. Chca tu przywiezc jakiegos turyste obcokrajowca. Zaplacil kupe kasy moim ziomkom, zeby moc spojrzec na Zone. A teren, ktory mu pokaza, trzeba oczyscic z mutantow. Zrobisz to?</text>
+		<text>Jest jedna rzecz - całkiem łatwa. Chcą tu przywieźć jakiegoś turystę obcokrajowca. Zapłacił kupę kasy moim ziomkom, żeby móc spojrzeć na Zonę. A teren, który mu pokażą, trzeba oczyścić z mutantów. Zrobisz to?</text>
 	</string>
 	<string id="tm_eliminate_camp_5">
-		<text>Zlikwiduj dwoch bandytow na Wysypisku.</text>
+		<text>Zlikwiduj dwóch bandytów na Wysypisku.</text>
 	</string>
 	<string id="tm_eliminate_camp_5_descr">
-		<text>Zabezpiecz droge do jednego z najlepszych ogolnodostepnych miejsc w Zonie.</text>
+		<text>Zabezpiecz drogę do jednego z najlepszych ogólnodostępnych miejsc w Zonie.</text>
 	</string>
 	<string id="tm_eliminate_camp_5_text">
-		<text>Niedawno jedno z najlepszych miejsc w Zonie stalo sie niedostepne dla milosnikow piekna. Na Wysypisku... tak, na Wysypisku jest takie jedno urocze miejsce, zupelnie inne niz wszystkie, gdzie opuszcza cie wszelki smutek, gdzie zapominasz o brudzie, pieniadzach, o krwi. Zapominales, znaczy sie. Bo teraz jest tam dwoch jelopow, ktorzy groza, ze zabija kazdego, kto im nie zaplaci za wejscie. Pozbadz sie ich - tylko tam moge zabierac turystow.</text>
+		<text>Niedawno jedno z najlepszych miejsc w Zonie stało się niedostępne dla miłośników piękna. Na Wysypisku... tak, na Wysypisku jest takie jedno urocze miejsce, zupełnie inne niż wszystkie, gdzie opuszcza cię wszelki smutek, gdzie zapominasz o brudzie, pieniądzach, o krwi. Zapominałeś, znaczy się. Bo teraz jest tam dwóch jełopów, którzy grożą, że zabiją każdego, kto im nie zapłaci za wejście. Pozbądź się ich - tylko tam mogę zabierać turystów.</text>
 	</string>
 	<string id="tm_eliminate_camp_6">
-		<text>Zabij pijawke w Dolinie Mroku</text>
+		<text>Zabij pijawkę w Dolinie Mroku</text>
 	</string>
 	<string id="tm_eliminate_camp_6_descr">
-		<text>Zabij pijawke w Dolinie Mroku.</text>
+		<text>Zabij pijawkę w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_eliminate_camp_6_text">
-		<text>Podobno oddzialy wojska opuscily Doline Mroku. A wtedy z kazdej szczeliny zaczely wylazic potwory. Stalkerzy dostrzegli juz tam pijawke, i to niezwykla - taka, ktora nie boi sie otwartych przestrzeni. Jak wiesci o tym dotra do naukowcow, na pewno beda chcieli ja zbadac. A ja chce byc tym, kto da im jej cialo. Twoim zadaniem jest zabicie pijawki, a ja sie zajme reszta.</text>
+		<text>Podobno oddziały wojska opuściły Dolinę Mroku. A wtedy z każdej szczeliny zaczęły wyłazić potwory. Stalkerzy dostrzegli już tam pijawkę, i to niezwykłą - taką, która nie boi się otwartych przestrzeni. Jak wieści o tym dotrą do naukowców, na pewno będą chcieli ją zbadać. A ja chcę być tym, kto da im jej ciało. Twoim zadaniem jest zabicie pijawki, a ja się zajmę resztą.</text>
 	</string>
 	<string id="tm_find_artefact_1">
-		<text>Znajdz "meduze"</text>
+		<text>Znajdź "meduzę"</text>
 	</string>
 	<string id="tm_find_artefact_1_descr">
-		<text>Znajdz "meduze", ktora powstala w anomalii zwanej "Trampolina".</text>
+		<text>Znajdź "meduzę", która powstała w anomalii zwanej "Trampoliną".</text>
 	</string>
 	<string id="tm_find_artefact_1_text">
-		<text>Jakis koles z Wielkiej Krainy poprosil o "meduze". Nie ma za to duzo pieniedzy, ale tez zadanie jest bajecznie proste. Bierz!</text>
+		<text>Jakiś koleś z Wielkiej Krainy poprosił o "meduzę". Nie ma za to dużo pieniędzy, ale też zadanie jest bajecznie proste. Bierz!</text>
 	</string>
 	<string id="tm_find_artefact_2">
-		<text>Znajdz "kamienny kwiat"</text>
+		<text>Znajdź "kamienny kwiat"</text>
 	</string>
 	<string id="tm_find_artefact_2_descr">
-		<text>Znajdz "kamienny kwiat", ktory powstal w anomalii zwanej "Trampolina". Podobno dobrze za to placa.</text>
+		<text>Znajdź "kamienny kwiat", który powstał w anomalii zwanej "Trampoliną". Podobno dobrze za to płacą.</text>
 	</string>
 	<string id="tm_find_artefact_2_text">
-		<text>Mam zamowienie na "kamienny kwiat". Tak przy okazji - zlecenie pochodzi od jubilerow, wiec nie zawiedzmy pieknych pan, co? Jesli go zdobedziesz, dostaniesz pieniadze i butelke, zebys mogl wypic za ich zdrowie... </text>
+		<text>Mam zamówienie na "kamienny kwiat". Tak przy okazji - zlecenie pochodzi od jubilerów, więc nie zawiedźmy pięknych pań, co? Jeśli go zdobędziesz, dostaniesz pieniądze i butelkę, żebyś mógł wypić za ich zdrowie... </text>
 	</string>
 	<string id="tm_find_artefact_3">
-		<text>Znajdz "gwiazde wieczorna" </text>
+		<text>Znajdź "gwiazdę wieczorną" </text>
 	</string>
 	<string id="tm_find_artefact_3_descr">
-		<text>Znajdz "gwiazde wieczorna", rzadko spotykany i drogi artefakt. </text>
+		<text>Znajdź "gwiazdę wieczorną", rzadko spotykany i drogi artefakt. </text>
 	</string>
 	<string id="tm_find_artefact_3_text">
-		<text>Mam jedno zlecenie... dosyc nieprzyjemna robota. Wojskowi pracuja nad jakimis nowymi sposobami ochrony. Potrzebuja do tego "gwiazdy wieczornej". To dosyc rzadko spotykany artefakt, ale podobno calkiem niezle chroni przed kulami... Zrobisz to? Dobrze ci zaplace! </text>
+		<text>Mam jedno zlecenie... dosyć nieprzyjemna robota. Wojskowi pracują nad jakimiś nowymi sposobami ochrony. Potrzebują do tego "gwiazdy wieczornej". To dosyć rzadko spotykany artefakt, ale podobno całkiem nieźle chroni przed kulami... Zrobisz to? Dobrze ci zapłacę! </text>
 	</string>
 	<string id="tm_find_artefact_4">
-		<text>Znajdz artefakt zwany "kotletem"</text>
+		<text>Znajdź artefakt zwany "kotletem"</text>
 	</string>
 	<string id="tm_find_artefact_4_descr">
-		<text>Znajdz artefakt zwany "kotletem".</text>
+		<text>Znajdź artefakt zwany "kotletem".</text>
 	</string>
 	<string id="tm_find_artefact_4_text">
-		<text>Mam zamowienie na artefakt leczacy rany - nazywaja go "kotletem"! Maja jakas klinike czy cos. Jesli go zdobedziesz, zaplaca ci i jednoczesnie pomozesz ludziom.</text>
+		<text>Mam zamówienie na artefakt leczący rany - nazywają go "kotletem"! Mają jakąś klinikę czy coś. Jeśli go zdobędziesz, zapłacą ci i jednocześnie pomożesz ludziom.</text>
 	</string>
 	<string id="tm_find_item_1">
-		<text>Znajdz ulepszony pistolet</text>
+		<text>Znajdź ulepszony pistolet</text>
 	</string>
 	<string id="tm_find_item_1_descr">
-		<text>Zdobadz pistolet Fort, ktory podobno moze pomiescic wiecej nabojow w magazynku. Ostatnim znanym wlascicielem broni byl dowodca placowki wojskowej pod zniszczonym mostem.</text>
+		<text>Zdobądź pistolet Fort, który podobno może pomieścić więcej nabojów w magazynku. Ostatnim znanym właścicielem broni był dowódca placówki wojskowej pod zniszczonym mostem.</text>
 	</string>
 	<string id="tm_find_item_1_text">
-		<text>Nie rozumiem tej mody na wypasiona bron - nawet koty nie chca juz strzelac z normalnych pukawek! Niewazne, mam zlecenie na ulepszony karabin maszynowy. Podobno dowodca wojskowy - ten, co bierze lapowki za przejscie pod mostem - ma Forta z pelnym magazynkiem? Zdobedziesz go?</text>
+		<text>Nie rozumiem tej mody na wypasioną broń - nawet koty nie chcą już strzelać z normalnych pukawek! Nieważne, mam zlecenie na ulepszony karabin maszynowy. Podobno dowódca wojskowy - ten, co bierze łapówki za przejście pod mostem - ma Forta z pełnym magazynkiem? Zdobędziesz go?</text>
 	</string>
 	<string id="tm_freedom_has_no_job">
-		<text>Teraz nie ma zadnych zadan...</text>
+		<text>Teraz nie ma żadnych zadań...</text>
 	</string>
 	<string id="tm_freedom_job_ask">
-		<text>To o czym chcesz porozmawiac?</text>
+		<text>To o czym chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_freedom_job_complete">
-		<text>Oto porzadny mlody czlowiek! Dobra robota - zaplata jest twoja.</text>
+		<text>Oto porządny młody człowiek! Dobra robota - zapłata jest twoja.</text>
 	</string>
 	<string id="tm_freedom_job_what">
 		<text>Co tam?</text>
@@ -936,7 +936,7 @@
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_hunter_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_hunter_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -945,40 +945,40 @@
 		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_hunter_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="tm_job_nothing">
-		<text>Nie ma problemu. Moze innym razem.</text>
+		<text>Nie ma problemu. Może innym razem.</text>
 	</string>
 	<string id="tm_job_refuse">
-		<text>Nie wezme tego zlecenia.</text>
+		<text>Nie wezmę tego zlecenia.</text>
 	</string>
 	<string id="tm_kill_stalker_1">
-		<text>Zabij przywodce bandytow</text>
+		<text>Zabij przywódcę bandytów</text>
 	</string>
 	<string id="tm_kill_stalker_1_descr">
-		<text>Zabij przywodce bandytow, ktory wszedl w parade handlarzowi. Najprawdopodobniej nie bedzie sam... Ciezka robota, ale zaplata wynagrodzi ci wszystkie trudy... Szukaj go w Dolinie Mroku.</text>
+		<text>Zabij przywódcę bandytów, który wszedł w paradę handlarzowi. Najprawdopodobniej nie będzie sam... Ciężka robota, ale zapłata wynagrodzi ci wszystkie trudy... Szukaj go w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_kill_stalker_1_text">
-		<text>Musisz wykonczyc tego elegancika, jednego z przywodcow bandytow. Nie tak dawno na jego rozkaz bandyci przechwycili mojego kuriera i dojechali go, a ja szkoda sobie jezyk strzepic na takich, co czepiaja sie moich ludzi... Jednym slowem, jesli wykonasz zadanie, odwdziecze ci sie. Piszesz sie na to?</text>
+		<text>Musisz wykończyć tego elegancika, jednego z przywódców bandytów. Nie tak dawno na jego rozkaz bandyci przechwycili mojego kuriera i dojechali go, a ja szkoda sobie język strzępić na takich, co czepiają się moich ludzi... Jednym słowem, jeśli wykonasz zadanie, odwdzięczę ci się. Piszesz się na to?</text>
 	</string>
 	<string id="tm_kill_stalker_2">
 		<text>Zabij stalkera handlarza</text>
 	</string>
 	<string id="tm_kill_stalker_2_descr">
-		<text>Zabij stalkera... No tak, to niezbyt ciekawa sprawa - podnosic reke na kolege po fachu... Ale zaplata jest solidna, a to chyba sie liczy najbardziej. </text>
+		<text>Zabij stalkera... No tak, to niezbyt ciekawa sprawa - podnosić rękę na kolegę po fachu... Ale zapłata jest solidna, a to chyba się liczy najbardziej. </text>
 	</string>
 	<string id="tm_kill_stalker_2_text">
-		<text>Poprztykalem sie z jednym handlarzem. Jesli nie chce wspolpracowac, to do diabla z nim! Nie pozwole nikomu rozpuszczac o mnie podlych plotek. Krotko mowiac - sprzatnij go, zeby inni nie wymkneli sie spod kontroli. Chce, zeby wszyscy wiedzieli, kto tu jest szefem...</text>
+		<text>Poprztykałem się z jednym handlarzem. Jeśli nie chce współpracować, to do diabła z nim! Nie pozwolę nikomu rozpuszczać o mnie podłych plotek. Krótko mówiąc - sprzątnij go, żeby inni nie wymknęli się spod kontroli. Chcę, żeby wszyscy wiedzieli, kto tu jest szefem...</text>
 	</string>
 	<string id="tm_kill_stalker_3">
-		<text>Zabij stalkera zoltodzioba</text>
+		<text>Zabij stalkera żółtodzioba</text>
 	</string>
 	<string id="tm_kill_stalker_3_descr">
-		<text>Wykoncz stalkera zoltodzioba, ktory byc moze wcale nie jest zoltodziobem... Kim wiec jest? Eee, kogo to obchodzi? Pod warunkiem, ze nie spaprasz roboty.</text>
+		<text>Wykończ stalkera żółtodzioba, który być może wcale nie jest żółtodziobem... Kim więc jest? Eee, kogo to obchodzi? Pod warunkiem, że nie spaprasz roboty.</text>
 	</string>
 	<string id="tm_kill_stalker_3_text">
-		<text>Kreci sie tu pewien koles, ktory udaje zoltodzioba, ale jest jakis dziwny... Wiec jesli nagle zniknie, wyswiadczysz mi ogromna przysluge. Wiesz, o czym mowie?</text>
+		<text>Kręci się tu pewien koleś, który udaje żółtodzioba, ale jest jakiś dziwny... Więc jeśli nagle zniknie, wyświadczysz mi ogromną przysługę. Wiesz, o czym mówię?</text>
 	</string>
 	<string id="tm_kill_stalker_4">
 		<text>Zabij stalkera zwanego Demonem</text>
@@ -987,31 +987,31 @@
 		<text>Zlikwiduj jednego z rywali handlarza Sidorowicza, stalkera zwanego Demonem. </text>
 	</string>
 	<string id="tm_kill_stalker_4_text">
-		<text>Demon, znany rowniez jako Oleg Gusarow... sluzyl kiedys w Specnazie. Dopoki zajmowal sie swoimi sprawami, nie mialem nic przeciwko niemu - jak samotnik, to samotnik. Ale podobno organizuje bande, ktora ma zniszczyc Kordon i przejac kontrole nad przemytem z Zony. Cos takiego to juz powazny problem, wiec trzeba go blyskawicznie rozwiazac. Zrobisz to?</text>
+		<text>Demon, znany również jako Oleg Gusarow... służył kiedyś w Specnazie. Dopóki zajmował się swoimi sprawami, nie miałem nic przeciwko niemu - jak samotnik, to samotnik. Ale podobno organizuje bandę, która ma zniszczyć Kordon i przejąć kontrolę nad przemytem z Zony. Coś takiego to już poważny problem, więc trzeba go błyskawicznie rozwiązać. Zrobisz to?</text>
 	</string>
 	<string id="tm_kill_stalker_5">
 		<text>Zabij ojca Diodora</text>
 	</string>
 	<string id="tm_kill_stalker_5_descr">
-		<text>Zabic czlowieka, ktory wyglasza w Zonie kazania potepiajace zbieranie i sprzedaz artefaktow? Dokladnie.</text>
+		<text>Zabić człowieka, który wygłasza w Zonie kazania potępiające zbieranie i sprzedaż artefaktów? Dokładnie.</text>
 	</string>
 	<string id="tm_kill_stalker_5_text">
-		<text>Zawsze powtarzalem, ze interesy i religia nie ida w parze, a ludzie zajmujacy sie nimi nie powinni sie wtracac w nie swoje sprawy! Ten ojczulek - Boze, wybacz mi - Diodor... no coz... nie dostrzega oczywistej prawdy. Ciagle bredzi o polowaniu na artefakty, mowi, ze handel nimi sklania ludzi do grzechu - i to nie tylko w Zonie, ale na calym swiecie... i takie tam... Co wiecej, on namawia do niszczenia artefaktow!!! Rozumiesz, w czym rzecz? A najgorsze jest to, ze zalezli sie tacy, co go sluchaja! Probowalem tego Diodora podejsc na rozne sposoby, ale on uparcie sie trzyma swego. Umowa jest taka: wyslij go do Bozi, gdzie bedzie sobie mogl bez konca prawic kazania... kapujesz, prawda? A ja ci dam swietny artefakt. Zgoda?</text>
+		<text>Zawsze powtarzałem, że interesy i religia nie idą w parze, a ludzie zajmujący się nimi nie powinni się wtrącać w nie swoje sprawy! Ten ojczulek - Boże, wybacz mi - Diodor... no cóż... nie dostrzega oczywistej prawdy. Ciągle bredzi o polowaniu na artefakty, mówi, że handel nimi skłania ludzi do grzechu - i to nie tylko w Zonie, ale na całym świecie... i takie tam... Co więcej, on namawia do niszczenia artefaktów!!! Rozumiesz, w czym rzecz? A najgorsze jest to, że zaleźli się tacy, co go słuchają! Próbowałem tego Diodora podejść na różne sposoby, ale on uparcie się trzyma swego. Umowa jest taka: wyślij go do Bozi, gdzie będzie sobie mógł bez końca prawić kazania... kapujesz, prawda? A ja ci dam świetny artefakt. Zgoda?</text>
 	</string>
 	<string id="tm_kill_stalker_6">
 		<text>Zabij stalkera</text>
 	</string>
 	<string id="tm_kill_stalker_6_descr">
-		<text>Zabij "przedstawiciela handlowego". Handlarzowi zalezy na reputacji.</text>
+		<text>Zabij "przedstawiciela handlowego". Handlarzowi zależy na reputacji.</text>
 	</string>
 	<string id="tm_kill_stalker_6_text">
-		<text>Wyobraz sobie, ze pojawil sie jakis wariat, ktory przedstawia sie jako moj "przedstawiciel handlowy", wykorzystuje moja dobra reputacje i probuje wcisnac ludziom wybrakowany towar! Pekniete lufy, rozpadajace sie kombinezony, przeterminowane konserwy. Juz sie musialem uzerac z kilkoma niezadowolonymi klientami. Krotko mowiac, niewazne, jak tego dokonasz - chce, zebys przemowil temu "przedstawicielowi handlowemu" do rozsadku.</text>
+		<text>Wyobraź sobie, że pojawił się jakiś wariat, który przedstawia się jako mój "przedstawiciel handlowy", wykorzystuje moją dobrą reputację i próbuje wcisnąć ludziom wybrakowany towar! Pęknięte lufy, rozpadające się kombinezony, przeterminowane konserwy. Już się musiałem użerać z kilkoma niezadowolonymi klientami. Krótko mówiąc, nieważne, jak tego dokonasz - chcę, żebyś przemówił temu "przedstawicielowi handlowemu" do rozsądku.</text>
 	</string>
 	<string id="tm_lisiy_has_no_job">
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_lisiy_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_lisiy_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -1020,13 +1020,13 @@
 		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_lisiy_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="tm_mercenary_has_no_job">
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_mercenary_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_mercenary_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -1035,31 +1035,31 @@
 		<text>Jak tam zadanie?</text>
 	</string>
 	<string id="tm_mercenary_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="tm_monster_part_1">
-		<text>Zdobadz macki pijawki</text>
+		<text>Zdobądź macki pijawki</text>
 	</string>
 	<string id="tm_monster_part_1_descr">
-		<text>A wiec macka pijawki przynosi szczescie? Zobaczymy, czy pijawce przyniesie.</text>
+		<text>A więc macka pijawki przynosi szczęście? Zobaczymy, czy pijawce przyniesie.</text>
 	</string>
 	<string id="tm_monster_part_1_text">
-		<text>Slyszalem taki przesad, ze macka pijawki przynosi szczescie. Ze niby ktos, kto ma taka macke zawieszona na szyi, omija anomalie i ze artefakty same wpadaja mu w rece. To oczywiscie gowno prawda, ale niektore palanty w to wierza i sa gotowe sporo za taka macke zaplacic. Jesli dostarczysz mi macke pijawki, dobrze ci zaplace.</text>
+		<text>Słyszałem taki przesąd, że macka pijawki przynosi szczęście. Że niby ktoś, kto ma taką mackę zawieszoną na szyi, omija anomalie i że artefakty same wpadają mu w ręce. To oczywiście gówno prawda, ale niektóre palanty w to wierzą i są gotowe sporo za taką mackę zapłacić. Jeśli dostarczysz mi mackę pijawki, dobrze ci zapłacę.</text>
 	</string>
 	<string id="tm_monster_part_2">
-		<text>Zdobadz ogon nibypsa</text>
+		<text>Zdobądź ogon nibypsa</text>
 	</string>
 	<string id="tm_monster_part_2_descr">
-		<text>Zdobadz ogon nibypsa.</text>
+		<text>Zdobądź ogon nibypsa.</text>
 	</string>
 	<string id="tm_monster_part_2_text">
-		<text>Nadchodzi zima. A co w zimie nosza laski z Wielkiej Krainy? Zgadza sie, futra. Pojawila sie nowa moda na robienie dodatkow z ogonow nibypsow. To podobno jakas wyjatkowa siersc! Mowiac w skrocie: mam zamowienie na taki ogon. Bierzesz te robote?</text>
+		<text>Nadchodzi zima. A co w zimie noszą laski z Wielkiej Krainy? Zgadza się, futra. Pojawiła się nowa moda na robienie dodatków z ogonów nibypsów. To podobno jakaś wyjątkowa sierść! Mówiąc w skrócie: mam zamówienie na taki ogon. Bierzesz tę robotę?</text>
 	</string>
 	<string id="tm_petrenko_has_no_job">
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_petrenko_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_petrenko_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -1068,28 +1068,28 @@
 		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_petrenko_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="tm_reward_job">
-		<text>Przyszedlem tu w sprawie zlecenia.</text>
+		<text>Przyszedłem tu w sprawie zlecenia.</text>
 	</string>
 	<string id="tm_seek_job_abandon">
-		<text>Nie interesuja mnie takie zadania.</text>
+		<text>Nie interesują mnie takie zadania.</text>
 	</string>
 	<string id="tm_seek_job_no">
 		<text>Innym razem.</text>
 	</string>
 	<string id="tm_seek_job_yes">
-		<text>Jestem gotow.</text>
+		<text>Jestem gotów.</text>
 	</string>
 	<string id="tm_seek_new_job">
-		<text>Potrzebuje zlecenia. Masz cos dla mnie?</text>
+		<text>Potrzebuję zlecenia. Masz coś dla mnie?</text>
 	</string>
 	<string id="tm_shustriy_has_no_job">
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_shustriy_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_shustriy_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -1098,43 +1098,43 @@
 		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_shustriy_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="tm_trader_has_no_job">
-		<text>Nie ma teraz zlecen.</text>
+		<text>Nie ma teraz zleceń.</text>
 	</string>
 	<string id="tm_trader_job_ask">
-		<text>O jakim zleceniu chcesz porozmawiac?</text>
+		<text>O jakim zleceniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_trader_job_complete">
 		<text>Zadanie wykonane... a oto nagroda! </text>
 	</string>
 	<string id="tm_trader_job_what">
-		<text>Co z robota?</text>
+		<text>Co z robotą?</text>
 	</string>
 	<string id="tm_trader_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<!-- <string id="tm_trader_dubl_has_no_job">
-		<text>Przyjdz pozniej, postaram sie znalezc ci cos odpowiedniego..</text>
+		<text>Przyjdź później, postaram się znaleźć ci coś odpowiedniego..</text>
 	</string>
 	<string id="tm_trader_dubl_job_ask">
-		<text>O jakim zleceniu chcesz porozmawiac?</text>
+		<text>O jakim zleceniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_trader_dubl_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_trader_dubl_job_what">
-		<text>Co z robota?</text>
+		<text>Co z robotą?</text>
 	</string>
 	<string id="tm_trader_dubl_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string> -->
 	<string id="tm_wolf_has_no_job">
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_wolf_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_wolf_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -1143,13 +1143,13 @@
 		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_wolf_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="tm_zastava_commander_has_no_job">
 		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_zastava_commander_job_ask">
-		<text>O jakim zadaniu chcesz porozmawiac?</text>
+		<text>O jakim zadaniu chcesz porozmawiać?</text>
 	</string>
 	<string id="tm_zastava_commander_job_complete">
 		<text>Zadanie wykonane - a oto i nagroda!</text>
@@ -1158,403 +1158,403 @@
 		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_zastava_commander_list_job">
-		<text>Mam cos:</text>
+		<text>Mam coś:</text>
 	</string>
 	<string id="wolf_eliminate_lager_1">
-		<text>Zniszcz legowisko dzikow</text>
+		<text>Zniszcz legowisko dzików</text>
 	</string>
 	<string id="wolf_eliminate_lager_1_descr">
-		<text>Dziki maja legowisko niedaleko miejsca, w ktorym Wilk i jego kumpel zrobili sobie sklad. Wilk prosi o zniszczenie legowiska - obiecal, ze godnie mnie wynagrodzi.</text>
+		<text>Dziki mają legowisko niedaleko miejsca, w którym Wilk i jego kumpel zrobili sobie skład. Wilk prosi o zniszczenie legowiska - obiecał, że godnie mnie wynagrodzi.</text>
 	</string>
 	<string id="wolf_eliminate_lager_1_text">
-		<text>Razem z kumplem mielismy sklad tu, niedaleko parkingu, gdzie las jest gestszy. Wydawalo sie, ze to idealne miejsce. Ale niedawno dziki sobie je upatrzyly na legowisko i nie mozemy sie tam dostac. Pomoz nam - zabij dziki, a podziekuje ci w imieniu swoim i kolegi.</text>
+		<text>Razem z kumplem mieliśmy skład tu, niedaleko parkingu, gdzie las jest gęstszy. Wydawało się, że to idealne miejsce. Ale niedawno dziki sobie je upatrzyły na legowisko i nie możemy się tam dostać. Pomóż nam - zabij dziki, a podziękuję ci w imieniu swoim i kolegi.</text>
 	</string>
 	<string id="wolf_eliminate_lager_2">
 		<text>Zlikwiduj mutanty w gospodarstwie</text>
 	</string>
 	<string id="wolf_eliminate_lager_2_descr">
-		<text>Wilk prosi, zeby oczyscic gospodarstwo z mutantow, bo chce tam zalozyc placowke.</text>
+		<text>Wilk prosi, żeby oczyścić gospodarstwo z mutantów, bo chce tam założyć placówkę.</text>
 	</string>
 	<string id="wolf_eliminate_lager_2_text">
-		<text>Choc to granica Zony, nawet nowicjusze maja tutaj ciezkie zycie. Bandyci to tylko czesc problemu - przynajmniej rozumieja po rosyjsku. Ale mutanty... sa o wiele gorsze. Zrobily sobie legowisko w opuszczonym gospodarstwie i zajely jedyne miejsce, ktore nadaje sie na placowke. Jesli uda ci sie ich stamtad pozbyc, bede twoim dluznikiem.</text>
+		<text>Choć to granica Zony, nawet nowicjusze mają tutaj ciężkie życie. Bandyci to tylko część problemu - przynajmniej rozumieją po rosyjsku. Ale mutanty... są o wiele gorsze. Zrobiły sobie legowisko w opuszczonym gospodarstwie i zajęły jedyne miejsce, które nadaje się na placówkę. Jeśli uda ci się ich stamtąd pozbyć, będę twoim dłużnikiem.</text>
 	</string>
 	<string id="zastava_commander_eliminate_lager">
-		<text>Zlikwiduj legowisko psow</text>
+		<text>Zlikwiduj legowisko psów</text>
 	</string>
 	<string id="zastava_commander_eliminate_lager_descr">
-		<text>Niedaleko poludniowego posterunku kolo baru wloczy sie stado psow. Dowodca prosi, zebys sie nimi zajal i obiecuje nagrode.</text>
+		<text>Niedaleko południowego posterunku koło baru włóczy się stado psów. Dowódca prosi, żebyś się nimi zajął i obiecuje nagrodę.</text>
 	</string>
 	<string id="zastava_commander_eliminate_lager_text">
-		<text>Pomimo naszych wysilkow z Wysypiska ciagle dostaja sie tu rozne stwory. Pewnie nawet sam widziales stado psow na poludnie od nas. Jesli je zabijesz, dostaniesz nagrode.</text>
+		<text>Pomimo naszych wysiłków z Wysypiska ciągle dostają się tu różne stwory. Pewnie nawet sam widziałeś stado psów na południe od nas. Jeśli je zabijesz, dostaniesz nagrodę.</text>
 	</string>
 	<string id="defend_lager">
 		<text>Obrona obozu</text>
 	</string>
 	
-	<!-- DN -->
+	<!-- ĎŃ -->
 	
 	<string id="kremen_find_artefact_1">
-		<text>Znajdz artefakt "Kotlet"</text>
+		<text>Znajdź artefakt "Kotlet"</text>
 	</string>
 	<string id="text_kremen_find_artefact_1">
-		<text>Jest zamowienie na "Kotlet". Bierzesz?</text>
+		<text>Jest zamówienie na "Kotlet". Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_1">
-	<text>Znajdz i przynies Krzemieniowi artefakt "Kotlet".</text>
+	<text>Znajdź i przynieś Krzemieniowi artefakt "Kotlet".</text>
 	</string>
 	<string id="kremen_find_artefact_2">
-		<text>Przynies artefakt "Meduza"</text>
+		<text>Przynieś artefakt "Meduza"</text>
 	</string>
 	<string id="text_kremen_find_artefact_2">
-		<text>Jest calkiem proste zadanie: zdobyc "Meduze" Bierzesz?</text>
+		<text>Jest całkiem proste zadanie: zdobyć "Meduzę" Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_2">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Meduza".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Meduza".</text>
 	</string>
 	<string id="kremen_find_artefact_3">
-		<text>Przynies artefakt "Krysztalowy Kwiat"</text>
+		<text>Przynieś artefakt "Kryształowy Kwiat"</text>
 	</string>
 	<string id="text_kremen_find_artefact_3">
-		<text>Potrzebny jest "Krysztalowy Kwiat". Zdobedziesz?</text>
+		<text>Potrzebny jest "Kryształowy Kwiat". Zdobędziesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_3">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Krysztalowy Kwiat".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Kryształowy Kwiat".</text>
 	</string>
 	<string id="kremen_find_artefact_4">
-		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
+		<text>Przynieś artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_kremen_find_artefact_4">
-		<text>Pytal tu jeden typ o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
+		<text>Pytał tu jeden typ o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_4">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Gwiazda Wieczorna".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="kremen_find_artefact_5">
-		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
+		<text>Przynieś artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_kremen_find_artefact_5">
-		<text>Artefakt "Skretak" jest potrzebny. Bierzesz?</text>
+		<text>Artefakt "Skrętak" jest potrzebny. Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_5">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Skretak".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Skrętak".</text>
 	</string>
 	<string id="kremen_find_artefact_6">
-		<text>Przynies artefakt "Grawi"</text>
+		<text>Przynieś artefakt "Grawi"</text>
 	</string>
 	<string id="text_kremen_find_artefact_6">
-		<text>Interesuje mnie artefakt "Grawi". Podejmiesz sie?</text>
+		<text>Interesuje mnie artefakt "Grawi". Podejmiesz się?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_6">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Grawi".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Grawi".</text>
 	</string>
 	<string id="kremen_find_artefact_7">
-		<text>Przynies artefakt "Zlota Rybka"</text>
+		<text>Przynieś artefakt "Złota Rybka"</text>
 	</string>
 	<string id="text_kremen_find_artefact_7">
-		<text>Jest zamowienie na artefakt "Zlota Rybka".</text>
+		<text>Jest zamówienie na artefakt "Złota Rybka".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_7">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Zlota Rybka".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Złota Rybka".</text>
 	</string>
 	<string id="kremen_find_artefact_8">
-		<text>Przynies artefakt "Kropla"</text>
+		<text>Przynieś artefakt "Kropla"</text>
 	</string>
 	<string id="text_kremen_find_artefact_8">
-		<text>Jest zamowienie na artefakt "Kropla".</text>
+		<text>Jest zamówienie na artefakt "Kropla".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_8">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Kropla".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Kropla".</text>
 	</string>
 	<string id="kremen_find_artefact_9">
-		<text>Przynies artefakt "Ognista Kula"</text>
+		<text>Przynieś artefakt "Ognista Kula"</text>
 	</string>
 	<string id="text_kremen_find_artefact_9">
-		<text>Jest zamowienie na artefakt "Ognista Kula".</text>
+		<text>Jest zamówienie na artefakt "Ognista Kula".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_9">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Ognista Kula".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Ognista Kula".</text>
 	</string>
 	<string id="kremen_find_artefact_10">
-		<text>Przynies artefakt "Krysztal"</text>
+		<text>Przynieś artefakt "Kryształ"</text>
 	</string>
 	<string id="text_kremen_find_artefact_10">
-		<text>Jest zamowienie na artefakt "Krysztal".</text>
+		<text>Jest zamówienie na artefakt "Kryształ".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_10">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Krysztal".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Kryształ".</text>
 	</string>
 	<string id="kremen_find_artefact_11">
-		<text>Przynies artefakt "Kamienna Krew"</text>
+		<text>Przynieś artefakt "Kamienna Krew"</text>
 	</string>
 	<string id="text_kremen_find_artefact_11">
-		<text>Jest zamowienie na artefakt "Kamienna Krew".</text>
+		<text>Jest zamówienie na artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_11">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Kamienna Krew".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="kremen_find_artefact_12">
-		<text>Przynies artefakt "Dusza"</text>
+		<text>Przynieś artefakt "Dusza"</text>
 	</string>
 	<string id="text_kremen_find_artefact_12">
-		<text>Jest zamowienie na artefakt "Dusza".</text>
+		<text>Jest zamówienie na artefakt "Dusza".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_12">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Dusza".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Dusza".</text>
 	</string>
 	<string id="kremen_find_artefact_13">
-		<text>Przynies artefakt "Swiecidelko"</text>
+		<text>Przynieś artefakt "Świecidełko"</text>
 	</string>
 	<string id="text_kremen_find_artefact_13">
-		<text>Jest zamowienie na artefakt "Swiecidelko".</text>
+		<text>Jest zamówienie na artefakt "Świecidełko".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_13">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Swiecidelko".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Świecidełko".</text>
 	</string>
 	<string id="kremen_find_artefact_14">
-		<text>Przynies artefakt "Blysk"</text>
+		<text>Przynieś artefakt "Błysk"</text>
 	</string>
 	<string id="text_kremen_find_artefact_14">
-		<text>Jest zamowienie na artefakt "Blysk".</text>
+		<text>Jest zamówienie na artefakt "Błysk".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_14">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Blysk".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Błysk".</text>
 	</string>
 	<string id="kremen_find_artefact_15">
-		<text>Przynies artefakt "Blask Ksiezyca"</text>
+		<text>Przynieś artefakt "Blask Księżyca"</text>
 	</string>
 	<string id="text_kremen_find_artefact_15">
-		<text>Jest zamowienie na artefakt "Blask Ksiezyca".</text>
+		<text>Jest zamówienie na artefakt "Blask Księżyca".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_15">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Blask Ksiezyca".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Blask Księżyca".</text>
 	</string>
 		<string id="kremen_find_artefact_16">
-		<text>Przynies artefakt "Sluz"</text>
+		<text>Przynieś artefakt "Śluz"</text>
 	</string>
 	<string id="text_kremen_find_artefact_16">
-		<text>Jest zamowienie na artefakt "Sluz".</text>
+		<text>Jest zamówienie na artefakt "Śluz".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_16">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Sluz".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Śluz".</text>
 	</string>
 	<string id="kremen_find_artefact_17">
-		<text>Przynies artefakt "Sluzowiec"</text>
+		<text>Przynieś artefakt "Śluzowiec"</text>
 	</string>
 	<string id="text_kremen_find_artefact_17">
-		<text>Jest zamowienie na artefakt "Sluzowiec".</text>
+		<text>Jest zamówienie na artefakt "Śluzowiec".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_17">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Sluzowiec".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Śluzowiec".</text>
 	</string>
 	<string id="kremen_find_artefact_18">
-		<text>Przynies artefakt "Mika"</text>
+		<text>Przynieś artefakt "Mika"</text>
 	</string>
 	<string id="text_kremen_find_artefact_18">
-		<text>Jest zamowienie na artefakt "Mika".</text>
+		<text>Jest zamówienie na artefakt "Mika".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_18">
-		<text>Znajdz i przynies Krzemieniowi artefakt "Mika".</text>
+		<text>Znajdź i przynieś Krzemieniowi artefakt "Mika".</text>
 	</string>
 	
 	<string id="kremen_monster_part_1">
-		<text>Przynies noge dzika</text>
+		<text>Przynieś nogę dzika</text>
 	</string>
 	<string id="text_kremen_monster_part_1">
-		<text>Jest zamowienie na noge dzika.</text>
+		<text>Jest zamówienie na nogę dzika.</text>
 	</string>
 	<string id="desc_kremen_monster_part_1">
-		<text>Przynies Krzemieniowi noge dzika.</text>
+		<text>Przynieś Krzemieniowi nogę dzika.</text>
 	</string>
 	<string id="kremen_monster_part_2">
-		<text>Przynies oko miesacza</text>
+		<text>Przynieś oko mięsacza</text>
 	</string>
 	<string id="text_kremen_monster_part_2">
-		<text>Jest zamowienie na oko miesacza.</text>
+		<text>Jest zamówienie na oko mięsacza.</text>
 	</string>
 	<string id="desc_kremen_monster_part_2">
-		<text>Przynies Krzemieniowi oko miesacza.</text>
+		<text>Przynieś Krzemieniowi oko mięsacza.</text>
 	</string>
 	
 	<string id="groover_find_artefact_1">
-		<text>Znajdz artefakt "Kotlet"</text>
+		<text>Znajdź artefakt "Kotlet"</text>
 	</string>
 	<string id="text_groover_find_artefact_1">
-		<text>Jest zamowienie na "Kotlet". Bierzesz?</text>
+		<text>Jest zamówienie na "Kotlet". Bierzesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_1">
-	<text>Znajdz i przynies Gruberowi artefakt "Kotlet".</text>
+	<text>Znajdź i przynieś Gruberowi artefakt "Kotlet".</text>
 	</string>
 	<string id="groover_find_artefact_2">
-		<text>Przynies artefakt "Meduza"</text>
+		<text>Przynieś artefakt "Meduza"</text>
 	</string>
 	<string id="text_groover_find_artefact_2">
-		<text>To calkiem proste zadanie: zdobyc "Meduze" Podejmiesz sie?</text>
+		<text>To całkiem proste zadanie: zdobyć "Meduzę" Podejmiesz się?</text>
 	</string>
 	<string id="desc_groover_find_artefact_2">
-		<text>Znajdz i przynies Gruberowi artefakt "Meduza".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Meduza".</text>
 	</string>
 	<string id="groover_find_artefact_3">
-		<text>Przynies artefakt "Krysztalowy Kwiat"</text>
+		<text>Przynieś artefakt "Kryształowy Kwiat"</text>
 	</string>
 	<string id="text_groover_find_artefact_3">
-		<text>Potrzebny jest "Krysztalowy Kwiat". Zdobedziesz?</text>
+		<text>Potrzebny jest "Kryształowy Kwiat". Zdobędziesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_3">
-		<text>Znajdz i przynies Gruberowi artefakt "Krysztalowy Kwiat".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Kryształowy Kwiat".</text>
 	</string>
 	<string id="groover_find_artefact_4">
-		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
+		<text>Przynieś artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_groover_find_artefact_4">
-		<text>Ktos tu pytal o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
+		<text>Ktoś tu pytał o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_4">
-		<text>Znajdz i przynies Gruberowi artefakt "Gwiazda Wieczorna".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="groover_find_artefact_5">
-		<text>Przynies artefakt "Skretak"</text>
+		<text>Przynieś artefakt "Skrętak"</text>
 	</string>
 	<string id="text_groover_find_artefact_5">
-		<text>Artefakt "Skretak" jest potrzebny. Bierzesz?</text>
+		<text>Artefakt "Skrętak" jest potrzebny. Bierzesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_5">
-		<text>Znajdz i przynies Gruberowi artefakt "Skretak".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Skrętak".</text>
 	</string>
 	<string id="groover_find_artefact_6">
-		<text>Przynies artefakt "Grawi"</text>
+		<text>Przynieś artefakt "Grawi"</text>
 	</string>
 	<string id="text_groover_find_artefact_6">
-		<text>Interesuje mnie artefakt "Grawi". Zdobedziesz?</text>
+		<text>Interesuje mnie artefakt "Grawi". Zdobędziesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_6">
-		<text>Znajdz i przynies Gruberowi artefakt "Grawi".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Grawi".</text>
 	</string>
 	<string id="groover_find_artefact_7">
-		<text>Przynies artefakt "Zlota Rybka"</text>
+		<text>Przynieś artefakt "Złota Rybka"</text>
 	</string>
 	<string id="text_groover_find_artefact_7">
-		<text>Jest zamowienie na artefakt "Zlota Rybka".</text>
+		<text>Jest zamówienie na artefakt "Złota Rybka".</text>
 	</string>
 	<string id="desc_groover_find_artefact_7">
-		<text>Znajdz i przynies Gruberowi artefakt "Zlota Rybka".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Złota Rybka".</text>
 	</string>
 	<string id="groover_find_artefact_8">
-		<text>Przynies artefakt "Kropla"</text>
+		<text>Przynieś artefakt "Kropla"</text>
 	</string>
 	<string id="text_groover_find_artefact_8">
-		<text>Jest zamowienie na artefakt "Kropla".</text>
+		<text>Jest zamówienie na artefakt "Kropla".</text>
 	</string>
 	<string id="desc_groover_find_artefact_8">
-		<text>Znajdz i przynies Gruberowi artefakt "Kropla".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Kropla".</text>
 	</string>
 	<string id="groover_find_artefact_9">
-		<text>Przynies artefakt "Ognista Kula"</text>
+		<text>Przynieś artefakt "Ognista Kula"</text>
 	</string>
 	<string id="text_groover_find_artefact_9">
-		<text>Jest zamowienie na artefakt "Ognista Kula".</text>
+		<text>Jest zamówienie na artefakt "Ognista Kula".</text>
 	</string>
 	<string id="desc_groover_find_artefact_9">
-		<text>Znajdz i przynies Gruberowi artefakt "Ognista Kula".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Ognista Kula".</text>
 	</string>
 	<string id="groover_find_artefact_10">
-		<text>Przynies artefakt "Krysztal"</text>
+		<text>Przynieś artefakt "Kryształ"</text>
 	</string>
 	<string id="text_groover_find_artefact_10">
-		<text>Jest zamowienie na artefakt "Krysztal".</text>
+		<text>Jest zamówienie na artefakt "Kryształ".</text>
 	</string>
 	<string id="desc_groover_find_artefact_10">
-		<text>Znajdz i przynies Gruberowi artefakt "Krysztal".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Kryształ".</text>
 	</string>
 	<string id="groover_find_artefact_11">
-		<text>Przynies artefakt "Kamienna Krew"</text>
+		<text>Przynieś artefakt "Kamienna Krew"</text>
 	</string>
 	<string id="text_groover_find_artefact_11">
-		<text>Jest zamowienie na artefakt "Kamienna Krew".</text>
+		<text>Jest zamówienie na artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="desc_groover_find_artefact_11">
-		<text>Znajdz i przynies Gruberowi artefakt "Kamienna Krew".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="groover_find_artefact_12">
-		<text>Przynies artefakt "Dusza"</text>
+		<text>Przynieś artefakt "Dusza"</text>
 	</string>
 	<string id="text_groover_find_artefact_12">
-		<text>Jest zamowienie na artefakt "Dusza".</text>
+		<text>Jest zamówienie na artefakt "Dusza".</text>
 	</string>
 	<string id="desc_groover_find_artefact_12">
-		<text>Znajdz i przynies Gruberowi artefakt "Dusza".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Dusza".</text>
 	</string>
 	<string id="groover_find_artefact_13">
-		<text>Przynies artefakt "Swiecidelko"</text>
+		<text>Przynieś artefakt "Świecidełko"</text>
 	</string>
 	<string id="text_groover_find_artefact_13">
-		<text>Jest zamowienie na artefakt "Swiecidelko".</text>
+		<text>Jest zamówienie na artefakt "Świecidełko".</text>
 	</string>
 	<string id="desc_groover_find_artefact_13">
-		<text>Znajdz i przynies Gruberowi artefakt "Swiecidelko".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Świecidełko".</text>
 	</string>
 	<string id="groover_find_artefact_14">
-		<text>Przynies artefakt "Blysk"</text>
+		<text>Przynieś artefakt "Błysk"</text>
 	</string>
 	<string id="text_groover_find_artefact_14">
-		<text>Jest zamowienie na artefakt "Blysk".</text>
+		<text>Jest zamówienie na artefakt "Błysk".</text>
 	</string>
 	<string id="desc_groover_find_artefact_14">
-		<text>Znajdz i przynies Gruberowi artefakt "Blysk".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Błysk".</text>
 	</string>
 	<string id="groover_find_artefact_15">
-		<text>Przynies artefakt "Blask Ksiezyca"</text>
+		<text>Przynieś artefakt "Blask Księżyca"</text>
 	</string>
 	<string id="text_groover_find_artefact_15">
-		<text>Jest zamowienie na artefakt "Blask Ksiezyca".</text>
+		<text>Jest zamówienie na artefakt "Blask Księżyca".</text>
 	</string>
 	<string id="desc_groover_find_artefact_15">
-		<text>Znajdz i przynies Gruberowi artefakt "Blask Ksiezyca".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Blask Księżyca".</text>
 	</string>
 		<string id="groover_find_artefact_16">
-		<text>Przynies artefakt "Sluz"</text>
+		<text>Przynieś artefakt "Śluz"</text>
 	</string>
 	<string id="text_groover_find_artefact_16">
-		<text>Jest zamowienie na artefakt "Sluz".</text>
+		<text>Jest zamówienie na artefakt "Śluz".</text>
 	</string>
 	<string id="desc_groover_find_artefact_16">
-		<text>Znajdz i przynies Gruberowi artefakt "Sluz".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Śluz".</text>
 	</string>
 	<string id="groover_find_artefact_17">
-		<text>Przynies artefakt "Sluzowiec"</text>
+		<text>Przynieś artefakt "Śluzowiec"</text>
 	</string>
 	<string id="text_groover_find_artefact_17">
-		<text>Jest zamowienie na artefakt "Sluzowiec".</text>
+		<text>Jest zamówienie na artefakt "Śluzowiec".</text>
 	</string>
 	<string id="desc_groover_find_artefact_17">
-		<text>Znajdz i przynies Gruberowi artefakt "Sluzowiec".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Śluzowiec".</text>
 	</string>
 	<string id="groover_find_artefact_18">
-		<text>Przynies artefakt "Mika"</text>
+		<text>Przynieś artefakt "Mika"</text>
 	</string>
 	<string id="text_groover_find_artefact_18">
-		<text>Jest zamowienie na artefakt "Mika".</text>
+		<text>Jest zamówienie na artefakt "Mika".</text>
 	</string>
 	<string id="desc_groover_find_artefact_18">
-		<text>Znajdz i przynies Gruberowi artefakt "Mika".</text>
+		<text>Znajdź i przynieś Gruberowi artefakt "Mika".</text>
 	</string>
 	
 	<string id="groover_monster_part_1">
-		<text>Przynies stope snorka</text>
+		<text>Przynieś stopę snorka</text>
 	</string>
 	<string id="text_groover_monster_part_1">
-		<text>Jest zanowienie od uczonych na stope snorka.</text>
+		<text>Jest zanówienie od uczonych na stopę snorka.</text>
 	</string>
 	<string id="desc_groover_monster_part_1">
-		<text>Przynies Gruberowi stope snorka.</text>
+		<text>Przynieś Gruberowi stopę snorka.</text>
 	</string>
 	<string id="groover_monster_part_2">
-		<text>Przynies macki pijawki</text>
+		<text>Przynieś macki pijawki</text>
 	</string>
 	<string id="text_groover_monster_part_2">
-		<text>Duszone z cebula macki pijawki niektorzy cudzoziemcy maja za wielki rarytas. Wiec jest zamowienie.</text>
+		<text>Duszone z cebulą macki pijawki niektórzy cudzoziemcy mają za wielki rarytas. Więc jest zamówienie.</text>
 	</string>
 	<string id="desc_groover_monster_part_2">
-		<text>Przynies Gruberowi macki pijawki.</text>
+		<text>Przynieś Gruberowi macki pijawki.</text>
 	</string>
 	
 	
@@ -1562,7 +1562,7 @@
 		<text>Na razie golcu.</text>
 	</string>
 	<string id="tm_kremen_job_ask">
-		<text>Slucham cie, Grek.</text>
+		<text>Słucham cię, Grek.</text>
 	</string>
 	<string id="tm_kremen_job_complete">
 		<text>Wszystko jasne, nie ma sprawy.</text>
@@ -1578,7 +1578,7 @@
 		<text>Na razie golcu.</text>
 	</string>
 	<string id="tm_groover_job_ask">
-		<text>Slucham cie, Grek.</text>
+		<text>Słucham cię, Grek.</text>
 	</string>
 	<string id="tm_groover_job_complete">
 		<text>Wszystko jasne, nie ma sprawy.</text>
@@ -1598,192 +1598,192 @@
 	
 	
 	<!-- <string id="tm_trader_dubl_find_artefact_1">
-		<text>Znajdz artefakt "Kotlet"</text>
+		<text>Znajdź artefakt "Kotlet"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_1">
-		<text>Jest zlecenie na "Kotlet". Wezmiesz?</text>
+		<text>Jest zlecenie na "Kotlet". Weźmiesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_1">
-	<text>Znajdz i przynies Sidorowiczowi artefakt "Kotlet".</text>
+	<text>Znajdź i przynieś Sidorowiczowi artefakt "Kotlet".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_2">
-		<text>Przynies artefakt "Meduza"</text>
+		<text>Przynieś artefakt "Meduza"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_2">
-		<text>Jest calkiem proste zadanie: zdobyc Meduze" Wezmiesz?</text>
+		<text>Jest całkiem proste zadanie: zdobyć Meduzę" Weźmiesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_2">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Meduza".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Meduza".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_3">
-		<text>Przynies artefakt "Krysztalowy Kwiat"</text>
+		<text>Przynieś artefakt "Kryształowy Kwiat"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_3">
-		<text>Potrzebny "Krysztalowy Kwiat". Zdobedziesz?</text>
+		<text>Potrzebny "Kryształowy Kwiat". Zdobędziesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_3">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Krysztalowy Kwiat".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Kryształowy Kwiat".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_4">
-		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
+		<text>Przynieś artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_4">
-		<text>Pytal tu jeden gosc o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
+		<text>Pytał tu jeden gość o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_4">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Gwiazda Wieczorna".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_5">
-		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
+		<text>Przynieś artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_5">
-		<text>Artefakt "Skretak" potrzebny. Podejmiesz sie?</text>
+		<text>Artefakt "Skrętak" potrzebny. Podejmiesz się?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_5">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Skretak".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Skrętak".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_6">
-		<text>Przynies artefakt "Grawi"</text>
+		<text>Przynieś artefakt "Grawi"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_6">
-		<text>Jest popyt na artefakt "Grawi". Podejmiesz sie?</text>
+		<text>Jest popyt na artefakt "Grawi". Podejmiesz się?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_6">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Grawi".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Grawi".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_7">
-		<text>Przynies artefakt "Zlota Rybka"</text>
+		<text>Przynieś artefakt "Złota Rybka"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_7">
-		<text>Jest zlecenie na artefakt "Zlota Rybka".</text>
+		<text>Jest zlecenie na artefakt "Złota Rybka".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_7">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Zlota Rybka".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Złota Rybka".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_8">
-		<text>Przynies artefakt "Kropla"</text>
+		<text>Przynieś artefakt "Kropla"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_8">
 		<text>Jest zlecenie na artefakt "Kropla".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_8">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Kropla".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Kropla".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_9">
-		<text>Przynies artefakt "Ognista Kula"</text>
+		<text>Przynieś artefakt "Ognista Kula"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_9">
 		<text>Jest zlecenie na artefakt "Ognista Kula".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_9">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Ognista Kula".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Ognista Kula".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_10">
-		<text>Przynies artefakt "Krysztal"</text>
+		<text>Przynieś artefakt "Kryształ"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_10">
-		<text>Jest zlecenie na artefakt "Krysztal".</text>
+		<text>Jest zlecenie na artefakt "Kryształ".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_10">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Krysztal".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Kryształ".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_11">
-		<text>Przynies artefakt "Kamienna Krew"</text>
+		<text>Przynieś artefakt "Kamienna Krew"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_11">
 		<text>Jest zlecenie na artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_11">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Kamienna Krew".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_12">
-		<text>Przynies artefakt "Dusza"</text>
+		<text>Przynieś artefakt "Dusza"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_12">
 		<text>Jest zlecenie na artefakt "Dusza".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_12">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Dusza".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Dusza".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_13">
-		<text>Przynies artefakt "Swiecidelko"</text>
+		<text>Przynieś artefakt "Świecidełko"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_13">
-		<text>Jest zlecenie na artefakt "Swiecidelko".</text>
+		<text>Jest zlecenie na artefakt "Świecidełko".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_13">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Swiecidelko".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Świecidełko".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_14">
-		<text>Przynies artefakt "Blysk"</text>
+		<text>Przynieś artefakt "Błysk"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_14">
-		<text>Jest zlecenie na artefakt "Blysk".</text>
+		<text>Jest zlecenie na artefakt "Błysk".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_14">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Blysk".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Błysk".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_15">
-		<text>Przynies artefakt "Blask Ksiezyca"</text>
+		<text>Przynieś artefakt "Blask Księżyca"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_15">
-		<text>Jest zlecenie na artefakt "Blask Ksiezyca".</text>
+		<text>Jest zlecenie na artefakt "Blask Księżyca".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_15">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Blask Ksiezyca".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Blask Księżyca".</text>
 	</string>
 		<string id="tm_trader_dubl_find_artefact_16">
-		<text>Przynies artefakt "Sluz"</text>
+		<text>Przynieś artefakt "Śluz"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_16">
-		<text>Jest zlecenie na artefakt "Sluz".</text>
+		<text>Jest zlecenie na artefakt "Śluz".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_16">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Sluz".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Śluz".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_17">
-		<text>Przynies artefakt "Sluzowiec"</text>
+		<text>Przynieś artefakt "Śluzowiec"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_17">
-		<text>Jest zlecenie na artefakt "Sluzowiec".</text>
+		<text>Jest zlecenie na artefakt "Śluzowiec".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_17">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Sluzowiec".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Śluzowiec".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_18">
-		<text>Przynies artefakt "Mika"</text>
+		<text>Przynieś artefakt "Mika"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_18">
 		<text>Jest zlecenie na artefakt "Mika".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_18">
-		<text>Znajdz i przynies Sidorowiczowi artefakt "Mika".</text>
+		<text>Znajdź i przynieś Sidorowiczowi artefakt "Mika".</text>
 	</string>
 	
 	<string id="tm_trader_dubl_monster_part_1">
-		<text>Przynies noge dzika</text>
+		<text>Przynieś nogę dzika</text>
 	</string>
 	<string id="text_tm_trader_dubl_monster_part_1">
-		<text>Jest zlecenie na noge dzika.</text>
+		<text>Jest zlecenie na nogę dzika.</text>
 	</string>
 	<string id="desc_tm_trader_dubl_monster_part_1">
-		<text>Przynies Sidorowiczowi noge dzika.</text>
+		<text>Przynieś Sidorowiczowi nogę dzika.</text>
 	</string>
 	<string id="tm_trader_dubl_monster_part_2">
-		<text>Przynies oko miesacza</text>
+		<text>Przynieś oko mięsacza</text>
 	</string>
 	<string id="text_tm_trader_dubl_monster_part_2">
-		<text>Jest zlecenie na oko miesacza.</text>
+		<text>Jest zlecenie na oko mięsacza.</text>
 	</string>
 	<string id="desc_tm_trader_dubl_monster_part_2">
-		<text>Przynies Sidorowiczowi oko miesacza.</text>
+		<text>Przynieś Sidorowiczowi oko mięsacza.</text>
 	</string>
 	
 	<string id="tm_trader_dubl_has_no_job">
-		<text>Na razie golodupcu.</text>
+		<text>Na razie gołodupcu.</text>
 	</string>
 	<string id="tm_trader_dubl_job_ask">
-		<text>Slucham cie, Grek.</text>
+		<text>Słucham cię, Grek.</text>
 	</string>
 	<string id="tm_trader_dubl_job_complete">
 		<text>Wszystko jasne, nie pohandlujemy.</text>

@@ -34,7 +34,19 @@
 		<text>Naciœnij ($$ACTION_USE$$), by zamkn¹æ drzwi.</text>
 	</string>
 	<string id="tip_door_coded">
-		<text>Drzwi zaszyfrowane.</text>
+		<text>Drzwi s¹ zakodowane</text>
+	</string>
+	<string id="tip_door_locked_inside">
+		<text>Drzwi s¹ zamkniête z drugiej strony</text>
+	</string>
+	<string id="tip_door_locked_in">
+		<text>Drzwi s¹ zamkniête od wewn¹trz</text>
+	</string>
+	<string id="war_button_activate">
+		<text>Aktywowaæ</text>
+	</string>
+	<string id="war_button_deactivate">
+		<text>Deaktywowaæ</text>
 	</string>
 	<string id="tip_door_decode">
 		<text>Naciœnij ($$ACTION_USE$$), by odszyfrowaæ drzwi</text>

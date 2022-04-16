@@ -10,10 +10,10 @@
 		<text>MAPA</text>
 	</string>
 	<string id="mm_mp_allowvoting">
-		<text>Pozwol na glosowanie</text>
+		<text>Pozwól na g³osowanie</text>
 	</string>
 	<string id="mm_mp_anomalytime">
-		<text>Aktywnosc anomalii (min.)</text>
+		<text>Aktywnoœæ anomalii (min.)</text>
 	</string>
 	<string id="mm_mp_artefactcapture">
 		<text>Zdobycie artefaktu</text>
@@ -22,19 +22,19 @@
 		<text>Powstanie artefaktu (sek.)</text>
 	</string>
 	<string id="mm_mp_artefnum">
-		<text>Liczba artefaktow</text>
+		<text>Liczba artefaktów</text>
 	</string>
 	<string id="mm_mp_artefstay">
-		<text>Trwalosc artefaktow (min.)</text>
+		<text>Trwa³oœæ artefaktów (min.)</text>
 	</string>
 	<string id="mm_mp_autoteambalance">
-		<text>Automatyczny balans druzyn</text>
+		<text>Automatyczny balans dru¿yn</text>
 	</string>
 	<string id="mm_mp_autoteamswap">
-		<text>Automatyczna zmiana druzyny</text>
+		<text>Automatyczna zmiana dru¿yny</text>
 	</string>
 	<string id="mm_mp_avail_maps">
-		<text>DOSTEPNE MAPY</text>
+		<text>DOSTÊPNE MAPY</text>
 	</string>
 	<string id="mm_mp_cancel">
 		<text>Anuluj</text>
@@ -46,13 +46,13 @@
 		<text>Klient</text>
 	</string>
 	<string id="mm_mp_create">
-		<text>Stworz</text>
+		<text>Stwórz</text>
 	</string>
 	<string id="mm_mp_damageblock">
-		<text>Niesmiertelnosc (sek.)</text>
+		<text>Nieœmiertelnoœæ (sek.)</text>
 	</string>
 	<string id="mm_mp_damageblockindicator">
-		<text>Wskaznik niesmiertelnosci</text>
+		<text>WskaŸnik nieœmiertelnoœci</text>
 	</string>
 	<string id="mm_mp_deaths">
 		<text>Zabici</text>
@@ -67,10 +67,10 @@
 		<text>Filtry</text>
 	</string>
 	<string id="mm_mp_forcerespawn">
-		<text>Odrodz po (sek.)</text>
+		<text>OdrodŸ po (sek.)</text>
 	</string>
 	<string id="mm_mp_fraglimit">
-		<text>Limit fragow</text>
+		<text>Limit fragów</text>
 	</string>
 	<string id="mm_mp_frags">
 		<text>Fragi</text>
@@ -79,16 +79,16 @@
 		<text>Czas unieruchomienia</text>
 	</string>
 	<string id="mm_mp_friendlyfire">
-		<text>Obrazenia od sojusznikow</text>
+		<text>Obra¿enia od sojuszników</text>
 	</string>
 	<string id="mm_mp_friendlyindicators">
-		<text>Wskazniki sojusznikow</text>
+		<text>WskaŸniki sojuszników</text>
 	</string>
 	<string id="mm_mp_friendlynames">
-		<text>Nicki sojusznikow</text>
+		<text>Nicki sojuszników</text>
 	</string>
 	<string id="mm_mp_full">
-		<text>Pelne</text>
+		<text>Pe³ne</text>
 	</string>
 	<string id="mm_mp_gamemode">
 		<text>Tryb</text>
@@ -100,13 +100,13 @@
 		<text>Internet</text>
 	</string>
 	<string id="mm_mp_join">
-		<text>Przylacz sie</text>
+		<text>Przy³¹cz siê</text>
 	</string>
 	<string id="mm_mp_lan">
-		<text>Siec lokalna</text>
+		<text>Sieæ lokalna</text>
 	</string>
 	<string id="mm_mp_listenservers">
-		<text>Nasluch</text>
+		<text>Nas³uch</text>
 	</string>
 	<string id="mm_mp_mapratation">
 		<text>Lista map</text>
@@ -115,7 +115,7 @@
 		<text>Maks. liczba graczy</text>
 	</string>
 	<string id="mm_mp_network_connection">
-		<text>Polaczenie sieciowe</text>
+		<text>Po³¹czenie sieciowe</text>
 	</string>
 	<string id="mm_mp_noanomalies">
 		<text>Bez anomalii</text>
@@ -124,7 +124,7 @@
 		<text>Opcje</text>
 	</string>
 	<string id="mm_mp_password">
-		<text>Haslo</text>
+		<text>Has³o</text>
 	</string>
 	<string id="mm_mp_player_name">
 		<text>Gracz:</text>
@@ -136,16 +136,16 @@
 		<text>Serwer publiczny</text>
 	</string>
 	<string id="mm_mp_quickrefresh">
-		<text>Odswiez szybko</text>
+		<text>Odœwie¿ szybko</text>
 	</string>
 	<string id="mm_mp_rateofchange">
-		<text>Zmiana wspolczynnika</text>
+		<text>Zmiana wspó³czynnika</text>
 	</string>
 	<string id="mm_mp_refresh">
-		<text>Odswiez wszystko</text>
+		<text>Odœwie¿ wszystko</text>
 	</string>
 	<string id="mm_mp_reinforcement">
-		<text>Posilki (sek.)</text>
+		<text>Posi³ki (sek.)</text>
 	</string>
 	<string id="mm_mp_respawnoptions">
 		<text>Opcje odrodzenia</text>
@@ -157,10 +157,10 @@
 		<text>Serwer</text>
 	</string>
 	<string id="mm_mp_server_list">
-		<text>Lista serwerow</text>
+		<text>Lista serwerów</text>
 	</string>
 	<string id="mm_mp_server_prop">
-		<text>Wlasciwosci serwera</text>
+		<text>W³aœciwoœci serwera</text>
 	</string>
 	<string id="mm_mp_serverinfo">
 		<text>Inf. o serwerze</text>
@@ -193,10 +193,10 @@
 		<text>Ustawienia widza</text>
 	</string>
 	<string id="mm_mp_spectator_teamonly">
-		<text>Tylko druzyna</text>
+		<text>Tylko dru¿yna</text>
 	</string>
 	<string id="mm_mp_startweather">
-		<text>Poczatkowa pogoda</text>
+		<text>Pocz¹tkowa pogoda</text>
 	</string>
 	<string id="mm_mp_timelimit">
 		<text>Limit czasowy (min.)</text>
@@ -211,16 +211,16 @@
 		<text>Bez ognia sojuszniczego </text>
 	</string>
 	<string id="mm_mp_withoutpassword">
-		<text>Bez hasla</text>
+		<text>Bez has³a</text>
 	</string>
 	<string id="mm_mp_withoutpunkbuster">
 		<text>Bez PunkBuster</text>
 	</string>
 	<string id="mm_mp_withpassword">
-		<text>Z haslem</text>
+		<text>Z has³em</text>
 	</string>
 	<string id="mp_vote_hint">
-		<text>Glosy ZA-[$$ACTION_VOTE_YES$$]\nGlosy PRZECIW-[$$ACTION_VOTE_NO$$]\nWyniki-[$$ACTION_VOTE$$]</text>
+		<text>G³osy ZA-[$$ACTION_VOTE_YES$$]\nG³osy PRZECIW-[$$ACTION_VOTE_NO$$]\nWyniki-[$$ACTION_VOTE$$]</text>
 	</string>
 	<string id="ping">
 		<text>PING</text>

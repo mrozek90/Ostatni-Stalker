@@ -8,7 +8,7 @@
 	<text>autorzy</text>
 	</string>
 	<string id="als_executor">
-	<text>i wspolpracownicy:</text>
+	<text>i wspó³pracownicy:</text>
 	</string>
 	<string id="als_zauruscrew">
 	<text>Ekipa zaurus' crew</text>
@@ -42,7 +42,7 @@
 
 
 	<string id="als_sound">
-	<text>praca z dzwiekiem</text>
+	<text>praca z dŸwiêkiem</text>
 	</string>
 	<string id="als_sound_1">
 	<text>Iwan Szejko</text>
@@ -54,18 +54,18 @@
 	<text>(dzieci)</text>
 	</string>
 	<string id="als_sound_4">
-	<text>Ruslan 'Dik' Kobalkow</text>
+	<text>Rus³an 'Dik' Kobalkow</text>
 	</string>
 	<string id="als_sound_5">
 	<text>Julia Krawczenko</text>
 	</string>
 	<string id="als_sound_6">
-	<text>Olga Frolowa</text>
+	<text>Olga Fro³owa</text>
 	</string>
 
 	
 	<string id="als_sound_7">
-	<text>%c[yelow]Piesn "Ostatni stalker"</text>
+	<text>%c[yelow]Pieœñ "Ostatni stalker"</text>
 	</string>
 	<string id="als_sound_8">
 	<text>w wykonaniu grupy</text>
@@ -104,7 +104,7 @@
 	<text>beta-testerzy:</text>
 	</string>
 	<string id="als_testing_crew_1">
-	<text>Forum "Narod walczacy":</text>
+	<text>Forum "Naród walcz¹cy":</text>
 	</string>
 	<string id="als_vzasade">
 	<text>VZASADE</text>
@@ -188,7 +188,7 @@
 	<text>zaurus' crew</text>
 	</string>	
 <string id="als_thahks_112">
-	<text>dziekuje studiu</text>
+	<text>dziêkuje studiu</text>
 	</string>	
 
 <string id="als_thahks_2">
@@ -198,7 +198,7 @@
 	<text>i jej liderowi S. Grigorowiczowi</text>
 	</string>
 	<string id="als_thahks_4">
-	<text>za stworzenie swiata Zony</text>
+	<text>za stworzenie œwiata Zony</text>
 	</string>
 	<string id="als_thahks_5">
 	<text>i kultowej serii gier</text>
@@ -208,10 +208,10 @@
 	</string>
 	
 	<string id="als_thahks_7">
-	<text>bez ktorych byloby absolutnie</text>
+	<text>bez których by³oby absolutnie</text>
 	</string>
 	<string id="als_thahks_8">
-	<text>NIEMOZLIWE</text>
+	<text>NIEMO¯LIWE</text>
 	</string>
 	<string id="als_thahks_9">
 	<text>stworzenie</text>
@@ -220,10 +220,10 @@
 	<text>fabularnej modyfikacji</text>
 	</string>
 	<string id="als_thahks_11">
-	<text>"Upadla Gwiazda.</text>
+	<text>"Upad³a Gwiazda.</text>
 	</string>
 	<string id="als_thahks_12">
-	<text>?Honor najemnika"</text>
+	<text>×Honor najemnika"</text>
 	</string>
 
 	<string id="als_thahks_1111">
@@ -231,7 +231,7 @@
 	</string>
 
 	<string id="als_thahks_135">
-	<text> a takze modyfikacji</text>
+	<text> a tak¿e modyfikacji</text>
 	</string>
 	<string id="als_thahks_136">
 	<text>"Apokalipsa"</text>
@@ -240,23 +240,23 @@
 	<text>"Poszukiwacze. Dies irae"</text>
 	</string>
 	<string id="als_thahks_13">
-	<text>"Powinnosc. Filozofia wojny"</text>
+	<text>"Powinnoœæ. Filozofia wojny"</text>
 	</string>
 
 
 	<string id="als_thanks_14">
-	<text>autor dziekuje</text>
+	<text>autor dziêkuje</text>
 	</string>
 
 
 	<string id="als_thanks_15">
-	<text>Dziekujemy wszystkim fanom</text>
+	<text>Dziêkujemy wszystkim fanom</text>
 	</string>
 	<string id="als_thanks_16">
 	<text>gry "S.T.A.L.K.E.R."</text>
 	</string>
 	<string id="als_thanks_17">
-	<text>i linii modow</text>
+	<text>i linii modów</text>
 	</string>
 	<string id="als_thanks_18">
 	<text>od ekipy</text>
@@ -269,7 +269,7 @@
 	<text>sponsor projektu DFS:</text>
 	</string>
 	<string id="als_sponsor_name">
-	<text>spolka MBTM LLC m.Irkuck</text>
+	<text>spó³ka MBTM LLC m.Irkuck</text>
 	</string>
 	
 
@@ -278,7 +278,7 @@
 	<text>wykorzystana muzyka</text>
 	</string>
 	<string id="als_compous_2">
-	<text>autorow i wykonawcow:</text>
+	<text>autorów i wykonawców:</text>
 	</string>
 	
 	<string id="als_musicants_1">
@@ -303,22 +303,22 @@
 	<text>Nick Cave</text>
 	</string>
 	<string id="als_musicants_8">
-	<text>Jewrenij Bielkow</text>
+	<text>Jewrenij Bie³kow</text>
 	</string>
 	<string id="als_musicants_9">
-	<text>Blekitne</text>
+	<text>B³êkitne</text>
 	</string>
 	<string id="als_musicants_10">
 	<text>Gotthard</text>
 	</string>
 	<string id="als_musicants_11">
-	<text>Aleksander Bolokitin</text>
+	<text>Aleksander Bo³okitin</text>
 	</string>
 	<string id="als_musicants_12">
-	<text>OSTATNI ZAULEK</text>
+	<text>OSTATNI ZAU£EK</text>
 	</string>
 	<string id="als_musicants_13">
-	<text>Czerwona Plesn</text>
+	<text>Czerwona Pleœñ</text>
 	</string>
 	<string id="als_musicants_14">
 	<text>muzyka_14</text>
@@ -343,10 +343,10 @@
 	</string>
 	
 	<string id="als_musicants_21">
-	<text>Pelny album z muzyka</text>
+	<text>Pe³ny album z muzyk¹</text>
 	</string>
 	<string id="als_musicants_22">
-	<text>mozna pobrac pod adresem</text>
+	<text>mo¿na pobraæ pod adresem</text>
 	</string>
 	<string id="als_musicants_23">
 	<text>kreazot-maks.bandcamp.com/album/last-stalker</text>
@@ -370,7 +370,7 @@
 	<text>przy pracach nad modem wykorzystano</text>
 	</string>
 	<string id="als_progs_2">
-	<text>prace autorow i ekip:</text>
+	<text>prace autorów i ekip:</text>
 	</string>
 	
 	<string id="als_progs_3">
@@ -449,7 +449,7 @@
 	<text>Adm-RAL</text>
 	</string>
 	<string id="als_progs_28">
-	<text>Zmieniajacy</text>
+	<text>Zmieniaj¹cy</text>
 	</string>
 	<string id="als_progs_29">
 	<text>Aaz</text>
@@ -486,13 +486,13 @@
 
 
 	<string id="als_progs_361">
-	<text>autorow niektorych prac</text>
+	<text>autorów niektórych prac</text>
 	</string>
 	<string id="als_progs_371">
 	<text>nie wspomnianych</text>
 	</string>
 	<string id="als_progs_381">
-	<text>z gory przepraszamy.</text>
+	<text>z góry przepraszamy.</text>
 	</string>
 	
 	
@@ -505,7 +505,7 @@
 	</string>
 	
 	<string id="als_progs_411">
-	<text>Narod-walczacy.rf</text>
+	<text>Naród-walcz¹cy.rf</text>
 	</string>
 
 <string id="als_progs_412">

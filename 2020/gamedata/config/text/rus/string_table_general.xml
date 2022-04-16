@@ -4,43 +4,43 @@
 		<text>grupa Bormana</text>
 	</string>
 	<string id="actor_dolg">
-		<text>Powinnosc</text>
+		<text>Powinnoœæ</text>
 	</string>
 	<string id="actor_freedom">
-		<text>Wolnosc</text>
+		<text>Wolnoœæ</text>
 	</string>
 	<string id="arena_enemy">
 		<text>Najemnik</text>
 	</string>
 	<string id="bad">
-		<text>zla</text>
+		<text>z³a</text>
 	</string>
 	<string id="bandit">
 		<text>Bandyta</text>
 	</string>
 	<string id="dolg">
-		<text>Powinnosc</text>
+		<text>Powinnoœæ</text>
 	</string>
 	<string id="ecolog">
 		<text>Ekolog</text>
 	</string>
 	<string id="enemy">
-		<text>wrog</text>
+		<text>wróg</text>
 	</string>
 	<string id="excellent">
-		<text>doskonala</text>
+		<text>doskona³a</text>
 	</string>
 	<string id="exo_outfit_name_m1">
 		<text>Egzoszkielet PNB-4UZ</text>
 	</string>
 	<string id="experienced">
-		<text>doswiadczony</text>
+		<text>doœwiadczony</text>
 	</string>
 	<string id="Found_PDA">
 		<text>Odnalezione PDA</text>
 	</string>
 	<string id="freedom">
-		<text>Wolnosc</text>
+		<text>Wolnoœæ</text>
 	</string>
 	<string id="friendly">
 		<text>przyjaciel</text>
@@ -82,7 +82,7 @@
 		<text>Radar</text>
 	</string>
 	<string id="l11_pripyat">
-		<text>Prypec</text>
+		<text>Prypeæ</text>
 	</string>
 	<string id="l12_stancia">
 		<text>CEA-1</text>
@@ -130,13 +130,13 @@
 		<text>ranga</text>
 	</string>
 	<string id="ui_st_relation">
-		<text>przychylnosc</text>
+		<text>przychylnoœæ</text>
 	</string>
 	<string id="ui_st_reputation">
 		<text>reputacja</text>
 	</string>
 	<string id="very_bad">
-		<text>bardzo zla</text>
+		<text>bardzo z³a</text>
 	</string>
 	<string id="very_good">
 		<text>Bardzo dobra</text>
@@ -166,25 +166,25 @@
 		<text>Autozapis...</text>
 	</string>
 	<string id="st_game_over">
-		<text>Gra skonczona.</text>
+		<text>Gra skoñczona.</text>
 	</string>
 	<string id="st_item_used">
-		<text>Uzywane</text>
+		<text>U¿ywane</text>
 	</string>
 	<string id="st_not_enough_money">
-		<text>Brak pieniedzy</text>
+		<text>Brak pieniêdzy</text>
 	</string>
 	<string id="st_not_enough_money_npc">
-		<text>NPC nie ma wystarczajaco duzo pieniedzy</text>
+		<text>NPC nie ma wystarczaj¹co du¿o pieniêdzy</text>
 	</string>
 	<string id="ui_st_opponent_items">
 		<text>Plecak</text>
 	</string>
 	<string id="st_search_treasure">
-		<text>Przeszukac schowek ($$ACTION_USE$$)</text>
+		<text>Przeszukaæ schowek ($$ACTION_USE$$)</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Podniesc przedmiot ($$ACTION_USE$$)</text>
+		<text>Podnieœæ przedmiot ($$ACTION_USE$$)</text>
 	</string>
 	<string id="ui_mm_check_updates">
 		<text>Aktualizacja gry</text>
@@ -199,10 +199,10 @@
 		<text>Promieniowanie</text>
 	</string>
 	<string id="ui_inv_satiety">
-		<text>Glod</text>
+		<text>G³ód</text>
 	</string>
 	<string id="ui_inv_power">
-		<text>Wytrzymalosc</text>
+		<text>Wytrzyma³oœæ</text>
 	</string>
 	<string id="ui_inv_bleeding">
 		<text>Krwawienie</text>
@@ -211,25 +211,25 @@
 		<text>Wszystkim</text>
 	</string>
 	<string id="st_mp_say_to_team">
-		<text>Druzynie</text>
+		<text>Dru¿ynie</text>
 	</string>
 	<string id="st_knife">
-		<text>Noz</text>
+		<text>Nó¿</text>
 	</string>
 	<string id="st_mp_disabled_voting">
-		<text>Na tym serwerze nie mozna glosowac.</text>
+		<text>Na tym serwerze nie mo¿na g³osowaæ.</text>
 	</string>
 	<string id="st_mp_no_current_voting">
-		<text>Brak aktywnych glosowan.</text>
+		<text>Brak aktywnych g³osowañ.</text>
 	</string>
 	<string id="st_mp_ready">
 		<text>gotowy</text>
 	</string>
 	<string id="st_mp_voting_succeed">
-		<text>Glosowanie udane!</text>
+		<text>G³osowanie udane!</text>
 	</string>
 	<string id="st_mp_voting_failed">
-		<text>Glosowanie nieudane!</text>
+		<text>G³osowanie nieudane!</text>
 	</string>
 	<string id="l03u_agr_underground">
 		<text>Podziemia Agropromu</text>
@@ -268,7 +268,7 @@
 		<text>Sortownia</text>
 	</string>
 	<string id="limansk">
-		<text>Limansk</text>
+		<text>Limañsk</text>
 	</string>
 	<string id="militari">
 		<text>Magazyny Wojskowe</text>
@@ -280,7 +280,7 @@
 		<text>Generatory</text>
 	</string>
 	<string id="pripyat">
-		<text>Prypec</text>
+		<text>Prypeæ</text>
 	</string>
 	<string id="l12_stancia">
 		<text>CEA-1</text>

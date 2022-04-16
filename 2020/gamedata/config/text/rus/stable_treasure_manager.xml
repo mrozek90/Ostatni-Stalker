@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="agr_secret_0000_descr">
-		<text>Na razie nasz schowek jest w tunelu, cale dobro lezy w rurze. To dobre miejsce - niewielu o nim wie, a innych powstrzymaja anomalie.</text>
+		<text>Na razie nasz schowek jest w tunelu, całe dobro leży w rurze. To dobre miejsce - niewielu o nim wie, a innych powstrzymają anomalie.</text>
 	</string>
 	<string id="agr_secret_0000_name">
 		<text>Schowek Sieryja</text>
 	</string>
 	<string id="agr_secret_0001_descr">
-		<text>Schowalem go w pniaku przy tunelu. Jest tam spora dziura.</text>
+		<text>Schowałem go w pniaku przy tunelu. Jest tam spora dziura.</text>
 	</string>
 	<string id="agr_secret_0001_name">
-		<text>Pniak z dziura</text>
+		<text>Pniak z dziurą</text>
 	</string>
 	<string id="agr_secret_0002_descr">
-		<text>Zakopalem skarby pod krzyzem przy krzaku.</text>
+		<text>Zakopałem skarby pod krzyżem przy krzaku.</text>
 	</string>
 	<string id="agr_secret_0002_name">
-		<text>Znak jest pod krzyzem</text>
+		<text>Znak jest pod krzyżem</text>
 	</string>
 	<string id="agr_secret_0003_descr">
-		<text>Rzucilem plecak obok zwalonego drzewa.</text>
+		<text>Rzuciłem plecak obok zwalonego drzewa.</text>
 	</string>
 	<string id="agr_secret_0003_name">
 		<text>Plecak pod drzewem</text>
 	</string>
 	<string id="agr_secret_0004_descr">
-		<text>Wsadzilem plecak w rure obok fabryki. Nikt go nie znajdzie.</text>
+		<text>Wsadziłem plecak w rurę obok fabryki. Nikt go nie znajdzie.</text>
 	</string>
 	<string id="agr_secret_0004_name">
 		<text>Plecak kominiarza</text>
 	</string>
 	<string id="agr_secret_0005_descr">
-		<text>Schowalem skrzynie na dachu fabryki - nikt jej tam nie znajdzie. Jedyny problem jest taki, ze zardzewieje od deszczu.</text>
+		<text>Schowałem skrzynię na dachu fabryki - nikt jej tam nie znajdzie. Jedyny problem jest taki, że zardzewieje od deszczu.</text>
 	</string>
 	<string id="agr_secret_0005_name">
 		<text>Skrzynia na dachu</text>
 	</string>
 	<string id="agr_secret_0006_descr">
-		<text>Strzelali. Musialem wrzucic plecak pod wagon, za kola. Przynajmniej udalo mi sie uciec. Wroce tam i go zabiore.</text>
+		<text>Strzelali. Musiałem wrzucić plecak pod wagon, za koła. Przynajmniej udało mi się uciec. Wrócę tam i go zabiorę.</text>
 	</string>
 	<string id="agr_secret_0006_name">
 		<text>Plecak pijaka</text>
 	</string>
 	<string id="agr_secret_0007_descr">
-		<text>Schowalem go pod krzyzem, za cysternami. Pokop troche, tylko nie za gleboko.</text>
+		<text>Schowałem go pod krzyżem, za cysternami. Pokop trochę, tylko nie za głęboko.</text>
 	</string>
 	<string id="agr_secret_0007_name">
 		<text>Przy trzech cysternach</text>
 	</string>
 	<string id="agr_secret_0008_descr">
-		<text>Zostawilem plecak gdzies na gorze fabryki - nikt go nie zauwazy. Problem polega na tym, ze nie pamietam dokladnie, co w nim jest.</text>
+		<text>Zostawiłem plecak gdzieś na górze fabryki - nikt go nie zauważy. Problem polega na tym, że nie pamiętam dokładnie, co w nim jest.</text>
 	</string>
 	<string id="agr_secret_0008_name">
 		<text>Plecak jest w okienku</text>
 	</string>
 	<string id="agr_secret_0009_descr">
-		<text>Schowalem swoje rzeczy w skrzyni wewnatrz fabryki.</text>
+		<text>Schowałem swoje rzeczy w skrzyni wewnątrz fabryki.</text>
 	</string>
 	<string id="agr_secret_0009_name">
 		<text>Radioaktywna skrzynia</text>
@@ -67,211 +67,211 @@
 		<text>Skrzynia na klatce schodowej</text>
 	</string>
 	<string id="agr_secret_0011_descr">
-		<text>Schowalem to w skrzyni - i tak nikt tego nie sprawdzi.</text>
+		<text>Schowałem to w skrzyni - i tak nikt tego nie sprawdzi.</text>
 	</string>
 	<string id="agr_secret_0011_name">
 		<text>Skrzynia z fabryki</text>
 	</string>
 	<string id="agr_secret_0012_descr">
-		<text>Wyrzucilem torbe za okno. Pozniej po nia pojde.</text>
+		<text>Wyrzuciłem torbę za okno. Później po nią pójdę.</text>
 	</string>
 	<string id="agr_secret_0012_name">
 		<text>Torba jest przy belce</text>
 	</string>
 	<string id="agr_secret_0013_descr">
-		<text>Zrobilismy sobie z Koljanem spacer po Agropromie. Znalezlismy same smieci, ale udalo nam sie schowac troche rzeczy. Ukrylismy skrzynie w koszu na smieci.</text>
+		<text>Zrobiliśmy sobie z Kołjanem spacer po Agropromie. Znaleźliśmy same śmieci, ale udało nam się schować trochę rzeczy. Ukryliśmy skrzynię w koszu na śmieci.</text>
 	</string>
 	<string id="agr_secret_0013_name">
-		<text>Kosz na smieci</text>
+		<text>Kosz na śmieci</text>
 	</string>
 	<string id="agr_secret_0014_descr">
-		<text>Pod zwalonym drzewem znalazlem sejf. Schowam tam wszystko na jakis czas.</text>
+		<text>Pod zwalonym drzewem znalazłem sejf. Schowam tam wszystko na jakiś czas.</text>
 	</string>
 	<string id="agr_secret_0014_name">
 		<text>Sejf pod drzewem</text>
 	</string>
 	<string id="agr_secret_0015_descr">
-		<text>Wrzucilem wszystkie rzeczy do rury, pozniej po nie wroce. Musialem to zrobic. Inaczej zabralbym je ze soba. Mam nadzieje, ze nie zamokna.</text>
+		<text>Wrzuciłem wszystkie rzeczy do rury, później po nie wrócę. Musiałem to zrobić. Inaczej zabrałbym je ze sobą. Mam nadzieję, że nie zamokną.</text>
 	</string>
 	<string id="agr_secret_0015_name">
 		<text>Rzeczy w rurze</text>
 	</string>
 	<string id="agr_secret_0016_descr">
-		<text>Towar jest w starej rurze. Musimy o tym powiedziec chlopakom. Ja tam sie nie bede wspinal.</text>
+		<text>Towar jest w starej rurze. Musimy o tym powiedzieć chłopakom. Ja tam się nie będę wspinał.</text>
 	</string>
 	<string id="agr_secret_0016_name">
 		<text>Radioaktywna rura</text>
 	</string>
 	<string id="agr_secret_0017_descr">
-		<text>Ucieklem z bazy - niech ich szlag! Uniknalem ostrzalu stalkerow. Ulozylem towar na stosie w rurze. Zostane tutaj, dopoki nie znikna, a potem tam wroce.</text>
+		<text>Uciekłem z bazy - niech ich szlag! Uniknąłem ostrzału stalkerów. Ułożyłem towar na stosie w rurze. Zostanę tutaj, dopóki nie znikną, a potem tam wrócę.</text>
 	</string>
 	<string id="agr_secret_0017_name">
 		<text>Stos</text>
 	</string>
 	<string id="agr_secret_0018_descr">
-		<text>Pod krzakiem jest na wpol zakopany sejf - to tam wszystko ukrylem.</text>
+		<text>Pod krzakiem jest na wpół zakopany sejf - to tam wszystko ukryłem.</text>
 	</string>
 	<string id="agr_secret_0018_name">
 		<text>Sejf pod krzakiem</text>
 	</string>
 	<string id="agr_secret_0019_descr">
-		<text>Odkryli skrzynie pod belka. Ktos ja ciagnal az od Instytutu Badawczego. Poczekajmy na helikopter, wtedy ja zabierzemy.</text>
+		<text>Odkryli skrzynię pod belką. Ktoś ją ciągnął aż od Instytutu Badawczego. Poczekajmy na helikopter, wtedy ją zabierzemy.</text>
 	</string>
 	<string id="agr_secret_0019_name">
-		<text>Pudlo z archiwami</text>
+		<text>Pudło z archiwami</text>
 	</string>
 	<string id="agr_secret_0020_descr">
-		<text>Schowalem swoje rzeczy w zelaznej kapsule</text>
+		<text>Schowałem swoje rzeczy w żelaznej kapsule</text>
 	</string>
 	<string id="agr_secret_0020_name">
-		<text>Pod zapadnia</text>
+		<text>Pod zapadnią</text>
 	</string>
 	<string id="agr_secret_0021_descr">
-		<text>Pod krzakiem jest na wpol zakopany sejf. Tam wszystko chowam.</text>
+		<text>Pod krzakiem jest na wpół zakopany sejf. Tam wszystko chowam.</text>
 	</string>
 	<string id="agr_secret_0021_name">
 		<text>Pod krzakiem przy murze</text>
 	</string>
 	<string id="agr_secret_0022_descr">
-		<text>Skrzynia do skladowania roznych rzeczy</text>
+		<text>Skrzynia do składowania różnych rzeczy</text>
 	</string>
 	<string id="agr_secret_0022_name">
 		<text>Skrzynia z Instytutu</text>
 	</string>
 	<string id="agr_secret_0023_descr">
-		<text>Schowalem to w sejfie, ale zjawili sie zolnierze i teraz nie moge zabrac towaru.</text>
+		<text>Schowałem to w sejfie, ale zjawili się żołnierze i teraz nie mogę zabrać towaru.</text>
 	</string>
 	<string id="agr_secret_0023_name">
 		<text>Agrosejf</text>
 	</string>
 	<string id="agr_secret_0024_descr">
-		<text>Wrzucilem towar do rury - pozniej go stamtad zabiore.</text>
+		<text>Wrzuciłem towar do rury - później go stamtąd zabiorę.</text>
 	</string>
 	<string id="agr_secret_0024_name">
-		<text>Karoseria ciezarowki</text>
+		<text>Karoseria ciężarówki</text>
 	</string>
 	<string id="agr_secret_0025_descr">
-		<text>Zabierz rzeczy ze sprochnialej klody</text>
+		<text>Zabierz rzeczy ze spróchniałej kłody</text>
 	</string>
 	<string id="agr_secret_0025_name">
-		<text>Sprochniala kloda</text>
+		<text>Spróchniała kłoda</text>
 	</string>
 	<string id="agr_secret_0026_descr">
-		<text>Skrzynia do skladowania roznych rzeczy. Kiedys chowano w niej sprzet Instytutu.</text>
+		<text>Skrzynia do składowania różnych rzeczy. Kiedyś chowano w niej sprzęt Instytutu.</text>
 	</string>
 	<string id="agr_secret_0026_name">
 		<text>Skrzynia Zawchoza</text>
 	</string>
 	<string id="agr_secret_0027_descr">
-		<text>Skrzynia do przechowywania niewielkich przedmiotow. W domu trzymam w takiej narzedzia.</text>
+		<text>Skrzynia do przechowywania niewielkich przedmiotów. W domu trzymam w takiej narzędzia.</text>
 	</string>
 	<string id="agr_secret_0027_name">
-		<text>Narzedzia do obrobki metalu</text>
+		<text>Narzędzia do obróbki metalu</text>
 	</string>
 	<string id="agr_u_secret_0000_descr">
-		<text>Bandyci chowaja cos pod rura, musze to sprawdzic. Z naszej rozmowy wynika, ze trzymaja tam zapasy.</text>
+		<text>Bandyci chowają coś pod rurą, muszę to sprawdzić. Z naszej rozmowy wynika, że trzymają tam zapasy.</text>
 	</string>
 	<string id="agr_u_secret_0000_name">
-		<text>Wspolny "fundusz" bandytow</text>
+		<text>Wspólny "fundusz" bandytów</text>
 	</string>
 	<string id="agr_u_secret_0001_descr">
-		<text>Schowalem plecak za betonowymi plytami, zeby ograniczyc ciezar. Bede glodny, ale przynajmniej zywy.</text>
+		<text>Schowałem plecak za betonowymi płytami, żeby ograniczyć ciężar. Będę głodny, ale przynajmniej żywy.</text>
 	</string>
 	<string id="agr_u_secret_0001_name">
 		<text>Plecak jest w bocznej uliczce</text>
 	</string>
 	<string id="agr_u_secret_0002_descr">
-		<text>Skrzynia jest za zardzewiala "beczka" pod ziemia. Wszystko w niej jest. Nie ma mowy, zebym tam wrocil. To cud, ze ucieklem tej pijawce! Ciagle nie pamietam, jak to sie stalo.</text>
+		<text>Skrzynia jest za zardzewiałą "beczką" pod ziemią. Wszystko w niej jest. Nie ma mowy, żebym tam wrócił. To cud, że uciekłem tej pijawce! Ciągle nie pamiętam, jak to się stało.</text>
 	</string>
 	<string id="agr_u_secret_0002_name">
 		<text>Skrzynia pijawki</text>
 	</string>
 	<string id="agr_u_secret_0003_descr">
-		<text>Za tymi drzwiami sa fanty. Zajme sie nimi.</text>
+		<text>Za tymi drzwiami są fanty. Zajmę się nimi.</text>
 	</string>
 	<string id="agr_u_secret_0003_name">
 		<text>Fanty stalkera</text>
 	</string>
 	<string id="agr_u_secret_0004_descr">
-		<text>Schowalem tu rozne fanty. Swietne miejsce na schowek - nigdy bys ich nie znalazl na zoltej beczce.</text>
+		<text>Schowałem tu różne fanty. Świetne miejsce na schowek - nigdy byś ich nie znalazł na żółtej beczce.</text>
 	</string>
 	<string id="agr_u_secret_0004_name">
 		<text>Dziura kreta</text>
 	</string>
 	<string id="bar_secret_0000_description">
-		<text>Schowalem plecak niedaleko bazy "Powinnosci". Pozniej go zabiore.</text>
+		<text>Schowałem plecak niedaleko bazy "Powinności". Później go zabiorę.</text>
 	</string>
 	<string id="bar_secret_0000_name">
 		<text>Ukryty plecak</text>
 	</string>
 	<string id="bar_secret_0001_description">
-		<text>Zaatakowalo mnie duze stado psow. Gdybym nie porzucil plecaka, nie dobieglbym do bramy.</text>
+		<text>Zaatakowało mnie duże stado psów. Gdybym nie porzucił plecaka, nie dobiegłbym do bramy.</text>
 	</string>
 	<string id="bar_secret_0001_name">
 		<text>Porzucony plecak</text>
 	</string>
 	<string id="bar_secret_0002_description">
-		<text>Wszystko, co pozostalo, zakopali pod krzyzem</text>
+		<text>Wszystko, co pozostało, zakopali pod krzyżem</text>
 	</string>
 	<string id="bar_secret_0002_name">
-		<text>Schowek pod krzyzem</text>
+		<text>Schowek pod krzyżem</text>
 	</string>
 	<string id="bar_secret_0003_description">
-		<text>Rzucilem tu swoj plecak - tak bedzie latwiej</text>
+		<text>Rzuciłem tu swój plecak - tak będzie łatwiej</text>
 	</string>
 	<string id="bar_secret_0003_name">
 		<text>Plecak</text>
 	</string>
 	<string id="bar_secret_0004_description">
-		<text>Amunicja posterunku "Powinnosci" jest skladowana w bunkrze, ale nikt nie pilnuje skrzyni</text>
+		<text>Amunicja posterunku "Powinności" jest składowana w bunkrze, ale nikt nie pilnuje skrzyni</text>
 	</string>
 	<string id="bar_secret_0004_name">
 		<text>Zapasy w bunkrze</text>
 	</string>
 	<string id="bar_secret_0005_description">
-		<text>Widzialem, jak czlonek "Powinnosci" chowa cos w rurze przy bramie</text>
+		<text>Widziałem, jak członek "Powinności" chowa coś w rurze przy bramie</text>
 	</string>
 	<string id="bar_secret_0005_name">
 		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0006_description">
-		<text>To wszystko nalezalo do niego, na razie moze tu zostac</text>
+		<text>To wszystko należało do niego, na razie może tu zostać</text>
 	</string>
 	<string id="bar_secret_0006_name">
-		<text>Schowek pod krzyzem</text>
+		<text>Schowek pod krzyżem</text>
 	</string>
 	<string id="bar_secret_0007_description">
-		<text>Ide do baru, zostawilem plecak w hangarze</text>
+		<text>Idę do baru, zostawiłem plecak w hangarze</text>
 	</string>
 	<string id="bar_secret_0007_name">
 		<text>Plecak</text>
 	</string>
 	<string id="bar_secret_0008_description">
-		<text>Podobno na terytorium "Powinnosci", w centrali, ukryto cos wartosciowego.</text>
+		<text>Podobno na terytorium "Powinności", w centrali, ukryto coś wartościowego.</text>
 	</string>
 	<string id="bar_secret_0008_name">
 		<text>Centrala ze schowkiem.</text>
 	</string>
 	<string id="bar_secret_0009_description">
-		<text>Schowalem skrzynie na wiezy, pod nosem "Powinnosci". Nikt jej nie zauwazy.</text>
+		<text>Schowałem skrzynię na wieży, pod nosem "Powinności". Nikt jej nie zauważy.</text>
 	</string>
 	<string id="bar_secret_0009_name">
-		<text>Schowek na wiezy</text>
+		<text>Schowek na wieży</text>
 	</string>
 	<string id="bar_secret_0010_description">
-		<text>Schowalem to w rurze pod schodami</text>
+		<text>Schowałem to w rurze pod schodami</text>
 	</string>
 	<string id="bar_secret_0010_name">
 		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0011_description">
-		<text>Ukrylem towar niedaleko baru, za anomaliami - nikt sie tam nie dostanie. A nawet, gdyby ktos sie tam dostal, nie wiedzialby, jak to otworzyc. A to bardzo proste - wystarczy lekko podwazyc drzwi i gotowe.</text>
+		<text>Ukryłem towar niedaleko baru, za anomaliami - nikt się tam nie dostanie. A nawet, gdyby ktoś się tam dostał, nie wiedziałby, jak to otworzyć. A to bardzo proste - wystarczy lekko podważyć drzwi i gotowe.</text>
 	</string>
 	<string id="bar_secret_0011_name">
 		<text>Schowek Arniego</text>
 	</string>
 	<string id="bar_secret_0012_description">
-		<text>Zakopalem towar niedaleko baru</text>
+		<text>Zakopałem towar niedaleko baru</text>
 	</string>
 	<string id="bar_secret_0012_name">
 		<text>Schowek</text>
@@ -283,391 +283,391 @@
 		<text>Skrzynia</text>
 	</string>
 	<string id="bar_secret_0014_description">
-		<text>Ukrylem skrzynie w bocznej uliczce niedaleko baru</text>
+		<text>Ukryłem skrzynię w bocznej uliczce niedaleko baru</text>
 	</string>
 	<string id="bar_secret_0014_name">
 		<text>Niewielka skrzynia</text>
 	</string>
 	<string id="bar_secret_0015_description">
-		<text>Zakopalem ja pod krzyzem za sosnami</text>
+		<text>Zakopałem ją pod krzyżem za sosnami</text>
 	</string>
 	<string id="bar_secret_0015_name">
 		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0016_description">
-		<text>Pod krzyzem, niedaleko przejscia do Doliny Mroku.</text>
+		<text>Pod krzyżem, niedaleko przejścia do Doliny Mroku.</text>
 	</string>
 	<string id="bar_secret_0016_name">
 		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0017_description">
-		<text>Schowalem skrzynie z antyradem w rurze, niedaleko Areny.</text>
+		<text>Schowałem skrzynię z antyradem w rurze, niedaleko Areny.</text>
 	</string>
 	<string id="bar_secret_0017_name">
 		<text>Niewielka skrzynia</text>
 	</string>
 	<string id="bar_secret_0018_description">
-		<text>Schowalem swoje klamoty w rurze pod wieza</text>
+		<text>Schowałem swoje klamoty w rurze pod wieżą</text>
 	</string>
 	<string id="bar_secret_0018_name">
 		<text>Schowek</text>
 	</string>
 	<string id="bar_secret_0019_description">
-		<text>Pod krzyzem jest schowek</text>
+		<text>Pod krzyżem jest schowek</text>
 	</string>
 	<string id="bar_secret_0019_name">
 		<text>Schowek</text>
 	</string>
 	<string id="esc_secret_0000_descr">
-		<text>W czasie przegrupowywania schowalem zapasy w wagonie. Musze pamietac!</text>
+		<text>W czasie przegrupowywania schowałem zapasy w wagonie. Muszę pamiętać!</text>
 	</string>
 	<string id="esc_secret_0000_name">
 		<text>Wagon nad mostem</text>
 	</string>
 	<string id="esc_secret_0001_descr">
-		<text>Widzialem, jak jakis stalker ginie w anomalii niedaleko tunelu kolejowego w lesie. Wygladalo na to, ze ma niezly towar.</text>
+		<text>Widziałem, jak jakiś stalker ginie w anomalii niedaleko tunelu kolejowego w lesie. Wyglądało na to, że ma niezły towar.</text>
 	</string>
 	<string id="esc_secret_0001_name">
-		<text>Rzeczy nalezace do czlowieka, ktory zginal w anomalii</text>
+		<text>Rzeczy należące do człowieka, który zginął w anomalii</text>
 	</string>
 	<string id="esc_secret_0002_descr">
-		<text>Ukrylem lup niedaleko obozu bandytow, pod krzyzem.</text>
+		<text>Ukryłem łup niedaleko obozu bandytów, pod krzyżem.</text>
 	</string>
 	<string id="esc_secret_0002_name">
-		<text>Krzyz przy obozie bandytow</text>
+		<text>Krzyż przy obozie bandytów</text>
 	</string>
 	<string id="esc_secret_0003_descr">
-		<text>Skrzynia ukradziona przez bandytow zostala odnaleziona na strychu glownego budynku. Musze przygotowac oddzial i ja zdobyc.</text>
+		<text>Skrzynia ukradziona przez bandytów została odnaleziona na strychu głównego budynku. Muszę przygotować oddział i ją zdobyć.</text>
 	</string>
 	<string id="esc_secret_0003_name">
-		<text>Magazyn bandytow</text>
+		<text>Magazyn bandytów</text>
 	</string>
 	<string id="esc_secret_0004_descr">
-		<text>Gdy z towarzyszami walczylismy przeciw tym kundlom w mundurach, zakopalem troche towaru pod mostem. Niech tam na razie zostanie.</text>
+		<text>Gdy z towarzyszami walczyliśmy przeciw tym kundlom w mundurach, zakopałem trochę towaru pod mostem. Niech tam na razie zostanie.</text>
 	</string>
 	<string id="esc_secret_0004_name">
-		<text>Pod krzyzem</text>
+		<text>Pod krzyżem</text>
 	</string>
 	<string id="esc_secret_0005_descr">
-		<text>Schowalem plecak w piwnicy. Wroce tam pozniej - teraz nie dam rady.</text>
+		<text>Schowałem plecak w piwnicy. Wrócę tam później - teraz nie dam rady.</text>
 	</string>
 	<string id="esc_secret_0005_name">
-		<text>Kryjowka w piwnicy</text>
+		<text>Kryjówka w piwnicy</text>
 	</string>
 	<string id="esc_secret_0006_descr">
-		<text>W gospodarstwie znalazlem na wpol zakopany sejf. Na jakis czas zostawie tam towar.</text>
+		<text>W gospodarstwie znalazłem na wpół zakopany sejf. Na jakiś czas zostawię tam towar.</text>
 	</string>
 	<string id="esc_secret_0006_name">
 		<text>Sejf w gospodarstwie</text>
 	</string>
 	<string id="esc_secret_0007_descr">
-		<text>Wrozka mi powiedziala, ze ktos cos ukryl w wagonie na moscie. Trzeba to sprawdzic w drodze powrotnej. Ciekawe kto...</text>
+		<text>Wróżka mi powiedziała, że ktoś coś ukrył w wagonie na moście. Trzeba to sprawdzić w drodze powrotnej. Ciekawe kto...</text>
 	</string>
 	<string id="esc_secret_0007_name">
 		<text>Pojemnik w wagonie</text>
 	</string>
 	<string id="esc_secret_0008_descr">
-		<text>Schowalem towar tuz pod dachem w domku przy moscie.</text>
+		<text>Schowałem towar tuż pod dachem w domku przy moście.</text>
 	</string>
 	<string id="esc_secret_0008_name">
 		<text>Towar Strieloka</text>
 	</string>
 	<string id="esc_secret_0009_descr">
-		<text>Schowalem klamoty w jednej ze skrzyn nieopodal mostu. To by bylo na tyle. Dziekuje, opuszczam Zone. Zegnajcie, bracia! Nigdy nie zapomne ojczyzny.</text>
+		<text>Schowałem klamoty w jednej ze skrzyń nieopodal mostu. To by było na tyle. Dziękuję, opuszczam Zonę. Żegnajcie, bracia! Nigdy nie zapomnę ojczyzny.</text>
 	</string>
 	<string id="esc_secret_0009_name">
-		<text>Rzeczy przy moscie</text>
+		<text>Rzeczy przy moście</text>
 	</string>
 	<string id="esc_secret_0010_descr">
-		<text>Jeden ze stalkerow wykitowal niedaleko obozu nowych. Przejrzyj jego rzeczy.</text>
+		<text>Jeden ze stalkerow wykitował niedaleko obozu nowych. Przejrzyj jego rzeczy.</text>
 	</string>
 	<string id="esc_secret_0010_name">
 		<text>Plecak jest niedaleko wioski</text>
 	</string>
 	<string id="esc_secret_0011_descr">
-		<text>Dowiedzialem sie od Lichojem, ze schowek jest na strychu. Gadal za duzo, wiec przymknelismy go na dobre.</text>
+		<text>Dowiedziałem się od Lichojem, że schowek jest na strychu. Gadał za dużo, więc przymknęliśmy go na dobre.</text>
 	</string>
 	<string id="esc_secret_0011_name">
 		<text>Piwnica w wiosce</text>
 	</string>
 	<string id="esc_secret_0012_descr">
-		<text>Znalazlem swietna kryjowke w piwnicy. Poczekam, az ktos cos tam wlozy.</text>
+		<text>Znalazłem świetną kryjówkę w piwnicy. Poczekam, aż ktoś coś tam włoży.</text>
 	</string>
 	<string id="esc_secret_0012_name">
 		<text>Dobre miejsce</text>
 	</string>
 	<string id="esc_secret_0013_descr">
-		<text>Worpal mi powiedzial, ze na strychu jest schowek. Nasi przeprowadzali w okolicy rozpoznanie. Sprawdzmy to.</text>
+		<text>Worpał mi powiedział, że na strychu jest schowek. Nasi przeprowadzali w okolicy rozpoznanie. Sprawdźmy to.</text>
 	</string>
 	<string id="esc_secret_0013_name">
-		<text>Schowek Worpala</text>
+		<text>Schowek Worpała</text>
 	</string>
 	<string id="esc_secret_0014_descr">
-		<text>Widzieli, ze dowodca ma w swoim gabinecie fikusna skrzynie, w ktorej sa tony wartosciowych rzeczy.</text>
+		<text>Widzieli, że dowódca ma w swoim gabinecie fikuśną skrzynię, w której są tony wartościowych rzeczy.</text>
 	</string>
 	<string id="esc_secret_0014_name">
-		<text>Kosztownosci dowodcy</text>
+		<text>Kosztowności dowódcy</text>
 	</string>
 	<string id="esc_secret_0015_descr">
-		<text>Jakis stalker wykitowal niedaleko obozu nowych. Powinnismy sprawdzic, co mial. A tak w ogole, to kto ich wpuszcza?</text>
+		<text>Jakiś stalker wykitował niedaleko obozu nowych. Powinniśmy sprawdzić, co miał. A tak w ogóle, to kto ich wpuszcza?</text>
 	</string>
 	<string id="esc_secret_0015_name">
 		<text>Przy drodze wiejskiej</text>
 	</string>
 	<string id="esc_secret_0016_descr">
-		<text>Fanty sa ukryte na strychu bandytow. Nie byli tam wczesniej, wiec poczekajmy na odpowiedni moment, zeby wszystko stamtad zabrac.</text>
+		<text>Fanty są ukryte na strychu bandytów. Nie byli tam wcześniej, więc poczekajmy na odpowiedni moment, żeby wszystko stamtąd zabrać.</text>
 	</string>
 	<string id="esc_secret_0016_name">
-		<text>Piwnica bandytow</text>
+		<text>Piwnica bandytów</text>
 	</string>
 	<string id="esc_secret_0017_descr">
-		<text>Odkrylem towar w rurze, niedaleko gospodarstwa. Jak juz sie stad wydostaniemy, na pewno tam wroce.</text>
+		<text>Odkryłem towar w rurze, niedaleko gospodarstwa. Jak już się stąd wydostaniemy, na pewno tam wrócę.</text>
 	</string>
 	<string id="esc_secret_0017_name">
 		<text>Rura gazowa</text>
 	</string>
 	<string id="esc_secret_0018_descr">
-		<text>Wyrzucilem plecak niedaleko posterunku, musze go jak najszybciej zabrac, zanim dowodca przeniesie nas w inne miejsce.</text>
+		<text>Wyrzuciłem plecak niedaleko posterunku, muszę go jak najszybciej zabrać, zanim dowódca przeniesie nas w inne miejsce.</text>
 	</string>
 	<string id="esc_secret_0018_name">
 		<text>Ukryte rzeczy</text>
 	</string>
 	<string id="esc_secret_0019_descr">
-		<text>Na razie zostawilem skrzynie w wiezy. Zabiore ja, jak tylko bede mogl.</text>
+		<text>Na razie zostawiłem skrzynię w wieży. Zabiorę ją, jak tylko bedę mógł.</text>
 	</string>
 	<string id="esc_secret_0019_name">
-		<text>Wieza posterunkowa</text>
+		<text>Wieża posterunkowa</text>
 	</string>
 	<string id="gar_secret_0000_descr">
-		<text>Widzialem, jak jakis bandyta chowal swoje fanty w skrzyni w hangarze. Jak moge je po cichu ukrasc?</text>
+		<text>Widziałem, jak jakiś bandyta chował swoje fanty w skrzyni w hangarze. Jak mogę je po cichu ukraść?</text>
 	</string>
 	<string id="gar_secret_0000_name">
-		<text>Magazyn bandytow</text>
+		<text>Magazyn bandytów</text>
 	</string>
 	<string id="gar_secret_0001_descr">
-		<text>Szlismy z Wasiejem cos sprawdzic, kiedy nagle dostal kulke. Nie mialem z tym nic wspolnego! To ta cholerna kula! Schowalem jego rzeczy w rurze.</text>
+		<text>Szliśmy z Wasiejem coś sprawdzić, kiedy nagle dostał kulkę. Nie miałem z tym nic wspólnego! To ta cholerna kula! Schowałem jego rzeczy w rurze.</text>
 	</string>
 	<string id="gar_secret_0001_name">
-		<text>Stary dzwig</text>
+		<text>Stary dźwig</text>
 	</string>
 	<string id="gar_secret_0002_descr">
-		<text>Grizzly wykitowal, a jego rzeczy zostaly na Wysypisku, w tunelu kolejowym za lokomotywa. Szkoda Grizzly'ego.</text>
+		<text>Grizzly wykitował, a jego rzeczy zostały na Wysypisku, w tunelu kolejowym za lokomotywą. Szkoda Grizzly'ego.</text>
 	</string>
 	<string id="gar_secret_0002_name">
 		<text>Rzeczy Grizzly'ego</text>
 	</string>
 	<string id="gar_secret_0003_descr">
-		<text>Schowalem towar w rurze na Wysypisku.</text>
+		<text>Schowałem towar w rurze na Wysypisku.</text>
 	</string>
 	<string id="gar_secret_0003_name">
-		<text>Rura na polnocnym stosie</text>
+		<text>Rura na północnym stosie</text>
 	</string>
 	<string id="gar_secret_0004_descr">
-		<text>Rzeczy sa na Wysypisku w jednej z rur. Jesli nie wiesz dokladnie gdzie, nie znajdziesz ich.</text>
+		<text>Rzeczy są na Wysypisku w jednej z rur. Jeśli nie wiesz dokładnie gdzie, nie znajdziesz ich.</text>
 	</string>
 	<string id="gar_secret_0004_name">
-		<text>Dodatkowa kasa w zlomie</text>
+		<text>Dodatkowa kasa w złomie</text>
 	</string>
 	<string id="gar_secret_0005_descr">
-		<text>Schowalem towar w metalowej rurze niedaleko dwoch cystern. Powinienem go zabrac, ale nie mam czasu.</text>
+		<text>Schowałem towar w metalowej rurze niedaleko dwóch cystern. Powinienem go zabrać, ale nie mam czasu.</text>
 	</string>
 	<string id="gar_secret_0005_name">
-		<text>Zelazny piec niedaleko cysterny.</text>
+		<text>Żelazny piec niedaleko cysterny.</text>
 	</string>
 	<string id="gar_secret_0006_descr">
-		<text>Wsrod odpadow radioaktywnych - tam, gdzie nikt nie lazi - jest troche bardzo przydatnych rzeczy.</text>
+		<text>Wśród odpadów radioaktywnych - tam, gdzie nikt nie łazi - jest trochę bardzo przydatnych rzeczy.</text>
 	</string>
 	<string id="gar_secret_0006_name">
 		<text>Rura na wschodnim stosie</text>
 	</string>
 	<string id="gar_secret_0007_descr">
-		<text>Czyjs plecak lezy sobie w dolinie wsrod anomalii. Jak mozna sie do niego dobrac?</text>
+		<text>Czyjś plecak leży sobie w dolinie wśród anomalii. Jak można się do niego dobrać?</text>
 	</string>
 	<string id="gar_secret_0007_name">
-		<text>Plecak bez wlasciciela</text>
+		<text>Plecak bez właściciela</text>
 	</string>
 	<string id="gar_secret_0008_descr">
-		<text>Wykonczylem zdrajce na bagnach... Pochowalismy go tam i schowalismy jego rzeczy pod krzyzem. Mielismy powazniejsze zmartwienia.</text>
+		<text>Wykończyłem zdrajcę na bagnach... Pochowaliśmy go tam i schowaliśmy jego rzeczy pod krzyżem. Mieliśmy poważniejsze zmartwienia.</text>
 	</string>
 	<string id="gar_secret_0008_name">
 		<text>Rzeczy zamordowanego</text>
 	</string>
 	<string id="gar_secret_0009_descr">
-		<text>W cieniu jest schowek - dobre miejsce, zeby go ukryc.</text>
+		<text>W cieniu jest schowek - dobre miejsce, żeby go ukryć.</text>
 	</string>
 	<string id="gar_secret_0009_name">
-		<text>Sprochnialy pniak</text>
+		<text>Spróchniały pniak</text>
 	</string>
 	<string id="gar_secret_0010_descr">
-		<text>W lesie lezy kloda z dziura, w ktorej schowany jest skarb - juz czas go zdobyc.</text>
+		<text>W lesie leży kłoda z dziurą, w której schowany jest skarb - już czas go zdobyć.</text>
 	</string>
 	<string id="gar_secret_0010_name">
-		<text>Kloda w lesie</text>
+		<text>Kłoda w lesie</text>
 	</string>
 	<string id="gar_secret_0011_descr">
-		<text>Pietrenko chcial, zebysmy wiedzieli o ukrytym na Wysypisku schowku grupy Strieloka. Powiedzial mi, jak trzeba otworzyc wlaz, ktory podobno znajduje sie tutaj, na dnie doliny. Jak tylko wszystko sie uspokoi, musimy to obczaic.</text>
+		<text>Pietrenko chciał, żebyśmy wiedzieli o ukrytym na Wysypisku schowku grupy Strieloka. Powiedział mi, jak trzeba otworzyć właz, który podobno znajduje się tutaj, na dnie doliny. Jak tylko wszystko się uspokoi, musimy to obczaić.</text>
 	</string>
 	<string id="gar_secret_0011_name">
 		<text>Magazyn grupy Strieloka</text>
 	</string>
 	<string id="gar_secret_0012_descr">
-		<text>Schowalem to w samochodzie - Dryblas powiedzial, ze to dobre miejsce.</text>
+		<text>Schowałem to w samochodzie - Dryblas powiedział, że to dobre miejsce.</text>
 	</string>
 	<string id="gar_secret_0012_name">
 		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="gar_secret_0013_descr">
-		<text>Wlozylem plecak do autobusu - ciezko go zauwazyc</text>
+		<text>Włożyłem plecak do autobusu - ciężko go zauważyć</text>
 	</string>
 	<string id="gar_secret_0013_name">
 		<text>Plecak stalkera w autobusie</text>
 	</string>
 	<string id="gar_secret_0014_descr">
-		<text>Schowalem zapasy w skrzyni, a ja z kolei w starym domu za rogiem. Ciagle nie rozumiem, po co go zbudowali.</text>
+		<text>Schowałem zapasy w skrzyni, a ją z kolei w starym domu za rogiem. Ciągle nie rozumiem, po co go zbudowali.</text>
 	</string>
 	<string id="gar_secret_0014_name">
-		<text>Rozne zapasy</text>
+		<text>Różne zapasy</text>
 	</string>
 	<string id="gar_secret_0015_descr">
-		<text>Na stosie odpadow jest czesciowo zakopany sejf. Lepiej, zebym nie zapomnial, co w nim jest.</text>
+		<text>Na stosie odpadów jest częściowo zakopany sejf. Lepiej, żebym nie zapomniał, co w nim jest.</text>
 	</string>
 	<string id="gar_secret_0015_name">
-		<text>Sejf na poludniowym stosie.</text>
+		<text>Sejf na południowym stosie.</text>
 	</string>
 	<string id="gar_secret_0016_descr">
-		<text>Schowalem fanty na stosie odpadow, w rurze.</text>
+		<text>Schowałem fanty na stosie odpadów, w rurze.</text>
 	</string>
 	<string id="gar_secret_0016_name">
-		<text>Magazyn na zlomowisku.</text>
+		<text>Magazyn na złomowisku.</text>
 	</string>
 	<string id="gar_secret_0017_descr">
-		<text>Szef radiokomunikacji przekazal nam wiadomosc: odwrot. Znalazlem skrzynie, wrzucilem do niej wszystko, co mialem przy sobie i wycofalem sie z pustymi rekoma.</text>
+		<text>Szef radiokomunikacji przekazał nam wiadomość: odwrót. Znalazłem skrzynię, wrzuciłem do niej wszystko, co miałem przy sobie i wycofałem się z pustymi rękoma.</text>
 	</string>
 	<string id="gar_secret_0017_name">
 		<text>Zapasy w skrzyni</text>
 	</string>
 	<string id="gar_secret_0018_descr">
-		<text>Wepchnalem lup do rury na Wysypisku. Nie zostanie tam dlugo.</text>
+		<text>Wepchnąłem łup do rury na Wysypisku. Nie zostanie tam długo.</text>
 	</string>
 	<string id="gar_secret_0018_name">
 		<text>Rura przy autobusie</text>
 	</string>
 	<string id="gar_secret_0019_descr">
-		<text>Latwo mozna schowac plecak w ruinach. Mam nadzieje, ze rownie latwo bede go mogl stamtad zabrac - o ile bandyci nie wejda mi w droge.</text>
+		<text>Łatwo można schować plecak w ruinach. Mam nadzieję, że równie łatwo będę go mógł stamtąd zabrać - o ile bandyci nie wejdą mi w drogę.</text>
 	</string>
 	<string id="gar_secret_0019_name">
 		<text>Plecak w ruinach</text>
 	</string>
 	<string id="gar_secret_0020_descr">
-		<text>Gdy kolesie z "Powinnosci" strzelali, ja schowalem lup w wagonie. Musze tam jakos po niego wrocic. I podziekowac "Powinnosci".</text>
+		<text>Gdy kolesie z "Powinności" strzelali, ja schowałem łup w wagonie. Muszę tam jakoś po niego wrócić. I podziękować "Powinności".</text>
 	</string>
 	<string id="gar_secret_0020_name">
-		<text>Skrzynia na swietnie zaopatrzonym posterunku wojskowym</text>
+		<text>Skrzynia na świetnie zaopatrzonym posterunku wojskowym</text>
 	</string>
 	<string id="gar_secret_0021_descr">
-		<text>Podobno Chuchro wykitowal na Wysypisku. Musze tam podskoczyc, sprawdzic, co z towarem. Jak tego nie zrobie, znajda sie inni.</text>
+		<text>Podobno Chuchro wykitował na Wysypisku. Muszę tam podskoczyć, sprawdzić, co z towarem. Jak tego nie zrobię, znajdą się inni.</text>
 	</string>
 	<string id="gar_secret_0021_name">
 		<text>Plecak Chuchra</text>
 	</string>
 	<string id="gar_secret_0022_descr">
-		<text>Na razie chowam towar w okienku. Moze go nie znajda.</text>
+		<text>Na razie chowam towar w okienku. Może go nie znajdą.</text>
 	</string>
 	<string id="gar_secret_0022_name">
 		<text>Torba na zakupy w okienku</text>
 	</string>
 	<string id="gar_secret_0023_descr">
-		<text>Jakas anomalia dopadla kogos niedaleko schodow ruchomych - widac plecak, ale ciezko do niego dotrzec.</text>
+		<text>Jakaś anomalia dopadła kogoś niedaleko schodów ruchomych - widać plecak, ale ciężko do niego dotrzeć.</text>
 	</string>
 	<string id="gar_secret_0023_name">
 		<text>Pod czerpakiem</text>
 	</string>
 	<string id="gar_secret_0024_descr">
-		<text>Ledwo mi sie udalo wejsc pod te belki, ale przynajmniej plecak jest dobrze ukryty - nikt nie sprobuje sie tu wdrapac.</text>
+		<text>Ledwo mi się udało wejść pod te belki, ale przynajmniej plecak jest dobrze ukryty - nikt nie spróbuje się tu wdrapać.</text>
 	</string>
 	<string id="gar_secret_0024_name">
-		<text>Dodatkowa kasa jest pod betonowymi plytami</text>
+		<text>Dodatkowa kasa jest pod betonowymi płytami</text>
 	</string>
 	<string id="mil_secret_0000_description">
-		<text>Schowalem towar w klodzie - nie sadze, zeby ktos go znalazl.</text>
+		<text>Schowałem towar w kłodzie - nie sądzę, żeby ktoś go znalazł.</text>
 	</string>
 	<string id="mil_secret_0000_name">
-		<text>Schowek w klodzie</text>
+		<text>Schowek w kłodzie</text>
 	</string>
 	<string id="mil_secret_0001_description">
-		<text>Schowalem fanty w piecu.</text>
+		<text>Schowałem fanty w piecu.</text>
 	</string>
 	<string id="mil_secret_0001_name">
 		<text>Schowek w piecu</text>
 	</string>
 	<string id="mil_secret_0002_description">
-		<text>Schowalem fanty w szoferce Kamaza</text>
+		<text>Schowałem fanty w szoferce Kamaza</text>
 	</string>
 	<string id="mil_secret_0002_name">
 		<text>Schowek w Kamazie</text>
 	</string>
 	<string id="mil_secret_0003_description">
-		<text>Zakopalem towar pod krzyzem niedaleko wioski.</text>
+		<text>Zakopałem towar pod krzyżem niedaleko wioski.</text>
 	</string>
 	<string id="mil_secret_0003_name">
-		<text>Skarby pod krzyzem</text>
+		<text>Skarby pod krzyżem</text>
 	</string>
 	<string id="mil_secret_0004_description">
-		<text>Wrzucilem rzeczy do rury - pozniej je zabiore.</text>
+		<text>Wrzuciłem rzeczy do rury - później je zabiorę.</text>
 	</string>
 	<string id="mil_secret_0004_name">
 		<text>Schowek w rurze</text>
 	</string>
 	<string id="mil_secret_0005_description">
-		<text>Schowek w skrzyni w wiezy cisnien</text>
+		<text>Schowek w skrzyni w wieży ciśnień</text>
 	</string>
 	<string id="mil_secret_0005_name">
-		<text>Skarb w wiezy</text>
+		<text>Skarb w wieży</text>
 	</string>
 	<string id="mil_secret_0006_description">
-		<text>Wetknalem plecak do pieca, przyda sie pozniej.</text>
+		<text>Wetknąłem plecak do pieca, przyda się później.</text>
 	</string>
 	<string id="mil_secret_0006_name">
 		<text>Schowek w piecu</text>
 	</string>
 	<string id="mil_secret_0007_description">
-		<text>Schowalem skarby w samochodzie w opuszczonej wiosce</text>
+		<text>Schowałem skarby w samochodzie w opuszczonej wiosce</text>
 	</string>
 	<string id="mil_secret_0007_name">
 		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="mil_secret_0008_description">
-		<text>Zostawilem plecak w radioaktywnych ruinach. Balem sie tam pokazac.</text>
+		<text>Zostawiłem plecak w radioaktywnych ruinach. Bałem się tam pokazać.</text>
 	</string>
 	<string id="mil_secret_0008_name">
 		<text>Niebezpieczna tajemnica</text>
 	</string>
 	<string id="mil_secret_0009_description">
-		<text>Zakopalem towar pod krzyzem, w tajnym miejscu.</text>
+		<text>Zakopałem towar pod krzyżem, w tajnym miejscu.</text>
 	</string>
 	<string id="mil_secret_0009_name">
 		<text>Schowek stalkera</text>
 	</string>
 	<string id="mil_secret_0010_description">
-		<text>Ukrylem plecak ze sprzetem w przytulnym miejscu.</text>
+		<text>Ukryłem plecak ze sprzętem w przytulnym miejscu.</text>
 	</string>
 	<string id="mil_secret_0010_name">
-		<text>Plecak ze sprzetem</text>
+		<text>Plecak ze sprzętem</text>
 	</string>
 	<string id="mil_secret_0011_description">
-		<text>Schowalem klamoty w samochodzie na wzgorzu</text>
+		<text>Schowałem klamoty w samochodzie na wzgórzu</text>
 	</string>
 	<string id="mil_secret_0011_name">
-		<text>Schowek na wzgorzu</text>
+		<text>Schowek na wzgórzu</text>
 	</string>
 	<string id="mil_secret_0012_description">
-		<text>Helikopter spadl tuz przy opuszczonej bazie wojskowej, a skrzynia jest dokladnie pod helikopterem. Problemem sa anomalie, ktorych tam pelno, oraz promieniowanie.</text>
+		<text>Helikopter spadł tuż przy opuszczonej bazie wojskowej, a skrzynia jest dokładnie pod helikopterem. Problemem są anomalie, których tam pełno, oraz promieniowanie.</text>
 	</string>
 	<string id="mil_secret_0012_name">
 		<text>Skrzynia z helikoptera</text>
 	</string>
 	<string id="mil_secret_0013_description">
-		<text>Zakopalem towar pod krzyzem na wzgorzu</text>
+		<text>Zakopałem towar pod krzyżem na wzgórzu</text>
 	</string>
 	<string id="mil_secret_0013_name">
 		<text>Sekret nagrobka</text>
@@ -679,238 +679,238 @@
 		<text>Schowek w pniaku</text>
 	</string>
 	<string id="mil_secret_0015_description">
-		<text>Zostawilem plecak w szoferce dzwigu. Zabiore go pozniej.</text>
+		<text>Zostawiłem plecak w szoferce dźwigu. Zabiorę go później.</text>
 	</string>
 	<string id="mil_secret_0015_name">
-		<text>Schowek robotnika wysokosciowego</text>
+		<text>Schowek robotnika wysokościowego</text>
 	</string>
 	<string id="mil_secret_0016_description">
-		<text>Wszystko jest w skrzyni, w wagonie niedaleko bazy. Tak to zaplanowalismy, teraz musimy jedynie poczekac.</text>
+		<text>Wszystko jest w skrzyni, w wagonie niedaleko bazy. Tak to zaplanowaliśmy, teraz musimy jedynie poczekać.</text>
 	</string>
 	<string id="mil_secret_0016_name">
 		<text>Ustalony schowek</text>
 	</string>
 	<string id="mil_secret_0017_description">
-		<text>Wepchnalem towar do klody. Nie sadze, zeby cos znalezli.</text>
+		<text>Wepchnąłem towar do kłody. Nie sądzę, żeby coś znaleźli.</text>
 	</string>
 	<string id="mil_secret_0017_name">
-		<text>Skarb w klodzie</text>
+		<text>Skarb w kłodzie</text>
 	</string>
 	<string id="mil_secret_0018_description">
-		<text>Wetknalem klamoty do rury na brzegu jeziora.</text>
+		<text>Wetknąłem klamoty do rury na brzegu jeziora.</text>
 	</string>
 	<string id="mil_secret_0018_name">
 		<text>Rura z towarem</text>
 	</string>
 	<string id="mil_secret_0019_description">
-		<text>Schowalem rzeczy w zelaznej kapsluje</text>
+		<text>Schowałem rzeczy w żelaznej kapsluje</text>
 	</string>
 	<string id="mil_secret_0019_name">
 		<text>Schowek stalkera</text>
 	</string>
 	<string id="mil_secret_0020_description">
-		<text>Schowalem towar w klodzie, nie sadze, zeby mogli go znalezc</text>
+		<text>Schowałem towar w kłodzie, nie sądzę, żeby mogli go znaleźć</text>
 	</string>
 	<string id="mil_secret_0020_name">
-		<text>Fanty w klodzie</text>
+		<text>Fanty w kłodzie</text>
 	</string>
 	<string id="mil_secret_0021_description">
-		<text>Skrzynia do przechowywania roznych rzeczy</text>
+		<text>Skrzynia do przechowywania różnych rzeczy</text>
 	</string>
 	<string id="mil_secret_0021_name">
 		<text>Skrzynia na zapasy</text>
 	</string>
 	<string id="mil_secret_0022_description">
-		<text>Schowalem plecak z towarem w tunelu</text>
+		<text>Schowałem plecak z towarem w tunelu</text>
 	</string>
 	<string id="mil_secret_0022_name">
 		<text>Plecak w tunelu</text>
 	</string>
 	<string id="mil_secret_0023_description">
-		<text>Skrzynia do przechowywania roznych rzeczy</text>
+		<text>Skrzynia do przechowywania różnych rzeczy</text>
 	</string>
 	<string id="mil_secret_0023_name">
 		<text>Skrzynia z towarem</text>
 	</string>
 	<string id="mil_secret_0024_description">
-		<text>Schowalem towar w klodzie, nie sadze, zeby mogli go znalezc</text>
+		<text>Schowałem towar w kłodzie, nie sądzę, żeby mogli go znaleźć</text>
 	</string>
 	<string id="mil_secret_0024_name">
-		<text>Schowek w klodzie</text>
+		<text>Schowek w kłodzie</text>
 	</string>
 	<string id="mil_secret_0025_description">
-		<text>Wrzucilem towar do skrzyni - pozniej go zabiore</text>
+		<text>Wrzuciłem towar do skrzyni - później go zabiorę</text>
 	</string>
 	<string id="mil_secret_0025_name">
 		<text>Tymczasowy schowek</text>
 	</string>
 	<string id="mil_secret_0026_description">
-		<text>Schowalem towar w studzience. Kiedys sie przyda.</text>
+		<text>Schowałem towar w studzience. Kiedyś się przyda.</text>
 	</string>
 	<string id="mil_secret_0026_name">
 		<text>Stalowy schowek</text>
 	</string>
 	<string id="mil_secret_0027_description">
-		<text>Wrzucilem towar do skrzyni - pozniej go zabiore</text>
+		<text>Wrzuciłem towar do skrzyni - później go zabiorę</text>
 	</string>
 	<string id="mil_secret_0027_name">
 		<text>Skrzynia z towarem</text>
 	</string>
 	<string id="mil_secret_0028_description">
-		<text>Schowalem towar w samochodzie, tuz pod nosem kolesiow z "Powinnosci" - nie mialem czasu szukac czegos lepszego</text>
+		<text>Schowałem towar w samochodzie, tuż pod nosem kolesiów z "Powinności" - nie miałem czasu szukać czegoś lepszego</text>
 	</string>
 	<string id="mil_secret_0028_name">
 		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="pri_secret_0000_description">
-		<text>Podobno jakis znany stalker kopnal tu w kalendarz i jeszcze nikt nie zabral jego rzeczy.</text>
+		<text>Podobno jakiś znany stalker kopnął tu w kalendarz i jeszcze nikt nie zabrał jego rzeczy.</text>
 	</string>
 	<string id="pri_secret_0000_name">
 		<text>Rzeczy martwego stalkera</text>
 	</string>
 	<string id="pri_secret_0001_description">
-		<text>Podobno w garazu jest skrzynia z calym stosem fantow</text>
+		<text>Podobno w garażu jest skrzynia z całym stosem fantów</text>
 	</string>
 	<string id="pri_secret_0001_name">
-		<text>Skarb w garazu</text>
+		<text>Skarb w garażu</text>
 	</string>
 	<string id="pri_secret_0002_description">
-		<text>Podobno w przedszkolu jest skrzynia z calym stosem fantow</text>
+		<text>Podobno w przedszkolu jest skrzynia z całym stosem fantów</text>
 	</string>
 	<string id="pri_secret_0002_name">
 		<text>Stary schowek</text>
 	</string>
 	<string id="pri_secret_0003_description">
-		<text>Pochowali Kla w Prypeci, pod pomnikiem. Zostawili przy nim wszystkie jego rzeczy - nie mozna okradac zmarlych.</text>
+		<text>Pochowali Kła w Prypeci, pod pomnikiem. Zostawili przy nim wszystkie jego rzeczy - nie można okradać zmarłych.</text>
 	</string>
 	<string id="pri_secret_0003_name">
-		<text>Rzeczy Kla</text>
+		<text>Rzeczy Kła</text>
 	</string>
 	<string id="pri_secret_0004_description">
-		<text>Nie wiedzieli, ze byl jedyna osoba, ktora przezyla spotkanie ze Zweglaczem. Zostawil wszystkie rzeczy w jakims starym supermarkecie i ruszyl w droge. Nic nie poszlo zgodnie z planem. "Wolnosc" nigdy nie miala lepszego przywodcy.</text>
+		<text>Nie wiedzieli, że był jedyną osobą, która przeżyła spotkanie ze Zwęglaczem. Zostawił wszystkie rzeczy w jakimś starym supermarkecie i ruszył w drogę. Nic nie poszło zgodnie z planem. "Wolność" nigdy nie miała lepszego przywódcy.</text>
 	</string>
 	<string id="pri_secret_0004_name">
-		<text>Rzeczy przywodcy "Wolnosci"</text>
+		<text>Rzeczy przywódcy "Wolności"</text>
 	</string>
 	<string id="rad_secret_0000_description">
-		<text>Krzyz jest po drodze do Zweglacza - nie zapuszczalem sie dalej, schowalem wszystko pod nim.</text>
+		<text>Krzyż jest po drodze do Zwęglacza - nie zapuszczałem się dalej, schowałem wszystko pod nim.</text>
 	</string>
 	<string id="rad_secret_0000_name">
 		<text>Skarb Mruka</text>
 	</string>
 	<string id="rad_secret_0001_description">
-		<text>Zginal tu jakis stalker, a do jego rzeczy nikt nie moze sie dostac.</text>
+		<text>Zginął tu jakiś stalker, a do jego rzeczy nikt nie może się dostać.</text>
 	</string>
 	<string id="rad_secret_0001_name">
 		<text>Rzeczy martwego stalkera</text>
 	</string>
 	<string id="rad_secret_0002_description">
-		<text>Podobno w lesie jest na wpol zakopany sejf z towarem w srodku.</text>
+		<text>Podobno w lesie jest na wpół zakopany sejf z towarem w środku.</text>
 	</string>
 	<string id="rad_secret_0002_name">
 		<text>Towar w sejfie</text>
 	</string>
 	<string id="rad_secret_0003_description">
-		<text>Mowili im, zeby nie lecieli nad Zweglaczem i zobacz, co sie stalo. Wyladowali w srodku lasu i malo prawdopodobne, zeby ktos przezyl. Mielismy dostac rzeczy, ktore przewozili.</text>
+		<text>Mówili im, żeby nie lecieli nad Zwęglaczem i zobacz, co się stało. Wylądowali w środku lasu i mało prawdopodobne, żeby ktoś przeżył. Mieliśmy dostać rzeczy, które przewozili.</text>
 	</string>
 	<string id="rad_secret_0003_name">
-		<text>Paczka dla "Powinnosci"</text>
+		<text>Paczka dla "Powinności"</text>
 	</string>
 	<string id="rad_secret_0004_description">
-		<text>Podobno rzeczy grupy, ktora starala sie przedrzec do centrum Zony, ciagle znajduja sie w zasiegu Zweglacza. Nikt z nich nie wrocil, a towar czeka tam, az go ktos zabierze.</text>
+		<text>Podobno rzeczy grupy, która starała się przedrzeć do centrum Zony, ciągle znajdują się w zasięgu Zwęglacza. Nikt z nich nie wrócił, a towar czeka tam, aż go ktoś zabierze.</text>
 	</string>
 	<string id="rad_secret_0004_name">
-		<text>Rzeczy lekkomyslnej grupy</text>
+		<text>Rzeczy lekkomyślnej grupy</text>
 	</string>
 	<string id="rad_secret_0005_description">
-		<text>Podobno przywodca nieistniejacej juz grupy wykitowal w tym miejscu, a mial przy sobie calkiem wartosciowy towar.</text>
+		<text>Podobno przywódca nieistniejącej już grupy wykitował w tym miejscu, a miał przy sobie całkiem wartościowy towar.</text>
 	</string>
 	<string id="rad_secret_0005_name">
-		<text>Rzeczy przywodcy nieistniejacej grupy</text>
+		<text>Rzeczy przywódcy nieistniejącej grupy</text>
 	</string>
 	<string id="ros_secret_0000_description">
-		<text>Schowalem plecak za zelazna plyta</text>
+		<text>Schowałem plecak za żelazną płytą</text>
 	</string>
 	<string id="ros_secret_0000_name">
 		<text>Ukryty plecak</text>
 	</string>
 	<string id="ros_secret_0001_description">
-		<text>Ukrylem towar pod krzyzem</text>
+		<text>Ukryłem towar pod krzyżem</text>
 	</string>
 	<string id="ros_secret_0001_name">
-		<text>Schowek pod krzyzem</text>
+		<text>Schowek pod krzyżem</text>
 	</string>
 	<string id="ros_secret_0002_description">
-		<text>Schowalem cos w skrzyni pod domkiem. Musze o tym pamietac.</text>
+		<text>Schowałem coś w skrzyni pod domkiem. Muszę o tym pamiętać.</text>
 	</string>
 	<string id="ros_secret_0002_name">
 		<text>Skrzynia pod domkiem</text>
 	</string>
 	<string id="ros_secret_0003_description">
-		<text>Juz mialem schowac plecak pod schodami, kiedy pojawili sie ci kretyni. Kurcze, jak ja go odzyskam?</text>
+		<text>Już miałem schować plecak pod schodami, kiedy pojawili się ci kretyni. Kurczę, jak ja go odzyskam?</text>
 	</string>
 	<string id="ros_secret_0003_name">
 		<text>Plecak stalkera</text>
 	</string>
 	<string id="ros_secret_0004_description">
-		<text>W rogu za drzewem jest na wpol zakopany sejf. To tam na razie zostawie rzeczy.</text>
+		<text>W rogu za drzewem jest na wpół zakopany sejf. To tam na razie zostawię rzeczy.</text>
 	</string>
 	<string id="ros_secret_0004_name">
 		<text>Schowek za drzewem</text>
 	</string>
 	<string id="ros_secret_0005_description">
-		<text>Wszystko schowali w skrzyni w garazu, ktory zajeli w czasie deszczu.</text>
+		<text>Wszystko schowali w skrzyni w garażu, który zajęli w czasie deszczu.</text>
 	</string>
 	<string id="ros_secret_0005_name">
-		<text>Schowek w garazu</text>
+		<text>Schowek w garażu</text>
 	</string>
 	<string id="ros_secret_0006_description">
-		<text>Schowalem troche rzeczy w skrzyni za budka</text>
+		<text>Schowałem trochę rzeczy w skrzyni za budką</text>
 	</string>
 	<string id="ros_secret_0006_name">
 		<text>Ukryta skrzynia</text>
 	</string>
 	<string id="ros_secret_0007_description">
-		<text>Wetknalem plecak do dziury. Z gory nic nie widac.</text>
+		<text>Wetknąłem plecak do dziury. Z góry nic nie widać.</text>
 	</string>
 	<string id="ros_secret_0007_name">
 		<text>Plecak w schowku</text>
 	</string>
 	<string id="ros_secret_0008_description">
-		<text>Schowalem skrzynke w bezpiecznym miejscu</text>
+		<text>Schowałem skrzynkę w bezpiecznym miejscu</text>
 	</string>
 	<string id="ros_secret_0008_name">
 		<text>Skrzynia w bezpiecznym miejscu</text>
 	</string>
 	<string id="ros_secret_0009_description">
-		<text>Moj plecak jest tuz pod dachem. Trzymam go tam na czarna godzine.</text>
+		<text>Mój plecak jest tuż pod dachem. Trzymam go tam na czarną godzinę.</text>
 	</string>
 	<string id="ros_secret_0009_name">
 		<text>Schowek stalkera</text>
 	</string>
 	<string id="ros_secret_0010_description">
-		<text>Podobno w tamtym domku jest sejf, w ktorym cos schowano.</text>
+		<text>Podobno w tamtym domku jest sejf, w którym coś schowano.</text>
 	</string>
 	<string id="ros_secret_0010_name">
 		<text>Sejf w domu</text>
 	</string>
 	<string id="ros_secret_0011_description">
-		<text>Schowalem to w rurze w srodku domu. Ostroznie, wszystko sie tam rozsypuje.</text>
+		<text>Schowałem to w rurze w środku domu. Ostrożnie, wszystko się tam rozsypuje.</text>
 	</string>
 	<string id="ros_secret_0011_name">
 		<text>Schowek w rurze</text>
 	</string>
 	<string id="ros_secret_0012_description">
-		<text>Wez ze skrzyni to, o czym rozmawialismy. Zazwyczaj nikt tam nie zaglada.</text>
+		<text>Weź ze skrzyni to, o czym rozmawialiśmy. Zazwyczaj nikt tam nie zagląda.</text>
 	</string>
 	<string id="ros_secret_0012_name">
 		<text>Ukryta skrzynia</text>
 	</string>
 	<string id="ros_secret_0013_description">
-		<text>Schowalem to pod krzyzem w bocznej uliczce.</text>
+		<text>Schowałem to pod krzyżem w bocznej uliczce.</text>
 	</string>
 	<string id="ros_secret_0013_name">
-		<text>Schowek pod krzyzem</text>
+		<text>Schowek pod krzyżem</text>
 	</string>
 	<string id="ros_secret_0014_description">
 		<text>Dodatkowy towar schowali pod betonem na budowie.</text>
@@ -919,91 +919,91 @@
 		<text>Schowek pod betonem</text>
 	</string>
 	<string id="ros_secret_0015_description">
-		<text>Gdybysmy musieli szybko sie zmyc, wlozymy lup do skrzyni na budowie.</text>
+		<text>Gdybyśmy musieli szybko się zmyć, włożymy łup do skrzyni na budowie.</text>
 	</string>
 	<string id="ros_secret_0015_name">
 		<text>Schowek Farciarza</text>
 	</string>
 	<string id="ros_secret_0016_description">
-		<text>Schowalem to w jednej z bocznych uliczek na budowie.</text>
+		<text>Schowałem to w jednej z bocznych uliczek na budowie.</text>
 	</string>
 	<string id="ros_secret_0016_name">
 		<text>Nyczka</text>
 	</string>
 	<string id="ros_secret_0017_description">
-		<text>Wetknalem wszystko do jakiejs rury - pozniej po to wroce</text>
+		<text>Wetknąłem wszystko do jakiejś rury - później po to wrócę</text>
 	</string>
 	<string id="ros_secret_0017_name">
 		<text>Schowek w rurze</text>
 	</string>
 	<string id="ros_secret_0018_description">
-		<text>Ukrylem leki w skrzyni, niedaleko budowy</text>
+		<text>Ukryłem leki w skrzyni, niedaleko budowy</text>
 	</string>
 	<string id="ros_secret_0018_name">
 		<text>Skrzynia z lekami</text>
 	</string>
 	<string id="ros_secret_0019_description">
-		<text>Zaciagnalem skrzynie do szoferki dzwigu.</text>
+		<text>Zaciągnąłem skrzynię do szoferki dźwigu.</text>
 	</string>
 	<string id="ros_secret_0019_name">
-		<text>Skrzynia w dzwigu</text>
+		<text>Skrzynia w dźwigu</text>
 	</string>
 	<string id="ros_secret_0020_description">
-		<text>Schowalem swoje rzeczy w studzience w rogu.</text>
+		<text>Schowałem swoje rzeczy w studzience w rogu.</text>
 	</string>
 	<string id="ros_secret_0020_name">
 		<text>Schowek w studzience</text>
 	</string>
 	<string id="ros_secret_0021_description">
-		<text>Szukajac artefaktu wpadlem w anomalie. Ledwo moglem isc, wiec rzucilem plecak w kat.</text>
+		<text>Szukając artefaktu wpadłem w anomalię. Ledwo mogłem iść, więc rzuciłem plecak w kąt.</text>
 	</string>
 	<string id="ros_secret_0021_name">
 		<text>Porzucony plecak</text>
 	</string>
 	<string id="ros_secret_0022_description">
-		<text>Wepchnalem skrzynie tuz pod dach, niedaleko wiezy, w taki sposob, ze nikt jej nie zauwazy.</text>
+		<text>Wepchnąłem skrzynię tuż pod dach, niedaleko wieży, w taki sposób, że nikt jej nie zauważy.</text>
 	</string>
 	<string id="ros_secret_0022_name">
 		<text>Niewielka skrzynia pod dachem</text>
 	</string>
 	<string id="ros_secret_0023_description">
-		<text>Wszystko, co znalezlismy, ukrylismy w rurze niedaleko budowy.</text>
+		<text>Wszystko, co znaleźliśmy, ukryliśmy w rurze niedaleko budowy.</text>
 	</string>
 	<string id="ros_secret_0023_name">
 		<text>Schowek w rurze</text>
 	</string>
 	<string id="ros_secret_0024_description">
-		<text>Wetknalem caly towar do klody. Nie sadze, zeby mogli go znalezc.</text>
+		<text>Wetknąłem cały towar do kłody. Nie sądzę, żeby mogli go znaleźć.</text>
 	</string>
 	<string id="ros_secret_0024_name">
 		<text>Schowek</text>
 	</string>
 	<string id="ros_secret_0025_description">
-		<text>Zostawilem plecak przy dzwigu</text>
+		<text>Zostawiłem plecak przy dźwigu</text>
 	</string>
 	<string id="ros_secret_0025_name">
 		<text>Plecak</text>
 	</string>
 	<string id="val_secret_0000_description">
-		<text>Schowalem czesc rzeczy pod krzyzem niedaleko gory</text>
+		<text>Schowałem część rzeczy pod krzyżem niedaleko góry</text>
 	</string>
 	<string id="val_secret_0000_name">
-		<text>Schowek pod krzyzem</text>
+		<text>Schowek pod krzyżem</text>
 	</string>
 	<string id="val_secret_0001_description">
-		<text>Wetknalem towar do klody. Nie sadze, zeby cos mieli znalezc.</text>
+		<text>Wetknąłem towar do kłody. Nie sądzę, żeby coś mieli znaleźć.</text>
 	</string>
 	<string id="val_secret_0001_name">
-		<text>Schowek w klodzie</text>
+		<text>Schowek w kłodzie</text>
 	</string>
 	<string id="val_secret_0002_description">
-		<text>Ukrylem plecak pod mostem. Niech tam na razie zostanie.</text>
+		<text>Ukryłem plecak pod mostem. Niech tam na razie zostanie.</text>
 	</string>
 	<string id="val_secret_0002_name">
 		<text>Plecak pod mostem</text>
 	</string>
 	<string id="val_secret_0003_description">
-		<text>Umiescilem skrzynie w samochodzie niedaleko bagna.</text>
+		<text>Umieściłem skrzynię w samochodzie niedaleko bagna.</text>
 	</string>
 	<string id="val_secret_0003_name">
 		<text>Schowek w samochodzie</text>
@@ -1015,277 +1015,277 @@
 		<text>Schowek w pniaku</text>
 	</string>
 	<string id="val_secret_0005_description">
-		<text>W gospodarstwie znalazlem swietna skrzynie. Na razie zapasy bede tam trzymal.</text>
+		<text>W gospodarstwie znalazłem świetną skrzynię. Na razie zapasy będę tam trzymał.</text>
 	</string>
 	<string id="val_secret_0005_name">
 		<text>Skrzynia z zapasami</text>
 	</string>
 	<string id="val_secret_0006_description">
-		<text>Wrzucilem swoje rzeczy do rury. Pozniej je zabiore.</text>
+		<text>Wrzuciłem swoje rzeczy do rury. Później je zabiorę.</text>
 	</string>
 	<string id="val_secret_0006_name">
 		<text>Schowek w rurze</text>
 	</string>
 	<string id="val_secret_0007_description">
-		<text>Ukrylem plecak pod sosna.</text>
+		<text>Ukryłem plecak pod sosną.</text>
 	</string>
 	<string id="val_secret_0007_name">
-		<text>Schowek pod sosna</text>
+		<text>Schowek pod sosną</text>
 	</string>
 	<string id="val_secret_0008_description">
-		<text>Kot ukradl skrzynie bandytom. Wlozyl ja do Nivy i odwrocil. Mowi, ze wyglada na skrzynie rzadowa. Musimy uzbroic chlopcow i ja zabrac.</text>
+		<text>Kot ukradł skrzynię bandytom. Włożył ją do Nivy i odwrócił. Mówi, że wygląda na skrzynię rządową. Musimy uzbroić chłopców i ją zabrać.</text>
 	</string>
 	<string id="val_secret_0008_name">
-		<text>Skrzynia rzadowa</text>
+		<text>Skrzynia rządowa</text>
 	</string>
 	<string id="val_secret_0009_description">
-		<text>Wszedzie slychac o rabunkach. Kradna nawet od swoich... ale mojej skrzyni nigdy nie znajda.</text>
+		<text>Wszędzie słychać o rabunkach. Kradną nawet od swoich... ale mojej skrzyni nigdy nie znajdą.</text>
 	</string>
 	<string id="val_secret_0009_name">
 		<text>Skrzynia</text>
 	</string>
 	<string id="val_secret_0010_description">
-		<text>Schowalem swoje rzeczy w studzience. Moze kiedys sie przydadza.</text>
+		<text>Schowałem swoje rzeczy w studzience. Może kiedyś się przydadzą.</text>
 	</string>
 	<string id="val_secret_0010_name">
 		<text>Schowek w studzience</text>
 	</string>
 	<string id="val_secret_0011_description">
-		<text>Rzucilem plecak pod drzewo. Inaczej nie dalbym rady uciec bandytom.</text>
+		<text>Rzuciłem plecak pod drzewo. Inaczej nie dałbym rady uciec bandytom.</text>
 	</string>
 	<string id="val_secret_0011_name">
 		<text>Plecak stalkera</text>
 	</string>
 	<string id="val_secret_0012_description">
-		<text>Schowalem swoje klamoty w rurze, pozniej je zabiore.</text>
+		<text>Schowałem swoje klamoty w rurze, później je zabiorę.</text>
 	</string>
 	<string id="val_secret_0012_name">
 		<text>Schowek</text>
 	</string>
 	<string id="val_secret_0013_description">
-		<text>Wszystko, co ukradlem Dzikowi, schowalem w sejfie pod sosna. Teraz tylko musze odczekac, az sytuacja sie uspokoi.</text>
+		<text>Wszystko, co ukradłem Dzikowi, schowałem w sejfie pod sosną. Teraz tylko muszę odczekać, aż sytuacja się uspokoi.</text>
 	</string>
 	<string id="val_secret_0013_name">
 		<text>Ukryty sejf</text>
 	</string>
 	<string id="val_secret_0014_description">
-		<text>Tymczasowa kwatera glowna jest w wagonie, tak jak i skrzynia z zapasami.</text>
+		<text>Tymczasowa kwatera główna jest w wagonie, tak jak i skrzynia z zapasami.</text>
 	</string>
 	<string id="val_secret_0014_name">
 		<text>Magazyn w wagonie</text>
 	</string>
 	<string id="val_secret_0015_description">
-		<text>Ledwo mi sie udalo wejsc do rury pod droga. Teraz mam miejsce, zeby ukryc plecak.</text>
+		<text>Ledwo mi się udało wejść do rury pod drogą. Teraz mam miejsce, żeby ukryć plecak.</text>
 	</string>
 	<string id="val_secret_0015_name">
 		<text>Tajne miejsce w rurze</text>
 	</string>
 	<string id="val_secret_0016_description">
-		<text>Wrzucilem towar do skrzyni - pozniej go zabiore.</text>
+		<text>Wrzuciłem towar do skrzyni - później go zabiorę.</text>
 	</string>
 	<string id="val_secret_0016_name">
 		<text>Skrzynia z towarem</text>
 	</string>
 	<string id="val_secret_0017_description">
-		<text>Chowam fanty za rura - ciezko sie tam dostac, ale przynajmniej nikt z nimi nie ucieknie.</text>
+		<text>Chowam fanty za rurą - ciężko się tam dostać, ale przynajmniej nikt z nimi nie ucieknie.</text>
 	</string>
 	<string id="val_secret_0017_name">
-		<text>Schowek za rura</text>
+		<text>Schowek za rurą</text>
 	</string>
 	<string id="val_secret_0018_description">
-		<text>Znalazlem naboje w pomieszczeniu z instalacja energetyczna</text>
+		<text>Znalazłem naboje w pomieszczeniu z instalacją energetyczną</text>
 	</string>
 	<string id="val_secret_0018_name">
-		<text>Schowek w pomieszczeniu z instalacja energetyczna</text>
+		<text>Schowek w pomieszczeniu z instalacją energetyczną</text>
 	</string>
 	<string id="val_secret_0019_description">
-		<text>Wszystko, co znalezlismy, zostawilismy w skrzyni. Zabierzemy to w drodze powrotnej.</text>
+		<text>Wszystko, co znaleźliśmy, zostawiliśmy w skrzyni. Zabierzemy to w drodze powrotnej.</text>
 	</string>
 	<string id="val_secret_0019_name">
 		<text>Schowek w skrzyni</text>
 	</string>
 	<string id="val_secret_0020_description">
-		<text>Schowalem plecak nowego - nigdy go nie znalazl</text>
+		<text>Schowałem plecak nowego - nigdy go nie znalazł</text>
 	</string>
 	<string id="val_secret_0020_name">
 		<text>Schowany plecak</text>
 	</string>
 	<string id="val_secret_0021_description">
-		<text>Skrzynia zostala w furgonetce - trzeba ja zabrac.</text>
+		<text>Skrzynia została w furgonetce - trzeba ją zabrać.</text>
 	</string>
 	<string id="val_secret_0021_name">
 		<text>Zapomniana skrzynia</text>
 	</string>
 	<string id="val_secret_0022_description">
-		<text>Na stacji benzynowej znalazlem sejf i schowalem w nim swoj towar. Wydaje sie, ze nikt tam nie chodzi.</text>
+		<text>Na stacji benzynowej znalazłem sejf i schowałem w nim swój towar. Wydaje się, że nikt tam nie chodzi.</text>
 	</string>
 	<string id="val_secret_0022_name">
 		<text>Sejf na stacji benzynowej</text>
 	</string>
 	<string id="val_secret_0023_description">
-		<text>Wciagnalem skrzynie na cysterne</text>
+		<text>Wciągnąłem skrzynię na cysternę</text>
 	</string>
 	<string id="val_secret_0023_name">
 		<text>Skrzynia</text>
 	</string>
 	<string id="val_secret_0024_description">
-		<text>Schowalem zapasy w sejfie na stacji benzynowej</text>
+		<text>Schowałem zapasy w sejfie na stacji benzynowej</text>
 	</string>
 	<string id="val_secret_0024_name">
 		<text>Sejf na stacji benzynowej</text>
 	</string>
 	<string id="val_secret_0025_description">
-		<text>W samochodzie w obozie bandytow jest jakas skrzynia. Musimy sie zakrasc do samochodu i ja obejrzec - czuje, ze cos w niej jest.</text>
+		<text>W samochodzie w obozie bandytów jest jakaś skrzynia. Musimy się zakraść do samochodu i ją obejrzeć - czuję, że coś w niej jest.</text>
 	</string>
 	<string id="val_secret_0025_name">
 		<text>Skrzynia w samochodzie</text>
 	</string>
 	<string id="val_secret_0026_description">
-		<text>Ukrylem skrzynie w schowku - to bezpieczne miejsce.</text>
+		<text>Ukryłem skrzynię w schowku - to bezpieczne miejsce.</text>
 	</string>
 	<string id="val_secret_0026_name">
 		<text>Skrzynia w schowku</text>
 	</string>
 	<string id="val_secret_0027_description">
-		<text>Zostawilem plecak w opuszczonym budynku. Dobrze, ze nikogo nie ma w poblizu.</text>
+		<text>Zostawiłem plecak w opuszczonym budynku. Dobrze, że nikogo nie ma w pobliżu.</text>
 	</string>
 	<string id="val_secret_0027_name">
 		<text>Pozostawiony plecak</text>
 	</string>
 	<string id="val_secret_0028_description">
-		<text>Schowamy towar w sejfie, w miejscu, ktore nie rzuca sie w oczy. Jesli zolnierze nie przybeda dzisiaj, to zrobia to jutro. Nie beda sie jakos wybitnie dlugo rozgladac, wiec najwartosciowsze rzeczy zostana dla mnie.</text>
+		<text>Schowamy towar w sejfie, w miejscu, które nie rzuca się w oczy. Jeśli żołnierze nie przybędą dzisiaj, to zrobią to jutro. Nie będą się jakoś wybitnie długo rozglądać, więc najwartościowsze rzeczy zostaną dla mnie.</text>
 	</string>
 	<string id="val_secret_0028_name">
 		<text>Schowek Dzika</text>
 	</string>
 	<string id="val_secret_0029_description">
-		<text>Schowalem plecak niedaleko budynku</text>
+		<text>Schowałem plecak niedaleko budynku</text>
 	</string>
 	<string id="val_secret_0029_name">
 		<text>Plecak w sekretnym miejscu</text>
 	</string>
 	<string id="val_secret_0030_description">
-		<text>Schowalem towar w nierzucajacej sie w oczy skrzyni. Pozniej go zabiore.</text>
+		<text>Schowałem towar w nierzucającej się w oczy skrzyni. Później go zabiorę.</text>
 	</string>
 	<string id="val_secret_0030_name">
 		<text>Niepozorna skrzynia</text>
 	</string>
 	<string id="val_secret_0031_description">
-		<text>Ukrylem plecak pod samochodem - nikomu nie przyjdzie do glowy, zeby tam szukac.</text>
+		<text>Ukryłem plecak pod samochodem - nikomu nie przyjdzie do głowy, żeby tam szukać.</text>
 	</string>
 	<string id="val_secret_0031_name">
 		<text>Ukryty plecak</text>
 	</string>
 	<string id="val_secret_0032_description">
-		<text>Schowalem fanty w samochodzie, tuz pod nosem bandytow - nie mialem czasu na szukanie lepszego miejsca.</text>
+		<text>Schowałem fanty w samochodzie, tuż pod nosem bandytów - nie miałem czasu na szukanie lepszego miejsca.</text>
 	</string>
 	<string id="val_secret_0032_name">
 		<text>Schowek w samochodzie</text>
 	</string>
 	<string id="x16_secret_0000_description">
-		<text>Chodza sluchy, ze byl pewien stalker, ktory dostal sie do laboratorium i schowal fanty w gniazdkach w szybie windy. A gdy przyszedl czas, zeby je zabrac, nie byl w stanie.</text>
+		<text>Chodzą słuchy, że był pewien stalker, który dostał się do laboratorium i schował fanty w gniazdkach w szybie windy. A gdy przyszedł czas, żeby je zabrać, nie był w stanie.</text>
 	</string>
 	<string id="x16_secret_0000_name">
 		<text>Fanty w gniazdkach elektrycznych</text>
 	</string>
 	<string id="x16_secret_0001_description">
-		<text>Chodza sluchy, ze pewien stalker dostal sie do tego laboratorium i wykitowal w miejscu, gdzie przeprowadzali eksperymenty - jego rzeczy podobno ciagle tam sa.</text>
+		<text>Chodzą słuchy, że pewien stalker dostał się do tego laboratorium i wykitował w miejscu, gdzie przeprowadzali eksperymenty - jego rzeczy podobno ciągle tam są.</text>
 	</string>
 	<string id="x16_secret_0001_name">
 		<text>Plecak zwiadowcy</text>
 	</string>
 	<string id="x18_secret_0000_description">
-		<text>Uwedzony schowal wszystko w sejfie w podziemnym laboratorium. To calkiem dobre miejsce - nikt nie ma do niego kluczy. Jedyny problem polega na tym, ze ni stad, ni zowad kamienie zaczynaja tam smigac wokol. Podobno ktos w ten sposob zginal.</text>
+		<text>Uwędzony schował wszystko w sejfie w podziemnym laboratorium. To całkiem dobre miejsce - nikt nie ma do niego kluczy. Jedyny problem polega na tym, że ni stąd, ni zowąd kamienie zaczynają tam śmigać wokół. Podobno ktoś w ten sposób zginął.</text>
 	</string>
 	<string id="x18_secret_0000_name">
-		<text>Schowek Uwedzonego</text>
+		<text>Schowek Uwędzonego</text>
 	</string>
 	<string id="x18_secret_0001_description">
-		<text>Musialem zostawic plecak</text>
+		<text>Musiałem zostawić plecak</text>
 	</string>
 	<string id="x18_secret_0001_name">
 		<text>Porzucony plecak</text>
 	</string>
 	<string id="yan_secret_0000_description">
-		<text>Na wzgorzu jest krzyz, a pod nim plecak</text>
+		<text>Na wzgórzu jest krzyż, a pod nim plecak</text>
 	</string>
 	<string id="yan_secret_0000_name">
-		<text>Schowek pod krzyzem</text>
+		<text>Schowek pod krzyżem</text>
 	</string>
 	<string id="yan_secret_0001_description">
-		<text>Podobno na niewielkiej wyspie na bagnie jest na wpol zakopany sejf. Musze sie czegos o nim dowiedziec.</text>
+		<text>Podobno na niewielkiej wyspie na bagnie jest na wpół zakopany sejf. Muszę się czegoś o nim dowiedzieć.</text>
 	</string>
 	<string id="yan_secret_0001_name">
 		<text>Stary sejf</text>
 	</string>
 	<string id="yan_secret_0002_description">
-		<text>Schowalem fanty w rurze, niedaleko obozu.</text>
+		<text>Schowałem fanty w rurze, niedaleko obozu.</text>
 	</string>
 	<string id="yan_secret_0002_name">
 		<text>Rura z towarem</text>
 	</string>
 	<string id="yan_secret_0003_description">
-		<text>Schowalem fanty za garazami.</text>
+		<text>Schowałem fanty za garażami.</text>
 	</string>
 	<string id="yan_secret_0003_name">
-		<text>Plecak za garazami</text>
+		<text>Plecak za garażami</text>
 	</string>
 	<string id="yan_secret_0004_description">
-		<text>Schowalem plecak w budce tuz za zlomowiskiem.</text>
+		<text>Schowałem plecak w budce tuż za złomowiskiem.</text>
 	</string>
 	<string id="yan_secret_0004_name">
 		<text>Plecak z fantami</text>
 	</string>
 	<string id="yan_secret_0005_description">
-		<text>Wlozylem skrzynie do autobusu - nikt nie ma prawa jej zauwazyc.</text>
+		<text>Włożyłem skrzynię do autobusu - nikt nie ma prawa jej zauważyć.</text>
 	</string>
 	<string id="yan_secret_0005_name">
 		<text>Schowek w autobusie</text>
 	</string>
 	<string id="yan_secret_0006_description">
-		<text>Fanty sa ukryte w samochodzie, niedaleko obszaru. Promieniowanie nie jest zbyt wysokie.</text>
+		<text>Fanty są ukryte w samochodzie, niedaleko obszaru. Promieniowanie nie jest zbyt wysokie.</text>
 	</string>
 	<string id="yan_secret_0006_name">
-		<text>Lupy sa w samochodzie</text>
+		<text>Łupy są w samochodzie</text>
 	</string>
 	<string id="yan_secret_0007_description">
-		<text>Podobno sa tu czyjes fanty, ale nie mozna sie do nich dobrac przez promieniowanie.</text>
+		<text>Podobno są tu czyjeś fanty, ale nie można się do nich dobrać przez promieniowanie.</text>
 	</string>
 	<string id="yan_secret_0007_name">
 		<text>Stary plecak</text>
 	</string>
 	<string id="yan_secret_0008_description">
-		<text>Podobno tutaj znajduje sie schowek jakiejs frakcji. Zastanawiam sie tylko, jak oni sie tutaj dostali mimo promieniowania?</text>
+		<text>Podobno tutaj znajduje się schowek jakiejś frakcji. Zastanawiam się tylko, jak oni się tutaj dostali mimo promieniowania?</text>
 	</string>
 	<string id="yan_secret_0008_name">
 		<text>Schowek frakcji</text>
 	</string>
 	<string id="yan_secret_0009_description">
-		<text>Kolejny stalker ochotnik wykitowal, poniewaz prototyp nie ochronil go przed promieniowaniem. Dotarl tylko do srodka tego obszaru i juz tam zostal. Sacharow chce przeprowadzic dokladniejsze pomiary, ale nie ma mowy, zebym tam poszedl. Jeszcze skoncze tak jak tamten.</text>
+		<text>Kolejny stalker ochotnik wykitował, ponieważ prototyp nie ochronił go przed promieniowaniem. Dotarł tylko do środka tego obszaru i już tam został. Sacharow chce przeprowadzić dokładniejsze pomiary, ale nie ma mowy, żebym tam poszedł. Jeszcze skończę tak jak tamten.</text>
 	</string>
 	<string id="yan_secret_0009_name">
 		<text>Plecak ochotnika</text>
 	</string>
 	<string id="yan_secret_0010_description">
-		<text>Podobno jest tam czyjs lup, ale nie ma jak sie do niego dostac z powodu promieniowania.</text>
+		<text>Podobno jest tam czyjś łup, ale nie ma jak się do niego dostać z powodu promieniowania.</text>
 	</string>
 	<string id="yan_secret_0010_name">
 		<text>Stary schowek</text>
 	</string>
 	<string id="yan_secret_0011_description">
-		<text>Musze sie stad wyniesc. Sacharowowi i Kruglowowi calkiem odbilo - chca, zebym z jakims stalkerem wszedl do ogniska promieniowania. Pieprzyc ich, jak tylko zabiore zapasy ze studzienki, spadam stad.</text>
+		<text>Muszę się stąd wynieść. Sacharowowi i Krugłowowi całkiem odbiło - chcą, żebym z jakimś stalkerem wszedł do ogniska promieniowania. Pieprzyć ich, jak tylko zabiorę zapasy ze studzienki, spadam stąd.</text>
 	</string>
 	<string id="yan_secret_0011_name">
 		<text>Schowek naukowca</text>
 	</string>
 	<string id="yan_secret_0012_description">
-		<text>Schowalem towar w klodzie, nie sadze, zeby mogli go znalezc.</text>
+		<text>Schowałem towar w kłodzie, nie sądzę, żeby mogli go znaleźć.</text>
 	</string>
 	<string id="yan_secret_0012_name">
-		<text>Skarb w klodzie</text>
+		<text>Skarb w kłodzie</text>
 	</string>
 	<string id="yan_secret_0013_description">
-		<text>Mowi sie, ze jest tu czyjs sejf, ale przez promieniowanie nie ma sie jak do niego dobrac.</text>
+		<text>Mówi się, że jest tu czyjś sejf, ale przez promieniowanie nie ma się jak do niego dobrać.</text>
 	</string>
 	<string id="yan_secret_0013_name">
 		<text>Skrzynia z fantami</text>

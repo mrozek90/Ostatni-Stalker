@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="id_mp_money">
-		<text>Pieniadze</text>
+		<text>Pieniądze</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
 		<text>Bonus za PDA</text>
 	</string>
 
 	<string id="ui_mm_fov">
-		<text>Kat widzenia</text>
+		<text>Kąt widzenia</text>
 	</string>
 	<string id="ui_mm_fov55">
 		<text>55</text>
@@ -50,22 +50,22 @@
 		<text>Adres IP</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>Domyslne</text>
+		<text>Domyślne</text>
 	</string>
 	<string id="ui_mm_detail_density">
-		<text>Gestosc trawy</text>
+		<text>Gęstość trawy</text>
 	</string>
 	<string id="ui_mm_r2_sun">
-		<text>Cien</text>
+		<text>Cień</text>
 	</string>
 	<string id="ui_mm_r2_sun_details">
-		<text>Cien trawy</text>
+		<text>Cień trawy</text>
 	</string>
 	<string id="ui_mm_render_2">
 		<text>Render-2</text>
 	</string>
 	<string id="ui_pda_details">
-		<text># /szczegoly</text>
+		<text># /szczegóły</text>
 	</string>
 	<string id="ui_st_btn_cancel">
 		<text>Anuluj</text>
@@ -80,28 +80,28 @@
 		<text>Tak</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Nie mozesz uruchomic Render 2 na swoim komputerze</text>
+		<text>Nie możesz uruchomić Render 2 na swoim komputerze</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Blad polaczenia: Nieprawidlowy adres</text>
+		<text>Błąd połączenia: Nieprawidłowy adres</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Blad polaczenia: Nieprawidlowe haslo</text>
+		<text>Błąd połączenia: Nieprawidłowe hasło</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Blad polaczenia: polaczenie odrzucone przez serwer</text>
+		<text>Błąd połączenia: połączenie odrzucone przez serwer</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Blad polaczenia: sesja pelna</text>
+		<text>Błąd połączenia: sesja pełna</text>
 	</string>
 	<string id="ui_st_days">
 		<text>Dni</text>
 	</string>
 	<string id="ui_st_error">
-		<text>Blad</text>
+		<text>Błąd</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>Plik o tej nazwie juz istnieje. Czy chcesz go nadpisac?</text>
+		<text>Plik o tej nazwie już istnieje. Czy chcesz go nadpisać?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
 		<text>Brak nazwy pliku</text>
@@ -110,13 +110,13 @@
 		<text>godz.</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Wyjdz</text>
+		<text>Wyjdź</text>
 	</string>
 	<string id="ui_st_mins">
 		<text>min.</text>
 	</string>
 	<string id="ui_st_months">
-		<text>miesiace</text>
+		<text>miesiące</text>
 	</string>
 	<string id="ui_st_params">
 		<text>Parametry</text>
@@ -125,28 +125,28 @@
 		<text>sek.</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Wybierz przynajmniej jedna mape</text>
+		<text>Wybierz przynajmniej jedną mapę</text>
 	</string>
 	<string id="ui_st_take_all">
-		<text>Wez wszystko</text>
+		<text>Weź wszystko</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Pozostalo</text>
+		<text>Pozostało</text>
 	</string>
 	<string id="ui_st_trade">
 		<text>Handel</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Nie mozna glosowac</text>
+		<text>Nie można głosować</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Czy na pewno chcesz wyjsc z gry?</text>
+		<text>Czy na pewno chcesz wyjść z gry?</text>
 	</string>
 	<string id="ui_st_your_items">
 		<text>Rzeczy Greka</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>Nacisnij ($$ACTION_JUMP$$) zeby wyjsc do menu glownego</text>
+		<text>Naciśnij ($$ACTION_JUMP$$) żeby wyjść do menu głównego</text>
 	</string>
 	<string id="st_level">
 		<text>Poziom</text>
@@ -158,7 +158,7 @@
 		<text>Wczytywanie CFORM</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Ladowanie obiektow</text>
+		<text>Ładowanie obiektów</text>
 	</string>
 	<string id="st_creating_new_game">
 		<text>Tworzenie nowej gry</text>
@@ -167,7 +167,7 @@
 		<text>SERWER: Wczytywanie symulatora Alife</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>SERWER: Laczenie</text>
+		<text>SERWER: Łączenie</text>
 	</string>
 	<string id="st_loading_saved_game">
 		<text>Wczytywanie zapisanej gry</text>
@@ -176,10 +176,10 @@
 		<text>Sprawdzanie numeru seryjnego</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>Wczytywanie obiektow SI</text>
+		<text>Wczytywanie obiektów SI</text>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>KLIENT: Laczenie z</text>
+		<text>KLIENT: Łączenie z</text>
 	</string>
 	<string id="st_client_spawning">
 		<text>KLIENT: Odradzanie</text>
@@ -194,7 +194,7 @@
 		<text>SERWER: Start</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Wczytywanie shaderow</text>
+		<text>Wczytywanie shaderów</text>
 	</string>
 	<string id="st_loading_geometry">
 		<text>Wczytywanie danych geometrycznych</text>
@@ -203,37 +203,37 @@
 		<text>Wczytywanie przestrzennej bazy danych</text>
 	</string>
 	<string id="st_loading_details">
-		<text>Wczytywanie szczegolowych obiektow</text>
+		<text>Wczytywanie szczegółowych obiektów</text>
 	</string>
 	<string id="st_loading_sectors_portals">
 		<text>Wczytywanie stref i portali</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Blad polaczenia: Inna wersja.</text>
+		<text>Błąd połączenia: Inna wersja.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Blad polaczenia: Niewlasciwy CD-Key.</text>
+		<text>Błąd połączenia: Niewłaściwy CD-Key.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Blad polaczenia: CD-Key w uzyciu.</text>
+		<text>Błąd połączenia: CD-Key w użyciu.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Blad polaczenia: CD-Key jest niewazny. Skontaktuj sie z dzialem pomocy technicznej.</text>
+		<text>Błąd połączenia: CD-Key jest nieważny. Skontaktuj się z działem pomocy technicznej.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Dostepna jest nowa poprawka.\n Wersja: %s\n Lokalizacja: %s\nCzy chcesz ja teraz pobrac?</text>
+		<text>Dostępna jest nowa poprawka.\n Wersja: %s\n Lokalizacja: %s\nCzy chcesz ją teraz pobrać?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
 		<text>Brak nowych poprawek</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Czy na pewno chcesz usunac plik?</text>
+		<text>Czy na pewno chcesz usunąć plik?</text>
 	</string>
 	<string id="st_game_paused">
 		<text>Pauza</text>
 	</string>
 	<string id="st_bolt">
-		<text>Sruba</text>
+		<text>Śruba</text>
 	</string>
 	<string id="st_items">
 		<text>Przedmioty</text>
@@ -242,7 +242,7 @@
 		<text>Grafika</text>
 	</string>
 	<string id="st_audio">
-		<text>Dzwiek</text>
+		<text>Dźwięk</text>
 	</string>
 	<string id="st_game">
 		<text>Rozgrywka</text>
@@ -251,79 +251,79 @@
 		<text>Sterowanie</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Polaczenie z glownym serwerem</text>
+		<text>Połączenie z głównym serwerem</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Dozwolone tylko jedno aktywne glosowanie</text>
+		<text>Dozwolone tylko jedno aktywne głosowanie</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Udalo sie pobrac poprawke. Czy chcesz ja zainstalowac?</text>
+		<text>Udało się pobrać poprawkę. Czy chcesz ją zainstalować?</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Nie udalo sie pobrac poprawki.</text>
+		<text>Nie udało się pobrać poprawki.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Wczytanie gry spowoduje utrate niezapisanych danych. Czy chcesz kontynuowac?</text>
+		<text>Wczytanie gry spowoduje utratę niezapisanych danych. Czy chcesz kontynuować?</text>
 	</string>
 	<string id="ui_st_invalid_saved_game">
 		<text>Niezgodna wersja zapisanej gry lub zapis gry jest uszkodzony.</text>
 	</string>
 	<string id="ui_mm_r2_tonemap_middlegray">
-	    <text>Intensywnosc HDR</text>
+	    <text>Intensywność HDR</text>
     	</string>
 	    	<string id="ui_mm_r2_sun_lumscale">
-	    <text>Swiatlo sloneczne</text>
+	    <text>Światło słoneczne</text>
     	</string>
     	<string id="ui_mm_r2_sun_lumscale_amb">
-	    <text>Tlo swiatla</text>
+	    <text>Tło światła</text>
     	</string>
 	<string id="ui_mm_soft_water">
-		<text>Miekka woda</text>
+		<text>Miękka woda</text>
 	</string>
 	<string id="ui_mm_sun_shafts">
-		<text>Promienie sloneczne</text>
+		<text>Promienie słoneczne</text>
 	</string>
 <string id="ui_remkit_out_of_item">
-		<text>W inwentarzu brak pasujacych przedmiotow do wykorzystania na czesci zapasowe.</text>
+		<text>W inwentarzu brak pasujących przedmiotów do wykorzystania na części zapasowe.</text>
 	</string>
 	<string id="ui_remkit_select_item">
-		<text>Wybierz z listy przedmiot do rozbiorki na czesci zapasowe.</text>
+		<text>Wybierz z listy przedmiot do rozbiórki na części zapasowe.</text>
 	</string>
 	<string id="ui_remkit_invalid_item">
-		<text>Nic z tego nie bedzie - przedmiot jest zbyt uszkodzony. Wybierz przedmiot w lepszym stanie.</text>
+		<text>Nic z tego nie będzie - przedmiot jest zbyt uszkodzony. Wybierz przedmiot w lepszym stanie.</text>
 	</string>
 	<string id="ui_remkit_item_not_repaireble">
-		<text>Przedmiot jest nienaprawialny albo juz go nie mozna bardziej naprawic.</text>
+		<text>Przedmiot jest nienaprawialny albo już go nie można bardziej naprawić.</text>
 	</string>
 	<string id="ui_remkit_item_not_wanted">
 		<text>Przedmiot nie potrzebuje naprawy.</text>
 	</string>
 	<string id="ui_remkit_repair_success">
-		<text>Udalo ci sie poprawic stan przedmiotu.</text>
+		<text>Udało ci się poprawić stan przedmiotu.</text>
 	</string>
 <string id="ui_remkit_repair_transport">
-		<text>Udalo ci sie wyremontowac samochod.</text>
+		<text>Udało ci się wyremontować samochód.</text>
 	</string>
 	<string id="ui_remkit_repair_without_changes">
-		<text>Nie udalo sie poprawic stanu przedmiotu.</text>
+		<text>Nie udało się poprawić stanu przedmiotu.</text>
 	</string>
 	<string id="ui_remkit_repair_failure">
-		<text>Z braku doswiadczenia pogorszyles stan przedmiotu.</text>
+		<text>Z braku doświadczenia pogorszyłeś stan przedmiotu.</text>
 	</string>
 	<string id="ui_repair_success">
-		<text>Przedmiot zostal skutecznie naprawiony.</text>
+		<text>Przedmiot został skutecznie naprawiony.</text>
 	</string>	
 	<string id="ui_remkit_repair_nomoney">
-		<text>Nie masz wystarczajacej ilosci pieniedzy na naprawe tej rzeczy.</text>
+		<text>Nie masz wystarczającej ilości pieniędzy na naprawę tej rzeczy.</text>
 	</string>
 	<string id="ui_cartrade_nomoney">
-		<text>Nie masz wystarczajacej ilosci pieniedzy na zakup tej maszyny.</text>
+		<text>Nie masz wystarczającej ilości pieniędzy na zakup tej maszyny.</text>
 	</string>	
 	<string id="ui_trunk_select_item">
 		<text>Wybierz z listy przedmiot do przemieszczenia.</text>
 	</string>
 	<string id="ui_trunk_overweight">
-		<text>Nie mozesz wlozyc tej rzeczy do bagaznika - za malo miejsca.</text>
+		<text>Nie możesz włożyć tej rzeczy do bagażnika - za mało miejsca.</text>
 	</string>
 	<string id="kb_cam_1">
 		<text>Widok z pierwszej osoby</text>
@@ -332,6 +332,6 @@
 		<text>Widok z trzeciej osoby</text>
 	</string>
 	<string id="kb_cam_3">
-		<text>Niezalezna kamera</text>
+		<text>Niezależna kamera</text>
 	</string>
 </string_table>
