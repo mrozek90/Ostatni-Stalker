@@ -1,513 +1,532 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="Clear">
-		<text>ясная</text>
+		<text>slonecznie</text>
 	</string>
 	<string id="Cloudy">
-		<text>облачная</text>
+		<text>pochmurno</text>
 	</string>
 	<string id="Default">
-		<text>средние</text>
+		<text>srednie</text>
 	</string>
 	<string id="Extreme">
-		<text>максимальные</text>
+		<text>maksymalne</text>
 	</string>
 	<string id="gd_master">
-		<text>мастер</text>
+		<text>mistrz</text>
 	</string>
 	<string id="gd_novice">
-		<text>новичок</text>
+		<text>nowicjusz</text>
 	</string>
 	<string id="gd_stalker">
-		<text>опытный</text>
+		<text>doswiadczony</text>
 	</string>
 	<string id="gd_veteran">
-		<text>ветеран</text>
+		<text>weteran</text>
 	</string>
 	<string id="High">
-		<text>высокие</text>
+		<text>wysokie</text>
 	</string>
 	<string id="Low">
-		<text>низкие</text>
+		<text>niskie</text>
 	</string>
 	<string id="Minimum">
-		<text>минимальные</text>
+		<text>minimalne</text>
 	</string>
 	<string id="mm_mp_check_cdkey">
-		<text>проверять CD-Key</text>
+		<text>sprawdz CD-Key</text>
 	</string>
 	<string id="Nigth">
-		<text>ночь</text>
+		<text>noc</text>
 	</string>
 	<string id="Rain">
-		<text>дождь</text>
+		<text>deszcz</text>
 	</string>
 	<string id="renderer_r1">
-		<text>Статичное освещение</text>
+		<text>oswietlenie statyczne</text>
 	</string>
 	<string id="renderer_r2">
-		<text>Полное динамическое освещение</text>
+		<text>pelne oswietlenie dynamiczne</text>
 	</string>
 	<string id="renderer_r2a">
-		<text>Динамическое освещение объектов</text>
+		<text>dynamiczne oswietlenie obiektow</text>
 	</string>
 	<string id="st_artefacthunt">
-		<text>Охота за артефактом</text>
+		<text>bitwa o artefakt</text>
 	</string>
 	<string id="st_deathmatch">
-		<text>Все против всех</text>
+		<text>kazdy na kazdego</text>
 	</string>
 	<string id="st_rank_experienced">
-		<text>опытный</text>
+		<text>doswiadczony</text>
 	</string>
 	<string id="st_rank_legend">
-		<text>легендарный сталкер</text>
+		<text>legendarny stalker</text>
 	</string>
 	<string id="st_rank_novice">
-		<text>новичок</text>
+		<text>nowicjusz</text>
 	</string>
 	<string id="st_rank_professional">
-		<text>профессионал</text>
+		<text>zawodowiec</text>
 	</string>
 	<string id="st_rank_veteran">
-		<text>ветеран</text>
+		<text>weteran</text>
 	</string>
 	<string id="st_team_deathmatch">
-		<text>Команда против команды</text>
+		<text>Gra druzynowa</text>
 	</string>
 	<string id="testers_mp_agroprom">
-		<text>Завод «Агропром»</text>
+		<text>Agroprom</text>
 	</string>
 	<string id="testers_mp_atp">
-		<text>АТП</text>
+		<text>ATP</text>
 	</string>
 	<string id="testers_mp_darkvalley">
-		<text>Тёмная Долина</text>
+		<text>Dolina Mroku</text>
 	</string>
 	<string id="testers_mp_factory">
-		<text>Завод «Янтарь»</text>
+		<text>Fabryka Jantar</text>
 	</string>
 	<string id="testers_mp_lost_village">
-		<text>Покинутая деревня</text>
+		<text>Opuszczona Wioska</text>
 	</string>
 	<string id="testers_mp_military_1">
-		<text>Военные склады</text>
+		<text>Magazyny Wojskowe</text>
 	</string>
 	<string id="testers_mp_pool">
-		<text>Бассейн</text>
+		<text>Basen</text>
 	</string>
 	<string id="testers_mp_railroad">
-		<text>Ж/Д станция</text>
+		<text>Dworzec Kolejowy</text>
 	</string>
 	<string id="testers_mp_rostok">
-		<text>Завод «Росток»</text>
+		<text>fabryka Rostok</text>
 	</string>
 	<string id="testers_mp_workshop">
-		<text>Брошенная фабрика</text>
+		<text>Opuszczona Fabryka</text>
 	</string>
 	<string id="ui_mm_60_hz">
-		<text>Частота 60 Гц</text>
+		<text>Czestotliwosc 60Hz</text>
 	</string>
 	<string id="ui_mm_autograb">
-		<text>Авторазряжание оружия</text>
+		<text>Autorozladowanie broni</text>
 	</string>
 	<string id="ui_mm_save_rename">
-		<text>Резервное копирование quicksave</text>
+		<text>Szybki zapis quicksave</text>
 	</string>
 <string id="ui_mm_perepak">
-		<text>Перепаковщик патронов</text>
+		<text>Przeladowanie amunicji</text>
 	</string>
 <string id="ui_mm_engrus">
-		<text>Русский \ Английский</text>
+		<text>Rosyjski \ Angielski</text>
 	</string>
 <string id="ui_mm_dinhud">
-		<text>Динамический худ</text>
+		<text>Dynamiczny hud</text>
 	</string>
 	<string id="ui_mm_action">
-		<text>Действие</text>
+		<text>Czynnosc</text>
 	</string>
 	<string id="ui_mm_advanced">
-		<text>Расширенные</text>
+		<text>Rozszerzone</text>
 	</string>
 	<string id="ui_mm_anisotropic">
-		<text>Фильтр текстур</text>
+		<text>Filtrowanie anizotropowe</text>
 	</string>
 	<string id="ui_mm_apply">
-		<text>Применить</text>
+		<text>Uzyj</text>
 	</string>
 	<string id="ui_mm_back">
-		<text>Назад</text>
+		<text>Wstecz</text>
 	</string>
 	<string id="ui_mm_blood">
-		<text>Кровь</text>
+		<text>Krew</text>
 	</string>
 	<string id="ui_mm_brightness">
-		<text>Яркость</text>
+		<text>Jasnosc</text>
 	</string>
 	<string id="ui_mm_cancel">
-		<text>Отмена</text>
+		<text>Anuluj</text>
 	</string>
 	<string id="ui_mm_contrast">
-		<text>Контраст</text>
+		<text>Kontrast</text>
 	</string>
 	<string id="ui_mm_controls">
-		<text>Управление</text>
+		<text>Sterowanie</text>
 	</string>
 	<string id="ui_mm_credits">
-		<text>Титры</text>
+		<text>Tworcy gry</text>
 	</string>
 	<string id="ui_mm_crosshair_distance">
-		<text>Дистанция до цели</text>
+		<text>Odleglosc do celu</text>
 	</string>
 	<string id="ui_mm_delete">
-		<text>Удалить</text>
+		<text>Usun</text>
 	</string>
 	<string id="ui_mm_difficulty">
-		<text>Сложность</text>
+		<text>Stopien trudnosci</text>
 	</string>
 	<string id="ui_mm_disconnect">
-		<text>Отсоединиться</text>
+		<text>Rozlacz</text>
 	</string>
 	<string id="ui_mm_disconnect_message">
-		<text>Действительно ли вы желаете отсоединиться?</text>
+		<text>Na pewno chcesz sie rozlaczyc?</text>
 	</string>
 	<string id="ui_mm_dyn_crosshair">
-		<text>Динамический прицел</text>
+		<text>Dynamiczny celownik</text>
 	</string>
 	<string id="ui_mm_eax">
 		<text>EAX</text>
 	</string>
 	<string id="ui_mm_fullscreen">
-		<text>Полный экран</text>
+		<text>Pelny ekran</text>
 	</string>
 	<string id="ui_mm_gameplay">
-		<text>Игра</text>
+		<text>Rozgrywka</text>
 	</string>
 	<string id="ui_mm_gamma">
-		<text>Гамма</text>
+		<text>Gamma</text>
 	</string>
 	<string id="ui_mm_geometry_lod">
-		<text>Детализация</text>
+		<text>Szczegolowosc obiektow</text>
 	</string>
 	<string id="ui_mm_invert_mouse">
-		<text>Инвертировать мышь</text>
+		<text>Inwersja myszy</text>
 	</string>
 	<string id="ui_mm_key">
-		<text>Кнопка</text>
+		<text>Przycisk</text>
 	</string>
 	<string id="ui_mm_keyboard_setup">
-		<text>Настройка клавиатуры</text>
+		<text>Ustawienia klawiatury</text>
 	</string>
 	<string id="ui_mm_last_save">
-		<text>Последняя запись</text>
+		<text>Ostatni zapis</text>
 	</string>
 	<string id="ui_mm_light_distance">
-		<text>Дальность освещ.</text>
+		<text>Odleglosc oswietlenia</text>
 	</string>
 	<string id="ui_mm_load">
-		<text>Загрузить</text>
+		<text>Wczytaj</text>
 	</string>
 	<string id="ui_mm_load_game">
-		<text>Загрузить игру</text>
+		<text>Wczytaj gre</text>
 	</string>
 	<string id="ui_mm_master">
-		<text>Мастер</text>
+		<text>Mistrz</text>
 	</string>
 	<string id="ui_mm_master_volume">
-		<text>Громкость</text>
+		<text>Glosnosc efektow</text>
 	</string>
 	<string id="ui_mm_mouse_sense">
-		<text>Инерция мыши</text>
+		<text>Czulosc myszy</text>
 	</string>
 	<string id="ui_mm_multiplayer">
-		<text>СЕТЕВАЯ ИГРА</text>
+		<text>GRA SIECIOWA</text>
 	</string>
 	<string id="ui_mm_multiplayer_n">
-		<text>Сетевая игра</text>
+		<text>Gra sieciowa</text>
 	</string>
 	<string id="ui_mm_music_volume">
-		<text>Громк. музыки</text>
+		<text>Glosnosc muzyki</text>
 	</string>
 	<string id="ui_mm_need_restart">
-		<text>Изменения вступят в силу только после перезагрузки игры</text>
+		<text>Zmiany zostana wprowadzone po restarcie gry</text>
 	</string>
 	<string id="ui_mm_newgame">
-		<text>Новая игра</text>
+		<text>Nowa gra</text>
 	</string>
 	<string id="ui_mm_novice">
-		<text>Новичок</text>
+		<text>Nowicjusz</text>
 	</string>
 	<string id="ui_mm_npc_torch">
-		<text>Фонари НПС</text>
+		<text>Swiatlo latarek NPC-ow</text>
 	</string>
 	<string id="ui_mm_options">
-		<text>ОПЦИИ</text>
+		<text>OPCJE</text>
 	</string>
 	<string id="ui_mm_options_n">
-		<text>Опции</text>
+		<text>Opcje</text>
 	</string>
 	<string id="ui_mm_particles_distance">
-		<text>Дальность партиклов</text>
+		<text>Odleglosc czasteczek</text>
 	</string>
 	<string id="ui_mm_quality_presets">
-		<text>Качество</text>
+		<text>Ustawienia jakosci</text>
 	</string>
 	<string id="ui_mm_quit_game">
-		<text>Завершить игру</text>
+		<text>Zakoncz gre</text>
 	</string>
 	<string id="ui_mm_quit_game_message">
-		<text>Действительно ли вы желаете покинуть игру?</text>
+		<text>Na pewno chcesz opuscic gre?</text>
 	</string>
 	<string id="ui_mm_quit_windows_message">
-		<text>Действительно ли вы хотите выйти в Windows?</text>
+		<text>Naprawde chcesz opuscic Zone?</text>
 	</string>
 	<string id="ui_mm_quit2windows">
-		<text>Выйти в Windows</text>
+		<text>Wyjscie z Zony</text>
 	</string>
 	<string id="ui_mm_renderer">
-		<text>Тип рендера</text>
+		<text>Typ oswietlenia</text>
 	</string>
 	<string id="ui_mm_resolution">
-		<text>Разрешение</text>
+		<text>Rozdzielczosc</text>
 	</string>
 	<string id="ui_mm_return_game">
-		<text>Возврат к игре</text>
+		<text>Powrot do gry</text>
 	</string>
 	<string id="ui_mm_save">
-		<text>Сохранить</text>
+		<text>Zapisz</text>
 	</string>
 	<string id="ui_mm_save_game">
-		<text>Сохранить игру</text>
+		<text>Zapisz gre</text>
 	</string>
 	<string id="ui_mm_show_crosshair">
-		<text>Показывать прицел</text>
+		<text>Pokaz celownik</text>
 	</string>
 	<string id="ui_mm_show_weapon">
-		<text>Показывать оружие</text>
+		<text>Pokaz bron</text>
 	</string>
 	<string id="ui_mm_simply">
-		<text>Базовые</text>
+		<text>Podstawowe</text>
 	</string>
 	<string id="ui_mm_sound">
-		<text>Звук</text>
+		<text>Dzwiek</text>
 	</string>
 	<string id="ui_mm_sound_quality">
-		<text>Качество звука</text>
+		<text>Jakosc dzwieku</text>
 	</string>
 	<string id="ui_mm_stalker">
-		<text>Сталкер</text>
+		<text>Stalker</text>
 	</string>
 	<string id="ui_mm_sun_quality">
-		<text>Качество теней</text>
+		<text>Jakosc cieni</text>
 	</string>
 	<string id="ui_mm_supersample_check">
-		<text>Сглаживание движком игры</text>
-	</string>	
+		<text>Antyaliasing silnikiem gry</text>
+	</string>
 	<string id="ui_mm_supersample">
-		<text>Сглаживание (R1)</text>
+		<text>Antyaliasing (R1)</text>
 	</string>
 	<string id="ui_mm_switch_torch">
-		<text>Использование фонариков AI</text>
+		<text>Uzycie latarek AI</text>
 	</string>
 	<string id="ui_mm_texture_quality">
-		<text>Качество текстур</text>
+		<text>Jakosc tekstur</text>
 	</string>
 	<string id="ui_mm_tips">
-		<text>Распознавание НПС</text>
+		<text>Identyfikacja NPC-ow</text>
 	</string>
 	<string id="ui_mm_veteran">
-		<text>Ветеран</text>
+		<text>Weteran</text>
 	</string>
 	<string id="ui_mm_video">
-		<text>Видео</text>
+		<text>Wideo</text>
 	</string>
 	<string id="ui_mm_vis_distance">
-		<text>Видимость</text>
+		<text>Zasieg widzenia</text>
 	</string>
 	<string id="ui_mm_vsync">
-		<text>Верт. синхр.</text>
+		<text>Synchronizacja</text>
 	</string>
 	<string id="ui_st_last_set">
-		<text>Посл. набор</text>
+		<text>Ostatnie ust.</text>
 	</string>
 	<string id="ui_st_preset1">
-		<text>Набор 1</text>
+		<text>Ustawienie 1</text>
 	</string>
 	<string id="ui_st_preset2">
-		<text>Набор 2</text>
+		<text>Ustawienie 2</text>
 	</string>
 	<string id="ui_st_preset3">
-		<text>Набор 3</text>
+		<text>Ustawienie 3</text>
 	</string>
 	<string id="ui_st_reset">
-		<text>Сбросить</text>
+		<text>Reset</text>
 	</string>
 	<string id="ui_st_sell_all">
-		<text>Продать все</text>
+		<text>Sprzedaj wszystko</text>
 	</string>
 	<string id="ui_mm_r2_sun_near">
-		<text>Дальность теней</text>
+		<text>Zasieg cieni</text>
 	</string>
 	<string id="ui_mm_r2_tf_mipbias">
-		<text>Отчетливость текстур на расстоянии</text>
+		<text>Przejrzystosc tekstur na odleglosc</text>
 	</string>
 	<string id="ui_mm_r2_gloss_factor">
-		<text>Величина глянца</text>
+		<text>Wartosc polysku</text>
 	</string>
 	<string id="ui_mm_r2_sun_near_border">
-		<text>Отрисовка теней</text>
+		<text>Rysowanie cieni</text>
 	</string>
 	<string id="ui_mm_r2_tonemap">
-		<text>Включить HDR</text>
+		<text>Wlacz HDR</text>
 	</string>
 
 	<string id="ui_mm_r2_tonemap_adaptation">
-		<text>Смешив HDR</text>
+		<text>Adaptacja HDR</text>
 	</string>
 
 	<string id="ui_mm_r2_tonemap_middlegray">
-		<text>Интенсивн. HDR</text>
+		<text>Intensywnosc HDR</text>
 	</string>
 		<string id="ui_mm_r2_sun_lumscale">
-		<text>Яркость солнца</text>
+		<text>Jasnosc slonca</text>
 	</string>
 	<string id="ui_mm_r2_sun_lumscale_amb">
-		<text>Фоновый свет</text>
+		<text>Tlo swiatla</text>
 	</string>
 	<string id="ui_mm_cam_inert">
-		<text>Инерция камеры</text>
+		<text>Inercja kamery</text>
 	</string>
 	<string id="ui_mm_r2_aa">
-		<text>Сглаживание</text>
+		<text>Wygladzanie</text>
 	</string>
 
 
 <string id="ui_mm_r2_sunshafts">
-		<text>Объёмные лучи</text>
+		<text>Swiatlo wolumetryczne</text>
 	</string>
 <string id="ui_mm_r2_sun_shafts_density">
-		<text>Плотн. лучей</text>
+		<text>Gestosc promieni</text>
 	</string>
 <string id="ui_mm_r2_sun_shafts_intensity">
-		<text>Интенсив. лучей</text>
+		<text>Intensywnosc promieni</text>
 	</string>
 
-	
+
 	<string id="ui_mm_r2_gi">
-		<text>Глобальное освещение (экспериментально)</text>
+		<text>Globalne oswietlenie (eksperymentalne)</text>
 	</string>
 	<string id="off">
-		<text>выкл.</text>
+		<text>wylaczone</text>
 	</string>
 	<string id="low">
-		<text>низкое</text>
+		<text>niskie</text>
 	</string>
 	<string id="medium">
-		<text>среднее</text>
+		<text>srednie</text>
 	</string>
 	<string id="high">
-		<text>высокое</text>
+		<text>wysokie</text>
 	</string>
 	<string id="extreme">
-		<text>максимальное</text>
+		<text>maksymalne</text>
 	</string>
 	<string id="water">
-		<text>на воде</text>
+		<text>na wodzie</text>
 	</string>
 	<string id="ground">
-		<text>на асфальте</text>
+		<text>na asfalcie</text>
 	</string>
 	<string id="both">
-		<text>на воде и асфальте</text>
+		<text>na wodzie i asfalcie</text>
 	</string>
 	<string id="ssdo">
 		<text>SSDO</text>
 	</string>
 	<string id="hbao">
 		<text>HBAO</text>
-	</string>	
+	</string>
 	<string id="fxaa">
 		<text>FXAA</text>
 	</string>
 	<string id="smaa">
 		<text>SMAA</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_dynamic_dof">
-		<text>Эффект фокусировки глаз</text>
+		<text>Efekt ogniskowania oczu</text>
 	</string>
 	<string id="ui_mm_r2_reload_dof">
-		<text>Эффект глубины сцены при перезарядке</text>
+		<text>Efekt glebi sceny podczas przeladowania</text>
 	</string>
 	<string id="ui_mm_r2_zoom_dof">
-		<text>Эффект глубины сцены при прицеливании</text>
-	</string>	
+		<text>Efekt glebi sceny podczas celowania</text>
+	</string>
 	<string id="ui_mm_r2_dof_quality">
-		<text>Качество эффекта фокусировки глаз</text>
+		<text>Jakosc efektu ogniskowania oczu</text>
 	</string>
 	<string id="ui_mm_r2_ssao_base">
 		<text>Screen Space Ambient Occlusion</text>
-	</string>	
+	</string>
 	<string id="ui_mm_r2_rain_drops">
-		<text>Капли на стекле</text>
-	</string>	
+		<text>Krople na szkle</text>
+	</string>
 	<string id="ui_mm_r2_soft_particles">
-		<text>Мягкие партиклы</text>
-	</string>	
+		<text>Miekkie czasteczki</text>
+	</string>
 	<string id="ui_mm_r__bloodmarks">
-		<text>Блудмарки</text>
-	</string>	
+		<text>Bloodmarks</text>
+	</string>
 	<string id="ui_mm_r2_aa">
-		<text>Сглаживание (R2)</text>
-	</string>			
+		<text>Wygladzanie (R2)</text>
+	</string>
 	<string id="ui_mm_r2_aa_mode">
-		<text>Режим сглаживания (R2)</text>
-	</string>	
+		<text>Tryb wygladzania (R2)</text>
+	</string>
 	<string id="ui_mm_r2_detail_bump">
-		<text>Детальный бамп</text>
-	</string>		
+		<text>Szczegolowy bump</text>
+	</string>
 	<string id="ui_mm_r2_sunshafts">
-		<text>Объёмные лучи</text>
-	</string>	
+		<text>swiatlo wolumetryczne</text>
+	</string>
 	<string id="ui_mm_r2_sunshafts_mode">
-		<text>Тип объёмных лучей</text>
+		<text>Typ swiatla wolumetrycznego</text>
 	</string>
 	<string id="ui_mm_r2_lens_flare">
-		<text>Флары от ламп</text>
+		<text>Refleksy od lamp</text>
 	</string>
 	<string id="ui_mm_r2_lens_dirt">
-		<text>Грязь на линзе</text>
+		<text>Brud na obiektywie</text>
 	</string>
 	<string id="ui_mm_r2_puddles">
-		<text>Лужи</text>
+		<text>Kaluze</text>
 	</string>
 	<string id="ui_mm_r2_wet_surfaces">
-		<text>Намокание</text>
+		<text>Zmoczenie</text>
 	</string>
 	<string id="ui_mm_r2_reflections">
-		<text>Отражения</text>
+		<text>Refleksy</text>
 	</string>
 	<string id="ui_mm_r2_reflections_mode">
-		<text>Режим отражений</text>
+		<text>Tryb refleksow</text>
 	</string>
 	<string id="ui_mm_r2_details_opt">
-		<text>Оптимизация травы</text>
+		<text>Optymalizacja trawy</text>
 	</string>
 	<string id="ui_mm_r2_gbuffer_opt">
-		<text>Оптимизация шейдеров</text>
+		<text>Optymalizacja shaderow</text>
 	</string>
 	<string id="ui_mm_r2_image_sharpening">
-		<text>Резкость изображения</text>
+		<text>Ostrosc obrazu</text>
 	</string>
 	<string id="screen_space">
 		<text>Crysis</text>
 	</string>
 	<string id="volumetric">
-		<text>S.T.A.L.K.E.R. Чистое Небо</text>
+		<text>S.T.A.L.K.E.R. Czyste Niebo</text>
 	</string>
 	<string id="ui_load_press_any_key_to_start">
-		<text>Нажмите любую клавишу для перехода к игре</text>
+		<text>Nacisnij dowolny klawisz za wyjatkiem "E" by przejsc do gry</text>
 	</string>
 	<string id="ui_mm_r2_lights_shadow_fade">
-		<text>Мягкие тени ламп</text>
-	</string>	
+		<text>Miekkie cienie lamp</text>
+	</string>
+	<!-- brakujace -->
+	<string id="ui_mm_keypress_on_start">
+	<text>Start po nacisnieciu klawisza</text>
+</string>
+<string id="ui_mm_ambient">
+	<text>Otoczenie</text>
+</string>
+<string id="ui_mm_build_crosshair">
+	<text>Domyslny celownik</text>
+</string>
+<string id="ui_mm_ammunition_on_belt">
+	<text>Amunicja przy pasie</text>
+</string>
+<string id="hint_name_text">
+	<text>Wybor opcji gry</text>
+</string>
+<string id="hint_caption_text">
+	<text>Pamietaj, ze przy kazej zmianie ustawien zaleca sie ponowne uruchomienie gry. \n\n Polska wersja jezykowa: stalkerteam.pl</text>
+</string>
 </string_table>

@@ -1,240 +1,240 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="game type">
-		<text>ТИП ИГРЫ</text>
+		<text>TRYB GRY</text>
 	</string>
 	<string id="icon">
-		<text>ЗНАЧКИ</text>
+		<text>IKONY</text>
 	</string>
 	<string id="map">
-		<text>КАРТА</text>
+		<text>MAPA</text>
 	</string>
 	<string id="mm_mp_allowvoting">
-		<text>Разрешить голосование</text>
+		<text>Pozwol na glosowanie</text>
 	</string>
 	<string id="mm_mp_anomalytime">
-		<text>Время аномалии (м.)</text>
+		<text>Aktywnosc anomalii (min.)</text>
 	</string>
 	<string id="mm_mp_artefactcapture">
-		<text>Захват артефакта</text>
+		<text>Zdobycie artefaktu</text>
 	</string>
 	<string id="mm_mp_artefdelay">
-		<text>Задержка артефакта</text>
+		<text>Powstanie artefaktu (sek.)</text>
 	</string>
 	<string id="mm_mp_artefnum">
-		<text>Кол-во артефактов</text>
+		<text>Liczba artefaktow</text>
 	</string>
 	<string id="mm_mp_artefstay">
-		<text>Вреня артефакта</text>
+		<text>Trwalosc artefaktow (min.)</text>
 	</string>
 	<string id="mm_mp_autoteambalance">
-		<text>Автобаланс команд</text>
+		<text>Automatyczny balans druzyn</text>
 	</string>
 	<string id="mm_mp_autoteamswap">
-		<text>Автосмена команд</text>
+		<text>Automatyczna zmiana druzyny</text>
 	</string>
 	<string id="mm_mp_avail_maps">
-		<text>ДОСТУПНЫЕ КАРТЫ</text>
+		<text>DOSTEPNE MAPY</text>
 	</string>
 	<string id="mm_mp_cancel">
-		<text>Отмена</text>
+		<text>Anuluj</text>
 	</string>
 	<string id="mm_mp_cd_key">
-		<text>CD-Key</text>
+		<text>CD-Key:</text>
 	</string>
 	<string id="mm_mp_client">
-		<text>Клиент</text>
+		<text>Klient</text>
 	</string>
 	<string id="mm_mp_create">
-		<text>Создать</text>
+		<text>Stworz</text>
 	</string>
 	<string id="mm_mp_damageblock">
-		<text>Неуязвимость (сек.)</text>
+		<text>Niesmiertelnosc (sek.)</text>
 	</string>
 	<string id="mm_mp_damageblockindicator">
-		<text>Индикатор неуязвимости</text>
+		<text>Wskaznik niesmiertelnosci</text>
 	</string>
 	<string id="mm_mp_deaths">
-		<text>Смерти</text>
+		<text>Zabici</text>
 	</string>
 	<string id="mm_mp_dedicated">
-		<text>Выделенный</text>
+		<text>Dedykowany</text>
 	</string>
 	<string id="mm_mp_empty">
-		<text>Пустые</text>
+		<text>Puste</text>
 	</string>
 	<string id="mm_mp_filters">
-		<text>Фильтры</text>
+		<text>Filtry</text>
 	</string>
 	<string id="mm_mp_forcerespawn">
-		<text>Рождение (с.)</text>
+		<text>Odrodz po (sek.)</text>
 	</string>
 	<string id="mm_mp_fraglimit">
-		<text>Лимит фрагов</text>
+		<text>Limit fragow</text>
 	</string>
 	<string id="mm_mp_frags">
-		<text>Фраги</text>
+		<text>Fragi</text>
 	</string>
 	<string id="mm_mp_freezetime">
-		<text>Время задержки</text>
+		<text>Czas unieruchomienia</text>
 	</string>
 	<string id="mm_mp_friendlyfire">
-		<text>Огонь союзника (к.)</text>
+		<text>Obrazenia od sojusznikow</text>
 	</string>
 	<string id="mm_mp_friendlyindicators">
-		<text>Индикаторы союзников</text>
+		<text>Wskazniki sojusznikow</text>
 	</string>
 	<string id="mm_mp_friendlynames">
-		<text>Имена друзей</text>
+		<text>Nicki sojusznikow</text>
 	</string>
 	<string id="mm_mp_full">
-		<text>Полные</text>
+		<text>Pelne</text>
 	</string>
 	<string id="mm_mp_gamemode">
-		<text>Режим</text>
+		<text>Tryb</text>
 	</string>
 	<string id="mm_mp_host_port">
-		<text>IP/хост: порт</text>
+		<text>IP/host:port</text>
 	</string>
 	<string id="mm_mp_internet">
-		<text>Интернет</text>
+		<text>Internet</text>
 	</string>
 	<string id="mm_mp_join">
-		<text>Присоединиться</text>
+		<text>Przylacz sie</text>
 	</string>
 	<string id="mm_mp_lan">
-		<text>Локальная сеть</text>
+		<text>Siec lokalna</text>
 	</string>
 	<string id="mm_mp_listenservers">
-		<text>Не выделенные</text>
+		<text>Nasluch</text>
 	</string>
 	<string id="mm_mp_mapratation">
-		<text>Список карт</text>
+		<text>Lista map</text>
 	</string>
 	<string id="mm_mp_maxplayers">
-		<text>Макс. игроков</text>
+		<text>Maks. liczba graczy</text>
 	</string>
 	<string id="mm_mp_network_connection">
-		<text>Сетевое соединение</text>
+		<text>Polaczenie sieciowe</text>
 	</string>
 	<string id="mm_mp_noanomalies">
-		<text>Без аномалий</text>
+		<text>Bez anomalii</text>
 	</string>
 	<string id="mm_mp_options">
-		<text>Опции</text>
+		<text>Opcje</text>
 	</string>
 	<string id="mm_mp_password">
-		<text>Пароль</text>
+		<text>Haslo</text>
 	</string>
 	<string id="mm_mp_player_name">
-		<text>Имя игрока:</text>
+		<text>Gracz:</text>
 	</string>
 	<string id="mm_mp_players">
-		<text>Игроки</text>
+		<text>Gracze</text>
 	</string>
 	<string id="mm_mp_publicserver">
-		<text>Интернет сервер</text>
+		<text>Serwer publiczny</text>
 	</string>
 	<string id="mm_mp_quickrefresh">
-		<text>Обновить один</text>
+		<text>Odswiez szybko</text>
 	</string>
 	<string id="mm_mp_rateofchange">
-		<text>Коэф. изменения</text>
+		<text>Zmiana wspolczynnika</text>
 	</string>
 	<string id="mm_mp_refresh">
-		<text>Обновить все</text>
+		<text>Odswiez wszystko</text>
 	</string>
 	<string id="mm_mp_reinforcement">
-		<text>Подкрепление (с.)</text>
+		<text>Posilki (sek.)</text>
 	</string>
 	<string id="mm_mp_respawnoptions">
-		<text>Опции рождения</text>
+		<text>Opcje odrodzenia</text>
 	</string>
 	<string id="mm_mp_sel_maps">
-		<text>ВЫБРАННЫЕ КАРТЫ</text>
+		<text>WYBRANE MAPY</text>
 	</string>
 	<string id="mm_mp_server">
-		<text>Сервер</text>
+		<text>Serwer</text>
 	</string>
 	<string id="mm_mp_server_list">
-		<text>Список серверов</text>
+		<text>Lista serwerow</text>
 	</string>
 	<string id="mm_mp_server_prop">
-		<text>Свойства сервера</text>
+		<text>Wlasciwosci serwera</text>
 	</string>
 	<string id="mm_mp_serverinfo">
-		<text>Инфо сервера</text>
+		<text>Inf. o serwerze</text>
 	</string>
 	<string id="mm_mp_serverlist">
-		<text>Сервер</text>
+		<text>Serwer</text>
 	</string>
 	<string id="mm_mp_servername">
-		<text>Имя сервера</text>
+		<text>Nazwa serwera</text>
 	</string>
 	<string id="mm_mp_serversettings">
-		<text>Настройки сервера</text>
+		<text>Ustawienia serwera</text>
 	</string>
 	<string id="mm_mp_spectator">
-		<text>Наблюдатель</text>
+		<text>Widz</text>
 	</string>
 	<string id="mm_mp_spectator_firsteye">
-		<text>От первого лица</text>
+		<text>Pierwsza osoba</text>
 	</string>
 	<string id="mm_mp_spectator_freefly">
-		<text>Свободный полет</text>
+		<text>Swobodna kamera</text>
 	</string>
 	<string id="mm_mp_spectator_freelook">
-		<text>Свободно-привязанный</text>
+		<text>Wolny widok</text>
 	</string>
 	<string id="mm_mp_spectator_lookat">
-		<text>От третьего лица</text>
+		<text>Trzecia osoba</text>
 	</string>
 	<string id="mm_mp_spectator_options">
-		<text>Настройки наблюдателя</text>
+		<text>Ustawienia widza</text>
 	</string>
 	<string id="mm_mp_spectator_teamonly">
-		<text>Только для команды</text>
+		<text>Tylko druzyna</text>
 	</string>
 	<string id="mm_mp_startweather">
-		<text>Погода</text>
+		<text>Poczatkowa pogoda</text>
 	</string>
 	<string id="mm_mp_timelimit">
-		<text>Лимит времени (м.)</text>
+		<text>Limit czasowy (min.)</text>
 	</string>
 	<string id="mm_mp_warmuptime">
-		<text>Разогрев (сек.)</text>
+		<text>Rozgrzewka (sek.)</text>
 	</string>
 	<string id="mm_mp_weatheroptions">
-		<text>Опции погоды</text>
+		<text>Opcje pogody</text>
 	</string>
 	<string id="mm_mp_withoutfriendlyfire">
-		<text>Без огня союзн.</text>
+		<text>Bez ognia sojuszniczego </text>
 	</string>
 	<string id="mm_mp_withoutpassword">
-		<text>Без пароля</text>
+		<text>Bez hasla</text>
 	</string>
 	<string id="mm_mp_withoutpunkbuster">
-		<text>Без Punk Buster</text>
+		<text>Bez PunkBuster</text>
 	</string>
 	<string id="mm_mp_withpassword">
-		<text>С паролем</text>
+		<text>Z haslem</text>
 	</string>
 	<string id="mp_vote_hint">
-		<text>Голосовать ЗА-[$$ACTION_VOTE_YES$$]\nГолосовать ПРОТИВ-[$$ACTION_VOTE_NO$$]\nРезультаты-[$$ACTION_VOTE$$]</text>
+		<text>Glosy ZA-[$$ACTION_VOTE_YES$$]\nGlosy PRZECIW-[$$ACTION_VOTE_NO$$]\nWyniki-[$$ACTION_VOTE$$]</text>
 	</string>
 	<string id="ping">
-		<text>ПИНГ</text>
+		<text>PING</text>
 	</string>
 	<string id="players">
-		<text>ИГРОКИ</text>
+		<text>GRACZE</text>
 	</string>
 	<string id="server name">
-		<text>ИМЯ СЕРВЕРА</text>
+		<text>NAZWA SERWERA</text>
 	</string>
 	<string id="version">
-		<text>Версия</text>
+		<text>Wersja</text>
 	</string>
 	<string id="st_mp_gsfilter">
-		<text>Фильтр:</text>
+		<text>Filtr:</text>
 	</string>
 </string_table>

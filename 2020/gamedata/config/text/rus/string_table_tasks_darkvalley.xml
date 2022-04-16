@@ -1,72 +1,72 @@
 	<string id="bar_darklab_documents">
-		<text>Найти документы в подземной лаборатории</text>
+		<text>Znajdџ dokumenty w podziemnym laboratorium</text>
 	</string>
 	<string id="bar_darklab_documents_1">
-		<text>Забрать у Борова ключ от лаборатории</text>
+		<text>Weџ od Dzika klucz do laboratorium</text>
 	</string>
 	<string id="bar_darklab_documents_2">
-		<text>Выбраться с базы бандитов</text>
+		<text>Wydostaс siк z bazy bandytуw</text>
 	</string>
 	<string id="bar_darklab_documents_3">
-		<text>Найти вход в лабораторию</text>
+		<text>Znajdџ wejњcie do laboratorium</text>
 	</string>
 	<string id="bar_darklab_documents_4">
-		<text>Пробраться на базу</text>
+		<text>Zakradnij siк do bazy</text>
 	</string>
 	<string id="bar_darklab_documents2">
-		<text>Найти документы в Х-18</text>
+		<text>Znajdџ dokumenty w X-18</text>
 	</string>
 	<string id="bar_darklab_documents2_1">
-		<text>Найти документы</text>
+		<text>Znajdџ dokumenty</text>
 	</string>
 	<string id="bar_darklab_documents2_2">
-		<text>Принести документу бармену</text>
+		<text>Przynieњ dokumenty Barmanowi</text>
 	</string>
 	<string id="dar_codedoor_1">
-		<text>Открыть кодовую дверь</text>
+		<text>Otwуrz drzwi z zamkiem kodowym</text>
 	</string>
 	<string id="dar_codedoor_1_1">
-		<text>Найти код к двери</text>
+		<text>Znajdџ kod do drzwi</text>
 	</string>
 	<string id="dar_codedoor_1_2">
-		<text>Открыть дверь с помощью кода</text>
+		<text>Otwуrz drzwi przy pomocy kodu</text>
 	</string>
 	<string id="dar_codedoor_2">
-		<text>Открыть дверь в командный центр</text>
+		<text>Otwуrz drzwi do centrum sterowania</text>
 	</string>
 	<string id="dar_codedoor_2_1">
-		<text>Найти код к двери</text>
+		<text>Znajdџ kod do drzwi</text>
 	</string>
 	<string id="dar_codedoor_2_2">
-		<text>Открыть дверь с помощью кода</text>
+		<text>Otwуrz drzwi przy pomocy kodu</text>
 	</string>
 	<string id="val_captive_help">
-		<text>Отбить долговца</text>
+		<text>Odbij powinnoњciowca</text>
 	</string>
 	<string id="val_captive_help_1">
-		<text>Следовать за Пулей к месту засады</text>
+		<text>Idџ za Nabojem na miejsce zasadzki</text>
 	</string>
 	<string id="val_captive_help_2">
-		<text>Уничтожить бандитов и спасти долговца</text>
+		<text>Zabij bandytуw i uratuj powinnoњciowca</text>
 	</string>
 	<string id="val_come_to_trader">
-		<text>Выбраться через южные ворота</text>
+		<text>Wydostaс siк przez poіudniow№ bramк</text>
 	</string>
 	<string id="val_come_to_trader_0">
-		<text>Вернуться к торговцу</text>
+		<text>Wrуж do handlarza</text>
 	</string>
 	<string id="val_come_to_trader_1">
-		<text>Выбраться из Темной Долины</text>
+		<text>Wydostaс siк z Doliny Mroku</text>
 	</string>
 	<string id="val_come_to_trader_2">
-		<text>Показать документы торговцу</text>
+		<text>Pokaї dokumenty handlarzowi</text>
 	</string>
 	<string id="val_prisoner_help">
-		<text>Спасти долговца</text>
+		<text>Uwolnij powinnoњciowca</text>
 	</string>
 	<string id="val_prisoner_help_0">
-		<text>Вытащить долговца из плена бандитов</text>
+		<text>Wyci№gnij powinnoњciowca z niewoli u bandytуw</text>
 	</string>
 	<string id="val_prisoner_help_main">
-		<text>Освободить долговца из тюрьмы бандитов</text>
+		<text>Uwolnij powinnoњciowca z wiкzienia bandytуw</text>
 	</string>

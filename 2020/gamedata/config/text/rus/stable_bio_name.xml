@@ -1,921 +1,921 @@
 	<string id="aes_Monolit_master_bio">
-		<text>Хранитель группировки "Монолит". Лучше держаться от него подальше. Детальная информация отсутствует.</text>
+		<text>Straїnik z frakcji Monolit. Lepiej trzymaж siк z dala. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Monolit_rpg_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Monolit_sniper_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Monolit_sniper_gauss_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Monolit_specnaz_bio">
-		<text>Боевик группировки "Монолит". Хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji Monolit. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Soldier_commander_bio">
-		<text>Командующий штурмом военных.</text>
+		<text>Dowуdca wypadu.</text>
 	</string>
 	<string id="aes_Soldier_military_bio">
-		<text>Военный сталкер. Хорошо вооружен и очень опасен. Детальная информация недоступна.</text>
+		<text>Wojskowy stalker. Dobrze uzbrojony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Soldier_sniper_bio">
-		<text>Детальная информация отсутствует.</text>
+		<text>Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_bio">
-		<text>Армейский спецназ. Хорошо экипирован. Детальная информация недоступна.</text>
+		<text>Specnaz. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="aes_Soldier_specnaz_aes_name">
-		<text>Василь Невезучий</text>
+		<text>Wasyl Nieszczкsny</text>
 	</string>
 	<string id="aes_Soldier_specnaz_bio">
-		<text>Армейский спецназ. Хорошо экипирован. Детальная информация недоступна.</text>
+		<text>Specnaz. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="agr_krot_bio">
-		<text>Бывший диггер. Со своей группой единомышленников лезет во все заброшенные лаборатории и бункеры до которых может добраться.</text>
+		<text>Byіy kopacz. Wraz ze swymi kompanami pl№druje wszystkie opuszczone laboratoria i bunkry, na jakie siк natknie.</text>
 	</string>
 	<string id="agr_krot_name">
-		<text>Крот</text>
+		<text>Kret</text>
 	</string>
 	<string id="bar_arena_stalker">
-		<text>Один из участников смертельных боев на Арене. Детальная информация отсутствует.</text>
+		<text>Jeden z uczestnikуw њmiertelnie niebezpiecznych walk na Arenie. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="bar_arny_bio">
-		<text>Контрабандист со стажем. Известен тем что за короткий промежуток времени сумел вывезти из запретной зоны несколько сотен чучел мутантов.</text>
+		<text>Doњwiadczony przemytnik. Sіawк zyskaі dziкki przeszmuglowaniu w krуtkim czasie kilkuset wypchanych mutantуw z obszaru zastrzeїonego.</text>
 	</string>
 	<string id="bar_arny_name">
-		<text>Арни</text>
+		<text>Arni</text>
 	</string>
 	<string id="bar_bar_guard_bio">
-		<text>Охранник бара. Или, если хотите, телохранитель бармена. О его настоящем, как и о прошлом ничего не известно.</text>
+		<text>Bramkarz w barze - albo raczej ochroniarz barmana. Nie ma їadnych danych ani o jego przeszіoњci, ani o їyciu obecnym.</text>
 	</string>
 	<string id="bar_bar_guard_name">
-		<text>Гарик</text>
+		<text>Garik</text>
 	</string>
 	<string id="bar_bar_guard2_bio">
-		<text>Брат-близнец Гарика. Охранник на входе бара. Такой же молчаливый как и его брат.</text>
+		<text>Bliџniak Garika. Bramkarz w barze. Rуwnie powњci№gliwy jak brat.</text>
 	</string>
 	<string id="bar_bar_guard2_name">
-		<text>Жорик</text>
+		<text>Їorik</text>
 	</string>
 	<string id="bar_barmen_bio">
-		<text>Не святой и не подлец, цену себе знает, за что пользуется уважением среди сталкеров. Ходят слухи, что прячется в Зоне от своего темного прошлого. После того как попал в аномалию, стал прихрамывать и решил сменить занятие. Обставил бар возле группировки Долга, который незаметно стал основным местом сбора для ветеранов Зоны. У бармена много связей как внутри Зоны, так и во внешнем мире.</text>
+		<text>Ani њwiкty, ani њwinia. Barman zna sw№ wartoњж i wszyscy stalkerzy go szanuj№. Mуwi siк, їe ukrywa siк w Zonie z powodu jakichњ mrocznych wydarzeс z przeszіoњci. Po bliskim spotkaniu z anomali№ zacz№і lekko utykaж, wiкc postanowiі zaj№ж siк czym innym. Otworzyі bar niedaleko terytorium "Powinnoњci" i stopniowo lokal ten przeksztaіciі siк w miejsce spotkaс wszystkich weteranуw Zony. Barman ma rozliczne kontakty zarуwno w samej Zonie, jak i w њwiecie zewnкtrznym.</text>
 	</string>
 	<string id="bar_barmen_name">
-		<text>Бармен</text>
+		<text>Barman</text>
 	</string>
 	<string id="bar_beast_name">
-		<text>Зверь</text>
+		<text>Zwierz</text>
 	</string>
 	<string id="bar_drunk_bio">
-		<text>Постоянно пьяный член группировки Долга. Долг дал ему последнюю возможность остаться в группировке, выполнив задание, но он пьян и не может его выполнить.</text>
+		<text>Czіonek frakcji "Powinnoњж" - zazwyczaj na bani. Grupa daіa mu ostatni№ szansк na zmazanie win poprzez wypeіnienie misji. Niestety, znуw byі koszmarnie pijany i nie mуgі siк pozbieraж, їeby wykonaж zadanie.</text>
 	</string>
 	<string id="bar_drunk_name">
-		<text>Бром</text>
+		<text>Brom</text>
 	</string>
 	<string id="bar_hunter_bio">
-		<text>Добродушный весельчак, единственная его проблема это то, что умеет стрелять только из охотничьего ружья. Остальное даже не пробует. Недавно попал в передрягу на Дикой территории и потерял там свое фамильное ружье. Теперь околачивается в баре, надеется, что кто-то вернет ему его ружье.</text>
+		<text>Dobroduszny, pogodny jegomoњж, ktуrego jedynym problemem jest to, їe nie potrafi strzelaж z niczego poza karabinem myњliwskim. Ostatnimi czasy Јowca przestaі nawet prуbowaж innej broni. Niedawno wpakowaі siк w tarapaty w Dziczy i utraciі swуj karabin rodowy. Teraz przesiaduje w barze z nadziej№, їe ktoњ mu zwrуci broс.</text>
 	</string>
 	<string id="bar_hunter_name">
-		<text>Охотник</text>
+		<text>Јowca</text>
 	</string>
 	<string id="bar_informer_bio">
-		<text>Таинственный сталкер, который очень много знает. Торгует информацией в баре.</text>
+		<text>Zagadkowy, wszystkowiedz№cy stalker. Handluje informacjami w Barze.</text>
 	</string>
 	<string id="bar_informer_name">
-		<text>Осведомитель</text>
+		<text>Kabel</text>
 	</string>
 	<string id="bar_ivancov_bio">
-		<text>Руководитель всех карательных операций и операций по зачистке крупных скоплений мутантов.</text>
+		<text>Dowуdca wszelkich wypadуw odwetowych oraz ekspedycji przeciwko hordom mutantуw.</text>
 	</string>
 	<string id="bar_ivancov_name">
-		<text>Капитан Иванцов</text>
+		<text>Kapitan Iwancow</text>
 	</string>
 	<string id="bar_kicenko_name">
-		<text>Сержант Киценко</text>
+		<text>Sierї. Kicenko</text>
 	</string>
 	<string id="bar_lelik_bio">
-		<text>Телохранитель хозяина Арены. О его прошлом известно только плохое, ненавидит своих братьев.</text>
+		<text>Ochroniarz wіaњciciela Areny. O jego przeszіoњci wiadomo niewiele - a to, co wiadomo, budzi zgrozк. Nienawidzi swych braci.</text>
 	</string>
 	<string id="bar_lelik_name">
-		<text>Лёлик</text>
+		<text>Lolik</text>
 	</string>
 	<string id="bar_lisiy_name">
-		<text>Лысый</text>
+		<text>Јysy</text>
 	</string>
 	<string id="bar_petrenko_bio">
-		<text>Один из основателей Долга и по совместительству главный идеолог. Это он разработал свод правил и завербовал практически всех ключевых членов Долга.</text>
+		<text>Jeden z zaіoїycieli frakcji "Powinnoњж" i rуwnoczeњnie ich czoіowy ideolog. Odpowiada za њwiкty kodeks frakcji - na dobr№ sprawк to on zwerbowaі wszystkich kluczowych czіonkуw.</text>
 	</string>
 	<string id="bar_petrenko_name">
-		<text>Полковник Петренко</text>
+		<text>Puіkownik Pietrienko</text>
 	</string>
 	<string id="bar_plichko_bio">
-		<text>Начальник охраны территории Долга.</text>
+		<text>Szef ochrony terytorium frakcji "Powinnoњж".</text>
 	</string>
 	<string id="bar_plichko_name">
-		<text>Сержант Пличко</text>
+		<text>Sierї. Pliczko</text>
 	</string>
 	<string id="bar_ryaboy_bio">
-		<text>Неизвестный, попавший под воздействие выжигателя мозгов.</text>
+		<text>Nieznajomy dotkniкty dziaіaniem Mуzgozwкglacza.</text>
 	</string>
 	<string id="bar_ryaboy_name">
-		<text>Рябой</text>
+		<text>Krosta</text>
 	</string>
 	<string id="bar_voronin_bio">
-		<text>Основатель группировки Долг, вот уже пять лет возглавляет группировку.</text>
+		<text>Zaіoїyciel ugrupowania "Powinnoњж", juї od piкciu lat stoi na czele ugrupowania.</text>
 	</string>
 	<string id="bar_voronin_name">
-		<text>Генерал Воронин</text>
+		<text>Generaі Woronin</text>
 	</string>
 	<string id="cit_bandit_drunk_bio">
-		<text>Алкаш.</text>
+		<text>Seta.</text>
 	</string>
 	<string id="cit_bandit_general_bio">
-		<text>Неизвестный сталкер. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Nieznany stalker. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="cit_bandit_veteran_bio">
-		<text>Неизвестный сталкер. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Nieznany stalker. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="cit_bandits_leader_bio">
-		<text>Один из бандитских лидеров. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</text>
+		<text>Jeden z przywуdcуw bandytуw. Dobrze uzbrojony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="cit_bandits_leader_name">
-		<text>Борзый</text>
+		<text>Borzyj</text>
 	</string>
 	<string id="cit_doctor_bio">
-		<text>Доктор.</text>
+		<text>Doktor.</text>
 	</string>
 	<string id="cit_doctor_name">
-		<text>Доктор</text>
+		<text>Doktor</text>
 	</string>
 	<string id="cit_killer_exo_bio">
-		<text>Неизвестный наемник. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Dobrze uzbrojony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="cit_killer_general_bio">
-		<text>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Prawdopodobnie dobrze uzbrojony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="cit_killers_leader_bio">
-		<text>Лидер группировки наемников. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</text>
+		<text>Przywуdca bandy najemnikуw. Dobrze uzbrojony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="cit_killers_leader_name">
-		<text>Душман</text>
+		<text>Duszman</text>
 	</string>
 	<string id="cit_vp_bio">
-		<text>Опытный сталкер. Детальная информация отсутствует.</text>
+		<text>Doњwiadczony stalker. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="cit_vp_name">
-		<text>Василий Петрович</text>
+		<text>Wasilij Pietrowicz</text>
 	</string>
 	<string id="dar_corpse_bio">
-		<text>Нет информации.</text>
+		<text>Brak informacji.</text>
 	</string>
 	<string id="dar_explorer_bio">
-		<text>Опытный сталкер. Держит ухо востро.</text>
+		<text>Doњwiadczony stalker. Zawsze ma oczy szeroko otwarte.</text>
 	</string>
 	<string id="dar_explorer_name">
-		<text>Жека Дуплет</text>
+		<text>Їeka Dublet</text>
 	</string>
 	<string id="dar_kalugin_name">
-		<text>Калугин П.И.</text>
+		<text>P.I. Kaіugin</text>
 	</string>
 	<string id="ds_sergant_regular_bio">
-		<text>Сержант срочной службы ВС Украины. Детальная информация отсутствует.</text>
+		<text>Sierїant w armii ukraiсskiej. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="ds_soldier_regular_bio">
-		<text>Рядовой солдат срочной службы ВС Украины. Детальная информация отсутствует.</text>
+		<text>Szeregowy w armii ukraiсskiej. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_bandit_novice_bio">
-		<text>Неизвестный сталкер. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Nieznany stalker. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_captain_bio">
-		<text>Капитан сверхсрочной службы ВС Украины. Детальная информация отсутствует.</text>
+		<text>Kapitan armii ukraiсskiej z dіugim staїem. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_fanat_bio">
-		<text>Стал лидером лагеря новичков после Волка. Целеустремлен, агрессивен, пользуется среди новичков заслуженным авторитетом.</text>
+		<text>Przej№і po Wilku dowуdztwo w obozie dla nowicjuszy. Bardzo stanowczy i agresywny - u їуіtodziobуw cieszy siк zasіuїonym autorytetem.</text>
 	</string>
 	<string id="esc_fanat_name">
-		<text>Фанат</text>
+		<text>Fanat</text>
 	</string>
 	<string id="esc_fox_bio">
-		<text>Старый прожженный зоной одиночка.</text>
+		<text>Stary "Samotnik" zahartowany przez Zonк.</text>
 	</string>
 	<string id="esc_fox_name">
-		<text>Лис</text>
+		<text>Lis</text>
 	</string>
 	<string id="esc_killer_specnaz_bio">
-		<text>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Prawdopodobnie dobrze uzbrojony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_petruha_bio">
-		<text>Толковый новичок. Пользуется особым расположением Волка, который его частенько отправляет на важные задания.</text>
+		<text>Cwany їуіtodziуb. Wilk najwyraџniej go lubi i czкsto posyіa na waїne misje.</text>
 	</string>
 	<string id="esc_petruha_name">
-		<text>Петруха</text>
+		<text>Pietrucha</text>
 	</string>
 	<string id="esc_provodnik_bio">
-		<text>Личность в своем роде легендарная, говорят, что он может провести в любую точку Зоны. Берет он дорого, но дело не только в деньгах. Не нравящихся ему людей он не поведет ни за какие деньги. Ветеран, знает Зону вдоль и поперек.</text>
+		<text>Їywa legenda. Ponoж jest w stanie zabraж ciк w dowolne miejsce w Zonie. Za jego usіugi trzeba jednak sіono zapіaciж, wiкc nie kaїdy moїe sobie pozwoliж. Jeњli mu siк nie spodobasz, to juї їadne pieni№dze nie pomog№. Prawdziwy weteran - przemierzyі Zonк wzdіuї i wszerz.</text>
 	</string>
 	<string id="esc_provodnik_name">
-		<text>Проводник</text>
+		<text>Przewodnik</text>
 	</string>
 	<string id="esc_sergant_regular_bio">
-		<text>Сержант срочной службы ВС Украины. Детальная информация отсутствует.</text>
+		<text>Sierїant w armii ukraiсskiej. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_shustryi_bio">
-		<text>Сталкер, которого прозвали шустрым за его умение быть незаметным и незаменимым. Торговец его иногда использует для деликатных заданий, проследить за кем-то, что-то подсмотреть, подслушать.</text>
+		<text>Stalker ten zawdziкcza swуj przydomek temu, їe jest praktycznie niewidzialny i autentycznie niezbкdny. Handlarz powierza mu delikatne zlecenia, np. wкszenie w jakiejњ sprawie, szpiegowanie, lub podsіuchiwanie.</text>
 	</string>
 	<string id="esc_shustryi_name">
-		<text>Шустрый</text>
+		<text>Їwawy</text>
 	</string>
 	<string id="esc_soldier_commander_bio">
-		<text>Майор, командует армейским постом у моста. Сотрудничает со сталкерами, беря мзду за проход через мост.</text>
+		<text>Major dowodz№cy placуwk№ przy moњcie. Znany jest z tego, їe za naleїyt№ opіat№ pozwala stalkerom przejњж na drug№ stronк.</text>
 	</string>
 	<string id="esc_soldier_commander_name">
-		<text>Майор Кузнецов</text>
+		<text>Major Kuzniecow</text>
 	</string>
 	<string id="esc_soldier_regular_bio">
-		<text>Рядовой солдат срочной службы ВС Украины. Детальная информация отсутствует.</text>
+		<text>Szeregowy w armii ukraiсskiej. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_specnaz_bio">
-		<text>Армейский спецназ. Хорошо экипирован. Детальная информация недоступна.</text>
+		<text>Specnaz. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_specnaz_killer_bio">
-		<text>Неизвестный наемник. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Dobrze uzbrojony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_stalker_novice_bio">
-		<text>Новичок. Недавно в Зоне. Детальная информация отсутствует.</text>
+		<text>Nowicjusz. Nowy w Zonie. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="esc_tolik_bio">
-		<text>Просто сталкер.</text>
+		<text>Zwykіy stalker.</text>
 	</string>
 	<string id="esc_tolik_name">
-		<text>Толик</text>
+		<text>Tolik</text>
 	</string>
 	<string id="esc_wolf_bio">
-		<text>Лидер лагеря новичков. Старый сталкер, собравшийся на покой.</text>
+		<text>Zarz№dza obozem nowicjuszy. Stary stalker, ktуry chce mieж њwiкty spokуj.</text>
 	</string>
 	<string id="esc_wolf_name">
-		<text>Волк</text>
+		<text>Wilk</text>
 	</string>
 	<string id="escape_trader_bio">
-		<text>Промышлял торговлей с малых лет. В детском садике продавал цветные карандаши. В школе торговал жевательной резинкой. В институте промышлял продажей легкой наркоты. С появлением Зоны смекнул, что на этом можно хорошо заработать. Славится тем, что способен наладить хорошие торговые отношения с самыми разношерстными клиентами.</text>
+		<text>Od dziecka utrzymuje siк z handlu. W przedszkolu sprzedawaі kolegom kredki. W liceum przerzuciі siк na gumк do їucia. W Instytucie Badawczym rozprowadzaі miкkkie narkotyki. Gdy tylko pojawiіa siк Zona, w mig zdaі sobie sprawк z moїliwoњci dochodu, jakie oferuje. Znany jest z tego, їe buduje trwaіe relacje handlowe z wszelkiej maњci klientel№.</text>
 	</string>
 	<string id="escape_trader_name">
-		<text>Сидорович</text>
+		<text>Sidorowicz</text>
 	</string>
 	<string id="gar_bandit_leader_bio">
-		<text>Пользуется определенным авторитетом у бандитов в Зоне. Подельник Борова.</text>
+		<text>Wњrуd bandytуw w Zonie cieszy siк pewnym autorytetem. Pomagier Dzika.</text>
 	</string>
 	<string id="gar_bandit_leader_name">
-		<text>Вася Кабан</text>
+		<text>Wasia Kaban</text>
 	</string>
 	<string id="gar_dolg_blokpost_bio">
-		<text>Сталкер группировки "Долг". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Powinnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_bio">
-		<text>Офицер группировки "Долг". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Powinnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="gar_dolg_blokpost_leader_name">
-		<text>Прапор</text>
+		<text>Prapor</text>
 	</string>
 	<string id="gar_dram_novice_bio">
-		<text>Новичок. Делает первые шаги в Зоне.</text>
+		<text>Nowicjusz. Stawia pierwsze kroki w Zonie.</text>
 	</string>
 	<string id="gar_dram_novice_name">
-		<text>Юрик</text>
+		<text>Jurik</text>
 	</string>
 	<string id="gar_hellcar_bio">
-		<text>Бежал в Зону, прячась от правоохранительных органов. В одиночку старается поддерживать порядок в Зоне, так, как он себе его представляет. Борец с беспределом. Жесток, но справедлив.</text>
+		<text>W Zonie ukrywa siк przed prawem. Na wіasn№ rкkк i na wіasnych warunkach stara siк utrzymaж porz№dek w Zonie. Walczy z bandytami. Okrutny, lecz sprawiedliwy.</text>
 	</string>
 	<string id="gar_hellcar_name">
-		<text>Бес</text>
+		<text>Bies</text>
 	</string>
 	<string id="gar_newbie_bio">
-		<text>Новичок. Недавно в Зоне. Детальная информация отсутствует.</text>
+		<text>Nowicjusz. Nowy w Zonie. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="gar_seryi_bio">
-		<text>Сталкер с грязным лицом и не менее грязной биографией.</text>
+		<text>Stalker z twarz№ rуwnie czyst№ jak sumieniem.</text>
 	</string>
 	<string id="gar_seryi_name">
-		<text>Серый</text>
+		<text>Sieryj</text>
 	</string>
 	<string id="gar_stalker_regular_bio">
-		<text>Опытный сталкер. Детальная информация отсутствует.</text>
+		<text>Doњwiadczony stalker. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_bio">
-		<text>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji "Powinnoњж". Zazwyczaj dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_bio">
-		<text>Командир отряда спецназа группировки "Долг". Обычно хорошо экипирован.</text>
+		<text>Dowуdca siі specjalnych frakcji "Powinnoњж". Zazwyczaj dobrze wyposaїony.</text>
 	</string>
 	<string id="mil_Dolg_specnaz_cherep_name">
-		<text>Череп</text>
+		<text>Czacha</text>
 	</string>
 	<string id="mil_Dolg_specnaz_silence_bio">
-		<text>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji "Powinnoњж". Zazwyczaj dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Killer_informator_bio">
-		<text>Известный на всю Зону информатор и осведомитель.</text>
+		<text>Kapuњ znany doskonale w caіej Zonie.</text>
 	</string>
 	<string id="mil_Killer_informator_name">
-		<text>Ара</text>
+		<text>Ara</text>
 	</string>
 	<string id="mil_killer_master_bio">
-		<text>Неизвестный наемник. Хорошо вооружен и очень опасен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Dobrze uzbrojony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_killer_sniper_bio">
-		<text>Неизвестный наемник. Судя по всему в Зоне недавно. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Wydaje siк byж nowy w Zonie. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Killer_specnaz_bio">
-		<text>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Prawdopodobnie dobrze uzbrojony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Monolit_master_bio">
-		<text>Хранитель группировки "Монолит". Лучше держаться от него подальше. Детальная информация отсутствует.</text>
+		<text>Straїnik z frakcji Monolit. Lepiej trzymaж siк z dala. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Monolit_regular_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Stalker_master_bio">
-		<text>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев. Обычно хорошо экипирован и очень опасен. Детальная информация отсутствует.</text>
+		<text>Jeden z weteranуw. Zna Zonк jak wіasn№ kieszeс. Zazwyczaj dobrze wyposaїony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Stalker_veteran_bio">
-		<text>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Stalker weteran. Prawdopodobnie dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_bio">
-		<text>Сталкер группировки "Свобода". Командир Барьера. Человек, сплотивший вокруг себя людей, готовых гибнуть за общее дело.</text>
+		<text>Stalker z frakcji "Wolnoњж". Dowуdca Bariery. Czіowiek, ktуry zebraі grupк osуb chкtnych poњwiкciж wіasne їycie w imiк wspуlnej sprawy.</text>
 	</string>
 	<string id="mil_Svoboda_blockpost_leader_name">
-		<text>Кеп</text>
+		<text>Czapa</text>
 	</string>
 	<string id="mil_Svoboda_bodyguard_bio">
-		<text>Охранник "Лукаша", лидера группировки "Свобода".</text>
+		<text>Ochroniarz pracuj№cy dla Јukasza, przywуdcy frakcji "Wolnoњж".</text>
 	</string>
 	<string id="mil_Svoboda_cook_bio">
-		<text>Повар группировки "Свобода". Пьяница и дебошир, но готовит отлично.</text>
+		<text>Kucharz frakcji "Wolnoњж". Moczymorda i zabijaka - ale gotuje wyњmienicie.</text>
 	</string>
 	<string id="mil_Svoboda_cook_name">
-		<text>Повар</text>
+		<text>Kucharz</text>
 	</string>
 	<string id="mil_Svoboda_engineer_bio">
-		<text>Известный в Зоне механик. Может из трактора собрать танк.</text>
+		<text>Mechanik znany w caіej Zonie. Z traktora potrafi zrobiж czoіg, a przynajmniej tak wieњж niesie.</text>
 	</string>
 	<string id="mil_Svoboda_engineer_name">
-		<text>Шуруп</text>
+		<text>Wkrкt</text>
 	</string>
 	<string id="mil_Svoboda_leader_bio">
-		<text>Лидер группировки "Свобода".</text>
+		<text>Przywуdca frakcji "Wolnoњж".</text>
 	</string>
 	<string id="mil_Svoboda_leader_name">
-		<text>Лукаш</text>
+		<text>Јukasz</text>
 	</string>
 	<string id="mil_Svoboda_master_bio">
-		<text>Мастер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Dowуdca frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_bio">
-		<text>Хранитель группировки "Свобода". Фанатично предан группировке. Отлично экипирован и очень опасен. Детальная информация отсутствует.</text>
+		<text>Straїnik z frakcji "Wolnoњж". Fanatyk. Њwietnie wyposaїony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_master_Max_name">
-		<text>Макс</text>
+		<text>Maks</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_bio">
-		<text>Хранитель группировки "Свобода". Отлично экипирован и очень опасен. Детальная информация отсутствует.</text>
+		<text>Straїnik z frakcji "Wolnoњж". Њwietnie wyposaїony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_master_Ugrumiy_name">
-		<text>Угрюмый</text>
+		<text>Mruk</text>
 	</string>
 	<string id="mil_Svoboda_regular_bio">
-		<text>Сталкер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_sniper_bio">
-		<text>Снайпер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Snajper z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_specnaz_bio">
-		<text>Боевик группировки "Свобода". Обычно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji "Wolnoњж". Zazwyczaj dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_stukach_bio">
-		<text>Сталкер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_stukach_name">
-		<text>Павлик</text>
+		<text>Pawlik</text>
 	</string>
 	<string id="mil_Svoboda_trader_bio">
-		<text>Известен своей жадностью и неуступчивостью, но говорят у него можно достать все что угодно.</text>
+		<text>Znany jest ze swej chciwoњci, ale mуwi siк, їe wszystko potrafi skombinowaж.</text>
 	</string>
 	<string id="mil_Svoboda_trader_name">
-		<text>Скряга</text>
+		<text>Kutwa</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_bio">
-		<text>Сталкер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="mil_Svoboda_zombi_stalker_name">
-		<text>Сумасшедший cталкер группировки "Свобода"</text>
+		<text>Szalony stalker</text>
 	</string>
 	<string id="mil_Svoboda_zoneguard_bio">
-		<text>Боевик группировки "Свобода". Обычно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji "Wolnoњж". Zazwyczaj dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_followers_bomber_name">
-		<text>Саша Белый</text>
+		<text>Sasza Bieіy</text>
 	</string>
 	<string id="pri_followers_common_bio">
-		<text>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Stalker weteran. Prawdopodobnie dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_monolith_common_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_monolith_exo_bio">
-		<text>Элитный сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Elitarny stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_monolith_leader_bio">
-		<text>Лидер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Przywуdca frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_monolith_leader_name">
-		<text>Харон</text>
+		<text>Charon</text>
 	</string>
 	<string id="pri_monolith_regular_bio">
-		<text>Рядовой сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_monolith_specnaz_bio">
-		<text>Сталкер спецназа группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z siі specjalnych frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_zombied_soldier_bio">
-		<text>Рядовой солдат. Детальная информация отсутствует.</text>
+		<text>Їoіnierz zawodowy. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="pri_zombied_soldier_name">
-		<text>Зомбированный</text>
+		<text>Zzombifikowany</text>
 	</string>
 	<string id="pri_zombied_stalker_bio">
-		<text>Один из сталкеров, которым не повезло.</text>
+		<text>Jeden ze stalkerуw, od ktуrych szczкњcie siк odwrуciіo.</text>
 	</string>
 	<string id="pri_zombied_stalker_name">
-		<text>Зомбированный</text>
+		<text>Zzombifikowany</text>
 	</string>
 	<string id="rad_dolg_master_bio">
-		<text>Мастер группировки "Долг". Очень хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Mistrz z frakcji "Powinnoњж". Њwietnie wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_ecolog_bio">
-		<text>Учёный. Детальная информация отсутствует.</text>
+		<text>Naukowiec. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_ecolog_guard_bio">
-		<text>Охрана учёных. Детальная информация отсутствует.</text>
+		<text>Ochrona naukowcуw. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_ecolog_guard_name">
-		<text>Ассистент</text>
+		<text>Asystent</text>
 	</string>
 	<string id="rad_ecolog_name">
-		<text>Ассистент</text>
+		<text>Asystent</text>
 	</string>
 	<string id="rad_monolith_general_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_monolith_specnaz_bio">
-		<text>Боевик группировки "Монолит". Хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji Monolit. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_specnaz_bio">
-		<text>Армейский спецназ. Хорошо экипирован. Детальная информация недоступна.</text>
+		<text>Specnaz. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_stalker_master_bio">
-		<text>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев. Обычно хорошо экипирован и очень опасен. Детальная информация отсутствует.</text>
+		<text>Jeden z weteranуw. Zna Zonк jak wіasn№ kieszeс. Zazwyczaj dobrze wyposaїony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_stalker_veteran_bio">
-		<text>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Stalker weteran. Prawdopodobnie dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_svoboda_master_bio">
-		<text>Мастер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Mistrz z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="rad_zombied_general_bio">
-		<text>Один из сталкеров, которым не повезло.</text>
+		<text>Jeden ze stalkerуw, od ktуrych szczкњcie siк odwrуciіo.</text>
 	</string>
 	<string id="ros_ecolog_guard_bio">
-		<text>Сотрудник мобильной научной лаборатории. Детальная информация отсутствует.</text>
+		<text>Pracownik naukowy z laboratorium polowego. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="ros_freeman_bio">
-		<text>Ученый, эксперт по аномальным явлениям. Работал в Америке над секретными проектами. С недавнего времени считался пропавшим без вести.</text>
+		<text>Naukowiec, ekspert w dziedzinie anomalii. W USA pracowaі przy њciњle tajnych projektach. Zagin№і jakiњ czas temu.</text>
 	</string>
 	<string id="ros_freeman_name">
-		<text>Фримен</text>
+		<text>Freeman</text>
 	</string>
 	<string id="ros_happy_bio">
-		<text>Мародер и убийца. За его голову неоднократно объявляли награду. Когда-то был в хороших отношениях с Долгом, помог им отбить нынешнюю территорию. Теперь обитает на дикой территории и грабит со своей бандой одиноких сталкеров.</text>
+		<text>Szabrownik i morderca. Za jego gіowк wyznaczono nagrodк. Dawniej w dobrych stosunkach z frakcj№ "Powinnoњж", ktуrej pomуgі zdobyж terytorium. Teraz zamieszkuje w Dziczy i wraz ze sw№ band№ napada na samotnych stalkerуw.</text>
 	</string>
 	<string id="ros_happy_name">
-		<text>Счастливчик</text>
+		<text>Farciarz</text>
 	</string>
 	<string id="ros_kruglov_bio">
-		<text>Доктор биологических наук. За пределами Зоны занимался патогенными мутациями у животных. В Зону отправился для изучения мутаций слепых псов.</text>
+		<text>Doktor biologii. Niegdyњ zajmowaі siк badaniem patogenetycznych mutacji u zwierz№t. Przybyі do Zony, aby zaj№ж siк badaniami mutacji њlepych psуw.</text>
 	</string>
 	<string id="ros_kruglov_name">
-		<text>Проф. Круглов</text>
+		<text>Profesor Krugіow</text>
 	</string>
 	<string id="ros_tiran_bio">
-		<text>Один из «героев» группировки Наемников. Простреленный всеми калибрами ветеран. Редкий псих и садист.</text>
+		<text>Jeden z "bohaterуw" w bandzie najemnikуw. Weteran z ciaіem podziurawionym kulami wszelkich moїliwych kalibrуw. Rzadki okaz psychopaty i sadysty.</text>
 	</string>
 	<string id="ros_tiran_name">
-		<text>Тиран</text>
+		<text>Tyran</text>
 	</string>
 	<string id="ros_volkodav_bio">
-		<text>Один из полевых командиров "Наемников". Командир отряда боевиков, которые именуют себя "псами". Анархист, презирает любые законы, кроме законов силы.</text>
+		<text>Jeden z pierwszych dowуdcуw najemnikуw. Przywуdca gangu zw№cego siк "Kundlami". Anarchista, ktуry gardzi kaїdym prawem oprуcz prawa dїungli.</text>
 	</string>
 	<string id="ros_volkodav_name">
-		<text>Волкодав</text>
+		<text>Wilczarz</text>
 	</string>
 	<string id="sar_monolith_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sar_monolith_cristall_bio">
-		<text>Сталкер спецподразделения Монолита - "Кристалл", отвечающего за сохранность самого Монолита.</text>
+		<text>Stalker z frakcji Monolit, z grupy specjalnej o nazwie "Krysztaі", odpowiedzialnej za bezpieczeсstwo samego Monolitu.</text>
 	</string>
 	<string id="sar2_arena_manager_name">
-		<text>Арни</text>
+		<text>Arni</text>
 	</string>
 	<string id="sar2_arena_savage_name">
-		<text>Зверь</text>
+		<text>Zwierz</text>
 	</string>
 	<string id="sar2_bandit_leader_name">
-		<text>Вася "Кабан"</text>
+		<text>Wasia "Kaban"</text>
 	</string>
 	<string id="sar2_bio">
-		<text>Психоматериальный образ, созданный "Монолитом".</text>
+		<text>Psychomaterialna forma stworzona przez Monolit.</text>
 	</string>
 	<string id="sar2_borov_name">
-		<text>Боров</text>
+		<text>Dzik</text>
 	</string>
 	<string id="sar2_crazy_svoboda_name">
-		<text>Сумасшедший</text>
+		<text>Obі№kany stalker</text>
 	</string>
 	<string id="sar2_dolg_blokpost_leader_name">
-		<text>Прапор</text>
+		<text>Prapor</text>
 	</string>
 	<string id="sar2_dolg_guard_commander_name">
-		<text>Начальник Охраны</text>
+		<text>Szef ochrony</text>
 	</string>
 	<string id="sar2_dolg_skull_name">
-		<text>"Череп"</text>
+		<text>"Czacha"</text>
 	</string>
 	<string id="sar2_dolg_zastava_commander_name">
-		<text>Командир заставы</text>
+		<text>Dowуdca placуwki</text>
 	</string>
 	<string id="sar2_dram_novice_name">
-		<text>Юрик</text>
+		<text>Jurik</text>
 	</string>
 	<string id="sar2_explorer_name">
-		<text>Жека "Дуплет"</text>
+		<text>Їeka "Dublet"</text>
 	</string>
 	<string id="sar2_fanat_name">
-		<text>"Фанат"</text>
+		<text>"Fanat"</text>
 	</string>
 	<string id="sar2_fox_name">
-		<text>"Лис"</text>
+		<text>"Lis"</text>
 	</string>
 	<string id="sar2_gordon_name">
-		<text>Гордон</text>
+		<text>Gordon</text>
 	</string>
 	<string id="sar2_haron_name">
-		<text>Харон</text>
+		<text>Charon</text>
 	</string>
 	<string id="sar2_hellcar_name">
-		<text>"Бес"</text>
+		<text>"Bies"</text>
 	</string>
 	<string id="sar2_informator_name">
-		<text>Ара</text>
+		<text>Ara</text>
 	</string>
 	<string id="sar2_ivancov_name">
-		<text>Капитан Иванцов</text>
+		<text>Kapitan Iwancow</text>
 	</string>
 	<string id="sar2_krot_name">
-		<text>Сталкер "Крот"</text>
+		<text>Stalker "Kret"</text>
 	</string>
 	<string id="sar2_kruglov_name">
-		<text>Проф. Круглов</text>
+		<text>Profesor Krugіow</text>
 	</string>
 	<string id="sar2_kuznetsov_name">
-		<text>Майор Кузнецов</text>
+		<text>Major Kuzniecow</text>
 	</string>
 	<string id="sar2_lucky_name">
-		<text>Счастливчик</text>
+		<text>Farciarz</text>
 	</string>
 	<string id="sar2_petrenko_name">
-		<text>Петренко</text>
+		<text>Pietrienko</text>
 	</string>
 	<string id="sar2_petruha_name">
-		<text>Жорик</text>
+		<text>Їorik</text>
 	</string>
 	<string id="sar2_professor_name">
-		<text>Проф. Сахаров</text>
+		<text>Profesor Sacharow</text>
 	</string>
 	<string id="sar2_ryaboy_name">
-		<text>Рябой</text>
+		<text>Krosta</text>
 	</string>
 	<string id="sar2_seryi_name">
-		<text>"Серый"</text>
+		<text>"Sieryj"</text>
 	</string>
 	<string id="sar2_svoboda_blockpost_leader_name">
-		<text>"Кеп"</text>
+		<text>"Czapa"</text>
 	</string>
 	<string id="sar2_svoboda_bodyguard_name">
-		<text>"Капец"</text>
+		<text>"Kaput"</text>
 	</string>
 	<string id="sar2_svoboda_cook_name">
-		<text>"Повар"</text>
+		<text>"Kucharz"</text>
 	</string>
 	<string id="sar2_svoboda_engeneer_name">
-		<text>Шуруп</text>
+		<text>Wkrкt</text>
 	</string>
 	<string id="sar2_svoboda_leader_name">
-		<text>"Лукаш"</text>
+		<text>"Јukasz"</text>
 	</string>
 	<string id="sar2_svoboda_max_name">
-		<text>"Макс"</text>
+		<text>"Maks"</text>
 	</string>
 	<string id="sar2_svoboda_stukach_name">
-		<text>Павлик</text>
+		<text>Pawlik</text>
 	</string>
 	<string id="sar2_svoboda_trader_name">
-		<text>"Скряга"</text>
+		<text>"Kutwa"</text>
 	</string>
 	<string id="sar2_svoboda_ugrumyi_name">
-		<text>"Угрюмый"</text>
+		<text>"Mruk"</text>
 	</string>
 	<string id="sar2_tiran_name">
-		<text>Тиран</text>
+		<text>Tyran</text>
 	</string>
 	<string id="sar2_tolik_name">
-		<text>Толик</text>
+		<text>Tolik</text>
 	</string>
 	<string id="sar2_volkodav_name">
-		<text>Волкодав</text>
+		<text>Wilczarz</text>
 	</string>
 	<string id="sar2_voronin_name">
-		<text>Генерал Воронин</text>
+		<text>Generaі Woronin</text>
 	</string>
 	<string id="sar2_wolf_name">
-		<text>"Волк"</text>
+		<text>"Wilk"</text>
 	</string>
 	<string id="sim_bandit_general_bio">
-		<text>Неизвестный сталкер. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Nieznany stalker. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_bandit_master_bio">
-		<text>Неизвестный сталкер. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Nieznany stalker. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_bandit_master_fraer_bio">
-		<text>Пришел в Зону в поисках приключений. Косит под героев комиксов 60х. Его называют по-разному: Бэтмэном, Мачо, Черным плащом, Бандеросом и, хотя тот факт, что в Зоне он уже два года и до сих пор жив, говорит о многом, но всерьез его до сих пор не воспринимают, что его сильно задевает.</text>
+		<text>Przybyі do Zony w poszukiwaniu przygуd. Naњladuje bohaterуw popularnych komiksуw z lat szeњжdziesi№tych. Uїywa rуїnych ksywek: Badman, Macho, Czarna Opoсcza, Banderos. Pomimo tego, їe w Zonie przeїyі juї caіe dwa lata, nikt nie traktuje go powaїnie, co nieustannie doprowadza go do szaіu.</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_bio">
-		<text>Свиреп, зол, груб, эгоистичен, жесток, бесчувственен, холоден. Никто не знает, когда и как он попал в Зону. Его боятся и недолюбливают. В Зоне просто живёт, у него нет ни будущего, ни прошлого. После одной из своих многочисленных вылазок в Зону потерял память и очень многое забыл. Не помнит, откуда он, не помнит своё настоящее имя, часты провалы в памяти. Например, может забыть нового знакомого через час после знакомства, и, восприняв его как врага, убить.</text>
+		<text>Dziki, podіy, chamski, samolubny, brutalny i nieczuіy. Nikt tak naprawdк nie wie, kiedy przybyі do Zony. Wszyscy siк go obawiaj№, nie ma wiкc їadnych przyjaciуі. Zwyczajnie їyje sobie w Zonie bez przyszіoњci i bez przeszіoњci. Po jednym ze swych licznych wypadуw w gі№b strefy utraciі pamiкж niemal kompletnie. Zapomniaі, sk№d pochodzi i jak siк nazywa. Cierpi na czкste zaniki pamiкci - kiedyњ w ci№gu godziny zapomniaі nowo poznan№ osobк, wzi№і j№ za wroga, a nastкpnie zabiі.</text>
 	</string>
 	<string id="sim_bandit_novice_bio">
-		<text>Неизвестный сталкер. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Nieznany stalker. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_bandit_veteran_bio">
-		<text>Неизвестный сталкер. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Nieznany stalker. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_dolg_master_bio">
-		<text>Хранитель группировки "Долг". Если вы не их друг, вам лучше их избегать. Детальная информация недоступна.</text>
+		<text>Straїnik z frakcji "Powinnoњж". Jeњli nie jesteњ ich przyjacielem, lepiej trzymaj siк z dala. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_dolg_regular_bio">
-		<text>Сталкер группировки "Долг". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Powinnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_dolg_sniper_bio">
-		<text>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji "Powinnoњж". Zazwyczaj dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_bio">
-		<text>Хам, подхалим, лицемер, трус. Жизненным кредо Барина можно было бы назвать фразу после нас - хоть потоп. Из всего старается извлечь выгоду. При всём при этом очень честолюбив и обидчив. В Зону приехал, как бы это банально не звучало, за деньгами. И вот уже второй год в Зоне занимается добычей материальных ценностей любыми способами.</text>
+		<text>Јajdak, wazeliniarz, hipokryta i na dodatek tchуrz. Motto Barina mogіoby rуwnie dobrze brzmieж: "Po nas choжby potop". Wykorzysta kaїd№ nadarzaj№c№ siк okazjк. Chorobliwie ambitny i draїliwy. Do Zony przybyі - co nie dziwi - dla pieniкdzy. Juї od dwуch lat gromadzi maj№tek wszelkimi dostкpnymi sposobami.</text>
 	</string>
 	<string id="sim_dolg_veteran_bio">
-		<text>Боевик группировки "Долг". Обычно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji "Powinnoњж". Zazwyczaj dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_dolg_veteran_prapor_bio">
-		<text>Это официальный вербовщик СБУ. Часто сидит в баре. Об этом знают все, а также о том, что если становится слишком туго, то стоит идти к нему. Правда после этого шага путь обратно, к честным сталкерам, будет закрыт.</text>
+		<text>Oficjalny werbownik ukraiсskiej sіuїby bezpieczeсstwa. Czкsty goњж w barze. Wszyscy go znaj№ i wszyscy wiedz№, їe gdy bieda przyciњnie, moїna zwrуciж siк wіaњnie do niego. Jednak gdy juї raz siк tк liniк przekroczy, nie ma powrotu w szeregi uczciwych stalkerуw.</text>
 	</string>
 	<string id="sim_ecolog_zob_bio">
-		<text>В повседневной жизни флегматик, не выражает свои эмоции, спокоен. Однако при сильных впечатлениях вспыльчив, агрессивен. Интеллигент. Материалист, ужасно жалеет о том, что попал в Зону. После окончания медицинского института был направлен в Зону, где лагерю учёных требовался ассистент нейрохирурга. Препарирует мозг мутантов и исследует их психокинетические способности. Ждёт пенсии и возможности жить в столице подальше от этого гиблого места.</text>
+		<text>W їyciu codziennym to flegmatyk, ktуry nie zdradza siк ze swymi emocjami i zawsze zachowuje spokуj. Pod wpіywem stresu jednak staje siк agresywny i porywczy. Mуzgowiec. Materialista, ktуry їaіuje, їe w ogуle przybyі do Zony. Po ukoсczeniu akademii medycznej zostaі wysіany do Zony, poniewaї w obozie naukowcуw potrzebny asystent neurochirurga. Przeprowadza sekcje mуzgуw mutantуw i bada ich wіaњciwoњci psychokinetyczne. Nie moїe siк juї doczekaж emerytury, kiedy to wrуci do stolicy - jak najdalej od tego parszywego miejsca.</text>
 	</string>
 	<string id="sim_fresh_Zombied_bio">
-		<text>Один из сталкеров, которым не повезло.</text>
+		<text>Jeden ze stalkerуw, od ktуrych szczкњcie siк odwrуciіo.</text>
 	</string>
 	<string id="sim_killer_general_bio">
-		<text>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Prawdopodobnie dobrze uzbrojony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_killer_master_bio">
-		<text>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Prawdopodobnie dobrze uzbrojony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_killer_sniper_bio">
-		<text>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Prawdopodobnie dobrze uzbrojony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_killer_veteran_bio">
-		<text>Неизвестный наемник. Возможно хорошо вооружен. Детальная информация отсутствует.</text>
+		<text>Nieznany najemnik. Prawdopodobnie dobrze uzbrojony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_monolith_master_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_monolith_regular_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_monolith_sniper_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_monolith_specnaz_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_soldier_commander_bio">
-		<text>Детальная информация отсутствует.</text>
+		<text>Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_Soldier_master_bio">
-		<text>Военный сталкер. Хорошо вооружен и очень опасен. Детальная информация недоступна.</text>
+		<text>Wojskowy stalker. Dobrze uzbrojony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_soldier_regular_bio">
-		<text>Рядовой солдат. Детальная информация отсутствует.</text>
+		<text>Їoіnierz zawodowy. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_soldier_sniper_bio">
-		<text>Детальная информация отсутствует.</text>
+		<text>Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_soldier_specnaz_bio">
-		<text>Армейский спецназ. Хорошо экипирован. Детальная информация недоступна.</text>
+		<text>Specnaz. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_stalker_general_bio">
-		<text>Опытный сталкер. Детальная информация отсутствует.</text>
+		<text>Doњwiadczony stalker. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_stalker_general_upir_bio">
-		<text>Невероятно везучий сталкер. Много раз его группа оказывалась на волосок от смерти, и всегда он был единственным, кому удавалось спастись. У сталкеров пользуется дурной славой "несчастливого талисмана". С некоторых пор ходит в одиночку.</text>
+		<text>Stalker urodzony pod szczкњliw№ gwiazd№. Juї niejeden raz wespуі z towarzyszami wpadaі w tarapaty, lecz zawsze jako jedyny uchodziі z їyciem. Wiкkszoњж stalkerуw trzyma siк od niego z daleka, gdyї twierdz№, їe przynosi pecha. Juї od dіuїszego czasu samotnie przemierza Zonк.</text>
 	</string>
 	<string id="sim_stalker_master_bio">
-		<text>Один из ветеранов Зоны. Этот сталкер знает Зону как своих пять пальцев. Обычно хорошо экипирован и очень опасен. Детальная информация отсутствует.</text>
+		<text>Jeden z weteranуw. Zna Zonк jak wіasn№ kieszeс. Zazwyczaj dobrze wyposaїony i bardzo groџny. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_bio">
-		<text>Контрабандист со стажем. Долгое время промышлял в Африке и Южной Америке. Облетевшие весь мир истории о чернобыльских мутантах привели его на Украину. За короткий промежуток времени сумел вывезти из запретной зоны несколько сотен чучел мутантов, за что получил прозвище "Чучело". В промежутках между "работой" в Зоне - преуспевающий торговец. Любит костюмы от Армани и галстуки от Версаче, но стволы предпочитает советские.</text>
+		<text>Doњwiadczony przemytnik. Przez dіugi czas handlowaі towarem w Afryce i Ameryce Poіudniowej. Wieњci o katastrofie w Czarnobylu zwabiіy go na Ukrainк. W krуtkim okresie zdoіaі przeszmuglowaж setki wypchanych mutantуw z obszaru zastrzeїonego, dziкki czemu zyskaі przydomek "Wypychacz". Kiedy nie "pracuje" w Zonie, pomnaїa maj№tek jako handlarz. Uwielbia eleganckie garnitury i szykowne krawaty - woli jednak radzieckie karabiny.</text>
 	</string>
 	<string id="sim_stalker_master_diador_bio">
-		<text>Бывший афганец. Во время одной из засад моджахедов резко уверовал в Бога. После Афгана иммигрирует в Польшу, где поступает в духовную семинарию. После окончания семинарии некоторое время проповедует в Львовской католической церкви. После взрыва на ЧАЭС записывается добровольцем помогать пострадавшим. Последние несколько лет проповедует на территории Зоны.</text>
+		<text>Braі udziaі w wojnie w Afganistanie. Dawniej byі ateist№, lecz gdy przetrwaі zasadzkк mudїahedinуw, nagle wst№piі na drogк wiary. Po wojnie wyemigrowaі do Polski, gdzie wst№piі do seminarium duchownego. Gdy je ukoсczyі, przez jakiњ czas gіosiі Sіowo Boїe w koњciele katolickim we Lwowie. Po wybuchu w Czarnobylskiej Elektrowni J№drowej zgіosiі siк do pomocy ofiarom. Od kilku lat gіosi kazania w Zonie.</text>
 	</string>
 	<string id="sim_stalker_master_master_bio">
-		<text>В прошлом слесарь с завода "ХолодМаш". После того, как от него ушла жена, решил покончить жизнь самоубийством, а так как человек он был религиозный, то выбрал в качестве оригинального способа самоубийства Зону. Но выжил, пообтерся за пару лет и среди сталкеров завоевал определенный авторитет, благодаря своим профессиональным навыкам. На данный момент Мастер - самый компетентный слесарь в Зоне, ремонт оборудования и техники, обустройство систем защиты бункеров группировок и т.д. и т.п. - его епархия. Вхож в любые двери, влиятелен, прост, но грубоват в общении.</text>
+		<text>Niegdyњ mechanik w fabryce "ChoіodMasz". Po tym jak їona go opuњciіa, postanowiі odebraж sobie їycie, jednak bкd№c osob№ gікboko wierz№c№, wybraі pobyt w Zonie jako niekonwencjonaln№ metodк samobуjstwa. Wbrew swym oczekiwaniom przetrwaі, zdobyі bezcenne doњwiadczenie, a takїe szacunek innych stalkerуw dziкki swej fachowoњci. Majster to prawdopodobnie najlepiej wykwalifikowany mechanik w Zonie. Naprawa sprzкtu i pojazdуw, instalacja systemуw bezpieczeсstwa w bunkrach - to jego specjalnoњж. Wszкdzie jest mile widziany. Prosty, powaїny czіowiek, czasem moїe nieco szorstki.</text>
 	</string>
 	<string id="sim_stalker_master_polkan_bio">
-		<text>Бывший военный сталкер, подполковник внутренних войск. После одной из операций в глубине Зоны остался один из всего отряда, но зато нашел доказательства того, что их просто-напросто всех подставили, послали на убой. После чего решил обратно не возвращаться, подстроил собственную смерть и ушел к сталкерам, разбираться с проблемой Зоны нелегально. Молчалив, циничен, целеустремлен.</text>
+		<text>Niegdyњ wojskowy stalker, podpuіkownik w oddziaіach Ministerstwa Spraw Wewnкtrznych. Jako jedyny їoіnierz powrуciі z tragicznej w skutkach operacji w gікbi Zony, po ktуrej okazaіo siк, їe od pocz№tku byіa to misja bezcelowa i wrкcz samobуjcza. Wtedy wіaњnie podj№і decyzjк, їe nie wraca, upozorowaі wіasn№ њmierж i doі№czyі do stalkerуw. Maіomуwny, cyniczny, stanowczy. </text>
 	</string>
 	<string id="sim_stalker_novice_bio">
-		<text>Новичок. Недавно в Зоне. Детальная информация отсутствует.</text>
+		<text>Nowicjusz. Nowy w Zonie. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_bio">
-		<text>Неумехе 20 лет. На большой земле ничего и никого у него не осталось, и он решил приехать сюда. Уезжать из Зоны ему попросту некуда. В Зоне просто сводит концы с концами. Очень многим сталкерам должен некоторые суммы денег. В Зону ходит очень часто, но никогда один, чаще примазывается к группам сталкеров. Но мало кто соглашается брать его, ведь он лишь лишняя обуза. Хабар собирает очень редко. Живет на подачки от других сталкеров и поэтому весь в долгах.</text>
+		<text>Fujara ma dwadzieњcia lat. Na Wielkiej Ziemi utraciі wszystko i wszystkich, wiкc postanowiі przybyж do Zony. Ledwie wi№їe tu koniec z koсcem, ale zwyczajnie nie ma gdzie siк podziaж. Wielu stalkerom dіuїny jest pieni№dze. Czкsto bywa w Zonie, lecz nigdy samotnie - zawsze stara siк doі№czyж do grupy doњwiadczonych stalkerуw. Nie jest mile widzianym towarzyszem, gdyї zazwyczaj nie ma z niego najmniejszego poїytku. Praktycznie nie zarabia. Їyje z tego, co poїyczy od innych stalkerуw; tonie w dіugach.</text>
 	</string>
 	<string id="sim_stalker_sniper_bio">
-		<text>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Stalker weteran. Prawdopodobnie dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_stalker_veteran_bio">
-		<text>Сталкер ветеран. Возможно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Stalker weteran. Prawdopodobnie dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_bio">
-		<text>Олег "Демон" Гусаров. Бывший "черный берет", проходил службу в Белоцерковской бригаде Спецназа. Сверхсрочник, старший сержант, по специальности снайпер и подрывник. По состоянию души - "волк-одиночка". В Зону никогда не берет с собой напарников, предпочитая действовать один. Неоднократно ему предлагали вступить в кланы - всегда отказывался наотрез именно по этой причине.</text>
+		<text>Oleg "Demon" Gusarow. Dawny "czarny beret", sіuїyі w Specnazie w brygadzie Bieіocerkowskoj. Byі na wielu misjach, awansowaі na starszego sierїanta sztabowego. Strzelec wyborowy oraz saper. Z natury samotnik, nigdy nie wyrusza do Zony w grupie. Z tej przyczyny zawsze odrzucaі propozycjк doі№czenia do ktуregoњ z ugrupowaс, choж wiele razy miaі tak№ moїliwoњж.</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_bio">
-		<text>Студент с физфака, ушел с пятого курса института в Зону за заработком. Любитель повыпендриваться своими "научными" знаниями и рассуждать на отвлеченные философские темы. За этот выпендреж его сталкеры и недолюбливают. Но в целом парень неплохой. Все еще верит в высокие идеалы.</text>
+		<text>Student wydziaіu fizyki, ktуry rzuciі studia na ostatnim roku i wyruszyі do Zony w nadziei, їe іatwo siк dorobi. Lubi popisywaж siк sw№ wiedz№ "naukow№" i prowadziж abstrakcyjne, filozoficzne dysputy. To wystarczy, їeby nie cieszyж siк sympati№ innych stalkerуw. Ogуlnie rzecz bior№c - porz№dny facet. Swego rodzaju idealista.</text>
 	</string>
 	<string id="sim_stalker_veteran_vorobey_bio">
-		<text>Воробью 27 лет. Хитёр, дальновиден, но иногда совершает грубейшие ошибки. Временами подл. В целом, оставляет о себе двойственное впечатление. Худ и бледен. В Зону пришёл из любопытства и сам себе дал обещание - два месяца в Зоне - и домой. Но так здесь и остался. В первой своей вылазке в Зону умудрился пройти без приборов по полю, сплошь усыпанному аномалиями, не зная о них. Когда ему сообщили об этом, он долго не мог прийти в себя. С тех пор отмечает тот день (9 октября), как свой второй день рождения.</text>
+		<text>Wrуbel ma dwadzieњcia siedem lat, jest przebiegіy i zapobiegliwy, lecz przytrafiaj№ mu siк rуwnieї najgorsze wpadki. Bywa zachіanny. W sumie doњж podejrzany typ. Wychudіy i blady. Do Zony przybyі z ciekawoњci, obiecuj№c sobie, їe po dwуch miesi№cach wrуci do domu. Nie wrуciі. W trakcie swego pierwszego wypadu do Zony Wrуbel zdoіaі przejњж pole najeїone anomaliami bez їadnego ekwipunku i bez najmniejszego pojкcia o niebezpieczeсstwie, ktуre mu groziіo. Gdy tylko dowiedziaі siк o tym, czego dokonaі, zemdlaі. Od tamtej pory obchodzi w tк pamiкtn№ datк (9 paџdziernika) swe drugie urodziny.</text>
 	</string>
 	<string id="sim_Svoboda_master_bio">
-		<text>Мастер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Mistrz z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_Svoboda_regular_bio">
-		<text>Сталкер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_Svoboda_sniper_bio">
-		<text>Сталкер группировки "Свобода". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Wolnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_bio">
-		<text>Боевик группировки "Свобода". Обычно хорошо экипирован. Детальная информация отсутствует.</text>
+		<text>Bojownik z frakcji "Wolnoњж". Zazwyczaj dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_leshii_bio">
-		<text>Леший, так его прозвал брат, пришел в зону юным идеалистом. Но несколько лет жизни на волосок от смерти сделали его циничным реалистом. Считает зону своим домом, а тех, кто не прошел испытание зоной - недостойными жить на Земле.</text>
+		<text>Leszy, jak woіa na niego brat, przybyі do Zony jako mіody idealista, lecz po kilku latach їycia o wіos od њmierci zmieniі siк w cynicznego realistк. Uwaїa Zonк za swуj dom, a ci, ktуrzy zawiedli, s№ dlaс niegodni, їeby st№paж po powierzchni ziemi.</text>
 	</string>
 	<string id="sim_svoboda_specnaz_prut_bio">
-		<text>Пишет о Зоне очерки и рассказы под псевдонимом Аркадий. В прошлом журналист, дотошный, жесткий, но справедливый. Пользуется определенным уважением среди сталкеров.</text>
+		<text>Pisze szkice oraz opowiadania o Zonie pod imieniem Arkadij. Byіy dziennikarz. Drobiazgowy i surowy, ale sprawiedliwy. Powszechnie szanowany przez stalkerуw.</text>
 	</string>
 	<string id="sim_zombied_master_bio">
-		<text>Один из сталкеров, которым не повезло.</text>
+		<text>Jeden ze stalkerуw, od ktуrych szczкњcie siк odwrуciіo.</text>
 	</string>
 	<string id="sim_zombied_novice_bio">
-		<text>Один из сталкеров, которым не повезло.</text>
+		<text>Jeden ze stalkerуw, od ktуrych szczкњcie siк odwrуciіo.</text>
 	</string>
 	<string id="sim_zombied_veteran_bio">
-		<text>Один из сталкеров, которым не повезло.</text>
+		<text>Jeden ze stalkerуw, od ktуrych szczкњcie siк odwrуciіo.</text>
 	</string>
 	<string id="val_bandit_bodyguard_bio">
-		<text>Бандит охранник. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Straїnik bandytуw. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_bandit_general_bio">
-		<text>Рядовой бандит. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Bandyta. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_bandit_novice_bio">
-		<text>Бандит новичок. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Bandyta nowicjusz. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_bandit_veteran_bio">
-		<text>Опытный бандит. Сомнительная репутация. Детальная информация отсутствует.</text>
+		<text>Doњwiadczony bandyta. Podejrzana reputacja. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_borov_bio">
-		<text>Лидер бандитов.</text>
+		<text>Lider bandytуw.</text>
 	</string>
 	<string id="val_borov_name">
-		<text>Боров</text>
+		<text>Dzik</text>
 	</string>
 	<string id="val_dolg_common_bio">
-		<text>Сталкер группировки "Долг". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Powinnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_monolith_common_bio">
-		<text>Сталкер группировки "Монолит". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji Monolit. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_prisoner_bio">
-		<text>Сталкер группировки "Долг". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Powinnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_prisoner_name">
-		<text>Сергей Лохматый</text>
+		<text>Kudіaty Siergiej</text>
 	</string>
 	<string id="val_pulia_bio">
-		<text>Сталкер группировки "Долг". Детальная информация отсутствует.</text>
+		<text>Stalker z frakcji "Powinnoњж". Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_pulia_name">
-		<text>Пуля</text>
+		<text>Nabуj</text>
 	</string>
 	<string id="val_soldier_regular_bio">
-		<text>Рядовой солдат. Детальная информация отсутствует.</text>
+		<text>Їoіnierz zawodowy. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_soldier_specnaz_bio">
-		<text>Армейский спецназ. Хорошо экипирован. Детальная информация недоступна.</text>
+		<text>Specnaz. Dobrze wyposaїony. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_stalker_general_bio">
-		<text>Опытный сталкер. Детальная информация отсутствует.</text>
+		<text>Doњwiadczony stalker. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="val_stalker_novice_bio">
-		<text>Новичок. Недавно в Зоне. Детальная информация отсутствует.</text>
+		<text>Nowicjusz. Nowy w Zonie. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="yan_ghost_name">
-		<text>Призрак</text>
+		<text>Duch</text>
 	</string>
 	<string id="yan_saharov_bio">
-		<text>Ветеран исследований Зоны. Участвовал в первых экспедициях 2007 года.</text>
+		<text>Weteran wњrуd badaczy Zony. Uczestniczyі w pierwszych ekspedycjach w 2007.</text>
 	</string>
 	<string id="yan_saharov_name">
-		<text>Сахаров</text>
+		<text>Profesor Sacharow</text>
 	</string>
 	<string id="yan_semenov_bio">
-		<text>Научный сотрудник мобильной лаборатории. Детальная информация отсутствует.</text>
+		<text>Asystent naukowo-badawczy w laboratorium polowym. Brak szczegуіowych danych.</text>
 	</string>
 	<string id="yan_semenov_name">
-		<text>Семенов</text>
+		<text>Siemienow</text>
 	</string>
 	<string id="yan_vasilyev_name">
-		<text>Васильев</text>
+		<text>Wasiliew</text>
 	</string>
 	<string id="zombie_name">
-		<text>Зомбированный</text>
+		<text>Zzombifikowany</text>
 	</string>
 	<string id="actor_name">
-		<text>Меченый</text>
+		<text>Naznaczony</text>
 	</string>
 	<string id="sim_bandit_master_fraer_name">
-		<text>Фраер</text>
+		<text>Mnich</text>
 	</string>
 	<string id="sim_bandit_master_kocherga_name">
-		<text>Кочерга</text>
+		<text>Pogrzebacz</text>
 	</string>
 	<string id="sim_dolg_veteran_barin_name">
-		<text>Барин</text>
+		<text>Barin</text>
 	</string>
 	<string id="sim_dolg_veteran_prapor_name">
-		<text>Прапор</text>
+		<text>Chor№їy</text>
 	</string>
 	<string id="sim_ecolog_zob_name">
-		<text>Зоб</text>
+		<text>Plon</text>
 	</string>
 	<string id="sim_stalker_general_upir_name">
-		<text>Упырь</text>
+		<text>Wampir</text>
 	</string>
 	<string id="sim_stalker_master_chuchelo_name">
-		<text>Чучело</text>
+		<text>Strach</text>
 	</string>
 	<string id="sim_stalker_master_diador_name">
-		<text>Отец Диодор</text>
+		<text>Ojciec Diodor</text>
 	</string>
 	<string id="sim_stalker_master_master_name">
-		<text>Мастер</text>
+		<text>Mistrz</text>
 	</string>
 	<string id="sim_stalker_master_polkan_name">
-		<text>Полкан</text>
+		<text>Poіkan</text>
 	</string>
 	<string id="sim_stalker_novice_neumeha_name">
-		<text>Неумеха</text>
+		<text>Fujara</text>
 	</string>
 	<string id="sim_stalker_veteran_gusarov_name">
-		<text>Олег "Демон" Гусаров</text>
+		<text>Oleg Gusarow</text>
 	</string>
 	<string id="sim_stalker_veteran_umnik_name">
-		<text>Умник</text>
+		<text>M№drala</text>
 	</string>
 	<string id="sim_stalker_veteran_vorobey_name">
-		<text>Воробей</text>
+		<text>Wrуbel</text>
 	</string>
 	<string id="sim_Svoboda_specnaz_leshii_name">
-		<text>Леший</text>
+		<text>Leszy</text>
 	</string>
 	<string id="sim_svoboda_specnaz_prut_name">
-		<text>Прут</text>
+		<text>Gaі№zka</text>
 	</string>

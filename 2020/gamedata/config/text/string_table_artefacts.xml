@@ -1,69 +1,61 @@
-<?xml version='1.0' encoding="windows-1251"?>
+<?xml version='1.0' encoding="windows-1250"?>
 
 <string_table>
 	<string id="artefact_af_medusa">
-		<text>ARTEFACT</text>
-		<text ln="rus">Cпрессованные и причудливо изогнутые сильной гравитацией остатки растений,
-		почвы и вообще всего, что попадает в аномалию. Обладает слабыми аномальными свойствами, и в силу 
-		широкого распространения стоит недорого. Интерес к артефакту проявляют научные организации.</text>
+		<text>MEDUZA</text>
+		<text ln="rus">Resztki roњlin њciњniкte i dziwnie wygiкte przez siln№ grawitacjк,
+glebк i ogуlnie wszystko, co wpada w anomaliк. Ma sіabe wіaњciwoњci anomalne, a przez
+іatwoњж w znalezieniu jest niedroga. Zainteresowanie artefaktem wykazuj№ organizacje naukowe.</text>
 	</string>
 
 	<string id="artefact_af_cristall_flower">
-		<text>ARTEFACT</text>
-		<text ln="rus">Различный мусор был превращен аномальной гравитацией в красивый
-		и достаточно редкий артефакт. Пользуется спросом среди научных организаций, но 
-		более выгодные цены предлагают коллекционеры и ювелиры.</text>
+		<text>CRYSTALICZNY KWIAT</text>
+		<text ln="rus">Rуїne њmieci zostaіy zamienione przez anomaln№ grawitacjк w piкkny krysztaі. Doњж rzadki artefakt. Jest poszukiwany przez naukowcуw, ale
+		kolekcjonerzy i jubilerzy oferuj№ lepsze ceny.</text>
 	</string>
 
 	<string id="artefact_af_night_star">
-		<text>ARTEFACT</text>
-		<text ln="rus">Многие готовы отдать жизнь ради того, чтобы увидеть во тьме
-		ночи зеленоватый свет "ночной звезды". Обладатель такого трофей может сразу разбогатеть, 
-		а может просто лишиться жизни из-за завистливого конкурента.</text>
+		<text>NOCNA GWIAZDA</text>
+		<text ln="rus">Wielu jest gotowych oddaж їycie, by zobaczyж w ciemnoњci
+zielonkawe њwiatіo "nocnej gwiazdy". Wіaњciciel takiego trofeum moїe natychmiast siк wzbogaciж,
+a moїe po prostu straciж їycie z powodu zazdrosnego konkurenta.</text>
 	</string>
 
 	<string id="artefact_af_vyvert">
-		<text>ARTEFACT</text>
-		<text ln="rus">Довольно распространенная безделушка получившаяся в результате
-		аномально-гравитационного искривления органики. Врядли за него вы получите много денег.
-		Из-за низкой цены на рынке скупается ученными в больших количествах.</text>
+		<text>SKRКTAK</text>
+		<text ln="rus">Doњж powszechny drobiazg wynikaj№cy z
+anomalnej krzywizny grawitacyjnej oraz substancji organicznych. Jest maіo prawdopodobne, їe dostaniesz za to duїo pieniкdzy.
+Ze wzglкdu na nisk№ cenк na rynku jest skupowany przez naukowcуw w duїych iloњciach.</text>
 	</string>
 
 	<string id="artefact_af_gravi">
-		<text>ARTEFACT</text>
-		<text ln="rus">Малораспространенный артефакт гравитационного происхождения.
-		Иногда появляется в больших количествах и его цена падает. А иногда наоборот.
-		Во всяком случае это не та вещь, из-за которой следует рисковать жизнью.</text>
+		<text>GRAWI</text>
+		<text ln="rus">Rzadki artefakt pochodzenia grawitacyjnego.
+Czasami pojawia siк w duїych iloњciach i jego cena spada. A czasem odwrotnie.
+W kaїdym razie nie jest to rzecz, przez ktуr№ powinieneњ ryzykowaж їyciem.</text>
 	</string>
 
 	<string id="artefact_af_gold_fish">
-		<text>ARTEFACT</text>
-		<text ln="rus">Из-за чарующего свечения очень популярен у ювелиров.
-		Часто становится предметом женской зависти и причиной мужских смертей.
-		Если у вас получится донести его до торговца - то это решит все ваши 
-		финансовые проблемы. В противном случае это лишит вас жизни.</text>
+		<text>ZЈOTA RYBKA</text>
+		<text ln="rus">Ze wzglкdu na urokliwy blask jest bardzo popularny wњrуd jubilerуw.
+Czкsto staje siк przedmiotem kobiecej zazdroњci i przyczyn№ њmierci mкїczyzn.
+Jeњli uda Ci siк dostarczyж go do kupca, rozwi№їe to wszystkie Twoje problemy finansowe.
+ W przeciwnym razie odbierze Ci to їycie.</text>
 	</string>
 
 	<string id="artefact_af_blood">
-		<text>ARTEFACT</text>
-		<text ln="rus">Уродливое красноватое образование из спрессованных и причудливо 
-		изогнутых полимеризированных остатков растений , почвы и костей.
-		Пользуется особой популярностью среди религиозных культов, но цена от 
-		этого выше не становится.</text>
+		<text>KREW</text>
+		<text ln="rus">Brzydkie czerwone coњ њciњniкte i dziwacznie zakrzywione. Skіada siк ze szcz№tek roњlin, gleby, koњci. Popularny wњrуd kultуw religijnych. Cena nie jest szczegуlnie wysoka.</text>
 	</string>
 
 	<string id="artefact_af_mincer_meat">
-		<text>ARTEFACT</text>
-		<text ln="rus">Существует поверье, что в этом артефакте заключена сила погибших в аномалии
-		людей. Из-за пока неизученной способности артефакта заживлять раны активно разыскивается
-		ученными и религиозными сектами.</text>
+		<text>MASZYNKA DO MIКSA</text>
+		<text ln="rus">Istnieje przekonanie, їe ten artefakt zawiera moc tych, ktуrzy zginкli w anomalii. Ze wzglкdu na niezbadan№ jeszcze zdolnoњж artefaktu do leczenia ran, jest on aktywnie poszukiwany przez uczonych i sekty religijne.</text>
 	</string>
 
 	<string id="artefact_af_soul">
-		<text>ARTEFACT</text>
-		<text ln="rus">Говорят, что артефакт является просто сосудом для души сталкера. И чем
-		чище была душа сталкера, тем красивее найденный артефакт. За такой экземпляр на черном рынке 
-		отвалят стоимость нескольких танков.</text>
+		<text>DUSZA</text>
+		<text ln="rus">Mуwi siк, їe artefakt jest tylko naczyniem dla duszy stalkera. I im czystsza byіa dusza, tym piкkniejszy artefakt. Za taki egzemplarz na czarnym rynku moїna za niego kupiж kilka czoіgуw.</text>
 	</string>
 
 </string_table>

@@ -1,63 +1,63 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="cant_walk">
-		<text>Вы слишком истощены, чтобы двигаться</text>
+		<text>Jesteњ zbyt wyczerpany, by siк ruszyж</text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>Вы слишком перегружены, чтобы двигаться</text>
+		<text>Jesteњ zbyt obci№їony, їeby siк ruszyж</text>
 	</string>
 	<string id="dar_poltergeist_hold_the_door">
-		<text>Кто-то удерживает дверь.</text>
+		<text>Ktoњ trzyma drzwi...</text>
 	</string>
 	<string id="Global Map">
-		<text>Глобальная карта</text>
+		<text>Mapa њwiata</text>
 	</string>
 	<string id="gun_jammed">
-		<text>Оружие заклинило. Нужно перезарядить.</text>
+		<text>Broс siк zaciкіa. Przeіaduj.</text>
 	</string>
 	<string id="inventory_box_use">
-		<text>Обыскать ($$ACTION_USE$$)</text>
+		<text>Szukaj ($$ACTION_USE$$)</text>
 	</string>
 	<string id="Local Map">
-		<text>Локальная карта</text>
+		<text>Mapa okolicy</text>
 	</string>
 	<string id="st_game_saved">
-		<text>игра сохранена</text>
+		<text>Gra zapisana</text>
 	</string>
 	<string id="tip_car_locked">
-		<text>Заблокировано</text>
+		<text>Zablokowano</text>
 	</string>
 	<string id="tip_car_use">
-		<text>Открыть дверь ($$ACTION_USE$$)</text>
+		<text>Otwуrz drzwi ($$ACTION_USE$$)</text>
 	</string>
 	<string id="tip_door_close">
-		<text>Нажмите ($$ACTION_USE$$), чтобы закрыть дверь</text>
+		<text>Naciњnij ($$ACTION_USE$$), by zamkn№ж drzwi.</text>
 	</string>
 	<string id="tip_door_coded">
-		<text>Дверь закодирована</text>
+		<text>Drzwi zaszyfrowane.</text>
 	</string>
 	<string id="tip_door_decode">
-		<text>Нажмите ($$ACTION_USE$$), чтобы декодировать дверь</text>
+		<text>Naciњnij ($$ACTION_USE$$), by odszyfrowaж drzwi</text>
 	</string>
 	<string id="tip_door_decoding">
-		<text>Идет процесс декодирования</text>
+		<text>Trwa dekodowanie...</text>
 	</string>
 	<string id="tip_door_locked">
-		<text>Дверь заперта</text>
+		<text>Drzwi s№ zamkniкte.</text>
 	</string>
 	<string id="tip_door_open">
-		<text>Нажмите ($$ACTION_USE$$), чтобы открыть дверь</text>
+		<text>Naciњnij ($$ACTION_USE$$), by otworzyж drzwi.</text>
 	</string>
 	<string id="tip_gate_close">
-		<text>Нажмите ($$ACTION_USE$$) для того, чтобы закрыть ворота</text>
+		<text>Naciњnij ($$ACTION_USE$$), by zamkn№ж bramк.</text>
 	</string>
 	<string id="tip_gate_locked">
-		<text>Ворота заблокированы</text>
+		<text>Brama zablokowana.</text>
 	</string>
 	<string id="tip_gate_open">
-		<text>Нажмите ($$ACTION_USE$$) для того, чтобы открыть ворота</text>
+		<text>Naciњnij ($$ACTION_USE$$), by otworzyж bramк.</text>
 	</string>
 	<string id="tip_monolith">
-		<text>ЗАГАДАТЬ ЖЕЛАНИЕ ($$ACTION_USE$$)</text>
+		<text>POMYЊL ЇYCZENIE ($$ACTION_USE$$)</text>
 	</string>
 </string_table>

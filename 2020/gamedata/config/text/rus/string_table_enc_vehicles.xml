@@ -1,42 +1,42 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="btr-70">
-		<text>БТР-70</text>
+		<text>BTR-70</text>
 	</string>
 	<string id="enc_vehicles_btr-70">
-		<text>Бронетранспортер.</text>
+		<text>Stary transporter opancerzony. Wojsko stara sie nie uzywac nowego sprzetu w Zonie, poniewaz ulegaja one skazeniu przez roznego rodzaju radioaktywne pyly.</text>
 	</string>
 	<string id="enc_vehicles_kamaz">
-		<text>Распространенный советский грузовик.</text>
+		<text>Popularna rosyjska ciezarowka.</text>
 	</string>
 	<string id="enc_vehicles_mi-24">
-		<text>Армейский штурмовой вертолет.</text>
+		<text>Wojskowy helikopter szturmowy.</text>
 	</string>
 	<string id="enc_vehicles_niva">
-		<text>Легковой автомобиль повышенной проходимости.</text>
+		<text>Samochod terenowy. Zaskakujaco sprawny. Rosjanie wiedza jak robic dobre samochody terenowe.</text>
 	</string>
 	<string id="enc_vehicles_uaz">
-		<text>Советский аналог армейского джипа.</text>
+		<text>Jeep armii rosyjskiej. Zwarty, szybki, moze przewiezc do 10 pasazerow, ma duzy zbiornik paliwa, zdolny do jazdy po bezdrozach. Nic dziwnego, ze armia ich uzywa.</text>
 	</string>
 	<string id="enc_vehicles_zaporozh">
-		<text>Небольшой советский автомобиль.</text>
+		<text>Maly ukrainski samochod. Uzywany przez stalkerow, ktorym nie udalo sie znalezc nic lepszego. Jest w tym cos, ze Rosjanie sa zadowoleni, ze od upadku Zwiazku Radzieckiego jest on uwazany za "import".</text>
 	</string>
 	<string id="Kamaz">
-		<text>Грузовик КАМАЗ</text>
+		<text>Kamaz</text>
 	</string>
 	<string id="mi-24">
-		<text>Вертолет МИ-24</text>
+		<text>Helikopter Mi-24</text>
 	</string>
 	<string id="Niva">
-		<text>Нива</text>
+		<text>Lada Niva</text>
 	</string>
 	<string id="Uaz">
-		<text>УАЗ</text>
+		<text>UAZ</text>
 	</string>
 	<string id="Vehicles">
-		<text>Транспорт</text>
+		<text>Transport</text>
 	</string>
 	<string id="Zaporozh">
-		<text>Запорожец</text>
+		<text>Zaporozec</text>
 	</string>
 </string_table>

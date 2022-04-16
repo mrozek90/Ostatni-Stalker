@@ -1,78 +1,78 @@
 	<string id="agr_find_ghost">
-		<text>Узнать о судьбе Призрака</text>
+		<text>Dowiedz siк czegoњ o losach Ducha</text>
 	</string>
 	<string id="agr_gunslinger_cache">
-		<text>Тайник Стрелка</text>
+		<text>Kryjуwka Strieіoka</text>
 	</string>
 	<string id="agr_help_krot">
-		<text>Спасти Крота</text>
+		<text>Uratuj Kreta</text>
 	</string>
 	<string id="agr_help_krot_0">
-		<text>Помочь Кроту отбиться от военных</text>
+		<text>Pomуї Kretowi odeprzeж їoіnierzy</text>
 	</string>
 	<string id="agr_help_krot_1">
-		<text>Уничтожить военных</text>
+		<text>Zabij їoіnierzy</text>
 	</string>
 	<string id="agr_help_krot_2">
-		<text>Спасти Крота</text>
+		<text>Uratuj Kreta</text>
 	</string>
 	<string id="agr_help_stalkers">
-		<text>Помочь сталкерам</text>
+		<text>Pomуї stalkerom</text>
 	</string>
 	<string id="agr_help_stalkers_0">
-		<text>Помочь сталкерам отбиться от военных</text>
+		<text>Pomуї stalkerom odeprzeж їoіnierzy</text>
 	</string>
 	<string id="agr_help_stalkers_1">
-		<text>Уничтожить военных</text>
+		<text>Zabij їoіnierzy</text>
 	</string>
 	<string id="agr_help_stalkers_2">
-		<text>Помочь сталкерам отбиться от военных</text>
+		<text>Pomуї stalkerom odeprzeж їoіnierzy</text>
 	</string>
 	<string id="agr_krot">
-		<text>Встретиться со сталкерами</text>
+		<text>Spotkaj siк ze stalkerami</text>
 	</string>
 	<string id="agr_meet_krot_band">
-		<text>Получить информацию о Стрелке</text>
+		<text>Zdob№dџ informacje o Strieіoku</text>
 	</string>
 	<string id="agr_meet_krot_band_0">
-		<text>Получить от Крота информацию</text>
+		<text>Zdob№dџ informacje od Kreta</text>
 	</string>
 	<string id="agr_meet_krot_band_1">
-		<text>Встретиться с группировкой Крота</text>
+		<text>Spotkaj siк z grup№ Kreta</text>
 	</string>
 	<string id="agr_meet_krot_band_2">
-		<text>Получить информацию от Крота</text>
+		<text>Zdob№dџ informacje od Kreta</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache">
-		<text>Найти тайник группировки Стрелка</text>
+		<text>Znajdџ kryjуwkк grupy Strieіoka</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_0">
-		<text>Найти тайник группировки Стрелка.</text>
+		<text>Znajdџ kryjуwkк grupy Strieіoka</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_1">
-		<text>Найти тайник</text>
+		<text>Znajdџ kryjуwkк</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_2">
-		<text>Найти в тайнике информацию о Стрелке</text>
+		<text>Znajdџ w kryjуwce informacje o Strieіoku</text>
 	</string>
 	<string id="agroprom_find_gunslinger_cache_3">
-		<text>Выбраться из подземелья</text>
+		<text>Wydostaс siк z podziemi</text>
 	</string>
 	<string id="agroprom_find_stalker_phantom">
-		<text>Найти Призрака</text>
+		<text>Znajdџ Ducha</text>
 	</string>
 	<string id="agroprom_find_stalker_phantom_0">
-		<text>Призрак знает где Стрелок.</text>
+		<text>Duch wie, gdzie jest Strieіok.</text>
 	</string>
 	<string id="agroprom_get_military_documents">
-		<text>Найти документы военных</text>
+		<text>Znajdџ dokumenty wojskowe</text>
 	</string>
 	<string id="agroprom_get_military_documents_0">
-		<text>НИИ Агропром</text>
+		<text>Instytut Agroprom</text>
 	</string>
 	<string id="agroprom_get_military_documents_1">
-		<text>Выкрасть военные документы</text>
+		<text>Ukradnij dokumenty wojskowe</text>
 	</string>
 	<string id="agroprom_get_military_documents_2">
-		<text>Отнести документы бармену</text>
+		<text>Odnieњ dokumenty do Barmana</text>
 	</string>

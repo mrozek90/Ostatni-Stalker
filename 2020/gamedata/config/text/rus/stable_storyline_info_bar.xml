@@ -1,51 +1,52 @@
 	<string id="descr_bar_crazy_veterans_quest">
-		<text>Бармен: "Долг дорожит своей репутацией. Поэтому они хотят все сделать тихо. Тебе достаточно уничтожить главаря по кличке "Счастливчик" и принести его КПК в качестве доказательства."</text>
+		<text>Barman: ""Powinnoњж" nie moїe naraziж na szwank swej reputacji. To dlatego chc№, їeby siк wszystkim zaj№ж po cichu. Wystarczy, їe zaіatwisz ich przywуdcк zwanego Farciarzem i jako dowуd przyniesiesz jego PDA".</text>
 	</string>
 	<string id="descr_bar_dolg_community_quest">
-		<text>Для того, чтобы вступить в "Долг" тебе необходимо получить одобрение одного из самых авторитетных бойцов группировки. А также доказать лидеру "Долга", что ты достоин быть одним из них.</text>
+		<text>Їeby wst№piж do "Powinnoњci", musisz zyskaж aprobatк jednego z najbardziej szanowanych їoіnierzy w grupie. Poza tym musisz udowodniж przywуdcy, їe zasіugujesz na miejsce w ich szeregach.</text>
 	</string>
 	<string id="descr_bar_dolg_svoboda_ambush_quest">
-		<text>Бармен: "Твоя задача уничтожение Тирана, лидера группы Наемников. Отряд Наемников прорвался на дикую территорию и засел на стройке. Будь осторожен, часть боевиков сидит в засадах при подходах к стройке. Как только принесешь мне КПК Тирана, награда твоя."</text>
+		<text>Barman: "Twoje zadanie to zabiж Tyrana, przywуdcк najemnikуw. Jego ludzie dotarli do Dziczy i zaіoїyli bazк na placu budowy. Pilnuj siк - czкњж ich їoіnierzy przygotowaіa zasadzki po drodze. Jak tylko dostanк PDA Tyrana, nagroda wкdruje do ciebie".</text>
 	</string>
 	<string id="descr_bar_dolg_svoboda_leader_kill_quest">
-		<text>Генерал Воронин: "Война со Свободой близится к концу, Меченый. Ты внес вклад в общее дело и теперь я хочу поставить точку в этой войне. Я хочу чтобы ты уничтожил лидера Свободы."</text>
+		<text>Generaі Woronin: "Wojna z "Wolnoњci№" niedіugo dobiegnie koсca, Naznaczony. Speіniіeњ sw№ rolк, a teraz chcк zakoсczyж ten konflikt! Trzeba siк pozbyж przywуdcy wroga".</text>
 	</string>
 	<string id="descr_bar_dolg_test_quest">
-		<text>Капитан Иванцов: "...прежде чем делать выводы, пройди маленькую проверку. Тебе надо достать архивную папку из заброшенного здания напротив. Задание проще простого, просто войди внутрь, возьми папку и принеси ее мне. Что может быть проще, правильно? Когда папка будет у меня, тогда и решим, годишься ты для Долга или нет."</text>
+		<text>Kapitan Iwancow: "...Zanim wyci№gniemy jakieњ wnioski, chcк їebyњ zdaі іatwy test. Musisz zdobyж teczkк z opuszczonego budynku naprzeciwko. Nic trudnego - wejdџ do њrodka, zabierz teczkк i przynieњ j№ do mnie. Buіka z masіem, prawda? A jak dostanк teczkк, zdecydujemy, czy nadajesz siк do "Powinnoњci", czy nie".</text>
 	</string>
 	<string id="descr_bar_hunter_rifle">
-		<text>Охотник: "Верни ружье. Потерял я его возле жилища кровососов, сейчас скину тебе координаты этого места. И поосторожней там, твари эти очень злобные."</text>
+		<text>Јowca: "Przynieњ mi karabin. Zgubiіem go niedaleko miejsca, w ktуrym їyj№ pijawki. Przeњlк ci wspуіrzкdne. Uwaїaj na siebie, z tymi stworami nie ma їartуw".</text>
 	</string>
 	<string id="descr_bar_kill_professor">
-		<text>Волкодав: "У нас тут небольшая охота. Зажали ученых, там за вертолетом. Мои ребята потихоньку их обстреливают, чтоб не сбежали. Ты давай подключайся, сейчас будем добивать. Если поможешь, то отдам тебе скафандр научный, из сбитого вертолета вытащили. Твоя цель - профессор Круглов, убей его, иначе сбежит он во время боя, я их породу знаю. Если убьешь его, скафандр твой, нет значит не судьба."</text>
+		<text>Wilczarz: "Mamy tu niewielkie polowanie. Zapкdziliњmy naukowcуw tam, za њmigіowiec. Moi chіopcy od czasu do czasu do nich strzelaj№, їeby mieж pewnoњж, їe tamci nie uciekn№. Przyі№cz siк, wіaњnie planujemy ich wykoсczyж. Jeњli nam pomoїesz, dostaniesz kombinezon naukowca... Znaleџliњmy go w њmigіowcu, ktуry zestrzeliliњmy. Twoim celem jest profesor Krugіow. Zabij go, bo inaczej ucieknie w trakcie strzelaniny - znam takich. Jeњli go zabijesz, dostaniesz kombinezon, jeњli ci siк nie uda, guzik dostaniesz".</text>
 	</string>
 	<string id="descr_bar_radar_deactivate">
-		<text>Бармен: "Защитный прототип у тебя есть, чтобы от "выжигателя" прикрыться, координаты бункера я знаю. Не забудь, что прототип не сможет бесконечно защищать тебя от излучения, поэтому ты должен как можно быстрее пробиться в бункер под антеннами и отключить "выжигатель". Все что нам надо это пробраться к антеннам, и отключить их."</text>
+		<text>Barman: "Ty masz prototyp, ktуry ochroni ciк przed Mуzgozwкglaczem, a ja znam poіoїenie bunkra. Nie zapominaj, їe prototyp heіmu nie bкdzie ciк chroniі w nieskoсczonoњж, wiкc musisz jak najszybciej siк dostaж do bunkra pod antenami i wyі№czyж "Zwкglacz". Masz tylko dostaж siк do anten i odі№czyж je".</text>
 	</string>
 	<string id="descr_bar_resque_information">
-		<text>Круглов: "Cталкер, помоги! На нас напали наемники, половина наших погибла. Помоги нам, мы в долгу не останемся"\n \n "...ты там осторожней, их человек пятнадцать, точно мы не знаем"</text>
+		<text>Krugіow: "Stalkerze, pomocy! Zostaliњmy zaatakowani przez najemnikуw, poіowa naszych ludzi juї nie їyje. Pomуї nam, a nie poїaіujesz..."\n \n "...Uwaїaj, jest ich chyba okoіo piкtnastu, ale nie mamy pewnoњci".</text>
 	</string>
 	<string id="descr_bar_resque_information_2">
-		<text>Круглов: "Мы возвращались с Янтаря, когда нас сбили наемники. Говорят что им информация нужна, но я то знаю - перестреляют они нас. Выведи меня к Янтарю и я поделюсь с тобой тем, что знаю о вашем "выжигателе мозгов", а бармен тебе за это хорошо заплатит. Боец из меня плохой, но я знаю дорогу, поэтому я буду вести, а ты прикрывай нас по пути."</text>
+		<text>Krugіow: "Wracaliњmy z Jantaru, kiedy zestrzelili nas najemnicy. Oni mуwi№, їe potrzebuj№ jedynie informacji, ale ja wiem lepiej - wszystkich nas zabij№. Zabierz mnie z powrotem nad Jantar, a powiem ci wszystko, co wiem o tym twoim Mуzgozwкglaczu - Barman dobrze ci za to zapіaci. Їaden ze mnie wojownik, ale znam drogк, wiкc poprowadzк, a ty nas bкdziesz osіaniaж".</text>
 	</string>
 	<string id="descr_bar_x16_documents">
-		<text>Бармен: "Надо пробраться к ученым и узнать, где находится лаборатория Х16, чтобы достать недостающую часть документов."</text>
+		<text>Barman: "Musisz przedrzeж siк do naukowcуw i dowiedzieж siк, gdzie leїy laboratorium X-16, їeby znaleџж brakuj№ce dokumenty".</text>
 	</string>
 	<string id="journal_after_agroprom_documents">
-		<text>Просмотрел документы, которые нашли военные в бывшем НИИ. Вывод такой: этот институт, последние годы до катастрофы, являлся прикрытием негосударственной лаборатории Х-18, которая, судя по всему, проводила некий таинственный эксперимент. Где находится лаборатория - документы ответа не дают. Военные про эту лабораторию тоже, судя по всему, ничего не знают. М-да...Загадки множатся... Но возможно это нить, которая нужна торговцам. Ну что ж, теперь предстоит путь дальше на север, к торговцу по кличке Бармен.</text>
+		<text>Przejrzaіem dokumenty znalezione w Instytucie. Wygl№da na to, їe w latach poprzedzaj№cych wypadek, Instytut wykorzystywano jako przykrywkк dla nieoficjalnego laboratorium zwanego "X-18". Miaіo w nim miejsce kilka niezwykіych eksperymentуw. Z dokumentуw nie wynika, gdzie dokіadnie znajduje siк laboratorium, wojsko teї nie wydaje siк niczego o nim wiedzieж. No, czyli sprawy siк komplikuj№... Ale moїe to wіaњnie jest punkt wyjњcia, ktуrego potrzebuj№ handlarze. Muszк teraz wyruszyж dalej na pуіnoc, do handlarza zwanego Barmanem.</text>
 	</string>
 	<string id="journal_bar_darklab_documents">
-		<text>М-да...невеселое это место лаборатория Х18...и ее нынешние обитатели...даже не думал что такая нечисть может существовать на свете. Нашел какие-то документы...Из них мало что понял - это некие технические спецификации на какие-то блоки к излучателям Кайманова. Но вот что интересно блоки эти предназначались для другой лаборатории с кодом Х16 и судя по всему тоже засекреченной.</text>
+		<text>Psiakrew... W laboratorium X-18 nie byіo zbyt przyjemnie... A jego obecni mieszkaсcy... Nie s№dziіem, їe takie coњ moїe istnieж. Znalazіem jakieњ dokumenty... Nie rozumiem za bardzo, o co w nich chodzi - na pewno zawieraj№ jakieњ szczegуіy techniczne dotycz№ce czкњci do emiterуw Kajmanowa. Co ciekawe, komponenty te miaіy dotrzeж do innego laboratorium o kryptonimie X-16, ktуre prawdopodobnie rуwnieї jest tajne.</text>
 	</string>
 	<string id="journal_bar_x16_documents">
-		<text>Хм-м..Торговцы действительно многое накопали по этим лабораториям. Для бармена не стало неожиданностью информация про излучатели и про Х16. И теперь он уверен, что этот «выжигатель мозгов» рукотворен. Он думает, что эта лаборатория Х16 находится недалеко от лагеря ученых возле озера Янтарь. Они как раз изучают там излучение, которое похоже на действие «выжигателя». Так что сейчас мой путь лежит к ученой братии Зоны.</text>
+		<text>Hm... Handlarze zdobyli sporo informacji o tych laboratoriach. Barman nie byі zaskoczony, gdy dowiedziaі siк o emiterach i o X-16. Jest juї przekonany, їe ten caіy "Mуzgozwкglacz" to dzieіo czіowieka. S№dzi, їe laboratorium X-16 znajduje siк niedaleko obozu naukowcуw nad jeziorem Jantar. Co ciekawe, oni wіaњnie badaj№ tam emisje o efektach zbliїonych do tych wywoіywanych przez "Zwкglacz". Muszк wiкc teraz zіoїyж wizytк spoіecznoњci naukowej Zony.</text>
 	</string>
 	<string id="journal_before_darklab_documents">
-		<text>Встретился с Барменом. Проглядев документы с Агропрома, он предположил, что эта Х-18 находится в так называемой Темной Долине и предлагает мне туда наведаться на предмет поиска информации и документов. Говорит, что уже посылал разведчиков-долговцев с заданием проникнуть в это подземелье. Но они пропали. Бармен предположил, что они попали в плен к бандитам - у тех там база недалеко. А если это так, то все, что нарыли долговцы будет у лидера бандитов - Борова. Бармен, призывает к осторожности и...и явно чего-то недоговаривает про это подземелье. Ну да ладно, за работу: сначала пообщаться с Боровом, а если «разговор» удастся, то потом лезть под землю.</text>
+		<text>Spotkaіem siк z Barmanem. Po przejrzeniu dokumentуw z Instytutu doszedі do wniosku, їe X-18 znajduje siк w tzw. Dolinie Mroku i poprosiі mnie, їebym siк tam wybraі w poszukiwaniu informacji i dokumentуw. Powiedziaі, їe wysіaі zwiadowcуw "Powinnoњci" do podziemi, ale ci zniknкli. Barman uwaїa, їe pochwycili ich bandyci, ktуrzy maj№ niedaleko bazк. Jeњli to prawda, wszystko, co znaleџli goњcie z "Powinnoњci", znajduje siк w rкkach Dzika, przywуdcy bandytуw. Barman nakazaі mi ostroїnoњж, ale... Ewidentnie nie powiedziaі mi wszystkiego o tych podziemiach. No cуї, trzeba siк zabraж do roboty: najpierw muszк zіoїyж wizytк Dzikowi, a jeњli "rozmowa" siк uda, zbadam podziemia.</text>
 	</string>
 	<string id="journal_before_radar_task">
-		<text>Ну что ж я готов идти на Выжигатель. От Психа я узнал время понижения мощности излучения и о безопасном месте, где я смогу дождаться этого времени. В другое время моя пси-защита все равно не поможет. Мне придется найти вход в подземный бункер лаборатории Х19, а внутри, путь к управлению Антеннами Выжигателя Мозгов.</text>
+		<text>No, mogк juї ruszaж do "Zwкglacza". Dowiedziaіem siк od Psychola, kiedy zmniejsza siк poziom emisji. Powiedziaі mi rуwnieї o bezpiecznym miejscu, w ktуrym mogк na takie momenty poczekaж. O innej porze moja ochrona psioniczna i tak nie bкdzie dziaіaж. Bкdк musiaі znaleџж jakieњ wejњcie do podziemnego bunkra laboratorium X10. Wewn№trz powinienem znaleџж sterowanie anten "Mуzgozwкglacza".</text>
 	</string>
 	<string id="st_gordon_diary">
-		<text>КПК Гордона</text>
+		<text>PDA Gordona</text>
 	</string>
+

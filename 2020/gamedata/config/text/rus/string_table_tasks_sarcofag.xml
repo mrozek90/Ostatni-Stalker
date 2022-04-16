@@ -1,48 +1,48 @@
 	<string id="sar_monolith">
-		<text>Исполнитель желаний</text>
+		<text>Speіniacz Їyczeс</text>
 	</string>
 	<string id="sar_monolith_0">
-		<text>Прийти к Монолиту</text>
+		<text>Dotrzyj do Monolitu</text>
 	</string>
 	<string id="sar_monolith_1">
-		<text>Проникнуть в саркофаг</text>
+		<text>Dostaс siк do Sarkofagu</text>
 	</string>
 	<string id="sar_monolith_2">
-		<text>Найти исполнитель желаний</text>
+		<text>Znajdџ Speіniacz Їyczeс</text>
 	</string>
 	<string id="sar_monolith_destroy">
-		<text>Загадка Монолита</text>
+		<text>Tajemnica Monolitu</text>
 	</string>
 	<string id="sar_monolith_destroy_0">
-		<text>Проникнуть в секретную лабораторию</text>
+		<text>Dostaс siк do tajnego laboratorium.</text>
 	</string>
 	<string id="sar_monolith_destroy_1">
-		<text>Разгадать загадку Монолита</text>
+		<text>Rozwi№ї zagadkк Monolitu</text>
 	</string>
 	<string id="sar_monolith_destroy_2">
-		<text>Уничтожить генераторы питания Монолита</text>
+		<text>Zniszcz generatory zasilania Monolitu.</text>
 	</string>
 	<string id="sar_perception">
-		<text>Загадка Зоны</text>
+		<text>Tajemnica Zony.</text>
 	</string>
 	<string id="sar_perception_1">
-		<text>Встретится с теми, кто стоял за Монолитом</text>
+		<text>Spotkaj siк z tymi, ktуrzy stoj№ za Monolitem.</text>
 	</string>
 	<string id="sar_perception_2">
-		<text>Найти секретную лабораторию и встретить "кукловодов"</text>
+		<text>Znajdџ tajne laboratorium i spotkaj siк z "lalkarzami".</text>
 	</string>
 	<string id="sar_secret_lab">
-		<text>Секретная лаборатория</text>
+		<text>Tajne laboratorium</text>
 	</string>
 	<string id="sar_secret_lab_0">
-		<text>Попасть в секретный бункер</text>
+		<text>Wejdџ do tajnego bunkra.</text>
 	</string>
 	<string id="sar_secret_lab_1">
-		<text>Найти тайную дверь</text>
+		<text>Znajdџ ukryte drzwi</text>
 	</string>
 	<string id="sar_secret_lab_2">
-		<text>Открыть ее с помощью декодера</text>
+		<text>Otwуrz drzwi przy uїyciu dekodera</text>
 	</string>
 	<string id="sar_secret_lab_3">
-		<text>Разведать, что находится за дверью</text>
+		<text>Dowiedz siк, co jest za drzwiami</text>
 	</string>

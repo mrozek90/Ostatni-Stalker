@@ -1,60 +1,60 @@
 	<string id="esc_direction_fire">
-		<text>Не дергаемся, атакуем строго по моей команде.</text>
+		<text>Nie wyrywaж siк, Atakowaж tylko na mуj rozkaz!</text>
 	</string>
 	<string id="esc_fanat_victory">
-		<text>Победа!!! Все кто жив - подойти ко мне. Меченый - ходи сюда, говорить будем.</text>
+		<text>Zwyciкstwo!!! Kto їyw, niech podejdzie do mnie. Chodџ, Naznaczony, musimy pogadaж.</text>
 	</string>
 	<string id="esc_return_dv">
-		<text>Здорово, Меченый, рад что ты жив, да еще и заглянул к нам на огонек. Заскочи, поболтаем. Очередное дельце наклевывается.</text>
+		<text>Witaj, Naznaczony. Cieszк siк, їe їyjesz i їe zajrzaіeњ do nas. Chodџ, pogadamy. Kolejna sprawa siк szykuje.</text>
 	</string>
 	<string id="esc_tutorial_end">
-		<text>Отлично, задание выполнил. Будем считать, что курсы "взлет-посадка" ты прошел.</text>
+		<text>Њwietnie, zadanie wykonane. Moїna њmiaіo powiedzieж, їe zaliczyіeњ kurs podstawowy.</text>
 	</string>
 	<string id="esc_wolf_thanks">
-		<text>Меченый, теперь тебе проход в лагерь открыт. Подходи, пообщаемся.</text>
+		<text>Naznaczony, teraz obуz stoi teraz przed tob№ otworem. Podejdџ, to porozmawiamy.</text>
 	</string>
 	<string id="escape_fox_quest">
-		<text>Меченый, кстати о Стрелке. Пришел сталкер из глубокого рейда, Лисом кличут. Ему, видимо, худо пришлось - просит о помощи. Он на хвосте каких-то тварей притащил, говорит, что долго не продержится. Он, возможно знает о Стрелке. Так что бегом к нему, даю координаты.</text>
+		<text>Naznaczony, sіуwko o Strieіoku. Pewien stalker, zwany Lis, wіaњnie wrуciі z dalekiego wypadu. Wygl№da na to, їe miaі spore kіopoty i prosi o pomoc. Caі№ drogк goni№ go jakieњ dziwne stwory, mуwi, їe dіugo juї siк nie utrzyma. S№dzк, їe on wie trochк o Strieіoku. Tu masz wspуіrzкdne i lepiej, їebyњ siк poњpieszyі.</text>
 	</string>
 	<string id="escape_stalker_death">
-		<text>Облажался ты, Меченый. Хоть в этом и нет твоей вины, но ребята погибли. В зоне часто так бывает. Так или иначе - проверку ты прошел. Возвращайся, поговорим по существу.</text>
+		<text>Schrzaniіeњ, Naznaczony, choж to wіaњciwie nie twoja wina. Ale chіopaki nie їyj№. W Zonie czкsto tak bywa. Tak czy inaczej - zdaіeњ test. Wracaj, pogadamy o zasadach.</text>
 	</string>
 	<string id="escape_stalker_helped">
-		<text>Молодец, Меченый. Если так будешь продолжать, то заведешь много друзей. Зайди ко мне, поговорим по-деловому.</text>
+		<text>Dobra robota, Naznaczony. Trzymaj tak dalej, a zdobкdziesz wielu przyjaciуі. Zajdџ do mnie,  pogadamy o interesach.</text>
 	</string>
 	<string id="escape_stalker_killed">
-		<text>Ну, Меченый, зря ты так. Так или иначе, проверку ты прошел, а вот с Волком и его бригадой теперь сам разбирайся как знаешь. В общем я тебя жду, дело есть.</text>
+		<text>To nie byіo zbyt m№dre, Naznaczony. Prуbк przeszedіeњ, ale teraz sam musisz zaj№ж siк Wilkiem i jego brygad№. Tak czy inaczej, czekam na ciebie, jest sprawa.</text>
 	</string>
 	<string id="info_esc_give_agroprom_task">
-		<text>Меченый. Военные раскопали кое что в НИИ "Агропром". А в этом заинтересован я, да и ты наверное тоже. Нужно достать информацию и отнести бармену в бар сталкеров. Действуй.</text>
+		<text>Naznaczony, wojskowi znaleџli ciekawe rzeczy w Instytucie Badawczym Agroprom. Chciaіbym je dostaж w swoje rкce - ty zreszt№ pewnie teї. Zdob№dџ informacje i dostarcz je Barmanowi do stalkerskiego baru. Ruszaj!</text>
 	</string>
 	<string id="tips_esc_trader_about_anomalies">
-		<text>Осторожней! Ты рядом с аномалиями. Используй болты, чтобы определить их границы.</text>
+		<text>Ostroїnie! Jesteњ w pobliїu anomalii. Uїyj њrub, їeby okreњliж ich poіoїenie i ksztaіt.</text>
 	</string>
 	<string id="tips_esc_trader_about_pda">
-		<text>Нажми кнопку Контакты ($$ACTION_CONTACTS$$). В контактах и на мини-карте на лицевом визоре ты видишь людей в радиусе 250 метров с включенными КПК. Там указывается их отношение к тебе. Будь внимателен если там появляются враги. Впрочем бандиты и гы-ыы, мутанты не включают обычно КПК так, что будь внимателен в Зоне.</text>
+		<text>Naciњnij "Kontakty" ($$ACTION_CONTACTS$$). Przebywaj№ce w promieniu 250 metrуw osoby, ktуre maj№ wі№czone PDA, wyњwietl№ siк na liњcie kontaktуw i minimapie twojego wizjera. Zobaczysz rуwnieї, jak s№ do ciebie nastawieni. Uwaїaj, jeњli widaж tam wrogуwi. Ale bandyci i, he-he, mutanty zazwyczaj nie wі№czaj№ PDA. Dlatego musisz uwaїaж w Zonie!</text>
 	</string>
 	<string id="tips_esc_trader_activate_map">
-		<text>Для того, чтобы активировать карту, нажмите '$$ACTION_MAP$$'.</text>
+		<text>Їeby wі№czyж mapк, naciњnij '$$ACTION_MAP$$'.</text>
 	</string>
 	<string id="tips_esc_trader_activate_pda">
-		<text>Для того, чтобы активировать КПК, нажмите '$$ACTION_ACTIVE_JOBS$$'.</text>
+		<text>Їeby wі№czyж PDA, naciњnij '$$ACTION_ACTIVE_JOBS$$'.</text>
 	</string>
 	<string id="tips_esc_trader_how_to_talk">
-		<text>Для того, чтобы поговорить с кем-либо, наведите на него прицел и нажмите '$$ACTION_USE$$'.</text>
+		<text>Їeby z kimњ porozmawiaж, naprowadџ na niego celownik i naciњnij '$$ACTION_USE$$'.</text>
 	</string>
 	<string id="tips_esc_trader_quest_1">
-		<text>Найдите артефакт в месте, отмеченном на карте, и принесите торговцу.</text>
+		<text>Znajdџ artefakt w miejscu zaznaczonym na mapie i przynieњ go do handlarza.</text>
 	</string>
 	<string id="tutorial_flash_anomaly_alarm">
-		<text>Меченый, смотри внимательней. В следующий раз на ее месте можешь быть ты!</text>
+		<text>Uwaїaj, Naznaczony. Nastкpnym razem to moїesz byж ty.</text>
 	</string>
 	<string id="tutorial_trader_give_medikit">
-		<text>Дай аптечку этому придурку.</text>
+		<text>Daj temu durniowi apteczkк.</text>
 	</string>
 	<string id="tutorial_trader_look_vagon">
-		<text>Меченый!!! Черт с ним, с артефактом, позднее занесешь. Беги к вагончику у дороги, там моим людям помощь нужна! Додумались, придурки вертолет обстрелять. Координаты я тебе скинул.</text>
+		<text>Naznaczony! Zapomnij o artefakcie, podrzucisz go pуџniej. Migiem biegnij do barakowozu przy drodze, tam moi chіopcy potrzebuj№ pomocy! Ci idioci otworzyli ogieс do przelatuj№cego њmigіowca. Wysіaіem ci wspуіrzкdne.</text>
 	</string>
 	<string id="tutorial_trader_search_corpses">
-		<text>Обыщи трупы, там может быть что-нибудь полезное.</text>
+		<text>Przeszukaj ciaіa, moїe znajdziesz coњ przydatnego.</text>
 	</string>

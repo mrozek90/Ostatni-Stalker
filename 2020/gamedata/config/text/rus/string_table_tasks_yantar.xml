@@ -1,72 +1,78 @@
 	<string id="yan_find_ghost">
-		<text>Взять документы у Призрака</text>
+		<text>Weџ dokumenty od Ducha</text>
 	</string>
 	<string id="yan_find_ghost_task">
-		<text>Взять документы</text>
+		<text>Weџ dokumenty</text>
 	</string>
-	<string id="yan_find_vasilyev_task">
-		<text>Проникнуть в лабораторию</text>
+	<string id="yan_find_lab">
+		<text>Wejdџ do laboratorium X-16</text>
 	</string>
 	<string id="yan_find_labX16">
-		<text>Проникнуть в лабораторию X16</text>
+		<text>Wejdџ do laboratorium X-16</text>
 	</string>
 	<string id="yan_find_scientist">
-		<text>Сделать замеры излучения</text>
+		<text>Dokonaj pomiarуw radiacji</text>
+	</string>
+	<string id="yan_find_vasilyev_task">
+		<text>Odszukaj wejњcie do laboratorium X-16</text>
 	</string>
 	<string id="yan_find_vasilyev">
-		<text>Обыскать труп Васильева</text>
+		<text>Znajdџ i przeszukaj zwіoki Wasiliewa</text>
 	</string>
 	<string id="yan_kill_brain">
-		<text>Отключить пси-излучение</text>
+		<text>Wyі№cz emisjк psioniczn№</text>
 	</string>
 	<string id="yan_kill_brain_task">
-		<text>Отключить питание установки</text>
+		<text>Odі№cz zasilanie instalacji</text>
 	</string>
 	<string id="yan_kill_brain_task_2">
-		<text>Выбраться из лаборатории</text>
+		<text>Wydostaс siк z laboratorium X-16</text>
 	</string>
 	<string id="yan_provodnik_about_doctor">
-		<text>Поговорить с проводником</text>
+		<text>Porozmawiaj z Przewodnikiem</text>
 	</string>
 	<string id="yan_provodnik_task">
-		<text>Встретиться с проводником</text>
+		<text>Spotkaj siк z Przewodnikiem</text>
 	</string>
 	<string id="yan_psi_zone_find">
-		<text>Сопроводить Круглова к месту замера</text>
+		<text>Eskortuj Krugіowa na miejsce pomiarowe</text>
 	</string>
 	<string id="yan_psi_zone_find_semenov">
-		<text>Сопроводить Семенова к месту замера</text>
+		<text>Eskortuj Siemionowa na miejsce pomiaru</text>
+	</string>
+	<string id="yan_find_scientist_semenov">
+		<text>Eskortuj Siemionowa na miejsce pomiaru</text>
 	</string>
 	<string id="yan_return_to_bunker">
-		<text>Принести результаты Сахарову</text>
+		<text>Dostarcz wyniki Sacharowowi</text>
 	</string>
 	<string id="yan_scientist_return">
-		<text>Поговорить с Сахаровым</text>
+		<text>Porozmawiaj z Sacharowem</text>
 	</string>
 	<string id="yan_scientist_return_task">
-		<text>Поговорить с Сахаровым</text>
+		<text>Porozmawiaj z Sacharowem</text>
 	</string>
 	<string id="yan_secret_tonnel">
-		<text>Выбраться через секретный тоннель</text>
+		<text>Wydostaс siк ukrytym tunelem</text>
 	</string>
 	<string id="yan_switcher_off_1">
-		<text>Отключить 1-ый блок управления</text>
+		<text>Wyі№cz pierwszy moduі kontrolny</text>
 	</string>
 	<string id="yan_switcher_off_2">
-		<text>Отключить 2-ой блок управления</text>
+		<text>Wyі№cz drugi moduі kontrolny</text>
 	</string>
 	<string id="yan_switcher_off_3">
-		<text>Отключить 3-ий блок управления</text>
+		<text>Wyі№cz trzeci moduі kontrolny</text>
 	</string>
 	<string id="yan_talk_to_kruglov">
-		<text>Поговорить с Кругловым</text>
+		<text>Porozmawiaj z Krugіowem</text>
 	</string>
 	<string id="yan_talk_to_semenov">
-		<text>Поговорить с Семеновым</text>
+		<text>Porozmawiaj z Siemionowem</text>
 	</string>
 	<string id="yan_vasilyev_pda">
-		<text>КПК Васильева</text>
+		<text>PDA Wasiliewa</text>
 	</string>
 	<string id="yan_zombie_zone">
-		<text>Предположительное местонахождение лаборатории X16</text>
+		<text>Prawdopodobne poіoїenie laboratorium X-16</text>
 	</string>

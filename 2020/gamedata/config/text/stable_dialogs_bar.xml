@@ -1,39 +1,44 @@
-<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<!-- plik wyglada na bezuzyteczny -->
+
+<?xml version="1.0" encoding="windows-1250" standalone="yes" ?>
 <string_table>
     <string id="barman_dialog_0">
-        <text>default text</text>
+        <text>brak 0</text>
     </string>
     <string id="barmen_dialog_2">
-        <text>text in default</text>
+        <text>brak 2</text>
     </string>
     <string id="barmen_dialog_0">
-        <text>Привет, Меченый. Вован уже рассказал о тебе. Стрелка значит ищешь, ну что ж, кой чего знаю о нем.</text>
+        <text>Witam Naznaczony. Wowan juї o Tobie opowiadaі. Strieіoka szukasz... no cуї, co ja mogк wiedzieж.</text>
     </string>
     <string id="barmen_dialog_1">
-        <text>text in default</text>
+        <text>brak 1</text>
     </string>
     <string id="1_2">
-        <text>text in default</text>
+        <text>brak 1_2</text>
     </string>
     <string id="1_12">
-        <text>text in default</text>
+        <text>brak 1_12</text>
     </string>
     <string id="1_1">
-        <text>text in default</text>
+        <text>brak 1_1</text>
     </string>
     <string id="1_11">
-        <text>sdfdssdfsdf</text>
+        <text>brak 1_11</text>
     </string>
     <string id="1_111">
-        <text>text in defaultdfsdf</text>
+        <text>brak 1_111</text>
     </string>
     <string id="1_0">
-        <text>111</text>
+        <text>brak 1_0</text>
     </string>
     <string id="Good by." />
     <string id="" />
-    <string id="Я не хочу с тобой разговаривать." />
+    <!-- tu w oryginale byіo napisane po rosyjsku. Kodowanie Windows-1250 nie pozwala a i tak wyglada na zbedne -->
+    <string id="..." />
+
+    
     <string id="aa_0">
-        <text>default text</text>
+        <text>brak aa_0</text>
     </string>
 </string_table>

@@ -1,36 +1,36 @@
 	<string id="mil_actor_blockpost">
-		<text>Сталкер, ты подходишь к Барьеру, не вздумай баловать, но мы рады принять любую помощь.</text>
+		<text>Stalkerze, zbliїasz siк do Bariery. Nawet nie myњl o bezczynnoњci, my z radoњci№ przyjmiemy kaїd№ pomoc.</text>
 	</string>
 	<string id="mil_after_sniper_dead">
-		<text>"Меченый, подходи к нам за расчетом и дальнейшими указаниями"</text>
+		<text>Naznaczony, chodџ tu po swoj№ dziaіkк i dalsze instrukcje.</text>
 	</string>
 	<string id="mil_fblockpost_warning">
-		<text>Меченый, вернись и займи позицию</text>
+		<text>Naznaczony, wrуж na pozycjк.</text>
 	</string>
 	<string id="mil_info_freedom_radio">
-		<text>Если целую ночь просидеть в деревне на Башне - то ОБЯЗАТЕЛЬНО что то произойдет…</text>
+		<text>Jeњli spкdzisz caі№ noc na wieїy we wsi, coњ NA PEWNO siк wydarzy...</text>
 	</string>
 	<string id="mil_info_max_mines">
-		<text>Помни о минах - сапер ошибается дважды...</text>
+		<text>Pamiкtaj o minach! Jeden bі№d i zostanie z ciebie grzanka...</text>
 	</string>
 	<string id="mil_info_max_village">
-		<text>Меченый будь осторожен - говорят в деревне появилась новая аномалия - движется очень быстро, к тому же ее падлу не видно.</text>
+		<text>Naznaczony, b№dџ ostroїny. Mуwi№, їe w wiosce mamy now№ anomaliк - przemieszcza siк bardzo szybko i w dodatku jest niewidoczna!</text>
 	</string>
 	<string id="mil_info_to_all">
-		<text>Внимание всех желающих разжижить мозги - проход на Радар охраняет отряд Монолита, я думаю вы в курсе что они стреляют по всем. Удачи.</text>
+		<text>Uwaga wszyscy, ktуrzy chc№ sobie rozrzedziж mуzg: przejњcia na Radar broni oddziaі "Monolitu", a jak pewnie wiecie - ci kolesie najpierw strzelaj№, a pуџniej nie zadaj№ pytaс. Powodzenia.</text>
 	</string>
 	<string id="mil_max_attack_signal">
-		<text>В атаку, братва. Замочим законников.</text>
+		<text>Naprzуd! Rozwaliж sukinsynуw!</text>
 	</string>
 	<string id="mil_mission_complete">
-		<text>Наша задача выполнена. Возвращаемся на хутор и там рассчитаемся.</text>
+		<text>Wykonaliњmy swoje zadanie. Wracamy do przysiуіka i tam siк rozliczymy.</text>
 	</string>
 	<string id="mil_scull_attack_signal">
-		<text>Вперед, ребята. Путь свободен.</text>
+		<text>Naprzуd, chіopcy. Droga wolna.</text>
 	</string>
 	<string id="mil_scull_info">
-		<text>Меченый, займись снайперами !!!</text>
+		<text>Naznaczony, zdejmij tych snajperуw!!</text>
 	</string>
 	<string id="mil_sniper_to_player_warning">
-		<text>Меченый, будь осторожен, а то еще по башке пулей схлопочешь...</text>
+		<text>Naznaczony, uwaїaj, bo jeszcze kulkк oberwiesz!</text>
 	</string>

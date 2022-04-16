@@ -1,51 +1,52 @@
 	<string id="mil_actor_main_quest_descr">
-		<text>По словам Генерала Воронина, эта пушка есть только у группировки "Свобода", как я ее достану дело мое. Но как я понял один из способов - это втереться в доверие к сталкеру Свободы "Повару" - со слов генерала: большому любителю выпить. Так что надо на всякий случай затариться водкой, может пригодиться.</text>
+		<text>Wedіug generaіa Woronina, tylko "Wolnoњж" ma jedn№ z tych broni. Jak j№ zdobyж, to moja sprawa. Dowiedziaіem siк, їe jedna z moїliwoњci - to zdobyж zaufanie stalkera z "Wolnoњci", Kuchmistrza. Generaі mуwi, їe goњж wyj№tkowo lubi sobie wypiж. Chyba powinienem zrobiж zapas wуdki na wszelki wypadek.</text>
 	</string>
 	<string id="mil_blockpost_job_descr">
-		<text>Необходимо помочь защитить "барьер" от атаки со стороны выжигателя мозгов.</text>
+		<text>Koniecznie trzeba pomуc ochroniж Barierк przed atakami od strony Mуzgozwкglacza.</text>
 	</string>
 	<string id="mil_blockpost_job2_descr">
-		<text>Лукаш: "Если чувствуешь в себе силы, то можешь пойти на заставу у выхода на Радар - по некоторым признакам там ожидается очередная попытка прорыва мутантов или Монолита. Надо помочь ребятам."</text>
+		<text>Јukasz: "Jeњli czujesz siк na siіach, weџ udziaі w zasadzce przy wyjњciu na Radar. S№ pewne oznaki, їe naleїy spodziewaж siк tam kolejnej prуby przedarcia siк mutantуw lub "Monolitu". Trzeba pomуc chіopakom."</text>
 	</string>
 	<string id="mil_courier_doc_descr">
-		<text>У Свободы появились гранатометы типа Бульдог 6. Две штуки. Одна в арсенале, вторая где-то в деревне.\n\n</text>
+		<text>"Wolnoњж" zdobyіa dwa granatniki RG-6. Jeden znajduje siк w arsenale, a drugi gdzieњ w wiosce.\n\n</text>
 	</string>
 	<string id="mil_courier_job_descr">
-		<text>Лукаш: "Прискорбно признавать, однако у нас завёлся стукач... Павликом зовут. Информацию передаёт на сторону, и это дело надо прекращать. Твоя задача - пойти за ним на хутор и узнать, кому он передаёт информацию. Он недавно ушел, так что придётся догонять. Запомни: шлепнуть его можно и нужно, но не раньше, чем он засветит того, кому сливает информацию. Второго тоже придётся убрать."</text>
+		<text>Јukasz: "Smutne, ale prawdziwe - mamy wњrуd nas donosiciela... Nazywa siк Pawlik. Przekazuje informacje drugiej stronie i trzeba z tym skoсczyж. Idџ za nim do gospodarstwa i dowiedz siк, z kim siк kontaktuje. Wyruszyі przed chwil№, wiкc musisz go dogoniж. Pamiкtaj: wykoсczyж go moїna, a nawet trzeba, ale nie przedtem, zanim nie dowiesz siк komu przekazuje informacje. Tego drugiego teї trzeba bкdzie zlikwidowaж".</text>
 	</string>
 	<string id="mil_crazy_flash_info">
-		<text>... сегодня мы отправились в деревню на очередную охоту на арты. Все как всегда. \n\n ... откуда взялась эта тварь? Не иначе, как с Радара пролезла. Все полегли, я один... Попробую уйти ночью...\n\n ... Я не помню как я выбрался - это был настоящий ад... Моя голова раскалывается - образы, звуки, я не знаю откуда они берутся, чертова радиация. И датчик, сука, сломался. Я должен отдохнуть и мне станет легче.</text>
+		<text>...Dzisiaj znowu poszliњmy do wioski polowaж na artefakty. Wszystko jak zawsze. \n\n... Sk№d siк wziкіa ta bestia? Musiaіa przyleџж z Radaru. Wszyscy chіopcy nie їyj№, zostaіem tylko ja... Postaram siк st№d wykraњж w nocy... \n\n Nie pamiкtam, jak siк wydostaіem - to byіo prawdziwe piekіo... Gіowa mi pкka - obrazy, dџwiкki, nie wiem sk№d pochodz№, cholerne promieniowanie. A na dodatek ten pieprzony detektor siк zepsuі. Muszк odpocz№ж, to poczujк siк lepiej.</text>
 	</string>
 	<string id="mil_dolg_kill_lukash_descr">
-		<text>Зайти с долговцами на базу.\nУничтожить трех снайперов. \nУбить Лукаша.</text>
+		<text>Wejdџ do bazy z czіonkami "Powinnoњci".\nWyeliminuj trzech snajperуw. \nZabij Јukasza.</text>
 	</string>
 	<string id="mil_dolg_kill_sniper_descr">
-		<text>Убить снайпера на вышке. Нужно действовать аккуратно, чтобы не схлопотать пулю в жбан.</text>
+		<text>Zabij snajpera na wieїy. Musisz uwaїaж, їeby nie zarobiж kulki w gіowк.</text>
 	</string>
 	<string id="mil_flash_bandit_descr">
-		<text>Блин, козлы из "Долга" нас согнали с рыбного места. Окопались на нашем хуторе. Мы даже свои вещички с чердака забрать не успели. Ничего, база "Свободы" рядом, так что их быстро оттуда выкурят.</text>
+		<text>Ale syf! Te dupki z "Powinnoњci" wysiudaіy nas ze њwietnego miejsca. Okopali siк w naszym gospodarstwie. Nie mieliњmy nawet czasu zabraж rzeczy ze strychu. Ale to nic -  jest baza "Wolnoњci" niedaleko, nie zostan№ tu dіugo.</text>
 	</string>
 	<string id="mil_flash_max_descr">
-		<text>Сегодня пошерстили военных, которые шли на Радар, поимели пару Бульдогов 6. Классная штука. Одну взял Лукаш, а вторую Угрюмый спрятал в деревне, в подвале дома</text>
+		<text>Dzisiaj przetrzepaliњmy kilku їoіnierzy, ktуrzy szli na Radar - zgarnкliњmy dwa RG-6. Њwietna rzecz! Јukasz wzi№і jeden z nich, a Mruk ukryі drugi w wiosce, w jednej z piwnic.</text>
 	</string>
 	<string id="mil_flash_ugrumy_descr">
-		<text>1: Черт меня дернул пойти на Радар, еле проскочил - еще немного и был бы еще один экспонат с разжиженными мозгами.\n\n 2: Четверо бандитов окружили меня как маленького, и я хорош - прохлопал засаду. Меня спасла их болтливость и жадность, вместо того чтоб меня изрешетить, они выскочили и захотели меня предварительно раздеть - позарились на костюм. Это была их последняя ошибка, но один все-таки меня задел, эх - старею...\n\n 3: Посланник Стрелка к моему приходу уже не дышал. Да, с тремя кровососами не каждый справится, а этот уложил четверых и еще несколько кровавых следов уходят в разные стороны. Единственная информация бывшая при нем - это код двери (19840519), но от какой, пока не представляется возможность узнать.\n\n 4: Перехватили вояк, которые шли на Радар. Документов и приказов у них не было, но по крайней мере затарились боеприпасами. Положу пока своего Бульдога 6 в подвальчике, потом заберу.</text>
+		<text>1. Chyba diabeі mnie podkusiі, їebym siк wybraі na Radar. Ledwo mi siк udaіo - odrobinк wolniej, i teraz pewnie byіbym kolejnym eksponatem ze spalonym mуzgiem.\n\n 2. Czterech bandytуw otoczyіo mnie jak dziecko, a ja teї dobry - nie zauwaїyіem ich zasadzki. Uratowaіa mnie jedynie ich gadatliwoњж i chciwoњж. Zamiast wpakowaж we mnie caіy magazynek, rzucili siк na mnie i zaczкli mnie rozbieraж - spodobaі im siк mуj kombinezon. To byі ich ostatni bі№d, a mimo to jeden z nich mnie zahaczyі... Ha, starzejк siк...\n\n 3. Kiedy przybyіem, posіaniec Strieіoka juї nie oddychaі. Nikt nie ma szans z trzema pijawkami, a ten goњciu zakatrupiі cztery. Poza tym widziaіem jeszcze kilka krwawych tropуw. Jedyne informacje, jakie przy nim znalazіem, to kod do drzwi (19840519), ale nie s№dzк, by udaіo mi siк dowiedzieж, ktуre drzwi otwiera.\n\n 4. Przechwyciliњmy kilku wojskowych, ktуrzy zmierzali na Radar. Nie mieli przy sobie їadnych dokumentуw ani rozkazуw, ale byli odpowiednio wyposaїeni. Na razie zostawiк swojego RG-6 w piwnicy, zabiorк jak bкdк go potrzebowaж.</text>
 	</string>
 	<string id="mil_freedom_rg6_task_descr">
-		<text>Воронин: "У Свободы есть несколько отличных гранатометов Бульдог 6, если бы у тебя получилось проникнуть на территорию Свободы и выкрасть хотя бы один такой гранатомет, то я бы щедро тебя вознаградил. Так как ты не в нашей группировке, ты легко можешь втереться в доверие к Свободе и при удачном раскладе спереть Бульдог 6. Я скину тебе информацию по местонахождению базы Свободы. Там тебе надо найти некоего Повара, члена группы "Свободы", он знает где именно хранится эта собачка. Он слаб на выпивку, поэтому постарайся его опоить. Возьми для этого побольше водки."</text>
+		<text>Woronin: ""Wolnoњж" ma kilka wspaniaіych granatnikуw RG-6. Gdyby ci siк udaіo przekraњж na ich teren i wynieњж stamt№d przynajmniej jeden, dobrze bym ciк wynagrodziі. Nie naleїysz do naszej frakcji, wiкc іatwo moїesz uіoїyж sobie dobre stosunki z "Wolnoњci№" i przy odrobinie szczкњcia zdobyж dla nas "RG-6". Przeњlк ci dane co do dokіadnego poіoїenia bazy "Wolnoњci". Tam musisz znaleџж niejakiego Kuchmistrza, czіonka "Wolnoњci", ktуry wie, gdzie skіadowane s№ te granatniki. Ma sіaboњж do alkoholu, wiкc postaraj siк go upiж. Weџ ze sob№ duїo wуdki".</text>
 	</string>
 	<string id="mil_go_to_miser_descr">
-		<text>Хм. Награду выдаст Скряга на базе Свободы... Хорошее имя. Может хоть на просроченную консерву расщедрится.</text>
+		<text>Hm. W bazie "Wolnoњci" otrzymam nagrodк od kogoњ, kto zwie siк Kutwa... Ciekawa ksywka. Moїe da chociaї przeterminowan№ konserwк.</text>
 	</string>
 	<string id="mil_hunters_task_descr">
-		<text>Уничтожить кровососов в деревне. Действовать аккуратно, а то они могут меня без крови оставить.</text>
+		<text>Oczyњciж wioskк z pijawek. Trzeba uwaїaж, bo inaczej wypij№ ze mnie caі№ krew.</text>
 	</string>
 	<string id="mil_hunters_task_descr2">
-		<text>Уничтожить кровососов в деревне. Действовать аккуратно, а то они могут меня без крови оставить.</text>
+		<text>Oczyњciж wioskк z pijawek. Trzeba uwaїaж, bo inaczej wypij№ ze mnie caі№ krew.</text>
 	</string>
 	<string id="mil_lukash_job_descr">
-		<text>Лукаш решил нанести контрудар по отряду долга на хуторе. Операцию возглавит Макс - один из ветеранов Свободы. Моя задача - помочь им.</text>
+		<text>Јukasz zdecydowaі siк przeprowadziж kontratak na oddziaі "Powinnoњci" w wiosce. Akcj№ bкdzie dowodziі Maks, jeden z weteranуw z "Wolnoњci". Moim zadaniem jest im pomуc.</text>
 	</string>
 	<string id="mil_mad_flash_job_descr">
-		<text>Что, интересно, может знать такого этот безумец на болоте? Разберемся. Главное не нарваться на старые мины, но они должны быть настолько в ржавом состоянии, что взорвутся от болта.</text>
+		<text>Ciekawe, co ten szaleniec z bagna moїe wіaњciwie wiedzieж. Dowiem siк. Waїne, їeby nie wpaњж na stare miny. Pewnie rdza je tak przeїarіa, їe mog№ wybuchn№ж od uderzenia њrub№.</text>
 	</string>
+

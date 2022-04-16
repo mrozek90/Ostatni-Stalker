@@ -1,150 +1,150 @@
 	<string id="mil_blockpost_job">
-		<text>Оказать помощь блокпосту Свободы "Барьер"</text>
+		<text>Udziel pomocy przy Barierze</text>
 	</string>
 	<string id="mil_courier">
-		<text>Стукач</text>
+		<text>Donosiciel Pawlik</text>
 	</string>
 	<string id="mil_courier_job">
-		<text>Разобраться со стукачом</text>
+		<text>Zajmij siк donosicielem</text>
 	</string>
 	<string id="mil_courier_phase1">
-		<text>Добраться до хутора</text>
+		<text>Dotrzyj do przysiуіka w њlad za Pawlikiem</text>
 	</string>
 	<string id="mil_courier_phase2">
-		<text>Дождаться пока стукач вызовет информатора</text>
+		<text>Poczekaj, aї Pawlik ujawni swojego agenta</text>
 	</string>
 	<string id="mil_courier_phase3">
-		<text>Уничтожить стукача</text>
+		<text>Zaіatw donosiciela Pawlika</text>
 	</string>
 	<string id="mil_courier_phase4">
-		<text>Уничтожить информатора</text>
+		<text>Zaіatw agenta</text>
 	</string>
 	<string id="mil_courier_phase5">
-		<text>Доложить Лукашу о выполнении</text>
+		<text>Zdaj Јukaszowi raport z wypeіnienia zadania</text>
 	</string>
 	<string id="mil_crazy">
-		<text>Безумный сталкер</text>
+		<text>Szalony stalker.</text>
 	</string>
 	<string id="mil_dolg">
-		<text>Группа "Долга"</text>
+		<text>Frakcja "Powinnoњж"</text>
 	</string>
 	<string id="mil_dolg_assault_freedom">
-		<text>Помочь отряду Долга в устранении Лукаша</text>
+		<text>Pomуї oddziaіowi "Powinnoњci" zlikwidowaж Јukasza</text>
 	</string>
 	<string id="mil_kill_lukash">
-		<text>Убить Лукаша</text>
+		<text>Zabij Јukasza</text>
 	</string>
 	<string id="mil_dolg_assault_support">
-		<text>Уничтожить снайпера</text>
+		<text>Zlikwiduj snajpera</text>
 	</string>
 	<string id="mil_dolg_return_to_khutor">
-		<text>Вернуться на хутор Долга и получить гонорар</text>
+		<text>Wrуж na przysiуіek "Powinnoњci" i odbierz nagrodк</text>
 	</string>
 	<string id="mil_dolg_return_to_skull">
-		<text>Вернуться к Черепу</text>
+		<text>Wrуж do Czachy</text>
 	</string>
 	<string id="mil_fblockpost_commander">
-		<text>Командир блокпоста "Кеп"</text>
+		<text>Dowуdca posterunku, Czapa</text>
 	</string>
 	<string id="mil_fblockpost_phase2">
-		<text>Помочь в уничтожении прорывающегося отряда Монолита</text>
+		<text>Pomуї zniszczyж oddziaі uderzeniowy "Monolitu"</text>
 	</string>
 	<string id="mil_fblockpost_phase3">
-		<text>Поговорить с командиром блокпоста "Барьер"</text>
+		<text>Porozmawiaj z dowуdc№ posterunku na Barierze</text>
 	</string>
 	<string id="mil_find_cook">
-		<text>Найти повара на базе Свободы</text>
+		<text>Znajdџ Kucharza w bazie "Wolnoњci"</text>
 	</string>
 	<string id="mil_freedom_rg6_task">
-		<text>Достать Бульдог 6 у Свободы</text>
+		<text>Wydob№dџ Bulldoga 6 od "Wolnoњci"</text>
 	</string>
 	<string id="mil_go_max">
-		<text>Доложить Максу</text>
+		<text>Zgіoњ siк do Maksa</text>
 	</string>
 	<string id="mil_go_to_miser_task">
-		<text>Сходить на базу Свободы к Скряге за наградой</text>
+		<text>Idџ do bazy "Wolnoњci", їeby spotkaж siк z Kutw№ i odebraж nagrodк</text>
 	</string>
 	<string id="mil_go_to_miser_task_main">
-		<text>Получить награду за убитых кровососов</text>
+		<text>Odbierz nagrodк za zabicie pijawek</text>
 	</string>
 	<string id="mil_hunters_phase1">
-		<text>Найти Угрюмого в деревне</text>
+		<text>Znajdџ Mruka w wiosce</text>
 	</string>
 	<string id="mil_hunters_phase2">
-		<text>Уничтожить кровососов</text>
+		<text>Zabij pijawki</text>
 	</string>
 	<string id="mil_hunters_phase3">
-		<text>Вернуться к Скряге за артефактом</text>
+		<text>Wrуж do Kutwy po artefakt</text>
 	</string>
 	<string id="mil_hunters_task">
-		<text>Уничтожить кровососов в деревне</text>
+		<text>Zabij pijawki w wiosce</text>
 	</string>
 	<string id="mil_kill_controller">
-		<text>Убить кровососов</text>
+		<text>Zabij pijawki</text>
 	</string>
 	<string id="mil_kill_controller_main">
-		<text>Убить кровососов</text>
+		<text>Zabij pijawki</text>
 	</string>
 	<string id="mil_kill_dolg">
-		<text>Уничтожить группу</text>
+		<text>Zlikwiduj oddziaі "Powinnoњci"</text>
 	</string>
 	<string id="mil_lukash">
-		<text>Лукаш</text>
+		<text>Јukasz.</text>
 	</string>
 	<string id="mil_max">
-		<text>Макс</text>
+		<text>Maks.</text>
 	</string>
 	<string id="mil_put_flash_to_max">
-		<text>Отдать флешку Максу</text>
+		<text>Oddaj Maksowi fleszkк</text>
 	</string>
 	<string id="mil_kill_sniper">
-		<text>Убить снайпера на вышке</text>
+		<text>Zabij snajpera na wieїy</text>
 	</string>
 	<string id="mil_quest_report_dolg">
-		<text>Сообщить о выполнении группе Долга</text>
+		<text>Zdaj raport z zadania oddziaіowi "Powinnoњci"</text>
 	</string>
 	<string id="mil_return_lukash">
-		<text>Вернуться к Лукашу</text>
+		<text>Wrуж do Јukasza</text>
 	</string>
 	<string id="mil_return_to_ugrumy">
-		<text>Сообщить Угрюмому о выполнении</text>
+		<text>Zdaj raport z zadania Mrukowi</text>
 	</string>
 	<string id="mil_return_to_voronin">
-		<text>Отнести Бульдог-6 генералу Воронину</text>
+		<text>Przynieњ Bulldoga 6 generaіowi Woroninowi</text>
 	</string>
 	<string id="mil_rg6">
-		<text>Найти Бульдог-6</text>
+		<text>Znajdџ Bulldoga 6</text>
 	</string>
 	<string id="mil_secret">
-		<text>Схрон бандитов</text>
+		<text>Magazyn bandytуw.</text>
 	</string>
 	<string id="mil_sniper">
-		<text>Снайпер</text>
+		<text>Snajper.</text>
 	</string>
 	<string id="mil_mad_job">
-		<text>Получить флешку у безумного снайпера</text>
+		<text>Zdob№dџ fleszkк szalonego snajpera</text>
 	</string>
 	<string id="mil_talk_cook">
-		<text>Поговорить с поваром</text>
+		<text>Porozmawiaj z Kucharzemm</text>
 	</string>
 	<string id="mil_talk_with_cap">
-		<text>Поговорить с командиром блокпоста Свободы Кэпом</text>
+		<text>Porozmawiaj z Czap№, dowуdc№ posterunku "Wolnoњci"</text>
 	</string>
 	<string id="mil_test_task_phase1">
-		<text>Зайти в рестриктор 1</text>
+		<text>Wejdџ do ogranicznika 1</text>
 	</string>
 	<string id="mil_test_task_phase2">
-		<text>Зайти в рестриктор 2</text>
+		<text>Wejdџ do ogranicznika 2</text>
 	</string>
 	<string id="mil_test_task_phase3">
-		<text>Поднять Бульдог-6 для выполнения задачи или ТРс 301 для провала</text>
+		<text>Podnieњ Bulldoga 6, їeby misja siк powiodіa, a TRs 301 - їeby zakoсczyіa siк niepowodzeniem</text>
 	</string>
 	<string id="mil_test_task_title">
-		<text>Тестовая задача</text>
+		<text>Misja prуbna</text>
 	</string>
 	<string id="mil_ugrumy">
-		<text>Угрюмый</text>
+		<text>Mruk.</text>
 	</string>
 	<string id="mil_lukash_job">
-		<text>Уничтожить группу Долга</text>
+		<text>Zlikwiduj jednostkк "Powinnoњci"</text>
 	</string>

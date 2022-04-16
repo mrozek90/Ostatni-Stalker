@@ -1,60 +1,63 @@
 	<string id="mil_cap_hint">
-		<text>Поговорить с командиром блокпоста "Барьер"</text>
+		<text>Porozmawiaj z dowуdc№ Bariery</text>
 	</string>
 	<string id="mil_courier_hint1">
-		<text>Проследить за стукачом</text>
+		<text>Idџ za szpiegiem</text>
 	</string>
 	<string id="mil_courier_hint2">
-		<text>Дождаться вызова стукачом информатора</text>
+		<text>Poczekaj, aї donosiciel zawoіa informatora</text>
 	</string>
 	<string id="mil_courier_hint3">
-		<text>Убить стукача</text>
+		<text>Zabij Pawlika</text>
 	</string>
 	<string id="mil_courier_hint4">
-		<text>Убить информатора</text>
+		<text>Zabij informatora</text>
 	</string>
 	<string id="mil_crazy_hint">
-		<text>Взять флешку у сумасшедшего сталкера</text>
+		<text>Zabierz fleszkк szalonemu stalkerowi </text>
 	</string>
 	<string id="mil_dolg_khutor">
-		<text>Хутор Долга</text>
+		<text>Przysiуіek "Powinnoњci"</text>
 	</string>
 	<string id="mil_freedom_sniper">
-		<text>Убить снайпера</text>
+		<text>Zabij snajpera</text>
 	</string>
 	<string id="mil_hunters_hint1">
-		<text>Поговорить с Угрюмым</text>
+		<text>Porozmawiaj z Mrukiem</text>
 	</string>
 	<string id="mil_hunters_hint2">
-		<text>Вернуться к Скряге</text>
+		<text>Wrуж do Kutwy</text>
 	</string>
 	<string id="mil_kill_dolg_hint">
-		<text>Уничтожить отряд Долга</text>
+		<text>Zlikwiduj oddziaі "Powinnoњci"</text>
 	</string>
 	<string id="mil_kill_lukash_hint">
-		<text>Убить Лукаша</text>
+		<text>Zabij Јukasza</text>
 	</string>
 	<string id="mil_miser_hint">
-		<text>Скряга</text>
+		<text>Kutwa</text>
 	</string>
 	<string id="mil_report_to_max_hint">
-		<text>Доложить Максу</text>
+		<text>Zgіoњ siк do Maksa</text>
 	</string>
 	<string id="mil_return_to_lukash_hint">
-		<text>Доложить Лукашу</text>
+		<text>Zgіoњ siк do Јukasza</text>
 	</string>
 	<string id="mil_return_to_max_hint">
-		<text>Отдать флешку Максу</text>
+		<text>Daj Maksowi fleszkк psychola</text>
 	</string>
 	<string id="mil_rg6_hint1">
-		<text>Найти повара на базе "Свободы"</text>
+		<text>Znajdџ Kucharza w bazie "Wolnoњci"</text>
 	</string>
 	<string id="mil_rg6_hint2">
-		<text>Поговорить с поваром</text>
+		<text>Porozmawiaj z Kucharzem</text>
 	</string>
 	<string id="mil_rg6_hint3">
-		<text>Забрать Бульдог-6 из схрона в деревне</text>
+		<text>Zabierz RG-6 ze schowka w wiosce</text>
+	</string>
+	<string id="mil_blockpost_job">
+		<text>Obroс Barierк.</text>
 	</string>
 	<string id="mil_watertower_hint">
-		<text>Водонапорная башня</text>
+		<text>Wieїa ciњnieс</text>
 	</string>

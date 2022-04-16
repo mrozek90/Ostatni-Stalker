@@ -1,1609 +1,1593 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="artefact">
-		<text>Добыть артефакт</text>
+		<text>Zdobadz artefakt</text>
 	</string>
 	<string id="barmen_defend_camp_1">
-		<text>Защитить стоянку сталкеров на Свалке от нападения бандитов</text>
+		<text>Obron oboz na Wysypisku</text>
 	</string>
 	<string id="barmen_defend_camp_1_descr">
-		<text>Защитить стоянку сталкеров на Свалке от нападения бандитов</text>
+		<text>Obron oboz stalkerow na Wysypisku przed atakiem bandytow.</text>
 	</string>
 	<string id="barmen_defend_camp_1_text">
-		<text>Ко мне идет группа сталкеров, в благополучном приходе которых я заинтересован лично. Они остановились недалеко от Бара. Один раскаявшийся криминальный элемент почти добровольно сообщил нам, что на них в ближайшее время должны напасть. Так что направляйся туда и защити их стоянку от нападения</text>
+		<text>Grupa stalkerow przybedzie do mnie z wizyta i bardzo mi zalezy na tym, zeby dotarli tu bezpiecznie. Zatrzymaja sie niedaleko baru. Pewien skruszony przestepca niemal dobrowolnie poinformowal nas, ze wkrotce zostana zaatakowani. Udaj sie wiec w tamtym kierunku i obron ich oboz przed atakiem.</text>
 	</string>
 	<string id="barmen_defend_camp_2">
-		<text>На Агропроме помочь сталкерам отбиться от бандитов</text>
+		<text>Pomoz stalkerom odeprzec bandytow w Agropromie</text>
 	</string>
 	<string id="barmen_defend_camp_2_descr">
-		<text>На Агропроме помочь сталкерам отбиться от бандитов</text>
+		<text>Pomoz stalkerom odeprzec bandytow w Agropromie.</text>
 	</string>
 	<string id="barmen_defend_camp_2_text">
-		<text>В общем такое дело есть. Недавно на Агропром группа сталкеров ушла, последний раз, когда они на связь выходили, сказали, что в подземке, надыбали что-то ценное, но на них бандюки насели. Пока они держатся, но и свалить не могут. Поможешь им?</text>
+		<text>Sprawa wyglada tak: niedawno grupa stalkerow wybrala sie do Agropromu. Kiedy ostatni raz sie kontaktowali, powiedzieli, ze w podziemiach jest cos wartosciowego, ale ze cisna ich bandyci. Trzymaja sie jakos, ale nie moga sie wydostac. Pomozesz im?</text>
 	</string>
 	<string id="barmen_eliminate_camp_1">
-		<text>Уничтожить бандитов на Свалке</text>
+		<text>Zabij bandytow</text>
 	</string>
 	<string id="barmen_eliminate_camp_1_descr">
-		<text>Покончить с группой бандитов, облюбовавшей территорию Свалки. Нужно сделать это быстро, а главное - качественно</text>
+		<text>Zlikwiduj grupe bandytow, ktorzy zadomowili sie na Wysypisku. Akcja musi zostac przeprowadzona szybko i skutecznie. </text>
 	</string>
 	<string id="barmen_eliminate_camp_1_text">
-		<text>Работёнка, работёнка... что ж там у нас с ней?.. Ага! Значит, смотри: грохнуть кодлу бандитскую на Свалке сможешь? У "Долга", хоть и орут они о правопорядке много, всё руки не доходят; правда, эти бандюки подонки редкие, уже всех достали, так что недолго им гулять. Только тот, кто успеет первым, срубит немного деньжат... ну и выпивка с меня, уж это обязательно</text>
+		<text>Praca, tak? Niech zobacze, co my tu mamy... Aha! Prosze: mozesz sie pozbyc grupy bandytow z Wysypiska? "Powinnosc", mimo tych ciaglych gadek o prawie i porzadku, jakos nie moze sie do tego zabrac. To sa wyjatkowe gnoje, wiec i tak dlugo nie pociagna. Ale ktos, kto dorwie ich pierwszy, zgarnie gruba kase... a gorzale stawiam oczywiscie ja.</text>
 	</string>
 	<string id="barmen_eliminate_camp_2">
-		<text>Уничтожить наёмников и бандитов на заводе "Росток"</text>
+		<text>Zabij najemnikow i bandytow z Rostoku.</text>
 	</string>
 	<string id="barmen_eliminate_camp_2_descr">
-		<text>Убрать группу наемников и бандитов, перекрывших проход через территорию "Ростка"</text>
+		<text>Pozbadz sie najemnikow i bandytow, ktorzy zagradzaja przejscie przez Rostok.</text>
 	</string>
 	<string id="barmen_eliminate_camp_2_text">
-		<text>Тут недалеко, на "Ростке", засела группа наёмников. С бандитами они поладили, и теперь вместе хотят проход через завод закрыть. Сам понимаешь - недоразумение это, его быстро решить надо. "Долговцы" и с ними кое-кто из опытных мужиков уже ушли их воспитывать, только пока что-то назад их не видать... Так ты это... пойди проверь, как там дела обстоят. Плачу неплохо</text>
+		<text>Niedaleko stad, w Rostoku, jest banda najemnikow. Skumplowali sie z bandytami i teraz planuja zablokowac przejscie przez fabryke. Nie musze chyba wyjasniac, ze to problem, ktory trzeba natychmiast rozwiazac. Kolesie z "Powinnosci" i kilku weteranow juz sie tam wybralo, zeby dac im nauczke, ale od jakiegos czasu sie nie odzywaja... Wiec moze... ten... wybierz sie tam i sprawdz, co sie dzieje. Mozesz dobrze zarobic.</text>
 	</string>
 	<string id="barmen_eliminate_camp_3">
-		<text>Уничтожить бандитов на хуторе</text>
+		<text>Zabij bandytow z gospodarstwa.</text>
 	</string>
 	<string id="barmen_eliminate_camp_3_descr">
-		<text>Всё просто: очистить хутор от бандитов</text>
+		<text>Prosta sprawa: pozbadz sie bandytow z gospodarstwa.</text>
 	</string>
 	<string id="barmen_eliminate_camp_3_text">
-		<text>В районе старых складов есть небольшой хуторок. Там удобно было встретиться с кем надо, товар взять-передать, ну такое... ты понял. А сейчас там засели бандюги - и сваливать в ближайшее время, похоже, не собираются. Только меня это не очень устраивает. Значит, надо мне, чтобы хутор освободился в ближайшее время. Что будет с квартирантами - меня не волнует</text>
+		<text>Niedaleko starych magazynow lezy gospodarstwo. Kiedys bylo to idealne miejsce na spotkania, wymiane towarow - no wiesz... tego typu rzeczy. Ale teraz zajeli je bandyci i nie wyglada na to, zeby mieli sie stamtad wyniesc. A mi to zupelnie nie odpowiada. Potrzebuje tego gospodarstwa jak najszybciej. Nie obchodzi mnie, co sie stanie z obecnymi lokatorami. </text>
 	</string>
 	<string id="barmen_eliminate_camp_4">
-		<text>Зачистить лагерь бандитов на "Дикой территории"</text>
+		<text>Zlikwiduj oboz bandytow w Dziczy</text>
 	</string>
 	<string id="barmen_eliminate_camp_4_descr">
-		<text>Зачистить лагерь бандитов на "Дикой территории"</text>
+		<text>Zlikwiduj oboz bandytow w Dziczy.</text>
 	</string>
 	<string id="barmen_eliminate_camp_4_text">
-		<text>На "Дикой территории" бандиты. Мы не можем допустить, чтобы эти подонки разводили антисанитарию прямо рядом с баром. Надо зачистить их лагерь</text>
+		<text>W Dziczy sa bandyci. Nie mozemy pozwolic tym wyrzutkom spoleczenstwa szerzyc zepsucie tuz obok baru. Trzeba zmiesc ich oboz z powierzchni ziemi.</text>
 	</string>
 	<string id="barmen_eliminate_camp_5">
-		<text>Уничтожить логово диких собак-мутантов на "Дикой территории"</text>
+		<text>Zniszcz legowisko zmutowanych psow w Dziczy.</text>
 	</string>
 	<string id="barmen_eliminate_camp_5_descr">
-		<text>Уничтожить логово диких собак-мутантов на "Дикой территории"</text>
+		<text>Zniszcz legowisko zmutowanych psow w Dziczy.</text>
 	</string>
 	<string id="barmen_eliminate_camp_5_text">
-		<text>Несколько наших ребят пошли в экспедицию, вернулся один. Весь ободранный, в крови, глаза стеклянные. Нарвались на собак скорее всего. Их там целая стая. Так вот, найди их логово и перебей всех до последнего</text>
+		<text>Kilku naszych wybralo sie na wyprawe, wrocili pojedynczo. Cali poszarpani, zakrwawieni, ze szklistymi oczami. Najwyrazniej natkneli sie na psy. Jest ich tam cale stado. Znajdz ich legowisko i wyrznij co do jednego.</text>
 	</string>
 	<string id="barmen_eliminate_camp_6">
-		<text>Уничтожить группу бандитов на Агропроме</text>
+		<text>Zlikwiduj grupe bandytow w Agropromie</text>
 	</string>
 	<string id="barmen_eliminate_camp_6_descr">
-		<text>Уничтожить группу бандитов на Агропроме</text>
+		<text>Zlikwiduj grupe bandytow w Agropromie.</text>
 	</string>
 	<string id="barmen_eliminate_camp_6_text">
-		<text>Помню, как-то в 94-м прицепились ко мне рэкетиры - давай, мол, отстегивай. Ух, натерпелся я тогда, ресторан у меня был. Тогда на них управы не было! А тут вдруг узнаю, что эта же шайка теперь орудует на Агропроме, проценты за находку артефактов собирает! Но здесь у меня руки длинные. Я даже знаю, где именно они засели. Будь добр, накажи их</text>
+		<text>Pamietam, jak w 1994 rekieterzy doczepili sie do mnie, powiedzieli, zebym wyskoczyl z kasy. Czlowieku, przeszedlem wtedy pieklo - mialem restauracje i w ogole. Wtedy nie mozna im bylo nic zrobic! A tu nagle dowiaduje sie, ze ten sam gang pracuje w Agropromie, zarabiajac sobie na artefaktach, ktore tam znajduja. Teraz jednak moge cos zrobic... Wiem nawet dokladnie, gdzie sie ukrywaja. Wyswiadcz mi przysluge - ukarz ich.</text>
 	</string>
 	<string id="barmen_eliminate_camp_7">
-		<text>Уничтожить логово снорков в "Темной долине"</text>
+		<text>Zniszcz legowisko snorkow w Dolinie Mroku</text>
 	</string>
 	<string id="barmen_eliminate_camp_7_descr">
-		<text>Уничтожить логово снорков в "Темной долине"</text>
+		<text>Zniszcz legowisko snorkow w Dolinie Mroku</text>
 	</string>
 	<string id="barmen_eliminate_camp_7_text">
-		<text>Мда... Похоже правы те, кто говорит что зона расширяется. В темной долине несколько снорков заметили, раньше они там не попадались. Ну тут уже паниковать некоторые начали. Долговцы обещали снорков уничтожить, но все не соберутся никак. Возьмешься?</text>
+		<text>Taa.. Wyglada na to, ze ci, co mowia, ze Zona sie powieksza, jednak maja racje. W Dolinie Mroku pojawilo sie kilka snorkow, a wczesniej nigdy ich tam nie widywano. No i niektorzy zaczeli panikowac. Kolesie z "Powinnosci" obiecali zlikwidowac snorki, ale jakos nie moga sie do tego zabrac. Zalatwisz to?</text>
 	</string>
 	<string id="barmen_find_artefact_1">
-		<text>Найти артефакт "Ломоть мяса"</text>
+		<text>Znajdz "kotlet"</text>
 	</string>
 	<string id="barmen_find_artefact_1_descr">
-		<text>Достать "Ломоть мяса" - артефакт, помогающий исцелять телесные недуги</text>
+		<text>Znajdz "kotlet", ktory leczy rany i choroby.</text>
 	</string>
 	<string id="barmen_find_artefact_1_text">
-		<text>Тут недавно святоши какие-то заходили, заказ на "Ломоть мяса" оставили. Сам знаешь, есть у них интерес к этому артефакту целительному... чудотворцы гнилые, блин! Мда-а... Так ты берёшься? В принципе, не заставляю</text>
+		<text>Byli tu jacys duchowni - zostawili zamowienie na "kotleta". No wiesz, interesuja sie tym leczacym artefaktem... Zasrani cudotworcy! Niewazne... Zdobedziesz go? Decyzja nalezy do ciebie.</text>
 	</string>
 	<string id="barmen_find_artefact_2">
-		<text>Найти артефакт "Кристальная колючка"</text>
+		<text>Znajdz "krysztalowy kolec" </text>
 	</string>
 	<string id="barmen_find_artefact_2_descr">
-		<text>Найти артефакт "Кристальная колючка", который помогает носителю обезопасить себя от атак на сознание</text>
+		<text>Znajdz "krysztalowy kolec", ktory chroni przed atakami psionicznymi.</text>
 	</string>
 	<string id="barmen_find_artefact_2_text">
-		<text>"Вонючка"?.. Нет, не то. "Кристальная водичка"?.. Не, обратно не то... Тьфу ты! "Кристальная колючка", о как! Значит, смотри: заказали мне артефакт "Кристальная колючка". Знаешь такой? Вроде как если она у тебя есть, так не даст никакой твари тебе мозги запутать. Ну, что скажешь?</text>
+		<text>"Bolec"? Nie, to nie to... "Krysztalowy palec "? Nie, to tez nie to... Kurde! "Krysztalowy kolec"! Tak! Sprawa wyglada tak: mam zlecenie na artefakt zwany "krysztalowym kolcem". Slyszales o nim? Podobno jak masz taki przy sobie, nikt nie bedzie mogl grzebac w twoim mozgu. Co ty na to?</text>
 	</string>
 	<string id="barmen_find_artefact_3">
-		<text>Найти артефакт "Ночная звезда"</text>
+		<text>Znajdz "gwiazde wieczorna" </text>
 	</string>
 	<string id="barmen_find_artefact_3_descr">
-		<text>Найти артефакт "Ночная звезда" - помочь отечественной военной науке</text>
+		<text>Znajdz "gwiazde wieczorna", zeby pomoc wojskowym instytucjom badawczym.</text>
 	</string>
 	<string id="barmen_find_artefact_3_text">
-		<text>Нужен артефакт "Ночная звезда". Желания он, к сожалению, не исполняет - проверено, а вот обогатить вполне даже может. Учёные за него хорошие деньги дают. Что-то, говорят, мастерят на его основе военное... Ну так что?</text>
+		<text>Potrzebuje "gwiazdy wieczornej". Przykro mi to mowic, ale nie spelnia zyczen - wiem to z autopsji - moze natomiast przyniesc sporo kasy. Naukowcy duzo za to wybula. Podobno robia z tego jakis wojskowy sprzet... Czujesz sie na silach?</text>
 	</string>
 	<string id="barmen_find_artefact_4">
-		<text>Найти артефакт "Вспышка"</text>
+		<text>Znajdz "blysk"</text>
 	</string>
 	<string id="barmen_find_artefact_4_descr">
-		<text>Найти артефакт "Вспышка"</text>
+		<text>Znajdz "blysk".</text>
 	</string>
 	<string id="barmen_find_artefact_4_text">
-		<text>Задание простое, а оплата хорошая. Нужно найти артефакт "Вспышка". Даже и не спрашивай - кто и зачем заказал. Берешься?</text>
+		<text>Zlecenie jest proste, a zaplata dobra. Masz znalezc artefakt "blysk". Nawet nie pytaj, dla kogo i po co. Zrobisz to?</text>
 	</string>
 	<string id="barmen_find_artefact_5">
-		<text>Найти артефакт "Золотая рыбка"</text>
+		<text>Znajdz "zlota rybke"</text>
 	</string>
 	<string id="barmen_find_artefact_5_descr">
-		<text>Найти артефакт "Золотая рыбка"</text>
+		<text>Znajdz "zlota rybke".</text>
 	</string>
 	<string id="barmen_find_artefact_5_text">
-		<text>Меченый, знаешь сказку про Золотую рыбку? Во, во! Еще анекдотов много про нее. Так вот, есть один старик, который все хочет ее поймать. В общем, нужен уникальный артефакт "Золотая рыбка", заказчик внешний, солидный. Поможешь?</text>
+		<text>Naznaczony, znasz opowiesc o zlotej rybce? Tak, tak, wlasnie te. Jest rowniez sporo dowcipow na ten temat. No, ale do rzeczy - jest taki stary czlowiek, ktory caly czas chce ja zlapac. Podsumowujac, potrzebuje jedynego w swoim rodzaju artefaktu, zwanego "zlota rybka". To szanowany klient. Z zewnatrz. Pomozesz?</text>
 	</string>
 	<string id="barmen_find_item_1">
-		<text>Найти пси-костюм</text>
+		<text>Znajdz kombinezon psioniczny</text>
 	</string>
 	<string id="barmen_find_item_1_descr">
-		<text>Найти комбинезон, позволяющий эффективно защититься от пси-излучения. Искать нужно где-то в заброшенных лабораториях Тёмной долины</text>
+		<text>Znajdz kombinezon, ktory skutecznie chroni przed emisjami psionicznymi. Szukaj w opuszczonych laboratoriach w Dolinie Mroku.</text>
 	</string>
 	<string id="barmen_find_item_1_text">
-		<text>Было время, лаборатории в Тёмной долине работали: всё искали, как защитить мозги от пси-излучения. Только слишком уж медленно работали, да... Так вот, вроде бы одна попытка была-таки успешной, и где-то там валяется комбез, в котором можно хоть контролёра поцеловать... Ага, вот даже так. Если притащишь мне эту штуковину, не забуду</text>
+		<text>W tych laboratoriach w Dolinie Mroku usilowano znalezc sposob na ochrone ludzkiego mozgu przed emisjami psionicznymi. Nie spieszyli sie, to pewne... Tak czy inaczej - jedna z prob udala sie i podobno istnieje kombinezon, po ktorego wlozeniu mozesz nawet dac buziaka Kontrolerowi. Fajna rzecz. Jesli przyniesiesz mi to cos, nigdy ci tego nie zapomne.</text>
 	</string>
 	<string id="barmen_find_item_2">
-		<text>Найти ствол иностранца</text>
+		<text>Znajdz bron obcokrajowca.</text>
 	</string>
 	<string id="barmen_find_item_2_descr">
-		<text>Интересное задание. Знакомое имя, кстати, у этого иностранца... только откуда?</text>
+		<text>Ciekawe zadanie. Skads znam to nazwisko... ale skad?</text>
 	</string>
 	<string id="barmen_find_item_2_text">
-		<text>Появлялся тут в наших краях иностранец один... Гордоном его звали, что ли? Причём по всем повадкам - опытный сталкер, а только в Зоне, говорил, ни разу не был. Ну ладно, не об этом речь. Всё-таки сгинул он где-то в Зоне. А была у него одна очень интересная штука - "Черный ястреб". Вот взглянуть бы на неё поближе..</text>
+		<text>Kiedys w tych stronach pojawil sie pewien obcokrajowiec... Nazywal sie chyba Gordon. Widac bylo po nim, ze to doswiadczony stalker, ale mowil, ze nigdy wczesniej nie byl w Zonie. Niewazne, nie o to chodzi. W koncu zniknal gdzies w Zonie. Mial jedna ciekawa rzecz - "Black Kite'a". Gdybym tylko mogl mu sie dokladniej przyjrzec...</text>
 	</string>
 	<string id="barmen_find_item_3">
-		<text>Найти модифицированный "Винторез"</text>
+		<text>Znajdz ulepszonego Wintara</text>
 	</string>
 	<string id="barmen_find_item_3_descr">
-		<text>Найти модифицированный "Винторез". Искать, судя по всему, нужно в районе Радара</text>
+		<text>Znajdz ulepszonego Wintara. Wyglada na to, ze powinienes szukac w okolicy Czerwonego Lasu. </text>
 	</string>
 	<string id="barmen_find_item_3_text">
-		<text>Значит, такая тут история случилась. Примчался один тип - карманы от денег прямо топырятся! Начал народ себе в компанию нанимать, который не поопытней, а погоношистей, снаряжение пачками скупать... Был у меня "Винторез" доведённый - чудо, а не пушка! - так я сдуру ему и продал. По деньгам-то не прогадал, врать не буду... только вся эта компания быстренько накрылась где-то в районе Радара. Ну, жалко людей, конечно... только вот другие теперь будут знать: одним баблом дорогу сквозь Зону не выстелешь. Да, так мне до сих пор "Винторез" тот жалко - такой ствол, и где-то гниёт! Найди, а? Хороший гонорар за мной!</text>
+		<text>Krazyla taka dziwna opowiesc. Pojawil sie jakis koles z kieszeniami wypchanymi forsa. Wynajal bande ludzi, ale nie weteranow, tylko takich swiezszych. Kupil tony sprzetu... Mialem takiego nowiutkiego Wintara - cudowna bron! I bylem na tyle glupi, ze mu go sprzedalem. Nie bede sciemniac, zarobilem na tym kupe kasy... Tyle ze cala ekipa oberwala niedaleko Czerwonego Lasu. Coz moge powiedziec, zgineli na darmo... Jaki z tego moral? Drogi przez Zone nie utorujesz sobie pieniedzmi. Tak czy inaczej... Nie moge przestac myslec o tym Wintarze - taka wspaniala pukawka gdzies tam rdzewieje! Znajdziesz ja dla mnie? Dobrze zaplace!</text>
 	</string>
 	<string id="barmen_kill_stalker_1">
-		<text>Убить военнослужащего</text>
+		<text>Zabij zolnierza</text>
 	</string>
 	<string id="barmen_kill_stalker_1_descr">
-		<text>Надо прикончить неизвестного военнослужащего. Работа, кажется, довольно простая... странно только, что это заказ на человека в форме, а заказчик явно очень разозлён</text>
+		<text>Jakis zolnierz ma gryzc ziemie. To zaden problem, ale... dziwne jest to, ze celem jest wojskowy. A klient jest naprawde wkurzony. </text>
 	</string>
 	<string id="barmen_kill_stalker_1_text">
-		<text>Мне надо, чтобы ты разобрался с одним военным... и не спрашивай, кто он, и нафиг оно мне сдалось! Просто сделай дело. Ну? Можно на тебя положиться?</text>
+		<text>Chce, zebys wykonczyl tego trepa... Nie pytaj mnie, kim jest - co mnie to obchodzi?! Po prostu to zrob. To jak? Moge na ciebie liczyc?</text>
 	</string>
 	<string id="barmen_kill_stalker_2">
-		<text>Убить сталкера</text>
+		<text>Zabij stalkera</text>
 	</string>
 	<string id="barmen_kill_stalker_2_descr">
-		<text>Прикончить одного из сталкеров. Смерть обманувшему - такова месть торговца</text>
+		<text>Wykoncz jednego ze stalkerow. Smierc oszustowi - taka jest zemsta handlarza.</text>
 	</string>
 	<string id="barmen_kill_stalker_2_text">
-		<text>Знаешь, есть такие люди, о которых никогда ничего плохого не скажешь... веришь им, да? Полагаешься, как на самого себя... Только вдруг внезапно узнаёшь, что это какой-нибудь ну настолько хитрый и лживый сукин сын, что... В общем, есть серьёзное дело: надо за всё с одним типом поквитаться. Сделай, а остальное за мной</text>
+		<text>Wiesz, sa tacy ludzie, o ktorych nigdy nie powiesz zlego slowa... Ufasz takiemu komus jak bratu, nie? Liczysz na niego... Ale nagle dowiadujesz sie, ze to najpodlejszy i najbardziej nikczemny sukinsyn... Sprawa wyglada tak: ten problem musi zostac rozwiazany. Zrob to, a ja zajme sie reszta. </text>
 	</string>
 	<string id="barmen_kill_stalker_3">
-		<text>Убить сталкера из группировки "Монолит"</text>
+		<text>Zabij stalkera z frakcji Monolit</text>
 	</string>
 	<string id="barmen_kill_stalker_3_descr">
-		<text>Найти бывшего друга торговца и помочь ему умереть</text>
+		<text>Znajdz bylego przyjaciela handlarza i pomoz mu umrzec.</text>
 	</string>
 	<string id="barmen_kill_stalker_3_text">
-		<text>Когда-то был у меня друг... не верится, да? Эх... а ведь мы с ним вместе в Зону пришли, когда вот этого всего ещё и в помине не было. И чего мы только ни творили, куда только ни лазили... да, молодые были, море по колено... Только ему всегда было мало. Он к центру Зоны уйти хотел, и меня тянул, а я отказался - и правильно, что отказался... Мы пособачились тогда здорово, и он сам ушёл... Только мне говорят, видели его там... он за "Монолит" сейчас стоит. Так ты вот что, Меченый... Как человека прошу - найди его, и... в общем, чтоб он не мучился, ведь и так, небось... Он мне как брат был, понимаешь?</text>
+		<text>Mialem kiedys przyjaciela... ciezko w to uwierzyc, nie? Hm. Przybylismy razem do Zony, kiedy jeszcze tego wszystkiego tu nie bylo. Czego mysmy nie robili, gdzie mysmy nie byli... No coz, bylismy mlodzi i nic nas nie obchodzilo... Ale jemu ciagle bylo malo. Chcial sie wybrac do centrum Zony i namawial mnie na to, ale ja odmowilem - i slusznie... Strasznie sie poklocilismy i wyruszyl sam... A teraz podobno ktos go widzial... trzyma z Monolitem. Naznaczony, oto, czego od ciebie chce... Jako przyjaciel - znajdz go i... nie sprawiaj mu cierpienia, i tak musi bardzo cierpiec... Byl dla mnie jak brat, rozumiesz?</text>
 	</string>
 	<string id="barmen_kill_stalker_4">
-		<text>Убить сталкера по прозвищу Упырь</text>
+		<text>Zabij stalkera zwanego Wampirem</text>
 	</string>
 	<string id="barmen_kill_stalker_4_descr">
-		<text>Найти и убить сталкера, известного под прозвищем Упырь</text>
+		<text>Znajdz i zabij stalkera zwanego Wampirem.</text>
 	</string>
 	<string id="barmen_kill_stalker_4_text">
-		<text>Всё, этот тип меня достал!.. Это я про Упыря; ты его знаешь, нет? У-у, сволочь! Он из людей не кровь сосёт, а удачу. С кем ни пойдёт - все накроются один он живой-здоровый! Пятый раз уже! Короче, нечистое здесь что-то. Есть крупное желание положить цветочки на могилку этого Упыря... Ну ты как, согласен?</text>
+		<text>Tego juz za wiele, mam dosc tego drania! Mowie o Wampirze - znasz go? Sukinsyn! Wysysa z ludzi szczescie zamiast krwi. Wszyscy co z nim ida, gina co do jednego, a on zawsze wraca caly i zdrowy! Juz piec razy tak sie dzialo! To jakies chore, nie sadzisz? Wspaniale byloby moc zlozyc kwiaty na jego grobie... To jak, bierzesz zlecenie? </text>
 	</string>
 	<string id="barmen_kill_stalker_5">
-		<text>Убить сталкера по прозвищу Воробей</text>
+		<text>Zabij stalkera zwanego Wroblem</text>
 	</string>
 	<string id="barmen_kill_stalker_5_descr">
-		<text>Найти Воробья и отомстить за смерть другого сталкера</text>
+		<text>Znajdz Wrobla i pomscij smierc innego stalkera.</text>
 	</string>
 	<string id="barmen_kill_stalker_5_text">
-		<text>Дворяне, блин!.. Пушкины с Лермонтовыми!.. И так, олухи, под аномалиями и пулями ходят каждый день, так ещё и дуэли в моду взяли! Нет, ну ты просто прикинь: случился у нас тут спор... никто и не помнит уже, по какому поводу. Только решили эти два придурка крови себе пустить. Ну и нате вам: один взял и помер... какой сталкер был! а второй - Воробей его зовут - быстро свалил, потому как я сам бы ему при первом же случае пулю в кишки засадил. Найди его. Уверен, из Зоны он ещё не успел выбраться. Делаешь?</text>
+		<text>Cholerni muszkieterzy! Dupki, bawia sie w d'Artagnana! Jak gdyby omijanie anomalii i chowanie sie przed kulami im nie starczalo - teraz sie wzieli za pojedynki! Byla jakas klotnia, nikt teraz nawet nie pamieta, o co poszlo. A te dwa tepaki postanowily przelac troche krwi. No i prosze - jeden nie zyje. I to dobry stalker. A drugi, Wrobel, wyparowal, bo jako pierwszy wsadzilbym mu kulke w leb. Znajdz go. Jestem pewien, ze ciagle przebywa w Zonie. Zrobisz to?</text>
 	</string>
 	<string id="barmen_monster_part_1">
-		<text>Достать глаз "плоти"</text>
+		<text>Zdobadz oko miesacza</text>
 	</string>
 	<string id="barmen_monster_part_1_descr">
-		<text>Достать глаз "плоти"</text>
+		<text>Zdobadz oko miesacza</text>
 	</string>
 	<string id="barmen_monster_part_1_text">
-		<text>Скоро у нас праздник, и будет праздничный ужин, а некоторые местные гурманы в особо приподнятом настроении (не будем показывать пальцем) обязательно захотят попробовать мое коронное блюдо - глаза "плоти" под свиным соусом. То есть, в собственном соку под майонезом. В общем, нужен глаз этой твари, и поскорее</text>
+		<text>Niedlugo mamy przyjecie - bedzie wykwintny obiad, a pewni miejscowi smakosze w wyjatkowo dobrych nastrojach (nie musimy wskazywac palcem) niewatpliwie beda chcieli sprobowac mojej specjalnosci,  oczu "miesacza" w sosie z wieprzowiny. To znaczy, we wlasnym sosie z majonezem. Krotko mowiac, potrzebuje oka tego stwora, i to szybko.</text>
 	</string>
+	<string id="tm_b_monster_part_1_descr">
+		<text>To tak mozna? Zrec oczy zmutowanej swini?</text>
+	</string>
+	
+	
 	<string id="barmen_monster_part_2">
-		<text>Принести копыто кабана</text>
+		<text>Przynies kopyto dzika</text>
 	</string>
 	<string id="barmen_monster_part_2_descr">
-		<text>Принести копыто кабана</text>
+		<text>Przynies kopyto dzika.</text>
 	</string>
 	<string id="barmen_monster_part_2_text">
-		<text>Знаешь, что мы заготовляем рога и копыта? Это сейчас большая редкость. Из местных мутированных копыт делают отличные украшения, я знаю одного ювелира, он заинтересован. Так что вперед, найди копыто кабана, и тебе в карман денег прибудет</text>
+		<text>Wiesz, ze preparujemy rogi i kopyta? Sa rzadkoscia. Z kopyt zmutowanych zwierzat robi sie wspaniala bizuterie - znam takiego jednego jubilera, jest zainteresowany. Wiec smialo, zdobadz kopyto dzika, a w twojej kieszeni pojawia sie pieniazki.</text>
+	</string>
+	<string id="tm_b_monster_part_2_descr">
+		<text>Pozlacane rogi i kopyta dzika - coz moze byc lepszego?</text>
 	</string>
 	<string id="dolg_defend_lager_1">
-		<text>Защитить заставу Долга</text>
+		<text>Obron posterunek "Powinnosci"</text>
 	</string>
 	<string id="dolg_defend_lager_1_descr">
-		<text>Защитить заставу Долга на Свалке</text>
+		<text>Obron posterunek "Powinnosci"</text>
 	</string>
 	<string id="dolg_defend_lager_1_text">
-		<text>Значит так, ты наверняка встречал наших ребят на Свалке. Они там что-то вроде внешнего кордона, защищают бар от мутантов, прущих из темной долины. Пришла информация, что большая стая кабанов как раз приближается к ним. Помоги им отбить волну мутантов, за мной не заржавеет</text>
+		<text>Obron posterunek "Powinnosci"</text>
 	</string>
 	<string id="dolg_eliminate_lager_1">
-		<text>Уничтожить "черных" рейдеров на Агропроме</text>
+		<text>Zlikwiduj zombi</text>
 	</string>
 	<string id="dolg_eliminate_lager_1_descr">
-		<text>Уничтожить "черных" рейдеров на Агропроме возле входа в подземный комплекс</text>
+		<text>Zlikwiduj zombi nad Jantarem.</text>
 	</string>
 	<string id="dolg_eliminate_lager_1_text">
-		<text>За уничтожение лагеря будет выплачено вознаграждение 30 000</text>
+		<text>Niedawno wyslalismy grupe ludzi nad Jantar. Niestety, zaden z nich nie wrocil. Otrzymalem informacje, ze niedaleko laboratorium nad Jantarem widziano kilku zombifikowanych stalkerow z tej grupy . Nie mozemy pozwolic, zeby pozostali w tym okropnym stanie. Twoje zadanie: znajdz i zniszcz to, czym sie stali.</text>
 	</string>
 	<string id="dolg_eliminate_lager_10">
-		<text>Убрать стаю собак</text>
+		<text>Likwidacja celu</text>
 	</string>
 	<string id="dolg_eliminate_lager_10_descr">
-		<text>Убрать стаю собак на Свалке</text>
+		<text>Pozbadz sie stada psow na Wysypisku.</text>
 	</string>
 	<string id="dolg_eliminate_lager_10_text">
-		<text>Мы, конечно, не поручаем заданий чужим сталкерам. С другой стороны, эта задача проста, так что гонять наших ребят никакого смысла нет. Так, слушай. Надо зачистить небольшое логово тварей на Свалке. Одна наша группа там уже работает, потому в случае неприятностей есть куда отступить. С другой стороны, желательно, чтобы неприятностей не было, потому что тварей там немного - не больше десятка. Скорее всего, собаки: недавно была замечена миграция достаточно большой стаи в этом районе. Можешь приступать к выполнению задания</text>
+		<text>Oczywiscie nie zlecamy misji obcym stalkerom. Ale to rutynowe zadanie, wiec nie ma co zawracac glowy naszym. Oto jak sie przedstawia sytuacja: na Wysypisku trzeba zniszczyc niewielkie legowisko stworow. Jedna z naszych grup juz sie tym zajmuje, wiec w razie problemow, bedziesz sie mial gdzie wycofac. Nie przewiduje jednak zadnych problemow, bo bestii nie ma za wiele - najwyzej dziesiec. To prawdopodobnie psy: podobno w tej okolicy dostrzezono calkiem spore stado. Mozesz rozpoczac misje.</text>
 	</string>
 	<string id="dolg_eliminate_lager_11">
-		<text>Уничтожить лагерь сталкеров</text>
+		<text>Zniszcz oboz stalkerow</text>
 	</string>
 	<string id="dolg_eliminate_lager_11_descr">
-		<text>Уничтожить лагерь сталкеров на "Агропроме"</text>
+		<text>Zniszcz oboz stalkerow w Agropromie.</text>
 	</string>
 	<string id="dolg_eliminate_lager_11_text">
-		<text>Есть одно деликатное дело, но наших парней к его выполнению привлекать никак нельзя. Нашим союзникам невыгодно присутствие нейтралов на заводе при "Агропроме". Задача такая: освободить промзону от присутствия на ней сталкеров, кем бы они ни были и к каким бы группировкам ни принадлежали. Всё ясно?</text>
+		<text>Jest pewna delikatna sprawa, ale nasi ludzie zdecydowanie nie powinni sie w to mieszac. Obecnosc neutralnych w fabryce w Agropromie nie jest pozadana przez naszych sprzymierzencow. Oto zadanie: oczysc okolice ze stalkerow bez wzgledu na to, kim sa albo do jakiej grupy naleza. Jasne?</text>
 	</string>
 	<string id="dolg_eliminate_lager_12">
-		<text>Уничтожить отряд наемников</text>
+		<text>Zlikwiduj oddzial najemnikow</text>
 	</string>
 	<string id="dolg_eliminate_lager_12_descr">
-		<text>Уничтожить отряд наемников на "Ростке"</text>
+		<text>Zlikwiduj oddzial najemnikow w Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_12_text">
-		<text>Значит, задача вот какая: нужно уничтожить отряд снайперов группировки наёмников. Обстановка: снайперы эти удерживают верхний этаж строительного комплекса. Предположительное количество - не менее двух, не более пяти. Вооружены, судя по всему, снайперскими винтовками. Совет: днём к ним не суйся</text>
+		<text>Oto twoje zadanie: zlikwiduj oddzial snajperow z grupy najemnikow. Sytuacja wyglada nastepujaco: zajeli najwyzsze pietro na placu budowy. Prawdopodobna liczba: nie mniej niz dwoch, nie wiecej niz pieciu. Wedlug wszelkich przeslanek sa uzbrojeni w karabiny snajperskie. Rada: nie pokazuj sie tam za dnia.</text>
 	</string>
 	<string id="dolg_eliminate_lager_13">
-		<text>Зачистить базу бандитов</text>
+		<text>Zlikwiduj baze bandytow</text>
 	</string>
 	<string id="dolg_eliminate_lager_13_descr">
-		<text>Зачистить основную базу бандитов в Тёмной долине</text>
+		<text>Zlikwiduj glowna baze bandytow w Dolinie Mroku</text>
 	</string>
 	<string id="dolg_eliminate_lager_13_text">
-		<text>Необходимо совершить рейд на основную базу бандитов и уничтожить максимальное количество живой силы противника. Это в Тёмной долине, там, где недостроенный научный центр. Численность противника: около тридцати боевиков; вооружены лёгким автоматическим оружием, пистолетами, дробовиками. Всё ясно?</text>
+		<text>Koniecznie trzeba napasc na glowna baze bandytow i zlikwidowac jak najwiecej wrogow. Baza znajduje sie w Dolinie Mroku, przy niedokonczonym centrum naukowym. Bojownikow wroga jest okolo trzydziestu - uzbrojeni w lekka bron automatyczna, pistolety, strzelby. Wszystko jasne?</text>
 	</string>
 	<string id="dolg_eliminate_lager_14">
-		<text>Зачистить cнорков</text>
+		<text>Zlikwiduj snorki.</text>
 	</string>
 	<string id="dolg_eliminate_lager_14_descr">
-		<text>Зачистить тоннели от снорков в секторе "Янтарь"</text>
+		<text>Zlikwiduj snorki w tunelach nad Jantarem.</text>
 	</string>
 	<string id="dolg_eliminate_lager_14_text">
-		<text>В этот раз придётся заняться зачисткой. Тоннели в секторе "Янтарь" просто ломятся от снорков: их там приблизительно около десятка. Да, теперь там от грозы не отсидишься, как раньше..</text>
+		<text>Tym razem chodzi o czystke. Tunele nad Jantarem wprost uginaja sie pod ciezarem snorkow: jest ich tam okolo dziesieciu. Coz, nie mozna juz tam przeczekac burzy jak kiedys...</text>
 	</string>
 	<string id="dolg_eliminate_lager_2">
-		<text>Уничтожить "черных" рейдеров на Агропроме</text>
+		<text>Zlikwiduj stado miesaczy</text>
 	</string>
 	<string id="dolg_eliminate_lager_2_descr">
-		<text>Уничтожить "черных" рейдеров на Агропроме у выхода на Свалку</text>
+		<text>Zlikwiduj stado miesaczy w Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_2_text">
-		<text>За уничтожение лагеря будет выплачено вознаграждение 50 000</text>
+		<text>Namierzylismy przemieszczajace sie calkiem duze stado stworow... To dosyc obrzydliwe swiniopodobne mutanty, ktore wszyscy nazywaja miesaczami. Sa teraz w okolicy Wysypiska. Wszyscy nasi ludzie maja robote, ale te stwory trzeba zlikwidowac. To wyjatkowe zadanie - zaplacimy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_3">
-		<text>Уничтожить "черных" рейдеров на Агропроме</text>
+		<text>Pozbadz sie nibypsow</text>
 	</string>
 	<string id="dolg_eliminate_lager_3_descr">
-		<text>Уничтожить "черных" рейдеров на Агропроме в районе ЖД-тоннеля</text>
+		<text>Zniszcz legowisko nibypsow niedaleko magazynow wojskowych.</text>
 	</string>
 	<string id="dolg_eliminate_lager_3_text">
-		<text>За уничтожение лагеря будет выплачено вознаграждение 30 000</text>
+		<text>Sprzymierzency powiadomili nas o odkryciu legowiska potworow na terenie magazynow wojskowych. Sadzimy, ze to stado nibypsow. Nie powinnismy sie teraz pokazywac na tamtym terenie, wiec to idealne zadanie dla kogos neutralnego. Wchodzisz w to?</text>
 	</string>
 	<string id="dolg_eliminate_lager_4">
-		<text>Уничтожить "черных" рейдеров в Припяти</text>
+		<text>Zniszcz posterunek najemnikow</text>
 	</string>
 	<string id="dolg_eliminate_lager_4_descr">
-		<text>Уничтожить "черных" рейдеров в Припяти возле МСЧ-126</text>
+		<text>Zniszcz posterunek najemnikow niedaleko magazynow wojskowych.</text>
 	</string>
 	<string id="dolg_eliminate_lager_4_text">
-		<text>За уничтожение лагеря Панцер заплатит 150 000</text>
+		<text>Ostatnio dalo sie zauwazyc wzrost aktywnosci grup najemnikow - odnotowano kilka atakow na naukowcow i badaczy pracujacych w Zonie. Nie mozemy tego pozostawic bez odpowiedzi. Trzeba przeprowadzic niewielka akcje odwetowa. Cel: posterunek najemnikow niedaleko magazynow wojskowych za opuszczona wioska.</text>
 	</string>
 	<string id="dolg_eliminate_lager_5">
-		<text>Уничтожить "черных" рейдеров в Припяти</text>
+		<text>Zlikwiduj najemnikow w Dziczy</text>
 	</string>
 	<string id="dolg_eliminate_lager_5_descr">
-		<text>Уничтожить "черных" рейдеров в Припяти в к-т Прометей</text>
+		<text>Zlikwiduj najemnikow w Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_5_text">
-		<text>За уничтожение лагеря Панцер заплатит 140 000</text>
+		<text>Grupa naukowcow planuje zbadac Dzicz. Ale ostatnio nie jest tam zbyt bezpiecznie, pojawili sie najemnicy... Dopilnuj, zeby stamtad znikneli.</text>
 	</string>
 	<string id="dolg_eliminate_lager_6">
-		<text>Уничтожить "черных" рейдеров в Припяти</text>
+		<text>Zabij bandytow</text>
 	</string>
 	<string id="dolg_eliminate_lager_6_descr">
-		<text>Уничтожить "черных" рейдеров в Припяти возле кафе "Припять"</text>
+		<text>Zabij bandytow, ktorzy dostali sie do Dziczy.</text>
 	</string>
 	<string id="dolg_eliminate_lager_6_text">
-		<text>За уничтожение лагеря Панцер заплатит 140 000</text>
+		<text>Ujme to wprost - bandyci omineli nasze posterunki przy barze i teraz sa w Dziczy. Trzeba ich zlikwidowac.</text>
 	</string>
 	<string id="dolg_eliminate_lager_7">
-		<text>Уничтожить "черных" рейдеров в Рыжем Лесе</text>
+		<text>Zniszcz Kontrolera</text>
 	</string>
 	<string id="dolg_eliminate_lager_7_descr">
-		<text>Уничтожить "черных" рейдеров в Рыжем Лесе возле шахтного копера</text>
+		<text>Zniszcz Kontrolera nad Jantarem.</text>
 	</string>
 	<string id="dolg_eliminate_lager_7_text">
-		<text>За уничтожение лагеря Панцер заплатит 120 000</text>
+		<text>Do tego zadania potrzebne sa specjalne umiejetnosci. Wiemy od naukowcow, ze zauwazyli Kontrolera nad Jantarem, przy wejsciu do podziemnego laboratorium (w centralnym budynku). Kontrolerzy sa bardzo niebezpieczni, ale jestem pewny, ze sobie poradzisz.</text>
 	</string>
 	<string id="dolg_eliminate_lager_8">
-		<text>Уничтожить "черных" рейдеров в Рыжем Лесе</text>
+		<text>Zlikwiduj czlonkow "Wolnosci"</text>
 	</string>
 	<string id="dolg_eliminate_lager_8_descr">
-		<text>Уничтожить "черных" рейдеров в Рыжем Лесе возле моста</text>
+		<text>Zlikwiduj czlonkow "Wolnosci" przebywajacych w opuszczonej wiosce niedaleko magazynow wojskowych.</text>
 	</string>
 	<string id="dolg_eliminate_lager_8_text">
-		<text>За уничтожение лагеря Панцер заплатит 100 000</text>
+		<text>Patrol "Wolnosci" przebywajacy w opuszczonej wiosce, niedaleko magazynow wojskowych ostatnio wzmogl dzialania. Pozbadz sie ich stamtad. Za wykonanie tego zadania bedzie na ciebie czekac specjalna nagroda.</text>
 	</string>
 	<string id="dolg_eliminate_lager_9">
-		<text>Уничтожить "черных" рейдеров на Янтаре</text>
+		<text>Zlikwiduj bandytow</text>
 	</string>
 	<string id="dolg_eliminate_lager_9_descr">
-		<text>Уничтожить "черных" рейдеров на Янтаре</text>
+		<text>Zlikwiduj bandytow na Wysypisku.</text>
 	</string>
 	<string id="dolg_eliminate_lager_9_text">
-		<text>За уничтожение лагеря Панцер заплатит 120 000</text>
+		<text>Obecna sytuacja nie jest za ciekawa - bandyci gromadza sie w okolicy Wysypiska i Doliny Mroku. Najlepszym wyjsciem jest przeprowadzenie dwoch atakow wyprzedzajacych w tym samym czasie! Nasi bojownicy zajma sie dolina, tobie przypada Wysypisko.</text>
 	</string>
 	<string id="dolg_find_item_1">
-		<text>Найти модифицированную винтовку</text>
+		<text>Znajdz ulepszony karabin</text>
 	</string>
 	<string id="dolg_find_item_1_descr">
-		<text>Возле военных складов добыть образец модифицированной ТРс 301</text>
+		<text>Znajdz egzemplarz ulepszonego TRs 301 niedaleko magazynow wojskowych.</text>
 	</string>
 	<string id="dolg_find_item_1_text">
-		<text>Кто-то помогает наемникам. Совсем недавно они стали ходить с автоматами, модифицированными для ведения снайперского огня. Сам понимаешь, опасная игрушка. Я заинтересован в таком стволе. Благодарность будет адекватной, не сомневайся</text>
+		<text>Ktos pomaga najemnikom. Niedawno dostali karabiny maszynowe ulepszone tak, ze mozna z nich strzelac jak ze snajperek. Rozumiesz, ze to niebezpieczna zabawka? Chcialbym miec taka bron. Na pewno sie stosownie odwdziecze.</text>
 	</string>
 	<string id="dolg_kill_stalker_1">
-		<text>Нейтрализовать бандита</text>
+		<text>Zlikwiduj bandyte</text>
 	</string>
 	<string id="dolg_kill_stalker_1_descr">
-		<text>Нейтрализовать бандита Кочергу</text>
+		<text>Zlikwiduj bandyte Pogrzebacza.</text>
 	</string>
 	<string id="dolg_kill_stalker_1_text">
-		<text>Кличка объекта - Кочерга. Один из самых жестоких предводителей бандитов, сволочь и насильник... Голова у него явно не в порядке: поговаривают, в Зоне какое-то редкое заболевание заработал. Теперь у него довольно часто происходят полные провалы в памяти, а когда приходит в себя, не помнит, где он и кто. Тем не менее, всегда вооружён и очень агрессивен. Предположительное местонахождение: Тёмная долина. Готов к заданию?</text>
+		<text>Ksywka goscia to Pogrzebacz. Jest jednym z najokrutniejszych przywodcow bandytow, kanalia i gwalcicielem... Niewatpliwie ma cos z glowa - podobno zlapal jakas rzadka chorobe w Zonie. Teraz czesto traci przytomnosc, a kiedy dochodzi do siebie, nie pamieta, kim jest i gdzie sie znajduje. Mimo to zawsze jest uzbrojony po zeby i bardzo agresywny. Prawdopodobne miejsce pobytu: Dolina Mroku. Gotow do rozpoczecia misji?</text>
 	</string>
 	<string id="drunk_dolg_find_item">
-		<text>Найти оружие Долговца</text>
+		<text>Bron czlonka "Powinnosci"</text>
 	</string>
 	<string id="drunk_dolg_find_item_descr">
-		<text>Долговец просит найти его оружие, он потерял его где-то в Темной долине, во время очередной вылазки</text>
+		<text>Czlonek "Powinnosci" prosi, zebys znalazl bron, ktora zgubil gdzies w Dolinie Mroku w trakcie wyprawy zwiadowczej.</text>
 	</string>
 	<string id="drunk_dolg_find_item_text">
-		<text>Ну надо же было так облажаться. Что же это зона делает с мозгами. Вроде же нервы крепкие, никогда ничего не боялся, а тут такое. Все этот вой в ушах стоит. Все же шло как и обычно. Была вылазка темную долину, сели с Кривым в засаде прикрывать основную группу, а тут как услышал вой, такой ужас охватил. Блин, я даже не помню оказался на кордоне. Когда вернулся на базу, Воронин чуть не расстрелял на месте: он мне как раз выдал пушку улучшенную, за хорошую службу так сказать. А тут... я в панике как деру дал, так видимо ее там и оставил. Если бы ты смог ее принести мне, а то куда я теперь без нормального оружия</text>
+		<text>Niepotrzebnie tak panikowalem. Zona na rozne sposoby miesza mi w glowie. Sadzilem, ze mam nerwy ze stali, ze niczego sie nie boje - a tu prosze. To wycie rozbrzmiewajace w uszach. Wszystko bylo jak zwykle. Szlismy na ekspedycje zwiadowcza do Doliny Mroku, zeszlismy z Kriwym do okopow, zeby kryc reszte oddzialu, a tu nagle uslyszalem to wycie i strach mnie chwycil za gardlo. Cholera, nawet nie pamietam, jak dotarlem na miejsce. Kiedy wrocilem do bazy, Woronin o malo co mnie nie zastrzelil na miejscu - przeciez dopiero co dal mi ulepszona giwere, jak to mowia: "za zaslugi"... A tu nagle... spanikowalem i zwialem tak szybko, ze przez mysl mi nie przeszlo, zeby ja zabrac. Odnajdziesz ja dla mnie? Bez porzadnej broni nie mam dokad pojsc. </text>
 	</string>
 	<string id="ecolog_eliminate_lager_1">
-		<text>Зачистить логово псевдогигантов</text>
+		<text>Zniszcz legowisko snorkow</text>
 	</string>
 	<string id="ecolog_eliminate_lager_1_descr">
-		<text>На Янтаре уничтожить логово снорков</text>
+		<text>Zniszcz legowisko snorkow nad Jantarem.</text>
 	</string>
 	<string id="ecolog_eliminate_lager_1_text">
-		<text>Я хочу предложить вам небольшую сумму денег, которую вы получите в том случае, если снорки, обитающие на болотах, перестанут отвлекать меня и мох коллег. Иногда во время экспериментов просто не получается сосредоточиться</text>
+		<text>Otrzymasz niewielka ilosc pieniedzy, jesli mieszkajace na bagnach snorki przestana naprzykrzac sie mnie i moim kolegom. Czasem, gdy przeprowadzamy eksperymenty, kompletnie nie mozemy sie skupic.</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2">
-		<text>Уничтожить логово диких собак</text>
+		<text>Zniszcz legowisko dzikich psow</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2_descr">
-		<text>На "Дикой территории" зачистить логово собак</text>
+		<text>Zniszcz legowisko dzikich psow w Dziczy</text>
 	</string>
 	<string id="ecolog_eliminate_lager_2_text">
-		<text>На "Дикой территории" есть логово собак-мутантов, я хочу, чтобы Вы отправились и зачистили его. Эти мутанты опасны для наших экспедиций. Я знаю, зоологи меня не поддержат, но здесь, согласитесь, не зоопарк. Такие твари разносят бешенство, чуму и еще Бог знает что</text>
+		<text>W Dziczy znajduje sie legowisko zmutowanych psow. Chce, zebys tam wyruszyl i je zniszczyl. Te mutanty stanowia wyjatkowe zagrozenie dla naszych ekspedycji. Wiem, ze zoologowie tego nie pochwala, ale to przeciez nie zoo. Takie stwory roznosza wscieklizne, zaraze i Bog wie, co jeszcze.</text>
 	</string>
 	<string id="ecolog_find_artefact_1">
-		<text>Принести артефакт "Огненный шар"</text>
+		<text>Znajdz "kule ognista"</text>
 	</string>
 	<string id="ecolog_find_artefact_1_descr">
-		<text>Достать для исследований ученым артефакт "Огненный шар"</text>
+		<text>Dostarcz "kule ognista" naukowcom do badan.</text>
 	</string>
 	<string id="ecolog_find_artefact_1_text">
-		<text>Нам удалось получить артефакт в лабораторных условиях! Это прорыв! Теперь о наших успехах услышит весь мир. А там и Нобелевская премия не за горами! Это уникальный артефакт - «Плёнка», его главное качество - защита от химических ожогов. Хотите, я вам его подарю от имени науки? Однако одна просьба - взамен мне нужен артефакт "Огненный шар", знаете такой? Уникальные термические свойства его поверхности требуют детального изучения</text>
+		<text>Udalo nam sie stworzyc artefakt w warunkach laboratoryjnych! To przelom! Caly swiat uslyszy o naszym sukcesie - Nobel na wyciagniecie reki! To wlasnie ten wyjatkowy artefakt: "blona". Jego glowna zaleta jest to, ze chroni przed oparzeniami chemicznymi. Chcesz, zebym ci go dal w imieniu naukowcow? Mam jednak prosbe - w zamian potrzebuje "kuli ognistej", slyszales o takim artefakcie? Trzeba go dokladnie zbadac ze wzgledu na wyjatkowe wlasciwosci termiczne jego powierzchni.</text>
 	</string>
 	<string id="ecolog_find_artefact_2">
-		<text>Найти артефакт "Грави"</text>
+		<text>Znajdz "grawi"</text>
 	</string>
 	<string id="ecolog_find_artefact_2_descr">
-		<text>Доставить артефакт "Грави" в руки ученых</text>
+		<text>Przynies naukowcom "grawi".</text>
 	</string>
 	<string id="ecolog_find_artefact_2_text">
-		<text>Мы подошли вплотную к пониманию природы гравитации, фактически, совсем скоро мы сможем создать новое поколение двигателей на антигравитационной основе, и, вполне возможно, нам откроется дорога к звездам. Для этого нам нужен артефакт "Грави", и быстро</text>
+		<text>Jestesmy juz blisko zrozumienia istoty grawitacji. Juz wkrotce bedziemy w stanie stworzyc nowa generacje silnikow na bazie antygrawitacji. Bardzo mozliwe, ze dzieki temu droga do gwiazd stanie przed nami otworem. Potrzebujemy jednak "grawi", i to szybko.</text>
 	</string>
 	<string id="ecolog_find_artefact_3">
-		<text>Добыть артефакт "Медуза"</text>
+		<text>Znajdz "meduze"</text>
 	</string>
 	<string id="ecolog_find_artefact_3_descr">
-		<text>Артефакт "Медуза" нужен ученым для исследований в области пространства-времени</text>
+		<text>Naukowcy potrzebuja "meduzy" do przeprowadzenia badan czasoprzestrzeni.</text>
 	</string>
 	<string id="ecolog_find_artefact_3_text">
-		<text>Наш исследовательский комплекс на пороге открытия тайны пространства-времени. Возможность телепортации - это не фантастика! «Воронка» - это аномалия, которая сжимает пространство, а не просто гравитационно воздействует на предметы, как думают некоторые мои закостеневшие оппоненты-теоретики, которые сидят в теплых НИИ, усердно жуя мел. У них очки вспотеют, когда они узнают, каких результатов может добиться наука в полевых условиях! Достаньте мне артефакт "Медуза", пожалуйста</text>
+		<text>Nasza ekipa badawcza jest na granicy odkrycia tajemnicy czasoprzestrzeni. Mozliwosc teleportacji nie jest juz mrzonka! Lejek to anomalia, ktora sciska przestrzen, zamiast oddzialywac na obiekty sila grawitacji, w co wierza niektorzy z moich zramolalych kolegow naukowcow, ktorzy siedza w cieplym osrodku badawczym, przezuwajac krede. Zaparuja im okulary, jak sie dowiedza, do czego zdolna jest nauka, jesli pracujesz w terenie! Prosze, zdobadz dla mnie "meduze".</text>
 	</string>
 	<string id="ecolog_find_artefact_4">
-		<text>Достать артефакт "Лунный свет"</text>
+		<text>Znajdz "blask ksiezyca"</text>
 	</string>
 	<string id="ecolog_find_artefact_4_descr">
-		<text>Обеспечить ученых на Янтаре "Лунным светом". Хороший артефакт..</text>
+		<text>Znajdz dla naukowcow znad Jantaru "blask ksiezyca". Wspanialy artefakt...</text>
 	</string>
 	<string id="ecolog_find_artefact_4_text">
-		<text>Нам срочно нужны материалы для продолжения исследования в области энергетики. Понимаете, мы научились генерировать электроэнергию при помощи артефактов. Правда, пока КПД недостаточно высокий. Наилучших результатов мы добились с артефактом "Лунный свет". Принесите нам образец для дальнейших экспериментов</text>
+		<text>Rozpaczliwie potrzebujemy nowych materialow, zeby kontynuowac badania z zakresu energetyki. Widzisz, nauczylismy sie wytwarzac energie z pomoca artefaktow. Normalnie nie mozemy liczyc na zbyt wysoka wydajnosc, ale dzieki "blaskowi ksiezyca" osiagamy o wiele lepsze wyniki. Przynies nam probke takiego artefaktu do eksperymentow.</text>
 	</string>
 	<string id="ecolog_find_artefact_5">
-		<text>Достать артефакт "Морской ёж"</text>
+		<text>Znajdz "jezowca"</text>
 	</string>
 	<string id="ecolog_find_artefact_5_descr">
-		<text>Ученым для улучшения костюмов нужен артефакт "Морской ёж"</text>
+		<text>Naukowcy potrzebuja "jezowca", zeby ulepszyc swoje kombinezony.</text>
 	</string>
 	<string id="ecolog_find_artefact_5_text">
-		<text>Вы, наверное, знаете, что наши костюмы обладают лучшей защитой от радиации. Секрет в том, что мы пропитываем их эссенцией из особого, достаточно редкого, артефакта. Для изготовления очередной партии костюмов нам нужен такой артефакт, вы его зовете "Морской еж"</text>
+		<text>Zdajesz sobie chyba sprawe, ze nasze kombinezony zapewniaja najlepsza ochrone przed promieniowaniem. Ich sekret tkwi w tym, ze nasaczamy je plynem stworzonym z dosyc rzadkiego artefaktu. Teraz potrzebujemy kolejnego, zeby wyprodukowac nowa partie kombinezonow. Wy mowicie na niego "jezowiec".</text>
 	</string>
 	<string id="ecolog_find_item_1">
-		<text>Принести уникальный комбинезон</text>
+		<text>Przynies unikatowy kombinezon</text>
 	</string>
 	<string id="ecolog_find_item_1_descr">
-		<text>Принести из подземной лаборатории X16 необычный комбинезон</text>
+		<text>Przynies unikatowy kombinezon z podziemnego laboratorium X16.</text>
 	</string>
 	<string id="ecolog_find_item_1_text">
-		<text>У нас к Вам дело. Мы недавно наняли одного сталкера, чтобы он проник внутрь лаборатории. Еще тогда я заметил его необычный костюм, от него ощутимо отдавало теплом. Сталкер говорил, что этот костюм раны сам заживляет. В общем, сталкер не вернулся из лаборатории. Нет! Вы не подумайте, мы тут не при чем! И костюм его до сих пор, наверное, там лежит. Я бы с удовольствием получил его для изучения</text>
+		<text>Mamy do ciebie sprawe. Niedawno wynajelismy stalkera, zeby dostal sie do laboratorium. Zauwazylem, ze ma niezwykly kombinezon, ktory wydziela odczuwalne cieplo. Stalker powiedzial, ze kombinezon leczy rany. A teraz sie okazuje, ze stalker nie wrocil z laboratorium. O nie! Nawet tak nie mysl - nie mielismy z tym nic wspolnego! Jego kombinezon prawdopodobnie ciagle tam jest. Bylbym przeszczesliwy, gdybym mogl go zbadac. </text>
 	</string>
 	<string id="ecolog_monster_part_1">
-		<text>Принести часть тела снорка</text>
+		<text>Przynies czesc ciala snorka</text>
 	</string>
 	<string id="ecolog_monster_part_1_descr">
-		<text>Достать фрагмент снорка в этих местах не проблема</text>
+		<text>W tych okolicach znalezienie czesci ciala snorka to zaden problem.</text>
 	</string>
 	<string id="ecolog_monster_part_1_text">
-		<text>Мы познакомились с Семеновым, когда я читал лекции по генетике в университете, а он был моим студентом. Так я стал его научным руководителем. Тогда мы только приоткрывали завесу тайны модифицирования генома. О чем это я? Ах да. Для генетических исследований нам понадобятся образцы свежих клеток мышечной ткани снорка. За генным материалом Вам придется отправиться на болота. Есть гипотеза, что снорки как вид - новая ступень развития человека. Чтобы знать наверняка, нужна проба ДНК!</text>
+		<text>Poznalismy sie z Siemienowem jeszcze na uniwersytecie, gdzie mialem wyklady z genetyki - byl moim studentem. W ten sposob zostalem jego naukowym zwierzchnikiem. Wtedy jeszcze odslanianie tajemnicy modyfikacji genomu znajdowalo sie w powijakach. O czym to ja mowilem? Ach, tak. Do eksperymentow bedziemy potrzebowac swiezych komorek tkanki miesniowej snorka. Zeby zdobyc ten material genetyczny, trzeba bedzie przetrzasnac mokradla. Istnieje hipoteza, wedlug ktorej snorki jako gatunek stanowia nastepne stadium ewolucji czlowieka. Zeby sie co do tego upewnic, potrzebujemy DNA do badan!</text>
 	</string>
 	<string id="ecolog_monster_part_2">
-		<text>Добыть глаз плоти</text>
+		<text>Przynies oko miesacza</text>
 	</string>
 	<string id="ecolog_monster_part_2_descr">
-		<text>На всякий случай стоит держать своё тело подальше от яйцеголовых! А глаз плоти, так и быть, я им достану</text>
+		<text>Chyba lepiej, zebym sie nie zblizal do tych jajoglowych - tak na wszelki wypadek! W porzadku, zdobede dla nich oko miesacza, a potem moga z tymi swoimi ochotnikami robic, co im sie podoba.</text>
 	</string>
 	<string id="ecolog_monster_part_2_text">
-		<text>Хорошие новости, молодой человек: у нас найдётся для вас очень интересное задание! Думаю, Вы, как мыслящая личность, обладающая достаточным жизненным опытом, оцените всю революционность задумки моих коллег. Дело в том, что исследования показали: глаза существ, именуемых в просторечии "плотью", снабжены - вы внимательно слушаете? - обонятельными рецепторами! Таким образом, они не только видят глазами, но и нюхают ими! Мы готовимся к операции по пересадке этого чудо-глаза одному из... из наших ассистентов-добровольцев. Полагаю, нас ждёт настоящий фурор! Но нам нужен донорский орган. Вы нам поможете?</text>
+		<text>Dobre wiesci, mlody czlowieku: mamy dla ciebie bardzo ciekawe zadanie! Sadze, ze jako istota myslaca z pewnym doswiadczeniem bedziesz w stanie docenic teorie moich kolegow. Nasze badania wykazaly, ze stworzenia zwane miesaczami sa wyposazone w... nadazasz?... w receptory wechowe! Dzieki temu moga nie tylko widziec, ale rowniez wachac oczami! Przygotowujemy sie do wszczepienia tych wspanialych oczu... jednemu z naszych asystentow-ochotnikow. Sadze, ze zapoczatkujemy nowy trend! A tak przy okazji - chcialbys otrzymac ten niezwykly narzad?</text>
 	</string>
 	<string id="ecolog_monster_part_3">
-		<text>Достать кабанью ногу</text>
+		<text>Przynies noge dzika</text>
 	</string>
 	<string id="ecolog_monster_part_3_descr">
-		<text>Принести кабаний окорок ученым. В принципе, обойдутся копытом</text>
+		<text>Poszukiwacze dreszczyka emocji... W porzadku, zdobede dla nich troche szynki.</text>
 	</string>
 	<string id="ecolog_monster_part_3_text">
-		<text>Приветствую Вас... э-э-э... странник! Рад, что Вы решили нас посетить: нам как раз необходим человек для участия в очень важном эксперименте. Коллега Бентер хочет попытаться приготовить нечто съедобное из местной фауны для практического эксперимента по исследованию влияния мутированного белка на человеческие организмы. Пока мы решили остановиться на кабанах. Нам нужен окорок. Нога кабана, Вы понимаете? Если возьметесь за это дело, прошу Вас, выбирайте особь поупитаннее</text>
+		<text>Witaj, hm... podrozniku! Tak sie ciesze, ze wpadles - potrzebujemy kogos, kto wezmie udzial w bardzo waznym eksperymencie. Moj kolega, Brenter, chce sporzadzic posilek na bazie miejscowej fauny, zeby zbadac w praktyce wplyw zmutowanego bialka na organizm ludzki. Na poczatek postanowil wyprobowac dziki. Potrzebujemy szynki - nogi dzika, jasne? A jesli sie podejmiesz tego zadania, wybierz, prosze, najzdrowszy okaz.</text>
 	</string>
 	<string id="ecolog_monster_part_4">
-		<text>Найти хвост псевдособаки</text>
+		<text>Przynies ogon nibypsa</text>
 	</string>
 	<string id="ecolog_monster_part_4_descr">
-		<text>Обеспечить ученых хвостом псевдособаки для их странных экспериментов</text>
+		<text>Tylko spojrz na te Nauke! Probuja znalezc u ludzi drugi mozg? Biedne pieski - teraz jeden z nich bedzie sobie musial radzic bez ogona.</text>
 	</string>
 	<string id="ecolog_monster_part_4_text">
-		<text>Здравствуйте, коллега! Мы всё ещё не можем разгадать механизм наблюдаемых у псевдособаки удивительных свойств, поэтому решили изменить вектор наших поисков. На сей раз мы начнём с конца... Почему Вы улыбаетесь? Что Вас так... ах, да. Я, кажется, понимаю. Видите ли, молодой человек, нам нужен хвост этого существа, расположенный на конце... да, на конце тела. Речь шла отнюдь не о репродуктивных органах данного млекопитающего! За ними, возможно, Вам придется прогуляться в следующий раз</text>
+		<text>Witaj, chlopcze! Chcialbys nam jeszcze raz pomoc? Mam nadzieje, ze wiesz, iz psy naleza do kregowcow... co znaczy, ze ich kregoslup zaczyna sie od glowy, a konczy na ogonie. I tu tkwi haczyk! Jeden z moich mlodych kolegow udowodnil teoretycznie, ze kregoslup nibypsow - gdyz tak nazwaliscie te zwierzeta - zaczyna sie od ogona, nie od glowy! Tylko sie zastanow - to zupelnie podwaza wszelkie nasze zalozenia dotyczace tej dziedziny wiedzy. Powstaly juz nawet odwazne teorie, ktore zakladaja, ze istoty ludzkie wokol kosci krzyzowej maja... no, ale na ten temat sa jeszcze prowadzone dyskusje. Krotko mowiac, potrzebujemy glowy nibypsa, ktora przez wlasna niewiedze uwazalismy za jego ogon.</text>
 	</string>
 	<string id="ecolog_monster_part_5">
-		<text>Добыть челюсть кровососа</text>
+		<text>Przynies macki pijawki</text>
 	</string>
 	<string id="ecolog_monster_part_5_descr">
-		<text>Что они собираются делать с челюстью кровососа - меня не волнует. Мне важно, сколько они дадут за эту редкость</text>
+		<text>Nie obchodzi mnie, co chca zrobic ze szczeka pijawki. Obchodzi mnie za to, ile dostane za ten rarytas.</text>
 	</string>
 	<string id="ecolog_monster_part_5_text">
-		<text>О, сталкер, рад видеть Вас! Послушайте... Вы ведь уже сталкивались с кровососами в своих путешествиях? Если нет, то мы хотели бы, чтобы это произошло. Как только сможете, принесите нам нижнюю челюсть представителя данного вида - и со всеми, так сказать, столовыми приборами. К сожалению, не могу посвятить Вас в детали эксперимента... возможно, это негативно скажется на устойчивости Вашей психики. Мы будем ждать</text>
+		<text>Ciesze sie, ze cie widze, stalkerze! Hm… Miales juz do czynienia z pijawkami, prawda? Jesli nie, chcielibysmy, zeby to nastapilo. Przynies nam dolna szczeke przedstawiciela tego gatunku z calym - jak by to ujac - serwisem obiadowym. Niestety, nie moge zdradzic ci szczegolow dotyczacych eksperymentu. Poza tym chyba i tak zle by to wplynelo na twoja psychike. Bedziemy czekac.</text>
 	</string>
 	<string id="eliminate_lager">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager1">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager2">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager3">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager4">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager5">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager6">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager7">
-		<text>Уничтожение лагеря</text>
-	</string>
-	<string id="eliminate_lager8">
-		<text>Уничтожение лагеря</text>
+		<text>Likwidacja grupy</text>
 	</string>
 	<string id="find_item">
-		<text>Найти предмет</text>
+		<text>Znajdz przedmiot</text>
 	</string>
 	<string id="freedom_defend_lager_1">
-		<text>Защитить сталкеров на Агропроме</text>
+		<text>Ochron stalkerow w Agropromie</text>
 	</string>
 	<string id="freedom_defend_lager_1_descr">
-		<text>На Агропроме отбить атаку бандитов на лагерь сталкеров</text>
+		<text>Odeprzyj bandytow atakujacych oboz stalkerow w Agropromie.</text>
 	</string>
 	<string id="freedom_defend_lager_1_text">
-		<text>Есть группа сталкеров, на Агропроме живут. Нормальные такие ребята, понимают, что Зона - место свободы, что законы тут вообще не применимы, а жить надо просто правильно, по своей морали. И вот они сейчас подумывают, не присоединиться ли к нам, да. Надо помочь им отбиться от бандитов, а? А мы тебе снаряженьица подкинем</text>
+		<text>Pewna grupa stalkerow mieszka w Agropromie. Normalni goscie - rozumieja, ze Zona to miejsce pelne wolnosci, ze prawo tu nie obowiazuje i ze trzeba postepowac zgodnie z wlasnym sumieniem. A teraz zaczeli rozwazac przylaczenie sie do nas. Pomozesz im odeprzec bandytow? Przeslemy ci amunicje.</text>
 	</string>
 	<string id="freedom_defend_lager_2">
-		<text>Защитить барьер</text>
+		<text>Ochron granice</text>
 	</string>
 	<string id="freedom_defend_lager_2_descr">
-		<text>Защитить барьер возле армейских складов от монстров</text>
+		<text>Ochron przed potworami granice niedaleko magazynow wojskowych.</text>
 	</string>
 	<string id="freedom_defend_lager_2_text">
-		<text>Тут опять монстры прут со стороны выжигателя. Помоги ребятам на барьере отбиться. Награду гарантирую</text>
+		<text>Znowu od strony Zweglacza zblizaja sie potwory. Pomoz ludziom na granicy je powstrzymac. Gwarantuje, ze dostaniesz nagrode.</text>
 	</string>
 	<string id="freedom_eliminate_camp_1">
-		<text>Уничтожить лагерь бандитов на Болотах</text>
+		<text>Zniszcz oboz wojskowy</text>
 	</string>
 	<string id="freedom_eliminate_camp_1_descr">
-		<text>Уничтожить лагерь бандитов возле водонапорной башни</text>
+		<text>Zniszcz oboz wojskowy przy Instytucie Badawczym Agroprom.</text>
 	</string>
 	<string id="freedom_eliminate_camp_1_text">
-		<text>Грек, за тобой охотятся. Но и мне они здесь ни к чему. А потому - забашляю</text>
+		<text>Wojsko przygotowuje stopniowe przejecie Zony. Musimy ich spowolnic, w przeciwnym wypadku Zona zmieni sie w jedno wielkie zoo. Jeden z ich obozow znajduje sie tuz przy Agropromie. Nawet jesli nie zniszczysz go doszczetnie, i tak opoznisz przejecie Zony przez armie. </text>
 	</string>
 	<string id="freedom_eliminate_camp_2">
-		<text>Уничтожить лагерь бандитов на Болотах</text>
+		<text>Zniszcz oboz najemnikow</text>
 	</string>
 	<string id="freedom_eliminate_camp_2_descr">
-		<text>Уничтожить лагерь бандитов на бывшей база Галаша</text>
+		<text>Zniszcz oboz najemnikow przy magazynach.</text>
 	</string>
 	<string id="freedom_eliminate_camp_2_text">
-		<text>По твою душу пришли, Грек. Но мы заплатим за ликвидацию базы бандитов. Нехрен им тут делать</text>
+		<text>Sprawa wyglada tak: trzeba zniszczyc oboz najemnikow. Moglibysmy dac im spokoj, w koncu dobrzy z nich strzelcy... Ale naprawde sami sie prosza o klopoty - wkradaja sie na nasze terytorium, probuja przekupywac moich ludzi. Juz czas dac im nauczke. Zrobisz to?</text>
 	</string>
 	<string id="freedom_eliminate_camp_3">
-		<text>Уничтожить группу "Долга"</text>
+		<text>Zniszcz oddzial "Powinnosci"</text>
 	</string>
 	<string id="freedom_eliminate_camp_3_descr">
-		<text>Уничтожить группу бойцов "Долга" на "Ростке"</text>
+		<text>Zniszcz czyscicieli "Powinnosci" w Rostoku.</text>
 	</string>
 	<string id="freedom_eliminate_camp_3_text">
-		<text>Как насчёт, чтобы немного поохотится? На "Ростке" объявился отряд чистильщиков "Долга". Есть хороший шанс устроить им сюрприз. "Долг" постоянно высылает своих ребят за монстрами побегать, ну и под шумок пристукнуть всякого, кто им не понравится. Надо уничтожить эту группу, а то скоро "Долг" окончательно на "Ростке" зацепится. Там народу должно быть не особо много: три-четыре ветерана плюс пара новичков</text>
+		<text>A moze by sie tak wybrac na polowanie? Oddzial czyscicieli "Powinnosci" pojawil sie w Rostoku. To swietna okazja, zeby wziac ich z zaskoczenia. "Powinnosc" ciagle wysyla ludzi na polowania na potwory, ale nie wahaja sie zabic nikogo, kto choc troche im sie nie podoba. Trzeba zlikwidowac ten oddzial, zanim "Powinnosc" przybedzie do Rostoku. Nie powinno byc ich zbyt wielu: trzech lub czterech weteranow i kilku kotow.</text>
 	</string>
 	<string id="freedom_eliminate_camp_4">
-		<text>Уничтожить заставу "Долга"</text>
+		<text>Zniszcz placowke "Powinnosci"</text>
 	</string>
 	<string id="freedom_eliminate_camp_4_descr">
-		<text>Уничтожить заставу "Долга" на Свалке</text>
+		<text>Najszybciej jak to mozliwe zniszcz placowke "Powinnosci" na Wysypisku.</text>
 	</string>
 	<string id="freedom_eliminate_camp_4_text">
-		<text>Есть дельце срочное. Нужно расчистить проход со Свалки на Бар от отряда "Долга"... они там решили засесть и мзду с подорожных брать. Мы ожидаем важную посылку, только теперь нельзя исключить, что "Долг" про нашего курьера уже знает и попытается перехватить груз. Надо эту помеху похерить, хотя бы временно. Ага?</text>
+		<text>Mam niezmiernie pilne zlecenie. Trzeba usunac jednostke "Powinnosci" z drogi z Wysypiska do baru... Zaczeli sie tam ukrywac i okradac tych, ktorzy tamtedy przejezdzaja. Czekamy na bardzo wazna przesylke, ale w takiej sytuacji musimy brac pod uwage, ze "Powinnosc" juz o niej wie i ze bedzie chciala napasc na kuriera. Musimy sie pozbyc tej przeszkody - nawet jesli tylko na jakis czas. Okej?</text>
 	</string>
 	<string id="freedom_eliminate_camp_5">
-		<text>Зачистить деревню</text>
+		<text>Oczysc wioske.</text>
 	</string>
 	<string id="freedom_eliminate_camp_5_descr">
-		<text>Очистить деревню от кровососов и, возможно, контролёра</text>
+		<text>Oczysc wioske z pijawek i - jesli to mozliwe - zlikwiduj Kontrolera. </text>
 	</string>
 	<string id="freedom_eliminate_camp_5_text">
-		<text>Ёлки, и развелось же сосущих уродов в деревне - сил нет! Теперь народ ближе ста метров к ней не подходит, кроме особо отмороженных. А другие ещё рассказывают, что у них галюны там случились... вот только контролёра нам и не хватало! В общем, с этим надо заканчивать. Заставлять не буду - сам бы, если честно, не пошёл. Но если не боишься, то мои границы не будут знать благодарности</text>
+		<text>Czlowieku! Spojrz na te cholerne pijawki, od ktorych az sie roi w wiosce! Nikt poza zupelnymi idiotami nie podchodzi blizej niz na sto metrow. A niektorzy mowia, ze ich oczom ukazuja sie rozne rzeczy... jeszcze tylko Kontrolera nam tam brakuje! Najwyzszy czas to zakonczyc. Nie zmuszam cie - prawde mowiac, sam bym tam nie poszedl. Ale jesli sie nie boisz, moja wdziecznosc nie bedzie znala granic. </text>
 	</string>
 	<string id="freedom_eliminate_camp_6">
-		<text>Уничтожить стаю кабанов и плотей</text>
+		<text>Zlikwiduj stado dzikow i miesaczy.</text>
 	</string>
 	<string id="freedom_eliminate_camp_6_descr">
-		<text>Возле военных складов уничтожить стаю кабанов и плотей</text>
+		<text>Zlikwiduj stado dzikow i miesaczy w poblizu magazynow wojskowych.</text>
 	</string>
 	<string id="freedom_eliminate_camp_6_text">
-		<text>Возле главного входа на базу, сидит наш снайпер. Сидит он себе ночью на вышке... тишина, ночь... и тут, взрыв, дикий визг, вспышка! Что за!... А дело вот в чём - рядом с минным полем повадились бродить кабаны и плоти. Чёрт его знает, чего их туда тянет, но минимум раз в неделю одна из этих тварей на мину нарывается. Задание простое - перебить всех этих существ к ядрёне фене. Сделаешь?</text>
+		<text>Nasz snajper jest przy wejsciu do bazy. Siedzi w nocy na wiezy... jest cicho, ciemno... a tu nagle slychac wybuch, dzikie piski, blysk! Co, do... ? Okazuje sie, ze dziki i miesacze przyzwyczaily sie do wycieczek w okolice pola minowego. Czort jeden wie, po co tam laza, ale przynajmniej raz na tydzien jedna z tych bestii zostaje rozerwana przez mine. Zadanie jest proste - wybij te tepe stwory. Zrobisz to?</text>
 	</string>
 	<string id="freedom_eliminate_camp_7">
-		<text>Уничтожить стаю тушкано</text>
+		<text>Zniszcz stado tuszkanow</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_descr">
-		<text>На "Дикой территории" уничтожить стаю тушкано</text>
+		<text>Zniszcz stado tuszkanow w Dziczy</text>
 	</string>
 	<string id="freedom_eliminate_camp_7_text">
-		<text>Вот возле нашей базы нигде нет тушканов, хоть эти твари проникают куда угодно. А ещё недавно их тут было - закачаешься. Два месяца мы с ними разбирались, хе-хе. Ну так вот. Мы вычислили, откуда приходили тушканы к нам на базу. С "Дикой территории", прикинь? Есть такое опасение, что эти крысы прыгающие размножатся, и опять повалят к нам. Нам нужен человек, который сможет с ними разобраться. Пойдешь?</text>
+		<text>W poblizu naszej bazy nie ma tuszkanow, a przeciez one moga dotrzec wszedzie! Jednak calkiem niedawno bylo tu ich tyle, ze bys nie uwierzyl. Dwa miesiace sie z nimi uzeralismy... he, he, he. Wykombinowalismy, skad przylazly do nas do bazy. Z Dziczy, kapujesz? Boimy sie, ze te skaczace szczury sie rozmnoza i wroca. Potrzebujemy kogos, kto sie tym dla nas zajmie. Zrobisz to?</text>
 	</string>
 	<string id="freedom_find_item_1">
-		<text>Украсть снайперскую винтовку</text>
+		<text>Ukradnij karabin snajperski</text>
 	</string>
 	<string id="freedom_find_item_1_descr">
-		<text>Украсть из склада на базе "Долга" модифицированную СВДм 2</text>
+		<text>Ukradnij z magazynu "Powinnosci" ulepszony SWD-M 2.</text>
 	</string>
 	<string id="freedom_find_item_1_text">
-		<text>Есть специальное задание. Непростое, кстати... В общем, надо увести доведённую "снайперку" со склада "долговцев". У этого винта даже название какое-то своё есть, только не это важно. Главное, что охренительная оптика и компенсатор отдачи помогают за четыреста метров белке в глаз засадить. Ну, я на тебя надеюсь!</text>
+		<text>Mam wyjatkowe zlecenie... i calkiem ciezkie. Musisz odzyskac ulepszonego Dragunowa z magazynu "Powinnosci". Karabin ma nawet swoja nazwe, ale to nieistotne. Najwazniejsze, ze dzieki niesamowitemu celownikowi i redukcji sily odrzutu mozesz z odleglosci 400 metrow trafic wiewiorke w oko. Ufam, ze sie tym zajmiesz!</text>
 	</string>
 	<string id="freedom_find_item_2">
-		<text>Добыть модифицированный Чейзер 13</text>
+		<text>Zdobadz ulepszonego Chasera 13</text>
 	</string>
 	<string id="freedom_find_item_2_descr">
-		<text>Достать модифицированный Чейзер 13 у учёных</text>
+		<text>Zdobadz od naukowcow ulepszonego Chasera 13.</text>
 	</string>
 	<string id="freedom_find_item_2_text">
-		<text>Я слыхал, яйцеголовые умудрились здорово доработать дробовой винчестер с помощью какого-то артефакта. Убойность теперь у этой штуки, что у гаубицы. В общем, сгоняй к ним - может, удастся сторговать? Все затраты компенсирую!</text>
+		<text>Slyszalem, ze jajoglowym udalo sie ulepszyc strzelbe Chaser przy pomocy artefaktu. Sile razenia ma taka sama jak haubica. Zloz im wizyte i sprawdz, czy mozesz ubic interes. Pokryje wszystkie wydatki!</text>
 	</string>
 	<string id="freedom_find_item_3">
-		<text>Принести бронежилет</text>
+		<text>Przynies kamizelke kuloodporna</text>
 	</string>
 	<string id="freedom_find_item_3_descr">
-		<text>Принести армейский бронежилет нового образца</text>
+		<text>Przynies egzemplarz nowej kamizelki kuloodpornej.</text>
 	</string>
 	<string id="freedom_find_item_3_text">
-		<text>У кое-кого из военных появились бронежилеты нового образца. Внутренняя подбивка у этих штук пропитана какой-то мазью лечебной, что ли... в общем, неглубокие ранения заживают как на собаке. И прикинь какая удача: недавно десяток вояк в таких брониках ломанулись на Янтарь, а вернулись шестеро своими ногами, да ещё трое на их плечах. Сечёшь? Один там остался. Если добудешь его бронежилет, мы разберёмся, и себе таких тоже наделаем</text>
+		<text>Niektore trepy paraduja w nowych kamizelkach kuloodpornych. Podszewka zostala nasaczona jakas mascia lecznicza czy czyms takim... tak czy inaczej, niewielkie rany bardzo szybko sie goja. I posluchaj, jakie szczescie: nie tak dawno dziesieciu gosci ruszylo nad Jantar, ale wrocilo tylko szesciu, niosac trzech kolejnych. Juz rozumiesz? Jeden tam zostal. Jesli zdobedziesz dla nas jego kamizelke, rozlozymy ja na czesci i zrobimy sobie takie same.</text>
 	</string>
 	<string id="freedom_kill_stalker_1">
-		<text>Убить начальника охраны "Долга"</text>
+		<text>Zabij szefa ochrony "Powinnosci"</text>
 	</string>
 	<string id="freedom_kill_stalker_1_descr">
-		<text>Убить начальника охраны "Долга", постаравшись сделать это максимально тихо</text>
+		<text>Zabij szefa ochrony "Powinnosci" i postaraj sie to zrobic jak najciszej sie da.</text>
 	</string>
 	<string id="freedom_kill_stalker_1_text">
-		<text>Хорошо бы, чтоб начальник охраны "Долга" тихо исчез. Тогда у них случится небольшой бардак, и я смогу внедрить нескольких ребят в их группировку. А то и, чем чёрт не шутит... ладно, не буду губу раскатывать раньше времени. Советую работать клиента издалека и по-тихому, не поднимая шума</text>
+		<text>Byloby wspaniale, gdyby szef ochrony "Powinnosci" nagle zniknal. A kiedy zapanuje chaos, bede w stanie umiescic w ich bandzie kilku swoich ludzi. Wtedy bedzie mozna wyciac kazdy numer... dobra, lepiej juz sie zamkne. Sugeruje, zebys sie nim zajal z pewnej odleglosci, nie robiac zamieszania. </text>
 	</string>
 	<string id="freedom_kill_stalker_2">
-		<text>Убить капитана Иванцова</text>
+		<text>Zabij kapitana Iwancowa</text>
 	</string>
 	<string id="freedom_kill_stalker_2_descr">
-		<text>Убить близкого помощника лидера "Долга" - капитана Иванцова</text>
+		<text>Zabij kapitana Iwancowa, prawa reke przywodcy "Powinnosci". </text>
 	</string>
 	<string id="freedom_kill_stalker_2_text">
-		<text>Задание сложное, предупреждаю сразу, только оно того стоит. Нужно наказать Иванцова - есть такой прихвостень у командира этого "Долга". Занимается самой грязной работой: карательные походы, налёты... Знал бы ты, скольких наших ребят он вздёрнул! Пора с этой дрянью разобраться окончательно. Если надумаешь, советую тебе первым делом хорошо вооружиться</text>
+		<text>Od razu cie ostrzegam, ze to ciezkie zadanie, ale warto je wykonac. Iwancow, bliski wspolpracownik przywodcy "Powinnosci", az sie prosi o klopoty. Zajmuje sie cala brudna robota: akcjami odwetowymi, nalotami... Gdybys tylko wiedzial, ilu naszych chlopcow juz zabil! Najwyzszy czas, zebysmy skonczyli z ta gnida. Jesli sie zdecydujesz to zrobic, proponuje, zebys sie dobrze uzbroil.</text>
 	</string>
 	<string id="freedom_kill_stalker_3">
-		<text>Убить полковника Петренко</text>
+		<text>Zabij pulkownika Pietrienke</text>
 	</string>
 	<string id="freedom_kill_stalker_3_descr">
-		<text>Убить полковника Петренко - одного из отцов-основателей группировки "Долг"</text>
+		<text>Zabij pulkownika Pietrienke, jednego z zalozycieli "Powinnosci".</text>
 	</string>
 	<string id="freedom_kill_stalker_3_text">
-		<text>Полковник Петренко... Не знаю, слышал ты это имя, встречался с ним или нет, но хорошо бы вам встретиться. Этот человек один из основателей "Долга" и один из самых страшных наших врагов. Постарайся, чтобы ваш разговор окончился побыстрее... для него. Потянешь?</text>
+		<text>Pulkownik Pietrienko... Moze slyszales to nazwisko, a moze go poznales, ale byloby dobrze, gdybyscie sie spotkali. Ten czlowiek to jeden z zalozycieli "Powinnosci" i jeden z naszych smiertelnych wrogow. Postaraj sie, zeby wasza rozmowa zakonczyla sie jak najszybciej... dla niego. Poradzisz sobie?</text>
 	</string>
 	<string id="freedom_kill_stalker_4">
-		<text>Уничтожить сталкера-нейтрала</text>
+		<text>Wykoncz neutralnego stalkera</text>
 	</string>
 	<string id="freedom_kill_stalker_4_descr">
-		<text>Найти и уничтожить сталкера-нейтрала</text>
+		<text>Znajdz i wykoncz neutralnego stalkera.</text>
 	</string>
 	<string id="freedom_kill_stalker_4_text">
-		<text>Мужичек один есть, неподалеку шастает здесь. Так такую штуку выкинул, он нашего однажды пристрелил. А такое прощать нельзя. Берешь дело? Заплатим, не волнуйся</text>
+		<text>Kreci sie tu niedaleko koles, ktory kiedys zastrzelil jednego z naszych. Czegos takiego nie mozna puscic plazem. Zajmiesz sie tym? Zaplacimy, nie martw sie.</text>
 	</string>
 	<string id="freedom_kill_stalker_5">
-		<text>Убить одного из командиров "Долга"</text>
+		<text>Zabij jednego z dowodcow "Powinnosci"</text>
 	</string>
 	<string id="freedom_kill_stalker_5_descr">
-		<text>Убить одного из командиров "Долга"</text>
+		<text>Zabij jednego z dowodcow "Powinnosci"</text>
 	</string>
 	<string id="freedom_kill_stalker_5_text">
-		<text>Плачу за голову любого из головки "Долга"! Завалишь - возвращайся за наградой</text>
+		<text>Zaplace za glowe kazdego z szefow "Powinnosci"! Sprzatnij jakiegos i wroc po nagrode.</text>
 	</string>
 	<string id="freedom_kill_stalker_6">
-		<text>Убить сталкера по прозвищу Чучело</text>
+		<text>Zabij stalkera zwanego Strachem</text>
 	</string>
 	<string id="freedom_kill_stalker_6_descr">
-		<text>Убить сталкера по прозвищу Чучело</text>
+		<text>Zlikwiduj stalkera zwanego Strachem.</text>
 	</string>
 	<string id="freedom_kill_stalker_6_text">
-		<text>Мы уничтожаем монстров, только для нас это вопрос выживания, а не наживы. Популяции мутантов не столь уж и многочисленны; кроме того, это тоже живые существа, поэтому мы не можем допустить их полного уничтожения. Некоторые индивидуумы этого не понимают. Наглядный пример: есть один сталкер, Чучелом кличут. Он своё прозвище получил не просто так, а потому, что навострился клепать на продажу чучела из этих бедолаг. Мы его предупреждали, только без толку. Сделаешь доброе дело для матушки Земли?</text>
+		<text>Likwidujemy potwory - z tym, ze dla nas to kwestia przetrwania, a nie zysku. Populacje mutantow nie sa tak liczne, a poza tym to tez zywe stworzenia, wiec nie mozemy pozwolic na ich wytepienie. Niektorzy nie chca tego zrozumiec - swietnym tego przykladem jest stalker zwany Strachem. Nie bez powodu dostal te ksywke, gdyz sprzedaje wypchane mutanty. Juz go ostrzegalismy, ale na nic. Moze wiec spelnisz dobry uczynek dla matki natury?</text>
 	</string>
 	<string id="freedom_kill_stalker_7">
-		<text>Убить сталкера по прозвищу Барин</text>
+		<text>Zabij stalkera zwanego Barin</text>
 	</string>
 	<string id="freedom_kill_stalker_7_descr">
-		<text>Убить сталкера по прозвищу Барин - главного интенданта группировки "Долг"</text>
+		<text>Zabij stalkera zwanego Barinem, glownego kwatermistrza "Powinnosci".</text>
 	</string>
 	<string id="freedom_kill_stalker_7_text">
-		<text>Хам, подхалим, лицемер, трус... он же - сталкер Барин. Как видишь, человек замечательных душевных качеств, что помогло ему забраться в верхние эшелоны "Долга". Сейчас занимается обеспечением группировки припасами и продовольствием, хотя время от времени всё же участвует в рейдах. Надо от него избавится - тем более, что почти все связи "Долга" в смысле поставок завязаны именно на Барина</text>
+		<text>Lajdak, wazeliniarz, hipokryta i na dodatek tchorz... dla ciebie Barin. Jak widzisz, ma wspanialy charakter, dzieki czemu dostal sie na szczyt "Powinnosci". Obecnie zaopatruje grupe w zapasy, choc od czasu do czasu bierze rowniez udzial w wypadach. Musimy sie go pozbyc, szczegolnie ze wszystkie tropy dotyczace logistyki "Powinnosci" prowadza do Barina.</text>
 	</string>
 	<string id="freedom_monster_part_1">
-		<text>Принести кабанью ногу</text>
+		<text>Przynies noge dzika</text>
 	</string>
 	<string id="freedom_monster_part_1_descr">
-		<text>Принести кабанью ногу</text>
+		<text>Przynies noge dzika.</text>
 	</string>
 	<string id="freedom_monster_part_1_text">
-		<text>У нас тут праздничный ужин намечается в честь дня рождения Боба Марли. Ты, брат, достань нам кабанью ногу повкуснее, а? Или лучше две! Джа тебя не забудет!.</text>
+		<text>Planujemy wydac przyjecie z okazji urodzin Boba Marleya. Moze wiec zdobedziesz troche pysznej szynki? Im wiecej, tym lepiej! Jahwe nigdy ci tego nie zapomni!</text>
 	</string>
 	<string id="hunter_eliminate_lager">
-		<text>Уничтожить логово кровососа</text>
+		<text>Zniszcz legowisko pijawek</text>
 	</string>
 	<string id="hunter_eliminate_lager_descr">
-		<text>Охотник просит зачистить логово кровососа в деревне возле военных складов, в награду обещает редкий артефакт</text>
+		<text>Lowca prosi o zniszczenie legowiska pijawek we wsi, niedaleko magazynow wojskowych. W nagrode obiecuje rzadki artefakt. </text>
 	</string>
 	<string id="hunter_eliminate_lager_text">
-		<text>Ты кровососа встречал? Жуть, правда? А я вот давеча пошел в деревню возле военных складов, думал артефактами разжиться. И представь себе - вижу кровососа, черного такого, весь в рубцах. Сидит над трупом, меня не видит. Я испугался, и как дал оттуда деру... Зря я побежал, он меня услыхал и давай за мной, и сразу вой такой поднялся вокруг... тут я и понял что он не один был. Думаю логово у них там. Если бы ты смог прогнать их оттуда, я бы тебе отдал один редкий артефакт, который пару дней назад нашел</text>
+		<text>Spotkales kiedys pijawke? Przerazajace stworzenie, prawda? Pewnego razu poszedlem do wsi niedaleko magazynow wojskowych - pomyslalem sobie, ze poszukam artefaktow. I wyobraz sobie - nagle widze pijawke... czarna, z bliznami na calym ciele. Kuca przy swojej ofierze, nie widzi mnie. Spanikowalem i spieprzylem stamtad. Nie powinienem byl jednak biec, bo mnie uslyszala i zaczela gonic. Wszedzie wokol slyszalem wycie i zrozumialem, ze nie byla sama. Sadze, ze maja tam legowisko. Jesli przepedzisz je daleko stad, dam ci rzadki artefakt, ktory znalazlem kilka dni temu.</text>
 	</string>
 	<string id="kill_stalker">
-		<text>Убить сталкера</text>
+		<text>Zabij stalkera</text>
 	</string>
 	<string id="lisiy_kill_stalker">
-		<text>Убить предателя</text>
+		<text>Zabij zdrajce</text>
 	</string>
 	<string id="lisiy_kill_stalker_descr">
-		<text>Лысый просит убить одного сталкера, который смылся с очень редкими артефактами</text>
+		<text>Lysol chce, zebys zabil stalkera, ktory uciekl z bardzo rzadkim artefaktem.</text>
 	</string>
 	<string id="lisiy_kill_stalker_text">
-		<text>Я недавно с одним сталкером за артефактами ходил, около самого выжигателя искали. Столько всего нашли, даже нашли пару артефактов, которых я вообще еще никогда не видел, даже на фотографиях. Так вот этот сукин сын меня подставил. На последней ночевке куда то слинял и заныкал самые дорогие артефакты. И еще мне втирал, что, типа, они сами исчезли. А пару дней назад увидел один тот самый редкий артефакт у бармена. И такая злость меня взяла... В общем сталкер, если сможешь найти его - передай ему от меня свинцовый привет. А может заодно узнаешь, где у него тайники, и найдешь второй артефакт. Он того стоит, поверь мне</text>
+		<text>Jakis czas temu razem z innym stalkerem wybralismy sie w podroz niedaleko Zweglacza. Znalezlismy mnostwo rzeczy, w tym kilka artefaktow, jakich nigdy wczesniej nie widzialem nawet na zdjeciach. A ten sukinsyn mnie wykiwal. Ostatniej nocy wykradl sie i schowal najcenniejsze artefakty, a potem probowal mi wmowic, ze same zniknely. Kilka dni temu widzialem jeden z nich u Barmana. Ale sie wkurzylem... W kazdym razie, jesli dasz rade go znalezc, przekaz mu ode mnie olowiane pozdrowienia. A tak przy okazji - moze od razu uda ci sie dowiedziec, gdzie jest jego schowek i zdobyc drugi artefakt? Warto, wierz mi.</text>
 	</string>
 	<string id="mercenary_kill_stalker">
-		<text>Убить сталкера мастера</text>
+		<text>Zabij mistrza stalkerow</text>
 	</string>
 	<string id="mercenary_kill_stalker_descr">
-		<text>За убийство каждого мастера, наемник готов хорошо платить. Чем меньше мастеров, тем легче наемникам</text>
+		<text>Najemnicy powinni zaplacic za zabojstwo kazdego mistrza. Im mniej jest mistrzow, tym latwiej dla najemnikow.</text>
 	</string>
 	<string id="mercenary_kill_stalker_text">
-		<text>Мы не заинтересованы в том, чтобы в Зоне бродили ходячие танки: вооруженные до зубов сталкеры в экзосклетах. Работа от этого становится только сложнее и опаснее. И чем их меньше - тем нам лучше. Убьешь одного такого - получить награду</text>
+		<text>Nie mamy interesu w tym, zeby do Zony zawitaly chodzace pancerniki - uzbrojeni po zeby stalkerzy w egzoszkieletach. Praca stanie sie przez to niebezpieczniejsza i ciezsza. Im jest ich mniej, tym lepiej dla nas. Zabij ktoregos, a otrzymasz nagrode.</text>
 	</string>
 	<string id="monster_part">
-		<text>Добыть часть тела монстра</text>
+		<text>Zdobadz czesc ciala potwora</text>
 	</string>
 	<string id="petrenko_kill_stalker">
-		<text>Уничтожить сталкера Свободы</text>
+		<text>Zlikwiduj stalkera z "Wolnosci".</text>
 	</string>
 	<string id="petrenko_kill_stalker_descr">
-		<text>Один сталкер, бывший долговец, который знал много информации о важных объектах на Припяти, недавно переметнулся на сторону Свободы, нужно убить его, пока он не наболтал лишнего</text>
+		<text>Pewien stalker, byly czlonek "Powinnosci", ktory posiadal wiele waznych informacji o obiektach w Prypeci, przeszedl na strone "Wolnosci". Trzeba go usunac, zanim powie za duzo.</text>
 	</string>
 	<string id="petrenko_kill_stalker_text">
-		<text>Слушай сюда. Есть у нас карты Припяти, не современные, а старые, военные, сделанные в начале девяностых. Самое главное на них - это обозначения всех военных объектов: подземные склады, бомбоубежища. Сейчас от этого пользы мало конечно, но если вдруг мы найдем дорогу в Припять - эта информация станет бесценна. Проблема вот в чем. Один из офицеров переметнулся к Свободе, и он знал об этой информации. В общем надо его уничтожить, пока не наболтал лишнего</text>
+		<text>Posluchaj. Mamy plany Prypeci - nie wspolczesne, ale stare, zrobione we wczesnych latach dziewiecdziesiatych. Najwazniejsze na nich sa oznaczenia wszelkich obiektow wojskowych: podziemnych magazynow czy schronow przeciwbombowych. Oczywiscie teraz nie mamy z tych planow zbyt wiele pozytku, ale jesli znajdziemy droge do Prypeci, informacje te stana sie bezcenne. Jest jednak pewien problem. Jeden z naszych oficerow przeszedl na strone "Wolnosci", a wiedzial o tym wszystkim. Krotko mowiac, trzeba go zlikwidowac, zanim powie za duzo.</text>
 	</string>
 	<string id="return_for_reward">
-		<text>Вернуться за наградой</text>
+		<text>Wroc po nagrode</text>
 	</string>
 	<string id="return_for_reward_bring">
-		<text>Принести заказчику обещанное</text>
+		<text>Dostarcz klientowi obiecany przedmiot</text>
 	</string>
 	<string id="shustriy_find_item">
-		<text>Найти усовершенствованный костюм</text>
+		<text>Znajdz ulepszony kombinezon</text>
 	</string>
 	<string id="shustriy_find_item_descr">
-		<text>Шустрый рассказал о схроне бандитов, в котором они прятали хабар. Просит принести навороченный костюмчик, за награду, разумеется</text>
+		<text>Zwawy powiedzial mi o schowku, w ktorym bandyci ukryli lup. Chce skradziony kombinezon, a w zamian oczywiscie proponuje nagrode.</text>
 	</string>
 	<string id="shustriy_find_item_text">
-		<text>Пока сидел в плену, слышал что бандиты говорили об их тайнике, где они хабар складывают. Слышал что они куртку там клевую спрятали, и что на следующий день их тайник для себя какой-то монстр облюбовал. Да так облюбовал, что они теперь ходить туда бояться. Принеси мне костюмчик, будь другом, а я уж с тобой рассчитаюсь</text>
+		<text>Kiedy bylem jencem, slyszalem, jak bandyci rozmawiaja o ukrytym schowku, w ktorym trzymaja lup. Podobno ukryli tam super kurtke, a dzien pozniej jakis stwor upatrzyl sobie ten schowek i teraz boja sie tam pojsc. Zrob mi przysluge - przynies te kurtke, a dobrze ci zaplace.</text>
 	</string>
 	<string id="tm_barman_has_no_job">
-		<text>Пока ничего нет</text>
+		<text>W tej chwili nic nie moge zaproponowac.</text>
 	</string>
 	<string id="tm_barman_job_ask">
-		<text>И о чём ты хочешь поговорить?</text>
+		<text>A o czym chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_barman_job_complete">
-		<text>Уговор - дороже денег</text>
+		<text>Dobra robota, zasluzyles na nagrode!</text>
 	</string>
 	<string id="tm_barman_job_what">
-		<text>Что такое?</text>
+		<text>Co tam?</text>
 	</string>
 	<string id="tm_barman_list_job">
-		<text>Смотри, что есть:</text>
+		<text>Spojrz, co teraz mamy:</text>
 	</string>
 	<string id="tm_defend_camp_1">
-		<text>Прикрыть отряд Долга от атаки бандитов в Тёмной Долине</text>
+		<text>Ochron oddzial "Powinnosci" przed atakiem bandytow w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_defend_camp_1_descr">
-		<text>Прикрыть отряд Долга от атаки бандитов в Тёмной Долине</text>
+		<text>Ochron oddzial "Powinnosci" przed atakiem bandytow w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_defend_camp_1_text">
-		<text>Всё-таки наконец-то удалось мне вдолбить в тупые головы долговцев, что давно уж пора зачистить Свалку от бандитов... И Долг свою территорию расширит, и мне постоянных клиентов реже портить будут. Ну, в общем, дело в том, что командование Долга решило для начала отсечь приток бандитов из Тёмной Долины. Выслали, они, значит, отряд заграждения, и обнаружили, что бандиты этому не рады. Кто бы мог подумать! Так к чему это я - помог бы ты бойцам закрепиться у входа в Долину, а? Отблагодарю достойно</text>
+		<text>W koncu mi sie udalo wbic w te zakute lby czlonkow "Powinnosci", ze juz najwyzszy czas wykurzyc bandytow z Wysypiska. "Powinnosc" zwiekszy w ten sposob swoj teren i nie bedzie juz tak czesto szkodzic moim stalym klientom. Oto jak wyglada sytuacja: na poczatek przywodcy "Powinnosci" postanowili zatrzymac naplyw bandytow z Doliny Mroku. Ustawili wiec blokade i odkryli, ze bandytom sie to nie podoba. Kto by pomyslal?! Wiec zastanawiam sie, czy nie moglbys pomoc im zabezpieczyc wejscia do Doliny. Bardzo hojnie ci podziekuje.</text>
 	</string>
 	<string id="tm_dolg_has_no_job">
-		<text>Сейчас нет заданий</text>
+		<text>W tej chwili nie ma zadnych zadan.</text>
 	</string>
 	<string id="tm_dolg_job_ask">
-		<text>Что ты хочешь обсудить?</text>
+		<text>O czym chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_dolg_job_complete">
-		<text>Молодчага! Задание выполнено</text>
+		<text>Zuch chlopak! Swietnie sie spisales!</text>
 	</string>
 	<string id="tm_dolg_job_what">
-		<text>Слушаю</text>
+		<text>Slucham.</text>
 	</string>
 	<string id="tm_dolg_list_job">
-		<text>Есть задания:</text>
+		<text>Oto nowe informacje dotyczace zadania:</text>
 	</string>
 	<string id="tm_drunk_dolg_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_drunk_dolg_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_drunk_dolg_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_drunk_dolg_job_what">
-		<text>И что там с заданием?</text>
+		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_drunk_dolg_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="tm_ecolog_has_no_job">
-		<text>Извините, на данный момент ничего нет</text>
+		<text>Przykro mi, ale w tym momencie nie mamy zadnych zlecen.</text>
 	</string>
 	<string id="tm_ecolog_job_ask">
-		<text>По поводу какого задания Вы хотели бы поговорить?</text>
+		<text>Co to za zlecenie, o ktorym chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_ecolog_job_complete">
-		<text>Вы прекрасно справились с заданием! Позвольте вручить Вам награду</text>
+		<text>Swietnie sie spisales! Pozwol, ze wrecze ci nagrode.</text>
 	</string>
 	<string id="tm_ecolog_job_what">
-		<text>Я слушаю Вас</text>
+		<text>Slucham.</text>
 	</string>
 	<string id="tm_ecolog_list_job">
-		<text>Могу предложить Вам следующее:</text>
+		<text>Tyle ci moge zaproponowac:</text>
 	</string>
 	<string id="tm_eliminate_camp_1">
-		<text>Уничтожить лагерь бандитов на Кордоне</text>
+		<text>Zniszcz oboz bandytow na Wysypisku</text>
 	</string>
 	<string id="tm_eliminate_camp_1_descr">
-		<text>Уничтожить лагерь бандитов на АТП</text>
+		<text>Zlikwiduj przebywajacych na Wysypisku bandytow, ktorzy okradaja stalkerow wracajacych z Zony. Handlarz sie ucieszy.</text>
 	</string>
 	<string id="tm_eliminate_camp_1_text">
-		<text>За зачистку бандитского лагеря на здешнем АТП Сидор заплатит 15 000</text>
+		<text>Niedawno bandyci sie zjednoczyli i wchodza w parade uczciwym ludziom, ktorzy chca handlowac... Wiec ruszaj prosto na Wysypisko - slyszalem, ze te gnojki siedza niedaleko zlomowiska. Jesli sie zajmiesz ta sprawa, wszyscy beda ci wdzieczni i hojnie cie nagrodza. Zgoda?</text>
 	</string>
 	<string id="tm_eliminate_camp_2">
-		<text>Уничтожить лагерь бандитов на АТП</text>
+		<text>Zniszcz oboz bandytow na parkingu.</text>
 	</string>
 	<string id="tm_eliminate_camp_2_descr">
-		<text>Уничтожить бандитов на фабрике. Судя по всему, это неопытные новички, так что сложностей не ожидается</text>
+		<text>Zlikwiduj bandytow na parkingu. Wyglada na to, ze sa nowi w Zonie, wiec robota nie powinna byc trudna.</text>
 	</string>
 	<string id="tm_eliminate_camp_2_text">
-		<text>Опять бандиты на АТП кучкуются. Уже догадался, какое задание будет? Тогда это... ноги в руки - и вперёд. Как только передашь им наш общий горячий привет, возвращайся - отблагодарю. Идёт?</text>
+		<text>Bandyci znowu kreca sie w okolicy parkingu. Juz pewnie wiesz, na czym polega zadanie? No to... do roboty! Przekaz im od nas gorace pozdrowienia i wroc - wtedy ci podziekuje. Umowa stoi? </text>
 	</string>
 	<string id="tm_eliminate_camp_3">
-		<text>Уничтожить бандитов возле НИИ "Агропром"</text>
+		<text>Zlikwiduj bandytow</text>
 	</string>
 	<string id="tm_eliminate_camp_3_descr">
-		<text>Уничтожить бандитов возле НИИ "Агропром". С торговцем лучше дружить</text>
+		<text>Zlikwiduj bandytow w okolicy Instytutu Badawczego Agroprom. Lepiej zostac w przyjacielskich stosunkach z handlarzem.</text>
 	</string>
 	<string id="tm_eliminate_camp_3_text">
-		<text>Объявился отряд бандюков под институтом, что на "Агропроме", мешают моим диггерам хлам собирать... Реши проблему - с меня будет кое-что причитаться</text>
+		<text>W okolicy Instytutu Agroprom pojawili sie bandyci. Przeszkadzaja moim kopaczom przegladac odpadki. Rozwiaz ten problem, a bede twoim dluznikiem.</text>
 	</string>
 	<string id="tm_eliminate_camp_4">
-		<text>Зачистить местность от мутантов</text>
+		<text>Oczysc teren z mutantow</text>
 	</string>
 	<string id="tm_eliminate_camp_4_descr">
-		<text>Зачистить местность от мутантов</text>
+		<text>Oczysc teren z mutantow.</text>
 	</string>
 	<string id="tm_eliminate_camp_4_text">
-		<text>Дело есть, не очень тяжелое. Тут ко мне тут туриста иностранного привезти хотят. Он деньжат моим корешам подкинул, чтоб на зону посмотреть. Ну и там где водить его будут, надо почистить район от мутантов. Возьмешься?</text>
+		<text>Jest jedna rzecz - calkiem latwa. Chca tu przywiezc jakiegos turyste obcokrajowca. Zaplacil kupe kasy moim ziomkom, zeby moc spojrzec na Zone. A teren, ktory mu pokaza, trzeba oczyscic z mutantow. Zrobisz to?</text>
 	</string>
 	<string id="tm_eliminate_camp_5">
-		<text>Устранить двух бандитов на Свалке</text>
+		<text>Zlikwiduj dwoch bandytow na Wysypisku.</text>
 	</string>
 	<string id="tm_eliminate_camp_5_descr">
-		<text>Сделать проход в одно из лучших мест Зоны свободным</text>
+		<text>Zabezpiecz droge do jednego z najlepszych ogolnodostepnych miejsc w Zonie.</text>
 	</string>
 	<string id="tm_eliminate_camp_5_text">
-		<text>Недавно одно из лучших мест Зоны стало недоступным для любителей прекрасного. На Свалке... Угу, именно на Свалке есть закуток, вроде ничего такого, но тебя покидают все печали, в котором ты забываешь о грязи, о деньгах, о крови... Точнее забывал. Потому что теперь там сидят два грязных урода, которые грозятся пустить кровь каждому, кто не заплатит им за посещение этого края. Устрани их, мне туристов водить некуда</text>
+		<text>Niedawno jedno z najlepszych miejsc w Zonie stalo sie niedostepne dla milosnikow piekna. Na Wysypisku... tak, na Wysypisku jest takie jedno urocze miejsce, zupelnie inne niz wszystkie, gdzie opuszcza cie wszelki smutek, gdzie zapominasz o brudzie, pieniadzach, o krwi. Zapominales, znaczy sie. Bo teraz jest tam dwoch jelopow, ktorzy groza, ze zabija kazdego, kto im nie zaplaci za wejscie. Pozbadz sie ich - tylko tam moge zabierac turystow.</text>
 	</string>
 	<string id="tm_eliminate_camp_6">
-		<text>Убить кровососа в Темной долине</text>
+		<text>Zabij pijawke w Dolinie Mroku</text>
 	</string>
 	<string id="tm_eliminate_camp_6_descr">
-		<text>Убить кровососа в Темной долине</text>
+		<text>Zabij pijawke w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_eliminate_camp_6_text">
-		<text>Говорят, что военные ушли из Темной долины. А после изо всех щелей попёрли монстры. Сталкеры уже видели там кровососа, причём необычного - он не боится открытых пространств. В общем, когда слух докатится до учёных - они обязательно захотят исследовать этого кровососа. И я хочу быть тем человеком, который продаст ученым труп. Твоя задача - убить кровососа, а дальше я все беру на себя</text>
+		<text>Podobno oddzialy wojska opuscily Doline Mroku. A wtedy z kazdej szczeliny zaczely wylazic potwory. Stalkerzy dostrzegli juz tam pijawke, i to niezwykla - taka, ktora nie boi sie otwartych przestrzeni. Jak wiesci o tym dotra do naukowcow, na pewno beda chcieli ja zbadac. A ja chce byc tym, kto da im jej cialo. Twoim zadaniem jest zabicie pijawki, a ja sie zajme reszta.</text>
 	</string>
 	<string id="tm_find_artefact_1">
-		<text>Найти артефакт "Медуза"</text>
+		<text>Znajdz "meduze"</text>
 	</string>
 	<string id="tm_find_artefact_1_descr">
-		<text>Найти артефакт "Медуза", образующийся в аномалии "Трамплин"</text>
+		<text>Znajdz "meduze", ktora powstala w anomalii zwanej "Trampolina".</text>
 	</string>
 	<string id="tm_find_artefact_1_text">
-		<text>Мне тут один человек с Большой земли заказал "Медузу". Работа непыльная и деньги небольшие, зато обернешься быстро. Соглашайся!</text>
+		<text>Jakis koles z Wielkiej Krainy poprosil o "meduze". Nie ma za to duzo pieniedzy, ale tez zadanie jest bajecznie proste. Bierz!</text>
 	</string>
 	<string id="tm_find_artefact_2">
-		<text>Найти артефакт "Каменный цветок"</text>
+		<text>Znajdz "kamienny kwiat"</text>
 	</string>
 	<string id="tm_find_artefact_2_descr">
-		<text>Найти артефакт "Каменный цветок", образующийся в аномалии "Трамплин". Заплатить за него должны неплохо</text>
+		<text>Znajdz "kamienny kwiat", ktory powstal w anomalii zwanej "Trampolina". Podobno dobrze za to placa.</text>
 	</string>
 	<string id="tm_find_artefact_2_text">
-		<text>Есть задание на "Каменный цветок". От ювелиров, прочим между, так не будем расстраивать прекрасных дам, а? Достанешь - с меня гонорар и бутылка, за их здоровье выпить..</text>
+		<text>Mam zamowienie na "kamienny kwiat". Tak przy okazji - zlecenie pochodzi od jubilerow, wiec nie zawiedzmy pieknych pan, co? Jesli go zdobedziesz, dostaniesz pieniadze i butelke, zebys mogl wypic za ich zdrowie... </text>
 	</string>
 	<string id="tm_find_artefact_3">
-		<text>Найти артефакт "Ночная звезда"</text>
+		<text>Znajdz "gwiazde wieczorna" </text>
 	</string>
 	<string id="tm_find_artefact_3_descr">
-		<text>Найти «Ночную звезду» - редкий и дорогой артефакт</text>
+		<text>Znajdz "gwiazde wieczorna", rzadko spotykany i drogi artefakt. </text>
 	</string>
 	<string id="tm_find_artefact_3_text">
-		<text>Есть одно заданьице... несколько неприятное. Похоже, от военных - они занимаются разработкой новых средств защиты. Пришёл, значит, заказ на «Ночную звезду» - это артефактец редкий такой, он умеет неплохо от пуль защищать... Так ты берёшься? Плачу хорошо!.</text>
+		<text>Mam jedno zlecenie... dosyc nieprzyjemna robota. Wojskowi pracuja nad jakimis nowymi sposobami ochrony. Potrzebuja do tego "gwiazdy wieczornej". To dosyc rzadko spotykany artefakt, ale podobno calkiem niezle chroni przed kulami... Zrobisz to? Dobrze ci zaplace! </text>
 	</string>
 	<string id="tm_find_artefact_4">
-		<text>Найти артефакт "Огненный шар"</text>
+		<text>Znajdz artefakt zwany "kotletem"</text>
 	</string>
 	<string id="tm_find_artefact_4_descr">
-		<text>Найти антирадиационный артефакт "Огненный шар"</text>
+		<text>Znajdz artefakt zwany "kotletem".</text>
 	</string>
 	<string id="tm_find_artefact_4_text">
-		<text>Есть заказ на артефакт, нужен такой, чтоб радиацию выводить мог, называется "Огненный шар"! Клиника у них вроде какая-то. Достанешь - и сам денег получишь и людям поможешь</text>
+		<text>Mam zamowienie na artefakt leczacy rany - nazywaja go "kotletem"! Maja jakas klinike czy cos. Jesli go zdobedziesz, zaplaca ci i jednoczesnie pomozesz ludziom.</text>
 	</string>
 	<string id="tm_find_item_1">
-		<text>Найти усовершенствованный пистолет</text>
+		<text>Znajdz ulepszony pistolet</text>
 	</string>
 	<string id="tm_find_item_1_descr">
-		<text>Добыть пистолет "Фора-12Мк2", у которого, по слухам, увеличено количество патронов в магазине. Последний известный владелец - командир блокпоста под разрушенным мостом</text>
+		<text>Zdobadz pistolet Fort, ktory podobno moze pomiescic wiecej nabojow w magazynku. Ostatnim znanym wlascicielem broni byl dowodca placowki wojskowej pod zniszczonym mostem.</text>
 	</string>
 	<string id="tm_find_item_1_text">
-		<text>Эх, и пошла же дурацкая мода на навороченное оружие, никто уже стрелять из обычного не хочет, даже новички!.. В общем, есть заказ на улучшенный шпалер один. По слухам, у командира военных, что деньгу сшибают за проход под мостом, имеется "Фора-12Мк2" с жирной обоймой. Достанешь?</text>
+		<text>Nie rozumiem tej mody na wypasiona bron - nawet koty nie chca juz strzelac z normalnych pukawek! Niewazne, mam zlecenie na ulepszony karabin maszynowy. Podobno dowodca wojskowy - ten, co bierze lapowki za przejscie pod mostem - ma Forta z pelnym magazynkiem? Zdobedziesz go?</text>
 	</string>
 	<string id="tm_freedom_has_no_job">
-		<text>Да нет сейчас никакой работы..</text>
+		<text>Teraz nie ma zadnych zadan...</text>
 	</string>
 	<string id="tm_freedom_job_ask">
-		<text>Что ты хочешь обсудить-то?</text>
+		<text>To o czym chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_freedom_job_complete">
-		<text>Ну, молодца, молодца! Работа на пять - держи заработанное</text>
+		<text>Oto porzadny mlody czlowiek! Dobra robota - zaplata jest twoja.</text>
 	</string>
 	<string id="tm_freedom_job_what">
-		<text>Что такое?</text>
+		<text>Co tam?</text>
 	</string>
 	<string id="tm_freedom_list_job">
-		<text>Вот гляди, чего есть:</text>
+		<text>Oto co mam:</text>
 	</string>
 	<string id="tm_hunter_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_hunter_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_hunter_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_hunter_job_what">
-		<text>И что там с заданием?</text>
+		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_hunter_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="tm_job_nothing">
-		<text>Да нет, ничего. В другой раз</text>
+		<text>Nie ma problemu. Moze innym razem.</text>
 	</string>
 	<string id="tm_job_refuse">
-		<text>Я отказываюсь выполнять это задание</text>
+		<text>Nie wezme tego zlecenia.</text>
 	</string>
 	<string id="tm_kill_stalker_1">
-		<text>Убить вожака бандитов</text>
+		<text>Zabij przywodce bandytow</text>
 	</string>
 	<string id="tm_kill_stalker_1_descr">
-		<text>Убить вожака бандитов, перешедшего дорогу торговцу. Скорее всего, он будет не один, а с охраной... Работа сложная, но и платят соответствующе. Искать его вернее всего на Свалке</text>
+		<text>Zabij przywodce bandytow, ktory wszedl w parade handlarzowi. Najprawdopodobniej nie bedzie sam... Ciezka robota, ale zaplata wynagrodzi ci wszystkie trudy... Szukaj go w Dolinie Mroku.</text>
 	</string>
 	<string id="tm_kill_stalker_1_text">
-		<text>Тебе придётся прикончить одного красавца - он у бандитов один из главных. Недавно бандюки по его приказу перехватили моего курьера и выпотрошили в ноль, а с теми, кто трогает моих людей, разговор короткий... В общем, сделаешь дело - в долгу не останусь. Так как, берёшься?</text>
+		<text>Musisz wykonczyc tego elegancika, jednego z przywodcow bandytow. Nie tak dawno na jego rozkaz bandyci przechwycili mojego kuriera i dojechali go, a ja szkoda sobie jezyk strzepic na takich, co czepiaja sie moich ludzi... Jednym slowem, jesli wykonasz zadanie, odwdziecze ci sie. Piszesz sie na to?</text>
 	</string>
 	<string id="tm_kill_stalker_2">
-		<text>Убить сталкера-торгаша</text>
+		<text>Zabij stalkera handlarza</text>
 	</string>
 	<string id="tm_kill_stalker_2_descr">
-		<text>Убить сталкера... Да, не самая лучшая работа из всех - поднимать руку на коллегу. Однако платят неплохо, и, возможно, это главное?</text>
+		<text>Zabij stalkera... No tak, to niezbyt ciekawa sprawa - podnosic reke na kolege po fachu... Ale zaplata jest solidna, a to chyba sie liczy najbardziej. </text>
 	</string>
 	<string id="tm_kill_stalker_2_text">
-		<text>У меня возникли некоторые разногласия с одним торгашом. Ну не хочет со мной работать, и чёрт с ним! Только слухи подлые распускать не позволю. В общем, надо с ним кончать, чтоб другие не распускались. Чтобы знали, кто тут хозяин..</text>
+		<text>Poprztykalem sie z jednym handlarzem. Jesli nie chce wspolpracowac, to do diabla z nim! Nie pozwole nikomu rozpuszczac o mnie podlych plotek. Krotko mowiac - sprzatnij go, zeby inni nie wymkneli sie spod kontroli. Chce, zeby wszyscy wiedzieli, kto tu jest szefem...</text>
 	</string>
 	<string id="tm_kill_stalker_3">
-		<text>Убить сталкера-новичка</text>
+		<text>Zabij stalkera zoltodzioba</text>
 	</string>
 	<string id="tm_kill_stalker_3_descr">
-		<text>Прикончить сталкера-новичка, который, может, и не новичок совсем... Кто же тогда? Впрочем, чёрт их разберет! Главное, работа непыльная</text>
+		<text>Wykoncz stalkera zoltodzioba, ktory byc moze wcale nie jest zoltodziobem... Kim wiec jest? Eee, kogo to obchodzi? Pod warunkiem, ze nie spaprasz roboty.</text>
 	</string>
 	<string id="tm_kill_stalker_3_text">
-		<text>Есть тут один, всё крутится, под новичка косит, да только странный он какой-то... В общем, если он незаметно исчезнет, это будет мне хорошее такое одолжение. Понимаешь, о чём я?</text>
+		<text>Kreci sie tu pewien koles, ktory udaje zoltodzioba, ale jest jakis dziwny... Wiec jesli nagle zniknie, wyswiadczysz mi ogromna przysluge. Wiesz, o czym mowie?</text>
 	</string>
 	<string id="tm_kill_stalker_4">
-		<text>Убить сталкера по прозвищу Демон</text>
+		<text>Zabij stalkera zwanego Demonem</text>
 	</string>
 	<string id="tm_kill_stalker_4_descr">
-		<text>Устранить одного из торговых конкурентов торговца Сидоровича - сталкера по прозвищу Демон</text>
+		<text>Zlikwiduj jednego z rywali handlarza Sidorowicza, stalkera zwanego Demonem. </text>
 	</string>
 	<string id="tm_kill_stalker_4_text">
-		<text>Демон, он же Олег Гусаров... спецназовец бывший. Пока не лез в чужие дела, к нему у меня претензий не было - одиночка как одиночка. Только мне тут кое-кто сказал, Демон народ собирает, чтоб кордон под себя подмять и подгрести переправку хабара из Зоны. А вот это уже серьёзная проблема, и её надо по-быстрому решать. Берёшь заказ?</text>
+		<text>Demon, znany rowniez jako Oleg Gusarow... sluzyl kiedys w Specnazie. Dopoki zajmowal sie swoimi sprawami, nie mialem nic przeciwko niemu - jak samotnik, to samotnik. Ale podobno organizuje bande, ktora ma zniszczyc Kordon i przejac kontrole nad przemytem z Zony. Cos takiego to juz powazny problem, wiec trzeba go blyskawicznie rozwiazac. Zrobisz to?</text>
 	</string>
 	<string id="tm_kill_stalker_5">
-		<text>Убить отца Диодора</text>
+		<text>Zabij ojca Diodora</text>
 	</string>
 	<string id="tm_kill_stalker_5_descr">
-		<text>Убить человека, проповедующего в Зоне против добычи артефактов и торговли ими? Именно так</text>
+		<text>Zabic czlowieka, ktory wyglasza w Zonie kazania potepiajace zbieranie i sprzedaz artefaktow? Dokladnie.</text>
 	</string>
 	<string id="tm_kill_stalker_5_text">
-		<text>Я всегда говорил: бизнес и религия - два параллельных занятия, им и близко пересекаться нельзя, и в дела друг друга ни-ни!.. Только этому отцу, прости Господи, Диодору... м-да... ну не может он понять этой простой истины. Всё бредит, что собирательство артефактов, а наипаче торговля ими совращает на путь грешный людей не только в Зоне, но и во всём мире - ну и всё в таком духе. Он, понимаешь, призывает вообще артефакты уничтожать - а?! Ты представь только, до чего додумался!.. Самое плохое, некоторые вестись на бредни начинают. Я к этому Диодору на какой только козе уж не подъезжал, а он знай своё гнёт. Уговор такой: ты его отправляешь наверх на аудиенцию... понял, да? А я тебе артефакт какой-нибудь солидный. Так что, по рукам?</text>
+		<text>Zawsze powtarzalem, ze interesy i religia nie ida w parze, a ludzie zajmujacy sie nimi nie powinni sie wtracac w nie swoje sprawy! Ten ojczulek - Boze, wybacz mi - Diodor... no coz... nie dostrzega oczywistej prawdy. Ciagle bredzi o polowaniu na artefakty, mowi, ze handel nimi sklania ludzi do grzechu - i to nie tylko w Zonie, ale na calym swiecie... i takie tam... Co wiecej, on namawia do niszczenia artefaktow!!! Rozumiesz, w czym rzecz? A najgorsze jest to, ze zalezli sie tacy, co go sluchaja! Probowalem tego Diodora podejsc na rozne sposoby, ale on uparcie sie trzyma swego. Umowa jest taka: wyslij go do Bozi, gdzie bedzie sobie mogl bez konca prawic kazania... kapujesz, prawda? A ja ci dam swietny artefakt. Zgoda?</text>
 	</string>
 	<string id="tm_kill_stalker_6">
-		<text>Убить "торгового представителя"</text>
+		<text>Zabij stalkera</text>
 	</string>
 	<string id="tm_kill_stalker_6_descr">
-		<text>Убить "торгового представителя". Торговец следит за своей репутацией</text>
+		<text>Zabij "przedstawiciela handlowego". Handlarzowi zalezy na reputacji.</text>
 	</string>
 	<string id="tm_kill_stalker_6_text">
-		<text>Прикинь, тут недалеко крутится какой-то чудак, который представляется моим торговым представителем, пользуется, значит, моей репутацией, а потом толкает некондиционку! Сломанные стволы, разваливающуюся броню, просроченные консервы... У меня тут уже было пару разборок с недовольными. Короче, мне нужен человек, который пообщается с "торговым представителем". Вплоть до некондиции</text>
+		<text>Wyobraz sobie, ze pojawil sie jakis wariat, ktory przedstawia sie jako moj "przedstawiciel handlowy", wykorzystuje moja dobra reputacje i probuje wcisnac ludziom wybrakowany towar! Pekniete lufy, rozpadajace sie kombinezony, przeterminowane konserwy. Juz sie musialem uzerac z kilkoma niezadowolonymi klientami. Krotko mowiac, niewazne, jak tego dokonasz - chce, zebys przemowil temu "przedstawicielowi handlowemu" do rozsadku.</text>
 	</string>
 	<string id="tm_lisiy_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_lisiy_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_lisiy_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_lisiy_job_what">
-		<text>И что там с заданием?</text>
+		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_lisiy_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="tm_mercenary_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_mercenary_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_mercenary_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_mercenary_job_what">
-		<text>И что там с заданием?</text>
+		<text>Jak tam zadanie?</text>
 	</string>
 	<string id="tm_mercenary_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="tm_monster_part_1">
-		<text>Принести челюсть кровососа</text>
+		<text>Zdobadz macki pijawki</text>
 	</string>
 	<string id="tm_monster_part_1_descr">
-		<text>Зуб кровососа притягивает удачу? Посмотрим повезет ли кровососу</text>
+		<text>A wiec macka pijawki przynosi szczescie? Zobaczymy, czy pijawce przyniesie.</text>
 	</string>
 	<string id="tm_monster_part_1_text">
-		<text>Слышал поверье, что зуб кровососа притягивает удачу? Будто бы того, кто на шее носит такой зуб, аномалии отпускают, и артефакты сами в руки идут? В общем, это всё фигня, но есть болваны, которые верят и готовы платить хорошие деньги. Принесешь челюсть кровососа, я тебе хорошо заплачу</text>
+		<text>Slyszalem taki przesad, ze macka pijawki przynosi szczescie. Ze niby ktos, kto ma taka macke zawieszona na szyi, omija anomalie i ze artefakty same wpadaja mu w rece. To oczywiscie gowno prawda, ale niektore palanty w to wierza i sa gotowe sporo za taka macke zaplacic. Jesli dostarczysz mi macke pijawki, dobrze ci zaplace.</text>
 	</string>
 	<string id="tm_monster_part_2">
-		<text>Притащить хвост псевдособаки</text>
+		<text>Zdobadz ogon nibypsa</text>
 	</string>
 	<string id="tm_monster_part_2_descr">
-		<text>Притащить хвост псевдособаки</text>
+		<text>Zdobadz ogon nibypsa.</text>
 	</string>
 	<string id="tm_monster_part_2_text">
-		<text>Зима скоро. А что зимой там, на большой земле, бабы носить любят? Правильно! Меха носить они любят. Вот и пошла мода новая, из хвостов псевдо собак аксессуары всякие делать. Шерсть там какая то особенная! Короче, есть заказ на такой хвост. Возьмешься?</text>
+		<text>Nadchodzi zima. A co w zimie nosza laski z Wielkiej Krainy? Zgadza sie, futra. Pojawila sie nowa moda na robienie dodatkow z ogonow nibypsow. To podobno jakas wyjatkowa siersc! Mowiac w skrocie: mam zamowienie na taki ogon. Bierzesz te robote?</text>
 	</string>
 	<string id="tm_petrenko_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_petrenko_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_petrenko_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_petrenko_job_what">
-		<text>И что там с заданием?</text>
+		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_petrenko_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="tm_reward_job">
-		<text>По поводу задания</text>
+		<text>Przyszedlem tu w sprawie zlecenia.</text>
 	</string>
 	<string id="tm_seek_job_abandon">
-		<text>Это - херь какая-то, а не работа..</text>
+		<text>Nie interesuja mnie takie zadania.</text>
 	</string>
 	<string id="tm_seek_job_no">
-		<text>В другой раз</text>
+		<text>Innym razem.</text>
 	</string>
 	<string id="tm_seek_job_yes">
-		<text>Хорошо, сделаем</text>
+		<text>Jestem gotow.</text>
 	</string>
 	<string id="tm_seek_new_job">
-		<text>Посталкерить хочу. Есть что на примете?</text>
+		<text>Potrzebuje zlecenia. Masz cos dla mnie?</text>
 	</string>
 	<string id="tm_shustriy_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_shustriy_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_shustriy_job_complete">
-		<text>Задание выполнено... а вот и гонорарчик!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_shustriy_job_what">
-		<text>И что там с заданием?</text>
+		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_shustriy_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="tm_trader_has_no_job">
-		<text>Зайди попозже, постараюсь подыскать что-нибудь подходящее.</text>
+		<text>Nie ma teraz zlecen.</text>
 	</string>
 	<string id="tm_trader_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zleceniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_trader_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane... a oto nagroda! </text>
 	</string>
 	<string id="tm_trader_job_what">
-		<text>И что там с заданием?</text>
+		<text>Co z robota?</text>
 	</string>
 	<string id="tm_trader_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<!-- <string id="tm_trader_dubl_has_no_job">
-		<text>Зайди попозже, постараюсь подыскать что-нибудь подходящее.</text>
+		<text>Przyjdz pozniej, postaram sie znalezc ci cos odpowiedniego..</text>
 	</string>
 	<string id="tm_trader_dubl_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zleceniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_trader_dubl_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_trader_dubl_job_what">
-		<text>И что там с заданием?</text>
+		<text>Co z robota?</text>
 	</string>
 	<string id="tm_trader_dubl_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string> -->
 	<string id="tm_wolf_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_wolf_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_wolf_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_wolf_job_what">
-		<text>И что там с заданием?</text>
+		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_wolf_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="tm_zastava_commander_has_no_job">
-		<text>На данный момент ничего нет</text>
+		<text>Chwilowo nic nie ma.</text>
 	</string>
 	<string id="tm_zastava_commander_job_ask">
-		<text>Насчёт какого задания ты хочешь поговорить?</text>
+		<text>O jakim zadaniu chcesz porozmawiac?</text>
 	</string>
 	<string id="tm_zastava_commander_job_complete">
-		<text>Задание выполнено... а вот и гонорар!</text>
+		<text>Zadanie wykonane - a oto i nagroda!</text>
 	</string>
 	<string id="tm_zastava_commander_job_what">
-		<text>И что там с заданием?</text>
+		<text>A co z zadaniem?</text>
 	</string>
 	<string id="tm_zastava_commander_list_job">
-		<text>Есть кое-что:</text>
+		<text>Mam cos:</text>
 	</string>
 	<string id="wolf_eliminate_lager_1">
-		<text>Уничтожить логово кабанов</text>
+		<text>Zniszcz legowisko dzikow</text>
 	</string>
 	<string id="wolf_eliminate_lager_1_descr">
-		<text>Кабаны устроили догово, аккурат рядом с тем местом, где Волк с другом схрон сделали. Волк просит зачистить логово, обещал щедро наградить</text>
+		<text>Dziki maja legowisko niedaleko miejsca, w ktorym Wilk i jego kumpel zrobili sobie sklad. Wilk prosi o zniszczenie legowiska - obiecal, ze godnie mnie wynagrodzi.</text>
 	</string>
 	<string id="wolf_eliminate_lager_1_text">
-		<text>Это, у нас с другом схрон тут недалеко был, аккурат за АТП, там еще деревья погуще растут, то что надо короче. Так вот там недавно кабаны логово себе устроили. И получается что до схрона нам теперь не добраться. Помоги - убей кабанов, а я тебя отблагодарю, и за себя, и за друга</text>
+		<text>Razem z kumplem mielismy sklad tu, niedaleko parkingu, gdzie las jest gestszy. Wydawalo sie, ze to idealne miejsce. Ale niedawno dziki sobie je upatrzyly na legowisko i nie mozemy sie tam dostac. Pomoz nam - zabij dziki, a podziekuje ci w imieniu swoim i kolegi.</text>
 	</string>
 	<string id="wolf_eliminate_lager_2">
-		<text>Уничтожить мутантов на ферме</text>
+		<text>Zlikwiduj mutanty w gospodarstwie</text>
 	</string>
 	<string id="wolf_eliminate_lager_2_descr">
-		<text>Волк просит зачистить ферму от мутантов, хочет организовать там перевалочный лагерь</text>
+		<text>Wilk prosi, zeby oczyscic gospodarstwo z mutantow, bo chce tam zalozyc placowke.</text>
 	</string>
 	<string id="wolf_eliminate_lager_2_text">
-		<text>Тут хоть и граница Зоны, но новичкам и здесь несладко. Бандиты то еще полбеды, они хоть русский язык понимают. А вот мутанты - с ними совсем худо. Устроили себе логово на заброшенной ферме, единственное хорошее место для перевалочного лагеря заняли. Если сможешь очистить ферму от мутантов - с меня причитается</text>
+		<text>Choc to granica Zony, nawet nowicjusze maja tutaj ciezkie zycie. Bandyci to tylko czesc problemu - przynajmniej rozumieja po rosyjsku. Ale mutanty... sa o wiele gorsze. Zrobily sobie legowisko w opuszczonym gospodarstwie i zajely jedyne miejsce, ktore nadaje sie na placowke. Jesli uda ci sie ich stamtad pozbyc, bede twoim dluznikiem.</text>
 	</string>
 	<string id="zastava_commander_eliminate_lager">
-		<text>Зачистить логово собак</text>
+		<text>Zlikwiduj legowisko psow</text>
 	</string>
 	<string id="zastava_commander_eliminate_lager_descr">
-		<text>Возле Южной заставы на Баре обосновалась стая собак. Начальник заставы просит зачистить логово, обещал наградить</text>
+		<text>Niedaleko poludniowego posterunku kolo baru wloczy sie stado psow. Dowodca prosi, zebys sie nimi zajal i obiecuje nagrode.</text>
 	</string>
 	<string id="zastava_commander_eliminate_lager_text">
-		<text>Несмотря на наши усилия некоторые монстры все таки прорываются со стороны Свалки. Да ты наверное и сам видел стаю собак к югу от нас. Убьешь их - получишь награду</text>
+		<text>Pomimo naszych wysilkow z Wysypiska ciagle dostaja sie tu rozne stwory. Pewnie nawet sam widziales stado psow na poludnie od nas. Jesli je zabijesz, dostaniesz nagrode.</text>
 	</string>
 	<string id="defend_lager">
-		<text>Защита лагеря</text>
+		<text>Obrona obozu</text>
 	</string>
 	
-	<!-- ПС -->
+	<!-- DN -->
 	
 	<string id="kremen_find_artefact_1">
-		<text>Найти артефакт "Ломоть мяса"</text>
+		<text>Znajdz artefakt "Kotlet"</text>
 	</string>
 	<string id="text_kremen_find_artefact_1">
-		<text>Есть заказ на "Ломоть мяса". Возьмешься?</text>
+		<text>Jest zamowienie na "Kotlet". Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_1">
-	<text>Найти и принести Кремню артефакт "Ломоть мяса"</text>
+	<text>Znajdz i przynies Krzemieniowi artefakt "Kotlet".</text>
 	</string>
 	<string id="kremen_find_artefact_2">
-		<text>Найти артефакт "Медуза"</text>
+		<text>Przynies artefakt "Meduza"</text>
 	</string>
 	<string id="text_kremen_find_artefact_2">
-		<text>Есть совсем простое задание: добыть "Медузу" Подойдет?</text>
+		<text>Jest calkiem proste zadanie: zdobyc "Meduze" Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_2">
-		<text>Найти и принести Кремню артефакт "Медуза"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Meduza".</text>
 	</string>
 	<string id="kremen_find_artefact_3">
-		<text>Найти артефакт "Каменный цветок"</text>
+		<text>Przynies artefakt "Krysztalowy Kwiat"</text>
 	</string>
 	<string id="text_kremen_find_artefact_3">
-		<text>Нужен "Каменный цветок". Добудешь?</text>
+		<text>Potrzebny jest "Krysztalowy Kwiat". Zdobedziesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_3">
-		<text>Найти и принести Кремню артефакт "Каменный цветок"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Krysztalowy Kwiat".</text>
 	</string>
 	<string id="kremen_find_artefact_4">
-		<text>Найти артефакт "Ночная звезда"</text>
+		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_kremen_find_artefact_4">
-		<text>Спрашивал тут один тип артефакт "Ночная звезда". Найдешь?</text>
+		<text>Pytal tu jeden typ o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_4">
-		<text>Найти и принести Кремню артефакт "Ночная звезда"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="kremen_find_artefact_5">
-		<text>Найти артефакт "Выверт"</text>
+		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_kremen_find_artefact_5">
-		<text>Артефакт "Выверт" нужен. Берешься?</text>
+		<text>Artefakt "Skretak" jest potrzebny. Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_5">
-		<text>Найти и принести Кремню артефакт "Выверт"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Skretak".</text>
 	</string>
 	<string id="kremen_find_artefact_6">
-		<text>Найти артефакт "Грави"</text>
+		<text>Przynies artefakt "Grawi"</text>
 	</string>
 	<string id="text_kremen_find_artefact_6">
-		<text>Интересуются артефактом "Грави". Годится?</text>
+		<text>Interesuje mnie artefakt "Grawi". Podejmiesz sie?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_6">
-		<text>Найти и принести Кремню артефакт "Грави"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Grawi".</text>
 	</string>
 	<string id="kremen_find_artefact_7">
-		<text>Найти артефакт "Золотая рыбка"</text>
+		<text>Przynies artefakt "Zlota Rybka"</text>
 	</string>
 	<string id="text_kremen_find_artefact_7">
-		<text>Есть заказ на артефакт "Золотая рыбка"</text>
+		<text>Jest zamowienie na artefakt "Zlota Rybka".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_7">
-		<text>Найти и принести Кремню артефакт "Золотая рыбка"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Zlota Rybka".</text>
 	</string>
 	<string id="kremen_find_artefact_8">
-		<text>Найти артефакт "Капли"</text>
+		<text>Przynies artefakt "Kropla"</text>
 	</string>
 	<string id="text_kremen_find_artefact_8">
-		<text>Есть заказ на артефакт "Капли"</text>
+		<text>Jest zamowienie na artefakt "Kropla".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_8">
-		<text>Найти и принести Кремню артефакт "Капли"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Kropla".</text>
 	</string>
 	<string id="kremen_find_artefact_9">
-		<text>Найти артефакт "Огненный шар"</text>
+		<text>Przynies artefakt "Ognista Kula"</text>
 	</string>
 	<string id="text_kremen_find_artefact_9">
-		<text>Есть заказ на артефакт "Огненный шар"</text>
+		<text>Jest zamowienie na artefakt "Ognista Kula".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_9">
-		<text>Найти и принести Кремню артефакт "Огненный шар"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Ognista Kula".</text>
 	</string>
 	<string id="kremen_find_artefact_10">
-		<text>Найти артефакт "Кристалл"</text>
+		<text>Przynies artefakt "Krysztal"</text>
 	</string>
 	<string id="text_kremen_find_artefact_10">
-		<text>Есть заказ на артефакт "Кристалл"</text>
+		<text>Jest zamowienie na artefakt "Krysztal".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_10">
-		<text>Найти и принести Кремню артефакт "Кристалл"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Krysztal".</text>
 	</string>
 	<string id="kremen_find_artefact_11">
-		<text>Найти артефакт "Кровь камня"</text>
+		<text>Przynies artefakt "Kamienna Krew"</text>
 	</string>
 	<string id="text_kremen_find_artefact_11">
-		<text>Есть заказ на артефакт "Кровь камня"</text>
+		<text>Jest zamowienie na artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_11">
-		<text>Найти и принести Кремню артефакт "Кровь камня"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="kremen_find_artefact_12">
-		<text>Найти артефакт "Душа"</text>
+		<text>Przynies artefakt "Dusza"</text>
 	</string>
 	<string id="text_kremen_find_artefact_12">
-		<text>Есть заказ на артефакт "Душа"</text>
+		<text>Jest zamowienie na artefakt "Dusza".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_12">
-		<text>Найти и принести Кремню артефакт "Душа"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Dusza".</text>
 	</string>
 	<string id="kremen_find_artefact_13">
-		<text>Найти артефакт "Бенгальский огонь"</text>
+		<text>Przynies artefakt "Swiecidelko"</text>
 	</string>
 	<string id="text_kremen_find_artefact_13">
-		<text>Есть заказ на артефакт "Бенгальский огонь"</text>
+		<text>Jest zamowienie na artefakt "Swiecidelko".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_13">
-		<text>Найти и принести Кремню артефакт "Бенгальский огонь"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Swiecidelko".</text>
 	</string>
 	<string id="kremen_find_artefact_14">
-		<text>Найти артефакт "Вспышка"</text>
+		<text>Przynies artefakt "Blysk"</text>
 	</string>
 	<string id="text_kremen_find_artefact_14">
-		<text>Есть заказ на артефакт "Вспышка"</text>
+		<text>Jest zamowienie na artefakt "Blysk".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_14">
-		<text>Найти и принести Кремню артефакт "Вспышка"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Blysk".</text>
 	</string>
 	<string id="kremen_find_artefact_15">
-		<text>Найти артефакт "Лунный свет"</text>
+		<text>Przynies artefakt "Blask Ksiezyca"</text>
 	</string>
 	<string id="text_kremen_find_artefact_15">
-		<text>Есть заказ на артефакт "Лунный свет"</text>
+		<text>Jest zamowienie na artefakt "Blask Ksiezyca".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_15">
-		<text>Найти и принести Кремню артефакт "Лунный свет"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Blask Ksiezyca".</text>
 	</string>
 		<string id="kremen_find_artefact_16">
-		<text>Найти артефакт "Слизь"</text>
+		<text>Przynies artefakt "Sluz"</text>
 	</string>
 	<string id="text_kremen_find_artefact_16">
-		<text>Есть заказ на артефакт "Слизь"</text>
+		<text>Jest zamowienie na artefakt "Sluz".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_16">
-		<text>Найти и принести Кремню артефакт "Слизь"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Sluz".</text>
 	</string>
 	<string id="kremen_find_artefact_17">
-		<text>Найти артефакт "Слизняк"</text>
+		<text>Przynies artefakt "Sluzowiec"</text>
 	</string>
 	<string id="text_kremen_find_artefact_17">
-		<text>Есть заказ на артефакт "Слизняк"</text>
+		<text>Jest zamowienie na artefakt "Sluzowiec".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_17">
-		<text>Найти и принести Кремню артефакт "Слизняк"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Sluzowiec".</text>
 	</string>
 	<string id="kremen_find_artefact_18">
-		<text>Найти артефакт "Слюда"</text>
+		<text>Przynies artefakt "Mika"</text>
 	</string>
 	<string id="text_kremen_find_artefact_18">
-		<text>Есть заказ на артефакт "Слюда"</text>
+		<text>Jest zamowienie na artefakt "Mika".</text>
 	</string>
 	<string id="desc_kremen_find_artefact_18">
-		<text>Найти и принести Кремню артефакт "Слюда"</text>
+		<text>Znajdz i przynies Krzemieniowi artefakt "Mika".</text>
 	</string>
 	
 	<string id="kremen_monster_part_1">
-		<text>Добыть хвост собаки</text>
+		<text>Przynies noge dzika</text>
 	</string>
 	<string id="text_kremen_monster_part_1">
-		<text>Есть заказ на хвост собаки</text>
+		<text>Jest zamowienie na noge dzika.</text>
 	</string>
 	<string id="desc_kremen_monster_part_1">
-		<text>Принести Кремню хвост собаки</text>
+		<text>Przynies Krzemieniowi noge dzika.</text>
 	</string>
 	<string id="kremen_monster_part_2">
-		<text>Добыть лапу бюбера</text>
+		<text>Przynies oko miesacza</text>
 	</string>
 	<string id="text_kremen_monster_part_2">
-		<text>Есть заказ на лапу бюбера</text>
+		<text>Jest zamowienie na oko miesacza.</text>
 	</string>
 	<string id="desc_kremen_monster_part_2">
-		<text>Принести Кремню лапу бюбера</text>
+		<text>Przynies Krzemieniowi oko miesacza.</text>
 	</string>
 	
 	<string id="groover_find_artefact_1">
-		<text>Найти артефакт "Ломоть мяса"</text>
+		<text>Znajdz artefakt "Kotlet"</text>
 	</string>
 	<string id="text_groover_find_artefact_1">
-		<text>Есть заказ на "Ломоть мяса". Возьмешься?</text>
+		<text>Jest zamowienie na "Kotlet". Bierzesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_1">
-	<text>Найти и принести Груверу артефакт "Ломоть мяса"</text>
+	<text>Znajdz i przynies Gruberowi artefakt "Kotlet".</text>
 	</string>
 	<string id="groover_find_artefact_2">
-		<text>Найти артефакт "Медуза"</text>
+		<text>Przynies artefakt "Meduza"</text>
 	</string>
 	<string id="text_groover_find_artefact_2">
-		<text>Есть совсем простое задание: добыть "Медузу" Подойдет?</text>
+		<text>To calkiem proste zadanie: zdobyc "Meduze" Podejmiesz sie?</text>
 	</string>
 	<string id="desc_groover_find_artefact_2">
-		<text>Найти и принести Груверу артефакт "Медуза"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Meduza".</text>
 	</string>
 	<string id="groover_find_artefact_3">
-		<text>Найти артефакт "Каменный цветок"</text>
+		<text>Przynies artefakt "Krysztalowy Kwiat"</text>
 	</string>
 	<string id="text_groover_find_artefact_3">
-		<text>Нужен "Каменный цветок". Добудешь?</text>
+		<text>Potrzebny jest "Krysztalowy Kwiat". Zdobedziesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_3">
-		<text>Найти и принести Груверу артефакт "Каменный цветок"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Krysztalowy Kwiat".</text>
 	</string>
 	<string id="groover_find_artefact_4">
-		<text>Найти артефакт "Ночная звезда"</text>
+		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_groover_find_artefact_4">
-		<text>Спрашивал тут один тип артефакт "Ночная звезда". Найдешь?</text>
+		<text>Ktos tu pytal o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_4">
-		<text>Найти и принести Груверу артефакт "Ночная звезда"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="groover_find_artefact_5">
-		<text>Найти артефакт "Выверт"</text>
+		<text>Przynies artefakt "Skretak"</text>
 	</string>
 	<string id="text_groover_find_artefact_5">
-		<text>Артефакт "Выверт" нужен. Берешься?</text>
+		<text>Artefakt "Skretak" jest potrzebny. Bierzesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_5">
-		<text>Найти и принести Груверу артефакт "Выверт"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Skretak".</text>
 	</string>
 	<string id="groover_find_artefact_6">
-		<text>Найти артефакт "Грави"</text>
+		<text>Przynies artefakt "Grawi"</text>
 	</string>
 	<string id="text_groover_find_artefact_6">
-		<text>Интересуются артефактом "Грави". Годится?</text>
+		<text>Interesuje mnie artefakt "Grawi". Zdobedziesz?</text>
 	</string>
 	<string id="desc_groover_find_artefact_6">
-		<text>Найти и принести Груверу артефакт "Грави"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Grawi".</text>
 	</string>
 	<string id="groover_find_artefact_7">
-		<text>Найти артефакт "Золотая рыбка"</text>
+		<text>Przynies artefakt "Zlota Rybka"</text>
 	</string>
 	<string id="text_groover_find_artefact_7">
-		<text>Есть заказ на артефакт "Золотая рыбка"</text>
+		<text>Jest zamowienie na artefakt "Zlota Rybka".</text>
 	</string>
 	<string id="desc_groover_find_artefact_7">
-		<text>Найти и принести Груверу артефакт "Золотая рыбка"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Zlota Rybka".</text>
 	</string>
 	<string id="groover_find_artefact_8">
-		<text>Найти артефакт "Капли"</text>
+		<text>Przynies artefakt "Kropla"</text>
 	</string>
 	<string id="text_groover_find_artefact_8">
-		<text>Есть заказ на артефакт "Капли"</text>
+		<text>Jest zamowienie na artefakt "Kropla".</text>
 	</string>
 	<string id="desc_groover_find_artefact_8">
-		<text>Найти и принести Груверу артефакт "Капли"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Kropla".</text>
 	</string>
 	<string id="groover_find_artefact_9">
-		<text>Найти артефакт "Огненный шар"</text>
+		<text>Przynies artefakt "Ognista Kula"</text>
 	</string>
 	<string id="text_groover_find_artefact_9">
-		<text>Есть заказ на артефакт "Огненный шар"</text>
+		<text>Jest zamowienie na artefakt "Ognista Kula".</text>
 	</string>
 	<string id="desc_groover_find_artefact_9">
-		<text>Найти и принести Груверу артефакт "Огненный шар"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Ognista Kula".</text>
 	</string>
 	<string id="groover_find_artefact_10">
-		<text>Найти артефакт "Кристалл"</text>
+		<text>Przynies artefakt "Krysztal"</text>
 	</string>
 	<string id="text_groover_find_artefact_10">
-		<text>Есть заказ на артефакт "Кристалл"</text>
+		<text>Jest zamowienie na artefakt "Krysztal".</text>
 	</string>
 	<string id="desc_groover_find_artefact_10">
-		<text>Найти и принести Груверу артефакт "Кристалл"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Krysztal".</text>
 	</string>
 	<string id="groover_find_artefact_11">
-		<text>Найти артефакт "Кровь камня"</text>
+		<text>Przynies artefakt "Kamienna Krew"</text>
 	</string>
 	<string id="text_groover_find_artefact_11">
-		<text>Есть заказ на артефакт "Кровь камня"</text>
+		<text>Jest zamowienie na artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="desc_groover_find_artefact_11">
-		<text>Найти и принести Груверу артефакт "Кровь камня"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="groover_find_artefact_12">
-		<text>Найти артефакт "Душа"</text>
+		<text>Przynies artefakt "Dusza"</text>
 	</string>
 	<string id="text_groover_find_artefact_12">
-		<text>Есть заказ на артефакт "Душа"</text>
+		<text>Jest zamowienie na artefakt "Dusza".</text>
 	</string>
 	<string id="desc_groover_find_artefact_12">
-		<text>Найти и принести Груверу артефакт "Душа"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Dusza".</text>
 	</string>
 	<string id="groover_find_artefact_13">
-		<text>Найти артефакт "Бенгальский огонь"</text>
+		<text>Przynies artefakt "Swiecidelko"</text>
 	</string>
 	<string id="text_groover_find_artefact_13">
-		<text>Есть заказ на артефакт "Бенгальский огонь"</text>
+		<text>Jest zamowienie na artefakt "Swiecidelko".</text>
 	</string>
 	<string id="desc_groover_find_artefact_13">
-		<text>Найти и принести Груверу артефакт "Бенгальский огонь"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Swiecidelko".</text>
 	</string>
 	<string id="groover_find_artefact_14">
-		<text>Найти артефакт "Вспышка"</text>
+		<text>Przynies artefakt "Blysk"</text>
 	</string>
 	<string id="text_groover_find_artefact_14">
-		<text>Есть заказ на артефакт "Вспышка"</text>
+		<text>Jest zamowienie na artefakt "Blysk".</text>
 	</string>
 	<string id="desc_groover_find_artefact_14">
-		<text>Найти и принести Груверу артефакт "Вспышка"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Blysk".</text>
 	</string>
 	<string id="groover_find_artefact_15">
-		<text>Найти артефакт "Лунный свет"</text>
+		<text>Przynies artefakt "Blask Ksiezyca"</text>
 	</string>
 	<string id="text_groover_find_artefact_15">
-		<text>Есть заказ на артефакт "Лунный свет"</text>
+		<text>Jest zamowienie na artefakt "Blask Ksiezyca".</text>
 	</string>
 	<string id="desc_groover_find_artefact_15">
-		<text>Найти и принести Груверу артефакт "Лунный свет"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Blask Ksiezyca".</text>
 	</string>
 		<string id="groover_find_artefact_16">
-		<text>Найти артефакт "Слизь"</text>
+		<text>Przynies artefakt "Sluz"</text>
 	</string>
 	<string id="text_groover_find_artefact_16">
-		<text>Есть заказ на артефакт "Слизь"</text>
+		<text>Jest zamowienie na artefakt "Sluz".</text>
 	</string>
 	<string id="desc_groover_find_artefact_16">
-		<text>Найти и принести Груверу артефакт "Слизь"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Sluz".</text>
 	</string>
 	<string id="groover_find_artefact_17">
-		<text>Найти артефакт "Слизняк"</text>
+		<text>Przynies artefakt "Sluzowiec"</text>
 	</string>
 	<string id="text_groover_find_artefact_17">
-		<text>Есть заказ на артефакт "Слизняк"</text>
+		<text>Jest zamowienie na artefakt "Sluzowiec".</text>
 	</string>
 	<string id="desc_groover_find_artefact_17">
-		<text>Найти и принести Груверу артефакт "Слизняк"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Sluzowiec".</text>
 	</string>
 	<string id="groover_find_artefact_18">
-		<text>Найти артефакт "Слюда"</text>
+		<text>Przynies artefakt "Mika"</text>
 	</string>
 	<string id="text_groover_find_artefact_18">
-		<text>Есть заказ на артефакт "Слюда"</text>
+		<text>Jest zamowienie na artefakt "Mika".</text>
 	</string>
 	<string id="desc_groover_find_artefact_18">
-		<text>Найти и принести Груверу артефакт "Слюда"</text>
+		<text>Znajdz i przynies Gruberowi artefakt "Mika".</text>
 	</string>
 	
 	<string id="groover_monster_part_1">
-		<text>Добыть ногу снорка</text>
+		<text>Przynies stope snorka</text>
 	</string>
 	<string id="text_groover_monster_part_1">
-		<text>Есть заказ от ученых на ногу снорка</text>
+		<text>Jest zanowienie od uczonych na stope snorka.</text>
 	</string>
 	<string id="desc_groover_monster_part_1">
-		<text>Принести Груверу ногу снорка</text>
+		<text>Przynies Gruberowi stope snorka.</text>
 	</string>
 	<string id="groover_monster_part_2">
-		<text>Добыть руку зомби</text>
+		<text>Przynies macki pijawki</text>
 	</string>
 	<string id="text_groover_monster_part_2">
-		<text>Есть заказ на руку зомби. Да не зомбированного, а именно зомби</text>
+		<text>Duszone z cebula macki pijawki niektorzy cudzoziemcy maja za wielki rarytas. Wiec jest zamowienie.</text>
 	</string>
 	<string id="desc_groover_monster_part_2">
-		<text>Принести Груверу руку зомби</text>
+		<text>Przynies Gruberowi macki pijawki.</text>
 	</string>
 	
 	
 	<string id="tm_kremen_has_no_job">
-		<text>Пока голяк</text>
+		<text>Na razie golcu.</text>
 	</string>
 	<string id="tm_kremen_job_ask">
-		<text>Слушаю тебя, Грек</text>
+		<text>Slucham cie, Grek.</text>
 	</string>
 	<string id="tm_kremen_job_complete">
-		<text>Все четко, базара нет</text>
+		<text>Wszystko jasne, nie ma sprawy.</text>
 	</string>
 	<string id="tm_kremen_job_what">
-		<text>Что такое?</text>
+		<text>Co takiego?</text>
 	</string>
 	<string id="tm_kremen_list_job">
-		<text>Давай посмотрим, что у нас имеется:</text>
+		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string>
 	
 	<string id="tm_groover_has_no_job">
-		<text>Пока голяк</text>
+		<text>Na razie golcu.</text>
 	</string>
 	<string id="tm_groover_job_ask">
-		<text>Слушаю тебя, Грек</text>
+		<text>Slucham cie, Grek.</text>
 	</string>
 	<string id="tm_groover_job_complete">
-		<text>Все четко, базара нет</text>
+		<text>Wszystko jasne, nie ma sprawy.</text>
 	</string>
 	<string id="tm_groover_job_what">
-		<text>Что такое?</text>
+		<text>Co takiego?</text>
 	</string>
 	<string id="tm_groover_list_job">
-		<text>Давай посмотрим, что у нас имеется:</text>
+		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string>
 	
 	
@@ -1614,201 +1598,201 @@
 	
 	
 	<!-- <string id="tm_trader_dubl_find_artefact_1">
-		<text>Найти артефакт "Ломоть мяса"</text>
+		<text>Znajdz artefakt "Kotlet"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_1">
-		<text>Есть заказ на "Ломоть мяса". Возьмешься?</text>
+		<text>Jest zlecenie na "Kotlet". Wezmiesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_1">
-	<text>Найти и принести Сидоровичу артефакт "Ломоть мяса"</text>
+	<text>Znajdz i przynies Sidorowiczowi artefakt "Kotlet".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_2">
-		<text>Принести артефакт "Медуза"</text>
+		<text>Przynies artefakt "Meduza"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_2">
-		<text>Есть совсем простое задание: добыть "Медузу" Подойдет?</text>
+		<text>Jest calkiem proste zadanie: zdobyc Meduze" Wezmiesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_2">
-		<text>Найти и принести Сидоровичу артефакт "Медуза"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Meduza".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_3">
-		<text>Принести артефакт "Каменный цветок"</text>
+		<text>Przynies artefakt "Krysztalowy Kwiat"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_3">
-		<text>Нужен "Каменный цветок". Добудешь?</text>
+		<text>Potrzebny "Krysztalowy Kwiat". Zdobedziesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_3">
-		<text>Найти и принести Сидоровичу артефакт "Каменный цветок"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Krysztalowy Kwiat".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_4">
-		<text>Принести артефакт "Ночная звезда"</text>
+		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_4">
-		<text>Спрашивал тут один тип артефакт "Ночная звезда". Найдешь?</text>
+		<text>Pytal tu jeden gosc o artefakt "Gwiazda Wieczorna". Znajdziesz?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_4">
-		<text>Найти и принести Сидоровичу артефакт "Ночная звезда"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_5">
-		<text>Принести артефакт "Ночная звезда"</text>
+		<text>Przynies artefakt "Gwiazda Wieczorna"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_5">
-		<text>Артефакт "Выверт" нужен. Берешься?</text>
+		<text>Artefakt "Skretak" potrzebny. Podejmiesz sie?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_5">
-		<text>Найти и принести Сидоровичу артефакт "Выверт"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Skretak".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_6">
-		<text>Принести артефакт "Грави"</text>
+		<text>Przynies artefakt "Grawi"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_6">
-		<text>Интересуются артефактом "Грави". Годится?</text>
+		<text>Jest popyt na artefakt "Grawi". Podejmiesz sie?</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_6">
-		<text>Найти и принести Сидоровичу артефакт "Грави"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Grawi".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_7">
-		<text>Принести артефакт "Золотая рыбка"</text>
+		<text>Przynies artefakt "Zlota Rybka"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_7">
-		<text>Есть заказ на артефакт "Золотая рыбка"</text>
+		<text>Jest zlecenie na artefakt "Zlota Rybka".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_7">
-		<text>Найти и принести Сидоровичу артефакт "Золотая рыбка"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Zlota Rybka".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_8">
-		<text>Принести артефакт "Капли"</text>
+		<text>Przynies artefakt "Kropla"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_8">
-		<text>Есть заказ на артефакт "Капли"</text>
+		<text>Jest zlecenie na artefakt "Kropla".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_8">
-		<text>Найти и принести Сидоровичу артефакт "Капли"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Kropla".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_9">
-		<text>Принести артефакт "Огненный шар"</text>
+		<text>Przynies artefakt "Ognista Kula"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_9">
-		<text>Есть заказ на артефакт "Огненный шар"</text>
+		<text>Jest zlecenie na artefakt "Ognista Kula".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_9">
-		<text>Найти и принести Сидоровичу артефакт "Огненный шар"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Ognista Kula".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_10">
-		<text>Принести артефакт "Кристалл"</text>
+		<text>Przynies artefakt "Krysztal"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_10">
-		<text>Есть заказ на артефакт "Кристалл"</text>
+		<text>Jest zlecenie na artefakt "Krysztal".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_10">
-		<text>Найти и принести Сидоровичу артефакт "Кристалл"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Krysztal".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_11">
-		<text>Принести артефакт "Кровь камня"</text>
+		<text>Przynies artefakt "Kamienna Krew"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_11">
-		<text>Есть заказ на артефакт "Кровь камня"</text>
+		<text>Jest zlecenie na artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_11">
-		<text>Найти и принести Сидоровичу артефакт "Кровь камня"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Kamienna Krew".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_12">
-		<text>Принести артефакт "Душа"</text>
+		<text>Przynies artefakt "Dusza"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_12">
-		<text>Есть заказ на артефакт "Душа"</text>
+		<text>Jest zlecenie na artefakt "Dusza".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_12">
-		<text>Найти и принести Сидоровичу артефакт "Душа"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Dusza".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_13">
-		<text>Принести артефакт "Бенгальский огонь"</text>
+		<text>Przynies artefakt "Swiecidelko"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_13">
-		<text>Есть заказ на артефакт "Бенгальский огонь"</text>
+		<text>Jest zlecenie na artefakt "Swiecidelko".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_13">
-		<text>Найти и принести Сидоровичу артефакт "Бенгальский огонь"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Swiecidelko".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_14">
-		<text>Принести артефакт "Вспышка"</text>
+		<text>Przynies artefakt "Blysk"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_14">
-		<text>Есть заказ на артефакт "Вспышка"</text>
+		<text>Jest zlecenie na artefakt "Blysk".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_14">
-		<text>Найти и принести Сидоровичу артефакт "Вспышка"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Blysk".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_15">
-		<text>Принести артефакт "Лунный свет"</text>
+		<text>Przynies artefakt "Blask Ksiezyca"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_15">
-		<text>Есть заказ на артефакт "Лунный свет"</text>
+		<text>Jest zlecenie na artefakt "Blask Ksiezyca".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_15">
-		<text>Найти и принести Сидоровичу артефакт "Лунный свет"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Blask Ksiezyca".</text>
 	</string>
 		<string id="tm_trader_dubl_find_artefact_16">
-		<text>Принести артефакт "Слизь"</text>
+		<text>Przynies artefakt "Sluz"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_16">
-		<text>Есть заказ на артефакт "Слизь"</text>
+		<text>Jest zlecenie na artefakt "Sluz".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_16">
-		<text>Найти и принести Сидоровичу артефакт "Слизь"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Sluz".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_17">
-		<text>Принести артефакт "Слизняк"</text>
+		<text>Przynies artefakt "Sluzowiec"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_17">
-		<text>Есть заказ на артефакт "Слизняк"</text>
+		<text>Jest zlecenie na artefakt "Sluzowiec".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_17">
-		<text>Найти и принести Сидоровичу артефакт "Слизняк"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Sluzowiec".</text>
 	</string>
 	<string id="tm_trader_dubl_find_artefact_18">
-		<text>Принести артефакт "Слюда"</text>
+		<text>Przynies artefakt "Mika"</text>
 	</string>
 	<string id="text_tm_trader_dubl_find_artefact_18">
-		<text>Есть заказ на артефакт "Слюда"</text>
+		<text>Jest zlecenie na artefakt "Mika".</text>
 	</string>
 	<string id="desc_tm_trader_dubl_find_artefact_18">
-		<text>Найти и принести Сидоровичу артефакт "Слюда"</text>
+		<text>Znajdz i przynies Sidorowiczowi artefakt "Mika".</text>
 	</string>
 	
 	<string id="tm_trader_dubl_monster_part_1">
-		<text>Принести кабанью ногу</text>
+		<text>Przynies noge dzika</text>
 	</string>
 	<string id="text_tm_trader_dubl_monster_part_1">
-		<text>Есть заказ на кабанью ногу</text>
+		<text>Jest zlecenie na noge dzika.</text>
 	</string>
 	<string id="desc_tm_trader_dubl_monster_part_1">
-		<text>Принести Сидоровичу кабанью ногу</text>
+		<text>Przynies Sidorowiczowi noge dzika.</text>
 	</string>
 	<string id="tm_trader_dubl_monster_part_2">
-		<text>Принести глаз плоти</text>
+		<text>Przynies oko miesacza</text>
 	</string>
 	<string id="text_tm_trader_dubl_monster_part_2">
-		<text>Есть заказ на глаз плоти</text>
+		<text>Jest zlecenie na oko miesacza.</text>
 	</string>
 	<string id="desc_tm_trader_dubl_monster_part_2">
-		<text>Принести Сидоровичу глаз плоти</text>
+		<text>Przynies Sidorowiczowi oko miesacza.</text>
 	</string>
 	
 	<string id="tm_trader_dubl_has_no_job">
-		<text>Пока голяк</text>
+		<text>Na razie golodupcu.</text>
 	</string>
 	<string id="tm_trader_dubl_job_ask">
-		<text>Слушаю тебя, Грек</text>
+		<text>Slucham cie, Grek.</text>
 	</string>
 	<string id="tm_trader_dubl_job_complete">
-		<text>Все четко, базара нет</text>
+		<text>Wszystko jasne, nie pohandlujemy.</text>
 	</string>
 	<string id="tm_trader_dubl_job_what">
-		<text>Что такое?</text>
+		<text>Co takiego?</text>
 	</string>
 	<string id="tm_trader_dubl_list_job">
-		<text>Давай посмотрим, что у нас имеется:</text>
+		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string> -->
 	
 </string_table>

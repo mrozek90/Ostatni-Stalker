@@ -1,39 +1,39 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="actor_break_dialog_0">
-		<text>До встречи!</text>
+		<text>Do zobaczenia!</text>
 	</string>
 	<string id="actor_help_wounded_0">
-		<text>Как ты?</text>
+		<text>Co z toba?</text>
 	</string>
 	<string id="actor_help_wounded_1">
-		<text>Хреново мне, не видишь что ли? Нужна аптечка, или хотя бы бинт.</text>
+		<text>Kiepsko ze mna, nie widzisz?! Potrzebna mi apteczka albo chociaz bandaz.</text>
 	</string>
 	<string id="actor_help_wounded_11">
-		<text>Держи аптечку.</text>
+		<text>Masz apteczke.</text>
 	</string>
 	<string id="actor_help_wounded_111">
-		<text>Спасибо, брат, не забуду.</text>
+		<text>Dzieki, stary, nie zapomne.</text>
 	</string>
 	<string id="actor_help_wounded_12">
-		<text>Держи бинт.</text>
+		<text>Masz bandaz.</text>
 	</string>
 	<string id="actor_help_wounded_13">
-		<text>Извини, ничего нет.</text>
+		<text>Przykro mi, nie mam.</text>
 	</string>
 	<string id="actor_help_wounded_131">
-		<text>Как же ты в Зоне ходишь? Зацепит тебя какая-то зараза, а ты даже вылечить себя не сможешь.</text>
+		<text>To jak ty po Zonie lazisz? Powalilo cie?! Jak cie zlapie jaka zaraza, to nawet nie dasz rady sie wyleczyc.</text>
 	</string>
 	<string id="actor_help_wounded_14">
-		<text>Хех, что ж ты так? Извини, свои я тебе не дам, иначе сам останусь ни с чем.</text>
+		<text>Heh, a ty co? Wybacz, swojej ci nie oddam, bo sam bez niczego zostane.</text>
 	</string>
 	<string id="actor_help_wounded_141">
-		<text>Твое дело, но не думай, что это делает тебе чести.</text>
+		<text>Jak sobie chcesz, ale nie mysl, ze w ten sposob zdobedziesz szacunek.</text>
 	</string>
 	<string id="hello_dialog_2">
-		<text>Привет!</text>
+		<text>Hej!</text>
 	</string>
 	<string id="hello_dialog_3">
-		<text>Слышь, браток, помоги!</text>
+		<text>Pomoglbys mi, co!</text>
 	</string>
 </string_table>

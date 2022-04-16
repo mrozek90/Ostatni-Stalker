@@ -1,143 +1,136 @@
-<?xml version='1.0' encoding="windows-1251"?>
+<?xml version='1.0' encoding="windows-1250"?>
 
 <string_table>
 	<string id="outfit_bandit">
-		<text>OUTFIT</text>
-		<text ln="rus">Традиционная одежда бандита - кожанная курка со вшитыми кевларовыми элементами. 
-		Слегка усиливает противопулевую и осколочную защиту. Не защищает от пси-влияния.</text>
+		<text>KURTKA BANDYTY</text>
+		<text ln="rus">Tradycyjnym ubiorem bandyty jest skуrzana kurtka z wszytymi elementami z kevlaru.
+Nieznacznie zwiкksza ochronк kuloodporn№ i odіamkow№. Nie chroni przed wpіywem PSI.</text>
 	</string>
 
 	<string id="outfit_soldier">
-		<text>OUTFIT</text>
-		<text ln="rus">Стандартный комплект снаряжения солдата - легкий армейский бронежилет. 
-		Достаточно эффективно защищает от пистолетных пуль и осколков. Не защищает от пси-влияния.</text>
+		<text>MUNDUR</text>
+		<text ln="rus">Standardowy zestaw wyposaїenia їoіnierza to lekka kamizelka kuloodporna.
+Skutecznie chroni przed pociskami pistoletуw i odіamkami. Nie chroni przed wpіywem PSI.</text>
 	</string>
 
 	<string id="outfit_stalker">
-		<text>OUTFIT</text>
-		<text ln="rus">Производимый "народными умельцами" комбез сталкера. Легкий армейский бронежилет плюс 
-		накладные усиливающие кевларовые элементы. Достаточно эффективно защищает от пистолетных пуль и 
-		осколков. Прорезиненый брезент неплохо защищает от радиационной пыли и слабых аномалий. 
-		Не защищает от пси-влияния.</text>
+		<text>KURTKA STALKERA</text>
+		<text ln="rus">Wyprodukowany przez "rzemieњlnikуw" kurtka stalkera. Lekka wojskowa kamizelka kuloodporna plus
+napowietrzne elementy wzmacniaj№ce z kevlaru. Skutecznie chroni przed pociskami pistoletуw i
+odіamkami. Gumowana plandeka dobrze chroni przed pyіem radiacyjnym i sіabymi anomaliami.
+Nie chroni przed wpіywem PSI.</text>
 	</string>
 
 	<string id="outfit_svoboda_light">
-		<text>OUTFIT</text>
-		<text ln="rus">Производимый ремесленниками группировки "Свобода" облегченный комбез сталкера. 
-		Легкий армейский бронежилет плюс накладные усиливающие кевларовые элементы. 
-		Достаточно эффективно защищает от пистолетных пуль и осколков. Прорезиненый брезент неплохо 
-		защищает от радиационной пыли и слабых аномалий. Не защищает от пси-влияния.</text>
+		<text>KOMBINEZON WOLNOЊЖ</text>
+		<text ln="rus">Lekki kombinezon stalkera wykonany przez rzemieњlnikуw z grupy „Wolnoњж”.
+Lekka wojskowa kamizelka kuloodporna oraz elementy z kevlaru wzmocnone nad gіow№.
+Skutecznie chroni przed pociskami pistoletуw i odіamkami. Gumowana plandeka dobrze
+chroni przed promieniowaniem pyіowym i sіabymi anomaliami. Nie chroni przed wpіywem PSI.</text>
 	</string>
 
 	<string id="outfit_killer">
-		<text>OUTFIT</text>
-		<text ln="rus">Комбез сталкера из группировки "Наемники". За основу взяты образцы спецназовской 
-		экипировки западных армий. За счет специальной обработки ткани усилены жаростойкие и 
-		противорадиационные свойства ткани. Средний армейский бронежилет входящий в состав костюма усилен 
-		титановыми элементами. Достаточно эффективно защищает от автоматных пуль на средних и дальних 
-		растояниях. За счет наличия металической сетки в капюшоне слегка снижает пси-влияние.</text>
+		<text>KOMBINEZON NAJEMNIKA</text>
+		<text ln="rus">Kombinezon stalkera z grupy "Najemnicy". Na podstawie prуbek specnazu i
+wyposaїenia armii zachodnich. Ze wzglкdu na specjaln№ obrуbkк tkaniny, odporny na ciepіo i ma
+wіaњciwoњci antyradiacyjne. Przeciкtna kamizelka kuloodporna zawarta w kombinezonie jest wzmocniona
+przez elementy tytanowe. Skutecznie chroni przed pociskami z karabinуw na њrednim i dіugim dystansie. Ze wzglкdu na obecnoњж metalowej siatki w kapturze, nieznacznie zmniejsza wpіyw PSI.
+</text>
 	</string>
 
 	<string id="outfit_svoboda_heavy">
-		<text>OUTFIT</text>
-		<text ln="rus">Производимый ремеленниками группировки "Свобода" усиленный комбез сталкера. 
-		Средний армейский бронежилет плюс накладные усиливающие цирконевые элементы дают неплохую защиту 
-		от автоматных пуль и осколков на средних и дальних дистанциях. Материал костюма состоит из двух 
-		слоев: специально обработанной кожи и ткани с асбестовой нитью. Хорошо защищает от радиации и слабых 
-		аномалий. За счет наличия металической сетки в капюшоне слегка снижает пси-влияние.</text>
+		<text>WZMOCNIONY KOMBINEZON WOLNOЊЖ</text>
+		<text ln="rus">Wzmocniony kombinezon stalkera wykonany przez rzemieњlnikуw z grupy „Wolnoњж”.
+Њrednie wojskowe kamizelki kuloodporne oraz elementy cyrkonu wzmacniaj№ce nad gіow№ zapewniaj№ dobr№ ochronк przed pociskami z automatуw i odіamkуw na њrednich i dіugich dystansach. Materiaі kombinezonu skіada siк z dwуch
+warstw: specjalnie przygotowana skуra i tkanina z nitk№ azbestow№. Dobra ochrona przed promieniowaniem i sіaba przed
+anomaliami. Ze wzglкdu na obecnoњж metalowej siatki w kapturze, nieznacznie zmniejsza wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_dolg">
-		<text>OUTFIT</text>
-		<text ln="rus">Производимый ремеленниками группировки "Долг" усиленный комбез сталкера. 
-		Средний армейский бронежилет плюс накладные композитные элементы дают неплохую защиту от 
-		автоматных пуль и осколков на средних и дальних дистанциях. Материал костюма состоит из двух слоев:
-		специально обработанной кожи и слоя кевлара, предотвращающего сильные повреждения от укусов животных. Хорошо защищает от радиации и слабых аномалий. 
-		За счет наличия металической сетки в капюшоне слегка снижает пси-влияние.</text>
+		<text>KOMBINEZON POWINNOЊЖ</text>
+		<text ln="rus">Wyprodukowany przez rzemieњlnikуw z grupy "Powinnoњж", wzmocniony kombinezon stalkera.
+Przeciкtna wojskowa kamizelka kuloodporna plus nad gіow№ elementy kompozytowe zapewniaj№ dobr№ ochronк przed pociskami z
+automatуw i odіamki na њrednich i dіugich dystansach. Materiaі kombinezonu skіada siк z dwуch warstw:
+specjalnie przygotowana skуra i warstwa kevlaru, ktуra zapobiega powaїnym uszkodzeniom spowodowanym uk№szeniami zwierz№t. Dobrze chroni przed promieniowaniem i sіabymi anomaliami.
+Ze wzglкdu na obecnoњж metalowej siatki w kapturze, nieznacznie zmniejsza wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_monolit">
-		<text>OUTFIT</text>
-		<text ln="rus">Комбез сталкера группировки "Монолит". Производитель неизвестен. Средний армейский 
-		бронежилет плюс накладные кевларовые элементы дают неплохую защиту от автоматных пуль и осколков 
-		на средних и дальних дистанциях. Материал костюма состоит из двух слоев. Специально обработанной 
-		ткани и слоя специального полиэтилена. Очень хорошо защищает от радиации и слабых аномалий. Стоек к 
-		химически агрессивным средам. За счет наличия продвинутой системы металических сеток и токосъемников 
-		значительно снижает пси-влияние.</text>
+		<text>KOMBINEZON MONOLIT</text>
+		<text ln="rus">Kombinezon stalkera z grupy "Monolit". Producent jest nieznany. Њrednia wojskowa
+kamizelka kuloodporna plus nad gіow№ elementy z kevlaru zapewniaj№ dobr№ ochronк przed pociskami z automatуw i odіamkami
+na њrednich i dіugich dystansach. Materiaі kombinezonu skіada siк z dwуch warstw. Specjalnie przetworzone
+tkanina i warstwa specjalnego polietylenu. Bardzo dobrze chroni przed promieniowaniem i sіabymi anomaliami. Odporna na
+їr№ce kwasy. Ze wzglкdu na obecnoњж zaawansowanego systemu metalowych siatek i odbierakуw fal
+znacznie zmniejsza wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_specops">
-		<text>OUTFIT</text>
-		<text ln="rus">Модифицированная для работы в условиях Зоны, экипировка армейского спецназа - Берилл-5М. 
-		В составе: средний армейский бронежилет, усиленный титановыми пластинами с берилиевым покрытием 
-		двухслойный костюм и шлем Сфера-08. Неплохая защита от автоматных пуль и осколков на средних и дальних 
-		дистанциях. Средняя защита от радиации и аномалий. Хорошая теплостойкость. 
-		За счет наличия металлического шлема незначительно снижает пси-влияние.</text>
+		<text>KOMBINEZON SPECNAZ</text>
+		<text ln="rus">Zmodyfikowany do pracy w warunkach Strefy wyposaїenie wojsk specjalnych to Beryl-5M.
+Skіada siк z: њredniego wojskowego pancerza kuloodpornego wzmocnionego tytanowymi pіytami pokrytymi berylem
+kombinezon dwuwarstwowy i kask Sfera-08. Dobra ochrona przed pociskami z automatуw i odіamkami na њrednim i dіugim dystansie. Њrednia ochrona przed promieniowaniem i anomaliami. Dobra odpornoњж na ciepіo.
+Ze wzglкdu na obecnoњж metalowego heіmu nieznacznie zmniejsza wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_protection">
-		<text>OUTFIT</text>
-		<text ln="rus">Модифицированный для работы в условиях Зоны костюм химической защиты ССП-98М. 
-		Используется подразделениями охраны научных лагерей. Встроенная воздушная компенсационная система, 
-		позволяющая снизить вред от перегрузок при падения и ударах аномалий. Встроенная система фильтрации 
-		воздуха и кондиционирования.  Стоек к химически агрессивным средам. Очень хорошая защита от радиации. 
-		Хорошая теплостойкость. Средняя защита от пуль и осколков. За счет наличия системы подавления 
-		наведенного электричества хорошо снижает пси-влияние.</text>
+		<text>KOMBINEZON SSP-98M</text>
+		<text ln="rus">Kombinezon chemoodporny SSP-98M zmodyfikowany do pracy w Strefie.
+Uїywany przez jednostki ochrony obozуw naukowych. Wbudowany system kompensacji powietrza,
+pozwalaj№c na zmniejszenie szkуd spowodowanych przeci№їeniami podczas upadkуw i uderzeс anomalii. Wbudowany system filtracji, recylkulacji i klimatyzacji. Odporny na chemicznie agresywne њrodowiska. Bardzo dobra ochrona przed promieniowaniem.
+Dobra odpornoњж na ciepіo. Њrednia ochrona przed pociskami i odіamkami. Ze wzglкdu na obecnoњж systemu tіumienia oraz indukowan№ elektrycznoњж dobrze zmniejsza wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_ecolog">
-		<text>OUTFIT</text>
-		<text ln="rus">Модифицированный для работы в условиях Зоны костюм химической защиты ССП-99М. 
-		Используется экспедициями ученых и, сотрудничающих  с ними сталкеров -экологов. Встроенная 
-		воздушная компенсационная система, позволяющая снизить вред от перегрузок при падения и ударах 
-		аномалий. Встроенная система фильтрации воздуха и кондиционирования. Очень хорошая защита от 
-		радиации и биологических аномалий. Стоек к химически агрессивным средам. Хорошая теплостойкость. 
-		Средняя защита от пуль и осколков. За счет наличия системы подавления наведенных полей хорошо 
-		снижает пси-влияние.</text>
+		<text>KOMBINEZON SSP-99M</text>
+		<text ln="rus">Kombinezon chemoodporny SSP-99M zmodyfikowany do pracy w Strefie.
+Wykorzystywana jest przez ekspedycje naukowcуw i wspуіpracuj№cych z nimi stalkerуw. Wbudowany
+system kompensacji powietrza, ktуry pozwala na zmniejszenie szkуd spowodowanych przeci№їeniami podczas upadkуw i wstrz№sуw od anomalii. Wbudowany system filtracji i klimatyzacji powietrza. Bardzo dobra ochrona przed
+promieniowanie i anomaliami biologicznymi. Odporny na chemicznie agresywne њrodowiska. Dobra odpornoњж na ciepіo.
+Њrednia ochrona przed pociskami i odіamkami. Ze wzglкdu na obecnoњж ukіadu do tіumienia pуl indukowanych dobrze
+zmniejsza wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_exo">
-		<text>OUTFIT</text>
-		<text ln="rus">Экспериментальный образец военного экзоскелета. Производитель - некий зарубежный 
-		военный исследовательский центр, заинтересованный в обкатке своего детища в сложных условиях Зоны. 
-		Тяжелое гидравлическое оборудование, закрепленное на спине, тем не менее в конечном итоге позволяет 
-		переносить гораздо больше веса и меньше уставать. Гидравлика также компенсирует вред от падений 
-		с высоты и влияние гравитационных аномалий. Система приводов косвенно служит защитой тела от пуль 
-		и осколков. Надевается поверх собственного костюма.</text>
+		<text>EGZOSZKIELET</text>
+		<text ln="rus">Eksperymentalny model egzoszkieletu wojskowego. Producent - Zagraniczny
+Wojskowy Oњrodek Badawczy. Zainteresowany prowadzeniem swojego pomysіu w trudnych warunkach Strefy.
+Ciкїki sprzкt hydrauliczny zamontowany z tyіu pozwala
+nosiж znacznie wiкksz№ wagк i mniej siк mкczyж. Hydraulika rуwnieї kompensuje uszkodzenia spowodowane upadkami
+z wysokoњci oraz wpіyw anomalii grawitacyjnych. Ukіad napкdowy poњrednio sіuїy do ochrony ciaіa przed pociskami.
+i odіamkami. Nakіadany na ubiуr.</text>
 	</string>
 
 	<string id="outfit_military_stalker">
-		<text>OUTFIT</text>
-		<text ln="rus">Специально сделанный для работы в условиях Зоны, комплект экипировки армейских 
-		сталкеров - СКАТ-9. В составе: тяжелый армейский бронежилет, встроенный компенсационный костюм, 
-		двухслойный (кевлар-упроченный полиэтилен) костюм усиленный титановыми пластинами с берилиевым 
-		покрытием и шлем Сфера-12. Очень хорошая защита от автоматных пуль и осколков. Улучшенные 
-		характеристики защиты от взрывов, падений и гравитационных ударов. Хорошая защита от радиации и 
-		аномалий. Хорошая теплостойкость. Неплохая стойкость к химически агрессивным средам. За счет 
-		наличия металлического шлема с системой иеталических сеток и токосъемников снижает пси-влияние.</text>
+		<text>SKAT-9</text>
+		<text ln="rus">Specjalnie wykonany do pracy w warunkach Strefy zestaw wyposaїenia dla wojska
+- SKAT-9. W skіad wchodz№: ciкїka kamizelka kuloodporna, wbudowany kombinezon kompensacyjny,
+kombinezon dwuwarstwowy (polietylen wzmacniany kevlarem) wzmocniony pіytami tytanowymi z berylem
+powlekany i heіm Sphere-12. Bardzo dobra ochrona przed automatycznymi kulami i odіamkami. Ulepszona
+charakterystyka ochrony przed wybuchami, upadkami i wstrz№sami grawitacyjnymi. Dobra ochrona przed promieniowaniem i
+anomaliami. Dobra odpornoњж na ciepіo. Dobra odpornoњж na agresywne њrodowiska chemicznie. Obecnoњж metalowego heіmu z systemem metalowych siatek i indukcji zmniejsza wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_military_commander">
-		<text>OUTFIT</text>
-		<text ln="rus">Специально сделанный для работы в условиях Зоны, комплект экипировки армейского 
-		сталкера-командира - СКАТ-9М. В составе: тяжелый армейский бронежилет, встроенный компенсационный 
-		костюм, двухслойный (кевлар-упроченный полиэтилен) костюм усиленный титановыми пластинами с 
-		берилиевым покрытием и шлем Сфера-12М. Очень хорошая защита от автоматных пуль и осколков. 
-		Улучшенные характеристики защиты от взрывов, падений и гравитационных ударов. Хорошая защита от 
-		радиации и аномалий. Хорошая теплостойкость. Неплохая стойкость к химически агрессивным средам. 
-		За счет наличия металлического шлема с системой подавления наведенных полей хорошо снижает 
-		пси-влияние.</text>
+		<text>SKAT-9M</text>
+		<text ln="rus">Specjalnie wykonany do pracy w warunkach Strefy zestaw wyposaїenia dla dowуdcy wojska - SKAT-9M. W skіad wchodz№: ciкїka kamizelka kuloodporna, wbudowany kompensator
+kombinezon dwuwarstwowy (polietylen wzmocniony kevlarem) kombinezon wzmocniony tytanowymi pіytami z
+powіok№ berylow№ i heіm Sfera-12M. Bardzo dobra ochrona przed pociskami z automatуw i odіamkami.
+Ulepszona ochrona przed eksplozjami, upadkami i wstrz№sami grawitacyjnymi. Dobra ochrona przed
+promieniowanie i anomaliami. Dobra odpornoњж na ciepіo. Dobra odpornoњж na agresywne њrodowiska chemicznie.
+Dziкki obecnoњci metalowego heіmu z systemem tіumienia pуl indukowanych dobrze redukuje
+wpіyw PSI.</text>
 	</string>
 
 	<string id="outfit_scientific">
-		<text>OUTFIT</text>
-		<text ln="rus">Сталкеровский скафандр высшей защиты. Экипировка сталкера-мастера или лидера 
-		группировки. Производится и продается подпольно одним из оборонных киевских НИИ. Очень дорогой, 
-		и из-за этого не был принят на вооружение армейских сталкеров. В составе: разнесенное бронирование 
-		по жизненно-важным участкам тела, встроенный компенсационный костюм, встроенная система фильтрации 
-		воздуха и кондиционирования, шлем от костюма высшей химической защиты со сложной системой подавления 
-		пси-полей.Очень хорошая защита от автоматных пуль и осколков. Улучшенные характеристики защиты от 
-		взрывов, падений и гравитационных ударов. Очень хорошая защита от радиации и аномалий. Хорошая 
-		теплостойкость. Отличная стойкость к химически агрессивным средам.</text>
+		<text>TAJNY KOMBINEZON</text>
+		<text ln="rus">Kombinezon stalkera o najwyїszej ochronie. Strуj stalkera-mistrza lub lidera
+ugrupowania. Produkowany i sprzedawany potajemnie przez jeden z kijowskich instytutуw badawczych ds. obronnoњci. Bardzo drogi,
+i z tego powodu nie przyj№і siк przez stalkerуw. Obejmuje: rezerwacjк z odstкpem
+na witalnych obszarach ciaіa, wbudowany kombinezon kompensacyjny, wbudowany system filtracji
+klimatyzacja i heіm z kombinezonu o najwyїszej ochronie chemicznej ze zіoїonym systemem tіumienia
+pola PSI. Bardzo dobra ochrona przed pociskami z automatуw i odіamkami. Lepsza ochrona przed
+wybuchami, upadkami i wstrz№sami grawitacyjnymi. Bardzo dobra ochrona przed promieniowaniem i anomaliami. Dobra
+wytrzymaіoњж cieplna. Doskonaіa odpornoњж na agresywne њrodowiska chemicznie.</text>
 	</string>
 </string_table>

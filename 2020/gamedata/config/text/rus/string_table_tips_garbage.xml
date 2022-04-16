@@ -1,27 +1,27 @@
 	<string id="gar_actor_looser">
-		<text>Ну и слабак ты, Меченый, пользы от тебя ноль. Так что и благодарности от нас ты не дождешься. Не за что тебя благодарить.</text>
+		<text>No i miкczak jesteњ, Naznaczony, poїytku z ciebie zero. Tak їe i wdziкcznoњci od nas nie oczekuj. Nie ma ci za co dziкkowaж.</text>
 	</string>
 	<string id="gar_actor_normal">
-		<text>Неплохо, сталкер, пострелял мутантов. Но особой прытью ты не отличаешься, так что если хочешь пройти - придется платить.</text>
+		<text>Nieџle, stalkerze, zabiіeњ mutanty. Ale tu na nikim nie zrobiіeњ wraїenia, tak їe jeїeli chcesz przejњж - trzeba bкdzie pіaciж.</text>
 	</string>
 	<string id="gar_actor_winner">
-		<text>Отлично Меченый, ты действительно нам сильно помог. Будем считать, что ты оплатил свой пропуск. Можешь идти на Бар.</text>
+		<text>Doskonale, Naznaczony, rzeczywiњcie bardzo nam pomogіeњ. Bкdziemy uwazaж, їe opіaciіeњ swoje przejњcie. Moїesz iњж na terytorium Baru.</text>
 	</string>
 	<string id="gar_direction_fire">
-		<text>Подпустим их поближе, чтобы никто не ушел. Я стреляю первым - потом вы.</text>
+		<text>Podpuњcimy ich bliїej, by nikt nie uciekі. Strzelam pierwszy - potem wy.</text>
 	</string>
 	<string id="gar_dolg_blokpost_warning">
-		<text>Сталкер, ты на территории, контролируемой Долгом. Любое проявление агрессии будет наказано.</text>
+		<text>Stalkerze, przebywasz na terytorium kontrolowanym przez Powinnoњж. Kaїdy przejaw agresji bкdzie ukarany.</text>
 	</string>
 	<string id="gar_dolg_monster_rush">
-		<text>Всем прием!! Говорит застава Долга на Свалке. Из Темной долины по направлению к Бару идет волна мутантов. Всем, кто поможет отстрелять нечисть - признательность с нашей стороны гарантируем.</text>
+		<text>Uwaga!!! Mуwi posterunek Powinnoњci na Wysypisku. Z Doliny Mroku w kierunku Baru idzie fala mutantуw. Kaїdemu, kto pomoїe odstrzeliж te mutanty - gwarantujemy wdziкcznoњж z naszej strony.</text>
 	</string>
 	<string id="gar_dolg_warning">
-		<text>Сталкер, ты на территории Долга. Будешь буянить - получишь 4-ю степень инвалидности !</text>
+		<text>Stalkerze, jesteњ na terytorium Powinnoњci. Bкdziesz siк awanturowaж  - zdobкdziesz czwarty stopieс inwalidztwa!</text>
 	</string>
 	<string id="gar_hellcar_victory">
-		<text>Молодцы, парни, мы их одолели. Всем отдыхать, а ты сталкер, подойди ко мне, поболтаем.</text>
+		<text>Chіopaki, pokonaliњmy ich. Odpocznijcie, a ty, stalkerze, podejdџ do mnie, pogadamy.</text>
 	</string>
 	<string id="tips_gar_hellcar_alarm">
-		<text>Народ, вызывает командир отряда нейтралов. Мы выбили бандитов со стоянки брошенной техники, предполагаем ответную контратаку. У нас мало сил, так что милости просим на помощь.</text>
+		<text>Ludzie, wzywa dowуdca oddziaіu neutraіуw. Wybiliњmy bandytуw z Cmentarzyska Pojazdуw, spodziewamy siк kontrataku. Maіo nas, tak їe prosimy o pomoc.</text>
 	</string>

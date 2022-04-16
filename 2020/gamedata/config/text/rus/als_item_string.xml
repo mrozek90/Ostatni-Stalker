@@ -1,47 +1,48 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 
 <!-- PDA's -->
 <string id="shocker_pda_name">
-	<text>КПК Шокера</text>
+	<text>PDA Paskudy</text>
 </string>
 <string id="shocker_pda_description">
-	<text>"Трудно запомнить, никаких ассоциаций: \n Код замка сейфа: 2419. \n Код деактивации турелей: 6740. \n Самое главное - нельзя отключать генератор, не переведя перед этим систему в режим технического обслуживания. \n Чревато."</text>
+	<text>"Trudno zapamiкtaж, brak skojarzeс: \n Kod zamka: 2419. \n Kod dezaktywacji wieїy: 6740. \n Co najwaїniejsze, nie moїna wyі№czyж generatora bez uprzedniego przeі№czenia systemu w tryb konserwacji. \n To wiedzieж.
+	</text>
 </string>
 
 <string id="simpson_pda_name">
-	<text>КПК Бори Симпсона</text>
+	<text>PDA Bory Simsona </text>
 </string>
 <string id="simpson_pda_description">
-	<text>В файлах есть координаты вертолета, с которого Симпсон и Катчер вытащили ящики с наркотиком Black Russian</text>
+	<text>W plikach znajduj№ siк wspуіrzкdne њmigіowca, z ktуrego Simpson i Kutcher wyci№gnкli skrzynie z narkotykami "Czarnego Ruska"</text>
 </string>
 
 <string id="shevchuk_pda_name">
-	<text>КПК дезертира</text>
+	<text>PDA dezertera</text>
 </string>
 <string id="shevchuk_pda_desc">
-	<text>имеется запись переговоров между Севчуком и Могильщиком, из которой становится понятно, что Севчук перепрятал схрон Могильщика и предлагает Могильщику выкупить некую вещь из этого схрона.</text>
+	<text>Zawiera zapis o negocjacjach miкdzy Sewczukiem a Grabarzem, z ktуrego jasno wynika, їe Sewczuk ukryі skrytkк Grabarza i oferuje Grabarzowi odkupienie czegoњ z tej skrytki.</text>
 </string>
 
 <string id="broken_pda_name">
-	<text>сломанный КПК</text>
+	<text>Uszkodzony PDA</text>
 </string>
 <string id="broken_pda_description">
-	<text>Несмотря на то, что дисплей КПК пробит ножом, при его включении появляются поочередно цифры 1, 0, 5, 2. На задней крышке эмблема военных сталкеров.</text>
+	<text>Mimo, їe wyњwietlacz PDA jest przebity noїem, po wі№czeniu pojawiaj№ siк naprzemiennie cyfry 1, 0, 5, 2. Na tylnej okіadce znajduje siк emblemat wojskowych stalkerуw.</text>
 </string>
 
 <string id="shilo_pda_name">
-	<text>КПК Шило</text>
+	<text>PDA Szydіa</text>
 </string>
 <string id="shilo_pda_description">
-	<text>последняя запись: \n "Удалось сбежать с фабрики. Хазар – падла, он с ними... Передайте при случае Нестору-баптисту, что забрать его вещи не вышло..."</text>
+	<text>Ostatni wpis: \n "Udaіo mi siк uciec z fabryki. Chazar to draс, jest z nimi... Powiedz Nestorowi babtyњcie, їe nie byіo moїliwe zabranie jego rzeczy..."</text>
 </string>
 
 <string id="nestor_pda_name">
-	<text>КПК Нестора</text>
+	<text>PDK Nestora</text>
 </string>
 <string id="nestor_pda_description">
-	<text>в КПК есть информация о контейнере с редчайшими и очень ценными подземными артефактами, спрятанном в лаборатории Х-10. \n Контейнер находится за дверью с кодовым замком. \n Код - 03701</text>
+	<text>PDA ma informacje o pojemniku z najrzadszymi i najcenniejszymi podziemnymi artefaktami. Ukryte s№ w laboratorium X-10. \n Kontener znajduje siк za drzwiami z zamkiem szyfrowym. \n Kod - 03701</text>
 </string>
 
 <!--<string id="">
@@ -52,48 +53,48 @@
 </string>-->
 
 <string id="outfit_tank_name">
-	<text>Штурмовой бронекостюм</text>
+	<text>Kombinezon szturmowy</text>
 </string>
 <string id="outfit_tank_description">
-	<text>Экспериментальный штурмовой бронекостюм. Тяжелый, неудобный, с плохим ПНВ. Из плюсов - полная защита от пуль и осколков и +50 кг к переносимому весу.</text>
+	<text>Eksperymentalny kombinezon szturmowy. Ciкїki, niewygodny, ze sіabym widzeniem w nocy. Korzyњci - peіna ochrona przed pociskami i odіamkami oraz +50 kg do udџwigu.</text>
 </string>
 
 <string id="enc_wpn-luger">
-	<text>Borchardt-Luger «Parabellum» Р.08</text>
+	<text>Borchardt-Luger Parabellum P.08</text>
 </string>
 <string id="enc_wpn-luger_short">
-	<text>Luger Р.08</text>
+	<text>Luger P.08</text>
 </string>
 <string id="enc_weapons1_wpn-luger">
-	<text>Пистолет Люгера (Люгер, Парабеллум; нем. P08, Parabellum, Borchardt-Luger) — пистолет, разработанный в 1900 году австрийцем Георгом Люгером на основе конструкции пистолета Хуго Борхардта. Главным достоинством «Парабеллума» является высокая точность стрельбы, достигнутая за счёт удобной «анатомической» рукояти с большим углом наклона и легкого (почти спортивного) спуска. Сложный и дорогой в производстве, «Парабеллум», тем не менее, оказался очень удачным, и стал передовой оружейной системой для своего времени. Производится до настоящего времени. \n * боеприпас: \n * 9x19 мм Парабеллум</text>
+	<text>Pistolet Luger (Luger, Parabellum; niemiecki P08, Parabellum, Borchardt-Luger) to pistolet opracowany w 1900 roku przez austriackiego Georga Lugera oparty na konstrukcji pistoletu Hugo Borchardt. Gіуwn№ zalet№ "Parabellum" jest wysoka celnoњж strzelania, osi№gniкta dziкki wygodnej anatomicznej rкkojeњci o duїym k№cie nachylenia i іatwemu (prawie sportowemu) zejњciu. Skomplikowana i droga w produkcji Parabellum okazaіa siк jednak bardzo udana i staіa siк najbardziej zaawansowanym systemem uzbrojenia swoich czasуw. Produkowane do dziњ. \n * amunicja: \n * parabelum 9x19mm</text>
 </string>
 
 <string id="necronomicon_name">
-	<text>манускрипт</text>
+	<text>Notatki</text>
 </string>
 <string id="necronomicon_description">
-	<text>все тексты выполнены арабской вязью, рисунки тоже непонятны</text>
+	<text>Wszystkie teksty pisane s№ pismem arabskim, rysunki teї s№ niezrozumiaіe</text>
 </string>
 
 <string id="blade_pda_name">
-	<text>КПК Лёни Бритвы</text>
+	<text>PDK Leo Brzytwy </text>
 </string>
 <string id="blade_pda_description">
-	<text>В памяти КПК хранятся снимки хорошо известных в Зоне сталкеров. И фрагмент неполностью удаленного текста: «схрон за дверью на нижн... ...ровен... ...10 177».</text>
+	<text>Pamiкж PDA przechowuje zdjкcia znanych stalkerуw w Strefie. I fragment nie do koсca skreњlonego tekstu: „skrzynka za drzwiami na dole......nawet... ...10 177”.</text>
 </string>
 
 <string id="bormans_beads_name">
-	<text>Чётки</text>
+	<text>Koraliki</text>
 </string>
 <string id="bormans_beads_description">
-	<text>Чётки Леши Бормана</text>
+	<text>Rуїaniec Leszy Bormana</text>
 </string>
 
 <string id="ocp_perfocard_name">
-	<text>Перфокарта</text>
+	<text>Karta perforowana</text>
 </string>
 <string id="ocp_perfocard_description">
-	<text>Древняя перфокарта. Настараживает то, что она в прекрасном состоянии. И что кто-то спрятал ее в таком месте.</text>
+	<text>Staroїytna karta dziurkowana. Niepokoj№ce, їe jest w doskonaіej kondycji. I їe ktoњ j№ ukryі w takim miejscu.</text>
 </string>
 
 <!--<string id="">
@@ -104,75 +105,75 @@
 </string>-->
 
 
-<!-- Малявы -->
+<!-- Papierki -->
 
 <string id="malyawa_name">
-	<text>записка</text>
+	<text>Notatka</text>
 </string>
 
 <string id="piece_of_paper_name">
-	<text>клочок бумаги</text>
+	<text>Kawaіek papieru</text>
 </string>
 
 <string id="teuton_malyawa_description">
-	<text>"Друг-сталкер! При случае – передай эту маляву Узбеку, не откажи, брат. \n Здорово, родственничек! \n Я долго думал и решил – вертел я твои дела на херу, теперь у меня свое дело. И не дай Боже тебе попытаться снова вмешаться в мою жизнь – клянусь, пристрелю тебя, и плевать я хотел на твою семейку и, отдельно, на твою сестрицу-шалаву. \n Можешь передать ей мой прощальный привет, пусть поцелует меня в зад! \n Тевтон."</text>
+	<text>"Stalker przyjacielu! Jeњli masz szansк oddaj tego dzieciaka Uzbekowi, nie odmawiaj, bracie. \n Witaj, krewniaku! \n Dіugo myњlaіem i postanowiіem - obrуciіem Twoje sprawy w diabіy, teraz mam swoje wіasny biznes. I nie daj Boїe znowu sprуbuj ingerowaж w moje їycie - przysiкgam, їe ciк zastrzelк i nie dbam o twoj№ rodzinк oraz o twoj№ zdzirowat№ siostrк. \n Moїesz j№ pozdrowiж, niech pocaіuje mnie w dupк! \n Teuton."</text>
 </string>
 
 <string id="reanimator_malyawa_description">
-	<text>Третий раз не застаю вас на месте. Мужики! Одну ж работу делаем! Или жмете химию? \n Буду ждать вашего возвращения неподалеку. \n Рассчитываю на вас. \n Р-р.</text>
+	<text>Po raz trzeci nie ma ciк na miejscu. Chіopaki! Mamy jedn№ rzecz do zrobienia! A moїe жpiesz? \n Bкdк czekaі na twуj powrуt w pobliїu. \n Liczк na ciebie. \n R-r.</text>
 </string>
 
 <string id="malyawa_01_description">
-	<text>"С.! Друг мой! Расчеты опять в молоко, стабильностью эффекта и не пахнет. Так – детские игры в песочнице. Я недоволен, дружище. Хотя есть и плюсы: думаю, стоит воспользоваться моментом и, скупив все омбреллоны у Гр., опередить рейдеров. \n М.Ч."</text>
+	<text>S.! Koleїko! Wyliczenia znуw w mleku, stabilnoњж efektu nie pachnie. A wiкc - dzieciкce zabawy w piaskownicy. Jestem niezadowolony przyjacielu. Chociaї s№ plusy: myњlк, їe warto skorzystaж z okazji i kupiwszy wszystkie omlety od Gr., wyprzedziж najeџdџcуw. \n M.C.</text>
 </string>
 
 <string id="malyawa_02_description">
-	<text>"Знал что ты вернешься. Встретимся в б.б.Сидора на кордоне. Ключи спроси у о. Александра. М.Ч."</text>
+	<text>Wiedziaіem, їe wrуcisz. Spotkajmy siк w B.B. Sidora na kordonie. Poproњ ojca Aleksandra o klucze. M.C.</text>
 </string>
 
 <string id="doctor_malyawa_description">
-	<text>Особо не напрягайся с кодом на панели – прочти дважды Апокалипсис(13:17-18) и отступи на шаг.</text>
+	<text>Nie stresuj siк zbytnio kodem na panelu - przeczytaj dwa razy Apokalipsк (13:17-18) i cofnij siк o krok.</text>
 </string>
 
 <string id="hazar_malyawa_description">
-	<text>Г., если ты жив, что маловероятно, но, если все-таки ты жив – вот твой плащ (я нашел его возле спуска в трубопровод в Припяти) и немного лавэ на первое время. Х-р.</text>
+	<text>G., jeњli їyjesz, co jest maіo prawdopodobne, ale jeњli - oto twуj pіaszcz przeciwdeszczowy (znalazіem go przy zejњciu do ruroci№gu w Prypeci) i trochк kasiory na pocz№tek. H-r.</text>
 </string>
 
 <string id="gena_maljawa_description">
-	<text>Есть такие строки: \n «ВоСт использовали прототип старого стационарного сингулятора. \n Мощность его мала, и потому он должен быть где-то рядом с самим порталом.»</text>
+	<text>S№ takie wiersze: \n „VoSt uїywaі prototypu starego stacjonarnego urz№dzenia. \n Jego moc jest niska, wiкc musi znajdowaж siк gdzieњ w pobliїu samego portalu."</text>
 </string>
 
 <string id="waterrat_malyawa_description">
-	<text>Записка написана простым карандашом. \n «Жизнь утекает из меня вместе с теплом, и жить осталось мне от силы пару часов. Еще раньше я лишусь рассудка, и это – хорошо. Как этому чертову Могильщику удается поддерживать адский холод в холодильнике? Хотя – плевать. \n Могильщик, долбанный псих, это из-за его безумных измышлений мы оказались здесь, в вечном сумраке. Он говорил, что достаточно точно скоординировать ключи в нужной точке, и откроется портал к центру Зоны. Портал открылся. Но не туда, куда думал Могильщик. И теперь мы сдохнем. \n Столько трудов, столько крови – и вот финал. Старый холодильник, сломанный ворлок, адский холод. \n У меня есть два ножа кованной стали, оружие против демонов, но нет мужества вскрыться. \n У меня есть голос, но нет желания звать Могильщика: лучше я сдохну в одиночестве. \n Одно немного радует – он сдохнет тоже. От голода и жажды. \n Без ключей отсюда никому не выбраться. \n Все. Прощайте. Постараюсь уснуть и замерзнуть во сне.»
+	<text>Notatka zostaіa napisana oіуwkiem. \n "Їycie wypіywa ze mnie wraz z ciepіem i zostaіo mi tylko kilka godzin їycia. Szybciej stracк rozum i to dobrze. Jak ten przeklкty Grabarz potrafi wytrzymaж te cholerne zimno? Chociaї - nie obchodzi mnie to. \n Grabarz, pieprzony wariat, to z powodu jego szalonych mikstur wyl№dowaliњmy tutaj w wiecznym mroku. Powiedziaі, їe wystarczy dokіadnie skoordynowaж klucze we wіaњciwym miejscu, a otworzy siк portal do centrum Strefy. Portal zostaі otwarty. Ale nie tam, gdzie myњlaі Grabarz. A teraz umrzemy. \n Tyle pracy, tyle krwi - i oto finaі. Stara lodуwka, zepsuty czarnoksiкїnik, przeklкty chіуd. \n Mam dwa kute stalowe noїe, broс przeciwko demonom, ale nie mam odwagi. \n Mam gіos, ale nie mam ochoty wzywaж Grabarza: wolaіbym umrzeж sam. \n Jedno jest pocieszaj№ce — on teї umrze. Z gіodu i pragnienia. \n Nikt nie moїe siк st№d wydostaж bez kluczy. \n Wszyscy. Їegnajcie. Sprуbujк zasn№ж i zamarzn№ж we њnie."
 </text>
 </string>
 
 <string id="ikona_name">
-	<text>Икона</text>
+	<text>Ikona</text>
 </string>
 <string id="ikona_1_description">
-	<text>Икона</text>
+	<text>Ikona</text>
 </string>
 <string id="ikona_2_description">
-	<text>Икона</text>
+	<text>Ikona</text>
 </string>
 
 <string id="accesscard_hsm_1_name">
-	<text>карта доступа</text>
+	<text>Karta dostкpu</text>
 </string>
 <string id="accesscard_hsm_1_description">
-	<text>С виду обычная карта доступа</text>
+	<text>Nic szegуlnego - zwykіa karta dostкpu</text>
 </string>
 
 <string id="hsm_beacon_name">
-	<text>GPS-маячок</text>
+	<text>Znacznik GPS</text>
 </string>
 <string id="hsm_beacon_description">
-	<text>Нано-пленка, имитирующая стикер, на самом деле – GPS-маяк</text>
+	<text>Nanofilm symuluj№cy naklejkк to w rzeczywistoњci znacznik GPS</text>
 </string>
 
 <string id="agru_code_malyawa_description">
-	<text>В записке только две строки: \n "1 -- 0431 \n 2 -- 0440"</text>
+	<text>Notatka zawiera tylko dwie linie: \n "1 -- 0431 \n 2 -- 0440"</text>
 </string>
 
 <string id="bun_code_malyawa_description">
@@ -180,265 +181,265 @@
 </string>
 
 <string id="military_stalkers_flash_name">
-	<text>флэшка с приказом</text>
+	<text>Pendrive z instrukcj№</text>
 </string>
 <string id="military_stalkers_flash_description">
-	<text>флэш-диск зашифрован по технологии BitLocker</text>
+	<text>Pendrive zaszyfrowany technologi№ BitLock</text>
 </string>
 
 <string id="item_passport_rf_name">
-	<text>паспорт РФ</text>
+	<text>Paszport RF</text>
 </string>
 <string id="item_passport_rf_description">
-	<text>паспорт гражданина РФ на имя Харитонова Устина Яковлевича</text>
+	<text>paszport obywatela Federacji Rosyjskiej na nazwisko Charitonow Ustin Yakovlevicz</text>
 </string>
 
 <string id="item_passport_rff_name">
-	<text>загранпаспорт РФ</text>
+	<text>Paszport RF</text>
 </string>
 <string id="item_passport_rff_description">
-	<text>загранпаспорт гражданина РФ на имя Харитонова Устина Яковлевича</text>
+	<text>paszport obywatela Federacji Rosyjskiej na nazwisko Charitonow Ustin Yakovlevicz</text>
 </string>
 
 <string id="art_red_name">
-	<text>АРТЕФАКТ</text>
+	<text>ARTEFAKT</text>
 </string>
 <string id="art_red_description">
-	<text>Артефакт представляет собой скульптуру сталкера, выполненную из неизвестного материала</text>
+	<text>Artefakt wygl№da jak rzeџba stalkera. Wykonana z nieznanego materiaіu.</text>
 </string>
 
 <string id="sor_basement_key_name">
-	<text>ключ</text>
+	<text>Klucz</text>
 </string>
 <string id="sor_basement_key_description">
-	<text>ключ от двери подвальчика</text>
+	<text>Klucz do drzwi piwnicy</text>
 </string>
 
 <string id="sor_jj_key_description">
-	<text>Ключ. \n Грек помнит этот ключ, но не помнит к какому он замку.</text>
+	<text>Klucz. \n Grek pamiкta ten klucz, ale nie pamiкta, do ktуrego zamka pasuje.</text>
 </string>
 
 <string id="passdoc_pda_name">
-	<text>пропуск</text>
+	<text>Przepustka</text>
 </string>
 <string id="passdoc_desc">
-	<text>пропуск в "отстойник"</text>
+	<text>Przepustka do "szamba"</text>
 </string>
 
 <string id="mobile">
-	<text>Мобильный менеджер</text>
+	<text>Mobilny manager</text>
 </string>
 <string id="mobile_description">
-	<text>Устройство для перемещения, спавна, контроля и т.д.</text>
+	<text>Urz№dzenie do przemieszczania, przywoіania, kontroli itp.</text>
 </string>
 
 <string id="braverman_pda_name">
-	<text>КПК мертвеца</text>
+	<text>PDK Umarlaka</text>
 </string>
 <string id="braverman_pda_description">
-	<text>Можно понять, что владелец КПК – некто доктор Браверман.</text>
+	<text>Moїna zrozumieж, їe wіaњcicielem PDA jest niejaki dr Umarlak.</text>
 </string>
 
 <string id="dictophone_name">
-	<text>цифровой диктофон</text>
+	<text>Cyfrowy dyktafon</text>
 </string>
 <string id="taras_dictophone_description">
-	<text>В памяти диктофона хранится всего одна запись, прощальное обращение командира группы военных сталкеров по кличке "Тарас".</text>
+	<text>W pamiкci dyktafonu zapisany jest tylko jeden zapis, adres poїegnalny dowуdcy grupy wojskowych stalkerуw "Taras".</text>
 </string>
 
 <string id="obsidian_knife_name">
-	<text>Обсидиановый нож</text>
+	<text>Nуї obsydianowy</text>
 </string>
 <string id="obsidian_knife_description">
-	<text>Древний ацтекский ритуальный нож из вулканического стекла.</text>
+	<text>Staroїytny aztecki nуї rytualny wykonany ze szkіa wulkanicznego.</text>
 </string>
 
 <string id="mutant_boar_leg_cook">
-	<text>"Пятачок"</text>
+	<text>Ryjek</text>
 </string>
 <string id="mutant_boar_leg_cook_description">
-	<text>Подвергшееся особой обработке, копченное мясо кабана.</text>
+	<text>Specjalnie przetworzone, wкdzone miкso z dzika.</text>
 </string>
 
 <string id="mutant_krovosos_jaw_cook">
-	<text>"Кальмар"</text>
+	<text>Kaіamarnica</text>
 </string>
 <string id="mutant_krovosos_jaw_cook_description">
-	<text>Обработанные, маринованные щупальца кровососа.</text>
+	<text>Przetworzone, marynowane macki krwiopijcуw.</text>
 </string>
 
 <string id="mutant_dog_tail_cook">
-	<text>"Му-му"</text>
+	<text>Haі-Haі</text>
 </string>
 <string id="mutant_dog_tail_cook_description">
-	<text>Собачий хвост выдержанный в соусе "чачжан". Вкусно и полезно. \n По крайней мере сталкер Цой и наемник Пак очень нахваливают.</text>
+	<text>Psi ogon dojrzewaj№cy w sosie rdestowym. Smacznie i zdrowo. \n Przynajmniej stalker Czoi i najemnik Pak bardzo sobie chwal№.</text>
 </string>
 
 <string id="mutant_flesh_eye_cook">
-	<text>"Антидозер"</text>
+	<text>Antydozer</text>
 </string>
 <string id="mutant_flesh_eye_cook_description">
-	<text>Выдержанный в спирте глаз плоти. Способствует выведению из организма радионуклидов. Принятие вовнутрь вызывает легкое наркотическое опьянение.</text>
+	<text>Dojrzewaj№ce oko zombie w spirytusie. Wspomaga wydalanie radionuklidуw z organizmu. Spoїycie powoduje іagodne zatrucie lekami.</text>
 </string>
 
 <string id="hsm_box_1_name">
-	<text>Ящик №1</text>
+	<text>Walizka #1</text>
 </string>
 <string id="hsm_box_2_name">
-	<text>Ящик №2</text>
+	<text>Walizka #2</text>
 </string>
 <string id="hsm_box_3_name">
-	<text>Ящик №3</text>
+	<text>Walizka #3</text>
 </string>
 <string id="hsm_box_4_name">
-	<text>Ящик №4</text>
+	<text>Walizka #4</text>
 </string>
 <string id="hsm_box_5_name">
-	<text>Ящик №5</text>
+	<text>Walizka #5</text>
 </string>
 <string id="hsm_box_description">
-	<text>Один из контейнеров с аббревиатурой "HSM-***"</text>
+	<text>Jeden z pojemnikуw ze skrуtem „HSM-***”</text>
 </string>
 
 <string id="panz_encryption_malyawa_description">
-	<text>«Нашедшему! Просьба отдать этот документ Онисиму Пулевичу. Сортировка, военный городок. Высокое вознаграждение гарантируется.» \n Далее – колонки цифр.</text>
+	<text>"Znalazco! Proszк przekazaж ten dokument Onisimowi Puleviczowi. Sortownia, miasto wojskowe. Gwarantowana wysoka nagroda." \n Dalej - tabele liczbowe.</text>
 </string>
 
 <string id="blade_radiokey_name">
-	<text>прибор</text>
+	<text>Sprzкt</text>
 </string>
 <string id="blade_radiokey_description">
-	<text>электронный прибор неизвестного назначения</text>
+	<text>Nieznane urz№dzenie elektroniczne</text>
 </string>
 
 <string id="key_name">
-	<text>Ключ</text>
+	<text>Klucz</text>
 </string>
 <string id="monolith_kee_description">
-	<text>Один из трех ключей Монолита, открывших когда-то Греку и JJ портал в Госпитале.</text>
+	<text>Jeden z trzech kluczy Monolitu, ktуry kiedyњ Grek i JJ otworzyі portal w Szpitalu.</text>
 </string>
 
 <string id="radio_scaner_name">
-	<text>Радиосканер</text>
+	<text>Radioskaner</text>
 </string>
 <string id="radio_scaner_description">
-	<text>Широкополосный радиосканер</text>
+	<text>Szerokopasmowy skaner radiowy</text>
 </string>
 
 <string id="automedic_system_name">
-	<text>"ПУМА"</text>
+	<text>"PUMA"</text>
 </string>
 <string id="automedic_system_description">
-	<text>Персональная универсальная мобильная амбулатория. \n Следит за состоянием здоровья пользователя. \n При приближении к критическому уровню, автоматически применяет медпрепарат, если таковой имеется в инвентаре пользователя. \n Для активации прибор необходимо повесить на пояс.</text>
+	<text>Osobista uniwersalna apteczka mobilna (rus. Personalnaja Universalnaja Mobilnaja Ambulatorija) \n Monitoruje kondycjк uїytkownika. \n Gdy zbliїasz siк do krytycznego poziomu, automatycznie dawkuje lek, jeњli uїytkownik ma go w swoim ekwipunku. \n Aby aktywowaж urz№dzenie, musisz zawiesiж je na pasku.</text>
 </string>
 
 <string id="outfit_grek_name">
-	<text>кожаный плащ Грека</text>
+	<text>Skуrzany pіaszcz Greka</text>
 </string>
 <string id="outfit_grek_description">
-	<text>Уникальный, единственный в своем роде плащ. \n Грек нашел его во время одиночного рейда в Мертвом городе. \n Плащ не только добавляет силу и выносливость, но и неплохо защищает от вредных факторов Зоны и оружия. \n Плащ укомплектован темными очками, которые на самом деле являются отличным прибором ночного видения.</text>
+	<text>Wyj№tkowy, jedyny w swoim rodzaju pіaszcz. \n Grek znalazі go podczas samotnego najazdu na Martwe Miasto. \n Pіaszcz nie tylko dodaje siіy i wytrzymaіoњci, ale takїe dobrze chroni przed szkodliwymi czynnikami Strefy i broni. \nPіaszcz jest wyposaїony w ciemne gogle, ktуre w rzeczywistoњci s№ doskonaіymi noktowizorami.</text>
 </string>
 
 <string id="shocker_flash_name">
-	<text>флэшка Шокера</text>
+	<text>Pendrive Paskudy</text>
 </string>
 <string id="shocker_flash_description">
-	<text>Информация зашифрована.</text>
+	<text>Zaszyfrowany.</text>
 </string>
 
 <string id="uv_light_torch_name">
-	<text>Фонарик</text>
+	<text>Latarka UV</text>
 </string>
 <string id="uv_light_torch_description">
-	<text>Прибор работает, но луча света не видно. \n Вероятно, прибор работает вне видимого диапазона света.</text>
+	<text>Urz№dzenie wі№cza siк, ale wi№zka њwiatіa nie jest widoczna. \n Urz№dzenie prawdopodobnie dziaіa poza widzialnym dla oka zakresem њwiatіa.</text>
 </string>
 
 <string id="black_raider_singulator_description">
-	<text>Корректор реликтового излучения оператора черных рейдеров.</text>
+	<text>Korektor promieniowania tіa dla operatora Black Raidera.</text>
 </string>
 <string id="als_singulator_name">
-	<text>Сингулятор</text>
+	<text>Korektor</text>
 </string>
 <string id="als_singulator_description">
-	<text>Корректор реликтового излучения.</text>
+	<text>Korektor CMB operatora Black Raidera.</text>
 </string>
 
 <string id="security_key_name">
-	<text>Ключ безопасности</text>
+	<text>Klucz bezpieczeсstwa</text>
 </string>
 <string id="security_key_description">
-	<text>Ключ безопасности</text>
+	<text>Klucz bezpieczeсstwa.</text>
 </string>
 
 <string id="esc_operator_pda_name">
-	<text>КПК оператора</text>
+	<text>PDA operatora</text>
 </string>
 <string id="esc_operator_pda_description">
-	<text>На карте отмечается местоположение настоящего мобильного пульта контроля турелей.</text>
+	<text>Lokalizacja panelu sterowania wieїy mobilnej jest zaznaczona na mapie.</text>
 </string>
 
-<!--  Объявления -->
+<!-- reklamy  -->
 <string id="announcement_name">
-	<text>объявление</text>
+	<text>Zapowiedџ</text>
 </string>
 <string id="announcement_1_description">
-	<text>Пропали копатели. \n  Последний раз выходили на связь 29-го апреля с Болот. \n  За информацию будет выплачено вознаграждение – 10 000. \n  Златич.</text>
+	<text>Ktokolwiek widziaі, ktokolwiek wie: kopacze. \n Ostatni raz kontaktowali siк 29 kwietnia z firm№ Bolot. \n Za informacje zostanie wypіacona nagroda w wysokoњci 10 000. \n Zlatiж.</text>
 </string>
 <string id="announcement_2_description">
-	<text>Р.а.б.о.т.а.!!! \n Требуется опытный и смелый сталкер для выполнения специального задания. \n Оплата – нереально высокая! \n Предоставляются особый статус и особые полномочия! \n Информацию можно получить в военном городке у представителя Корпорации. \n GRC</text>
+	<text>Praca szuka czіowieka!!! \n Do zadaс specjalnych potrzebny jest doњwiadczony i odwaїny stalker. \n Wynagrodzenie jest bagatelnie wysokie! \n Specjalny status i specjalne uprawnienia przyznawane! \n Informacje moїna uzyskaж od przedstawiciela korporacji w Bazie Wojskowej. \nGRC</text>
 </string>
 <string id="announcement_3_description">
-	<text>ПРОДАМ!!! \n  Сториная книга "моноскрип"  \n  В харошам састаяньи  \n  спрасить Кучму</text>
+	<text>SPRZEDAM! \n Ksi№їka "manuskrypt" \n W dobrym stanie \n zapytaj Kuczmy</text>
 </string>
 <string id="announcement_4_description">
-	<text>ПРОПАЛ УЧЕНЫЙ!!! \n Щедрое вознаграждение за любые сведения о д-ре Бравермане. \n Луценко.</text>
+	<text>ZAGINIONY NAUKOWIEC! \n Hojna nagroda za wszelkie informacje na temat doktora Brawermana. \nЈucenko.</text>
 </string>
 <string id="announcement_5_description">
-	<text>ПРОПАЛ УЧЕНЫЙ!!! \n Д-р Браверман. Последнее радиосообщение из лаб. Х-18. \n Щедрое вознаграждение. \n Луценко.</text>
+	<text>ZAGINIONY NAUKOWIEC! \n Dr Brawerman. Ostatnia wiadomoњж radiowa z laboratorium. X-18. \n Hojna nagroda. \nЈucenko.</text>
 </string>
 <string id="announcement_6_description">
-	<text>Авиа-Лаборатория!!! \n Щедрое вознаграждение за координаты места падения. \n Луценко.</text>
+	<text>Dron Laboratoryjny!\n Hojna nagroda za wspуіrzкdne miejsca katastrofy. \n Јucenko.</text>
 </string>
 <string id="accesscard_hsm_hos_description">
-	<text>Карта доступа в помещение управления турелями.\n Код доступа 040766</text>
+	<text>Karta dostкpu do sterowni wieїy.\n Kod dostкpu 040766</text>
 </string>
 
 <string id="timer_bomb_name">
-	<text>Мина</text>
+	<text>Bomba</text>
 </string>
 <string id="timer_bomb_description">
-	<text>Мина замедленного действия. Время задержки после активации таймера - 15 секунд</text>
+	<text>Bomba zegarowa. Czas opуџnienia po aktywacji timera - 15 sekund.</text>
 </string>
 
 <string id="audiocassette_name">
-	<text>Аудиокассета</text>
+	<text>Kaseta magnetofonowa</text>
 </string>
 <string id="audiocassette_description">
-	<text>Старая аудиокассета с последним посланием капитана Паршина.</text>
+	<text>Stara kaseta magnetofonowa z ostatnim przesіaniem kapitana Parszywego.</text>
 </string>
 
 <string id="list_about_grek_description">
-	<text>Внимание!!! \n За голову бандита про кличке «Грек» \n назначена награда в \n 1 000 000 \n Голову принести в бывший военный городок. \n Комендант.</text>
+	<text>Uwaga!!! \n Za gіowк bandyty o pseudonimie "Grek" wyznaczono \n 1 000 000 nagrody. \n Przynieњ gіowк do byіego miasta wojskowego. \n Komendant.</text>
 </string>
 
 <string id="list_khazar_description">
-	<text>Заплачу за информацию о сталкере по прозвищу «Шило». \n Хазар.</text>
+	<text>Zapіacк za informacjк o stalkerze o pseudonimie "Szydіo". \n Chazar.</text>
 </string>
 
 <string id="list_koptelov_description">
-	<text>Вознаграждение! \n За информацию о военной экспедиции в ЗПО. \n лтнт Коптелов.</text>
+	<text>Nagroda! \n Informacje o wyprawie wojskowej do ZPO. \n por. Kopteіow.</text>
 </string>
 
 <string id="list_som_description">
-	<text>ВНИМАНИЕ! \n Ищу любую информацию о гибели группы военных сталкеров на Агропроме. \n Вознаграждение. \n Армейские склады \n Сом.</text>
+	<text>UWAGA! \n Szukam jakichkolwiek informacji o њmierci grupy wojskowych stalkerуw na Agropromie. \n Przewidziana nagroda. \n Magazyny wojskowe \n Som.</text>
 </string>
 
 <string id="list_panz_about_turrets_description">
-	<text>ТРЕБУЕТСЯ! \n Специалист систем безопасности, охраны и видеонаблюдения. \n З/п от 100 000. \n Обращаться: \n Южный блокпост, ОК. \n Панцер.</text>
+	<text>POSZUKIWANY! \n Specjalista w zakresie systemуw bezpieczeсstwa, ochrony i nadzoru wideo. \n Wynagrodzenie od 100 000. \n Kontakt: \n Poіudniowy Punkt Kontrolny, OK. \nGrenadier.</text>
 </string>
 
 <string id="list_luz_about_hsm_description">
-	<text>Куплю! \n Комплект стикеров с аббревиатурой HSM. \n д-р Луценко.</text>
+	<text>Kupiк! \n Zestaw naklejek ze skrуtem HSM. \n Dr Јucenko.</text>
 </string>
 
 </string_table>

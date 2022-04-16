@@ -1,36 +1,36 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
     <string id="New_21">
-        <text>Дождик капает</text>
+        <text>Spacer w deszczu</text>
     </string>
     <string id="New_2">
-        <text>Что нового в Зоне?</text>
+        <text>Co nowego w Zonie?</text>
     </string>
     <string id="New_3">
-        <text>Пойду я, пожалуй</text>
+        <text>Pуjdк to poїaіujк</text>
     </string>
     <string id="New_1">
-        <text>Расскажи о Стрелке</text>
+        <text>Opowiedz o Strieіce</text>
     </string>
     <string id="New_1121">
-        <text>Да, пропал</text>
+        <text>Tak, odszedі</text>
     </string>
     <string id="New_11">
-        <text>Стрелок - очень модный штрих. Нашел путь к центру и пропал.</text>
+        <text>Strieіok - interesuj№ca ksywka. Znalazі drogк do centrum i znikn№і.</text>
     </string>
     <string id="New_113">
-        <text>Спасибо за инфу</text>
+        <text>Dziekujк za informacje</text>
     </string>
     <string id="New_1111">
-        <text>Да, к центру</text>
+        <text>Tak, do centrum</text>
     </string>
     <string id="New_112">
-        <text>Пропал?</text>
+        <text>Poszedі?</text>
     </string>
     <string id="New_111">
-        <text>К центру?</text>
+        <text>Do centrum?</text>
     </string>
     <string id="New_0">
-        <text>Привет</text>
+        <text>Witaj</text>
     </string>
 </string_table>

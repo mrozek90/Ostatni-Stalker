@@ -1,54 +1,54 @@
 	<string id="bar_darklab_documents_1_hint">
-		<text>Боров</text>
+		<text>Dzik</text>
 	</string>
 	<string id="bar_darklab_documents_2_hint">
-		<text>Туннель</text>
+		<text>Tunel</text>
 	</string>
 	<string id="bar_darklab_documents_3_hint">
-		<text>Вход в лабораторию</text>
+		<text>Wejњcie do laboratorium</text>
 	</string>
 	<string id="bar_darklab_documents_4_hint">
-		<text>Труба</text>
+		<text>Rura</text>
 	</string>
 	<string id="bar_darklab_documents2_1_hint">
-		<text>Документы из лаборатории</text>
+		<text>Dokumenty z laboratorium</text>
 	</string>
 	<string id="bar_darklab_documents2_2_hint">
-		<text>Бармен</text>
+		<text>Barman</text>
 	</string>
 	<string id="val_captive_help_1_hint">
-		<text>Пуля</text>
+		<text>Nabуj</text>
 	</string>
 	<string id="val_captive_help_2_hint">
-		<text>Пленный</text>
+		<text>Wiкzieс</text>
 	</string>
 	<string id="val_come_to_trader_1_hint">
-		<text>Южные ворота</text>
+		<text>Poіudniowa brama</text>
 	</string>
 	<string id="val_come_to_trader_2_hint">
-		<text>Торговец</text>
+		<text>Handlarz</text>
 	</string>
 	<string id="val_prisoner_help_main_hint">
-		<text>Плененный долговец</text>
+		<text>Uwiкziony powinnoњciowiec</text>
 	</string>
 	<string id="val_sos_help_main_hint">
-		<text>Раненый сталкер</text>
+		<text>Ranny stalker</text>
 	</string>
 	<string id="val_zone_bandits_hint">
-		<text>Лагерь бандитов</text>
+		<text>Obуz bandytуw</text>
 	</string>
 	<string id="val_zone_farm_hint">
-		<text>Ферма.\nКупить Гаусс.</text>
+		<text>Ferma.\nKup karabin Gaussa.</text>
 	</string>
 	<string id="val_zone_monolith_hint">
-		<text>Старая фабрика</text>
+		<text>Stara fabryka</text>
 	</string>
 	<string id="val_zone_pipe_hint">
-		<text>Канализационная труба</text>
+		<text>Rura kanalizacyjna</text>
 	</string>
 	<string id="val_zone_robbers_hint">
-		<text>Заброшенная свиноферма</text>
+		<text>Opuszczona chlewnia</text>
 	</string>
 	<string id="val_zone_south_gate_hint">
-		<text>Ворота</text>
+		<text>Brama</text>
 	</string>

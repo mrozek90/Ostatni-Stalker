@@ -1,132 +1,132 @@
 	<string id="bar_bring_hunter_rifle">
-		<text>Вернуть охотнику фамильное ружье</text>
+		<text>Oddaj Јowcy karabin rodowy</text>
 	</string>
 	<string id="bar_bring_PDA_lucky">
-		<text>Принести КПК лидера бармену</text>
+		<text>Przynieњ Barmanowi PDA przywуdcy</text>
 	</string>
 	<string id="bar_crazy_veterans_quest">
-		<text>Уничтожить безумных ветеранов</text>
+		<text>Zabij oszalaіych weteranуw</text>
 	</string>
 	<string id="bar_dolg_base_rules">
-		<text>Отметиться у начальника охраны Долга</text>
+		<text>Zgіoњ siк do dowуdcy straїy "Powinnoњci"</text>
 	</string>
 	<string id="bar_dolg_base_rules_fin">
-		<text>Вернуться к бармену</text>
+		<text>Wrуж do Barmana</text>
 	</string>
 	<string id="bar_dolg_base_rules_talk">
-		<text>Найти начальника охраны Долга и отметиться у него</text>
+		<text>Znajdџ dowуdcк straїy "Powinnoњci" i zamelduj siк</text>
 	</string>
 	<string id="bar_dolg_bring_rg6">
-		<text>Добыть Бульдог-6 для генерала Воронина</text>
+		<text>Zdob№dџ Bulldoga 6 dla Woronina</text>
 	</string>
 	<string id="bar_dolg_community_quest">
-		<text>Вступление в группировку "Долг"</text>
+		<text>Wst№p do ugrupowania "Powinnoњж"</text>
 	</string>
 	<string id="bar_dolg_community_quest_prisyaga">
-		<text>Принять присягу</text>
+		<text>Zіуї przysiкgк</text>
 	</string>
 	<string id="bar_dolg_community_quest_recomendation">
-		<text>Получить рекомендацию капитана Иванцова</text>
+		<text>Zdob№dџ referencje od kapitana Iwancowa</text>
 	</string>
 	<string id="bar_dolg_community_quest_vernost">
-		<text>Доказать свою верность "Долгу"</text>
+		<text>Udowodnij swoj№ lojalnoњж wobec "Powinnoњci"</text>
 	</string>
 	<string id="bar_dolg_find_cook">
-		<text>Втереться в доверие к повару Свободы и узнать, где хранится Бульдог 6</text>
+		<text>Wkradnij siк w zaufanie Kucharza z "Wolnoњci" i dowiedz siк, gdzie trzymaj№ Bulldogi 6</text>
 	</string>
 	<string id="bar_dolg_find_rg6">
-		<text>Проникнуть на территорию группировки Свободы, найти и выкрасть Бульдог-6</text>
+		<text>Zbadaj bazк "Wolnoњci", znajdџ i ukradnij Bulldoga 6</text>
 	</string>
 	<string id="bar_dolg_info_gain">
-		<text>Найти перехваченную информацию о лаборатории X18</text>
+		<text>Znajdџ przechwycone informacje o laboratorium X-18</text>
 	</string>
 	<string id="bar_dolg_kill_tiran">
-		<text>Убить Тирана, предводителя отряда</text>
+		<text>Zabij Tyrana, dowуdcк oddziaіu</text>
 	</string>
 	<string id="bar_dolg_return_info">
-		<text>Вернуть информацию о лаборатории X18 генералу Воронину</text>
+		<text>Zwrуж informacje o laboratorium X-18 generaіowi Woroninowi</text>
 	</string>
 	<string id="bar_dolg_return_rg6">
-		<text>Принести Бульдог-6 генералу Воронину</text>
+		<text>Przynieњ Bulldoga 6 generaіowi Woroninowi</text>
 	</string>
 	<string id="bar_dolg_rg6_quest">
-		<text>Задание для вступления в Долг</text>
+		<text>Misja wymagana, aby wst№piж do "Powinnoњci"</text>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_quest">
-		<text>Уничтожить наемников</text>
+		<text>Zlikwiduj najemnikуw</text>
 	</string>
 	<string id="bar_dolg_svoboda_ambush_return">
-		<text>Отдать нашивки генералу Воронину</text>
+		<text>Oddaj naszywki generaіowi Woroninowi</text>
 	</string>
 	<string id="bar_dolg_tiran_PDA">
-		<text>Взять КПК Тирана</text>
+		<text>Zabierz PDA Tyrana</text>
 	</string>
 	<string id="bar_hunter_find_rifle">
-		<text>Найти фамильное ружье</text>
+		<text>Znajdџ karabin rodowy</text>
 	</string>
 	<string id="bar_hunter_return_rifle">
-		<text>Вернуть ружье охотнику в баре</text>
+		<text>Zwrуж karabin Јowcy w Barze</text>
 	</string>
 	<string id="bar_hunter_rifle">
-		<text>Найти фамильное ружье</text>
+		<text>Znajdџ karabin rodowy</text>
 	</string>
 	<string id="bar_kill_crazy_veterans">
-		<text>Убить лидера ветеранов</text>
+		<text>Zabij przywуdcк weteranуw</text>
 	</string>
 	<string id="bar_kill_crazy_veterans_PDA">
-		<text>Взять КПК их лидера</text>
+		<text>Zabierz PDA ich przywуdcy</text>
 	</string>
 	<string id="bar_kill_veterans">
-		<text>Уничтожить лагерь сумасшедших ветеранов</text>
+		<text>Zniszcz obуz oszalaіych weteranуw</text>
 	</string>
 	<string id="bar_radar_deactivate">
-		<text>Отключить Выжигатель Мозгов</text>
+		<text>Wyі№cz "Mуzgozwкglacz"</text>
 	</string>
 	<string id="bar_resque_information">
-		<text>Встретиться с Кругловым</text>
+		<text>Spotkaj siк z Krugіowem</text>
 	</string>
 	<string id="bar_resque_information_2">
-		<text>Вывести Круглова на Янтарь</text>
+		<text>Przeprowadџ Krugіowa na Jantar</text>
 	</string>
 	<string id="bar_resque_scientific_follow">
-		<text>Вывести Круглова к выходу на Янтарь</text>
+		<text>Odprowadџ Krugіowa do wyjњcia na Jantar</text>
 	</string>
 	<string id="bar_resque_scientific_information">
 		<text>...</text>
 	</string>
 	<string id="bar_resque_scientific_information_bring">
-		<text>Поговорить с Кругловым</text>
+		<text>Porozmawiaj z Krugіowem</text>
 	</string>
 	<string id="bar_resque_scientific_information_get">
-		<text>Пробиться к Круглову</text>
+		<text>Dostaс siк do Krugіowa</text>
 	</string>
 	<string id="bar_resque_scientific_information_get_2">
-		<text>Поговорить с профессором Кругловым</text>
+		<text>Porozmawiaj z profesorem Krugіowem</text>
 	</string>
 	<string id="bar_x16_documents">
-		<text>Найти документы в лаборатории X16</text>
+		<text>Odszukaj dokumenty w laboratorium X-16</text>
 	</string>
 	<string id="bring_x16_documents">
-		<text>Принести документы бармену</text>
+		<text>Przynieњ dokumenty Barmanowi</text>
 	</string>
 	<string id="deactivate_radar_now">
-		<text>Отключить установку</text>
+		<text>Wyі№cz instalacjк</text>
 	</string>
 	<string id="find_and_deactivate_radar">
-		<text>Найти вход в бункер управления</text>
+		<text>Znajdџ wejњcie do bunkra sterowania</text>
 	</string>
 	<string id="get_to_antennas">
-		<text>Добраться до антенн</text>
+		<text>Dotrzyj do anten</text>
 	</string>
 	<string id="Kruglov_research">
-		<text>Исследования Круглова</text>
+		<text>Badania Krugіowa</text>
 	</string>
 	<string id="look_for_x16_lab">
-		<text>Найти документы Х-16</text>
+		<text>Znajdџ dokumenty z laboratorium X-16</text>
 	</string>
 	<string id="wpn-winchester_m1">
-		<text>Боевой чейзер</text>
+		<text>Bojowy SPAS</text>
 	</string>
 	<string id="x16_yantar">
-		<text>Поговорить с учеными</text>
+		<text>Porozmawiaj z naukowcami</text>
 	</string>

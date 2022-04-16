@@ -1,126 +1,126 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="item test1">
-		<text>Это тестовая строка для вещмешка</text>
+		<text>To jest sznurek testowy do torby podrуїnej</text>
 	</string>
 	<string id="item test2">
-		<text>Это еще одна тестовая строка для вещмешка</text>
+		<text>To kolejny sznurek testowy do torby podrуїnej</text>
 	</string>
 	<string id="item_case_esc_desc">
-		<text>Кейс с документами. Сделан из огнеупорного материала.</text>
+		<text>Walizka z dokumentami. Wykonane z materiaіu ognioodpornego.</text>
 	</string>
 	<string id="item_decoder_desc">
-		<text>Нечто вроде мощной электронной отмычки. Похоже, что она создавалась с целью взломать какой-то специфический электронный замок. Как ни странно конструкция не подразумевает универсальности - оно создавалось для конкретного замка и не способно взламывать какие-либо другие коды.</text>
+		<text>Coњ jak potкїny elektroniczny klucz gіуwny. Wygl№da na to, їe zostaі stworzony w celu zіamania jakiegoњ specyficznego zamka elektronicznego. Co dziwne, projekt nie sugeruje uniwersalnoњci - zostaі stworzony do konkretnego zamka i nie jest w stanie zіamaж їadnych innych kodуw</text>
 	</string>
 	<string id="item_decoder_name">
-		<text>Декодер</text>
+		<text>Dekoder</text>
 	</string>
 	<string id="item_detector_yantar_desc">
-		<text>Устройство для замеров пси-излучения.</text>
+		<text>Urz№dzenie do pomiaru promieniowania psi.</text>
 	</string>
 	<string id="item_detector_yantar_name">
-		<text>Сенсор ПП-4а</text>
+		<text>Czujnik PP-4a</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Полиэтиленовый файл с документами. Без ученой степени по биологии сложно что-то в них понять.</text>
+		<text>Teczka polietylenowa z dokumentami. Bez dyplomu z biologii trudno coњ tu zrozumieж..</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Документы из лаборатории Х16</text>
+		<text>Dokumenty z laboratorium X16</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>Толстая стопка научных бумаг. Сплошные термины, формулы и диаграммы.</text>
+		<text>Gruby stos prac naukowych. M№dre terminy, wzory i wykresy.</text>
 	</string>
 	<string id="item_doc_x18p1_name">
-		<text>Документы из Х18 часть1</text>
+		<text>Dokumenty z X18 cz.1</text>
 	</string>
 	<string id="item_doc_x18p2_name">
-		<text>Документы из Х18 часть2</text>
+		<text>Dokumenty z X18 cz.2</text>
 	</string>
 	<string id="item_doc_x18p3_name">
-		<text>Документы из Х18 часть3</text>
+		<text>Dokumenty z X18 cz.3</text>
 	</string>
 	<string id="item_doc_x18p4_name">
-		<text>Документы из Х18 часть4</text>
+		<text>Dokumenty z X18 cz.4</text>
 	</string>
 	<string id="item_doc_x18p5_name">
-		<text>Документы из Х18 часть5</text>
+		<text>Dokumenty z X18 cz.5</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Потёртая рукопись в кожаной обложке. Написана самим Стрелком. Судя по заглавиям, в ней раскрываются некоторые загадки Зоны.</text>
+		<text>Niewyraџne notatki ze skуrzan№ okіadk№. Napisany przez samego Streloka. S№dz№c po tytuіach, ujawnia niektуre tajemnice Strefy.</text>
 	</string>
 	<string id="item_docs_hiden_pri_name">
-		<text>Документы из Припяти</text>
+		<text>Dokumenty z Prypeci</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
-		<text>Тяжёлый деревянный ящик, с надписями "Взрывоопасно" на нескольких языках.</text>
+		<text>Ciкїkie drewniane pudeіko z napisem „Wybuchowe” w kilku jкzykach.</text>
 	</string>
 	<string id="item_dynamite_esc_name">
-		<text>Ящик с динамитом</text>
+		<text>Pudeіko dynamitu</text>
 	</string>
 	<string id="item_flash_crazy_mil_desc">
-		<text>Флеш-диск - удобное устройство для переноса информации.</text>
+		<text>Pendrive - wygodne urz№dzenie do przesyіania informacji.</text>
 	</string>
 	<string id="item_flash_crazy_mil_name">
-		<text>Флешка сумасшедшего</text>
+		<text>Pendrive szaleсca</text>
 	</string>
 	<string id="item_flash_eco_rost_desc">
-		<text>Флеш-диск - удобное устройство для переноса информации.</text>
+		<text>Pendrive to wygodne urz№dzenie do przesyіania informacji.</text>
 	</string>
 	<string id="item_flash_eco_rost_name">
-		<text>Флешка профессора Круглова</text>
+		<text>Pendrive profesora Kruglowa</text>
 	</string>
 	<string id="item_flash_esc_desc">
-		<text>Флеш-диск - удобное устройство для переноса информации.</text>
+		<text>Pendrive to wygodne urz№dzenie do przesyіania informacji.</text>
 	</string>
 	<string id="item_flash_esc_name">
-		<text>Флешка пленного</text>
+		<text>Pendrive wiкџnia</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
-		<text>Флеш-диск - удобное устройство для переноса информации.</text>
+		<text>Pendrive to wygodne urz№dzenie do przesyіania informacji.</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
-		<text>Флешка Стрелка</text>
+		<text>Pendrive Strieіoka</text>
 	</string>
 	<string id="item_key_x18_desc">
-		<text>Электронный ключ от подземной лаборатории Х-18.</text>
+		<text>Klucz elektroniczny z podziemnego laboratorium X-18.</text>
 	</string>
 	<string id="item_key_x18_name">
-		<text>Ключ Борова</text>
+		<text>Klucz Wieprza</text>
 	</string>
 	<string id="item_krot_flash">
-		<text>Флешка Крота</text>
+		<text>Pendrive Kreta</text>
 	</string>
 	<string id="item_PDA_lucky_desc">
-		<text>Карманный персональный компьютер. Незаменимое устройство в Зоне.</text>
+		<text>Kieszonkowy komputer osobisty. Niezast№pione urz№dzenie w Strefie.</text>
 	</string>
 	<string id="item_PDA_lucky_name">
-		<text>КПК Счастливчика</text>
+		<text>PDA Szczкњciarza</text>
 	</string>
 	<string id="item_PDA_tiran_desc">
-		<text>Карманный персональный компьютер. Незаменимое устройство в Зоне.</text>
+		<text>Kieszonkowy komputer osobisty. Niezast№pione urz№dzenie w Strefie.</text>
 	</string>
 	<string id="item_PDA_tiran_name">
-		<text>КПК Тирана</text>
+		<text>PDA Tyrana</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>Кейс с документами. Сделан из огнеупорного материала.</text>
+		<text>Etui z dokumentami. Wykonany z materiaіu ogniotrwaіego.</text>
 	</string>
 	<string id="item_quest_case_02_name">
-		<text>Документы военных</text>
+		<text>Dokumenty Wojskowe</text>
 	</string>
 	<string id="item_case_esc_name">
-		<text>Документы с блокпоста</text>
+		<text>Dokumenty z punktu kontrolnego</text>
 	</string>
 	<string id="yan_bad_psy_helmet_desc">
-		<text>Ненастроенный прототип, разработанный учеными для защиты от ПСИ-излучения</text>
+		<text>Nieskalibrowany prototyp opracowany przez naukowcуw w celu ochrony przed promieniowaniem PSI</text>
 	</string>
 	<string id="yan_bad_psy_helmet_name">
-		<text>Ненастроенный пси-шлем</text>
+		<text>Nieskalibrowany heіm psioniczny</text>
 	</string>
 	<string id="yan_good_psy_helmet_desc">
-		<text>Настроенный прототип, разработанный учеными для защиты от ПСИ-излучения</text>
+		<text>Dostrojony prototyp zaprojektowany przez naukowcуw w celu ochrony przed promieniowaniem PSI</text>
 	</string>
 	<string id="yan_good_psy_helmet_name">
-		<text>Настроенный пси-шлем</text>
+		<text>Dostrojony heіm psychiczny</text>
 	</string>
 </string_table>

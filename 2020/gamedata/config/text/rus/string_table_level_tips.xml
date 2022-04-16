@@ -1,105 +1,105 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="bar_rostok">
-		<text>Дикая территория - Росток</text>
+		<text>Dzikie Terytorium - Rostock</text>
 	</string>
 	<string id="car_character_use">
-		<text>Открыть дверь ($$ACTION_USE$$)</text>
+		<text>Otwуrz drzwi ($$ACTION_USE$$)</text>
 	</string>
 	<string id="character_use">
-		<text>Говорить ($$ACTION_USE$$)</text>
+		<text>Rozmawiaj ($$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use_or_drag">
-		<text>Обыскать труп ($$ACTION_USE$$) \n Тащить труп (SHIFT+$$ACTION_USE$$)</text>
+		<text>Przeszukaj zwіoki ($$ACTION_USE$$) \n Przenieњ zwіoki (SHIFT+$$ACTION_USE$$)</text>
 	</string>
 	<string id="dead_character_use">
-		<text>Обыскать труп ($$ACTION_USE$$)</text>
+		<text>Przeszukaj zwіoki ($$ACTION_USE$$)</text>
 	</string>
 	<string id="general_complete_task">
-		<text>Задание выполнено:</text>
+		<text>Zadanie zakoсczone:</text>
 	</string>
 	<string id="general_fail_task">
-		<text>Задание провалено:</text>
+		<text>Zadanie nieudane:</text>
 	</string>
 	<string id="general_help">
-		<text>Срочно нужна аптечка, помираю!!!</text>
+		<text>Pilnie potrzebujк apteczki, umieram!</text>
 	</string>
 	<string id="general_in_item">
-		<text>Получен предмет:</text>
+		<text>Otrzymano przedmiot:</text>
 	</string>
 	<string id="general_in_money">
-		<text>Получены деньги:</text>
+		<text>Otrzymano pieni№dze:</text>
 	</string>
 	<string id="general_new_diary">
-		<text>Новая запись в дневнике.</text>
+		<text>Nowy wpis do dziennika.</text>
 	</string>
 	<string id="general_new_encyclopedy">
-		<text>Новая статья в энциклопедии.</text>
+		<text>Nowy artykuі w encyklopedii.</text>
 	</string>
 	<string id="general_new_task">
-		<text>Новое задание:</text>
+		<text>Nowe zadanie:</text>
 	</string>
 	<string id="general_out_item">
-		<text>Потерян предмет:</text>
+		<text>Utracony przedmiot:</text>
 	</string>
 	<string id="general_out_money">
-		<text>Потеряны деньги:</text>
+		<text>Utracone pieni№dze:</text>
 	</string>
 	<string id="general_update_task">
-		<text>Задание обновлено:</text>
+		<text>Zaktualizowano zadanie:</text>
 	</string>
 	<string id="physic_shell_use">
-		<text>Двигать объект ($$ACTION_USE$$)</text>
+		<text>Przesuс przedmiot ($$ACTION_USE$$)</text>
 	</string>
 	<string id="st_codelock">
-		<text>Кодовый замок ($$ACTION_USE$$)</text>
+		<text>Zamek szyfrowy ($$ACTION_USE$$)</text>
 	</string>
 	<string id="to_aes">
-		<text>На ЧАЭС</text>
+		<text>Do Elektrowni</text>
 	</string>
 	<string id="to_agroprom">
-		<text>На Агропром</text>
+		<text>Do Agropromu</text>
 	</string>
 	<string id="to_agroprom_underground">
-		<text>В катакомбы</text>
+		<text>Do podziemi</text>
 	</string>
 	<string id="to_bar">
-		<text>На Росток</text>
+		<text>Do Rostok</text>
 	</string>
 	<string id="to_darkvalley">
-		<text>В темную долину</text>
+		<text>Do Ciemnej Doliny</text>
 	</string>
 	<string id="to_escape">
-		<text>На кордон</text>
+		<text>Do Kordonu</text>
 	</string>
 	<string id="to_garbage">
-		<text>На свалку</text>
+		<text>Na Wysypisko</text>
 	</string>
 	<string id="to_military">
-		<text>На склады</text>
+		<text>Do Magazynуw</text>
 	</string>
 	<string id="to_pripyat">
-		<text>На Припять</text>
+		<text>Do Prypeci</text>
 	</string>
 	<string id="to_radar">
-		<text>К "Выжигателю мозгов"</text>
+		<text>Do "Zwкglacza Mуzgu"</text>
 	</string>
 	<string id="to_rostok">
-		<text>На дикую территорию</text>
+		<text>Do Rostok</text>
 	</string>
 	<string id="to_yantar">
-		<text>На Янтарь</text>
+		<text>Do Jantaru</text>
 	</string>
 	<string id="st_helmet_countdown">
-		<text>Отключение защиты</text>
+		<text>Wyі№czanie ochrony</text>
 	</string>
 	<string id="st_psy_danger">
-		<text>Критический уровень пси излучения. Немедленно покиньте опасную зону.</text>
+		<text>Krytyczny poziom promieniowania PSI. Natychmiast opuњж strefк zagroїenia.</text>
 	</string>
 	<string id="st_radiation_danger">
-		<text>Опасный уровень радиации. Необходима защита, чтобы пройти.</text>
+		<text>Niebezpieczny poziom promieniowania. Potrzebujesz ochrony, їeby siк przedostaж.</text>
 	</string>
 	<string id="st_found_new_pda">
-		<text>Найдена информация:</text>
+		<text>Znalezione informacje:</text>
 	</string>
 </string_table>

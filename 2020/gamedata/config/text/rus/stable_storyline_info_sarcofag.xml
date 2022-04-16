@@ -1,12 +1,13 @@
 	<string id="sar_command_center_text">
-		<text>Доктор: "Все что ты говорил о Монолите верно - это просто иллюзия, которую наводят из некой лаборатории рядом с Саркофагом... судя по всему, это - единственная возможность пробраться к настоящей тайне Зоны...Которую ты всегда пытался разгадать."</text>
+		<text>Doktor: "Wszystko, co mуwiіeњ o Monolicie, to prawda. To tylko iluzja, wytwarzana przez laboratorium znajduj№ce siк niedaleko Sarkofagu... Њmiem s№dziж, їe to jedyny sposуb na poznanie prawdziwych tajemnic Zony... Tych, ktуre zawsze chciaіeњ poznaж".</text>
 	</string>
 	<string id="sar_monolith_call_text">
-		<text>Я слышал зов Монолита. Он звал меня к себе. Следует пойти к нему и получить ответы на все вопросы.</text>
+		<text>Sіyszaіem zew Monolitu. Wzywaі mnie do siebie. Powinienem tam pуjњж i zdobyж odpowiedzi na wszystkie pytania.</text>
 	</string>
 	<string id="sar_secret_lab_text">
-		<text>Доктор: "В общем так, есть декодер для открытия двери, ведущей к системе управления Монолитом. Декодер спрятан в тайнике на Припяти. Координаты тайника и ключ к нему я тебе даю. Возьмешь декодер, найдешь в саркофаге нужную дверь, а там...ну а там - по обстановке."</text>
+		<text>Doktor: "W zasadzie tak: istnieje dekoder, ktуry otwiera drzwi prowadz№ce do systemu sterowania Monolitu. Ukryto go w schowku w Prypeci. Tu masz wspуіrzкdne schowka i klucz. Weџmiesz dekoder, znajdziesz wіaњciwe drzwi w sarkofagu, a potem... Potem - zaleїnie od okolicznoњci".</text>
 	</string>
 	<string id="zones_mystery_text">
-		<text>Ты все-таки дошел, сталкер. А ты оказался намного сильнее, чем нам вначале казалось. Ну что ж, пришло время поговорить. Иди на сигнал, мы будем тебя ждать.</text>
+		<text>Jednak doszedіeњ, stalkerze. Okazaіeњ siк o wiele silniejszy, niї pocz№tkowo nam siк wydawaіo. No cуї... Nadszedі czas, їebyњmy porozmawiali. Kieruj siк w stronк sygnaіu. Bкdziemy na ciebie czekaж.</text>
 	</string>
+

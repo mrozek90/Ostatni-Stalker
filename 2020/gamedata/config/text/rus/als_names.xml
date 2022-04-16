@@ -1,1481 +1,1481 @@
-<?xml version="1.0" encoding="windows-1251"?>
+<?xml version="1.0" encoding="windows-1250"?>
 <string_table>
 
 	<string id="tushkano_strong">
-		<text>тушканчик, крупный</text>
+		<text>Skoczek zabуjca</text>
 	</string>
 
 	<string id="usarmy_novice">
-		<text>морской пехотинец, новичок</text>
+		<text>Marine, szeregowy</text>
 	</string>
 	<string id="usarmy_regular">
-		<text>морской пехотинец, опытный</text>
+		<text>Marine, doњwiadczony</text>
 	</string>
 	<string id="usarmy_veteran">
-		<text>морской пехотинец, ветеран</text>
+		<text>Marine, weteran</text>
 	</string>
 	<string id="usarmy_master">
-		<text>морской пехотинец, мастер</text>
+		<text>Marine, mistrz</text>
 	</string>
 
 	<string id="shamray_gang_novice">
-		<text>группа Шамрая, новичок</text>
+		<text>Gang Szramy, nowicjusz</text>
 	</string>
 	<string id="shamray_gang_regular">
-		<text>группа Шамрая, опытный</text>
+		<text>Gang Szramy, doњwiadczony</text>
 	</string>
 	<string id="shamray_gang_veteran">
-		<text>группа Шамрая, ветеран</text>
+		<text>Gang Szramy, weteran</text>
 	</string>
 	<string id="shamray_gang_master">
-		<text>группа Шамрая, мастер</text>
+		<text>Gang Szramy, mistrz</text>
 	</string>
 
 	<string id="bb_novice">
-		<text>бандит, новичок</text>
+		<text>Bandyta, nowicjusz</text>
 	</string>
 	<string id="bb_regular">
-		<text>бандит, опытный</text>
+		<text>Bandyta, doњwiadczony</text>
 	</string>
 	<string id="bb_veteran">
-		<text>бандит, ветеран</text>
+		<text>Bandyta, weteran</text>
 	</string>
 	<string id="bb_master">
-		<text>бандит, мастер</text>
+		<text>Bandyta, mistrz</text>
 	</string>
-	
+
 	<string id="stranger_novice">
-		<text>черный рейдер, новичок</text>
+		<text>Czarny najeџca, nowicjusz</text>
 	</string>
 	<string id="stranger_experienced">
-		<text>черный рейдер, опытный</text>
+		<text>Czarny najeџca, doњwiadczony</text>
 	</string>
 	<string id="stranger_veteran">
-		<text>черный рейдер, ветеран</text>
+		<text>Czarny najeџca, weteran</text>
 	</string>
 	<string id="stranger_master">
-		<text>черный рейдер, мастер</text>
+		<text>Czarny najeџca, mistrz</text>
 	</string>
 
 	<string id="degen_novice">
-		<text>выродок, новичок</text>
+		<text>Degenerat, nowicjusz</text>
 	</string>
 	<string id="degen_regular">
-		<text>выродок, опытный</text>
+		<text>Degenerat, doњwiadczony</text>
 	</string>
 	<string id="degen_veteran">
-		<text>выродок, ветеран</text>
+		<text>Degenerat, weteran</text>
 	</string>
 	<string id="degen_master">
-	<text>выродок, мастер</text>
+	<text>Degenerat, mistrz</text>
 	</string>
 
 
 
 
 	<string id="bandit_moldovan_name">
-		<text>Котя Молдован</text>
+		<text>Kotia Moldowan</text>
 	</string>
 
 	<string id="sor_mitjay_name">
-		<text>Митяй</text>
+		<text>Mitia</text>
 	</string>
 
 	<string id="borman_name">
-		<text>Леша Борман</text>
+		<text>Lesza Borman</text>
 	</string>
 
 	<string id="gunman_name">
-		<text>Стрелок</text>
+		<text>Stierіok</text>
 	</string>
 
 	<string id="esc_werwolf_name">
-		<text>Проводник</text>
+		<text>Konduktor</text>
 	</string>
 
 	<string id="esc_creazy_name">
-		<text>Паша-Машина</text>
+		<text>Heszke-Meszke</text>
 	</string>
 
 	<string id="greece_name">
-		<text>Грек</text>
+		<text>Grek</text>
 	</string>
 
 	<string id="gr_budulay_name">
-		<text>Гриша Будулай</text>
+		<text>Grisza Budulaj</text>
 	</string>
 
 	<string id="iron_mask_name">
-		<text>Меняющий Лица</text>
+		<text>Doppler</text>
 	</string>
 
 	<string id="satan_name">
-		<text>Сатана</text>
+		<text>Szatan</text>
 	</string>
 
 	<string id="pope_vitaly_name">
-		<text>о.Виталий</text>
+		<text>o. Witalij</text>
 	</string>
 
 	<string id="marsh_monk_1_name">
-		<text>о.Геннадий</text>
+		<text>o.Gienadij</text>
 	</string>
 
 	<string id="marsh_monk_2_name">
-		<text>о.Павел</text>
+		<text>o.Paweі</text>
 	</string>
 
 	<string id="marsh_monk_3_name">
-		<text>о.Алексий</text>
+		<text>o.Aleksiej</text>
 	</string>
 
 	<string id="marsh_monk_4_name">
-		<text>о.Андрий</text>
+		<text>o.Andrzej</text>
 	</string>
 
 	<string id="marsh_monk_5_name">
-		<text>о.Константин</text>
+		<text>o.Konstanty</text>
 	</string>
 
 	<string id="marsh_monk_6_name">
-		<text>о.Онуфрий</text>
+		<text>o.Onufrij</text>
 	</string>
 
 	<string id="marsh_monk_7_name">
-		<text>о.Николай</text>
+		<text>o.Mikoіaj</text>
 	</string>
 
 	<string id="marsh_monk_8_name">
-		<text>о.Александр</text>
+		<text>o.Aleksander</text>
 	</string>
 
 	<string id="marsh_monk_9_name">
-		<text>о.Козьма</text>
+		<text>o.Kuџma</text>
 	</string>
 
 	<string id="marsh_monk_10_name">
-		<text>о.Петр</text>
+		<text>o.Piotr</text>
 	</string>
 
 	<string id="marsh_monk_11_name">
-		<text>о.Сергий</text>
+		<text>o.Siergiej</text>
 	</string>
 
 	<string id="marsh_monk_12_name">
-		<text>о.Леонид</text>
+		<text>o.Leonid</text>
 	</string>
 
 	<string id="baza_marsh_provodnik_name">
-		<text>Арап</text>
+		<text>Arap</text>
 	</string>
 
 	<string id="kosta_name">
-		<text>Коста</text>
+		<text>Kosta</text>
 	</string>
 
 	<string id="zulus_name">
-		<text>Зулус</text>
+		<text>Zulus</text>
 	</string>
 
 	<string id="vano_name">
-		<text>Вано</text>
+		<text>Wano</text>
 	</string>
 
 	<string id="degtyarev_name">
-		<text>Дегтярев</text>
+		<text>Degtyariew</text>
 	</string>
 
 	<string id="marsh_trader_name">
-		<text>Хазар</text>
+		<text>Chazar</text>
 	</string>
 
 	<string id="marsh_bandit_01_name">
-		<text>Зяма</text>
+		<text>Szczelina</text>
 	</string>
 
 	<string id="marsh_bandit_02_name">
-		<text>Решетила</text>
+		<text>Durszlak</text>
 	</string>
 
 	<string id="marsh_mute_name">
-		<text>Немой</text>
+		<text>Niemy</text>
 	</string>
 
 	<string id="sor_bar_guard_name">
-		<text>Шума</text>
+		<text>Haіas</text>
 	</string>
 
 	<string id="srgnt_oleynik_name">
-		<text>сержант Олейник</text>
+		<text>sierїant Olejnik</text>
 	</string>
 
 	<string id="yo_dead_dolg_name">
-		<text>сержант Громов</text>
+		<text>sierїant Gromow</text>
 	</string>
 
 	<string id="yakovlev_name">
-		<text>лейтенант Яковлев</text>
+		<text>porucznik Jakowlew</text>
 	</string>
 
 	<string id="ivancov_name">
-		<text>майор Иванцов</text>
+		<text>major Iwancow</text>
 	</string>
 
 	<string id="pinochet_name">
-		<text>Пиночет</text>
+		<text>Pinochet</text>
 	</string>
 
 	<string id="bastard_name">
-		<text>.</text>
+		<text>Јajza.</text>
 	</string>
 
 	<string id="khron_name">
-		<text>Хрон</text>
+		<text>Chron</text>
 	</string>
 
 	<string id="gosha_rezaniy_name">
-		<text>Гоша Резанный</text>
+		<text>Gosza Rezany</text>
 	</string>
 
 	<string id="andrew_name">
-		<text>Андрей Че</text>
+		<text>Andiej Cze</text>
 	</string>
 
 	<string id="breden_name">
-		<text>Бредень</text>
+		<text>Delirka</text>
 	</string>
 
 	<string id="cptn_harchenko_name">
-		<text>капитан Харченко</text>
+		<text>kapitan Charczenko</text>
 	</string>
 
 	<string id="dfs_killer_1_name">
-		<text>Мартьян</text>
+		<text>Martjan</text>
 	</string>
 
 	<string id="dfs_killer_2_name">
-		<text>Деня Кривой</text>
+		<text>Krwawa Denia</text>
 	</string>
 
 	<string id="dfs_killer_3_name">
-		<text>Хилер</text>
+		<text>Wrуїek</text>
 	</string>
 
 	<string id="dfs_stalker_freedom_commander_name">
-		<text>Златич</text>
+		<text>Zlatycz</text>
 	</string>
 
 	<string id="dfs_stalker_freedom_gruver_name">
-		<text>Грувер</text>
+		<text>Grower</text>
 	</string>
 
 	<string id="dfs_stalker_freedom_bayda_name">
-		<text>Байда</text>
+		<text>Motocyklista</text>
 	</string>
 
 	<string id="atp_freedom_trader_name">
-		<text>Кремень</text>
+		<text>Krzemieс</text>
 	</string>
 
 	<string id="dfs_freedom_mexanik_name">
-		<text>Громобой</text>
+		<text>Grom</text>
 	</string>
 
 	<string id="kovzur_bandit_sutuly_name">
-		<text>Сутулый</text>
+		<text>Garbaty</text>
 	</string>
 
 	<string id="rf_dead_stalker_1_name">
-		<text>Захар</text>
+		<text>Zachar</text>
 	</string>
 
 	<string id="rf_dead_stalker_2_name">
-		<text>Курок</text>
+		<text>Kurek</text>
 	</string>
 
 	<string id="rf_dead_stalker_3_name">
-		<text>Паук</text>
+		<text>Paj№k</text>
 	</string>
 
 	<string id="red_killer_3_name">
-		<text>Гастон</text>
+		<text>Gaston</text>
 	</string>
 
 	<string id="red_killer_1_name">
-		<text>Сайгак</text>
+		<text>Suchar</text>
 	</string>
 
 	<string id="red_killer_2_name">
-		<text>Желтый</text>
+		<text>Їуіtek</text>
 	</string>
 
 	<string id="red_killer_chieff_name">
-		<text>Китаец</text>
+		<text>Zaj№c</text>
 	</string>
 
 	<string id="dsf_scientist_1_name">
-		<text>доктор Степной</text>
+		<text>doktor Stefan</text>
 	</string>
 
 	<string id="dsf_scientist_2_name">
-		<text>м.н.с Рогов</text>
+		<text>mі. badacz Rogow</text>
 	</string>
 
 	<string id="dsf_scientist_3_name">
-		<text>м.н.с. Щукин</text>
+		<text>mі. badacz Szczukin</text>
 	</string>
 
 	<string id="dsf_scientist_4_name">
-		<text>м.н.с. Баранов</text>
+		<text>mі. badacz Baran</text>
 	</string>
 
 	<string id="rad_us_commando_1_name">
-		<text>сержант Ламбер</text>
+		<text>sierїant Lambert</text>
 	</string>
 
 	<string id="rad_us_commando_2_name">
-		<text>рядовой Корбет</text>
+		<text>szeregowy Corbett</text>
 	</string>
 
 	<string id="rad_us_commando_3_name">
-		<text>капрал Форд</text>
+		<text>kapitan Ford</text>
 	</string>
 
 	<string id="rad_us_commando_4_name">
-		<text>рядовой Васкес</text>
+		<text>szeregowy Vasquez</text>
 	</string>
 
 	<string id="rad_us_commando_5_name">
-		<text>рядовой Тейлор</text>
+		<text>szeregowy Taylor</text>
 	</string>
 
 	<string id="rad_us_commando_6_name">
-		<text>рядовой Янг</text>
+		<text>szeregowy Yang</text>
 	</string>
 
 	<string id="rad_us_commando_7_name">
-		<text>рядовой Морита</text>
+		<text>szeregowy Maritz</text>
 	</string>
 
 	<string id="deymos_name">
-		<text>Деймос</text>
+		<text>Deimos</text>
 	</string>
 
 	<string id="molokh_name">
-		<text>Молох</text>
+		<text>Moloch</text>
 	</string>
 
 	<string id="nemez_name">
-		<text>Немец</text>
+		<text>Niemiec</text>
 	</string>
 
 	<string id="cpr_sinebrukhov_name">
-		<text>капрал Синебрюхов</text>
+		<text>kapral Sinebrukow</text>
 	</string>
 
 	<string id="slaven_name">
-		<text>Славен</text>
+		<text>Јadny</text>
 	</string>
 
 	<string id="andry_name">
-		<text>Андрей Че</text>
+		<text>Andriej Cz</text>
 	</string>
 
 	<string id="sanja_tzar_name">
-		<text>Саня Царь</text>
+		<text>Sanja Car</text>
 	</string>
 
 	<string id="serg_tzar_name">
-		<text>Серега Царь</text>
+		<text>Sierioїa Car</text>
 	</string>
 
 	<string id="timych_name">
-		<text>Тимоха Мерк</text>
+		<text>Timok Merk</text>
 	</string>
 
 	<string id="egor_name">
-		<text>Егор Гончар</text>
+		<text>Egor Garncarz</text>
 	</string>
 
 	<string id="kovzur_bandit_khabarych_name">
-		<text>Хабарыч</text>
+		<text>Јapуwkarz</text>
 	</string>
 
 	<string id="dolg_zombie_khvostov_name">
-		<text>лейтенант Хвостов</text>
+		<text>porucznik Chwostow</text>
 	</string>
 
 	<string id="dc_krank_1_name">
-		<text>Вова-Очкарик</text>
+		<text>Okularnik</text>
 	</string>
 
 	<string id="dc_krank_2_name">
-		<text>сержант Грач</text>
+		<text>sierїant Krank</text>
 	</string>
 
 	<string id="dc_krank_3_name">
-		<text>Сальвадор</text>
+		<text>Salwador</text>
 	</string>
 
 	<string id="dc_krank_4_name">
-		<text>Юра-Медик</text>
+		<text>Jura Medyk</text>
 	</string>
 
 	<string id="dc_krank_5_name">
-		<text>сержант Беридзе</text>
+		<text>sierїant Bericz</text>
 	</string>
 
 	<string id="dc_krank_6_name">
-		<text>Бунч</text>
+		<text>Buncz</text>
 	</string>
 
 	<string id="dc_krank_7_name">
-		<text>рядовой Семенов</text>
+		<text>szeregowy Siemionow</text>
 	</string>
 
 	<string id="dc_krank_8_name">
-		<text>рядовой Харитонов</text>
+		<text>szeregowy Charitonow</text>
 	</string>
 
 	<string id="dc_krank_9_name">
-		<text>рядовой Фролов</text>
+		<text>szeregowy Froі</text>
 	</string>
 
 	<string id="dc_krank_10_name">
-		<text>рядовой Харченко</text>
+		<text>szeregowy Charczeno</text>
 	</string>
 
 	<string id="dc_krank_11_name">
-		<text>рядовой Кузьмин</text>
+		<text>szeregowy Kuџmicz</text>
 	</string>
 
 	<string id="dc_krank_12_name">
-		<text>рядовой Брамс</text>
+		<text>szeregowy Brams</text>
 	</string>
 
 	<string id="dc_krank_13_name">
-		<text>сержант Семин</text>
+		<text>szeregowy Semin</text>
 	</string>
 
 	<string id="dc_krank_14_name">
-		<text>Игорь Знацкий</text>
+		<text>Igor Znacki</text>
 	</string>
 
 	<string id="dc_krank_15_name">
-		<text>лейтенант Паршин</text>
+		<text>porucznik Parszywy</text>
 	</string>
 
 	<string id="dc_krank_16_name">
-		<text>Коля Суровый</text>
+		<text>Kola Surowy</text>
 	</string>
 
 	<string id="dc_krank_17_name">
-		<text>Шумахер</text>
+		<text>Schumacher</text>
 	</string>
 
 	<string id="dc_krank_18_name">
-		<text>рядовой Гричулин</text>
+		<text>szeregowy Grichulin</text>
 	</string>
 
 	<string id="dc_krank_19_name">
-		<text>сержант Романов</text>
+		<text>sierїant Romanow</text>
 	</string>
 
 	<string id="dc_krank_20_name">
-		<text>рядовой Мошаров</text>
+		<text>szeregowy Moszarow</text>
 	</string>
 
 	<string id="dc_krank_21_name">
-		<text>рядовой Нестеров</text>
+		<text>szeregowy Niesterow</text>
 	</string>
 
 	<string id="dc_fly_name">
-		<text>доцент Мухин</text>
+		<text>prof. n. Muhin</text>
 	</string>
 
 	<string id="dfs_xeno_guard_name">
-		<text>страж</text>
+		<text>Straїnik</text>
 	</string>
 
 	<string id="dc_grc_chief_name">
-		<text>капитан Лещев</text>
+		<text>kapitan Leszczew</text>
 	</string>
 
 	<string id="dolg_reznikov_name">
-		<text>Степан Резников</text>
+		<text>Stefan Reznikow</text>
 	</string>
 
 	<string id="dfs_aes2_dolg_commander_name">
-		<text>капитан Уваров</text>
+		<text>kapitan Uwarow</text>
 	</string>
 
 	<string id="col_panzer">
-		<text>полковник Панцер</text>
+		<text>puіkownik Grenadier</text>
 	</string>
 
 	<string id="ltnt_yakovlev_name">
-		<text>лейтенант Яковлев</text>
+		<text>porucznik Jakowlew</text>
 	</string>
 
 	<string id="old_gar_sinoptic_name">
-		<text>Синоптик</text>
+		<text>Synoptyk</text>
 	</string>
 
 	<string id="stalker_sinoptic_0_name">
-		<text>Миха Мурзов</text>
+		<text>Misza Murzow</text>
 	</string>
 
 	<string id="stalker_sinoptic_1_name">
-		<text>Бэн</text>
+		<text>Ben</text>
 	</string>
 
 	<string id="atp_hunter_1_name">
-		<text>Аркаша-Алкан</text>
+		<text>Alkan</text>
 	</string>
 
 	<string id="atp_hunter_2_name">
-		<text>Сумбур</text>
+		<text>Baіagan</text>
 	</string>
 
 	<string id="atp_hunter_3_name">
-		<text>Балабаш</text>
+		<text>Barabasz</text>
 	</string>
 
 	<string id="w_pri_stranger_name">
-		<text>неизвестный</text>
+		<text>Nieznajomy</text>
 	</string>
 
 	<string id="w_pri_dolg_trader_name">
-		<text>майор Кульчицкий</text>
+		<text>major Kulczycki</text>
 	</string>
 
 	<string id="w_pri_tradeguard_name">
-		<text>сержант Олуша</text>
+		<text>sierїant Gіuptak</text>
 	</string>
 
 	<string id="budulay_name">
-		<text>Гриша Будулай</text>
+		<text>Budulai</text>
 	</string>
 
 	<string id="ermol_name">
-		<text>Ермол</text>
+		<text>Jermol</text>
 	</string>
 
 	<string id="dfs_bezm_name">
-		<text>прапорщик Безматерный</text>
+		<text>chor№їy Sierota</text>
 	</string>
 
 	<string id="dfs_besjak_name">
-		<text>Бесяк</text>
+		<text>Besjak</text>
 	</string>
 
 	<string id="dfs_koval_name">
-		<text>Коваль</text>
+		<text>Kowal</text>
 	</string>
 
 	<string id="dfs_vepr_name">
-		<text>Вепрь</text>
+		<text>Wiepr</text>
 	</string>
 
 	<string id="dfs_locman_name">
-		<text>Лоцман</text>
+		<text>Pilot</text>
 	</string>
 
 	<string id="dfs_kiribaev_name">
-		<text>старшина Кирибаев</text>
+		<text>st. bosman Kiribajew</text>
 	</string>
 
 	<string id="pakhan_kovzur_name">
-		<text>батька Ковцур</text>
+		<text>Tatko Kowzur</text>
 	</string>
 
 	<string id="cptn_yaroslavkin_name">
-		<text>капитан Ярославкин</text>
+		<text>kapitan Jarosіawkin</text>
 	</string>
 
 	<string id="vovan_mechanic_name">
-		<text>Вован-механик</text>
+		<text>mechanik Wowan</text>
 	</string>
 
 	<string id="w_pri_neutral_leader_name">
-		<text>Юра Камбоджа</text>
+		<text>Jura z Kambodїy</text>
 	</string>
 
 	<string id="w_pri_stalker_killer_chieff_name">
-		<text>Слон</text>
+		<text>Sіoс</text>
 	</string>
 
 	<string id="w_pri_dead_killer_name">
-		<text>Пастор</text>
+		<text>Pastor</text>
 	</string>
 
 	<string id="w_pri_killer_sniper_name">
-		<text>Цейс</text>
+		<text>Zeiss</text>
 	</string>
 
 	<string id="story_pda_kira_name">
-		<text>Кира</text>
+		<text>Kira</text>
 	</string>
 
 	<string id="us_dead_scientist_name">
-		<text>-</text>
+		<text>dr Brakpulsuow</text>
 	</string>
 
 	<string id="stalker_dimon_name">
-		<text>Саня Галаш</text>
+		<text>Sanja Gaіasz</text>
 	</string>
 
 
 
 	<string id="nato_novice">
-		<text>СБ GRC, новичок</text>
+		<text>sierї. GRC, nowicjusz</text>
 	</string>
 	<string id="nato_regular">
-		<text>СБ GRC, опытный</text>
+		<text>sierї. GRC, doњwiadczony</text>
 	</string>
 	<string id="nato_veteran">
-		<text>СБ GRC, ветеран</text>
+		<text>sierї. GRC, weteran</text>
 	</string>
 	<string id="nato_master">
-		<text>СБ GRC, мастер</text>
+		<text>sierї. GRC, mistrz</text>
 	</string>
 
 	<string id="army_novice">
-		<text>военный, новичок</text>
+		<text>Їoіnierz, nowicjusz</text>
 	</string>
 	<string id="army_regular">
-		<text>военный, опытный</text>
+		<text>Їoіnierz, doњwiadczony</text>
 	</string>
 	<string id="army_veteran">
-		<text>военный, ветеран</text>
+		<text>Їoіnierz, weteran</text>
 	</string>
 	<string id="army_master">
-		<text>военный, мастер</text>
+		<text>Їoіnierz, mistrz</text>
 	</string>
 
 	<string id="exmon_novice">
-		<text>ветеран, новичок</text>
+		<text>Weteran, nowicjusz</text>
 	</string>
 	<string id="exmon_regular">
-		<text>ветеран, опытный</text>
+		<text>Weteran, doњwiadczony</text>
 	</string>
 	<string id="exmon_veteran">
-		<text>ветеран, ветеран</text>
+		<text>Weteran, weteran</text>
 	</string>
 	<string id="exmon_master">
-		<text>ветеран, мастер</text>
+		<text>Weteran, mistrz</text>
 	</string>
 
 	<string id="mogilshik_gang_novice">
-		<text>группа Могильщика, новичок</text>
+		<text>Gang Grabarza, nowicjusz</text>
 	</string>
 	<string id="mogilshik_gang_regular">
-		<text>группа Могильщика, опытный</text>
+		<text>Gang Grabarza, doњwiadczony</text>
 	</string>
 	<string id="mogilshik_gang_veteran">
-		<text>группа Могильщика, ветеран</text>
+		<text>Gang Grabarza, weteran</text>
 	</string>
 	<string id="mogilshik_gang_master">
-		<text>группа Могильщика, мастер</text>
+		<text>Gang Grabarza, mistrz</text>
 	</string>
 
 	<string id="tankist_gang_novice">
-		<text>группа Танкиста, новичок</text>
+		<text>Gang Czoіgisty, nowicjusz</text>
 	</string>
 	<string id="tankist_gang_regular">
-		<text>группа Танкиста, опытный</text>
+		<text>Gang Czoіgisty, doњwiadczony</text>
 	</string>
 	<string id="tankist_gang_veteran">
-		<text>группа Танкиста, ветеран</text>
+		<text>Gang Czoіgisty, weteran</text>
 	</string>
 	<string id="tankist_gang_master">
-		<text>группа Танкиста, мастер</text>
+		<text>Gang Czoіgisty, mistrz</text>
 	</string>
 
 	<string id="galash_gang_novice">
-		<text>группа Галаша, новичок</text>
+		<text>Gang Gaіasza, nowicjusz</text>
 	</string>
 	<string id="galash_gang_regular">
-		<text>группа Галаша, опытный</text>
+		<text>Gang Gaіasza, doњwiadczony</text>
 	</string>
 	<string id="galash_gang_veteran">
-		<text>группа Галаша, ветеран</text>
+		<text>Gang Gaіasza, weteran</text>
 	</string>
 	<string id="galash_gang_master">
-		<text>группа Галаша, мастер</text>
+		<text>Gang Gaіasza, mistrz</text>
 	</string>
 
 	<string id="uzbek_gang_novice">
-		<text>группа Узбека, новичок</text>
+		<text>Gang Uzbeka, nowicjusz</text>
 	</string>
 	<string id="uzbek_gang_regular">
-		<text>группа Узбека, опытный</text>
+		<text>Gang Uzbeka, doњwiadczony</text>
 	</string>
 	<string id="uzbek_gang_veteran">
-		<text>группа Узбека, ветеран</text>
+		<text>Gang Uzbeka, weteran</text>
 	</string>
 	<string id="uzbek_gang_master">
-		<text>группа Узбека, мастер</text>
+		<text>Gang Uzbeka, mistrz</text>
 	</string>
 
 	<string id="sinoptik_gang_novice">
-		<text>группа Синоптика, новичок</text>
+		<text>Gang Synoptyka, nowicjusz</text>
 	</string>
 	<string id="sinoptik_gang_regular">
-		<text>группа Синоптика, опытный</text>
+		<text>Gang Synoptyka, doњwiadczony</text>
 	</string>
 	<string id="sinoptik_gang_veteran">
-		<text>группа Синоптика, ветеран</text>
+		<text>Gang Synoptyka, weteran</text>
 	</string>
 	<string id="sinoptik_gang_master">
-		<text>группа Синоптика, мастер</text>
+		<text>Gang Synoptyka, mistrz</text>
 	</string>
 
 	<string id="waterrat_gang_novice">
-		<text>группа Водяной Крысы, новичок</text>
+		<text>Gang Karczownika, nowicjusz</text>
 	</string>
 	<string id="waterrat_gang_regular">
-		<text>группа Водяной Крысы, опытный</text>
+		<text>Gang Karczownika, doњwiadczony</text>
 	</string>
 	<string id="waterrat_gang_veteran">
-		<text>группа Водяной Крысы, ветеран</text>
+		<text>Gang Karczownika, weteran</text>
 	</string>
 	<string id="waterrat_gang_master">
-		<text>группа Водяной Крысы, мастер</text>
+		<text>Gang Karczownika, mistrz</text>
 	</string>
 
 	<string id="mackleens_gang_novice">
-		<text>группа Макклинза, новичок</text>
+		<text>Gang Maklina, nowicjusz</text>
 	</string>
 	<string id="mackleens_gang_regular">
-		<text>группа Макклинза, опытный</text>
+		<text>Gang Maklina, doњwiadczony</text>
 	</string>
 	<string id="mackleens_gang_veteran">
-		<text>группа Макклинза, ветеран</text>
+		<text>Gang Maklina, weteran</text>
 	</string>
 	<string id="mackleens_gang_master">
-		<text>группа Макклинза, мастер</text>
+		<text>Gang Maklina, mistrz</text>
 	</string>
 
 	<string id="police_novice">
-		<text>полиция, новичок</text>
+		<text>Policja, nowicjusz</text>
 	</string>
 	<string id="police_regular">
-		<text>полиция, опытный</text>
+		<text>Policja, doњwiadczony</text>
 	</string>
 	<string id="police_veteran">
-		<text>полиция, ветеран</text>
+		<text>Policja, weteran</text>
 	</string>
 	<string id="police_master">
-		<text>полиция, мастер</text>
+		<text>Policja, mistrz</text>
 	</string>
 
 	<string id="shamray_name">
-		<text>Шамрай</text>
+		<text>Szrama</text>
 	</string>
 
 	<string id="deadman_name">
-		<text>Дэдмэн</text>
+		<text>Umarlak</text>
 	</string>
 
 	<string id="simon_name">
-		<text>Симон</text>
+		<text>Simon</text>
 	</string>
 
 	<string id="dutiy_name">
-		<text>Дутый</text>
+		<text>Powinnoњж</text>
 	</string>
 
 	<string id="chuma_name">
-		<text>Чума</text>
+		<text>Dїuma</text>
 	</string>
 
 	<string id="galash_name">
-		<text>Саня Галаш</text>
+		<text>Sanja Gaіasz</text>
 	</string>
 
 	<string id="esc_cptn_krasnov_name">
-		<text>капитан Краснов</text>
+		<text>kapitan Krasnow/text>
 	</string>
 
 	<string id="shilo_name">
-		<text>Коля Шило</text>
+		<text>Kolia Szydіo</text>
 	</string>
 
 	<string id="tarakan_name">
-		<text>Леха Таракан</text>
+		<text>Lech Karaluch</text>
 	</string>
 
 	<string id="hohmach_name">
-		<text>Хохмач</text>
+		<text>Zgrywus</text>
 	</string>
 
 	<string id="soplja_name">
-		<text>Коля Сопля</text>
+		<text>Kolia Smark</text>
 	</string>
 
 	<string id="bosjak_name">
-		<text>Босяк</text>
+		<text>Wіуczкga</text>
 	</string>
 
 	<string id="major_name">
-		<text>Мэр</text>
+		<text>Mer</text>
 	</string>
 
 	<string id="hronik_name">
-		<text>Степа-хроник</text>
+		<text>kronikarz Stiepa</text>
 	</string>
 
 	<string id="artist_name">
-		<text>Артист</text>
+		<text>Artysta</text>
 	</string>
 
 	<string id="bulyga_name">
-		<text>Булыга</text>
+		<text>Buіyga</text>
 	</string>
 
 	<string id="rabbin_name">
-		<text>Мишка-раввин</text>
+		<text>rabin Miszka</text>
 	</string>
 
 	<string id="sportsman_name">
-		<text>Пан-Спортсмен</text>
+		<text>Akrobata</text>
 	</string>
 
 	<string id="pojarnik_name">
-		<text>Пожарник</text>
+		<text>Straїak</text>
 	</string>
 
 	<string id="primus_name">
-		<text>Примус</text>
+		<text>Prymus</text>
 	</string>
 
 	<string id="shnyra_name">
-		<text>Шныра</text>
+		<text>Szmalcownik</text>
 	</string>
 
 	<string id="hazar_name">
-		<text>Хазар</text>
+		<text>Chazar</text>
 	</string>
 
 	<string id="murza_name">
-		<text>Мурза-татарин</text>
+		<text>tatar Murza</text>
 	</string>
 
 	<string id="dyatel_name">
-		<text>Дятел</text>
+		<text>Dziкci№і</text>
 	</string>
 
 	<string id="barchuk_name">
-		<text>Барчук</text>
+		<text>Panicz</text>
 	</string>
 
 	<string id="basjavyi_name">
-		<text>Басявый</text>
+		<text>Basjawi</text>
 	</string>
 
 	<string id="volchok_name">
-		<text>Волчок</text>
+		<text>B№k</text>
 	</string>
 
 	<string id="demon_girl_name">
-		<text>***</text>
+		<text>Sukkub</text>
 	</string>
 
 	<string id="demon_boy_name">
-		<text>***</text>
+		<text>Inkub</text>
 	</string>
 
 	<string id="tankist_name">
-		<text>Танкист</text>
+		<text>Czoіgista</text>
 	</string>
 
 	<string id="stalker_tankist_1_name">
-		<text>Мишка Суровый</text>
+		<text>Miszka Surowy</text>
 	</string>
 
 	<string id="stalker_tankist_2_name">
-		<text>Китаец</text>
+		<text>Chinol</text>
 	</string>
 
 	<string id="stalker_tankist_3_name">
-		<text>Рома Басурман</text>
+		<text>Roma Innowierca</text>
 	</string>
 
 	<string id="stalker_tankist_4_name">
-		<text>Ирокез</text>
+		<text>Irokez</text>
 	</string>
 
 	<string id="stalker_tankist_5_name">
-		<text>Боря Битый</text>
+		<text>Boria Bijak</text>
 	</string>
 
 	<string id="stalker_tankist_6_name">
-		<text>Харик Вареник</text>
+		<text>Charik Pieroїek</text>
 	</string>
 
 	<string id="stalker_tankist_7_name">
-		<text>Чебурашка</text>
+		<text>Czeburaszka</text>
 	</string>
 
 	<string id="marsh_galash_stalker_1_name">
-		<text>Тарзан</text>
+		<text>Tarzan</text>
 	</string>
 
 	<string id="marsh_galash_stalker_2_name">
-		<text>Пилот</text>
+		<text>Pilot</text>
 	</string>
 
 	<string id="marsh_galash_stalker_3_name">
-		<text>Бур</text>
+		<text>Њwider</text>
 	</string>
 
 	<string id="marsh_galash_stalker_4_name">
-		<text>Шура-Тайга</text>
+		<text>Tajga</text>
 	</string>
 
 	<string id="marsh_galash_stalker_5_name">
-		<text>Укроп</text>
+		<text>Ukrop</text>
 	</string>
 
 	<string id="uzbek_name">
-		<text>Узбек</text>
+		<text>Uzbek</text>
 	</string>
 
 	<string id="uzbek2_name">
-		<text>Юз-баши</text>
+		<text>Pіoza</text>
 	</string>
 
 	<string id="uzbek_bandit_1_name">
-		<text>Батон</text>
+		<text>Baton</text>
 	</string>
 
 	<string id="uzbek_bandit_2_name">
-		<text>Гарик Динамит</text>
+		<text>Garik Trotyl</text>
 	</string>
 
 	<string id="uzbek_bandit_3_name">
-		<text>Костя Косяк</text>
+		<text>Јamacz</text>
 	</string>
 
 	<string id="uzbek_bandit_4_name">
-		<text>Митька Перо</text>
+		<text>Piуro</text>
 	</string>
 
 	<string id="uzbek_bandit_5_name">
-		<text>Косой</text>
+		<text>Zezowaty</text>
 	</string>
 
 	<string id="uzbek_bandit_6_name">
-		<text>Айболит</text>
+		<text>Pacjent</text>
 	</string>
 
 	<string id="uzbek_bandit_7_name">
-		<text>Пигмей</text>
+		<text>Pigmej</text>
 	</string>
 
 	<string id="uzbek_bandit_8_name">
-		<text>Заяц</text>
+		<text>Zaj№c</text>
 	</string>
 
 	<string id="mackleens_name">
-		<text>Макклинз</text>
+		<text>Maklin</text>
 	</string>
 
 	<string id="mackleens_stalker_1_name">
-		<text>Хирург</text>
+		<text>Chirurg</text>
 	</string>
 
 	<string id="mackleens_stalker_2_name">
-		<text>Ваня Сургут</text>
+		<text>Surgut</text>
 	</string>
 
 	<string id="mackleens_stalker_3_name">
-		<text>Кеша Неволя</text>
+		<text>Niewolnik</text>
 	</string>
 
 	<string id="mackleens_stalker_4_name">
-		<text>Толстый</text>
+		<text>Gruby</text>
 	</string>
 
 	<string id="gena_hacker_name">
-		<text>Гена-Хакер</text>
+		<text>haker Gen</text>
 	</string>
 
 	<string id="haker_bandit_1_name">
-		<text>Рябой</text>
+		<text>Pstry</text>
 	</string>
 
 	<string id="haker_bandit_2_name">
-		<text>Сазан</text>
+		<text>Karp</text>
 	</string>
 
 	<string id="bunch_name">
-		<text>Бунч-Рокер</text>
+		<text>rakietnik Buncz</text>
 	</string>
 
 	<string id="varnak_name">
-		<text>Варнак</text>
+		<text>Barnaba</text>
 	</string>
 
 	<string id="sor_uzbek_bandit_3_name">
-		<text>Тевтон</text>
+		<text>Teuton</text>
 	</string>
 
 	<string id="waterrat_name">
-		<text>Водяная Крыса</text>
+		<text>Karczownik</text>
 	</string>
 
 	<string id="marsh_sevchuk_name">
-		<text>прапорщик Севчук</text>
+		<text>chor№їy Sewczuk</text>
 	</string>
 
 	<string id="barmaley_name">
-		<text>Бармалей</text>
+		<text>Barmalej</text>
 	</string>
 
 	<string id="waterrat_stalker_1_name">
-		<text>Дима Красный</text>
+		<text>Czerwony</text>
 	</string>
 
 	<string id="waterrat_stalker_2_name">
-		<text>Леша Колбаса</text>
+		<text>Kieіbasa</text>
 	</string>
 
 	<string id="waterrat_stalker_3_name">
-		<text>Вадик Грозный</text>
+		<text>Groџny</text>
 	</string>
 
 	<string id="waterrat_stalker_4_name">
-		<text>Вася-Коля</text>
+		<text>Kola</text>
 	</string>
 
 	<string id="waterrat_stalker_5_name">
-		<text>Хамчик</text>
+		<text>Chomik</text>
 	</string>
 
 	<string id="waterrat_stalker_6_name">
-		<text>Вова Модератор</text>
+		<text>Moderator</text>
 	</string>
 
 	<string id="waterrat_stalker_7_name">
-		<text>Степа Ушан</text>
+		<text>Kіapouchy</text>
 	</string>
 
 	<string id="waterrat_stalker_8_name">
-		<text>Юрик Долгорукий</text>
+		<text>Dіugorкki</text>
 	</string>
 
 	<string id="waterrat_stalker_9_name">
-		<text>Ганс</text>
+		<text>Hans</text>
 	</string>
 
 	<string id="waterrat_stalker_10_name">
-		<text>Паровоз</text>
+		<text>Wagon</text>
 	</string>
 
 	<string id="waterrat_stalker_11_name">
-		<text>Ёся Кацман</text>
+		<text>Katzman</text>
 	</string>
 
 	<string id="waterrat_stalker_12_name">
-		<text>Боря Симпсон</text>
+		<text>Simson</text>
 	</string>
 
 	<string id="waterrat_stalker_13_name">
-		<text>Катчер</text>
+		<text>Zapaіek</text>
 	</string>
 
 	<string id="marsh_svoboda_trader_name">
-		<text>Кремень</text>
+		<text>Krzemieс</text>
 	</string>
 
 	<string id="bandit_siply_name">
-		<text>Сиплый</text>
+		<text>Chrypa</text>
 	</string>
-	
+
 	<string id="zyama_name">
-		<text>Зяма</text>
+		<text>Szczelina</text>
 	</string>
 
 	<string id="marsh_svoboda_bayda_name">
-		<text>Байда</text>
+		<text>Motocyklista</text>
 	</string>
 
 	<string id="marsh_svoboda_commander_name">
-		<text>Златич</text>
+		<text>Zlatycz</text>
 	</string>
 
 	<string id="svoboda_robot_name">
-		<text>Вася-Робот</text>
+		<text>robot Wasia</text>
 	</string>
 
 	<string id="sor_autoritet_name">
-		<text>Морфей</text>
+		<text>Morfeusz</text>
 	</string>
 
 	<string id="marsh_svoboda_gruver_name">
-		<text>Грувер</text>
+		<text>Grower</text>
 	</string>
 
 	<string id="marsh_svoboda_mexanik_name">
-		<text>Громобой</text>
+		<text>Gromow</text>
 	</string>
 
 	<string id="lim_scientist_1_name">
-		<text>д-р Пирогов</text>
+		<text>dr. Peugar</text>
 	</string>
 
 	<string id="lim_scientist_2_name">
-		<text>д-р Луценко</text>
+		<text>dr Јucenko</text>
 	</string>
 
 	<string id="lim_dolg_stalker_1_name">
-		<text>Штык</text>
+		<text>Bagnet</text>
 	</string>
 
 	<string id="lim_dolg_stalker_2_name">
-		<text>Рысь</text>
+		<text>Ryњ</text>
 	</string>
 
 	<string id="lim_dolg_stalker_3_name">
-		<text>Медвежонок</text>
+		<text>Niedџwiedџ</text>
 	</string>
 
 	<string id="lim_dolg_stalker_4_name">
-		<text>Лист</text>
+		<text>Lis</text>
 	</string>
 
 	<string id="lim_dolg_stalker_5_name">
-		<text>Картель</text>
+		<text>Kartel</text>
 	</string>
 
 	<string id="lim_dolg_stalker_6_name">
-		<text>Лесовик</text>
+		<text>Leszy</text>
 	</string>
 
 	<string id="lim_dolg_stalker_7_name">
-		<text>Гена Крокодил</text>
+		<text>Krokodyl</text>
 	</string>
 
 	<string id="princeps_name">
-		<text>Принцепс</text>
+		<text>Princeps</text>
 	</string>
 
 	<string id="conductor_name">
-		<text>Проводник</text>
+		<text>Konduktor</text>
 	</string>
 
 	<string id="director_name">
-		<text>Директор</text>
+		<text>Dyrektor</text>
 	</string>
 
 	<string id="strateg_name">
-		<text>Стратег</text>
+		<text>Strateg</text>
 	</string>
 
 	<string id="taktik_name">
-		<text>Тактик</text>
+		<text>Taktyk</text>
 	</string>
 
 	<string id="engineer_name">
-		<text>Инженер</text>
+		<text>Inїynier</text>
 	</string>
 
 	<string id="archiater_name">
-		<text>Архиатер</text>
+		<text>Architekt</text>
 	</string>
 
 	<string id="technician_name">
-		<text>Техник</text>
+		<text>Technik</text>
 	</string>
 
 	<string id="artifex_name">
-		<text>Артифекс</text>
+		<text>Artifex</text>
 	</string>
 
 	<string id="decan_name">
-		<text>Декан</text>
+		<text>Dziekan</text>
 	</string>
 
 	<string id="executor_name">
-		<text>Экзекутор</text>
+		<text>Kat</text>
 	</string>
 
 	<string id="panzhc_arestant_1_name">
-		<text>Крокодил</text>
+		<text>Krokodylek</text>
 	</string>
 
 	<string id="panzhc_arestant_2_name">
-		<text>Лобан</text>
+		<text>Cefal</text>
 	</string>
 
 	<string id="panzhc_arestant_3_name">
-		<text>Дима Нервный</text>
+		<text>Nerwus</text>
 	</string>
 
 	<string id="panzhc_arestant_4_name">
-		<text>Стокер</text>
+		<text>Palacz</text>
 	</string>
 
 	<string id="obamaboy_name">
-		<text>Абамыч</text>
+		<text>Obama</text>
 	</string>
 
 	<string id="als_stalker_dolg_name">
-		<text>Сталкер группировки "Долг"</text>
+		<text>Stalker Powinnoњci</text>
 	</string>
 
 	<string id="grc_agent_name">
-		<text>Пулевич</text>
+		<text>Kulawy</text>
 	</string>
 
 	<string id="grc_kum_name">
-		<text>Кум</text>
+		<text>Kum</text>
 	</string>
 
 	<string id="ltnt_koptelov_name">
-		<text>лейтенант Коптелов</text>
+		<text>porucznik Koptelow</text>
 	</string>
 
 	<string id="sor_ltnt_simonov">
-		<text>лейтенант Симонов</text>
+		<text>porucznik Siemionow</text>
 	</string>
 
 	<string id="kasper_name">
-		<text>Каспер</text>
+		<text>Kacper</text>
 	</string>
 
 	<string id="als_soldier_desant_1_name">
-		<text>ст.сержант Деев</text>
+		<text>st. sierї. Dave</text>
 	</string>
 
 	<string id="als_soldier_desant_2_name">
-		<text>сержант Ильин</text>
+		<text>sierїant Ilyen</text>
 	</string>
 
 	<string id="als_soldier_desant_3_name">
-		<text>рядовой Ершов</text>
+		<text>szeregowy Erszow</text>
 	</string>
 
 	<string id="als_soldier_desant_4_name">
-		<text>сержант Рогов</text>
+		<text>szeregowy Rogow</text>
 	</string>
 
 	<string id="val_killer_langolier_name">
-		<text>Лангольер</text>
+		<text>Landolier</text>
 	</string>
 
 	<string id="val_killer_verny_name">
-		<text>Верный</text>
+		<text>Wierny</text>
 	</string>
 
 	<string id="val_killer_yalta_name">
-		<text>Ялта</text>
+		<text>Jaіta</text>
 	</string>
 
 	<string id="val_killer_chizh_name">
-		<text>Чиж</text>
+		<text>Czyїyk</text>
 	</string>
 
 	<string id="ryaboy_name">
-		<text>Юра Рябой</text>
+		<text>Jura Rjaboi</text>
 	</string>
 
 	<string id="darklab_dead_scientist_name">
-		<text>доктор Браверманн</text>
+		<text>dr. Browerman</text>
 	</string>
 
 	<string id="mil_military_stalker_commander_name">
-		<text>Лео</text>
+		<text>Leo</text>
 	</string>
 
 	<string id="mil_military_stalker_guard_chieff_1_name">
-		<text>Прижмуреный</text>
+		<text>Koks</text>
 	</string>
 
 	<string id="mil_military_stalker_guard_chieff_2_name">
-		<text>Затвор</text>
+		<text>Zamek</text>
 	</string>
 
 	<string id="mil_military_stalker_storekeeper_name">
-		<text>Сом</text>
+		<text>Sum</text>
 	</string>
 
 	<string id="military_stalker_1_name">
-		<text>Авдей</text>
+		<text>Abdiasz</text>
 	</string>
 
 	<string id="military_stalker_2_name">
-		<text>Дима Анальгин</text>
+		<text>Ibum</text>
 	</string>
 
 	<string id="military_stalker_3_name">
-		<text>Дрон</text>
+		<text>Dron</text>
 	</string>
 
 	<string id="military_stalker_4_name">
-		<text>Грач</text>
+		<text>Gracz</text>
 	</string>
 
 	<string id="autoritet_bodyguard_1_name">
-		<text>Вштыреный</text>
+		<text>Bagnet</text>
 	</string>
 
 	<string id="autoritet_bodyguard_2_name">
-		<text>Татарин</text>
+		<text>Tatar</text>
 	</string>
 
 	<string id="autoritet_bodyguard_3_name">
-		<text>Кудрявый</text>
+		<text>Kкdziorek</text>
 	</string>
 
 	<string id="autoritet_bodyguard_4_name">
-		<text>Коробан</text>
+		<text>Koronez</text>
 	</string>
 
 	<string id="buben_name">
-		<text>Бубен</text>
+		<text>Bкben</text>
 	</string>
 
 	<string id="yorsh_name">
-		<text>Ёрш</text>
+		<text>Karmazyn</text>
 	</string>
 
 	<string id="dushman_name">
-		<text>Душман</text>
+		<text>Duszman</text>
 	</string>
 
 	<string id="mogilshik_name">
-		<text>Могильщик</text>
+		<text>Grabarz</text>
 	</string>
 
 	<string id="kuchma_name">
-		<text>Кучма</text>
+		<text>Kuџma</text>
 	</string>
 
 	<string id="gold_name">
-		<text>Золотой</text>
+		<text>Zіoty</text>
 	</string>
 
 	<string id="ltnt_marchenko_name">
-		<text>лейтенант Марченко</text>
+		<text>porucznik Marczenko </text>
 	</string>
 
 	<string id="cptn_gryaznov_name">
-		<text>капитан Грязнов</text>
+		<text>kapitan Brudny</text>
 	</string>
 
 	<string id="ltnt_ivanzov_name">
-		<text>лейтенант Иванцов</text>
+		<text>porucznik Iwancow</text>
 	</string>
 
 	<string id="srg_russkih_name">
-		<text>сержант Русских</text>
+		<text>sierїant Ruski</text>
 	</string>
 
 	<string id="srg_timchenko_name">
-		<text>сержант Тимченко</text>
+		<text>sierїant Timoszenko</text>
 	</string>
 
 	<string id="prv_zvezdizky_name">
-		<text>рядовой Звездицкий</text>
+		<text>sierїant Gwiazda</text>
 	</string>
 
 	<string id="prv_teplov_name">
-		<text>рядовой Теплов</text>
+		<text>szeregowy Ciepіy</text>
 	</string>
 
 	<string id="cptn_parshin_name">
-		<text>капитан Паршин</text>
+		<text>kapitan Parszywy</text>
 	</string>
 
 	<string id="doctor_pyh_name">
-		<text>доктор Пэх</text>
+		<text>doktor Pech</text>
 	</string>
 
 	<string id="val_wild_killer_commander_name">
-		<text>Шокер</text>
+		<text>Paskuda</text>
 	</string>
 
 	<string id="val_wild_killer_operator_name">
-		<text>Оусипи</text>
+		<text>Missisipi</text>
 	</string>
 
 	<string id="grc_lukanov_name">
-		<text>доктор Лукьянов</text>
+		<text>doktor Јukanow </text>
 	</string>
 
 	<string id="scorpio_name">
-		<text>Скорпион</text>
+		<text>Skorpion</text>
 	</string>
 
 	<string id="reanimator_name">
-		<text>Реаниматор</text>
+		<text>Reanimator</text>
 	</string>
 
 	<string id="ltnt_simonov_name">
-		<text>лейтенант Симонов</text>
+		<text>porucznik Simon</text>
 	</string>
 
 	<string id="raider_makar_name">
-		<text>Макар</text>
+		<text>Szczкњciarz</text>
 	</string>
 
 	<string id="raider_novik_name">
-		<text>Новик</text>
+		<text>Nowik</text>
 	</string>
 
 	<string id="raider_gus_name">
-		<text>Гусь</text>
+		<text>Gкњ</text>
 	</string>
 
 	<string id="black_raider_captain_name">
-		<text>капитан</text>
+		<text>kapitan</text>
 	</string>
 
 	<string id="black_raider_lieutenant_name">
-		<text>лейтенант</text>
+		<text>porucznik</text>
 	</string>
 
 	<string id="black_raider_sergeant_name">
-		<text>сержант</text>
+		<text>sierїant</text>
 	</string>
 
 	<string id="black_raider_corporal_name">
-		<text>капрал</text>
+		<text>kapral</text>
 	</string>
 
 	<string id="black_raider_private_name">
-		<text>рядовой</text>
+		<text>szeregowy</text>
 	</string>
 
 	<string id="ltnt_grishin_name">
-		<text>лейтенант Гришин</text>
+		<text>porucznik Griszin</text>
 	</string>
 
 	<string id="zibrov_name">
-		<text>майор Зибров</text>
+		<text>major Zibrow</text>
 	</string>
 
 	<string id="jj_name">
-		<text>JJ</text>
+		<text>Dїej Dїej</text>
 	</string>
 
 	<string id="nomad_name">
-		<text>Кочевник</text>
+		<text>Koczownik</text>
 	</string>
 
 	<string id="nestor_name">
-		<text>Нестор</text>
+		<text>Nestor</text>
 	</string>
 
 	<string id="demiurg_name">
-		<text>Демиург</text>
+		<text>Demiurg</text>
 	</string>
-	
+
 	<string id="val_commandant_name">
-		<text>Дормидонт</text>
+		<text>Dormidot</text>
 	</string>
 
 
@@ -1497,5 +1497,3 @@
 	</string> -->
 
 </string_table>
-
-

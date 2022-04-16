@@ -1,180 +1,186 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 <string id="dinhud_gasmask_text">
-		<text>Нельзя использовать противогаз с этим костюмом.</text>
+		<text>Nie mozna korzystac z maski przeciwgazowej w tym pancerzu.</text>
 	</string>
 <string id="af_maska_1">
-		<text>Противогаз с маской ШМП</text>
+		<text>Maska przeciwgazowa</text>
 	</string>
 		<string id="enc_zone_af_maska_1">
-		<text>Обычный противогаз, в большом количестве производившийся во всех бывших республиках СССР. До сих пор миллионы таких хранятся на складах. Предмет первой необходимости для новичка в Зоне. Предохраняет органы дыхания от радиоактивной пыли, вредных газов и испарений, бактериологических агентов в воздухе. Бегать стометровку в противогазе не рекомендуется.</text>
+		<text>Zwykla maska przeciwgazowa, jakie w duzych ilosciach produkowano we wszystkich bylych republikach ZSSR. Do tej pory miliony takich masek jest przechowywane w magazynach. Artykul pierwszej potrzeby dla nowicjusza w Zonie. Chroni organy oddychania przed promieniotworczym pylem, szkodliwymi gazami, oparami i bakteriami w powietrzu. Bieganie sprintem w masce przeciwgazowej nie jest zalecane.</text>
 	</string>
 	<string id="af_maska_2">
-		<text>Противогаз с маской МАГ-2</text>
+		<text>Nowoczesna maska przeciwgazowa</text>
 	</string>
 		<string id="enc_zone_af_maska_2">
-		<text>Современный противогаз. Предохраняет органы дыхания от радиоактивной пыли, вредных газов и испарений, бактериологических агентов в воздухе. Благодаря современным технологиям обеспечивает лучшую защиту при меньшем сопротивлении дыханию.</text>
+		<text>Nowoczesna maska przeciwgazowa. Chroni organy oddychania przed promieniotworczym pylem, szkodliwymi gazami, oparami i bakteriami w powietrzu. Dzieki nowoczesnym technologiom daje lepsza ochrone przy mniejszym oporze w oddychaniu.</text>
 	</string>
 	<string id="Antirad">
-		<text>Антирадиационные препараты</text>
+		<text>Leki przeciwpromienne</text>
 	</string>
 	<string id="Arm-heavy">
-		<text>Тяжёлое сталкеровское снаряжение</text>
+		<text>Ciezki sprzet stalkera</text>
 	</string>
 	<string id="Arm-light">
-		<text>Лёгкое сталкеровское снаряжение</text>
+		<text>Lekki sprzet stalkera</text>
 	</string>
 	<string id="Arm-medium">
-		<text>Среднее сталкеровское снаряжение</text>
+		<text>Sredni sprzet stalkera</text>
 	</string>
 	<string id="bandage">
-		<text>Бинт</text>
+		<text>Bandaze</text>
 	</string>
 	<string id="Binocul">
-		<text>Бинокль</text>
+		<text>Lornetka</text>
 	</string>
 	<string id="Bread">
-		<text>Хлеб</text>
+		<text>Chleb</text>
 	</string>
 	<string id="cit_deadcity_maps_desc">
-		<text>Подробная карта Мёртвого города, содержащая схему расположения позиций наёмников</text>
+		<text>Szczegolowy plan Martwego Miasta z zaznaczonymi pozycjami najemnikow</text>
 	</string>
 	<string id="cit_deadcity_maps_name">
-		<text>Карта Мёртвого города</text>
+		<text>Plan Martwego Miasta</text>
 	</string>
 	<string id="cit_doctors_key_desc">
-		<text>Ключ Доктора от тайника в Припяти</text>
+		<text>Nalezacy do Doktora klucz do schowka w Prypeci</text>
 	</string>
 	<string id="cit_doctors_key_short_desc">
-		<text>Ключ Доктора</text>
+		<text>Klucz Doktora</text>
 	</string>
 	<string id="Conserva">
-		<text>"Радость туриста"</text>
+		<text>"Rozkosz turysty"</text>
 	</string>
 	<string id="Detect1">
-		<text>Детектор аномалий</text>
+		<text>Detektor anomalii</text>
 	</string>
 	<string id="Devic">
-		<text>Приборы и устройства</text>
+		<text>Przyrzady i urzadzenia</text>
 	</string>
 	<string id="device-PDA">
-		<text>КПК</text>
+		<text>PDA</text>
 	</string>
 	<string id="device-torch">
-		<text>Фонарик</text>
+		<text>Latarka</text>
 	</string>
 	<string id="enc_equipment_armors_arm-heavy">
-		<text>Защитный костюм. Вес – 18 кг. Особенности: защищает тело от "студня", "жгучего пуха", большинства аномалий и механических повреждений. Грудная клетка и спина защищены встроенными биометаллическими пластинами. Оборудован герметичным металлопластиковым шлемом и двумя кислородными баллонами. Внимание: при продолжительном использовании приходит в негодность – повреждается и рвётся.</text>
+		<text>Kombinezon ochronny. Waga: 18 kg. Szczegoly: chroni cialo przed obrazeniami fizycznymi, Galareta, Klujacym Puchem oraz wiekszoscia innych anomalii. Klatka piersiowa i plecy chronione sa przez wbudowane biometaliczne plyty. Kombinezon jest wyposazony we wzmocniony, hermetyczny helm z plastiku i dwie butle z tlenem. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-light">
-		<text>Защитный костюм. Вес – 8 кг. Особенности: защищает тело от воздействия слабых аномалий и механических повреждений. Оборудован кислородной маской. Внимание: при продолжительном использовании приходит в негодность – повреждается и рвётся.</text>
+		<text>Kombinezon ochronny. Waga: 8 kg. Szczegoly: chroni cialo przed slabymi anomaliami i obrazeniami fizycznymi. Wyposazony w maske tlenowa. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
 	</string>
 	<string id="enc_equipment_armors_arm-medium">
-		<text>Защитный костюм. Вес – 12 кг. Особенности: защищает тело от "студня", "жгучего пуха", многих аномалий и механических повреждений. Оборудован герметичным шлемом и кислородным баллоном. Внимание: при продолжительном использовании приходит в негодность – повреждается и рвётся.</text>
+		<text>Kombinezon ochronny. Waga: 12 kg. Szczegoly: chroni cialo przed obrazeniami fizycznymi, Galareta, Klujacym Puchem oraz wieloma innymi anomaliami. Wyposazony w hermetyczny plastikowy helm i butle z tlenem. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
 	</string>
 	<string id="enc_equipment_armors_sci2">
-		<text>Защитный скафандр красного цвета с герметичным шлемом. Вес – 11 кг. Особенности: защищает тело от огня, кислот, газов, воздействия разнообразных аномалий, "жгучего пуха" и механических повреждений. Оборудован двумя кислородными баллонами. Внимание: при продолжительном использовании приходит в негодность – повреждается и рвётся.</text>
+		<text>Czerwony kombinezon cisnieniowy z hermetycznym helmem. Waga: 11 kg. Szczegoly: Chroni cialo przed ogniem, kwasem, toksycznym gazem, roznymi anomaliami (m.in. Klujacym Puchem) i obrazeniami fizycznymi. Wyposazony w dwie butle z tlenem. Uwaga: w czasie dlugotrwalej eksploatacji kombinezon niszczy sie i stopniowo przestaje sie nadawac do uzytku.</text>
 	</string>
 	<string id="enc_equipment_devic_binocul1">
-		<text>Армейский портативный бинокль.</text>
+		<text>Wojskowa lornetka polowa.</text>
 	</string>
 	<string id="enc_equipment_devic_detect1">
-		<text>Устройство, определяющее наличие аномальных полей и возмущений и сообщающее о них звуковым сигналом. Для работы необходимо активировать, разместив прибор на поясе.</text>
+		<text>Urzadzenie sluzace do wykrywania pol anomalii i zaklocen. W razie ich wykrycia wydaje sygnal dzwiekowy. Zeby sprawnie funkcjonowalo, nalezy je przymocowac do pasa i wlaczyc.</text>
 	</string>
 	<string id="enc_equipment_devic_device-PDA1">
-		<text>Карманный персональный компьютер – незаменимое устройство в Зоне.</text>
+		<text>Kieszonkowy komputer osobisty - niezbedna rzecz w Zonie.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1">
-		<text>Фонарик с довольно мощной лампой. Весьма полезная вещь в условиях недостаточной освещённости.</text>
+		<text>Mocna latarka. Bardzo przydatna na niedostatecznie oswietlonym terenie.</text>
 	</string>
 	<string id="enc_equipment_devic_device-torch1_m1">
-		<text>Фонарик с довольно мощной лампой. Благодаря усовершенствованному трансформатору уменьшено время зарядки аккумулятора.</text>
+		<text>Mocna latarka. Dzieki unowoczesnionemu transformatorowi skrocony zostal czas ladowania baterii.</text>
 	</string>
 	<string id="enc_equipment_energydrink">
-		<text>Отличный энергетический напиток "Non Stop". Содержит кофеин, таурин и мощный витаминный комплекс, снимающие усталость и прибавляющие силы. Не в состоянии сделать даже шаг? Тогда это именно то, что нужно.</text>
+		<text>To wspanialy napoj energetyzujacy, zawierajacy kofeine, tauryne oraz mieszanke odzywczych witamin. Tego wlasnie ci trzeba, gdy braknie sil, by ruszyc w dalsza droge.</text>
 	</string>
 	<string id="enc_equipment_food_bread1">
-		<text>Неизвестно, кто умудряется печь батоны на территории Зоны, однако этот хлеб не заражен и вполне съедобен. Во всяком случае, никто из сталкеров пока не жаловался.</text>
+		<text>Ciezko stwierdzic, komu sie udaje piec ten chleb w Zonie, ale nie jest skazony i jak najbardziej nadaje sie do spozycia. Przynajmniej zaden ze stalkerow na niego nie psioczyl.</text>
 	</string>
 	<string id="enc_equipment_food_conserva1">
-		<text>Консервы с растащенного сталкерами армейского продовольственного склада. Срок годности вроде бы не истёк.</text>
+		<text>Konserwy zabrane przez stalkerow z wojskowego magazynu. Termin przydatnosci do spozycia jeszcze nie minal.</text>
 	</string>
 	<string id="enc_equipment_food_kolbasa1">
-		<text>Часто за неимением лучшего эта колбаса – смесь курятины и соевого заменителя – завтрак, обед и ужин сталкера.</text>
+		<text>Dietetyczna kielbasa zrobiona z mieszanki kurczaka i soi czesto jest dla stalkera - z braku innych mozliwosci - sniadaniem, obiadem i kolacja w jednym.</text>
 	</string>
 	<string id="enc_equipment_food_vodka1">
-		<text>Водка производства компании "GSC". Хорошо пьётся, заметно снижает воздействие радиации, однако злоупотреблять ей не следует.</text>
+		<text>Wodka wyprodukowana przez wytwornie GSC. Dobrze wchodzi i znacznie zmniejsza skutki promieniowania, ale z oczywistych wzgledow powinno sie jej uzywac z umiarem.</text>
 	</string>
 	<string id="enc_equipment_medi_antirad1">
-		<text>Снижают воздействие радиации на организм.</text>
+		<text>Zmniejszaja skutki promieniowania.</text>
 	</string>
 	<string id="enc_equipment_medi_bandage1">
-		<text>Перевязочный материал. Помогает остановить кровотечение.</text>
+		<text>Bandaze. Pomagaja zatrzymac krwawienie.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit1">
-		<text>Универсальный медицинский набор. Позволяет справляться с травмами различного вида и степени сложности – ранениями, ожогами, отравлениями и прочим.</text>
+		<text>Uniwersalna apteczka. Uzywana do leczenia roznego typu obrazen - ran, oparzen, zatruc, itd.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit2">
-		<text>Специализированный медицинский набор для борьбы с физическими повреждениями и кровотечением. В него входят компоненты для ускорения свертывания крови, обезболивающие, антибиотики и иммунные стимуляторы.</text>
+		<text>Specjalistyczny zestaw medyczny pomocny w leczeniu obrazen fizycznych i zapobieganiu utracie krwi. W jego sklad wchodzi preparat zwiekszajacy krzepliwosc krwi, antybiotyki, stymulator ukladu odpornosciowego oraz leki przeciwbolowe.</text>
 	</string>
 	<string id="enc_equipment_medi_medkit3">
-		<text>Медицинский набор, разработанный специально для работы в условиях Зоны. Состав набора подобран как для борьбы с ранениями, так и для вывода радионуклидов из организма. Препятствует развитию лучевой болезни, а также снижает дозу накопленной радиации.</text>
+		<text>Zestaw medyczny stworzony specjalnie dla Zony. W jego sklad wchodza srodki do opatrywania i leczenia ran oraz do oczyszczania organizmu z radionuklidow. Zapobiega rozwojowi chorob popromiennych i obniza stopien napromieniowania.</text>
 	</string>
 	<string id="energy_drink_name">
-		<text>Энергетический напиток "Non Stop"</text>
+		<text>Napoj energetyczny "Non Stop"</text>
 	</string>
 	<string id="energy_drink_short_name">
-		<text>Энергетический напиток "Non Stop"</text>
+		<text>Napoj energetyczny "Non Stop"</text>
 	</string>
 	<string id="Equipment">
-		<text>Экипировка и еда</text>
+		<text>Sprzet i prowiant</text>
 	</string>
 	<string id="Food">
-		<text>Продукты питания</text>
+		<text>Prowiant</text>
 	</string>
 	<string id="Kolbasa">
-		<text>Колбаса "Практическая"</text>
+		<text>Kielbasa "Praktyczna"</text>
 	</string>
 	<string id="Medi">
-		<text>Медицинские препараты</text>
+		<text>Lekarstwa</text>
 	</string>
 	<string id="Medkit">
-		<text>Аптечка</text>
+		<text>Apteczka</text>
 	</string>
 	<string id="Medkit_army">
-		<text>Армейская аптечка</text>
+		<text>Apteczka wojskowa</text>
 	</string>
 	<string id="Medkit_scientific">
-		<text>Научная аптечка</text>
+		<text>Apteczka naukowcow</text>
 	</string>
 	<string id="Sci2">
-		<text>Научный EXP-4</text>
+		<text>Naukowy EXP-4</text>
 	</string>
 	<string id="Vodka">
-		<text>Водка "Казаки"</text>
+		<text>Wodka "Kozak"</text>
 	</string>
 	<string id="st_detector">
-		<text>Дозиметр-детектор</text>
+		<text>Detektor anomalii</text>
 	</string>
 	<string id="st_detector_descr">
-		<text>Предназначен для обнаружения аномальных зон, а также очагов радиоактивного загрязнения.</text>
+		<text>Przeznaczony do wykrywania pol anomalii oraz ognisk zanieczyszczenia radioaktywnego.</text>
 	</string>
 	<string id="st_grenade_gd5">
-		<text>Дымовая граната</text>
+		<text>Granat dymny</text>
 	</string>
 		<string id="enc_equipment_devic_detect2">
-		<text>Устройство, определяющее наличие аномальных полей и возмущений и сообщающее о них звуковым сигналом. Значительно расширен диапазон распознаваемых аномалий.</text>
+		<text>Urzadzenie okreslajace obecnosc pol i zaburzen anomalnych i powiadamiajace o nich sygnalem dzwiekowym. Znacznie rozszerzona skala rozpoznawalnych anomalii.</text>
 	</string>
 	<string id="enc_equipment_devic_detect3">
-		<text>Элитный детектор аномалий, изобретённый учёными в Зоне. Определяет не только наличие аномальных полей и возмущений, но также показывает на карте их расположение, сообщает о них звуковым сигналом.</text>
+		<text>Elitarny detektor anomalii wynaleziony przez naukowcow w Zonie. Okresla nie tylko obecnosc pol i zaburzen anomalnych, ale takze pokazuje na mapie ich rozmieszczenie i powiadamia o nich sygnalem dzwiekowym.</text>
 	</string>
 	<string id="st_detector3">
-		<text>Элитный детектор аномалий</text>
+		<text>Elitarny detektor anomalii</text>
 	</string>
 	<string id="st_detector2">
-		<text>Детектор аномалий</text>
+		<text>Detektor anomalii</text>
 	</string>
 	<string id="accesscard_hsm_3_description">
-		<text>Карта доступа к нумпаду замка обезьянника на Сортировке.\n Код доступа 6911</text>
+		<text>Karta dostepu do klawiatury zamka aresztu na Sortowni.\n Kod dostepu 6911</text>
+	</string>
+	<string id="outfit_tank_name">
+		<text>Pancerz szturmowy</text>
+	</string>
+	<string id="outfit_tank_description">
+		<text>Nie wiadomo jakim sposobem do Zony trafiaja najnowsze naukowe prototypy. W tym pancerzu zastosowano osiagniecia nauki, ktorych po prostu nie mozna wykonac w Zonie. Jednoczesnie wiadomo, ze w sklad materialu ochronnego wchodza czastki bardzo drogich artefaktow. Na bazie takiej symbiozy wykonano swietnie broniacy przed stala i olowiem pancerz. Ale jest jedna bardzo istotna wada - do normalnej pracy i regeneracji pancerza wymagane jest indukowane pole elektromagnetyczne. Operator kieruje pole ze stanowiska dowodzenia bardzo waska wiazka. Bez tego pola pancerz jest praktycznie bezuzyteczny..</text>
 	</string>
 </string_table>

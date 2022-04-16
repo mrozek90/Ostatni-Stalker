@@ -1,24 +1,23 @@
-<?xml version='1.0' encoding="windows-1251"?>
-<!-- таблица строк общего назначения -->
+<?xml version='1.0' encoding="windows-1250"?>
+<!--tabela ci№gуw ogуlnego przeznaczenia -->
 <string_table>
   <string id="Local Map">
     <text>To Local Map</text>
-    <text ln="rus">Локальная карта</text>
+    <text ln="rus">Lokalna Mapa</text>
   </string>
   <string id="Global Map">
     <text>To Global Map</text>
-    <text ln="rus">Глобальная карта</text>
+    <text ln="rus">Globalna Mapa</text>
   </string>
-  <!-- надписи внизу основного окна -->
+  <!-- podpisy na dole okna gіуwnego -->
   <string id="cant_walk">
     <text>too tied to walk</text>
-    <text ln="rus">слишком истощен, чтобы идти</text>
+    <text ln="rus">Jesteњ zbyt wyczerpany by iњж</text>
   </string>
-    <!-- Надпись на физической двери. Не стирать. Джон. -->
+    <!-- Napis na fizycznych drzwiach. Nie myj. Jan. -->
   <string id="doors_sign">
     <text>press 'E' to open the door</text>
-    <text ln="rus">нажмите 'E' и отбегай подальше, вдуг взорвется</text>
+    <text ln="rus">naciњnij E by otworzyж drzwi. Uciekaj</text>
   </string>
 
 </string_table>
-

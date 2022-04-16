@@ -1,12 +1,12 @@
 	<string id="pri_bus_station_zone_hint">
-		<text>Автобусная станция</text>
+		<text>Dworzec autobusowy</text>
 	</string>
 	<string id="pri_hotel_zone_hint">
-		<text>Гостиница</text>
+		<text>Hotel</text>
 	</string>
 	<string id="pri_monolith_base_zone_hint">
-		<text>База Монолита</text>
+		<text>Baza Monolitu</text>
 	</string>
 	<string id="pri_stadium_zone_hint">
-		<text>Стадион</text>
+		<text>Stadion</text>
 	</string>

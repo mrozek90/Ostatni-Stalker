@@ -1,46 +1,46 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="sleep_title_1">
-		<text>Спать до...</text>
+		<text>Њpij do...</text>
 	</string>
 	<string id="sleep_warning_radiation">
-		<text>Вы не можете спать, когда у вас высокий уровень облучённости организма.</text>
+		<text>Nie moїesz spaж, gdy Twoje ciaіo jest napromieniowane.</text>
 	</string>
 	<string id="sleep_warning_enemy">
-		<text>Вы не можете спать, когда рядом враги.</text>
+		<text>Nie moїesz spaж, gdy w pobliїu s№ wrogowie.</text>
 	</string>
 	<string id="sleep_warning_satiety_or_bleeding">
-		<text>Вы не можете спать дальше, вы сильно голодны или у вас кровотечение.</text>
+		<text>Nie moїesz spaж, jesteњ bardzo gіodny lub krwawisz.</text>
 	</string>
 	<string id="st_sleep_hours">
-		<text>ч</text>
+		<text>godz</text>
 	</string>
 	<string id="barman_sleep_dialog_1">
-		<text>Мне бы прилечь где-нибудь...</text>
+		<text>Chciaіbym siк gdzieњ poіoїyж...</text>
 	</string>
 	<string id="barman_sleep_dialog_2">
-		<text>Проходи в заднюю комнату и располагайся там. Я скажу Гарику, чтобы он тебя пропускал. Можешь проходить когда захочешь.</text>
+		<text>Idџ do pokoju na tyle i poіуї siк tam. Powiem Garikowi, їeby Ciк przepuњciі. Moїesz iњж kiedy chcesz.</text>
 	</string>
 	<string id="barman_sleep_dialog_3">
-		<text>Спасибо</text>
+		<text>Dziкkujк</text>
 	</string>
 	<string id="guard_sleep_dialog_1_1">
-		<text>Бармен сказал, что мне можно войти...</text>
+		<text>Barman powiedziaі, їe mogк wejњж...</text>
 	</string>
 	<string id="guard_sleep_dialog_1_2">
-		<text>Да, можешь проходить. Если опять приспичит, "свисни" мне. Работа у меня такая – не пропускать кого попало.</text>
+		<text>Dobra, moїesz przejњж. Jeњli znowu masz ochotк, "zagwizdaj". Moim zadaniem jest nie przepuszczaж byle kogo.</text>
 	</string>
 	<string id="guard_sleep_dialog_1_3">
-		<text>Ну, так я теперь не "кого попало"... Гы-гы... Шучу...</text>
+		<text>Cуї, teraz nie jestem "nikim"... Ehh... Їartujк...</text>
 	</string>
 	<string id="guard_sleep_dialog_2_1">
-		<text>Пропусти, свои.</text>
+		<text>Przepuњж, przyjaciel.</text>
 	</string>
 	<string id="guard_sleep_dialog_2_2">
-		<text>А, это опять ты...</text>
+		<text>Ach, to znowu Ty...</text>
 	</string>
 	<string id="guard_sleep_dialog_2_3">
-		<text>Ага...</text>
+		<text>Tak...</text>
 	</string>
-	
+
 </string_table>

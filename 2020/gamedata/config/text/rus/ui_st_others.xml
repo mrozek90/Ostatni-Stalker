@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="ui_st_conn_version_differs">
-		<text>Ошибка соединения: Отличаются версии.</text>
+		<text>Bі№d poі№czenia: Odmienne wersje.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Ошибка соединения: Неверный CD-Key.</text>
+		<text>Bі№d poі№czenia: Zіy CD-Key.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Ошибка соединения: Такой CD-key уже используется.</text>
+		<text>Bі№d poі№czenia: Taki CD-Key jest juї w uїyciu.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Ошибка соединения: Ваш CD-Key заблокирован. Связитесь со службой поддержки.</text>
+		<text>Bі№d poі№czenia: Twуj klucz CD jest zablokowany. Skontaktuj siк z pomoc№ techniczn№.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Доступен новый патч. \n Версия: %s\n %s\n Хотите загрузить его сейчас?</text>
+		<text>Dostкpna jest nowa aktualizacja. \n Wersja: %s\n %s\n Czy chcesz j№ teraz pobraж?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Нет новых патчей</text>
+		<text>Brak aktualizacji.</text>
 	</string>
 </string_table>

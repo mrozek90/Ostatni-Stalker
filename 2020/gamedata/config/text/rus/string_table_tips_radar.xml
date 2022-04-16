@@ -1,12 +1,12 @@
 	<string id="rad_barman_spam">
-		<text>Меченый!? Живой!? Вот и отлично! Ты все таки смог отключить выжигатель, все наши пытаются пробиться через Припять к центру зоны. Что там будет никто не знает, может быть клондайr артефактов, а может и исполнитель желаний. \n Сейчас как раз перед Припятью собирается отряд ветеранов для прохода вглубь, если поспешишь, то сможешь к ним присоединиться, я их предупрежу, чтоб подождали.</text>
+		<text>Naznaczony!? Ty їyjesz!? To wspaniale! Jednak udaіo ci siк wyі№czyж "Zwкglacz", co? Wszyscy nasi prуbuj№ przebiж siк przez Prypeж do centrum Zony. Nikt nie wie, co w tym centrum jest... Moїe skarbnica artefaktуw, a moїe i Speіniacz Їyczeс. \nAkurat teraz przed Prypeci№ zbiera siк grupa weteranуw, їeby ruszyж w gі№b Zony. Jeњli siк poњpieszysz, moїe zd№їysz do nich doі№czyж. Dam im znaж, їeby poczekali na ciebie.</text>
 	</string>
 	<string id="tips_bun_komand">
-		<text>Группа один и два - проверить первый этаж, группа три - главный зал, четвертая и пятая - второй этаж</text>
+		<text>"Jedynka" i "dwуjka" - sprawdziж parter , "trуjka" - sala gіуwna, "czwуrka" i "pi№tka" - pierwsze piкtro.</text>
 	</string>
 	<string id="tips_rad_sos_suicide">
-		<text>...люди, помогите, дохну...</text>
+		<text>...ludzie, pomocy, umieram...</text>
 	</string>
 	<string id="tips_rad_switcher_press">
-		<text>Чтобы отключить установку, нажмите ($$ACTION_USE$$)</text>
+		<text>Wyі№czyж instalacjк</text>
 	</string>

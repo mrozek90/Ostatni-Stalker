@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
 	<string id="als_mod_name">
-		<text>Последний Сталкер</text>
+		<text>Ostatni Stalker</text>
 	</string>
 	<string id="als_autor">
-	<text>авторы</text>
+	<text>autorzy</text>
 	</string>
 	<string id="als_executor">
-	<text>и разработчики:</text>
+	<text>i wspolpracownicy:</text>
 	</string>
 	<string id="als_zauruscrew">
-	<text>команда zaurus' crew</text>
+	<text>Ekipa zaurus' crew</text>
 	</string>
 	<string id="als_julius">
 	<text>julius</text>
@@ -23,73 +23,73 @@
 	<text>zaurus</text>
 	</string>
 	<string id="als_denis_name">
-	<text>Денис 'cobaltworks'</text>
+	<text>Denis 'cobaltworks'</text>
 	</string>
 	<string id="als_denis_name_1">
-	<text>Иванников</text>
+	<text>Iwannikow</text>
 	</string>
 	<string id="als_maxim_name">
-	<text>Максим 'Kreazot-Maks'</text>
+	<text>Maksym 'Kreazot-Maks'</text>
 	</string>
 	<string id="als_maxim_name_1">
-	<text>Максименко</text>
+	<text>Maksimienko</text>
 	</string>
 	<string id="als_denis1_name">
-	<text>Денис 'Monty Dye'</text>
+	<text>Denis 'Monty Dye'</text>
 	</string>
 
 
 
 
 	<string id="als_sound">
-	<text>Актёры озвучания</text>
+	<text>praca z dzwiekiem</text>
 	</string>
 	<string id="als_sound_1">
-	<text>Иван Шейко</text>
+	<text>Iwan Szejko</text>
 	</string>
 	<string id="als_sound_2">
-	<text>Алина Артёмова</text>
+	<text>Alina Artiomowa</text>
 	</string>
 	<string id="als_sound_3">
-	<text>(дети)</text>
+	<text>(dzieci)</text>
 	</string>
 	<string id="als_sound_4">
-	<text>Руслан 'Дик' Ковальков</text>
+	<text>Ruslan 'Dik' Kobalkow</text>
 	</string>
 	<string id="als_sound_5">
-	<text>Юлия Кравченко</text>
+	<text>Julia Krawczenko</text>
 	</string>
 	<string id="als_sound_6">
-	<text>Ольга Фролова</text>
+	<text>Olga Frolowa</text>
 	</string>
 
 	
 	<string id="als_sound_7">
-	<text>%c[yelow]Песня "Последний сталкер"</text>
+	<text>%c[yelow]Piesn "Ostatni stalker"</text>
 	</string>
 	<string id="als_sound_8">
-	<text>в исполнении группы</text>
+	<text>w wykonaniu grupy</text>
 	</string>
 	<string id="als_sound_9">
 	<text>"Obscurea"</text>
 	</string>
 	<string id="als_sound_10">
-	<text>(Дмитрий Хомченко,</text>
+	<text>(Dmitri Homczenko,</text>
 	</string>
 	<string id="als_sound_11">
-	<text>Максим Максименко)</text>
+	<text>Maksim Maksimienko)</text>
 	</string>
 	<string id="als_sound_12">
-	<text>%c[yelow]Вокал -</text>
+	<text>%c[yelow]Wokal -</text>
 	</string>
 	<string id="als_sound_13">
-	<text>Артём 'Frooz' Фрузин</text>
+	<text>Artiom 'Frooz' Fruzin</text>
 	</string>
 	<string id="als_sound_14">
-	<text>%c[yelow]Текст -</text>
+	<text>%c[yelow]Tekst -</text>
 	</string>
 	<string id="als_sound_15">
-	<text>Алексей Ручий</text>
+	<text>Aleksiej Ruczij</text>
 	</string>
 	<string id="als_sound_16">
 	<text>mauvais</text>
@@ -101,10 +101,10 @@
 
 
 	<string id="als_testing">
-	<text>beta-тестеры:</text>
+	<text>beta-testerzy:</text>
 	</string>
 	<string id="als_testing_crew_1">
-	<text>Форум "Боевой Народ":</text>
+	<text>Forum "Narod walczacy":</text>
 	</string>
 	<string id="als_vzasade">
 	<text>VZASADE</text>
@@ -131,37 +131,37 @@
 	<text>vdv5549</text>
 	</string>
 	<string id="als_dave">
-	<text>Dave Фиберглаz</text>
+	<text>DavidScrabble</text>
 	</string>
 	<string id="als_kost">
-	<text>костя-семен</text>
+	<text>kostia-semen</text>
 	</string>
 	<string id="als_smok">
-	<text>Курильщик</text>
+	<text>Kurilszczik</text>
 	</string>
 	<string id="als_mar">
-	<text>Маришка (пантера)</text>
+	<text>Mariszka (pantera)</text>
 	</string>
 	<string id="als_test_crew_2">
-	<text>Форум АМК-Team:</text>
+	<text>Forum AMK-Team:</text>
 	</string>
 	<string id="als_vladi">
 	<text>vladi</text>
 	</string>
 <string id="als_homchenko">
-	<text>Дмитрий Хомченко</text>
+	<text>Dmitri Homczenko</text>
 	</string>
 	<string id="als_esmslavik">
 	<text>ESMSlavik</text>
 	</string>
 	<string id="als_test_crew_3">
-	<text>Форум Stalker-GSC:</text>
+	<text>Forum Stalker-GSC:</text>
 	</string>
 	<string id="als_wonawi">
 	<text>wonawi</text>
 	</string>
 	<string id="als_test_crew_4">
-	<text>Форум stalker-team.pl:</text>
+	<text>Forum stalkerteam.pl:</text>
 	</string>
 	<string id="als_kobal">
 	<text>kobal</text>
@@ -169,8 +169,8 @@
 	<string id="als_yurek">
 	<text>Yurek</text>
 	</string>
-	<string id="als_piwkaby">
-	<text>Пивкабы xD</text>
+	<string id="als_yurran">
+	<text>YuRRaN</text>
 	</string>
 	<string id="als_serg">
 	<text>Serg</text>
@@ -182,103 +182,103 @@
 
 
 	<string id="als_thahks_1">
-	<text>команда</text>
+	<text>ekipa</text>
 	</string>
 <string id="als_thahks_111">
 	<text>zaurus' crew</text>
 	</string>	
 <string id="als_thahks_112">
-	<text>благодарит компанию</text>
+	<text>dziekuje studiu</text>
 	</string>	
 
 <string id="als_thahks_2">
 	<text>GSC Game World</text>
 	</string>
 	<string id="als_thahks_3">
-	<text>и ее лидера С. Григоровича</text>
+	<text>i jej liderowi S. Grigorowiczowi</text>
 	</string>
 	<string id="als_thahks_4">
-	<text>за создание мира Зоны</text>
+	<text>za stworzenie swiata Zony</text>
 	</string>
 	<string id="als_thahks_5">
-	<text>и культовой линейки игр</text>
+	<text>i kultowej serii gier</text>
 	</string>
 	<string id="als_thahks_6">
 	<text>S.T.A.L.K.E.R.,</text>
 	</string>
 	
 	<string id="als_thahks_7">
-	<text>без которых было бы</text>
+	<text>bez ktorych byloby absolutnie</text>
 	</string>
 	<string id="als_thahks_8">
-	<text>НЕВОЗМОЖНЫМ</text>
+	<text>NIEMOZLIWE</text>
 	</string>
 	<string id="als_thahks_9">
-	<text>создание</text>
+	<text>stworzenie</text>
 	</string>
 	<string id="als_thahks_10">
-	<text>сюжетной модификации</text>
+	<text>fabularnej modyfikacji</text>
 	</string>
 	<string id="als_thahks_11">
-	<text>"Упавшая зведа.</text>
+	<text>"Upadla Gwiazda.</text>
 	</string>
 	<string id="als_thahks_12">
-	<text>Честь наемника"</text>
+	<text>?Honor najemnika"</text>
 	</string>
 
 	<string id="als_thahks_1111">
-	<text>"ПОСЛЕДНИЙ СТАЛКЕР"</text>
+	<text>"OSTATNI STALKER"</text>
 	</string>
 
 	<string id="als_thahks_135">
-	<text>а также модификаций</text>
+	<text> a takze modyfikacji</text>
 	</string>
 	<string id="als_thahks_136">
-	<text>"Апокалипсис"</text>
+	<text>"Apokalipsa"</text>
 	</string>
 	<string id="als_thahks_137">
-	<text>"Поиск. Dies irae"</text>
+	<text>"Poszukiwacze. Dies irae"</text>
 	</string>
 	<string id="als_thahks_13">
-	<text>"Долг. Философия войны"</text>
+	<text>"Powinnosc. Filozofia wojny"</text>
 	</string>
 
 
 	<string id="als_thanks_14">
-	<text>автор благодарит</text>
+	<text>autor dziekuje</text>
 	</string>
 
 
 	<string id="als_thanks_15">
-	<text>Благодарим всех поклонников</text>
+	<text>Dziekujemy wszystkim fanom</text>
 	</string>
 	<string id="als_thanks_16">
-	<text>игры "S.T.A.L.K.E.R."</text>
+	<text>gry "S.T.A.L.K.E.R."</text>
 	</string>
 	<string id="als_thanks_17">
-	<text>и линейки модов</text>
+	<text>i linii modow</text>
 	</string>
 	<string id="als_thanks_18">
-	<text>от команды</text>
+	<text>od ekipy</text>
 	</string>
 	<string id="als_thanks_19">
 	<text>zaurus' crew</text>
 	</string>
 	
 	<string id="als_sponsor">
-	<text>спонсор проекта DFS:</text>
+	<text>sponsor projektu DFS:</text>
 	</string>
 	<string id="als_sponsor_name">
-	<text>компания MBTM LLC г.Иркутск</text>
+	<text>spolka MBTM LLC m.Irkuck</text>
 	</string>
 	
 
 
 	<string id="als_compous_1">
-	<text>использована музыка</text>
+	<text>wykorzystana muzyka</text>
 	</string>
 	<string id="als_compous_2">
-	<text>авторов и исполнителей:</text>
+	<text>autorow i wykonawcow:</text>
 	</string>
 	
 	<string id="als_musicants_1">
@@ -288,13 +288,13 @@
 	<text>The Kinks</text>
 	</string>
 	<string id="als_musicants_3">
-	<text>Ella Ficdzherald</text>
+	<text>Ella Fitzgerald</text>
 	</string>
 	<string id="als_musicants_4">
 	<text>Louis Armstrong</text>
 	</string>
 	<string id="als_musicants_5">
-	<text>Ленинград</text>
+	<text>Leningrad</text>
 	</string>
 	<string id="als_musicants_6">
 	<text>Oscar Benton</text>
@@ -303,62 +303,62 @@
 	<text>Nick Cave</text>
 	</string>
 	<string id="als_musicants_8">
-	<text>Евгений Белков</text>
+	<text>Jewrenij Bielkow</text>
 	</string>
 	<string id="als_musicants_9">
-	<text>Голубые береты</text>
+	<text>Blekitne</text>
 	</string>
 	<string id="als_musicants_10">
 	<text>Gotthard</text>
 	</string>
 	<string id="als_musicants_11">
-	<text>Александр Волокитин</text>
+	<text>Aleksander Bolokitin</text>
 	</string>
 	<string id="als_musicants_12">
-	<text>ПОСЛЕДНИЙ ПЕРЕУЛОК</text>
+	<text>OSTATNI ZAULEK</text>
 	</string>
 	<string id="als_musicants_13">
-	<text>Красная Плесень</text>
+	<text>Czerwona Plesn</text>
 	</string>
 	<string id="als_musicants_14">
-	<text>музыка_14</text>
+	<text>muzyka_14</text>
 	</string>
 	<string id="als_musicants_15">
-	<text>музыка_15</text>
+	<text>muzyka_15</text>
 	</string>
 	<string id="als_musicants_16">
-	<text>музыка_16</text>
+	<text>muzyka_16</text>
 	</string>
 	<string id="als_musicants_17">
-	<text>музыка_17</text>
+	<text>muzyka_17</text>
 	</string>
 	<string id="als_musicants_18">
-	<text>музыка_18</text>
+	<text>muzyka_18</text>
 	</string>
 	<string id="als_musicants_19">
-	<text>музыка_19</text>
+	<text>muzyka_19</text>
 	</string>
 	<string id="als_musicants_20">
-	<text>музыка_20</text>
+	<text>muzyka_20</text>
 	</string>
 	
 	<string id="als_musicants_21">
-	<text>Полный альбом с музыкой</text>
+	<text>Pelny album z muzyka</text>
 	</string>
 	<string id="als_musicants_22">
-	<text>к моду можно скачать по адресу</text>
+	<text>mozna pobrac pod adresem</text>
 	</string>
 	<string id="als_musicants_23">
 	<text>kreazot-maks.bandcamp.com/album/last-stalker</text>
 	</string>
 	<string id="als_musicants_24">
-	<text>"Народная-английская"</text>
+	<text>"narodowa angielska"</text>
 	</string>
 	<string id="als_musicants_25">
-	<text>"Солдатская-немецкая"</text>
+	<text>"wojskowa niemiecka"</text>
 	</string>
 	<string id="als_musicants_26">
-	<text>к сожалению, не известен</text>
+	<text>niestety, nie znana</text>
 	</string>
 
 
@@ -367,10 +367,10 @@
 
 	
 	<string id="als_progs_1">
-	<text>при создании мода использовались</text>
+	<text>przy pracach nad modem wykorzystano</text>
 	</string>
 	<string id="als_progs_2">
-	<text>труды авторов и команд:</text>
+	<text>prace autorow i ekip:</text>
 	</string>
 	
 	<string id="als_progs_3">
@@ -389,13 +389,13 @@
 	<text>STCoP Weapon Pack</text>
 	</string>
 	<string id="als_progs_8">
-	<text>ОП-2</text>
+	<text>OP-2</text>
 	</string>
 	<string id="als_progs_9">
-	<text>ОГСЕ</text>
+	<text>OGSE</text>
 	</string>
 	<string id="als_progs_10">
-	<text>3D модели с сайта p3dm.ru</text>
+	<text>3D modele ze strony p3dm.ru</text>
 	</string>
 	<string id="als_progs_11">
 	<text>amik</text>
@@ -437,7 +437,7 @@
 	<text>Singapur22</text>
 	</string>
 	<string id="als_progs_24">
-	<text>НаноБот</text>
+	<text>Nanobot</text>
 	</string>
 	<string id="als_progs_25">
 	<text>Shoker</text>
@@ -449,10 +449,10 @@
 	<text>Adm-RAL</text>
 	</string>
 	<string id="als_progs_28">
-	<text>Мерцающий</text>
+	<text>Zmieniajacy</text>
 	</string>
 	<string id="als_progs_29">
-	<text>Ааз</text>
+	<text>Aaz</text>
 	</string>
 	<string id="als_progs_30">
 	<text>Malandrinus</text>
@@ -464,7 +464,7 @@
 	<text>kalinin11</text>
 	</string>
 	<string id="als_progs_33">
-	<text>Хемуль36рус</text>
+	<text>Hemul36rus</text>
 	</string>
 	<string id="als_progs_34">
 	<text>Charsi</text>
@@ -486,13 +486,13 @@
 
 
 	<string id="als_progs_361">
-	<text>Авторы некоторых работ</text>
+	<text>autorow niektorych prac</text>
 	</string>
 	<string id="als_progs_371">
-	<text>не указаны.</text>
+	<text>nie wspomnianych</text>
 	</string>
 	<string id="als_progs_381">
-	<text>Приносим свои извинения.</text>
+	<text>z gory przepraszamy.</text>
 	</string>
 	
 	
@@ -505,7 +505,7 @@
 	</string>
 	
 	<string id="als_progs_411">
-	<text>Боевой-народ.рф</text>
+	<text>Narod-walczacy.rf</text>
 	</string>
 
 <string id="als_progs_412">

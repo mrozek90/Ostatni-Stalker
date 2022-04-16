@@ -1,63 +1,69 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="ui_mm_crossfeed">
-		<text>Бинаурал. звук</text>
+		<text>Dџwiкk obuuszny</text>
 	</string>
 	<string id="ui_snd_stereo_mode">
-		<text>Стерео-выход</text>
+		<text>Wyjњcie stereo</text>
 	</string>
 	<string id="ui_snd_resampler">
-		<text>Ресемплер</text>
+		<text>Resempler</text>
 	</string>
 	<string id="ui_snd_wide_stereo">
-		<text>Расширенное стерео</text>
+		<text>Rozszerzone stereo</text>
 	</string>
 	<string id="ui_snd_hrtf">
 		<text>HRTF</text>
 	</string>
 	<string id="crsf_disable">
-		<text>выключено</text>
+		<text>wyі№czono</text>
 	</string>
 	<string id="crsf_low">
-		<text>слабое</text>
+		<text>niskie</text>
 	</string>
 	<string id="crsf_middle">
-		<text>среднее</text>
+		<text>њrednie</text>
 	</string>
 	<string id="crsf_high">
-		<text>высокое</text>
+		<text>wysokie</text>
 	</string>
 	<string id="crsf_low_easy">
-		<text>упрощённое слабое</text>
+		<text>uproszzcone niskie</text>
 	</string>
 	<string id="crsf_middle_easy">
-		<text>упрощённое среднее</text>
+		<text>uproszczone њrednie</text>
 	</string>
 	<string id="crsf_high_easy">
-		<text>упрощённое высокое</text>
+		<text>uproszczone wysokie</text>
 	</string>
 	<string id="sm_auto">
-		<text>автоопределение</text>
+		<text>autodetekcja</text>
 	</string>
 	<string id="sm_speakers">
-		<text>колонки</text>
+		<text>gіoњniki</text>
 	</string>
 	<string id="sm_headphones">
-		<text>наушники</text>
+		<text>sіuchawki</text>
 	</string>
 	<string id="rp_point">
-		<text>точечный</text>
+		<text>punktowy</text>
 	</string>
 	<string id="rp_linear">
-		<text>линейный</text>
+		<text>liniowy</text>
 	</string>
 	<string id="rp_cubic">
-		<text>кубический</text>
+		<text>szeњcienny</text>
 	</string>
 	<string id="efx_restart_tips">
-		<text>После изменения EFX настроек</text>
+		<text>Po zmianie ustawieс EFX</text>
 	</string>
 	<string id="efx_restart_tips1">
-		<text>необходимо перезапустить игру</text>
+		<text>naleїy zrestartowaж grк</text>
+	</string>
+	<string id="ui_mm_fps_lock">
+	<text>Blokada FPS</text>
+	</string>
+	<string id="ui_mm_always_active">
+	<text>Zawsze wі№czony </text>
 	</string>
 </string_table>

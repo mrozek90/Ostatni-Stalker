@@ -1,18 +1,19 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="svoboda_outfit_name_m1">
-		<text>Комбез Свободы М2</text>
+		<text>Kombinezon "Wolnosc" M2</text>
 	</string>
 	<string id="team_1_desc">
-		<text>Анархисты Зоны. Исповедует идею, что Зона - это заповедник свободы. Считают, что все законы, правила и условности внешнего мира здесь теряют силу. Их девиз - «Делай что хочешь, но не мешай другим». Борются против правительственных попыток взять Зону под контроль и Наемников. «Свобода» экипирована, в основном, стрелковым оружием бывшего СССР и России.</text>
+		<text>Anarchisci Zony. Wyznaja idee, ze Zona to enklawa wolnosci. Uwazaja, ze wszystkie prawa, zasady i zwyczaje swiata zewnetrznego tutaj traca swa moc. Ich motto brzmi: "Rob co chcesz, ale nie przeszkadzaj innym". Probuja powstrzymac rzad przed przejeciem kontroli nad Zona i walcza z najemnikami. Bojownicy "Wolnosci" generalnie wyposazeni sa w bron  radzieckiej lub rosyjskiej produkcji.</text>
 	</string>
 	<string id="team_1_name">
-		<text>Группировка «Свобода» (Свободные сталкеры)</text>
+		<text>Ugrupowanie "Wolnosc" (Wolni stalkerzy)</text>
 	</string>
 	<string id="team_2_desc">
-		<text>Искатели приключений и головорезы со всего мира, не гнушающиеся никакой, даже самой грязной работы. Их девиз: «Деньги не пахнут». Здесь артефакты, а значит - пахнет большими деньгами... «Наемники» экипированы в основном западным стрелковым вооружением.</text>
+		<text>Poszukiwacze przygod i zbiry z calego swiata, nie gardzacy zadna, nawej najbrudniejsza robota. Ich motto brzmi: "Pecunia non olet - Pieniadze nie smierdza". Sa tu artefakty, wiec sa tez duze pieniadze... Najemnicy uzywaja glownie broni produkcji zachodniej.</text>
 	</string>
 	<string id="team_2_name">
-		<text>Группировка «Наемники» (Головорезы)</text>
+		<text>"Najemnicy" (Lowcy glow, najemnicy)</text>
 	</string>
 </string_table>
+
