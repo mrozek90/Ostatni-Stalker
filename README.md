@@ -2,27 +2,33 @@
 
 Spolszczenie dla wersji 1.1 autorstwa https://stalkerteam.pl/profile/11-kobal/
 
-Spolszczenie dla wersji 1.3 OGSR x64
+Spolszczenie dla wersji 1.3 OGSR x64 https://stalkerteam.pl/topic/16124-ostatni-stalker-13-%D1%8564-ogsr/  
+Spolszczenie dla wersji 1.3 X-Ray  
 
 
-Zakaz udostępniania linków na stronach trzecich.
+Zakaz udostępniania linków na stronach trzecich.  
 
-Mrozek
+Mrozek  
 https://stalkerteam.pl
 
 
+# **Instalacja:**
+Wkleić do głównego folderu z grą.
 
-1.3:
+W zależności od wersji gry:  
+1.3 dla silnika OGSR x64.  
+2020 dla wersji 1.3 silnika X-Ray.  
 
-Było usunięte przez komentarz (??):
 
--string_table_enc_equipment
--string_table_enc_mutants
--string_table_enc_social
--string_table_enc_vehicles
--string_table_enc_zone
--string_table_items (??)
--string_table_level_tips (??)
--string_table_news (?)
--test_radar (?)
--test_string (?)
+# **Lista zmian względem 1.1:**  
+
+- Nazwa NPC: Wodny Szczur -> Karczownik  
+- Nazwa NPC: Dedman -> Umarlak  
+- Nazwa NPC: Szamraj -> Szrama  
+- Nazwa NPC: Panzer -> Grenadier  
+- Nazwa NPC: Żwawy -> Zwinny  
+- Nazwa NPC: Szoker -> Paskuda  
+- Nazwa NPC: Genia/Gienia Haker -> Gen Haker  
+- Nazwa NPC: Ochrypły -> Chrypa  
+- Nazwa NPC: Piorun -> Grom  
+
