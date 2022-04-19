@@ -86,11 +86,11 @@
 	</string>
 
 	<string id="gunman_name">
-		<text>Strie³ok</text>
+		<text>Stier³ok</text>
 	</string>
 
 	<string id="esc_werwolf_name">
-		<text>Przewodnik</text>
+		<text>Konduktor</text>
 	</string>
 
 	<string id="esc_creazy_name">
@@ -102,7 +102,7 @@
 	</string>
 
 	<string id="gr_budulay_name">
-		<text>Grisza Budu³aj</text>
+		<text>Grisza Budulaj</text>
 	</string>
 
 	<string id="iron_mask_name">
@@ -170,7 +170,7 @@
 	</string>
 
 	<string id="kosta_name">
-		<text>Kostia</text>
+		<text>Kosta</text>
 	</string>
 
 	<string id="zulus_name">
@@ -182,7 +182,7 @@
 	</string>
 
 	<string id="degtyarev_name">
-		<text>Diegtiariew</text>
+		<text>Degtyariew</text>
 	</string>
 
 	<string id="marsh_trader_name">
@@ -202,7 +202,7 @@
 	</string>
 
 	<string id="sor_bar_guard_name">
-		<text>Szuma</text>
+		<text>Ha³as</text>
 	</string>
 
 	<string id="srgnt_oleynik_name">
@@ -238,7 +238,7 @@
 	</string>
 
 	<string id="andrew_name">
-		<text>Andriej Cze</text>
+		<text>Andiej Cze</text>
 	</string>
 
 	<string id="breden_name">
@@ -246,7 +246,7 @@
 	</string>
 
 	<string id="cptn_harchenko_name">
-		<text>kapitan Harczenko</text>
+		<text>kapitan Charczenko</text>
 	</string>
 
 	<string id="dfs_killer_1_name">
@@ -270,7 +270,7 @@
 	</string>
 
 	<string id="dfs_stalker_freedom_bayda_name">
-		<text>Bajda</text>
+		<text>Motocyklista</text>
 	</string>
 
 	<string id="atp_freedom_trader_name">
@@ -310,7 +310,7 @@
 	</string>
 
 	<string id="red_killer_chieff_name">
-		<text>Chiñczyk</text>
+		<text>Zaj¹c</text>
 	</string>
 
 	<string id="dsf_scientist_1_name">
@@ -322,7 +322,7 @@
 	</string>
 
 	<string id="dsf_scientist_3_name">
-		<text>m³. badacz Szukin</text>
+		<text>m³. badacz Szczukin</text>
 	</string>
 
 	<string id="dsf_scientist_4_name">
@@ -334,7 +334,7 @@
 	</string>
 
 	<string id="rad_us_commando_2_name">
-		<text>szeregowy Korbett</text>
+		<text>szeregowy Corbett</text>
 	</string>
 
 	<string id="rad_us_commando_3_name">
@@ -398,7 +398,7 @@
 	</string>
 
 	<string id="kovzur_bandit_khabarych_name">
-		<text>Chabarycz</text>
+		<text>£apówkarz</text>
 	</string>
 
 	<string id="dolg_zombie_khvostov_name">

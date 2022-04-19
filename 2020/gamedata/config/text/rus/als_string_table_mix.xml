@@ -32,7 +32,7 @@
 <string id="static_0">
 		<text>ATTO QUINTO *Ostatni stalker*</text>
 	</string>
-	
+
 <string id="dont_kill">
 		<text>bla-bla-bla</text>
 	</string>
@@ -229,7 +229,7 @@
 </string>
 
 <string id="shamray_gang">
-	<text>grupa Szamraja</text>
+	<text>grupa Szramy</text>
 </string>
 
 <string id="bb">
@@ -257,7 +257,7 @@
 </string>
 
 <string id="waterrat_gang">
-	<text>grupa Wodnego Szczura</text>
+	<text>grupa Karczownika</text>
 </string>
 
 <string id="mackleens_gang">
@@ -471,7 +471,7 @@
 </string>
 
 <string id="val_shocker_flash_fake_hint">
-	<text>fleszka najemników</text>
+	<text>pendrive najemników</text>
 </string>
 
 <string id="val_safe_door_hint">
@@ -652,27 +652,27 @@
 </string>
 
 <string id="job_for_corporation">
-	<text>Praca dla korporacji. \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>Praca dla korporacji. \n zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="will_sell_necronomicon">
-	<text>SPRZEDAM!!! \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>SPRZEDAM!!! \n zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="lost_scientist">
-	<text>ZAGIN¥£ NAUKOWIEC!!! \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>ZAGIN¥£ NAUKOWIEC!!! \n zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="falen_flying_laboratory">
-	<text>Powietrzne laboratorium!!! \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>Powietrzne laboratorium!!! \n zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="unstick_beacon">
-	<text>Odkleiæ ($$ACTION_USE$$)</text>
+	<text>Odklej ($$ACTION_USE$$)</text>
 </string>
 
 <string id="tip_no_access_card">
-	<text>Wsun¹æ kartê dostêpu  ($$ACTION_USE$$)</text>
+	<text>Wsuñ kartê dostêpu  ($$ACTION_USE$$)</text>
 </string>
 
 <string id="tip_yes_access_card">
@@ -680,27 +680,27 @@
 </string>
 
 <string id="take_pda">
-	<text>wzi¹æ PDA ($$ACTION_USE$$)</text>
+	<text>weŸ PDA ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_uv_light_torch">
-	<text>wziaæ latarkê ($$ACTION_USE$$)</text>
+	<text>weŸ latarkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="hide_container">
-	<text>schowaæ kontener ($$ACTION_USE$$)</text>
+	<text>schowaj kontener ($$ACTION_USE$$)</text>
 </string>
 
 <string id="to_erase">
-	<text>zetrzeæ ($$ACTION_USE$$)</text>
+	<text>zetrzyj ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_transceiver">
-	<text>w³¹czyæ radiostacjê ($$ACTION_USE$$)</text>
+	<text>w³¹cz radiostacjê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_taynik">
-	<text>sprawdziæ schowek ($$ACTION_USE$$)</text>
+	<text>sprawdŸ schowek ($$ACTION_USE$$)</text>
 </string>
 
 <string id="input_accesscard">
@@ -712,15 +712,15 @@
 </string>
 
 <string id="turn_on_dictophone">
-	<text>przes³uchaæ nagranie ($$ACTION_USE$$)</text>
+	<text>przes³uchaj nagranie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_away_dictophone">
-	<text>zabraæ dyktafon ($$ACTION_USE$$)</text>
+	<text>zabierz dyktafon ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_weapon">
-	<text>wzi¹æ broñ ($$ACTION_USE$$)</text>
+	<text>weŸ broñ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="shift_keys">
@@ -728,11 +728,11 @@
 </string>
 
 <string id="take_away_passports">
-	<text>zabraæ dokumenty ($$ACTION_USE$$)</text>
+	<text>zabierz dokumenty ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_away_artefact">
-	<text>wzi¹æ artefakt ($$ACTION_USE$$)</text>
+	<text>weŸ artefakt ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_off_turrets">
@@ -744,55 +744,55 @@
 </string>
 
 <string id="take_device">
-	<text>wzi¹æ przyrz¹d ($$ACTION_USE$$)</text>
+	<text>weŸ przyrz¹d ($$ACTION_USE$$)</text>
 </string>
 
 <string id="use_basement_key">
 	<text>wykorzystaæ klucz ($$ACTION_USE$$)</text>
 </string>
-	
+
 <string id="open_door">
 	<text>otworzyæ drzwi ($$ACTION_USE$$)</text>
 </string>
 
 <string id="barrier_to_raise">
-	<text>podnieœæ szlaban ($$ACTION_USE$$)</text>
+	<text>podnieœ szlaban ($$ACTION_USE$$)</text>
 </string>
 
 <string id="barrier_to_dip">
-	<text>opuœciæ szlaban ($$ACTION_USE$$)</text>
+	<text>opuœæ szlaban ($$ACTION_USE$$)</text>
 </string>
 
 <string id="drop_book_into_fire">
-	<text>wrzuciæ ksiêgê do ogniska ($$ACTION_USE$$)</text>
+	<text>wrzuæ ksiêgê do ogniska ($$ACTION_USE$$)</text>
 </string>
 
 <string id="search_the_plane">
-	<text>przeszukaæ drona ($$ACTION_USE$$)</text>
+	<text>przeszukaj drona ($$ACTION_USE$$)</text>
 </string>
 
 <string id="als_sit">
-	<text>usi¹œæ ($$ACTION_USE$$)</text>
+	<text>usi¹æ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_emergency_power">
-	<text>w³¹czyæ zasilanie awaryjne ($$ACTION_USE$$)</text>
+	<text>w³¹cz zasilanie awaryjne ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_malyawa">
-	<text>wzi¹æ notatkê ($$ACTION_USE$$)</text>
+	<text>weŸ notatkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_the_paper">
-	<text>podnieœæ pude³ko ($$ACTION_USE$$)</text>
+	<text>podnieœ pude³ko ($$ACTION_USE$$)</text>
 </string>
 
 <string id="replace_botle">
-	<text>przestawiæ butelkê ($$ACTION_USE$$)</text>
+	<text>przestaw butelkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_singulator">
-	<text>aktywowaæ singulator ($$ACTION_USE$$)</text>
+	<text>aktywuj singulator ($$ACTION_USE$$)</text>
 </string>
 
 <string id="insert_key">
@@ -804,55 +804,55 @@
 </string>
 
 <string id="to_push_power">
-	<text>pchn¹æ ($$ACTION_USE$$)</text>
+	<text>pchnij ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_the_outfit">
-	<text>wzi¹æ pancerz ($$ACTION_USE$$)</text>
+	<text>weŸ pancerz ($$ACTION_USE$$)</text>
 </string>
 
 <string id="check_fuel_level">
-	<text>sprawdziæ poziom paliwa ($$ACTION_USE$$)</text>
+	<text>sprawdŸ poziom paliwa ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_up_the_key">
-	<text>podnieœæ klucz ($$ACTION_USE$$)</text>
+	<text>podnieœ klucz ($$ACTION_USE$$)</text>
 </string>
 
 <string id="open_depoe">
-	<text>otworzyæ magazyn ($$ACTION_USE$$)</text>
+	<text>otwórz magazyn ($$ACTION_USE$$)</text>
 </string>
 
 <string id="change_warlock">
-	<text>zamieniæ ($$ACTION_USE$$)</text>
+	<text>zamieñ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="do_activation">
-	<text>aktywowaæ ($$ACTION_USE$$)</text>
+	<text>aktywuj ($$ACTION_USE$$)</text>
 </string>
 
 <string id="luggage_here">
-	<text>po³o¿yæ przyrz¹dy ($$ACTION_USE$$)</text>
+	<text>po³ó¿ przyrz¹dy ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_ruckzak">
-	<text>przeszukaæ plecak ($$ACTION_USE$$)</text>
+	<text>przeszukaj plecak ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_golden_pig">
-	<text>wzi¹æ "z³ota œwiniê" ($$ACTION_USE$$)</text>
+	<text>weŸ "z³ota œwiniê" ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_timer">
-	<text>w³¹czyæ timer ($$ACTION_USE$$)</text>
+	<text>w³¹cz timer ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_off_timer">
-	<text>wy³¹czyc timer ($$ACTION_USE$$)</text>
+	<text>wy³¹cz timer ($$ACTION_USE$$)</text>
 </string>
 
 <string id="do_place_mine">
-	<text>postawiæ minê ($$ACTION_USE$$)</text>
+	<text>postaw minê ($$ACTION_USE$$)</text>
 </string>
 
 <!-- <string id="">
@@ -861,5 +861,5 @@
 
 
 
-	
+
 </string_table>

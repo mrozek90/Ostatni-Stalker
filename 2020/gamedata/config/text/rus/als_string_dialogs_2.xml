@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
-    	
+
 	<string id="val_yalta_group_dialog_0">
         <text>Co do Uzbeka nic się nie zmieniło.</text>
     </string>
@@ -10,7 +10,7 @@
 	<string id="val_yalta_group_dialog_2">
         <text>Dobra, powodzenia!</text>
     </string>
-	
+
 	<string id="sor_ivancov_dialog_10_0">
         <text>Więc co chcesz mi zaproponować, dowódco?</text>
     </string>
@@ -21,7 +21,7 @@
         <text>1.	Szturmować? A na cholerę?! Jestem pewny, że GRC przekaże Perymetr bez walki.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_3">
-        <text>Skąd takie wiadomości? Uwierzyłeś Pulewiczowi?</text>
+        <text>Skąd takie wiadomości? Uwierzyłeś Kulawemu?</text>
     </string>
 	<string id="sor_ivancov_dialog_10_4">
         <text>Mam inne źródło.</text>
@@ -30,7 +30,7 @@
         <text>Hmm… Nie ja decyduję, Grek.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_6">
-        <text>A kto? Pancer.</text>
+        <text>A kto? Grenadier?</text>
     </string>
 	<string id="sor_ivancov_dialog_10_7">
         <text>Przyjdź do baru, Grek. Może, rzeczywiście uda się uniknąć rozlewu krwi.</text>
@@ -54,7 +54,7 @@
         <text>Przejąć kontrolę nad Perymetrem. Przywrócić należny szacunek Powinności.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_14">
-        <text>1.	Beze mnie. Tym bardziej, że GRC przekaże Perymetr bez walki. A ja mam dość swoich problemów. Żegnaj, powinnościowcu.</text>
+        <text>1.	Beze mnie. Tym bardziej, że GRC przekaże Perymetr bez walki. A ja mam dość swoich problemów. Żegnaj, żołnierzyku.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_15">
         <text>2.	Dobrze. Pomogę. Ale mam jeden warunek.</text>
@@ -63,20 +63,20 @@
         <text>Słucham.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_17">
-        <text>Genia haker pracuje dla Powinności. I nie che mi pomóc z deszyfracją.</text>
+        <text>Gen haker pracuje dla Powinności. I nie che mi pomóc z deszyfracją.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_18">
-        <text>Rozumiem. Idź do Gieni, on pomoże. A potem ty pomożesz Powinności. Mamy umowę?</text>
+        <text>Rozumiem. Idź do Gena, on pomoże. A potem Ty pomożesz Powinności. Umowa stoi?</text>
     </string>
 	<string id="sor_ivancov_dialog_10_19">
         <text>Teraz tak.</text>
     </string>
-	
+
 	<string id="sor_ivancov_dialog_11_0">
         <text>Znaczy się, chcesz szturmować?</text>
     </string>
 	<string id="sor_ivancov_dialog_11_1">
-        <text>Tak. Pancer z głównymi siłami uderzy na Perymetr z północy. My - od tyłu.</text>
+        <text>Tak. Grenadier z głównymi siłami uderzy na Perymetr z północy. My - od tyłu.</text>
     </string>
 	<string id="sor_ivancov_dialog_11_2">
         <text>Co mam robić?</text>
@@ -87,9 +87,9 @@
 	<string id="sor_ivancov_dialog_11_4">
         <text>Rozumiem.</text>
     </string>
-	
+
 	<string id="sor_grc_agent_prisoner_dialog_2_0">
-        <text>Słuchaj uważnie, panie grcowcu. Jest możliwość rozwiązania problemu Perymetru bez rozlewu krwi.</text>
+        <text>Słuchaj uważnie, panie GRCowcu. Jest możliwość rozwiązania problemu Perymetru bez rozlewu krwi.</text>
     </string>
 	<string id="sor_grc_agent_prisoner_dialog_2_1">
         <text>Ty jeszcze nie rozumiesz? Mi jest wszystko jedno.</text>
@@ -101,7 +101,7 @@
         <text>Dobrze, słucham.</text>
     </string>
 	<string id="sor_grc_agent_prisoner_dialog_2_4">
-        <text>Idziemy razem na Kordon. Przedstawisz ofertę dowództwa Powinności - usunąć garnizon z Perymetru.</text>
+        <text>Idziemy razem na Kordon. Przedstawisz ofertę dla dowództwa Powinności - usunąć garnizon z Perymetru.</text>
     </string>
 	<string id="sor_grc_agent_prisoner_dialog_2_5">
         <text>Nie mam takich pełnomocnictw.</text>
@@ -109,7 +109,7 @@
 	<string id="sor_grc_agent_prisoner_dialog_2_6">
         <text>A ja myślę, że masz. To wszystko, koniec rozmowy, idziemy.</text>
     </string>
-	
+
 	<string id="sor_panzer_dialog_2_0">
         <text>Co powiesz, Grek?</text>
     </string>
@@ -120,15 +120,15 @@
         <text>Dobrze. Przyznaję - do końca nie wierzyłem, że coś z tego wyjdzie. Ale tak całkowicie ufać GRC nie mogę. Dlatego mam jeszcze jedną prośbę, ostatnią - sprawdź Kordon i otwórz bramę Perymetru. Kod 12345. Jeżeli wszystko będzie w porządku - daj znać. W porządku?</text>
     </string>
 	<string id="sor_panzer_dialog_2_3">
-        <text>Dlaczego by nie? To mi po drodze.</text>
+        <text>Dlaczego by nie? Mam po drodze.</text>
     </string>
 	<string id="sor_panzer_dialog_2_4">
-        <text>Przy okazji, w temacie drogi - jeżeli potrzebna będzie ci pomoc - daj tylko znać. No i wiedz, że jak tylko pojawi się taka możliwość, przerzucimy cię za Barierę, pamiętaj.</text>
+        <text>Przy okazji, w temacie drogi - jeżeli potrzebna będzie Ci pomoc - daj tylko znać. No i wiedz, że jak tylko pojawi się taka możliwość, przerzucimy Cię za Barierę, pamiętaj.</text>
     </string>
 	<string id="sor_panzer_dialog_2_5">
         <text>Nie zapomnę.</text>
     </string>
-	
+
 	<string id="sor_panzer_dialog_1_0">
         <text>Znaczy się, proponujesz rokowania?</text>
     </string>
@@ -139,15 +139,15 @@
         <text>… Dobra. No, a o jakim warunku mówiłeś Iwancowowi?</text>
     </string>
 	<string id="sor_panzer_dialog_1_3">
-        <text>Genia haker pracuje dla Powinności. I odmawia mi pomocy z deszyfracją.</text>
+        <text>Gen haker pracuje dla Powinności. I odmawia mi pomocy z deszyfracją.</text>
     </string>
 	<string id="sor_panzer_dialog_1_4">
-        <text>Rozumiem. Idź do Geni, pomoże ci.</text>
+        <text>Rozumiem. Idź do Gena, pomoże Ci.</text>
     </string>
 	<string id="sor_panzer_dialog_1_5">
         <text>A jakże.</text>
     </string>
-	
+
 	<string id="gena_hacker_dialog_2_0">
         <text>I warto było się stawiać?</text>
     </string>
@@ -167,10 +167,10 @@
         <text>PDA doktora Bravermana.</text>
     </string>
 	<string id="gena_hacker_dialog_2_6">
-        <text>Fleszka wojskowych stalkerów.</text>
+        <text>Pendrive wojskowych stalkerów.</text>
     </string>
 	<string id="gena_hacker_dialog_2_7">
-        <text>Fleszka Szokera.</text>
+        <text>Pendrive Paskudy.</text>
     </string>
 	<string id="gena_hacker_dialog_2_8">
         <text>PDA żołnierza z Bagien.</text>
@@ -188,12 +188,12 @@
         <text>To wszystko.</text>
     </string>
 	<string id="gena_hacker_dialog_2_13">
-        <text>Dobrze. Jeżeli uda się odszyfrować - dam ci znać. I nikt, oprócz mnie i ciebie, nie będzie o tym wiedzieć.</text>
+        <text>Dobrze. Jeżeli uda się odszyfrować - dam Ci znać. I nikt, oprócz mnie i Ciebie, nie będzie o tym wiedzieć.</text>
     </string>
 	<string id="gena_hacker_dialog_2_14">
         <text>No, to oczywiste.</text>
     </string>
-	
+
 	<string id="gena_hacker_dialog_3_0">
         <text>I warto było się stawiać?</text>
     </string>
@@ -216,7 +216,7 @@
         <text>Fleszka wojskowych stalkerów.</text>
     </string>
 	<string id="gena_hacker_dialog_3_7">
-        <text>Fleszka Szokera.</text>
+        <text>Pendrive Szokera.</text>
     </string>
 	<string id="gena_hacker_dialog_3_8">
         <text>PDA żołnierza z Bagien.</text>
@@ -234,12 +234,12 @@
         <text>To wszystko.</text>
     </string>
 	<string id="gena_hacker_dialog_3_13">
-        <text>Dobrze. Jeżeli uda się odszyfrować - dam ci znać. I nikt, oprócz mnie i ciebie, nie będzie o tym wiedzieć.</text>
+        <text>Dobrze. Jeżeli uda się odszyfrować - dam Ci znać. I nikt, oprócz mnie i Ciebie, nie będzie o tym wiedzieć.</text>
     </string>
 	<string id="gena_hacker_dialog_3_14">
         <text>No, to oczywiste.</text>
     </string>
-	
+
 	<string id="sor_kasper_dialog_3_0">
         <text>Grek, weź mnie z sobą - przydam się.</text>
     </string>
@@ -247,7 +247,7 @@
         <text>Coś taki blady? I w ogóle, skąd jesteś?</text>
     </string>
 	<string id="sor_kasper_dialog_3_2">
-        <text>Z północy. W chatę niedawno mina ugodziła, a opalać się w tej chacie nam nie pozwolili</text>
+        <text>Z północy. W chatę niedawno bomba pieprznęła, a opalać się w tej chacie nam nie pozwolili</text>
     </string>
 	<string id="sor_kasper_dialog_3_3">
         <text>Pogadaj z Iwancowem: on tu dowodzi.</text>
@@ -258,9 +258,9 @@
 	<string id="sor_kasper_dialog_3_4">
         <text>2.	Nie, nie ma takiej możliwości, byś poszedł ze mną.</text>
     </string> -->
-	
+
 	<string id="marsh_svoboda_gruver_dialog_3_0">
-        <text>Cześć! Ja znowu w związku z figurkami. Powiedz mi, bratku - co ciekawego powiedział ci Nestor baptysta?</text>
+        <text>Cześć! Ja znowu w związku z figurkami. Powiedz mi, bratku - co ciekawego powiedział ci babtysta Nestor?</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_3_1">
         <text>Przecież on był nieźle stuknięty. I nie przysłuchiwałem się co tam bełkotał. Nie przysłuchiwałem się i nie zapamiętywałem.</text>
@@ -287,13 +287,13 @@
         <text>2.	Dobra. Opowiadaj.</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_3_9">
-        <text>Więc, przyszedł Nestor, tak. Potrzebne mu było wyposażenie, a pieniędzy na rachunku - zero. Wtedy zaproponował barter… Czułem w kościach, że lepiej tego nie robić. Ktoś się zainteresuje, potem ludzie przepadają. Tak jak ty teraz.</text>
+        <text>Więc, przyszedł Nestor, tak. Potrzebne mu było wyposażenie, a pieniędzy na rachunku - zero. Wtedy zaproponował barter… Czułem w kościach, że lepiej tego nie robić. Ktoś się zainteresuje, potem ludzie przepadają. Tak jak Ty teraz.</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_3_10">
         <text>A kto się jeszcze interesował?</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_3_11">
-        <text>Wodny Szczur.</text>
+        <text>Karczownik.</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_3_12">
         <text>Nie mówił gdzie się kieruje?</text>
@@ -304,7 +304,7 @@
 	<string id="marsh_svoboda_gruver_dialog_3_14">
         <text>Warta, warta.</text>
     </string>
-	
+
 	<string id="marsh_bandit_siply_dialog_2_0">
         <text>No i co ty tu całą drogę się kręcisz?!</text>
     </string>
@@ -335,7 +335,7 @@
 	<string id="marsh_bandit_siply_dialog_2_9">
         <text>Warta, warta.</text>
     </string>
-	
+
 	<string id="marsh_bandit_siply_dialog_3_0">
         <text>Interesują mnie zaginieni poszukiwacze skarbów. Tu gdzieś zniknęli.</text>
     </string>
@@ -349,12 +349,12 @@
         <text>2.	Dobra, mów.</text>
     </string>
 	<string id="marsh_bandit_siply_dialog_3_4">
-        <text>Kamienie na zachodzie, otoczone przez prawie zamkniętą ścianę anomalii, i fireball do góry i na dół nad kamieniami. Tam ich widziano.</text>
+        <text>Kamienie na zachodzie, otoczone przez prawie zamkniętą ścianę anomalii, i kuli ognia do góry i na dół nad kamieniami. Tam ich widziano.</text>
     </string>
 	<string id="marsh_bandit_siply_dialog_3_5">
         <text>Dobra.</text>
     </string>
-	
+
 	<string id="marsh_bandit_siply_dialog_4_0">
         <text>Słyszałeś coś o strąconym dronie?</text>
     </string>
@@ -373,7 +373,7 @@
 	<string id="marsh_bandit_siply_dialog_4_5">
         <text>Aha.</text>
     </string>
-	
+
 	<string id="val_killer_yalta_arrest_dialog_1_0">
         <text>Co do Uzbeka nic się nie zmieniło.</text>
     </string>
@@ -383,7 +383,7 @@
 	<string id="val_killer_yalta_arrest_dialog_1_2">
         <text>Dobra, powodzenia!</text>
     </string>
-	
+
 	<string id="sidor_dialog_about_reanimator_0">
         <text>Co nowego słychać, Sidorowicz?</text>
     </string>
@@ -394,7 +394,7 @@
         <text>Powinno mnie to interesować?</text>
     </string>
 	<string id="sidor_dialog_about_reanimator_3">
-        <text>Możliwe. Reanimator wynalazł nowy przyrząd, przenośne ambulatorium. Zakładasz na pas, a przyrząd monitoruje twoje zdrowie. Jeżeli trzeba, to leczy. Nazwał to - PUMA. Otóż, nakupił Reanimator pełno lekarstw i stymulatorów i poszedł w Zonę wypróbować przyrząd, że tak powiem, w warunkach polowych. I zniknął.</text>
+        <text>Możliwe. Reanimator wynalazł nowy przyrząd, przenośne ambulatorium. Zakładasz na pas, a przyrząd monitoruje Twoje zdrowie. Jeżeli trzeba, to leczy. Nazwał to - PUMA. Otóż, nakupił Reanimator pełno lekarstw i stymulatorów i poszedł w Zonę wypróbować przyrząd, że tak powiem, w warunkach polowych. I zniknął.</text>
     </string>
 	<string id="sidor_dialog_about_reanimator_4">
         <text>Dawno temu to było?</text>
@@ -408,12 +408,12 @@
 	<string id="sidor_dialog_about_reanimator_7">
         <text>Hmm... możliwe...</text>
     </string>
-	
+
 	<string id="mil_military_stalker_3_dialog_0">
         <text>Słuchaj bratku, quadzik na chodzie?</text>
     </string>
 	<string id="mil_military_stalker_3_dialog_1">
-        <text>A ty w jakim celu pytasz?</text>
+        <text>A Ty w jakim celu pytasz?</text>
     </string>
 	<string id="mil_military_stalker_3_dialog_2">
         <text>Do waszych na Agroprom mi trzeba, a piechotą - nogi do dupy mi wejdą.</text>
@@ -430,9 +430,9 @@
 	<string id="mil_military_stalker_3_dialog_6">
         <text>W porządku!</text>
     </string>
-	
+
 	<string id="gar_raider_1_dialog_1_0">
-        <text>Cześć, Grek. Dużo słyszałem o tobie. Także plotki, że zginąłeś.</text>
+        <text>Cześć, Grek. Dużo słyszałem o Tobie. Także plotki, że zginąłeś.</text>
     </string>
 	<string id="gar_raider_1_dialog_1_1">
         <text>A wyście co za jedni?</text>
@@ -450,12 +450,12 @@
         <text>A to dlaczego?</text>
     </string>
 	<string id="gar_raider_1_dialog_1_6">
-        <text>Nie można ich tak po prostu wziąć. Potrzebna parasolkowa pułapka. A ty masz taką?</text>
+        <text>Nie można ich tak po prostu wziąć. Potrzebna parasolkowa pułapka. A Ty masz taką?</text>
     </string>
 	<string id="gar_raider_1_dialog_1_7">
         <text>Wydaje mi się, że raczej nie. Dobrze, wezmę to pod uwagę. Dziękuję za ostrzeżenie.</text>
     </string>
-	
+
 	<string id="varnak_dialog_about_teuton_1_0">
         <text>Widzę, Warnak, że sprzątnąłeś klowna z wejścia. Słusznie: tylko przeszkadzał.</text>
     </string>
@@ -463,7 +463,7 @@
         <text>Ty o Teutonie? Przepadł Teuton. Może w barze się kręci, naszej  muzyki ścierpieć nie mógł. Krótko, porzucił posterunek i odszedł. Kiepski towarzysz.</text>
     </string>
 	<string id="varnak_dialog_about_teuton_1_2">
-        <text>Na cholerę go Uzbek w brygadzie trzyma? Po co mu taki bojec?</text>
+        <text>Na cholerę go Uzbek w brygadzie trzyma? Po co mu taka łajza?</text>
     </string>
 	<string id="varnak_dialog_about_teuton_1_3">
         <text>Krewny. Czy to szwagier, czy to, całkiem odwrotnie, zięć. Ot i cierpi.</text>
@@ -471,50 +471,50 @@
 	<string id="varnak_dialog_about_teuton_1_4">
         <text>Rozumiem. Można dobry uczynek zrobić: nogę przestrzelić i na Wielką Ziemię wysłać.</text>
     </string>
-	
+
 	<string id="varnak_dialog_about_teuton_2_0">
         <text>Teutona zabili. Widziałem jego trupa w bagnie za mostem. Nożem w plecy.</text>
     </string>
 	<string id="varnak_dialog_about_teuton_2_1">
-        <text>Ot dziwadło niereformowalne… Przyzwyczaił się, rozumiesz, do baru biegać, tu pić mu było głupio: Uzbek głowę oderwie. Krewni oni… Byli. Dobiegał się.</text>
+        <text>Ot dziwadło niereformowalne… Przyzwyczaił się, rozumiesz, do baru biegać, tu pić mu było głupio: Uzbek głowę oderwie. Krewni oni… Byli. Doigrał się.</text>
     </string>
 	<string id="varnak_dialog_about_teuton_2_2">
-        <text>Gdzie bar agdzie bagno…</text>
+        <text>Gdzie bar a gdzie bagno…</text>
     </string>
-	
+
 	<string id="barman_dialog_about_teuton_1_0">
         <text>Powiedziano mi, że Teutona można tu znaleźć, co powiesz, Ernest?</text>
     </string>
 	<string id="barman_dialog_about_teuton_1_1">
-        <text>Aha, Teuton był tu niedawno. Zapłacił za wipowski pokój. Zawsze tak robi, Uzbek go za pijaństwo dręczy. Po godzinie ściągnął w to samo miejsce Bajda.</text>
+        <text>Aha, Teuton był tu niedawno. Zapłacił za vipowski pokój. Zawsze tak robi, Uzbek go za pijaństwo dręczy. Po godzinie ściągnął w to samo miejsce Bajda.</text>
     </string>
 	<string id="barman_dialog_about_teuton_1_2">
         <text>Bajda?</text>
     </string>
 	<string id="barman_dialog_about_teuton_1_3">
-        <text>Aha. Mętny typ. Wciąż na bazie na Bagnach się kręci. Znoszą go tylko dlatego, że to jedyny stalker, który był w niewoli u Grabarza i uciekł. Legenda, że tak powiem. Otóż, przyszedł Bajda, zapytał o Teutona. Skierowałem go do wipowskiego pokoju. Bajda tam wszedł i po pięciu minutach obaj z Teutonem wyszli.</text>
+        <text>Aha. Mętny typ. Wciąż na bazie na Bagnach się kręci. Znoszą go tylko dlatego, że to jedyny stalker, który był w niewoli u Grabarza i uciekł. Celebryta, że tak powiem. Otóż, przyszedł Bajda, zapytał o Teutona. Skierowałem go do vipowskiego pokoju. Bajda tam wszedł i po pięciu minutach obaj z Teutonem wyszli.</text>
     </string>
 	<string id="barman_dialog_about_teuton_1_4">
         <text>Razem?</text>
     </string>
 	<string id="barman_dialog_about_teuton_1_5">
-        <text>Aha, razem. Trochę później tam zajrzałem. A pęczniały tam, dwie butle Danielsa, nietknięte. Rozumiesz?</text>
+        <text>A-no, razem. Trochę później tam zajrzałem. A pęczniały tam, dwie butle Danielsa, nietknięte. Rozumiesz?</text>
     </string>
 	<string id="barman_dialog_about_teuton_1_6">
         <text>Nie jestem głupi.</text>
     </string>
-	
+
 	<string id="barman_dialog_about_teuton_2_0">
         <text>Był tu może Teuton, Ernest?</text>
     </string>
 	<string id="barman_dialog_about_teuton_2_1">
-        <text>Aha, Teuton był tu niedawno. Zapłacił za wipowski pokój. No, picie z sobą przyniósł, zawsze tak robi, Uzbek go za pijaństwo dręczy. Po godzinie ściągnął w to samo miejsce Bajda.</text>
+        <text>Aha, Teuton był tu niedawno. Zapłacił za vipowski pokój. No, picie z sobą przyniósł, zawsze tak robi, Uzbek go za pijaństwo dręczy. Po godzinie ściągnął w to samo miejsce Bajda.</text>
     </string>
 	<string id="barman_dialog_about_teuton_2_2">
         <text>Bajda?</text>
     </string>
 	<string id="barman_dialog_about_teuton_2_3">
-        <text>Aha. Mętny typ. Wciąż na bazie na Bagnach się kręci. Znoszą go tylko dlatego, że to jedyny stalker, który był w niewoli u Grabarza i uciekł. Legenda, że tak powiem. Otóż, przyszedł Bajda, zapytał o Teutona. Skierowałem go do wipowskiego pokoju. Bajda tam wszedł i po pięciu minutach obaj z Teutonem wyszli.</text>
+        <text>Aha. Mętny typ. Wciąż na bazie na Bagnach się kręci. Znoszą go tylko dlatego, że to jedyny stalker, który był w niewoli u Grabarza i uciekł. Legenda, że tak powiem. Otóż, przyszedł Bajda, zapytał o Teutona. Skierowałem go do vipowskiego pokoju. Bajda tam wszedł i po pięciu minutach obaj z Teutonem wyszli.</text>
     </string>
 	<string id="barman_dialog_about_teuton_2_4">
         <text>Razem?</text>
@@ -525,7 +525,7 @@
 	<string id="barman_dialog_about_teuton_2_6">
         <text>Nie wrócą, Ernest: są martwi, Teuton i Bajda. Leżą tu, niedaleko, w bagnie za mostem, porżnięci.</text>
     </string>
-	
+
 	<string id="mil_gold_dialog_0">
         <text>Wojsko przeciągnęło swój sprzęt dalej, do Czerwonego Lasu.</text>
     </string>
@@ -533,7 +533,7 @@
         <text>Durnie. Nie kocha Zona żelaza. Nie martw się, na piechotę się przedrzemy.</text>
     </string>
 	<string id="mil_gold_dialog_2">
-        <text>Grek, po tej stronie nikt nie potrafi otworzyć portalu do Limańska, oprócz mnie. Zabiją mnie - to koniec. Grek, moje życie - twoje życie. Nie ma powrotu.</text>
+        <text>Grek, po tej stronie nikt nie potrafi otworzyć portalu do Limańska, oprócz mnie. Zabiją mnie - to koniec. Grek, moje życie - Twoje życie. Nie ma powrotu.</text>
     </string>
 	<string id="mil_gold_dialog_3">
         <text>Więc mi opowiedz… mądry człowieku, jak otworzyć portal do Limańska.</text>
@@ -550,7 +550,7 @@
 	<string id="mil_gold_dialog_7">
         <text>Dobra. Chodźmy.</text>
     </string>
-	
+
 	<string id="red_kasper_dialog_1_0">
         <text>Jesteś mi potrzebny, Grek.</text>
     </string>
@@ -563,9 +563,9 @@
 	<string id="red_kasper_dialog_1_3">
         <text>No-no.</text>
     </string>
-	
+
 	<string id="red_kasper_dialog_2_0">
-        <text>Więc. Genia haker wiadomość ci przesyła.</text>
+        <text>Więc. Gen haker wiadomość Ci przesyła.</text>
     </string>
 	<string id="red_kasper_dialog_2_1">
         <text>I z tego powodu tu gnałeś? A nie było prościej przez radio?</text>
@@ -577,18 +577,18 @@
         <text>Skąd znasz moją marszrutę?</text>
     </string>
 	<string id="red_kasper_dialog_2_4">
-        <text>He. Genia powiedział, niby że, jeżeli Grek żyje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
+        <text>He. Gen powiedział, niby że, jeżeli Grek żyje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
     </string>
 	<string id="red_kasper_dialog_2_5">
-        <text>Pancer ciebie jednego na wzmocnienie wysłał?</text>
+        <text>Grenadier Ciebie jednego na wzmocnienie wysłał?</text>
     </string>
 	<string id="red_kasper_dialog_2_6">
-        <text>Czemu jednego? Trzech nas było. Tamci zdezerterowali. W typie, mam wszystko w dupie, a Pancera - szczególnie. Za Perymetrem skręcili na Bagna. Mnie ze sobą wołali. Ale nic tam nie zgubiłem, na Wielkiej Ziemi.</text>
+        <text>Czemu jednego? Trzech nas było. Tamci zdezerterowali. Chłopie, mam wszystko w dupie, a Grenadiera - szczególnie. Za Perymetrem skręcili na Bagna. Mnie ze sobą wołali. Ale ja nic tam nie zgubiłem, na Wielkiej Ziemi.</text>
     </string>
 	<string id="red_kasper_dialog_2_7">
-        <text>Rozumiem. Kasper, coś o wiadomości od Gieni mówiłeś.</text>
+        <text>Rozumiem. Kasper, coś o wiadomości od Gena mówiłeś.</text>
     </string>
-	
+
 	<string id="red_kasper_dialog_3_0">
         <text>Cóż. Miałem po drodze - pułkownik wysłał mnie do Limańska, na wzmocnienie drużyny Jakowlewa, chroniącej naukowców.</text>
     </string>
@@ -596,28 +596,28 @@
         <text>Skąd znasz moją marszrutę?</text>
     </string>
 	<string id="red_kasper_dialog_3_2">
-        <text>He. Genia powiedział, niby że, jeżeli Grek żyje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
+        <text>He. Gen powiedział, niby że, jeżeli Grek żyje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
     </string>
 	<string id="red_kasper_dialog_3_3">
-        <text>Pancer ciebie jednego na wzmocnienie wysłał?</text>
+        <text>Grenadier Ciebie jednego na wzmocnienie wysłał?</text>
     </string>
 	<string id="red_kasper_dialog_3_4">
-        <text>Czemu jednego? Trzech nas było. Tamci zdezerterowali. W typie, mam wszystko w dupie, a Pancera - szczególnie. Za Perymetrem skręcili na Bagna. Mnie ze sobą wołali. Ale nic tam nie zgubiłem, na Wielkiej Ziemi.</text>
+        <text>Czemu jednego? Trzech nas było. Tamci zdezerterowali. Człowieku, mam wszystko w dupie, a Grenadiera - szczególnie. Za Perymetrem skręcili na Bagna. Mnie ze sobą wołali. Ale ja nic tam nie zgubiłem, na Wielkiej Ziemi.</text>
     </string>
 	<string id="red_kasper_dialog_3_5">
         <text>Rozumiem. No, prowadź, Kasper.</text>
     </string>
-	
+
 	<string id="lim_crocodil_dialog_1_0">
         <text>Normalna sprawa. Nie na mnie czekacie?</text>
     </string>
 	<string id="lim_crocodil_dialog_1_1">
-        <text>W sumie to nie, Grek, na kumpla twojego. Podobno, on nieźle w Limańsku się orientuje. Uwaga - ostrożnie, bratki: od przodu miny mogą być.</text>
+        <text>W sumie to nie, Grek, na kumpla Twojego. Podobno, on nieźle w Limańsku się orientuje. Uwaga - ostrożnie, bratki: od przodu miny mogą być.</text>
     </string>
 	<string id="lim_crocodil_dialog_1_2">
         <text>No-o-o, dzięki.</text>
     </string>
-	
+
 	<string id="lim_yakovlev_dialog_1_0">
         <text>Jak się tu znalazłeś przede mną?</text>
     </string>
@@ -628,10 +628,10 @@
         <text>Dokąd zmierzam - nikogo nie powinno interesować, rozumiecie, poruczniku?</text>
     </string>
 	<string id="lim_yakovlev_dialog_1_3">
-        <text>Nie ma sprawy. Pancer polecił okazać ci wszelką pomoc. Tak że - przychodź, jakby co.</text>
+        <text>Nie ma sprawy. Grenadier polecił okazać Ci wszelką pomoc. Tak że - przychodź, jakby co.</text>
     </string>
 	<string id="lim_yakovlev_dialog_1_4">
-        <text>Nie ma sprawy. Pancer polecił okazać ci wszelką pomoc. Tak że - przychodź, jakby co.</text>
+        <text>Nie ma sprawy. Grenadier polecił okazać ci wszelką pomoc. Tak że - przychodź, jakby co.</text>
     </string>
 	<string id="lim_yakovlev_dialog_1_5">
         <text>To zrozumiałe. Uwzględnij - droga na północ jest zamknięta. Automatyczny kompleks obronny stoi w rejonie RLS.</text>
@@ -663,7 +663,7 @@
 	<string id="lim_yakovlev_dialog_1_14">
         <text>Jasne.</text>
     </string>
-	
+
 	<string id="dr_luzenko_dialog_1_0">
         <text>Ja w sprawie waszego naukowca w laboratorium X-18.</text>
     </string>
@@ -680,7 +680,7 @@
         <text>Rozmawialiście ze mną, doktorze. Musiałem podać się za Bravermana, by wydostać się z laboratorium.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_5">
-        <text>Teraz rozumiem… Tak… wasz głos. Powiedzcie, Grek, jego zamordowano?</text>
+        <text>Teraz rozumiem… Tak… Wasz głos. Powiedzcie, Grek, jego zamordowano?</text>
     </string>
 	<string id="dr_luzenko_dialog_1_6">
         <text>Chyba nie. Wygląda na to, że sam wpadł w szyb windy. Miał przy sobie rzadki artefakt i PDA, to wszystko.</text>
@@ -692,7 +692,7 @@
         <text>Tak. Oto ono.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_9">
-        <text>Nie. Jeżeli jest wam potrzebne - zapytajcie u Gieni hakera. Możecie powołać się na mnie.</text>
+        <text>Nie. Jeżeli jest wam potrzebne - zajrzyjcie do u Gena hakera. Możecie powołać się na mnie.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_10">
         <text>Nie.</text>
@@ -715,7 +715,7 @@
 	<string id="dr_luzenko_dialog_1_16">
         <text>Nie trzeba. Jesteśmy kwita: można powiedzieć, że doktor pomógł mi wyjść z laboratorium.</text>
     </string>
-	
+
 	<string id="dr_luzenko_dialog_1_var_0">
         <text>Ja w sprawie waszego naukowca w laboratorium X-18.</text>
     </string>
@@ -744,7 +744,7 @@
         <text>Tak. Oto ono.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_var_9">
-        <text>Nie. Jeżeli jest wam potrzebne - zapytajcie u Gieni hakera. Możecie powołać się na mnie.</text>
+        <text>Nie. Jeżeli jest wam potrzebne - zapytajcie u Gena hakera. Możecie powołać się na mnie.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_var_10">
         <text>Nie.</text>
@@ -767,7 +767,7 @@
 	<string id="dr_luzenko_dialog_1_var_16">
         <text>Nie trzeba. I jesteśmy - kwita: artefakt sobie zostawiam.</text>
     </string>
-	
+
 	<string id="dr_luzenko_dialog_2_0">
         <text>Ja w sprawie waszego naukowca w laboratorium X-18.</text>
     </string>
@@ -790,7 +790,7 @@
         <text>Tak. Oto ono.</text>
     </string>
 	<string id="dr_luzenko_dialog_2_7">
-        <text>Nie. Jeżeli jest wam potrzebne - zapytajcie u Gieni hakera. Możecie powołać się na mnie.</text>
+        <text>Nie. Jeżeli jest wam potrzebne - zapytajcie u Gena hakera. Możecie powołać się na mnie.</text>
     </string>
 	<string id="dr_luzenko_dialog_2_8">
         <text>Nie.</text>
@@ -813,12 +813,12 @@
 	<string id="dr_luzenko_dialog_2_14">
         <text>W porządku, doktorze. Jesteśmy kwita.</text>
     </string>
-	
+
 	<string id="dr_luzenko_dialog_3_0">
         <text>Co do samolotu - zadanie jest jeszcze aktualne?</text>
     </string>
 	<string id="dr_luzenko_dialog_3_1">
-        <text>Tak-tak! Znaleźliście powietrzne laboratorium?</text>
+        <text>Tak-tak! Znaleźliście drona laboratoryjnego?</text>
     </string>
 	<string id="dr_luzenko_dialog_3_2">
         <text>Tak. Oto współrzędne miejsca upadku.</text>
@@ -829,7 +829,7 @@
 	<string id="dr_luzenko_dialog_3_4">
         <text>Powinniście się pośpieszyć: myślę, że na Bagnach niedługo zrobi się tłoczno.</text>
     </string>
-	
+
 	<string id="dr_pirogov_dialog_1_0">
         <text>Ciekawy macie aparat. Gdzieś już taki widziałem, nie pamiętam gdzie.</text>
     </string>
@@ -914,7 +914,7 @@
     </string>
 
 <string id="dr_pirogov_dialog_5_0">
-        <text>Dok, wróciłem. Prezent wam przyniosłem.</text>
+        <text>Doktorku, wróciłem. Prezent wam przyniosłem.</text>
     </string>
 	<string id="dr_pirogov_dialog_5_1">
         <text>Doskonale! A co z naszym człowiekiem? Faktycznie zginął?</text>
@@ -951,8 +951,8 @@
         <text>Aha, widzę. To idę.</text>
     </string>
 
-    
-	
+
+
 	<string id="f_alexander_dialog_1_0">
         <text>Witajcie, ojcze. Daleko was poniosło.</text>
     </string>
@@ -980,7 +980,7 @@
 	<string id="f_alexander_dialog_1_8">
         <text>Wątpię, ojcze.</text>
     </string>
-	
+
 	<string id="f_sergy_dialog_1_0">
         <text>Witaj, ojcze. Przeszła już depresja?</text>
     </string>
@@ -1035,15 +1035,15 @@
 	<string id="f_sergy_dialog_1_17">
         <text>Pożyjemy - zobaczymy, ojcze.</text>
     </string>
-	
+
 	<string id="lim_military_stalker_commander_dialog_1_0">
-        <text>I ty tutaj? No, to uważaj, że tu na dłużej utkwiłeś. Dopóki ktoś nie wyłączy działek od tej strony.</text>
+        <text>I Ty tutaj? No, to uważaj, że tu na dłużej utkwiłeś. Dopóki ktoś nie wyłączy działek od tej strony.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_1">
         <text>Wyjaśnij.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_2">
-        <text>Najnowsze dane wywiadowcze. W Szpitalu jest panel sterowania działkami. Czarni rajderzy - słyszałeś o takich - to ich dzieło.</text>
+        <text>Najnowsze dane wywiadowcze. W Szpitalu jest panel sterowania działkami. Czarni Najeźcy - słyszałeś o takich - to ich dzieło.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_3">
         <text>Co to za ugrupowanie? Nigdy o nim nie słyszałem.</text>
@@ -1067,13 +1067,13 @@
         <text>A zwiadowcy?</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_10">
-        <text>Słuchaj, przecież już ci mówiłem, Grek! Grupa zwiadu była z przodu, już w obrębie Szpitala… A my na terytorium  niedokończonej budowy, kiedy pojawiły się te działka. Grek, one - jakby z powietrza powstały i od razu otworzyły morderczy ogień. Nie były zamaskowane, zwiad przedtem tam wszystko przeszukał… I… ja nie zwariowałem, Grek: zapytaj moich ludzi - każdy potwierdzi, że działka pojawiły się znikąd.</text>
+        <text>Słuchaj, przecież już Ci mówiłem, Grek! Grupa zwiadu była z przodu, już w obrębie Szpitala… A my na terytorium  niedokończonej budowy, kiedy pojawiły się te działka. Grek, one - jakby z powietrza powstały i od razu otworzyły morderczy ogień. Nie były zamaskowane, zwiad przedtem tam wszystko przeszukał… I… ja nie zwariowałem, Grek: zapytaj moich ludzi - każdy potwierdzi, że działka pojawiły się znikąd.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_11">
         <text>Dlaczego to cię dziwi, Leo? Jak dostaliście się do Limańska? Wyciągnęliście starym singulatorem drzwi z innego czasu. To i działka ukrywają się za osobliwością czasową.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_12">
-        <text>Też tak myślę. Nie chciałem tylko męczyć cię metafizyką…</text>
+        <text>Też tak myślę. Nie chciałem tylko męczyć Cię metafizyką…</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_13">
         <text>Słuchaj, Leo, nie wykonałem twojego zlecenia. Na Agropromie wszyscy twoi byli martwi.</text>
@@ -1085,16 +1085,16 @@
         <text>Tak, już wiem.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_16">
-        <text>Chcę oddać fleszkę. I pieniądze zwrócić, nie zapracowałem.</text>
+        <text>Chcę oddać pendrive. I pieniądze zwrócić, nie zapracowałem.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_17">
-        <text>Chcę zwrócić pieniądze: nie zapracowałem. A fleszka… przepraszam, Leo, nie mam jej - musiałem ją odczytać, żeby dowiedzieć się, gdzie was można znaleźć.</text>
+        <text>Chcę zwrócić pieniądze: nie zapracowałem. A pendrive… przepraszam, Leo, nie mam jej - musiałem ją odczytać, żeby dowiedzieć się, gdzie was można znaleźć.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_18">
-        <text>Zostaw sobie pieniądze, Grek. Wyłączyć albo zniszczyć. Przecież wiem, że przyszedłeś tutaj nie po to, żeby zakomunikować mi o trupach na Agropromie, twoja droga na północ prowadzi?</text>
+        <text>Zostaw sobie pieniądze, Grek. Wyłączyć albo zniszczyć. Przecież wiem, że przyszedłeś tutaj nie po to, żeby zakomunikować mi o trupach na Agropromie, Twoja droga na północ prowadzi?</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_19">
-        <text>Poczekaj, Grek. Słuchaj, tu taka sprawa… Możesz pomóc? Wyłączyć albo zniszczyć działka. Przecież wiem, że przyszedłeś tutaj nie po to, żeby zakomunikować mi o trupach na Agropromie, twoja droga na północ prowadzi?</text>
+        <text>Poczekaj, Grek. Słuchaj, tu taka sprawa… Możesz pomóc? Wyłączyć albo zniszczyć działka. Przecież wiem, że przyszedłeś tutaj nie po to, żeby zakomunikować mi o trupach na Agropromie, Twoja droga na północ prowadzi?</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_1_20">
         <text>To możliwe. Tylko jak dostać się do Szpitala?</text>
@@ -1114,7 +1114,7 @@
 	<string id="lim_military_stalker_commander_dialog_1_25">
         <text>Tak. Trzeba pogadać.</text>
     </string>
-	
+
 	<string id="dr_pirogov_dialog_2_0">
         <text>Doktorze, muszę dostać się do Szpitala.</text>
     </string>
@@ -1130,7 +1130,7 @@
 	<string id="dr_pirogov_dialog_2_4">
         <text>No i masz, znów kłody pod nogi.</text>
     </string>
-	
+
 	<string id="lim_yakovlev_dialog_2_0">
         <text>Pomóż, naczelniku - daj ludzi, komandosów i szturmowców.</text>
     </string>
@@ -1147,12 +1147,12 @@
         <text>Nie na sto procent.</text>
     </string>
 	<string id="lim_yakovlev_dialog_2_5">
-        <text>Słuchaj, Grek, bez pozwolenia Pancera, oczywiście nie mogę dać ci ludzi. A on nie pozwoli. Jest inna opcja - pancerz szturmowy. Nadzwyczaj odporny na stal i ołów. Na serwomotorach. Ale są też minusy. Powiedziałbym - dużo minusów. To prototyp doświadczalny, a więc - niewygodny, ciężki, PNW - praktycznie bezużyteczny. Najgorsze jest to, że daleko mu do autonomii. Czyli, dane do regeneracji pancerza są przesyłane ze stanowiska dowodzenia. Wąską wiązką, dlatego operator powinien znać przybliżone współrzędne obszaru, na którym pancerz będzie eksploatowany. Mówisz, że operacja będzie przeprowadzana w Szpitalu? Tak więc, istnieje duże prawdopodobieństwo, że używając tego pancerza, pozostaniesz w Szpitalu żywy i zdrowy. Pasuje ci taka opcja? Tutaj leżą, bierz jaki chcesz. No i jak?</text>
+        <text>Słuchaj, Grek, bez pozwolenia Grenadiera, oczywiście nie mogę dać Ci ludzi. A on nie pozwoli. Jest inna opcja - pancerz szturmowy. Nadzwyczaj odporny na stal i ołów. Na serwomotorach. Ale są też minusy. Powiedziałbym - dużo minusów. To prototyp doświadczalny, a więc - niewygodny, ciężki, PNW - praktycznie bezużyteczny. Najgorsze jest to, że daleko mu do autonomii. Czyli, dane do regeneracji pancerza są przesyłane ze stanowiska dowodzenia. Wąską wiązką, dlatego operator powinien znać przybliżone współrzędne obszaru, na którym pancerz będzie eksploatowany. Mówisz, że operacja będzie przeprowadzana w Szpitalu? Tak więc, istnieje duże prawdopodobieństwo, że używając tego pancerza, pozostaniesz w Szpitalu żywy i zdrowy. Pasuje Ci taka opcja? Tutaj leżą, bierz jaki chcesz. No i jak?</text>
     </string>
 	<string id="lim_yakovlev_dialog_2_6">
         <text>Rozumiem, naczelniku. Chcecie wypróbowac pancerz w warunkach bojowych. Dobra, zaryzykuję.</text>
     </string>
-	
+
 	<string id="lim_military_stalker_commander_dialog_2_0">
         <text>Leo, pomóc trzeba ze Szpitalem: jestem już chory z wściekłości.</text>
     </string>
@@ -1162,18 +1162,18 @@
 	<string id="lim_military_stalker_commander_dialog_2_2">
         <text>To oczywiste… Cóż…</text>
     </string>
-	
+
 	<string id="esc_col_panzer_dialog_1_0">
-        <text>Cieszę się, widząc cię w dobrym zdrowiu, Grek.</text>
+        <text>Cieszę się, widząc Cię w dobrym zdrowiu, Grek.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_1">
-        <text>Jesteś pieprzonym psycholem, Pancer. Przecież można było po cichu, nocą, wykłuć nożami grcowców.</text>
+        <text>Jesteś pieprzonym psycholem, Grenadier. Przecież można było po cichu, nocą, wykłuć nożami GRCowców.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_2">
-        <text>Cóż, jak go spotkasz, to możesz pouczyć Fidela, jak było warto działać przy szturmie koszar Moncada. Potrzebowaliśmy rezonansu, i już go prawie uzyskaliśmy. Dobra, emocje na bok. Zostały ci jakieś sprawy w Dolinie Mroku? Potrzebujesz pomocy?</text>
+        <text>Cóż, jak go spotkasz, to możesz pouczyć Fidela, jak było warto działać przy szturmie koszar Moncada. Potrzebowaliśmy rekonansu, i już go prawie uzyskaliśmy. Dobra, emocje na bok. Zostały Ci jakieś sprawy w Dolinie Mroku? Potrzebujesz pomocy?</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_3">
-        <text>A to już nie twój interes, Pancer, czy mam jakieś sprawy, czy nie. A nawet jeśli mam - poradzę sobie bez ciebie. Zrobię wszystko sam. Cicho i bez zadymy.</text>
+        <text>A to już nie twój interes, Grenadier, czy mam jakieś sprawy, czy nie. A nawet jeśli mam - poradzę sobie bez Ciebie. Zrobię wszystko sam. Cicho i bez zadymy.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_4">
         <text>Dobrze. Potem poślę swoich, niech się wyszaleją.</text>
@@ -1182,36 +1182,36 @@
         <text>Co chcesz osiągnąć, pułkowniku?</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_6">
-        <text>Cóż, jeżeli tak całkiem w skrócie… Powrót stalkerów do Zony. Niech znowu przedostają się do Centrum, niech zbierają artefakty i straszne tajemnicze legendy. A nasi analitycy tak obrobią te legendy, pozostawią takie udokumentowane «dowody», że najbardzie zdeprawowanej szumowinie krew będzie stygnąć w żyłach po jednym słowie - Zona. I stalkerzy sami uciekną z Zony. A, kiedy ostatni stalker znajdzie się za Perymetrem, zamkniemy Zonę na zawsze.</text>
+        <text>Cóż, jeżeli tak całkiem w skrócie… Powrót stalkerów do Zony. Niech znowu przedostają się do Centrum, niech zbierają artefakty i straszne tajemnicze legendy. A nasi analitycy tak obrobią te legendy, pozostawią takie udokumentowane «dowody», że najbardziej zdeprawowanej szumowinie krew będzie stygnąć w żyłach po jednym słowie - Zona. I stalkerzy sami uciekną z Zony. A, kiedy ostatni stalker znajdzie się za Perymetrem, zamkniemy Zonę na zawsze.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_7">
         <text>W Centrum, za Barierą zostali ludzie.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_8">
-        <text>I to ty ich stamtąd wyprowadzisz. Przecież tam właśnie się kierujesz. A my będziemy ci pomagać jak tylko będziemy mogli. Nawet pomożemy z przedostaniem się do Centrum Zony. Powiadomię cię, jak tylko taka możliwość się pojawi.</text>
+        <text>I to Ty ich stamtąd wyprowadzisz. Przecież tam właśnie się kierujesz. A my będziemy Ci pomagać jak tylko będziemy mogli. Nawet pomożemy z przedostaniem się do Centrum Zony. Powiadomię Cię, jak tylko taka możliwość się pojawi.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_9">
         <text>Dobrze, jesteśmy umówieni.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_10">
-        <text>Znaczy, dogadane! Dalej, zaczynaj rżnąć swoim nożem, ruszaj «po cichu» do Doliny Mroku. I niczego się nie bój: pamiętaj - za twoimi plecami stoi Powinność. Nie żegnam się.</text>
+        <text>Znaczy, dogadane! Dalej, zaczynaj rżnąć swoim nożem, ruszaj «po cichu» do Doliny Mroku. I niczego się nie bój: pamiętaj - za Twoimi plecami stoi Powinność. Nie żegnam się.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_11">
         <text>A szkoda.</text>
     </string>
-	
+
 	<string id="sidor_dialog_about_resettlement_0">
         <text>Wróciłeś na stare śmieci, Sidorycz?</text>
     </string>
 	<string id="sidor_dialog_about_resettlement_1">
-        <text>Nareszcie, Grek, dawno już nie widziałem rodzimego bunkra, po nocach mi się śnił. Więc - wchodź, zawsze ci jestem rad.</text>
+        <text>Nareszcie, Grek, dawno już nie widziałem rodzimego bunkra, po nocach mi się śnił. Więc - wchodź, zawsze Ci jestem rad.</text>
     </string>
 	<string id="sidor_dialog_about_resettlement_2">
-        <text>Jak tu żyć bez ciebie, Sidorycz!</text>
+        <text>Jak tu żyć bez Ciebie, Sidorycz!</text>
     </string>
-	
+
 	<string id="marsh_uzbek_wr_dialog_3_0">
-        <text>Złe wieści mam dla ciebie, Baszar. Krewnego twojego, Teutona, na Sortowni załatwili na mokro.</text>
+        <text>Złe wieści mam dla Ciebie, Baszar. Krewnego twojego, Teutona, na Sortowni załatwili na mokro.</text>
     </string>
 	<string id="marsh_uzbek_wr_dialog_3_1">
         <text>Już o tym wiem. I wiesz co, Grek, nie bardzo mnie to martwi: tego durnia i tak by ktoś załatwił. Wcześniej czy później.</text>
@@ -1228,7 +1228,7 @@
 	<string id="marsh_uzbek_wr_dialog_3_5">
         <text>To całkiem prawdopodobne.</text>
     </string>
-	
+
 	<string id="marsh_galash_dialog_5_0">
         <text>Pamiętasz swoich zabitych zwiadowców, Saniek?</text>
     </string>
@@ -1236,10 +1236,10 @@
         <text>No chyba. Z głowy mi to nie chce wyjść. Nic przy sobie nie mieli - prawda? Przecież to nie dziki ich obrobiły. Więc powstaje pytanie - kto? Jeżeli ludzie Grabarza, to oni by i ciała z sobą wzięli. Potem by je w pentagram położyli, albo w rozpadlinę wrzucili.</text>
     </string>
 	<string id="marsh_galash_dialog_5_2">
-        <text>Twoi zwiadowcy, grupa Wodnego Szczura, kopacze, a teraz i Teuton z Bajdą. Wygląda to wszystko na ogniwa jednego łańcuszka.</text>
+        <text>Twoi zwiadowcy, grupa Karczownika, kopacze, a teraz i Teuton z Bajdą. Wygląda to wszystko na ogniwa jednego łańcuszka.</text>
     </string>
 	<string id="marsh_galash_dialog_5_3">
-        <text>Bardzo prawdopodobne. Słuchaj, Grek, jeden z grupy Szczura przecież przeżył. Kutcher. Znasz go?</text>
+        <text>Bardzo prawdopodobne. Słuchaj, Grek, jeden z grupy Karczownika przecież przeżył. Kutcher. Znasz go?</text>
     </string>
 	<string id="marsh_galash_dialog_5_4">
         <text>Z widzenia. Tylko, że pewnie będzie zaćpany, jeżeli już nie zdechł, jak jego koleżka, Simpson.</text>
@@ -1257,26 +1257,26 @@
         <text>Jeżeli łańcuszek doprowadzi do cholerstwa, o którym myślę, to można pogadać.</text>
     </string>
 	<string id="marsh_galash_dialog_5_9">
-        <text>Twoi zwiadowcy, grupa Wodnego Szczura, kopacze. Może jeszcze i Teuton z Bajdą. Wygląda to wszystko na ogniwa jednego łańcuszka.</text>
+        <text>Twoi zwiadowcy, grupa Karczownika, kopacze. Może jeszcze i Teuton z Bajdą. Wygląda to wszystko na ogniwa jednego łańcuszka.</text>
     </string>
-	
+
 	<string id="catcher_dialog_1_0">
         <text>Cześć, Kutcher. Wydaje mi się, że przespałeś najciekawsze zdarzenia w ostatnich dniach na Bagnach, albo tak tylko udajesz. Bez różnicy: musimy pogadać.</text>
     </string>
 	<string id="catcher_dialog_1_1">
-        <text>Ktoś ty? Znamy się?</text>
+        <text>Ktoś Ty? Znamy się?</text>
     </string>
 	<string id="catcher_dialog_1_2">
-        <text>To nie ważne, mój naćpany bracie. Wodny Szczur, kopacze z bazy Wolności, Grabarz, pentagramy - jak to wszystko się ze sobą łączy?</text>
+        <text>To nie ważne, mój naćpany bracie. Karczownik, kopacze z bazy Wolności, Grabarz, pentagramy - jak to wszystko się ze sobą łączy?</text>
     </string>
 	<string id="catcher_dialog_1_3">
-        <text>Nie rozumiem o czym ty bredzisz? I, w ogóle, poszedłbyś swoją drogą, stalkerze, nie chce mi się z tobą gadać.</text>
+        <text>Nie rozumiem o czym ty bredzisz? I, w ogóle, poszedłbyś swoją drogą, stalkerze, nie chce mi się z Tobą gadać.</text>
     </string>
 	<string id="catcher_dialog_1_4">
         <text>Słuchaj uważnie, frajerze, na Sortowni gruchnęli krewnego Uzbeka. Też był wplątany w tą historię. Nie chcesz gadać ze mną - pogadasz z Uzbekiem. Milczysz? No, to na razie. Kutcher.</text>
     </string>
 	<string id="catcher_dialog_1_5">
-        <text>Na cholerę ci to, stalkerze? Popatrz na mnie - siedzę i głowę sobie łamię - dokąd uciec?</text>
+        <text>Na cholerę Ci to, stalkerze? Popatrz na mnie - siedzę i głowę sobie łamię - dokąd uciec?</text>
     </string>
 	<string id="catcher_dialog_1_6">
         <text>Nie stękaj, tylko mów jak było. Od samego początku. Od zwiadowców Gałasza.</text>
@@ -1300,7 +1300,7 @@
         <text>A zwiadowcy Gałasza co na Wysypisku robili? Też byli na samowolce?</text>
     </string>
 	<string id="catcher_dialog_1_13">
-        <text>Jaka samowolka? To przecież biznes grupy Gałasza. Gałasz znajduje klienta na Sortowni, albo na Bagnach. No, na przykład, naukowca, dziennikarza, albo zwykłego fotografa. Na ogół dziwaka śliniącego się na myśl o dostaniu się do Zony. Zapoznają się z celami ekspedycji, zawierają umowę. Zwiadowcy wyznaczają optymalną trasę, zaznaczają miejsca noclegu i.t.p., a potem ci zwiadowcy prowadzą dziwaka w Zonę i z powrotem. I wszyscy są zadowoleni.</text>
+        <text>Jaka samowolka? To przecież biznes grupy Gałasza. Gałasz znajduje klienta na Sortowni, albo na Bagnach. No, na przykład, naukowca, dziennikarza, albo zwykłego fotografa. Na ogół dziwaka śliniącego się na myśl o dostaniu się do Zony. Zapoznają się z celami ekspedycji, zawierają umowę. Zwiadowcy wyznaczają optymalną trasę, zaznaczają miejsca noclegu itp., a potem ci zwiadowcy prowadzą dziwaka w Zonę i z powrotem. I wszyscy są zadowoleni.</text>
     </string>
 	<string id="catcher_dialog_1_14">
         <text>Kogo wtedy prowadzili? Albo tylko trasę wyznaczali?</text>
@@ -1321,10 +1321,10 @@
         <text>Nic się nie stało. Rozstaliśmy się w ich obozie. My z Borką do siebie na wieżę ruszyliśmy. Daleko nie odeszliśmy - usłyszeliśmy sygnał radiowy na otwartej fali. Wojskowy helikopter spadał. Więc, postanowiliśmy, że może z wraku uda się coś wyciągnąć, coś co u Grubera da się na te pułapki parasolkowe zamienić. Prawie się udało.</text>
     </string>
 	<string id="catcher_dialog_1_20">
-        <text>Aha. Macie za swoje, łajdaki. A u Wodnego Szczura to żeście głodni i bosi chodzili?</text>
+        <text>Aha. Macie za swoje, łajdaki. A u Karczownika to żeście głodni i bosi chodzili?</text>
     </string>
 	<string id="catcher_dialog_1_21">
-        <text>W sumie to tak. Na psiej karmie. Szczur wszystkich karmił obietnicami, niby, niedługo ruszymy za horyzont, za bogactwem niezmierzonym.</text>
+        <text>W sumie to tak. Na psiej karmie. Ten szczur Karczownik wszystkich karmił obietnicami, niby, niedługo ruszymy za horyzont, za bogactwem niezmierzonym.</text>
     </string>
 	<string id="catcher_dialog_1_22">
         <text>Tak właśnie mówił - «za horyzont»?</text>
@@ -1336,16 +1336,16 @@
         <text>A kopacze?</text>
     </string>
 	<string id="catcher_dialog_1_25">
-        <text>Tacy z nich kopacze jak ze mnie i z ciebie.</text>
+        <text>Tacy z nich kopacze jak ze mnie i z Ciebie.</text>
     </string>
 	<string id="catcher_dialog_1_26">
-        <text>Zlaticz ich szukał. Mówił, że to kopacze.</text>
+        <text>Zlatić ich szukał. Mówił, że to kopacze.</text>
     </string>
 	<string id="catcher_dialog_1_27">
-        <text>To proste, stalkerze. Ubezpieczenie. Idziesz do Zlaticza, zostawiasz pieniądze. Omawiasz działania, które przedsięweźmie Wolność, jeżeli klient nie nawiąże łączności. Przy każdym wariancie pieniądze pozostają u Zlaticza. Normalny ubezpieczeniowy biznes.</text>
+        <text>To proste, stalkerze. Ubezpieczenie. Idziesz do Zlatića, zostawiasz pieniądze. Omawiasz działania, które przedsięweźmie Wolność, jeżeli klient nie nawiąże łączności. Przy każdym wariancie pieniądze pozostają u Zlatića. Normalny ubezpieczeniowy biznes.</text>
     </string>
 	<string id="catcher_dialog_1_28">
-        <text>Szczur znał tych «kopaczy»?</text>
+        <text>Karczownik znał tych «kopaczy»?</text>
     </string>
 	<string id="catcher_dialog_1_29">
         <text>Chyba tak. Widziano ich razem.</text>
@@ -1366,7 +1366,7 @@
         <text>A o Teutonie wiesz coś?</text>
     </string>
 	<string id="catcher_dialog_1_35">
-        <text>Zięć, czy też szwagier Uzbeka, tak? Pojawiał się na Bagnach. Niby, że do Uzbeka po rozkazy chodził. Ale więcej go u Krzemienia widziano. Z Bajdą się przyjaźnił, czy coś w tym rodzaju. A Bajda - to dopiero typ. U Grabarza w niewoli był, niby, że udało mu się uciec. Akurat. Nie trzymał Grabarz jeńców. Nie potrzebni mu byli żywi, za okupami nie ganiał. Od razu do piachu.</text>
+        <text>Zięć, czy też szwagier Uzbeka, tak? Pojawiał się na Bagnach. Niby, że do Uzbeka po rozkazy chodził. Ale więcej go u Krzemienia widziano. Z Bajdą się przyjaźnił, czy coś w tym rodzaju. A Bajda - to dopiero typ. U Grabarza w niewoli był, niby, że udało mu się uciec. Akurat! Nie trzymał Grabarz jeńców. Nie potrzebni mu byli żywi, za okupami nie ganiał. Od razu do piachu.</text>
     </string>
 	<string id="catcher_dialog_1_36">
         <text>Wydaje się, że wszystko o wszystkich wiesz.</text>
@@ -1377,9 +1377,9 @@
 	<string id="catcher_dialog_1_38">
         <text>To dobrze. Jestem zadowolony z rozmowy. Bywaj, Kutcher.</text>
     </string>
-	
+
 	<string id="marsh_galash_dialog_6_0">
-        <text>Saniek, twoi zwiadowcy przewodnicy ostatnim razem jakiegoś Polaka do Doliny odprowadzali, było tak?</text>
+        <text>Twoi zwiadowcy przewodnicy ostatnim razem jakiegoś Polaka do Doliny odprowadzali, było tak?</text>
     </string>
 	<string id="marsh_galash_dialog_6_1">
         <text>Aha, było. Inżynier-technik systemów. Z Polski. Po sposobie bycia, chyba - naukowiec. Ale - nie naukowiec, to ważne: był doskonale wyekwipowany.</text>
@@ -1396,7 +1396,7 @@
 	<string id="marsh_galash_dialog_6_5">
         <text>M-m-m. Dobra, zapamiętam. Do zobaczenia, Saniek.</text>
     </string>
-	
+
 	<string id="last_sinoptic_dialog_1_0">
         <text>Uporządkowałeś sprawy na Sortowni?</text>
     </string>
@@ -1445,7 +1445,7 @@
 	<string id="last_sinoptic_dialog_1_15">
         <text>Hmm. Czyżbyś się nie domyślał? Do Centrum.</text>
     </string>
-	
+
 	<string id="last_sinoptic_dialog_2_0">
         <text>Do Centrum Zony? Jesteś pewny?</text>
     </string>
@@ -1458,14 +1458,14 @@
 	<string id="last_sinoptic_dialog_2_3">
         <text>Dobrze.</text>
     </string>
-	
+
 	<string id="esc_grc_agent_dialog_1_0">
         <text>Nie rozmyśliliście się, panie Grek?</text>
     </string>
 	<string id="esc_grc_agent_dialog_1_1">
         <text>Ruszaj naprzód, gaduło.</text>
     </string>
-	
+
 	<string id="lim_kasper_dialog_1_0">
         <text>A gdzie twoi przyjaciele, Kasper?</text>
     </string>
@@ -1493,7 +1493,7 @@
 	<string id="lim_kasper_dialog_1_8">
         <text>Rozumiem. Pójdę sam spytać.</text>
     </string>
-	
+
 	<string id="dr_luzenko_dialog_4_0">
         <text>Doktorze, znalazłem coś w fabryce na Sortowni.</text>
     </string>
@@ -1509,7 +1509,7 @@
 	<string id="dr_luzenko_dialog_4_4">
         <text>Nie ma sprawy, doktorze.</text>
     </string>
-	
+
 	<string id="dr_pirogov_dialog_3_0">
         <text>Znaczy się - to teleporter, a nie maszyna czasu?</text>
     </string>
@@ -1525,12 +1525,12 @@
 	<string id="dr_pirogov_dialog_3_4">
         <text>Rozumiem.</text>
     </string>
-	
+
 	<string id="marsh_yalta_dialog_1_0">
         <text>Widzę, że dotarliście. Jak Uzbek was przyjął?</text>
     </string>
 	<string id="marsh_yalta_dialog_1_1">
-        <text>W porządku przyjął. Dziękuję ci, Grek - nie przypuszczałem, że po naszym spotkaniu w Dolinie Mroku szepniesz za nas słówko.</text>
+        <text>W porządku przyjął. Dziękuję Ci, Grek - nie przypuszczałem, że po naszym spotkaniu w Dolinie Mroku szepniesz za nas słówko.</text>
     </string>
 	<string id="marsh_yalta_dialog_1_2">
         <text>Już dobra, kto byłe wspomina - temu… Dalej co zamierzacie?</text>
@@ -1541,7 +1541,7 @@
 	<string id="marsh_yalta_dialog_1_4">
         <text>Rozumiem. Powodzenia, bracia.</text>
     </string>
-	
+
 	<string id="marsh_zulus_dialog_1_0">
         <text>Cześć, Zulus.</text>
     </string>
@@ -1552,7 +1552,7 @@
         <text>Przypomniałem sobie. O, i Wano tutaj. Czuję w kościach - Nowy Wielki Marsz do Prypeci się szykuje.</text>
     </string>
 	<string id="marsh_zulus_dialog_1_3">
-        <text>Czego ci trzeba?</text>
+        <text>Czego Ci trzeba?</text>
     </string>
 	<string id="marsh_zulus_dialog_1_4">
         <text>Mam kilka pytań.</text>
@@ -1611,7 +1611,7 @@
 	<string id="marsh_zulus_dialog_1_22">
         <text>No, powodzenia, bratki.</text>
     </string>
-	
+
 	<string id="f_alexander_dialog_2_0">
         <text>Witajcie, ojcowie!</text>
     </string>
@@ -1627,9 +1627,9 @@
 	<string id="f_alexander_dialog_2_4">
         <text>Jeszcze jedna sprawa mi została. Jeżeli poczekacie na mój powrót - to ja z wami.</text>
     </string>
-	
+
 	<string id="f_sergy_dialog_2_0">
-        <text>I tobie zdrowia życzę, ojcze.</text>
+        <text>I Tobie zdrowia życzę, ojcze.</text>
     </string>
 	<string id="f_sergy_dialog_2_1">
         <text>Bardzo byś nam pomógł, Grek, gdybyś przyłączył się do naszego marszu.</text>
@@ -1643,7 +1643,7 @@
 	<string id="f_sergy_dialog_2_4">
         <text>Nie porzucać mi was, ojcowie. Muszę załatwić jeszcze jedną sprawę i wrócę do was.</text>
     </string>
-	
+
 	<string id="pri_military_stalker_commander_dialog_1_0">
         <text>Słuchaj, Leo, nikogo, prócz tych diabłów, nie spotkaliście tu, w środku?</text>
     </string>
@@ -1659,7 +1659,7 @@
 	<string id="pri_military_stalker_commander_dialog_1_4">
         <text>Dobra. Też poszperam w okolicy.</text>
     </string>
-	
+
 	<string id="pri_zulus_dialog_1_0">
         <text>Kogo to widzę.</text>
     </string>
@@ -1678,7 +1678,7 @@
 	<string id="pri_zulus_dialog_1_5">
         <text>Aha. Dziękuję.</text>
     </string>
-	
+
 	<string id="pri_zulus_dialog_1_6">
         <text>Chcesz jeszcze o coś spytać?</text>
     </string>
@@ -1686,7 +1686,7 @@
         <text>Nie mogę tego zrozumieć - co w Zonie robi ten sławny potomek afrykańskich wojowników. I jeszcze w kompanii takich doświadczonych stalkerów, jak wy?</text>
     </string>
 	<string id="pri_zulus_dialog_1_8">
-        <text>Hm, Grek, a co ty robisz w Zonie?</text>
+        <text>Hm, Grek, a co Ty robisz w Zonie?</text>
     </string>
 	<string id="pri_zulus_dialog_1_9">
         <text>Przecież wiesz - mam tu swoje sprawy.</text>
@@ -1704,7 +1704,7 @@
         <text>Jasne. Dziwne. Dobra, bywaj, bracie!</text>
     </string>
 
-	
+
 	<string id="pri_gunman_dialog_1_0">
         <text>Witaj, Grek.</text>
     </string>
@@ -1712,7 +1712,7 @@
         <text>Oczom nie wierzę! Striełok? Uwierz - jestem naprawdę zdumiony. Legenda Zony…</text>
     </string>
 	<string id="pri_gunman_dialog_1_2">
-        <text>Też stajesz się legendą, Grek. Po kilku dniach o twoim powrocie mówiła cała Zona, a to o twoich czynach bohaterskich, i ogólnie…</text>
+        <text>Też stajesz się legendą, Grek. Po kilku dniach o Twoim powrocie mówiła cała Zona, a to o Twoich czynach bohaterskich, i ogólnie…</text>
     </string>
 	<string id="pri_gunman_dialog_1_3">
         <text>Będzie mogła instalacja na Wysypisku naprawić horyzont, Striełok?</text>
@@ -1733,7 +1733,7 @@
         <text>Grek, w czasie gdy ty ciągałeś makiety do schowka, grupa Synoptyka wszystko przygotowała… Nie mogę ci więcej powiedzieć, Grek, przejdź Barierę, znajdź panel - szast prast i już. Tobie wypadnie przejść przez horyzont.</text>
     </string>
 	<string id="pri_gunman_dialog_1_9">
-        <text>Takie to proste, Striełok! A gdzie jeszcze pójść?! Wyłączyć Barierę?! Tak, na miłość boską! A, co - Zmieniający Oblicza - martwy?</text>
+        <text>Takie to proste, Striełok! A gdzie jeszcze pójść?! Wyłączyć Barierę?! Tak, na miłość boską! A, co - Doppler - martwy?</text>
     </string>
 	<string id="pri_gunman_dialog_1_10">
         <text>Nie. Trzeba go zabić. Ale kule się go nie imają. A póki on żyje - Poszukiwacze nie wyłączą Bariery</text>
@@ -1742,7 +1742,7 @@
         <text>No proszę. Znalazł się haczyk.</text>
     </string>
 	<string id="pri_gunman_dialog_1_12">
-        <text>Przestań panikować, Grek - warlock. Widzę, że masz warlocka.</text>
+        <text>Przestań panikować, Grek... warlock. Widzę, że masz warlocka.</text>
     </string>
 	<string id="pri_gunman_dialog_1_13">
         <text>Złom. On tylko energię zużywa. Strzału nie ma.</text>
@@ -1760,25 +1760,25 @@
         <text>Griszka? To dobrze, postaram się go znaleźć.</text>
     </string>
 	<string id="pri_gunman_dialog_1_18">
-        <text>Przestań panikować, Grek - Zmieniający Oblicza boi się kutego żelaza. Pamiętam, że widziałem u ciebie noże, którymi operował najemnik Johnny. Masz je jeszcze?</text>
+        <text>Przestań panikować, Grek - Doppler boi się kutego żelaza. Pamiętam, że widziałem u Ciebie noże, którymi operował najemnik Johnny. Masz je jeszcze?</text>
     </string>
 	<string id="pri_gunman_dialog_1_19">
         <text>Tak, mam jeszcze kilka sztuk. Myślisz, że można go nożem?</text>
     </string>
 	<string id="pri_gunman_dialog_1_20">
-        <text>Tak. Myślę, że Zmieniający Oblicza obawiał się Johnnego z powodu tych ostrzy. Dlatego go nie ruszał.</text>
+        <text>Tak. Myślę, że Doppler obawiał się Johnnego z powodu tych ostrzy. Dlatego go nie ruszał.</text>
     </string>
 	<string id="pri_gunman_dialog_1_21">
         <text>Hm, ciekawy pomysł.</text>
     </string>
 	<string id="pri_gunman_dialog_1_22">
-        <text>Pamiętaj, że będziesz miał tylko jedną próbę, do drugiej Zmieniający Oblicza już nie dopuści. Uderzyć musisz bezbłędnie, na pewniaka. Z dystansu możesz nawet nie próbować - postawi ochronę i zabije cię bez wahania. A jak tylko Bariera zostanie wyłączona - włączymy HSM na Wysypisku.</text>
+        <text>Pamiętaj, że będziesz miał tylko jedną próbę, do drugiej Doppler już nie dopuści. Uderzyć musisz bezbłędnie, na pewniaka. Z dystansu możesz nawet nie próbować - postawi ochronę i zabije Cię bez wahania. A jak tylko Bariera zostanie wyłączona - włączymy HSM na Wysypisku.</text>
     </string>
 	<string id="pri_gunman_dialog_1_23">
         <text>Dobrze. Mam nadzieję, że jeszcze pogadamy.</text>
     </string>
 	<string id="pri_gunman_dialog_1_24">
-        <text>Trzeba coś wymyślić, Grek. Znajdź Sławika, namów go. Oszukaj, jeśli będzie trzeba. Ty jesteś złodziejem, nie mi uczyć cię jak zakręcić frajerem.</text>
+        <text>Trzeba coś wymyślić, Grek. Znajdź Sławika, namów go. Oszukaj, jeśli będzie trzeba. Ty jesteś złodziejem, nie mi uczyć Cię jak zakręcić frajerem.</text>
     </string>
 	<string id="pri_gunman_dialog_1_25">
         <text>Sławik nie jest frajerem. Byłby frajerem - nie byłby teraz Sławikiem.</text>
@@ -1786,7 +1786,7 @@
 	<string id="pri_gunman_dialog_1_26">
         <text>Przecież wiem... W sumie, plan jest taki: jak tylko Bariera zostanie wyłączona - włączymy HSM na Wysypisku. Innej opcji nie ma.</text>
     </string>
-	
+
 	<string id="pri_gunman_dialog_1_27">
         <text>Poczekaj, Grek, widzę, że masz bardzo interesującą broń.</text>
     </string>
@@ -1800,13 +1800,13 @@
         <text>Dlaczego pytasz?</text>
     </string>
 	<string id="pri_gunman_dialog_1_31">
-        <text>Widzisz tę optykę na nim? Ten celownik robiono specjalnie dla mnie i według moich schematów. Robili go tu, w Zonie. Dlatego mogę powiedzieć z całą pewnością - to mój stanner. Ale ktoś mój schowek oczyścił. Nie winię ciebie, nie myśl sobie, w schowku było jeszcze około 500 ładunków do niego. A mówisz, że masz mało amunicji. Znaczy to nie twoja sprawka. To co powiesz? Skąd go wziąłeś?</text>
+        <text>Widzisz tę optykę na nim? Ten celownik robiono specjalnie dla mnie i według moich schematów. Robili go tu, w Zonie. Dlatego mogę powiedzieć z całą pewnością - to mój stanner. Ale ktoś mój schowek oczyścił. Nie winię Ciebie, nie myśl sobie, w schowku było jeszcze około 500 ładunków do niego. A mówisz, że masz mało amunicji. Znaczy to nie Twoja sprawka. To co powiesz? Skąd go wziąłeś?</text>
     </string>
 	<string id="pri_gunman_dialog_1_32">
         <text>Zwyczajnie, Striełok. Zabrałem go dowódcy GRC na Kordonie. On w tym czasie był już nie do końca żywy. Można nawet powiedzieć - całkiem martwy. Chcesz dochodzić praw do broni?</text>
     </string>
 	<string id="pri_gunman_dialog_1_33">
-        <text>Więc to oni obrobili mój schowek... Nie, Grek, to twoje trofeum, korzystaj. Po prostu powinienem schować go lepiej.</text>
+        <text>Więc to oni obrobili mój schowek... Nie, Grek, to Twoje trofeum, korzystaj. Po prostu powinienem schować go lepiej.</text>
     </string>
 	<string id="pri_gunman_dialog_1_34">
         <text>A podpowiesz skąd wziąć ładunki do niego?</text>
@@ -1819,13 +1819,13 @@
     </string>
 	<string id="pri_gunman_dialog_1_37">
         <text>Dobra. Mam nadzieję, że jeszcze pogadamy.</text>
-    </string>	
-	
+    </string>
+
 	<string id="pri_budulay_dialog_1_0">
         <text>Cześć, Grisza.</text>
     </string>
 	<string id="pri_budulay_dialog_1_1">
-        <text>Cześć, Grek. Mów, czego ci trzeba?</text>
+        <text>Cześć, Grek. Mów, czego Ci trzeba?</text>
     </string>
 	<string id="pri_budulay_dialog_1_2">
         <text>Już nic.</text>
@@ -1840,7 +1840,7 @@
         <text>Więc naprawisz czy nie?</text>
     </string>
 	<string id="pri_budulay_dialog_1_6">
-        <text>Cholera. Niech będzie. Tego zostaw, a ja ci dam działający.</text>
+        <text>Cholera. Niech będzie. Tego zostaw, a ja Ci dam działający.</text>
     </string>
 	<string id="pri_budulay_dialog_1_7">
         <text>O! Dziękuję, Grisza!</text>
@@ -1853,13 +1853,13 @@
     </string>
 	<string id="pri_budulay_dialog_1_10">
         <text>Czego stoisz? Idź już.</text>
-    </string>	
+    </string>
 	<string id="pri_budulay_dialog_1_11">
         <text>Jeszcze jedno, Grisza, a ładunki gdzie można do niego zdobyć?</text>
-    </string>	
+    </string>
 	<string id="pri_budulay_dialog_1_12">
         <text>Nie ładunki, a akumulatory. Nie wiem. Ja zbędnych nie mam.</text>
-    </string>	
+    </string>
 	<string id="pri_budulay_dialog_1_13">
         <text>Zbędnych... A niezbędne skąd bierzesz?</text>
     </string>
@@ -1877,32 +1877,32 @@
     </string>
 	<string id="pri_budulay_dialog_1_18">
         <text>Grek, wszyscy ludzie są tacy sami. Jak zobaczył arty, które mu zaproponowałem na zamianę - aż ręce mu się zatrzęsły. Prawie biegiem poleciał po towar.</text>
-    </string>	
+    </string>
 	<string id="pri_budulay_dialog_1_19">
         <text>Niedobrze, Grisza. Nie ma już Krasnowa. Nie żyje.</text>
-    </string>	
+    </string>
 	<string id="pri_budulay_dialog_1_20">
-        <text>To ty go?..</text>
-    </string>	
+        <text>To Ty go?..</text>
+    </string>
 	<string id="pri_budulay_dialog_1_21">
         <text>Teraz to już nieważne.</text>
-    </string>	
+    </string>
 	<string id="pri_budulay_dialog_1_22">
-        <text>Ha, Grek. Podobasz mi się... Oto co ci powiem. Gdzieś tam jest jego schowek. Z pewnością! Wrócił do mnie z bateriami dosłownie po kilku minutach. Znaczy niedaleko od muru. Może w młynie, może na ATP. Gdzieś niedaleko, pod bokiem. Poszukaj, jeśli jest potrzeba.</text>
-    </string>	
+        <text>Ha, Grek. Podobasz mi się... Oto co Ci powiem. Gdzieś tam jest jego schowek. Z pewnością! Wrócił do mnie z bateriami dosłownie po kilku minutach. Znaczy niedaleko od muru. Może w młynie, może na ATP. Gdzieś niedaleko, pod bokiem. Poszukaj, jeśli jest potrzeba.</text>
+    </string>
 	<string id="pri_budulay_dialog_1_23">
         <text>Dziękuję, Grisza. Będę w tamtej okolicy - może i poszukam.</text>
     </string>
 
 
-	
+
 	<string id="f_sergy_dialog_3_0">
         <text>A oto i Grek przyszedł. Zbieramy się.</text>
     </string>
 	<string id="f_sergy_dialog_3_1">
         <text>Mam przeczucie - gorąco będzie na CEA. Bądźcie ostrożni, ojcowie… Ruszamy.</text>
     </string>
-	
+
 	<string id="kat_princeps_dialog_1_0">
         <text>Cześć, Grek.</text>
     </string>
@@ -1916,25 +1916,25 @@
         <text>Mam dziwne wrażenie, Doktorze, że już tu bywałem. Znajome dźwięki, znajome zapachy…</text>
     </string>
 	<string id="kat_princeps_dialog_1_4">
-        <text>Ty nic nie pamiętasz… Nasi zwiadowcy przynieśli cię tutaj z Prypeci rok temu. Prawie nieżywego, tak powiedzmy. Z ogromnym trudem udało się ciebie reanimować. Jeszcze więcej czasu poszło na odbudowanie funkcji mózgu - zbyt długo był pozbawiony tlenu. Technologie ugrupowania Apokalipsa pomogły przywrócić ci rozum.</text>
+        <text>Ty nic nie pamiętasz… Nasi zwiadowcy przynieśli Cię tutaj z Prypeci rok temu. Prawie nieżywego, tak powiedzmy. Z ogromnym trudem udało się Ciebie reanimować. Jeszcze więcej czasu poszło na odbudowanie funkcji mózgu - zbyt długo był pozbawiony tlenu. Technologie ugrupowania Apokalipsa pomogły przywrócić Ci rozum.</text>
     </string>
 	<string id="kat_princeps_dialog_1_5">
         <text>Czyli - też teraz jestem wyr… to znaczy innym?</text>
     </string>
 	<string id="kat_princeps_dialog_1_6">
-        <text>Nie. Inni stali się innymi w rezultacie nieudanego eksperymentu Apokalipsy. Ale w chwili transformacji mózg zwykłego innego był żywy. Z tobą zaś… Ja nie wiem ktoś ty taki, Grek.</text>
+        <text>Nie. Inni stali się innymi w rezultacie nieudanego eksperymentu Apokalipsy. Ale w chwili transformacji mózg zwykłego innego był żywy. Z Tobą zaś… Ja nie wiem ktoś ty taki, Grek.</text>
     </string>
 	<string id="kat_princeps_dialog_1_7">
         <text>Świetnie. Przyjaciel zabił mnie w Prypeci. Wyrodki przytaszczyły mnie tutaj i przerobiono mnie na na jakiegoś zombie za pomocą technologii nieistniejącego już ugrupowania. Jestem wprost zachwycony!</text>
     </string>
 	<string id="kat_princeps_dialog_1_8">
-        <text>Przyjaciel? Ty o najemniku zwanym Johnny? On nie strzelał do ciebie, Grek.</text>
+        <text>Przyjaciel? Ty o najemniku zwanym Johnny? On nie strzelał do Ciebie, Grek.</text>
     </string>
 	<string id="kat_princeps_dialog_1_9">
         <text>Co ty mówisz, Doktorze?! Doskonale pamiętam - Johnny strzelił mi w plecy!</text>
     </string>
 	<string id="kat_princeps_dialog_1_10">
-        <text>W ciebie strzelał snajper. Z dachu domu. Nasz zwiad wszystko widział. A Johnny przesiedział do świtu nad twoim trupem. Pił wódkę, mówił coś. O świcie Johnny odszedł.</text>
+        <text>W Ciebie strzelał snajper. Z dachu domu. Nasz zwiad wszystko widział. A Johnny przesiedział do świtu nad twoim trupem. Pił wódkę, mówił coś. O świcie Johnny odszedł.</text>
     </string>
 	<string id="kat_princeps_dialog_1_11">
         <text>Gdzie mogę go znaleźć, Doktorze?</text>
@@ -1952,7 +1952,7 @@
         <text>Jeśli do nich wrócę.</text>
     </string>
 	<string id="kat_princeps_dialog_1_16">
-        <text>Rozumie się. Czas na ciebie, Grek. Trzymaj się. Weź wszystko, czego ci trzeba i podejdź się pożegnać.</text>
+        <text>Rozumie się. Czas na Ciebie, Grek. Trzymaj się. Weź wszystko, czego Ci trzeba i podejdź się pożegnać.</text>
     </string>
 	<string id="kat_princeps_dialog_1_17">
         <text>Dobrze, zaraz będę gotowy. Tylko jeszcze jedno pytanie.</text>
@@ -1964,13 +1964,13 @@
         <text>Po Prypeci nic nie pamiętam. Ocknąłem się w jaskini. Obok leżał martwy wyro... inny. Kto to i jak tam się dostaliśmy?</text>
     </string>
 		<string id="kat_princeps_dialog_1_20">
-        <text>To był brat Dekan. Właśnie on przyniósł cię wtedy z Prypeci. Nie wiem co mu sie w tobie tak spodobało, ale Dekan pielęgnował cię jak matka swoje małe dziecko. Oczywiście, przeprowadzone na nim eksperymenty nie były w stanie całkowicie wypalić mu mózgu i jakieś wspomnienia z zeszłego życia zmuszały go do opieki nad twoim trupem. I jego wysiłki przyniosły sukces - stopniowo życie wróciło do ciebie. Ale jednocześnie sam Dekan zaczynał powoli gasnąć. I wtedy Wielka Rada innych postanowiła przywrócić cię z powrotem do "pierwszych" - tak oni nazywają żywych ludzi. Dekan długo się opierał, ale w końcu musiał się podporządkować. Pod jednym warunkiem, że doprowadzi cię do wyjścia do ludzi. I zabrał cię, chociaż sam ledwie trzymał się na nogach. A z powrotem już nie wrócił.</text>
+        <text>To był brat Dekan. Właśnie on przyniósł Cię wtedy z Prypeci. Nie wiem co mu sie w Tobie tak spodobało, ale Dekan pielęgnował Cię jak matka swoje małe dziecko. Oczywiście, przeprowadzone na nim eksperymenty nie były w stanie całkowicie wypalić mu mózgu i jakieś wspomnienia z zeszłego życia zmuszały go do opieki nad Twoim trupem. I jego wysiłki przyniosły sukces - stopniowo życie wróciło do Ciebie. Ale jednocześnie sam Dekan zaczynał powoli gasnąć. I wtedy Wielka Rada innych postanowiła przywrócić Cię z powrotem do "pierwszych" - tak oni nazywają żywych ludzi. Dekan długo się opierał, ale w końcu musiał się podporządkować. Pod jednym warunkiem, że doprowadzi Cię do wyjścia do ludzi. I zabrał Cię, chociaż sam ledwie trzymał się na nogach. A z powrotem już nie wrócił.</text>
     </string>
 	<string id="kat_princeps_dialog_1_21">
         <text>Taa... Znalazłem w jego kieszeni klucz. To był klucz od sejfu w piwnicy na Sortowni. Skąd go miał? Z zeszłego życia? Kim on wtedy był?</text>
     </string>
 			<string id="kat_princeps_dialog_1_22">
-        <text>Ten klucz leżał przy twoim ciele. Tam, w Prypeci. Najwyraźniej najemnik go upuścił kiedy żegnał się z tobą.</text>
+        <text>Ten klucz leżał przy Twoim ciele. Tam, w Prypeci. Najwyraźniej najemnik go upuścił kiedy żegnał się z Tobą.</text>
     </string>
 	<string id="kat_princeps_dialog_1_23">
         <text>Jasne. Dziękuję, Doktorze.</text>
@@ -1982,7 +1982,7 @@
         <text>Tak...  Dziękuję, Princeps.</text>
     </string>
 
-	
+
 	<string id="kat_princeps_dialog_2_0">
         <text>	Gotowy?</text>
     </string>
@@ -1998,7 +1998,7 @@
 	<string id="kat_princeps_dialog_2_4">
         <text>Żegnaj, Princeps.</text>
     </string>
-	
+
 	<string id="dc_deev_dialog_1_0">
         <text>O! Cześć, Grek!</text>
     </string>
@@ -2042,7 +2042,7 @@
         <text>Nada się. Bratki, prawdopodobnie wiem, jak się stąd wydostać. Jeżeli wy ze mną - to zbierajcie się i ruszajcie po cichu do tej bramy.</text>
     </string>
 	<string id="dc_deev_dialog_1_14">
-        <text>A ty, Grek?</text>
+        <text>A Ty, Grek?</text>
     </string>
 	<string id="dc_deev_dialog_1_15">
         <text>Mówiłem przecież, ze świętym ojcem pogadać trzeba.</text>
@@ -2053,10 +2053,10 @@
         <text>O! Kogo tu przywiało? Coś za jeden?</text>
     </string>
 	<string id="dc_deev_dialog_2_1">
-        <text>Jestem Grek. A wy to kto? Skąd się tu wzięliście? Czekaj, Rogow to twój żołnierz? Uratował szczurka?</text>
+        <text>Jestem Grek. A wy to kto? Skąd się tu wzięliście? Czekaj, Rogow to twój żołnierz? Uratował Karczownika?</text>
     </string>
 	<string id="dc_deev_dialog_2_2">
-        <text>Więc ty to Grek! Rogow żyje, tam siedzi, przy ognisku się grzeje. I szczura uratował. Powinieneś oberwać, Grek. To przez ciebie tu jesteśmy. Kola podsłuchał co ci przez radio o naukowcach mówili, niby że ci na Agroprom poszli. No i jak przyszedł do obozu, to powiedział co przypadkiem usłyszał. A my przez sześć tygodni dla nich zapieprzaliśmy, a jak przyszliśmy się rozliczyć – moduł pusty… No to poszliśmy w ślad za tobą. Dotarliśmy na Agroprom - tam same trupy. Drzwi do podziemi są otwarte, to wchodzimy. Ledwo weszliśmy - w oczach pociemniało, w głowie zagwizdało. Jak doszliśmy do siebie, byliśmy już tutaj.</text>
+        <text>Więc Ty to Grek! Rogow żyje, tam siedzi, przy ognisku się grzeje. I szczura uratował. Powinieneś oberwać, Grek. To przez Ciebie tu jesteśmy. Kola podsłuchał co tamci przez radio o naukowcach mówili, niby że na Agroprom poszli. No i jak przyszedł do obozu, to powiedział co przypadkiem usłyszał. A my przez sześć tygodni dla nich zapieprzaliśmy, a jak przyszliśmy się rozliczyć – moduł pusty… No to poszliśmy w ślad za Tobą. Dotarliśmy na Agroprom - tam same trupy. Drzwi do podziemi są otwarte, to wchodzimy. Ledwo weszliśmy - w oczach pociemniało, w głowie zagwizdało. Jak doszliśmy do siebie, byliśmy już tutaj.</text>
     </string>
 	<string id="dc_deev_dialog_2_3">
         <text>A co to za miejsce?</text>
@@ -2097,7 +2097,7 @@
 	<string id="dc_deev_dialog_2_15">
         <text>Mówiłem przecież, ze świętym ojcem pogadać trzeba.</text>
     </string>
-	
+
 
 	<string id="dc_deev_dialog_3_0">
         <text>O! Cześć, Grek!</text>
@@ -2106,7 +2106,7 @@
         <text>Żyjecie, braciaki? Skąd się tu wzięliście? Ostatnio na Jantarze wódkę piliście.</text>
     </string>
 	<string id="dc_deev_dialog_3_2">
-        <text>Żyjemy, żyjemy. A ty powinieneś oberwać, Grek. To przez ciebie tu jesteśmy. Kola podsłuchał co ci przez radio o naukowcach mówili, niby że ci na Agroprom poszli. No i jak przyszedł do obozu, to powiedział co przypadkiem usłyszał. A my przez sześć tygodni dla nich zapieprzaliśmy, a jak przyszliśmy się rozliczyć – moduł pusty… No to poszliśmy w ślad za tobą. Dotarliśmy na Agroprom - tam same trupy. Drzwi do podziemi są otwarte, to wchodzimy. Ledwo weszliśmy - w oczach pociemniało, w głowie zagwizdało. Jak doszliśmy do siebie, byliśmy już tutaj.</text>
+        <text>Żyjemy, żyjemy. A Ty powinieneś oberwać, Grek. To przez Ciebie tu jesteśmy. Kola podsłuchał co tamci przez radio o naukowcach mówili, niby że na Agroprom poszli. No i jak przyszedł do obozu, to powiedział co przypadkiem usłyszał. A my przez sześć tygodni dla nich zapieprzaliśmy, a jak przyszliśmy się rozliczyć – moduł pusty… No to poszliśmy w ślad za Tobą. Dotarliśmy na Agroprom - tam same trupy. Drzwi do podziemi są otwarte, to wchodzimy. Ledwo weszliśmy - w oczach pociemniało, w głowie zagwizdało. Jak doszliśmy do siebie, byliśmy już tutaj.</text>
     </string>
 	<string id="dc_deev_dialog_3_3">
         <text>Co to za miejsce?</text>
@@ -2142,13 +2142,13 @@
         <text>Nada się. Bratki, prawdopodobnie wiem, jak się stąd wydostać. Jeżeli wy ze mną - to zbierajcie się i ruszajcie po cichu do tej bramy.</text>
     </string>
 	<string id="dc_deev_dialog_3_14">
-        <text>A ty, Grek?</text>
+        <text>A Ty, Grek?</text>
     </string>
 	<string id="dc_deev_dialog_3_15">
         <text>Mówiłem przecież, ze świętym ojcem pogadać trzeba.</text>
     </string>
 
-	
+
 	<string id="dc_pope_vitaly_dialog_1_0">
         <text>Grek? Czuło serce, że żywy jesteś, synu mój.</text>
     </string>
@@ -2201,21 +2201,21 @@
         <text>Nie. Wpakowaliśmy nasz świat w ich. I oni żądają by przywrócić status quo. Pomów, Grek, synu mój, Grek, pomów z nimi.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_17">
-        <text>Do diabła z tobą, ojcze, pomówię! Obiecuję! Ale ty  również mi obiecaj: wrócisz ze mną do naszego świata.</text>
+        <text>Do diabła z Tobą, ojcze, pomówię! Obiecuję! Ale ty  również mi obiecaj: wrócisz ze mną do naszego świata.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_18">
         <text>Po co? Mi tu dobrze.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_19">
-        <text>Mnisi twoi padli, przedzierając się do ciebie. W strasznym starciu bohatersko polegli. A ty mi mówisz…</text>
+        <text>Mnisi twoi padli, przedzierając się do Ciebie. W strasznym starciu bohatersko polegli. A ty mi mówisz…</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_20">
-        <text>Spokojnie, Grek. Pójdę z tobą.</text>
+        <text>Spokojnie, Grek. Pójdę z Tobą.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_21">
-        <text>Dobrze. Porozmawiam z dzieciakami i wrócę po ciebie.</text>
+        <text>Dobrze. Porozmawiam z dzieciakami i wrócę po Ciebie.</text>
     </string>
-	
+
 	<string id="dc_pope_vitaly_dialog_2_0">
         <text>Już jestem, ojcze</text>
     </string>
@@ -2231,7 +2231,7 @@
 	<string id="dc_pope_vitaly_dialog_2_4">
         <text>Tędy.</text>
     </string>
-	
+
 	<string id="gen_slaven_dialog_1_0">
         <text>Widziałem cuda, Grek… Ale takie… Johnny powiedział - nie żyjesz. Poczekaj, to na pewno ty?</text>
     </string>
@@ -2254,7 +2254,7 @@
         <text>Nie tylko. Trzeba wyłączyć Barierę.</text>
     </string>
 	<string id="gen_slaven_dialog_1_7">
-        <text>Wykluczone. Jeżeli wyłączymy Barierę - Żelazna Morda od razu stąd ucieknie. Mamy teraz z nim pakt o nieagresji: my się w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucichł. Ale ryzykować nie możemy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
+        <text>Wykluczone. Jeżeli wyłączymy Barierę - Doppler od razu stąd ucieknie. Mamy teraz z nim pakt o nieagresji: my się w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucichł. Ale ryzykować nie możemy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
     </string>
 	<string id="gen_slaven_dialog_1_8">
         <text>Bariera niszczy swoim ciężarem granicę między swiatami. Jeżeli nie chcesz wejść w ostatnie dla całego Wszechświata starcie z demonami Ciemności, powinna zostać wyłączona.</text>
@@ -2263,7 +2263,7 @@
         <text>Jakie demony? Bredzisz, Grek?</text>
     </string>
 	<string id="gen_slaven_dialog_1_10">
-        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralność ze Zmieniającym Oblicza wypadnie zerwać. Przy okazji, gdzie on?</text>
+        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralność z Dopplerem wypadnie zerwać. Przy okazji, gdzie on?</text>
     </string>
 	<string id="gen_slaven_dialog_1_11">
         <text>Tutaj. Obok swojej instalacji. Sygnały jakieś w niebo posyła. Ale do nas nie lezie i my go nie tykamy… Proponujesz zaatakować?</text>
@@ -2272,16 +2272,16 @@
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_1_13">
-        <text>I Barierę wyłączymy tylko wtedy, jeśli zlikwidujemy Żelazną Mordę.</text>
+        <text>I Barierę wyłączymy tylko wtedy, jeśli zlikwidujemy Dopplera.</text>
     </string>
 	<string id="gen_slaven_dialog_1_14">
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_1_15">
-        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Zmieniającego Oblicza, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Dopplera, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_1_16">
-        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Zmieniającego Oblicza, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Dopplera, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_1_17">
         <text>Dobrze. Zamienię z kimś kilka słów i przyjdę.</text>
@@ -2289,15 +2289,15 @@
 	<string id="gen_slaven_dialog_1_18">
         <text>Gdzie?</text>
     </string>
-	
+
 	<string id="gen_slaven_dialog_2_0">
-        <text>Wynieśliśmy jego ciało z laboratorium. On w pojedynkę walczył z Żelazną Mordą, i… cóż. Ale również Bariera została na miejscu!</text>
+        <text>Wynieśliśmy jego ciało z laboratorium. On w pojedynkę walczył z Dopplerem, i… cóż. Ale również Bariera została na miejscu!</text>
     </string>
 	<string id="gen_slaven_dialog_2_1">
         <text>Trzeba wyłączyć Barierę.</text>
     </string>
 	<string id="gen_slaven_dialog_2_2">
-        <text>Wykluczone. Jeżeli wyłączymy Barierę - Żelazna Morda od razu stąd ucieknie. Mamy teraz z nim pakt o nieagresji: my się w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucichł. Ale ryzykować nie możemy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
+        <text>Wykluczone. Jeżeli wyłączymy Barierę - Doppler od razu stąd ucieknie. Mamy teraz z nim pakt o nieagresji: my się w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucichł. Ale ryzykować nie możemy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
     </string>
 	<string id="gen_slaven_dialog_2_3">
         <text>Bariera niszczy swoim ciężarem granicę między swiatami. Jeżeli nie chcesz wejść w ostatnie dla całego Wszechświata starcie z demonami Ciemności, powinna zostać wyłączona.</text>
@@ -2306,7 +2306,7 @@
         <text>Jakie demony? Bredzisz, Grek?</text>
     </string>
 	<string id="gen_slaven_dialog_2_5">
-        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralność ze Zmieniającym Oblicza wypadnie zerwać. Przy okazji, gdzie on?</text>
+        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralność z Dopplerem wypadnie zerwać. Przy okazji, gdzie on?</text>
     </string>
 	<string id="gen_slaven_dialog_2_6">
         <text>Tutaj. Obok swojej instalacji. Sygnały jakieś w niebo posyła. Ale do nas nie lezie i my go nie tykamy… Proponujesz zaatakować?</text>
@@ -2315,16 +2315,16 @@
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_2_8">
-        <text>I Barierę wyłączymy tylko wtedy, jeśli zlikwidujemy Żelazną Mordę.</text>
+        <text>I Barierę wyłączymy tylko wtedy, jeśli zlikwidujemy Dopplera.</text>
     </string>
 	<string id="gen_slaven_dialog_2_9">
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_2_10">
-        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Zmieniającego Oblicza, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Dopplera, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_2_11">
-        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Zmieniającego Oblicza, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Więc zrobimy tak: My z Andriuszą przebijemy się do panelu sterowania Barierą. Kreatur tam, coś w rodzaju przeźroczystych worków, pełno, ale sztylet - to sztylet. Mnicha z sobą wezmę, pogadamy, jeżeli będzie czas. Jak tylko będzie potwierdzenie likwidacji Dopplera, wyłączamy Barierę. Spróbujesz coś kręcić  - zniszczę klucz dostępu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_2_12">
         <text>Dobrze. Zamienię kilka słów z Bormanem i przyjdę.</text>
@@ -2332,9 +2332,9 @@
 	<string id="gen_slaven_dialog_2_13">
         <text>Co jeszcze powiesz?</text>
     </string>
-	
+
 	<string id="gen_slaven_dialog_3_0">
-        <text>Nie zapomniałeś? Bariera zostanie wyłączona, tylko wtedy, jeżeli Zmieniający Oblicza zostanie zabity.</text>
+        <text>Nie zapomniałeś? Bariera zostanie wyłączona, tylko wtedy, jeżeli Doppler zostanie zabity.</text>
     </string>
 	<string id="gen_slaven_dialog_3_1">
         <text>Pozostaję przy własnym zdaniu.</text>
@@ -2345,7 +2345,7 @@
 	<string id="gen_slaven_dialog_3_3">
         <text>Zaczynamy.</text>
     </string>
-	
+
 	<string id="gen_borman_dialog_1_0">
         <text>Cześć, Grek! Cześć, włóczęgo!</text>
     </string>
@@ -2358,12 +2358,12 @@
 	<string id="gen_borman_dialog_1_3">
         <text>Dobrze!</text>
     </string>
-	
+
 	<string id="gen_jj_dialog_1_0">
         <text>Grek. T-tak… wykręca Zona numery.</text>
     </string>
 	<string id="gen_jj_dialog_1_1">
-        <text>Co z tobą, Johnny? Nie cieszysz się ze spotkania?</text>
+        <text>Co z Tobą, Johnny? Nie cieszysz się ze spotkania?</text>
     </string>
 	<string id="gen_jj_dialog_1_2">
         <text>Cieszę się.</text>
@@ -2377,7 +2377,7 @@
 	<string id="gen_jj_dialog_1_5">
         <text>No i się spotkaliśmy. No, na razie.</text>
     </string>
-	
+
 	<string id="esc_col_panzer_2_dialog_1_0">
         <text>Jakie plany na przyszłość, Grek? Jakby co, wstąp do nas, do Powinności. Żart.</text>
     </string>
@@ -2385,7 +2385,7 @@
         <text>Plany… Nie podjąłem decyzji: zechcę - zostanę w Zonie. Zechcę - ruszę na Wielką Ziemię.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_2">
-        <text>No-no. Krótko, Grek: Powinność jest ci zawsze rada. Pamiętaj.</text>
+        <text>No-no. Krótko, Grek: Powinność jest Ci zawsze rada. Pamiętaj.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_3">
         <text>Dziękuję, pułkowniku. Jeszczze jedno. Mam nadzieję, że znasz Doktora?</text>
@@ -2397,11 +2397,11 @@
         <text>Znaczy się, o wyrodkach ci przypominać nie trzeba. Tak więc. Doktor jest teraz głównym wśród wyrodków.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_6">
-        <text>Co? Coś ty powiedział?</text>
+        <text>Co? Coś Ty powiedział?</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_7">
         <text>Ha! A mówił, że wie wszystko! To co słyszałeś, pułkowniku. Doktor szefuje wyrodkom, jak sam powiedział, Princeps. Właśnie tak prosił by się do niego zwracać. A wyrodki to teraz nie "wyrodki", a "inni". Tak się nazywają. Krótko, Doktor-Princeps prosił przekazać, żeby stalkerzy ich nie atakowali. I oni też atakować nikogo nie będą. Jeśli oczywiście, nikt nie zacznie do nich strzelać.</text>
-    </string>	
+    </string>
 	<string id="esc_col_panzer_2_dialog_1_8">
         <text>Powinność zawsze likwidowała wyrodków.</text>
     </string>
@@ -2413,8 +2413,8 @@
     </string>
 	<string id="esc_col_panzer_2_dialog_1_11">
         <text>Jasne, pułkowniku. Wybacz.</text>
-    </string>	
-	
+    </string>
+
 	<string id="gruver_dialog_about_arts_0">
         <text>Zapomniałem cię spytać, przyjacielu - o co chodzi z tym napisem przy wejściu?</text>
     </string>
@@ -2431,25 +2431,25 @@
         <text> Znaczy się - pół miliona za komplet?</text>
     </string>
 	<string id="gruver_dialog_about_arts_5">
-        <text>Aha. Ale tylko za pełny. I żeby wszystkie trzydzieści było zamknięte w pułapkach.</text>
+        <text>Mhm. Ale tylko za pełny. I żeby wszystkie trzydzieści było zamknięte w pułapkach.</text>
     </string>
 	<string id="gruver_dialog_about_arts_6">
         <text>Rozumiem, rozumiem.</text>
     </string>
-	
+
 	<string id="gruver_dialog_about_arts_2_0">
         <text>Chodź bracie, wymienimy się? Mam pełny komplet artefaktów, jak chciałeś.</text>
     </string>
 	<string id="gruver_dialog_about_arts_2_1">
-        <text>Jednak je zdobyłeś? Słuchaj, mam dla ciebie ofertę, której z pewnością nie odmówisz! Trochę ostatnio przeinwestowałem. Zróbmy tak - wyciągnę ci arty z pułapek, a ty mi coś odpalisz za te dzieło? No, powiedzmy pół setki. Może być? W końcu zobaczysz za czym przemierzyłeś pół Zony. Zgódź się! Oddzielnie możesz je sprzedać znacznie drożej. To jak będzie?</text>
+        <text>Jednak je zdobyłeś? Słuchaj, mam dla Ciebie ofertę, której z pewnością nie odmówisz! Trochę ostatnio przeinwestowałem. Zróbmy tak - wyciągnę Ci arty z pułapek, a Ty mi coś odpalisz za te dzieło? No, powiedzmy pół setki. Może być? W końcu zobaczysz za czym przemierzyłeś pół Zony. Zgódź się! Oddzielnie możesz je sprzedać znacznie drożej. To jak będzie?</text>
     </string>
 	<string id="gruver_dialog_about_arts_2_2">
         <text>Nie, kolego... Przecież się umawialiśmy? Dawaj kasę!</text>
     </string>
 		<string id="gruver_dialog_about_arts_2_3">
-        <text>Uff, chytra twoja ro...  natura... Nie zrozumiem tylko, jaki masz w tym interes? No dobra, na biednego nie trafiło. Dawaj arty, oto twoje pieniądze.</text>
+        <text>Uff, chytra twoja du...  natura... Nie zrozumiem tylko, jaki masz w tym interes? No dobra, na biednego nie trafiło. Dawaj arty, oto Twoje pieniądze.</text>
     </string>
-	
+
 	<string id="esc_slaven_dialog_1_0">
         <text>Na długo tu zostaniecie?</text>
     </string>
@@ -2457,7 +2457,7 @@
         <text>Nie wiem, Grek. Andriuszę pogrzebaliśmy tam, na pagórku. Odpoczniemy, odeśpimy. Potem się zastanowimy co dalej robić.</text>
     </string>
 	<string id="esc_slaven_dialog_1_2">
-        <text>Słuchaj, Sławik - wypuściliśmy Zmieniającego Oblicza.</text>
+        <text>Słuchaj, Sławik - wypuściliśmy Dopplera.</text>
     </string>
 	<string id="esc_slaven_dialog_1_3">
         <text>Oczywiste. Przecież mówię - odpoczniemy, odeśpimy. Potem się zastanowimy co dalej robić.</text>
@@ -2465,7 +2465,7 @@
 	<string id="esc_slaven_dialog_1_4">
         <text>Jasne. To - powodzenia, bracia!</text>
     </string>
-	
+
 		<string id="esc_slaven_dialog_2_0">
         <text>Na długo tu zostaniecie??</text>
     </string>
@@ -2473,7 +2473,7 @@
         <text>Nie wiem, Grek. Andriuszę pogrzebaliśmy tam, na pagórku. Odpoczniemy, odeśpimy. Potem się zastanowimy co dalej robić.</text>
     </string>
 	<string id="esc_slaven_dialog_2_2">
-        <text>Słuchaj, Sławik - zabiliśmy Zmieniającego Oblicza!</text>
+        <text>Słuchaj, Sławik - zabiliśmy Dopplera!</text>
     </string>
 	<string id="esc_slaven_dialog_2_3">
         <text>Oczywiste. Dawno już trzeba było, ale nie wiadomo było jak to zrobić.</text>
@@ -2481,7 +2481,7 @@
 	<string id="esc_slaven_dialog_2_4">
         <text>Tak. A teraz się udało. To - powodzenia, bracia!</text>
     </string>
-	
+
 	<string id="esc_jj_dialog_1_0">
         <text>Witaj, Johnny.</text>
     </string>
@@ -2495,10 +2495,10 @@
         <text>GRC. Albo braciaki. Albo… ktoś inny, wrogów mam dosyć. Nie widziałem innego powodu, dla którego miałbyś wracać do Centrum Zony jeśli nie po moją duszę.</text>
     </string>
 	<string id="esc_jj_dialog_1_4">
-        <text>A kto ci powiedział, że przyszedłem za tobą na Generatory?</text>
+        <text>A kto ci powiedział, że przyszedłem za Tobą na Generatory?</text>
     </string>
 	<string id="esc_jj_dialog_1_5">
-        <text>Zmieniający Oblicza…</text>
+        <text>Doppler…</text>
     </string>
 	<string id="esc_jj_dialog_1_6">
         <text>Oszalałeś.</text>
@@ -2516,10 +2516,10 @@
         <text>Obrazy?</text>
     </string>
 	<string id="esc_jj_dialog_1_11">
-        <text>Tak. Rozmawiasz z Barmanem, z Sidorem, szukasz moich noży, pokazujesz noże stalkerom, a w zadaniach w twoim PDA pisze «Zabić Johnnego»…</text>
+        <text>Tak. Rozmawiasz z Barmanem, z Sidorem, szukasz moich noży, pokazujesz noże stalkerom, a w zadaniach w Twoim PDA pisze «Zabić Johnnego»…</text>
     </string>
 	<string id="esc_jj_dialog_1_12">
-        <text>Tak było, Johnny. Szukałem ciebie, żeby zabić.</text>
+        <text>Tak było, Johnny. Szukałem Ciebie, żeby zabić.</text>
     </string>
 	<string id="esc_jj_dialog_1_13">
         <text>Dlaczego? Za co?</text>
@@ -2528,7 +2528,7 @@
         <text>Myślałem, że to ty strzeliłeś mi w plecy w Prypeci.</text>
     </string>
 	<string id="esc_jj_dialog_1_15">
-        <text>Do ciebie strzelał snajper.</text>
+        <text>Do Ciebie strzelał snajper.</text>
     </string>
 	<string id="esc_jj_dialog_1_16">
         <text>Teraz już wiem. A wtedy, rok temu, przez krótki czas byłem martwy. Wyrodki mnie reanimowały. Ale w pamięci powstały fałszywe wspomnienia.</text>
@@ -2537,7 +2537,7 @@
         <text>Tak, tak bywa…</text>
     </string>
 	<string id="esc_jj_dialog_1_18">
-        <text>Ale po co Żelazna Morda próbował nas skłócić?</text>
+        <text>Ale po co Doppler próbował nas skłócić?</text>
     </string>
 	<string id="esc_jj_dialog_1_19">
         <text>Cholera go wie, Grek. Może, to po prostu jego pożegnalny dowcip.</text>
@@ -2549,21 +2549,21 @@
         <text>Nie wiem. Muszę sobie wszystko na spokojnie przemyśleć..</text>
     </string>
 	<string id="esc_jj_dialog_1_22">
-        <text>A wiesz, to śmieszne, ale przecież ja cię już dwa razy okradłem. Wtedy, rok temu, na Kordonie. Oczyściłem schowek pozostawiony dla ciebie, pamiętasz? I teraz, parę dni temu. To przecież twój klucz, poznajesz? </text>
+        <text>A wiesz, to śmieszne, ale przecież ja Cię już dwa razy okradłem. Wtedy, rok temu, na Kordonie. Oczyściłem schowek pozostawiony dla Ciebie, pamiętasz? I teraz, parę dni temu. To przecież Twój klucz, poznajesz? </text>
     </string>
 	<string id="esc_jj_dialog_1_23">
         <text>Cholernie śmieszne. Nie poznaję, Grek, klucz jak klucz.</text>
     </string>
 	<string id="esc_jj_dialog_1_24">
-        <text>To twój klucz, Johnny, twój. Od sejfu w wiosce na Sortowni. Bierz.</text>
+        <text>To Twój klucz, Johnny, twój. Od sejfu w wiosce na Sortowni. Bierz.</text>
     </string>
 	<string id="esc_jj_dialog_1_25">
-        <text>Nie, nie trzeba. Wszystko co moje - jest tu, ze mną. Zostaw go sobie, teraz jest twój.</text>
-    </string>	
+        <text>Nie, nie trzeba. Wszystko co moje - jest tu, ze mną. Zostaw go sobie, teraz jest Twój.</text>
+    </string>
 	<string id="esc_jj_dialog_1_26">
         <text>Więc - do zobaczenia, bracie.</text>
     </string>
-	
+
 	<string id="als_soldier_desant_1_dialog_after_gen_0">
         <text>Jak leci, służba?</text>
     </string>
@@ -2576,16 +2576,16 @@
 	<string id="als_soldier_desant_1_dialog_after_gen_3">
         <text>2.	No, dobra - to polewaj!</text>
     </string>
-	
+
 	<string id="grek_about_drink_0">
         <text>Polej mi wódki, przyjacielu.</text>
     </string>
-	
+
 	<string id="esc_shustryi_dialog_1_0">
         <text>Co robiłeś na Generatorach, gnoju?</text>
     </string>
 	<string id="esc_shustryi_dialog_1_1">
-        <text>Zwykłe zlecenie, Grek. Było zamówienie na towar. Wynająłem najpierw Nestora, a potem i ty brałeś w tym udział. Nestor najpierw próbował pchnąć chłam, ale potem go sumienie ruszyło, uczciwie odpracował. No i dostarczyliśmy towar zleceniodawcy.</text>
+        <text>Zwykłe zlecenie, Grek. Było zamówienie na towar. Wynająłem najpierw Nestora, a potem i Ty brałeś w tym udział. Nestor najpierw próbował pchnąć chłam, ale potem go sumienie ruszyło, uczciwie odpracował. No i dostarczyliśmy towar zleceniodawcy.</text>
     </string>
 	<string id="esc_shustryi_dialog_1_2">
         <text>Zwykłe zlecenie, Grek. Było zamówienie na towar. Wynająłem Nestora. Nestor najpierw próbował pchnąć chłam, ale potem go sumienie ruszyło, uczciwie odpracował. No i dostarczyliśmy towar zleceniodawcy.</text>
@@ -2594,20 +2594,20 @@
         <text>Rozumiesz, chciwy durniu, że pomogliście kosmicznemu bandycie zbiec z naszej planety i że on może wrócić?</text>
     </string>
 	<string id="esc_shustryi_dialog_1_4">
-        <text>Teraz rozumiem. Słuchaj, Grek - oddam ci działkę Nestora, w porządku?</text>
+        <text>Teraz rozumiem. Słuchaj, Grek - oddam Ci działkę Nestora, w porządku?</text>
     </string>
 	<string id="esc_shustryi_dialog_1_5">
-        <text>Idź w cholerę, Żwawy!</text>
+        <text>Idź w cholerę, Zwinny!</text>
     </string>
 	<string id="esc_shustryi_dialog_1_6">
         <text>Rozumiesz, chciwy durniu, że pomagaliście kosmicznemu bandycie zbiec z naszej planety i że on mógł potem wrócić?</text>
     </string>
-	
+
 	<string id="val_gena_hacker_dialog_1_0">
         <text>Jak leci na nowym miejscu?</text>
     </string>
 	<string id="val_gena_hacker_dialog_1_1">
-        <text>Normalnie, Grek. A co u ciebie?</text>
+        <text>Normalnie, Grek. A co u Ciebie?</text>
     </string>
 	<string id="val_gena_hacker_dialog_1_2">
         <text>PDA jakiegoś naukowca z Agropromu.</text>
@@ -2625,7 +2625,7 @@
         <text>Fleszka wojskowych stalkerów.</text>
     </string>
 	<string id="val_gena_hacker_dialog_1_7">
-        <text>Fleszka Szokera.</text>
+        <text>Pendrive Szokera.</text>
     </string>
 	<string id="val_gena_hacker_dialog_1_8">
         <text>PDA żołnierza z Bagien.</text>
@@ -2648,7 +2648,7 @@
 	<string id="val_gena_hacker_dialog_1_14">
         <text>No, to oczywiste.</text>
     </string>
-	
+
 	<string id="val_kasper_dialog_1_0">
         <text>Cześć, Kasper! Znalazłeś pracę marzeń, co?</text>
     </string>
@@ -2676,7 +2676,7 @@
 	<string id="val_kasper_dialog_1_8">
         <text>Kto to wie. Zniknęło. Dobra, Kasper, może się jeszcze spotkamy.</text>
     </string>
-	
+
 	<string id="mil_military_stalker_storekeeper_dialog_2_0">
         <text>Witaj! A reszta waszych to gdzie?</text>
     </string>
@@ -2693,10 +2693,10 @@
         <text>Streszczaj się.</text>
     </string>
 	<string id="mil_military_stalker_storekeeper_dialog_2_5">
-        <text>Nudno było, więc… Poszedłem po cichu poszperać po kilku interesujących miejscach. Leo nie uprzedzałem, nie pozwoliłby na to. «Prometeusz», dawne kino, znasz przecież? Tam właśnie byłem. Wewnątrz. I nagle, ni z tego, ni z owego, ogarnął mnie bezpodstawny strach. Na wszelki wypadek schowałem się w kącie za pianinem. Siedzę. Słyszę kroki. Wyjrzałem ostrożnie, patrzę, a tu do kina wchodzi Żelazna Morda. Nigdy wcześniej go nie widziałem i nie wierzyłem w opowieści. A tu - ON! Podchodzi do mnie i mówi: «Zapomniałem przekazać moje ogromne nieludzkie podziękowania wszystkim i jeszcze to.» I jakieś barachło na pianino z hukiem kładzie. Odwrócił się i poszedł.</text>
+        <text>Nudno było, więc… Poszedłem po cichu poszperać po kilku interesujących miejscach. Leo nie uprzedzałem, nie pozwoliłby na to. «Prometeusz», dawne kino, znasz przecież? Tam właśnie byłem. Wewnątrz. I nagle, ni z tego, ni z owego, ogarnął mnie bezpodstawny strach. Na wszelki wypadek schowałem się w kącie za pianinem. Siedzę. Słyszę kroki. Wyjrzałem ostrożnie, patrzę, a tu do kina wchodzi Doppler. Nigdy wcześniej go nie widziałem i nie wierzyłem w opowieści. A tu - ON! Podchodzi do mnie i mówi: «Zapomniałem przekazać moje ogromne nieludzkie podziękowania wszystkim i jeszcze to.» I jakieś barachło na pianino z hukiem kładzie. Odwrócił się i poszedł.</text>
     </string>
 	<string id="mil_military_stalker_storekeeper_dialog_2_6">
-        <text>A gdzie to, co Żelazna Morda zostawił?</text>
+        <text>A gdzie to, co Doppler zostawił?</text>
     </string>
 	<string id="mil_military_stalker_storekeeper_dialog_2_7">
         <text>Prawdopodobnie, ciągle tam na pianinie leży. Nie rozglądałem się - uciekłem drugimi drzwiami. Ruszyłem do swoich. I nikogo już nie znalazłem.</text>
@@ -2710,7 +2710,7 @@
 	<string id="mil_military_stalker_storekeeper_dialog_2_10">
         <text>Taa. To ci historia.</text>
     </string>
-	
+
 	<string id="varnak_grek_about_im_0">
         <text>Nikomu nie można wierzyć, przyjacielu.</text>
     </string>
@@ -2718,7 +2718,7 @@
         <text>To rozumiem. A ty coś taki smutny, Grek? Zdarzyło się coś?</text>
     </string>
 	<string id="varnak_grek_about_im_2">
-        <text>Ten Żelazna Morda - wyjątkowy skurwysyn.</text>
+        <text>Ten Doppler - wyjątkowy skurwysyn.</text>
     </string>
 	<string id="varnak_grek_about_im_3">
         <text>Nie zaprzeczę. To co się stało?</text>
@@ -2726,12 +2726,12 @@
 	<string id="varnak_grek_about_im_4">
         <text>No tak. Nic takiego. Nalej jeszcze wódki.</text>
     </string>
-	
+
 	<string id="lim_military_stalker_commander_dialog_3_0">
         <text>Droga wolna, bracie.</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_3_1">
-        <text>Udało się? Nie może być. Słuchaj Grek, pieniądze prawie nie mają tu znaczenia. Może lepiej naboi ci podrzucę, czy co?</text>
+        <text>Udało się? Nie może być. Słuchaj Grek, pieniądze prawie nie mają tu znaczenia. Może lepiej naboi Ci podrzucę, czy co?</text>
     </string>
 	<string id="lim_military_stalker_commander_dialog_3_2">
         <text>1.	Nie zaszkodzi.</text>
@@ -2739,9 +2739,9 @@
 	<string id="lim_military_stalker_commander_dialog_3_3">
         <text>2.	Nie trzeba. Do zobaczenia.</text>
     </string>
-	
+
 	<string id="varnak_dialog_about_kuchma_0">
-        <text>Słuchaj, bratku, w twojej kawiarni miałem umówione spotkanie z jednym gościem, a coś go nie widzę.</text>
+        <text>Słuchaj, bratku, w Twojej kawiarni miałem umówione spotkanie z jednym gościem, a coś go nie widzę.</text>
     </string>
 	<string id="varnak_dialog_about_kuchma_1">
         <text>Z kim dokładnie?</text>
@@ -2760,7 +2760,7 @@
         <text>Popatrz tu koleżko - nie wiesz co to takiego? (pokazuje pułapki na arty)</text>
     </string>
 	<string id="gruver_speek_arts_1">
-        <text>Ożesz, ty! Wiem. To pułapki na arty, parasolki. A ta to - już używana parasolka. W jej wnętrzu jest już artefakt, trzeba go tylko wydostać. Około półtora roku temu zaczęły się pojawiać nowe artefakty. Nie wiem jak one są tam wewnątrz urządzone, ale gołymi rękami ich nie podniesiesz. Oto sobie leży artefakt, widzisz go a palce przez niego przechodzą. Tylko powietrze chwytają. A pułapka go zgranuluje, czy też skomasuje, czy coś tam z nim zrobi... Wybacz, ale nie zagłębiałem się w te uczone terminy. Wiem, że bez tego parasola artu nie weźmiesz i że jest to pułapka jednorazowa. I że te artefakty są bardzo drogie.</text>
+        <text>Ożesz, Ty! Wiem. To pułapki na arty, parasolki. A ta to - już używana parasolka. W jej wnętrzu jest już artefakt, trzeba go tylko wydostać. Około półtora roku temu zaczęły się pojawiać nowe artefakty. Nie wiem jak one są tam wewnątrz urządzone, ale gołymi rękami ich nie podniesiesz. Oto sobie leży artefakt, widzisz go a palce przez niego przechodzą. Tylko powietrze chwytają. A pułapka go zgranuluje, czy też skomasuje, czy coś tam z nim zrobi... Wybacz, ale nie zagłębiałem się w te uczone terminy. Wiem, że bez tego parasola artu nie weźmiesz i że jest to pułapka jednorazowa. I że te artefakty są bardzo drogie.</text>
     </string>
 	<string id="gruver_speek_arts_2">
         <text>Drogie, mówisz?</text>
@@ -2778,7 +2778,7 @@
         <text>Jasne... A te arty możesz na zewnątrz wyciągnąć?</text>
     </string>
 	<string id="gruver_speek_arts_7">
-        <text>Grek, czy ja ci wyglądam na człowieka obeznanego z nauką? Od tego są specjaliści. OTO co ci powiem. Do tej pory zarejestrowano około trzydziestu rodzajów takich artefaktów. Krótko - zbierasz komplet, przynosisz je do mnie i otrzymujesz pół miliona.</text>
+        <text>Grek, czy ja Ci wyglądam na człowieka obeznanego z nauką? Od tego są specjaliści. OTO co Ci powiem. Do tej pory zarejestrowano około trzydziestu rodzajów takich artefaktów. Krótko - zbierasz komplet, przynosisz je do mnie i otrzymujesz pół miliona.</text>
     </string>
 	<string id="gruver_speek_arts_8">
         <text>Znaczy się - pół miliona za komplet?</text>
@@ -2793,7 +2793,7 @@
         <text>Grek, a szepnij mi na uszko - skąd te tu wziąłeś?</text>
     </string>
 	<string id="gruver_speek_arts_12">
-        <text>Gruber, tobie chyba już całkiem odbiło! Złodzieja pytasz skąd swój łup wziął! Czy ty nie z mentowni przypadkiem?</text>
+        <text>Gruber, Tobie chyba już całkiem odbiło! Złodzieja pytasz skąd swój łup wziął! Czy Ty nie z więźnia przypadkiem?</text>
     </string>
 
 
@@ -2807,27 +2807,27 @@
 	<text>Tak, szkoda Leszy. Był dobrym dowódcą.</text>
 </string>
 <string id="moldovan_dialog_1_3">
-	<text>Jedno ci powiem, Grek. My wszyscy wiedzieliśmy, że on umrze. W ostatnich dniach zachowywał sie tak jakby nie chciał żyć.</text>
+	<text>Jedno Ci powiem, Grek. My wszyscy wiedzieliśmy, że on umrze. W ostatnich dniach zachowywał sie tak jakby nie chciał żyć.</text>
 </string>
 <string id="moldovan_dialog_1_4">
 	<text>To znaczy?</text>
 </string>
 <string id="moldovan_dialog_1_5">
-	<text>Wydaje mi się, że to Żelazna Morda go naznaczył. Wszystko było normalnie, jak zwykle. A nagle w jedną noc, Leszyk nagle zasępił się, skwaśniał, żartować przestał. A co tam żartować, mówić przestał. Tak, nie, nie chcę, nie wiem - oto i cała rozmowa. I najważniejsze, sam widziałeś - posiwiał. Jakby w jedną chwilę postarzał się o dwadzieścia lat. I zobojętniał na wszystko. Nawet jeść nie chciał. I ciągle chodził na Żelazną Mordę patrzeć. Wstanie, patrzy i nie rusza się. Nawet pół dnia mógł tak przestać, jeśli by go nie zawołać. Jak zaczarowany. </text>
+	<text>Wydaje mi się, że to Doppler go naznaczył. Wszystko było normalnie, jak zwykle. A nagle w jedną noc, Leszyk nagle zasępił się, skwaśniał, żartować przestał. A co tam żartować, mówić przestał. Tak, nie, nie chcę, nie wiem - oto i cała rozmowa. I najważniejsze, sam widziałeś - posiwiał. Jakby w jedną chwilę postarzał się o dwadzieścia lat. I zobojętniał na wszystko. Nawet jeść nie chciał. I ciągle chodził na Dopplera patrzeć. Wstanie, patrzy i nie rusza się. Nawet pół dnia mógł tak przestać, jeśli by go nie zawołać. Jak zaczarowany. </text>
 </string>
 <string id="moldovan_dialog_1_6">
 	<text>Tak, Kotia, mogło tak być, ja już niczemu się nie dziwię.</text>
 </string>
 <string id="moldovan_dialog_1_7">
-	<text>Słuchaj, Grek, a może ty... Zamiast Leszyka będziesz? Cóż nam tu teraz robić?</text>
+	<text>Słuchaj, Grek, a może Ty... Zamiast Leszyka będziesz? Cóż nam tu teraz robić?</text>
 </string>
 <string id="moldovan_dialog_1_8">
-	<text>Nie, bracie. To nie przejdzie. Ja jeszcze sam nie zdecydowałem co będę robić. Obrzydło mi wszystko... Pokręcę się jeszcze tu i pójdę jak najdalej stą. A może i nie... Nie wiem. </text>
+	<text>Nie, bracie. To nie przejdzie. Ja jeszcze sam nie zdecydowałem co będę robić. Obrzydło mi wszystko... Pokręcę się jeszcze tu i pójdę jak najdalej stąd. A może i nie... Nie wiem. </text>
 </string>
 
 
 <string id="dr_pirogov_dialog_7_0">
-	<text>Dok, przyniosłem wam pułapki.</text>
+	<text>Doktorku, przyniosłem wam pułapki.</text>
 </string>
 <string id="dr_pirogov_dialog_7_1">
 	<text>Dajcie zobaczyć. Co jest?</text>
@@ -3114,9 +3114,9 @@
 <string id="dr_pirogov_dialog_7_96">
 	<text>Dziękuję.</text>
 </string>
-	
+
 	<!-- <string id="_">
         <text></text>
     </string> -->
-    
+
 </string_table>
