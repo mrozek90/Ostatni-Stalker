@@ -95,10 +95,10 @@
 	   </string>
 
 <string id="enc_poimal">
-               <text>Z³ap artefakt ($$ACTION_USE$$)</text>
+               <text>"Z³apaæ artefakt"</text>
        </string>
 <string id="enc_zabral">
-               <text>Podnieœ pu³apkê ($$ACTION_USE$$)</text>
+               <text>"Zabraæ pu³apkê"</text>
        </string>
 
 <string id="af_magneto">

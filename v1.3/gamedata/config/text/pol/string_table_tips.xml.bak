@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="car_use">
-		<text>Otwórz drzwi ($$ACTION_USE$$)</text>
+		<text>Otwórz drzwi</text>
 	</string>
 	<string id="character_use">
-		<text>Rozmawiaj ($$ACTION_USE$$)</text>
+		<text>Rozmowa</text>
 	</string>
 	<string id="dead_character_use">
-		<text>Przeszukaj zwłoki ($$ACTION_USE$$)</text>
+		<text>Przeszukaj zwłoki</text>
 	</string>
 	<string id="inventory_item_use">
-		<text>Użyj przedmiotu ($$ACTION_USE$$)</text>
+		<text>Podnieś przedmiot</text>
 	</string>
 	<string id="physic_shell_use">
-		<text>Podnieś przedmiot ($$ACTION_USE$$)</text>
+		<text>Nieś obiekt</text>
 	</string>
 </string_table>

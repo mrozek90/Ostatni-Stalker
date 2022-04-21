@@ -32,9 +32,9 @@
 <string id="static_0">
 		<text>ATTO QUINTO *Ostatni stalker*</text>
 	</string>
-	
+
 <string id="dont_kill">
-		<text>bla-bla-bla</text>
+		<text>Nie zabijaj</text>
 	</string>
 <!-- <string id="static_9">
 		<text>ATTO SESTO **</text>
@@ -51,7 +51,7 @@
 	<text>Za informacje zostanie wyp³acone wynagrodzenie - 10 000.</text>
 </string>
 <string id="static_gone_selectors_announcement_4">
-	<text>Zlaticz.</text>
+	<text>Zlatyæ.</text>
 </string>
 
 <string id="static_job_for_corporation_announcement_1">
@@ -205,11 +205,11 @@
 </string>
 
 <string id="koluchka_hint">
-	<text>przeci¹æ</text>
+	<text>Przetnij</text>
 </string>
 
 <string id="gap_in_perimeter_hint">
-	<text>wy³om w Perymetrze</text>
+	<text>Wy³om w Perymetrze</text>
 </string>
 
 <string id="tonnel_hint">
@@ -229,11 +229,11 @@
 </string>
 
 <string id="shamray_gang">
-	<text>grupa Szamraja</text>
+	<text>Banda Szramy</text>
 </string>
 
 <string id="bb">
-	<text>grupa Bormana</text>
+	<text>Banda Bormana</text>
 </string>
 
 <string id="army">
@@ -241,27 +241,27 @@
 </string>
 
 <string id="mogilshik_gang">
-	<text>grupa Grabarza</text>
+	<text>Banda Grabarza</text>
 </string>
 
 <string id="tankist_gang">
-	<text>grupa Czo³gisty</text>
+	<text>Banda Czo³gisty</text>
 </string>
 
 <string id="uzbek_gang">
-	<text>grupa Uzbeka</text>
+	<text>Banda Uzbeka</text>
 </string>
 
 <string id="sinoptik_gang">
-	<text>grupa Synoptyka</text>
+	<text>Banda Synoptyka</text>
 </string>
 
 <string id="waterrat_gang">
-	<text>grupa Wodnego Szczura</text>
+	<text>Banda Karczownika</text>
 </string>
 
 <string id="mackleens_gang">
-	<text>Grupa McClensa</text>
+	<text>Banda McClensa</text>
 </string>
 
 <string id="police">
@@ -269,7 +269,7 @@
 </string>
 
 <string id="galash_gang">
-		<text>grupa Ga³asza</text>
+		<text>Banda Ga³asza</text>
 </string>
 
 <string id="marsh_peshera_corpse_hint">
@@ -277,31 +277,31 @@
 </string>
 
 <string id="cliric">
-	<text>mnisi</text>
+	<text>Mnich</text>
 </string>
 
 <string id="stranger">
-	<text>czarni rajderzy</text>
+	<text>Rajder</text>
 </string>
 
 <string id="usarmy">
-	<text>rajderzy</text>
+	<text>Marines</text>
 </string>
 
 <string id="demon">
-	<text>obcy</text>
+	<text>Duch</text>
 </string>
 
 <string id="degen">
-	<text>wyrodki</text>
+	<text>Wyrodek</text>
 </string>
 
 <string id="cnn">
-	<text>Poszukiwacze</text>
+	<text>Poszukiwacz</text>
 </string>
 
 <string id="exmon">
-	<text>Weterani Zony</text>
+	<text>Weteran Zony</text>
 </string>
 
 <string id="nato">
@@ -309,59 +309,59 @@
 </string>
 
 <string id="military_stalker">
-	<text>wojskowy stalker</text>
+	<text>Wojskowy stalker</text>
 </string>
 
 <string id="waterrat_base_hint">
-	<text>baza Wodnego Szczura</text>
+	<text>Baza Karczownika</text>
 </string>
 
 <string id="agr_ms_base_hint">
-	<text>baza wojskowych stalkerów</text>
+	<text>Baza wojskowych stalkerów</text>
 </string>
 
 <string id="marsh_deadman_place_hint">
-	<text>miejsce ostatniego spotkania</text>
+	<text>Miejsce ostatniego spotkania</text>
 </string>
 
 <string id="wait_signal_hint">
-	<text>czekaæ na sygna³</text>
+	<text>Czekaj na sygna³</text>
 </string>
 
 <string id="marsh_watchtower_hint">
-	<text>wie¿a obserwacyjna</text>
+	<text>Wie¿a obserwacyjna</text>
 </string>
 
 <string id="marsh_inventory_box_helicopter_hint">
-	<text>miejsce upadku helikoptera</text>
+	<text>Miejsce upadku helikoptera</text>
 </string>
 
 <string id="marsh_key_decision_1_hint">
-	<text>oddaæ</text>
+	<text>Oddaj</text>
 </string>
 
 <string id="marsh_key_decision_2_hint">
-	<text>sprzedaæ</text>
+	<text>Sprzedaj</text>
 </string>
 
 <string id="old_bunker_hint">
-	<text>stary bunkier</text>
+	<text>Stary bunkier</text>
 </string>
 
 <string id="garbage_hsm_hint">
-	<text>pocz¹tek poszukiwañ</text>
+	<text>Pocz¹tek poszukiwañ</text>
 </string>
 
 <string id="yantar_hsm_hint">
-	<text>mobilny modu³ naukowy</text>
+	<text>Mobilny modu³ naukowy</text>
 </string>
 
 <string id="box_hsm_hint">
-	<text>kontener</text>
+	<text>Kontener</text>
 </string>
 
 <string id="agro_scientists_hint">
-	<text>mobilny modu³ naukowy</text>
+	<text>Mobilny modu³ naukowy</text>
 </string>
 
 <string id="hack_impossible">
@@ -369,15 +369,15 @@
 </string>
 
 <string id="gar_ambush_restrictor_hint">
-	<text>zaj¹æ pozycjê</text>
+	<text>zajmij pozycjê</text>
 </string>
 
 <string id="gar_flea_market_hiding_place_hint">
-	<text>schowek grupy Synoptyka</text>
+	<text>schowek bandy Synoptyka</text>
 </string>
 
 <string id="sor_m_barman_hint">
-	<text>spytaæ Barmana</text>
+	<text>spytaj Barmana</text>
 </string>
 
 <string id="stop_stranger">
@@ -417,7 +417,7 @@
 </string>
 
 <string id="katacomba">
-	<text>Schronienie</text>
+	<text>Podziemia</text>
 </string>
 
 <string id="atp">
@@ -429,7 +429,7 @@
 </string>
 
 <string id="panzer_hc">
-	<text>Sztab Pancera</text>
+	<text>Sztab Panzera</text>
 </string>
 
 <string id="peshera">
@@ -471,27 +471,27 @@
 </string>
 
 <string id="val_shocker_flash_fake_hint">
-	<text>fleszka najemników</text>
+	<text>pendrive najemników</text>
 </string>
 
 <string id="val_safe_door_hint">
-	<text>sejf</text>
+	<text>Sejf</text>
 </string>
 
 <string id="val_comp_klava_1_hint">
-	<text>wy³¹czyæ dzia³ka</text>
+	<text>Wy³¹cz dzia³ka</text>
 </string>
 
 <string id="val_killers_basa_hint">
-	<text>przenikn¹æ na bazê</text>
+	<text>Przenikn¹æ na bazê</text>
 </string>
 
 <string id="val_prisoner_frei_restrictor_hint">
-	<text>wiêzienie</text>
+	<text>Wiêzienie</text>
 </string>
 
 <string id="esc_mobil_real_point">
-	<text>mobilny punkt dowodzenia</text>
+	<text>Mobilny punkt dowodzenia</text>
 </string>
 
 <!-- <string id="">
@@ -500,135 +500,135 @@
 
 <!-- ÞÇÀÍÈÅ -->
 <string id="to_pull_out_the_knife">
-	<text>wyci¹gn¹æ nó¿ ($$ACTION_USE$$)</text>
+	<text>Wyci¹gij nó¿ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="to_take_up_the_knife">
-	<text>wzi¹æ nó¿ ($$ACTION_USE$$)</text>
+	<text>WeŸ nó¿ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_helicopter">
-	<text>przeszukaæ helikopter ($$ACTION_USE$$)</text>
+	<text>Przeszukaj helikopter ($$ACTION_USE$$)</text>
 </string>
 
 <string id="osmotr_helicopter">
-	<text>obejrzeæ helikopter ($$ACTION_USE$$)</text>
+	<text>Obejrzyj helikopter ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_car">
-	<text>przeszukaæ samochód ($$ACTION_USE$$)</text>
+	<text>Przeszukaj samochód ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_object">
-	<text>przeszukaæ obiekt ($$ACTION_USE$$)</text>
+	<text>Przeszukaj obiekt ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_skhron">
-	<text>przeszukaæ schowek ($$ACTION_USE$$)</text>
+	<text>Przeszukaj schowek ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_corpse">
-	<text>przeszukaæ cia³o ($$ACTION_USE$$)</text>
+	<text>Przeszukaj cia³o ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_autobus">
-	<text>przeszukaæ autobus ($$ACTION_USE$$)</text>
+	<text>Przeszukaj autobus ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_btr">
-	<text>przeszukaæ BTR ($$ACTION_USE$$)</text>
+	<text>Przeszukaj BTR ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_doser">
-	<text>przeszukaæ buldo¿er ($$ACTION_USE$$)</text>
+	<text>Przeszukaj buldo¿er ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_pancer">
-	<text>przeszukaæ czo³g ($$ACTION_USE$$)</text>
+	<text>Przeszukaj czo³g ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_tractor">
-	<text>przeszukaæ traktor ($$ACTION_USE$$)</text>
+	<text>Przeszukaj traktor ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_exquator">
-	<text>przeszukaæ koparkê ($$ACTION_USE$$)</text>
+	<text>Przeszukaj koparkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_seif">
-	<text>otworzyæ sejf ($$ACTION_USE$$)</text>
+	<text>Otwórz sejf ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_box">
-	<text>przeszukaæ skrzynkê ($$ACTION_USE$$)</text>
+	<text>Przeszukaj skrzynkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_tomb">
-	<text>przeszukaæ grób ($$ACTION_USE$$)</text>
+	<text>Przeszukaj grób ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_refregerator">
-	<text>przeszukaæ lodówkê ($$ACTION_USE$$)</text>
+	<text>Przeszukaj lodówkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_container">
-	<text>obejrzeæ kontener ($$ACTION_USE$$)</text>
+	<text>Obejrzyj kontener ($$ACTION_USE$$)</text>
 </string>
 
 <string id="knockknock">
-	<text>kopn¹æ w drzwi ($$ACTION_USE$$)</text>
+	<text>Kopnij w drzwi ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_the_knifes">
-	<text>zabraæ no¿e ($$ACTION_USE$$)</text>
+	<text>Zabierz no¿e ($$ACTION_USE$$)</text>
 </string>
 
 <string id="press_down">
-	<text>nacisn¹æ ($$ACTION_USE$$)</text>
+	<text>Naciœnij ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_accumulator">
-	<text>podnieœæ akumulator ($$ACTION_USE$$)</text>
+	<text>Podnieœ akumulator ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_accumulator_2">
-	<text>wzi¹æ akumulator ($$ACTION_USE$$)</text>
+	<text>WeŸ akumulator ($$ACTION_USE$$)</text>
 </string>
 
 <string id="connect_accumulator">
-	<text>pod³¹czyæ Ÿród³o zasilania ($$ACTION_USE$$)</text>
+	<text>Pod³¹cz akumulator ($$ACTION_USE$$)</text>
 </string>
 
 <string id="start_repairworks">
-	<text>zaj¹æ siê remontem wyposa¿enia ($$ACTION_USE$$)</text>
+	<text>Napraw ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_generator">
-	<text>w³¹czyæ generator ($$ACTION_USE$$)</text>
+	<text>W³¹cz generator ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_off_generator">
-	<text>zatrzymaæ generator ($$ACTION_USE$$)</text>
+	<text>Zatrzymaj generator ($$ACTION_USE$$)</text>
 </string>
 
 <string id="read_announcement">
-	<text>przeczytaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>Przeczytaj og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="light_turn_on">
-	<text>w³¹czyæ oœwietlenie ($$ACTION_USE$$)</text>
+	<text>W³¹cz oœwietlenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="light_turn_off">
-	<text>wy³¹czyæ oœwietlenie ($$ACTION_USE$$)</text>
+	<text>Wy³¹cz oœwietlenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="marsh_gone_selectors">
-	<text>Zaginêli kopacze. \n Ostatni raz nawi¹zali ³¹cznoœæ 29-go kwietnia z Bagien. Za informacje zostanie wyp³acone wynagrodzenie - 10 000. \n Zlaticz. \n zerwaæ og³oszenie($$ACTION_USE$$)</text>
+	<text>Zaginêli kopacze. \n Ostatni raz nawi¹zali ³¹cznoœæ 29-go kwietnia z Bagien. Za informacje zostanie wyp³acone wynagrodzenie - 10 000. \n Zlatyæ. \n Zerwij og³oszenie($$ACTION_USE$$)</text>
 </string>
 
 <string id="is_disconnected">
-	<text>bez zasilania</text>
+	<text>Bez zasilania</text>
 </string>
 
 <string id="freerepair">
@@ -636,43 +636,43 @@
 </string>
 
 <string id="gun_position_hint">
-	<text>zaj¹æ pozycjê</text>
+	<text>Zajmij pozycjê</text>
 </string>
 
 <string id="window_hint">
-	<text>okno</text>
+	<text>Okno</text>
 </string>
 
 <string id="prisoners_hint">
-	<text>wiêŸniowie</text>
+	<text>WiêŸniowie</text>
 </string>
 
 <string id="revenge_to_mercenaries_hint">
-	<text>pozbyæ siê najemników</text>
+	<text>Pozb¹dŸ siê najemników</text>
 </string>
 
 <string id="job_for_corporation">
-	<text>Praca dla korporacji. \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>Praca dla korporacji. \n Zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="will_sell_necronomicon">
-	<text>SPRZEDAM!!! \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>SPRZEDAM!!! \n Zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="lost_scientist">
-	<text>ZAGIN¥£ NAUKOWIEC!!! \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>ZAGIN¥£ NAUKOWIEC!!! \n Zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="falen_flying_laboratory">
-	<text>Powietrzne laboratorium!!! \n zerwaæ og³oszenie ($$ACTION_USE$$)</text>
+	<text>Powietrzne laboratorium!!! \n Zerwij og³oszenie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="unstick_beacon">
-	<text>Odkleiæ ($$ACTION_USE$$)</text>
+	<text>Odklej ($$ACTION_USE$$)</text>
 </string>
 
 <string id="tip_no_access_card">
-	<text>Wsun¹æ kartê dostêpu  ($$ACTION_USE$$)</text>
+	<text>Wsuñ kartê dostêpu  ($$ACTION_USE$$)</text>
 </string>
 
 <string id="tip_yes_access_card">
@@ -680,179 +680,179 @@
 </string>
 
 <string id="take_pda">
-	<text>wzi¹æ PDA ($$ACTION_USE$$)</text>
+	<text>WeŸ PDA ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_uv_light_torch">
-	<text>wziaæ latarkê ($$ACTION_USE$$)</text>
+	<text>WeŸ latarkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="hide_container">
-	<text>schowaæ kontener ($$ACTION_USE$$)</text>
+	<text>Schowaj kontener ($$ACTION_USE$$)</text>
 </string>
 
 <string id="to_erase">
-	<text>zetrzeæ ($$ACTION_USE$$)</text>
+	<text>Zetrzyj ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_transceiver">
-	<text>w³¹czyæ radiostacjê ($$ACTION_USE$$)</text>
+	<text>W³¹cz radiostacjê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_taynik">
-	<text>sprawdziæ schowek ($$ACTION_USE$$)</text>
+	<text>SprawdŸ schowek ($$ACTION_USE$$)</text>
 </string>
 
 <string id="input_accesscard">
-	<text>wstaw kartê dostêpu ($$ACTION_USE$$)</text>
+	<text>Wstaw kartê dostêpu ($$ACTION_USE$$)</text>
 </string>
 
 <string id="insert_the_keys">
-	<text>w³o¿yæ klucze? ($$ACTION_USE$$)</text>
+	<text>W³o¿yæ klucze? ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_dictophone">
-	<text>przes³uchaæ nagranie ($$ACTION_USE$$)</text>
+	<text>Przes³uchaj nagranie ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_away_dictophone">
-	<text>zabraæ dyktafon ($$ACTION_USE$$)</text>
+	<text>Zabierz dyktafon ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_weapon">
-	<text>wzi¹æ broñ ($$ACTION_USE$$)</text>
+	<text>WeŸ broñ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="shift_keys">
-	<text>prze³o¿yæ klucze ($$ACTION_USE$$)</text>
+	<text>Prze³o¿yæ klucze ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_away_passports">
-	<text>zabraæ dokumenty ($$ACTION_USE$$)</text>
+	<text>Zabierz dokumenty ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_away_artefact">
-	<text>wzi¹æ artefakt ($$ACTION_USE$$)</text>
+	<text>WeŸ artefakt ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_off_turrets">
-	<text>deaktywowaæ dzia³ka ($$ACTION_USE$$)</text>
+	<text>Dezaktywuj dzia³ka ($$ACTION_USE$$)</text>
 </string>
 
 <string id="enter_access_code">
-	<text>wprowadŸ kod dostêpu ($$ACTION_USE$$)</text>
+	<text>WprowadŸ kod dostêpu ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_device">
-	<text>wzi¹æ przyrz¹d ($$ACTION_USE$$)</text>
+	<text>WeŸ przyrz¹d ($$ACTION_USE$$)</text>
 </string>
 
 <string id="use_basement_key">
-	<text>wykorzystaæ klucz ($$ACTION_USE$$)</text>
+	<text>Wykorzystaj klucz ($$ACTION_USE$$)</text>
 </string>
-	
+
 <string id="open_door">
-	<text>otworzyæ drzwi ($$ACTION_USE$$)</text>
+	<text>Otworzyæ drzwi ($$ACTION_USE$$)</text>
 </string>
 
 <string id="barrier_to_raise">
-	<text>podnieœæ szlaban ($$ACTION_USE$$)</text>
+	<text>Podnieœ szlaban ($$ACTION_USE$$)</text>
 </string>
 
 <string id="barrier_to_dip">
-	<text>opuœciæ szlaban ($$ACTION_USE$$)</text>
+	<text>Opuœæ szlaban ($$ACTION_USE$$)</text>
 </string>
 
 <string id="drop_book_into_fire">
-	<text>wrzuciæ ksiêgê do ogniska ($$ACTION_USE$$)</text>
+	<text>Wrzuæ ksiêgê do ogniska ($$ACTION_USE$$)</text>
 </string>
 
 <string id="search_the_plane">
-	<text>przeszukaæ drona ($$ACTION_USE$$)</text>
+	<text>Przeszukaj drona ($$ACTION_USE$$)</text>
 </string>
 
 <string id="als_sit">
-	<text>usi¹œæ ($$ACTION_USE$$)</text>
+	<text>Usi¹dŸ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_emergency_power">
-	<text>w³¹czyæ zasilanie awaryjne ($$ACTION_USE$$)</text>
+	<text>W³¹cz zasilanie awaryjne ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_malyawa">
-	<text>wzi¹æ notatkê ($$ACTION_USE$$)</text>
+	<text>WeŸ notatkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_the_paper">
-	<text>podnieœæ pude³ko ($$ACTION_USE$$)</text>
+	<text>Podnieœ pude³ko ($$ACTION_USE$$)</text>
 </string>
 
 <string id="replace_botle">
-	<text>przestawiæ butelkê ($$ACTION_USE$$)</text>
+	<text>Przestaw butelkê ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_singulator">
-	<text>aktywowaæ singulator ($$ACTION_USE$$)</text>
+	<text>Aktywuj singulator ($$ACTION_USE$$)</text>
 </string>
 
 <string id="insert_key">
-	<text>wstaw klucz bezpieczeñstwa ($$ACTION_USE$$)</text>
+	<text>Wstaw klucz bezpieczeñstwa ($$ACTION_USE$$)</text>
 </string>
 
 <string id="key_is_accepted">
-	<text>klucz przyjêty</text>
+	<text>Klucz przyjêty</text>
 </string>
 
 <string id="to_push_power">
-	<text>pchn¹æ ($$ACTION_USE$$)</text>
+	<text>Pchnij ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_the_outfit">
-	<text>wzi¹æ pancerz ($$ACTION_USE$$)</text>
+	<text>WeŸ pancerz ($$ACTION_USE$$)</text>
 </string>
 
 <string id="check_fuel_level">
-	<text>sprawdziæ poziom paliwa ($$ACTION_USE$$)</text>
+	<text>SprawdŸ poziom paliwa ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_up_the_key">
-	<text>podnieœæ klucz ($$ACTION_USE$$)</text>
+	<text>Podnieœ klucz ($$ACTION_USE$$)</text>
 </string>
 
 <string id="open_depoe">
-	<text>otworzyæ magazyn ($$ACTION_USE$$)</text>
+	<text>Otwórz magazyn ($$ACTION_USE$$)</text>
 </string>
 
 <string id="change_warlock">
-	<text>zamieniæ ($$ACTION_USE$$)</text>
+	<text>Zamieñ ($$ACTION_USE$$)</text>
 </string>
 
 <string id="do_activation">
-	<text>aktywowaæ ($$ACTION_USE$$)</text>
+	<text>Aktywuj ($$ACTION_USE$$)</text>
 </string>
 
 <string id="luggage_here">
-	<text>po³o¿yæ przyrz¹dy ($$ACTION_USE$$)</text>
+	<text>Po³ó¿ przyrz¹dy ($$ACTION_USE$$)</text>
 </string>
 
 <string id="obysk_ruckzak">
-	<text>przeszukaæ plecak ($$ACTION_USE$$)</text>
+	<text>Przeszukaj plecak ($$ACTION_USE$$)</text>
 </string>
 
 <string id="take_golden_pig">
-	<text>wzi¹æ "z³ota œwiniê" ($$ACTION_USE$$)</text>
+	<text>WeŸ "z³ota œwiniê" ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_on_timer">
-	<text>w³¹czyæ timer ($$ACTION_USE$$)</text>
+	<text>W³¹cz timer ($$ACTION_USE$$)</text>
 </string>
 
 <string id="turn_off_timer">
-	<text>wy³¹czyc timer ($$ACTION_USE$$)</text>
+	<text>Wy³¹cz timer ($$ACTION_USE$$)</text>
 </string>
 
 <string id="do_place_mine">
-	<text>postawiæ minê ($$ACTION_USE$$)</text>
+	<text>Postaw minê ($$ACTION_USE$$)</text>
 </string>
 
 <!-- <string id="">
@@ -861,5 +861,5 @@
 
 
 
-	
+
 </string_table>

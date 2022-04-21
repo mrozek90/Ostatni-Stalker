@@ -1,5 +1,5 @@
 	<string id="aes_military_task_1">
-		<text>Chwytaj bramê</text>
+		<text>Przechwyæ bramê</text>
 	</string>
 	<string id="aes_military_task_10">
 		<text>Grupa "Sokó³"</text>
@@ -14,22 +14,22 @@
 		<text>Grupa "B³otniak"</text>
 	</string>
 	<string id="aes_military_task_2">
-		<text>Umocnienie</text>
+		<text>Utrzymaj pozycjê</text>
 	</string>
 	<string id="aes_military_task_3">
-		<text>Przebij siê do sarkofagu</text>
+		<text>Przebij siê do Sarkofagu</text>
 	</string>
 	<string id="aes_military_task_4">
-		<text>Zniszcz fortyfikacje Monolitu I</text>
+		<text>Zniszcz umocnienia "Monolit 1"</text>
 	</string>
 	<string id="aes_military_task_5">
-		<text>Zniszcz fortyfikacje Monolith II</text>
+		<text>Zniszcz umocnienia "Monolit 2"</text>
 	</string>
 	<string id="aes_military_task_6">
-		<text>Grupa "Myszo³ów"</text>
+		<text>Grupa "Krogulec"</text>
 	</string>
 	<string id="aes_military_task_7">
-		<text>Grupa "Kania"</text>
+		<text>Grupa "Orze³"</text>
 	</string>
 	<string id="aes_military_task_8">
 		<text>Grupa "Jastrz¹b"</text>

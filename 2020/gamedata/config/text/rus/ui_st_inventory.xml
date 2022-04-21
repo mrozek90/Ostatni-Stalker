@@ -1,73 +1,73 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="st_activate_artefact">
-		<text>użyj artefaktu</text>
+		<text>Użyj artefaktu</text>
 	</string>
 	<string id="st_attach_gl_to_rifle">
-		<text>przyczep granatnik do karabinu</text>
+		<text>Przyczep granatnik do karabinu</text>
 	</string>
 	<string id="st_attach_scope_to_pistol">
-		<text>przyczep celownik do pistoletu</text>
+		<text>Przyczep celownik do pistoletu</text>
 	</string>
 	<string id="st_attach_scope_to_rifle">
-		<text>przyczep celownik do karabinu</text>
+		<text>Przyczep celownik do karabinu</text>
 	</string>
 	<string id="st_attach_silencer_to_pistol">
-		<text>przyczep tłumik do pistoletu</text>
+		<text>Przyczep tłumik do pistoletu</text>
 	</string>
 	<string id="st_attach_silencer_to_rifle">
-		<text>przyczep tłumik do karabinu</text>
+		<text>Przyczep tłumik do karabinu</text>
 	</string>
 	<string id="st_base_cost">
-		<text>cena</text>
+		<text>Cena</text>
 	</string>
 	<string id="st_condition">
-		<text>stan</text>
+		<text>Stan</text>
 	</string>
 	<string id="st_detach_gl">
-		<text>odczep granatnik</text>
+		<text>Odczep granatnik</text>
 	</string>
 	<string id="st_detach_scope">
-		<text>odczep celownik</text>
+		<text>Odczep celownik</text>
 	</string>
 	<string id="st_detach_silencer">
-		<text>odczep tłumik</text>
+		<text>Odczep tłumik</text>
 	</string>
 	<string id="st_dress_outfit">
-		<text>załóż kombinezon</text>
+		<text>Załóż kombinezon</text>
 	</string>
 	<string id="st_drop">
-		<text>wyrzuć</text>
+		<text>Wyrzuć</text>
 	</string>
 	<string id="st_drop_all">
-		<text>wyrzuć wszystko</text>
+		<text>Wyrzuć wszystko</text>
 	</string>
 	<string id="st_eat">
-		<text>zjedz</text>
+		<text>Zjedz</text>
 	</string>
 	<string id="st_move_on_belt">
-		<text>przymocuj do pasa</text>
+		<text>Przymocuj do pasa</text>
 	</string>
 	<string id="st_move_to_bag">
-		<text>przenieś do plecaka</text>
+		<text>Przenieś do plecaka</text>
 	</string>
 	<string id="st_move_to_slot">
-		<text>przenieś do okienka</text>
+		<text>Przenieś do okienka</text>
 	</string>
 	<string id="st_sell_item">
-		<text>sprzedaj przedmiot</text>
+		<text>Sprzedaj przedmiot</text>
 	</string>
 	<string id="st_undress_outfit">
-		<text>zdejmij kombinezon</text>
+		<text>Zdejmij kombinezon</text>
 	</string>
 	<string id="st_unload_magazine">
-		<text>rozładuj</text>
+		<text>Rozładuj</text>
 	</string>
 	<string id="st_use">
-		<text>użyj</text>
+		<text>Użyj</text>
 	</string>
 	<string id="st_weight">
-		<text>waga</text>
+		<text>Waga</text>
 	</string>
 	<string id="ui_inv_accuracy">
 		<text>CELNOŚĆ</text>
@@ -250,10 +250,10 @@
 		<text>Ograniczenie ilości</text>
 	</string>
 	<string id="ui_inv_has">
-		<text>teraz</text>
+		<text>Teraz</text>
 	</string>
 	<string id="ui_inv_need">
-		<text>wymagane</text>
+		<text>Wymagane</text>
 	</string>
 	<string id="ui_inv_you_already_have">
 		<text>Masz już</text>
@@ -265,6 +265,6 @@
 		<text>Nie udało się połączyć z głównym serwerem</text>
 	</string>
 <string id="ui_st_sleep_dialog">
-		<text>Rzeczywiście chcesz iść spać?</text>
+		<text>Na pewno chcesz iść spać?</text>
 	</string>
 </string_table>
