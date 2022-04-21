@@ -1,0 +1,86 @@
+function get_1500_money(npc,actor)
+	dialogs.relocate_money(npc, 1500, "in")
+end
+
+function get_2000_money(npc,actor)
+	dialogs.relocate_money(npc, 2000, "in")
+end
+
+function get_10000_money(npc,actor)
+	dialogs.relocate_money(npc, 10000, "in")
+end
+
+function give_10000_money(npc,actor)
+	dialogs.relocate_money(actor, 10000, "out")
+end
+
+function give_15000_money(npc,actor)
+	dialogs.relocate_money(actor, 15000, "out")
+end
+
+function give_50000_money(npc,actor)
+	dialogs.relocate_money(actor, 50000, "out")
+end
+
+function give_20000_money(npc,actor)
+	dialogs.relocate_money(actor, 20000, "out")
+end
+
+function get_20000_money(npc,actor)
+	dialogs.relocate_money(npc, 20000, "in")
+end
+
+function get_25000_money(npc,actor)
+	dialogs.relocate_money(npc, 25000, "in")
+end
+
+function get_30000_money(npc,actor)
+	dialogs.relocate_money(npc, 30000, "in")
+end
+
+function get_100000_money(npc,actor)
+	dialogs.relocate_money(npc, 100000, "in")
+end
+
+function get_500000_money(npc,actor)
+	dialogs.relocate_money(npc, 500000, "in")
+end
+
+function get_50000_money(npc,actor)
+	dialogs.relocate_money(npc, 50000, "in")
+end
+
+function give_8500_money(npc,actor)
+	dialogs.relocate_money(actor, 8500, "out")
+end
+
+function give_100000_money(npc,actor)
+	dialogs.relocate_money(actor, 100000, "out")
+end
+
+function give_200000_money(npc,actor)
+	dialogs.relocate_money(actor, 200000, "out")
+end
+
+function get_200000_money(npc,actor)
+	dialogs.relocate_money(npc, 50000, "in")
+end
+
+function get_1000000_money(npc,actor)
+	local lyam = 1000000
+	local news_texti = "\\n%c[255,255,0,0]Martwy stalker: Zyama. Desert Lands, uznanie na mapie: %c[default]"..game.translate_string(tostring(lyam).." RU.")
+	db.actor:give_game_news(news_texti, "ui\\ui_iconsTotal", Frect():set(0,0,83,47), 1, 4000)
+	db.actor:give_money(lyam)
+end
+
+function get_45000_money(npc,actor)
+	dialogs.relocate_money(npc, 45000, "in")
+end
+
+--[[function get__money(npc,actor)
+	dialogs.relocate_money(npc, 000, "in")
+end
+
+function give__money(npc,actor)
+	dialogs.relocate_money(actor, 000, "out")
+end]]
