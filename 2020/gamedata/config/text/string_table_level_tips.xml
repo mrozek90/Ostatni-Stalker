@@ -1,8 +1,8 @@
-<?xml version='1.0' encoding="windows-1251"?>
+<?xml version='1.0' encoding="windows-1250"?>
 <string_table>
 	<string id="tips_zone_danger">
 		<text>Default news</text>
-		<text ln="rus">Не ходите, дети, в Африку гулять.</text>
+		<text ln="rus">Nie idџ spacerowaж po Afryce.</text>
 	</string>
-	
+
 </string_table>

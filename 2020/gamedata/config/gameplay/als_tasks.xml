@@ -1,15 +1,15 @@
 
 <game_task id="kill_jj" prio="5">
-		<title>Zabij Johna-Jo</title>
+		<title>Zabij Johnnego</title>
 		<objective>
-			<text>Zabij Johna-Jo</text>
+			<text>Zabij Johnnego</text>
 			<icon>jj_tasks</icon>
 			<article>als_help_1</article>
 			<infoportion_complete>player_complete_kill_jj</infoportion_complete>
 			<infoportion_fail>kill_jj_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Zabij Johna-Jo</text>
+			<text>Zabij Johnego</text>
 			<infoportion_complete>_kill_jj</infoportion_complete>
 		</objective>
 </game_task>

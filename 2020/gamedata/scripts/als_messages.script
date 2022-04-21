@@ -1,122 +1,122 @@
 function forbitten()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]НЕЛЬЗЯ БРАТЬ ГОЛЫМИ РУКАМИ!!!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]BOЇE, NIE BIERZ GOЈYMI ЈAPAMI!!!", nil, nil, 10000)
 end
 
 function from_deadman_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Дэдмэн: \n - %c[default]Привет, чувак. Вижу, заинтересован ты. У меня тоже к этому делу есть интерес. Подходи, обсудим.", nil, nil, 20000) 
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Umarlak: \n - %c[default]Hej koleњ. Widzк, їe jesteњ zainteresowany. Mnie teї interesuje ta sprawa. Chodџ, porozmawiajmy.", nil, nil, 20000)
 end
 
 function from_uzbashi_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Юз-баши: \n - %c[default]Грек, кто-то перебил группу Водяной Крысы.", nil, nil, 30000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Pіoza: \n - %c[default]Grek, ktoњ zlikwidowaі grupк Karczownika.", nil, nil, 30000)
 end
 
 function from_grek_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Грек: \n - %c[default]Отче! Пошептаться бы.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grek: \n - %c[default]Ojcze, moїe poszepczemy.", nil, nil, 10000)
 end
 
 function from_zlatich_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Златич: \n - %c[default]Грек, подойди, разговор есть.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Zlatyж: \n - %c[default]Grek, chodџ. Jest temat do przegadania.", nil, nil, 10000)
 end
 
 function from_system_2()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Мутанты уничтожены, можно запустить генератор и забрать ящик", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Mutanty s№ zlikwidowane, moїesz uruchomiж generator i podnieњж walizkк", nil, nil, 10000)
 end
 
 function from_system_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]ГРУППА УНИЧТОЖЕНА", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]GRUPA ZLIKWIDOWANA", nil, nil, 10000)
 end
 
 function from_system_3()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]НУЖНА КАРТА ДОСТУПА", nil, nil, 3000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]WYMAGANA KARTA DOSTКPU", nil, nil, 3000)
 end
 
 function from_system_4()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]РАДИОСКАНЕР НЕИСПРАВЕН", nil, nil, 2000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]SKANER RADIOWY USZKODZONY", nil, nil, 2000)
 	xr_effects.system_message_4()
 end
 
 function from_system_5()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]ДВЕРЬ ЗАБЛОКИРОВАНА", nil, nil, 2000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]DRZWI ZAMKNIКTE", nil, nil, 2000)
 end
 
 function from_system_6()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]ВАША КАРТА ПЛАТЕЖНОЙ СИСТЕМЫ *ПУСТЫННЫЕ ЗЕМЛИ* АКТИВИРОВАНА. СПАСИБО.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]TWOJA KARTA SYSTEMU PЈATNOЊCI *PUSTYNNE ZIEMIE* JEST AKTYWOWANA. DZIКKUJEMY.", nil, nil, 10000)
 end
 
 function from_system_()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]НЕДЕЙСТВИТЕЛЬНАЯ КАРТА ДОСТУПА.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]NIEPRAWIDЈOWA KARTA DOSTКPU.", nil, nil, 10000)
 end
 
 function message_from_dushman_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Душман: \n - %c[default]Иди в центр поляны и не дергайся – ты на прицеле.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Duszman: \n - %c[default]Idџ na њrodek polany i nie drygaj - jesteњ na celowniku.", nil, nil, 10000)
 end
 
 function message_from_dushman_2()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Душман: \n - %c[default]Хорошо! Стой там. Сейчас подойду. Без глупостей.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Duszman: \n - %c[default]Dobrze! Zostaс tam. Przyjdк zaraz. Rozs№dnie.", nil, nil, 10000)
 end
 
 function transaction_20()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Получено денег - 20 000", nil, nil, 7000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Otrzymano pieni№dze - 20 000 RU", nil, nil, 7000)
 	xr_effects.system_message_7()
 end
 
 function transaction_20_silent()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Найдено денег - 20 000", nil, nil, 7000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Otrzymano pieni№dze - 20 000 RU", nil, nil, 7000)
 	-- xr_effects.system_message_7()
 end
 
 function transaction_300()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Получено денег - 300 000", nil, nil, 7000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Otrzymano pieni№dze - 300 000 RU", nil, nil, 7000)
 	xr_effects.system_message_8()
 end
 
 function transaction_300_silent()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Найдено денег - 300 000", nil, nil, 7000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Otrzymano pieni№dze - 300 000 RU", nil, nil, 7000)
 	-- xr_effects.system_message_8()
 end
 
 function message_from_hacker_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]КПК ученого с Агропрома, вовсе не КПК ученого. Мог бы и сам догадаться. Это КПК военного сталкера. Удалось прочитать информацию про аккумуляторы и установку в Рыжем лесу. Я отправляю человека, он на месте тебе покажет.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]PDA naukowca z Agropromu wcale nie jest PDA naukowca. Sam mogіem siк domyњliж. To jest PDA wojskowego stalkera. Udaіo mi siк przeczytaж informacje o bateriach i instalacji w Czerwonym Lesie. Wysyіam czіowieka, pokaїe Ci na miejscu.", nil, nil, 10000)
 end
 
 function message_from_hacker_2()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]В КПК Симпсона, кроме разной хрени, упоминается программер из Польши. Он как-то связан с наемниками и черными рейдерами.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]W PDA Simpsona oprуcz rуїnych bzdur wymieniany jest programista z Polski. Ma coњ wspуlnego z najemnikami i czarnymi najeџdџcami.", nil, nil, 10000)
 end
 
 function message_from_hacker_3()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]КПК Леньки Бритвы - фейк. Кто-то тупо заманивает группу Макклинза в Припять. Упоминается там и схрон Стрелка в Припяти, но координаты не указываются.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]PDA Lenki Brzytwy to podrуbka. Ktoњ gіupio zwabia grupк McCleanуw do Prypeci. Wspomniano tam rуwnieї o skrytce Strieіka w Prypeci, ale nie podano wspуіrzкdnych.", nil, nil, 10000)
 end
 
 function message_from_hacker_4()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]Доктор Браверман оказался в Х-18 случайно, в ходе пробного пуска какой-то машины в Лиманске.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Dr Braverman przypadkowo trafiі do X-18 podczas prуbnego uruchomienia jakiejњ maszyny w Limaсsku.", nil, nil, 10000)
 end
 
 function message_from_hacker_5()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]На флешке военных сталкеров - просто приказ сворачивать лагерь на Агропроме и всем двигать на Армейские склады. Если никого там уже не застанут, то должны идти дальше к установке в Рыжем лесу. Если и там никого не будет, то самим активировать установку и перейти в Лиманск.", nil, nil, 15000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Na pendrive'ach wojskowych stalkerуw - prosty rozkaz doі№czenia do obozu na Agropromie i przeniesienia wszystkich do magazynуw wojskowych. Jeњli nikogo tam juї nie ma, powinni udaж siк dalej do obozowiska w Czerwonym Lesie. Jeњli nikogo tam nie ma, sami rozbij№ obуz i pуjd№ do Limaсska.", nil, nil, 15000)
 end
 
 function message_from_hacker_6()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]На флешке Шокера деловая информация. Поставки оборудования, вооружения, жратвы и так далее, оплата труда, системотехник из Варшавы. Сплошная бухгалтерия. Но по ней можно понять, что затевается нечто грандиозное. Будь начеку.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Pendrive Paskudy zawiera informacje biznesowe. Dostawy sprzкtu, broni, їarcie i tak dalej. Pіace dla inїyniera systemуw z Warszawy. Peіna ksiкgowoњж. Ale z tego moїesz zrozumieж, їe zaczyna siк coњ niecodziennego. Uwaїaj na siebie.", nil, nil, 10000)
 end
 
 function message_from_hacker_7()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]В КПК военного, в том, что ты на Болотах нашел, есть информация, украденная у Могильщика. Могильщик был занят поиском второго комплекта ключей (каких - не знаю) и вычислением правильных координат створов. Что это значит - не пойму, хоть убей. Но речть идет о АТП на Кордоне. Походу, там искать эти створы и надо.", nil, nil, 20000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]W PDA, w tym, co znalazіeњ na Bagnach, znajduj№ siк informacje skradzione Grabarzowi. Grabarz byі zajкty szukaniem drugiego kompletu kluczy (nie wiem jakich) i obliczaniem poprawnych wspуіrzкdnych linii. Co to znaczy - za cholerк nie rozumiem. Ale pisz№ o ATP na Kordonie. Wydaje mi siк, їe tam musisz szukaж tych linii.", nil, nil, 20000)
 end
 
 function message_from_hacker_8()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Гена-хакер: \n - %c[default]В шифровке Стоккера говорится о том, что попасть в центр Зоны можно через вентиляционную трубу на Станции.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Pendrive Paskudy mуwi, їe do centrum Strefy moїna dostaж siк rur№ wentylacyjn№ na Stacji.", nil, nil, 10000)
 end
 
 function message_from_aes_tactics_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Тактик: \n - %c[default]Идем с нами, брат. Ждут тебя.", nil, nil, 7000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Taktyk: \n - %c[default]Chodџ z nami bratku. Czekaliњmy na Ciebie.", nil, nil, 7000)
 end
 
 function message_from_aes_tactics_2()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Тактик: \n - %c[default]Не надо ничего говорить. Просто подойди ближе.", nil, nil, 7000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Taktyk: \n - %c[default]Nie musisz nic mуwiж. Po prostu podejdџ bliїej.", nil, nil, 7000)
 end
 
 function massage_from_barman()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Бармен: \n - %c[default]Грек, ждут тебя в Баре давешние твои знакомцы. Поаккуратней, дружище.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Barman: \n - %c[default]Grek, Twoi starzy znajomi czekaj№ na Ciebie w barze. Uwaїaj, kolego.", nil, nil, 10000)
 end
 
 
@@ -125,116 +125,122 @@ end
 
 
 function recieved_massage_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Неизвестный: \n - %c[default]Эй, ты! Поворачивай назад! Нечего тебе здесь делать!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Nieznany: \n - %c[default]Hej Ty! Idџ st№d! Nie masz tu nic do roboty!", nil, nil, 10000)
 end
 function recieved_massage_2()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Неизвестный: \n - %c[default]Ну, сам напросился!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Nieznany: \n - %c[default]No i siк doigraіeњ!", nil, nil, 10000)
 end
 -- function recieved_massage_3()
 	-- news_manager.send_tip(db.actor, "%c[255,200,0,0]: \n - %c[default].", nil, nil, 10000)
 -- end
 function recieved_massage_4()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Грек: \n - %c[default]Вот и все. Дело принципа.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grek: \n - %c[default]To by byіo na tyle. Kwestia zasad.", nil, nil, 10000)
 end
 function recieved_massage_5()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Варнак: \n - %c[default]Помнишь еще наш разговор про шахматы? Тот, кто испортил партию, ждет в бункере на хуторе у Сидора. Поспеши - он долго ждать не собирается.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Јajdak: \n - %c[default]Pamiкtasz jeszcze nasz№ rozmowк o szachach? Ten, ktуry zepsuі przyjкcie, czeka w bunkrze na farmie w pobliїu Sidoru. Pospiesz siк - nie bкdzie dіugo czekaі.", nil, nil, 10000)
 end
 function recieved_massage_6()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Грек, слышишь меня? Тут служивые такого карася выловили при попытке пройти через северный блокпост. Ты подтягивайся, очень интересно будет.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Grek, sіyszysz mnie? Їoіnierze zіapali niezіego karasia podczas prуby przejњcia przez pуіnocny punkt kontrolny. Nie oci№gaj siк, bкdzie bardzo ciekawie.", nil, nil, 10000)
 end
 function recieved_massage_7()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Золотой: \n - %c[default]Иди первым, Грек. И - не забывай: я - твой ключ к Лиманску.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Zіoty: \n - %c[default]Idџ pierwszy Grek. I nie zapominaj - ja jestem Twoim kluczem do Limaсska.", nil, nil, 10000)
 end
 function recieved_massage_8()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Чиж: \n - %c[default]Повезло тебе, козлина. А теперь попробуй выбраться из лабы: выход заминирован, мины сработают на твое появление. Желаю тебе сдохнуть от голода, мразь.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Czyї: \n - %c[default]Masz szczкњcie, kozaku. A teraz sprуbuj wyjњж z laboratorium: wyjњcie jest zaminowane, miny zadziaіaj№ gdy siк pojawisz w okolicy. Їyczк Ci umrzeж z gіodu, szumowino.", nil, nil, 10000)
 end
 function recieved_massage_9()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Панцер: \n - %c[default]И забудь сюда дорогу.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grenadier: \n - %c[default]I zapomnij od drodze tutaj.", nil, nil, 10000)
 end
 -- function recieved_massage_10()
 	-- news_manager.send_tip(db.actor, "%c[255,200,0,0]: \n - %c[default].", nil, nil, 10000)
 -- end
 function recieved_massage_11()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Дэдмэн: \n - %c[default]Чувак, никогда не трогай спящих зомби.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Umarlak: \n - %c[default]Stary, nigdy nie dotykaj њpi№cych zombie.", nil, nil, 10000)
 end
 function recieved_massage_12()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Душман: \n - %c[default]Иди в центр поляны и не дергайся - ты на прицеле.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Duszman: \n - %c[default]Idџ na њrodek polany i nie drygaj - jesteњ na celowniku.", nil, nil, 10000)
 end
 function recieved_massage_13()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Душман: \n - %c[default]Хорошо. Стой там. Сейчас подойду. Без глупостей.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Duszman: \n - %c[default]Dobrze. Zostaс tam. Przyjdк zaraz. Rozs№dnie.", nil, nil, 10000)
 end
 function recieved_massage_14()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Синоптик: \n - %c[default]Не спеши. Нам, походу, поговорить надо.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Synoptyk: \n - %c[default]Nie spiesz siк. Wydaje mi siк, їe musimy porozmawiaж.", nil, nil, 10000)
 end
 function recieved_massage_15()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Могильщик: \n - %c[default]Я ждал тебя, я знал - ты придешь. Жить мне осталось не долго. Я застрял здесь. Убери оружие, я отдам тебе то, зачем ты пришел. Без боя.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grabarz: \n - %c[default]Czekaіem na Ciebie, wiedziaіem, їe przyjdziesz. Niedіugo umrк. Utkn№іem tutaj. Odіуї broс, dam Ci to, po co przyszedіeњ. Bez walki.", nil, nil, 10000)
 end
 function recieved_massage_16()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Могильщик: \n - %c[default]Ну? Готов? Начнем.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grabarz: \n - %c[default]Dobrze? Gotowy? Zaczynajmy.", nil, nil, 10000)
 end
 function recieved_massage_17()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Макклинз: \n - %c[default]Грек, да не суетись ты. Подумай - зачем ты мог сюда вернуться?.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grabarz: \n - %c[default]Grek, nie kіopocz siк. Pomyњl - dlaczego miaіbyњ tu wrуciж?.", nil, nil, 10000)
 end
 function recieved_massage_18()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Макклинз: \n - %c[default]Ну? Нашел? Хорошо. Уходим.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]McClens: \n - %c[default]No? Znalazіeњ? Dobrze. Ulotniamy siк.", nil, nil, 10000)
 end
 function recieved_massage_19()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Я на позиции. Огонь - по готовности.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Jestem na miejscu. Ogieс - gdy jesteњ gotowy.", nil, nil, 10000)
 end
 function recieved_massage_20()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Рейдеры: \n - %c[default]Тринадцатый, где тебя черти носят? - Сталкер какойто возле установки крутится, распознать не могу: сильные помехи.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Rajder: \n - %c[default]Trzynasty, gdzie do diabіa jesteњ? - W pobliїu instalacji krкci siк jakiњ stalker, nie mogк go rozpoznaж: silne zakіуcenia.", nil, nil, 10000)
 end
 function recieved_massage_21()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Рейдер: \n - %c[default]Сталкер, назови себя... Грек? Известное погоняло. Слышь, Грек, топай к северному блокпосту, потолкуем.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Rajder: \n - %c[default]Stalker, nazywaj№cy siк... Grekiem? Wiesz o kim mуwiк -  pojechaі. Podejdџ do pуіnocnego punktu kontrolnego, porozmawiamy.", nil, nil, 10000)
 end
 function recieved_massage_22()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Каспер: \n - %c[default]Грек, с таможней договорился.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Kasper: \n - %c[default]Grek, dogadane z mundurami.", nil, nil, 10000)
 end
 function recieved_massage_23()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Грек, вон - дрезина, топлива под завязку.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Grek, ten wуzek. Zalany do peіna.", nil, nil, 10000)
 end
 function recieved_massage_24()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Не тяни. Тарань уже ворота.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Nie ci№gnij, same siк otworz№.", nil, nil, 10000)
 end
 function recieved_massage_25()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Пульт где-то рядом. Найди его и отключи управление турелями.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Tablica jest w pobliїu. Znajdџ j№ i wyі№cz sterowanie wieїyczkami.", nil, nil, 10000)
 end
 function recieved_massage_26()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Всё! Готово! Двигаем дальше!.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Wszystko? Gotуw? Lecimy dalej!.", nil, nil, 10000)
 end
 function recieved_massage_27()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Каспер: \n - %c[default]Как разгонишь - прыгай!.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Kasper: \n - %c[default]Jak siк rozpкdzisz - skacz!.", nil, nil, 10000)
 end
 function recieved_massage_28()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Это - пустышка! Не стоим! Вперед-вперед-вперед!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Tu nic nie ma! Nie stoimy! Naprzуd-naprzуd-naprzуd!", nil, nil, 10000)
 end
 function recieved_massage_29()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Грек, опять мимо! Дальше! Не стоим!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Grek, jeszcze raz! Dalej! Nie stoimy!", nil, nil, 10000)
 end
 function recieved_massage_30()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Не то! Не то! Парни, крутите башнями!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Nie to! Nie to! Chіopaki, obrужcie wieїe.", nil, nil, 10000)
 end
 function recieved_massage_31()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Опять фуфло! Быстрей-быстрей!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Znowu bzdury! Szybciej, szybciej!", nil, nil, 10000)
 end
 function recieved_massage_32()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Есть! Готово! Песец коробочке!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Jest! Gotowe! Zasrana skrzynka!", nil, nil, 10000)
 end
 function recieved_massage_33()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Иванцов: \n - %c[default]Наши передают - турели захлебнулись. Собираемся, бойцы, и по-тихому двигаем к воротам.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Nasz przekaz - wieїyczki wyі№czone. Zbiуrka i po cichu ruszamy do wyjњcia.", nil, nil, 10000)
 end
 function recieved_massage_34()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Славен: \n - %c[default]Слышно меня? Кто такой? Зачем здесь? Погоди... Грек, ты, что ли? Да ладно... Спокойно. Мы выходим.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Јadny: \n - %c[default]Czy mnie sіyszysz? Kim jesteњ? Po co? Czekaj... Grek, jesteњ? Chodџ... Spojnie. Wychodzimy.", nil, nil, 10000)
 end
 function recieved_massage_35()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Славен: \n - %c[default]Слышно меня?. Кто такие? Зачем здесь? Погоди... Грек, ты, что ли? Да ладно... Спокойно. Мы выходим", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Јadny: \n - %c[default]Czy mnie sіyszysz?. Kim jesteњcie? Po co? Czekaj... Grek, jesteњ? Chodџ... Spokojnie. Wychodzimy", nil, nil, 10000)
 end
 function recieved_massage_36()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Славен: \n - %c[default]Как там у вас?! Удалось повязать гада?! Короче! Андрюха выбыл по двухсотому! Поп - трехсотый. Патроны кончаются! Больше ждать не можем! Я отключаю Барьер!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Јadny: \n - %c[default]Jak siк masz?! Udaіo Ci siк zwi№zaж drania?! Krуtko mуwi№c! Andryukha odpadі po 200.! Pop - 300. Amunicja siк koсczy! Nie moїemy dіuїej czekaж! Wyі№czam barierк!", nil, nil, 10000)
 end
 function recieved_massage_37()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Славен: \n - %c[default]Как там у вас?! Удалось повязать гада?! Короче! Андрюха выбыл по двухсотому! Патроны кончаются! Больше ждать не можем! Я отключаю Барьер!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Јadny: \n - %c[default]Jak siк masz?! Udaіo Ci siк zwi№zaж drania?! Krуtko mуwi№c! Andryukha odpadі po 200.! Amunicja siк koсczy! Nie moїemy dіuїej czekaж! Wyі№czam barierк!", nil, nil, 10000)
 end
 function recieved_massage_38()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Панцер: \n - %c[default]У вас, я смотрю, тут весело. А будет еще веселее. Короче, мужики, бросайте все и быстро перемещайтесь на базу. Карета подана.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grenadier: \n - %c[default]Widzк, їe dobrze siк tu bawisz. I bкdzie jeszcze fajniej. W skrуcie chіopaki, rzuжcie wszystko i szybko ruszajcie do bazy. Przewуz zgіoszony.", nil, nil, 10000)
+end
+function recieved_massage_39()
+	news_manager.send_tip(db.actor, "%c[255,1,255,255]Strieіok: \n - %c[default]Grek, dobra robota! Wierzyіem, їe moїesz wyі№czyж barierк! Uruchamiam zszywacz...", nil, nil, 10000)
+end
+function recieved_massage_40()
+	news_manager.send_tip(db.actor, "%c[255,1,255,255]Warnak: \n - %c[default]Grek, idџ do kawiarni. Zіoty przyszedі, pyta o Ciebie.", nil, nil, 10000)
 end

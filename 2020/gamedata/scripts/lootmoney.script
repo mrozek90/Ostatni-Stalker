@@ -16,7 +16,7 @@ function lootmoney_marader(npc)
 
 	end
 	end
-local news_texti = "\\n%c[255,255,0,0]Мёртвый сталкер: %c[default]"..npc:character_name().."\\n%c[255,255,0,0]Пустынные Земли, зачисление на карту: %c[default]"..game.translate_string(tostring(deadmoney).." руб.")
+local news_texti = "\\n%c[255,255,0,0]Martwy Stalker: %c[default]"..npc:character_name().."\\n%c[255,255,0,0]Pustynnej Ziemi, uznanie na mapie: %c[default]"..game.translate_string(tostring(deadmoney).." RU.")
 db.actor:give_game_news(news_texti, "ui\\ui_iconsTotal", Frect():set(0,0,83,47), 1, 4000)
 db.actor:give_money(deadmoney)
 game_stats.money_quest_update(deadmoney)
