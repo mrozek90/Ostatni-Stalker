@@ -159,13 +159,13 @@
 			<infoportion_complete>player_complete_cross_perimetre</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Odbierz przedmioty z magazynu</text>
+			<text>Odbierz przedmioty ze schowka</text>
 	<map_location_type hint= "shron_hint">green_location</map_location_type>
 	<object_story_id>esc_hazar_shron</object_story_id>
 			<infoportion_complete>cross_perimetre_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przeci¹æ drut</text>
+			<text>Przetnij drut</text>
 	<map_location_type hint= "koluchka_hint">green_location</map_location_type>
 	<object_story_id>esc_physic_destroyable_object_0006</object_story_id>
 			<infoportion_complete>cross_perimetre_2</infoportion_complete>
@@ -1093,15 +1093,15 @@
 </game_task>
 
 <game_task id="conscience_of_colonel" prio="50">
-		<title>Sumienie pu³kownika Grenadiera</title>
+		<title>Sumienie pu³kownika Panzera</title>
 		<objective>
-			<text>Sumienie pu³kownika Grenadiera</text>
+			<text>Sumienie pu³kownika Panzera</text>
 			<icon>ui_iconsNpc_stalker_do_balon_6</icon>
 			<article>als_help_51</article>
 			<infoportion_complete>player_complete_conscience_of_colonel</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wróæ i dowiedz siê, czego potrzebuje Grenadier</text>
+			<text>Wróæ i dowiedz siê, czego potrzebuje Panzer</text>
 			<infoportion_complete>conscience_of_colonel_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1821,7 +1821,7 @@
 			<infoportion_complete>player_complete_contract_with_colonel</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Grenadierem przy barze</text>
+			<text>Spotkaj siê z Panzerem przy barze</text>
 			<infoportion_complete>contract_with_colonel_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1847,7 +1847,7 @@
 			<infoportion_complete>peace_talker_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poinformuj Grenadiera o wynikach negocjacji</text>
+			<text>Poinformuj Panzera o wynikach negocjacji</text>
 			<infoportion_complete>peace_talker_4</infoportion_complete>
 		</objective>
 </game_task>
@@ -1865,7 +1865,7 @@
 			<infoportion_complete>gate_in_the_zone_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wyœlij sygna³ do Grenadiera</text>
+			<text>Wyœlij sygna³ do Panzera</text>
 			<infoportion_complete>gate_in_the_zone_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -2357,7 +2357,7 @@
 			<infoportion_complete>player_complete_esc_turrets_repair</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z pu³kownikiem Grenadierem</text>
+			<text>Porozmawiaj z pu³kownikiem Panzerem</text>
 			<infoportion_complete>esc_turrets_repair_1</infoportion_complete>
 		</objective>
 </game_task>

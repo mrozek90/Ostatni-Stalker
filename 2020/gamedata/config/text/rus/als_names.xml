@@ -19,16 +19,16 @@
 	</string>
 
 	<string id="shamray_gang_novice">
-		<text>Gang Szramy, nowicjusz</text>
+		<text>Banda Szramy, nowicjusz</text>
 	</string>
 	<string id="shamray_gang_regular">
-		<text>Gang Szramy, doœwiadczony</text>
+		<text>Banda Szramy, doœwiadczony</text>
 	</string>
 	<string id="shamray_gang_veteran">
-		<text>Gang Szramy, weteran</text>
+		<text>Banda Szramy, weteran</text>
 	</string>
 	<string id="shamray_gang_master">
-		<text>Gang Szramy, mistrz</text>
+		<text>Banda Szramy, mistrz</text>
 	</string>
 
 	<string id="bb_novice">
@@ -510,7 +510,7 @@
 	</string>
 
 	<string id="col_panzer">
-		<text>pu³kownik Grenadier</text>
+		<text>pu³kownik Panzer</text>
 	</string>
 
 	<string id="ltnt_yakovlev_name">
@@ -667,94 +667,94 @@
 	</string>
 
 	<string id="mogilshik_gang_novice">
-		<text>Gang Grabarza, nowicjusz</text>
+		<text>Banda Grabarza, nowicjusz</text>
 	</string>
 	<string id="mogilshik_gang_regular">
-		<text>Gang Grabarza, doœwiadczony</text>
+		<text>Banda Grabarza, doœwiadczony</text>
 	</string>
 	<string id="mogilshik_gang_veteran">
-		<text>Gang Grabarza, weteran</text>
+		<text>Banda Grabarza, weteran</text>
 	</string>
 	<string id="mogilshik_gang_master">
-		<text>Gang Grabarza, mistrz</text>
+		<text>Banda Grabarza, mistrz</text>
 	</string>
 
 	<string id="tankist_gang_novice">
-		<text>Gang Czo³gisty, nowicjusz</text>
+		<text>Banda Czo³gisty, nowicjusz</text>
 	</string>
 	<string id="tankist_gang_regular">
-		<text>Gang Czo³gisty, doœwiadczony</text>
+		<text>Banda Czo³gisty, doœwiadczony</text>
 	</string>
 	<string id="tankist_gang_veteran">
-		<text>Gang Czo³gisty, weteran</text>
+		<text>Banda Czo³gisty, weteran</text>
 	</string>
 	<string id="tankist_gang_master">
-		<text>Gang Czo³gisty, mistrz</text>
+		<text>Banda Czo³gisty, mistrz</text>
 	</string>
 
 	<string id="galash_gang_novice">
-		<text>Gang Ga³asza, nowicjusz</text>
+		<text>Banda Ga³asza, nowicjusz</text>
 	</string>
 	<string id="galash_gang_regular">
-		<text>Gang Ga³asza, doœwiadczony</text>
+		<text>Banda Ga³asza, doœwiadczony</text>
 	</string>
 	<string id="galash_gang_veteran">
-		<text>Gang Ga³asza, weteran</text>
+		<text>Banda Ga³asza, weteran</text>
 	</string>
 	<string id="galash_gang_master">
-		<text>Gang Ga³asza, mistrz</text>
+		<text>Banda Ga³asza, mistrz</text>
 	</string>
 
 	<string id="uzbek_gang_novice">
-		<text>Gang Uzbeka, nowicjusz</text>
+		<text>Banda Uzbeka, nowicjusz</text>
 	</string>
 	<string id="uzbek_gang_regular">
-		<text>Gang Uzbeka, doœwiadczony</text>
+		<text>Banda Uzbeka, doœwiadczony</text>
 	</string>
 	<string id="uzbek_gang_veteran">
-		<text>Gang Uzbeka, weteran</text>
+		<text>Banda Uzbeka, weteran</text>
 	</string>
 	<string id="uzbek_gang_master">
-		<text>Gang Uzbeka, mistrz</text>
+		<text>Banda Uzbeka, mistrz</text>
 	</string>
 
 	<string id="sinoptik_gang_novice">
-		<text>Gang Synoptyka, nowicjusz</text>
+		<text>Banda Synoptyka, nowicjusz</text>
 	</string>
 	<string id="sinoptik_gang_regular">
-		<text>Gang Synoptyka, doœwiadczony</text>
+		<text>Banda Synoptyka, doœwiadczony</text>
 	</string>
 	<string id="sinoptik_gang_veteran">
-		<text>Gang Synoptyka, weteran</text>
+		<text>Banda Synoptyka, weteran</text>
 	</string>
 	<string id="sinoptik_gang_master">
-		<text>Gang Synoptyka, mistrz</text>
+		<text>Banda Synoptyka, mistrz</text>
 	</string>
 
 	<string id="waterrat_gang_novice">
-		<text>Gang Karczownika, nowicjusz</text>
+		<text>Banda Karczownika, nowicjusz</text>
 	</string>
 	<string id="waterrat_gang_regular">
-		<text>Gang Karczownika, doœwiadczony</text>
+		<text>Banda Karczownika, doœwiadczony</text>
 	</string>
 	<string id="waterrat_gang_veteran">
-		<text>Gang Karczownika, weteran</text>
+		<text>Banda Karczownika, weteran</text>
 	</string>
 	<string id="waterrat_gang_master">
-		<text>Gang Karczownika, mistrz</text>
+		<text>Banda Karczownika, mistrz</text>
 	</string>
 
 	<string id="mackleens_gang_novice">
-		<text>Gang Maklina, nowicjusz</text>
+		<text>Banda McClena, nowicjusz</text>
 	</string>
 	<string id="mackleens_gang_regular">
-		<text>Gang Maklina, doœwiadczony</text>
+		<text>Banda McCleana, doœwiadczony</text>
 	</string>
 	<string id="mackleens_gang_veteran">
-		<text>Gang Maklina, weteran</text>
+		<text>Banda McCleana, weteran</text>
 	</string>
 	<string id="mackleens_gang_master">
-		<text>Gang Maklina, mistrz</text>
+		<text>Banda McCleana, mistrz</text>
 	</string>
 
 	<string id="police_novice">
@@ -851,7 +851,7 @@
 	</string>
 
 	<string id="shnyra_name">
-		<text>Szmalcownik</text>
+		<text>Sznyra</text>
 	</string>
 
 	<string id="hazar_name">

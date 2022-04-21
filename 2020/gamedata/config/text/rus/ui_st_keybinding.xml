@@ -204,4 +204,7 @@
 	<string id="speech_menu_personal">
 		<text>Wiadomoœci g³osowe (2)</text>
 	</string>
+	<string id="kb_scores">
+		<text>Tabl. Wyników</text>
+	</string>
 </string_table>

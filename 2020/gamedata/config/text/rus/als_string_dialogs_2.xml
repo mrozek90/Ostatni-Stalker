@@ -30,7 +30,7 @@
         <text>Hmm… Nie ja decydujê, Grek.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_6">
-        <text>A kto? Grenadier?</text>
+        <text>A kto? Panzer?</text>
     </string>
 	<string id="sor_ivancov_dialog_10_7">
         <text>PrzyjdŸ do baru, Grek. Mo¿e, rzeczywiœcie uda siê unikn¹æ rozlewu krwi.</text>
@@ -76,7 +76,7 @@
         <text>Znaczy siê, chcesz szturmowaæ?</text>
     </string>
 	<string id="sor_ivancov_dialog_11_1">
-        <text>Tak. Grenadier z g³ównymi si³ami uderzy na Perymetr z pó³nocy. My - od ty³u.</text>
+        <text>Tak. Panzer z g³ównymi si³ami uderzy na Perymetr z pó³nocy. My - od ty³u.</text>
     </string>
 	<string id="sor_ivancov_dialog_11_2">
         <text>Co mam robiæ?</text>
@@ -580,10 +580,10 @@
         <text>He. Gen powiedzia³, niby ¿e, je¿eli Grek ¿yje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
     </string>
 	<string id="red_kasper_dialog_2_5">
-        <text>Grenadier Ciebie jednego na wzmocnienie wys³a³?</text>
+        <text>Panzer Ciebie jednego na wzmocnienie wys³a³?</text>
     </string>
 	<string id="red_kasper_dialog_2_6">
-        <text>Czemu jednego? Trzech nas by³o. Tamci zdezerterowali. Ch³opie, mam wszystko w dupie, a Grenadiera - szczególnie. Za Perymetrem skrêcili na Bagna. Mnie ze sob¹ wo³ali. Ale ja nic tam nie zgubi³em, na Wielkiej Ziemi.</text>
+        <text>Czemu jednego? Trzech nas by³o. Tamci zdezerterowali. Ch³opie, mam wszystko w dupie, a Panzera - szczególnie. Za Perymetrem skrêcili na Bagna. Mnie ze sob¹ wo³ali. Ale ja nic tam nie zgubi³em, na Wielkiej Ziemi.</text>
     </string>
 	<string id="red_kasper_dialog_2_7">
         <text>Rozumiem. Kasper, coœ o wiadomoœci od Gena mówi³eœ.</text>
@@ -599,10 +599,10 @@
         <text>He. Gen powiedzia³, niby ¿e, je¿eli Grek ¿yje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
     </string>
 	<string id="red_kasper_dialog_3_3">
-        <text>Grenadier Ciebie jednego na wzmocnienie wys³a³?</text>
+        <text>Panzer Ciebie jednego na wzmocnienie wys³a³?</text>
     </string>
 	<string id="red_kasper_dialog_3_4">
-        <text>Czemu jednego? Trzech nas by³o. Tamci zdezerterowali. Cz³owieku, mam wszystko w dupie, a Grenadiera - szczególnie. Za Perymetrem skrêcili na Bagna. Mnie ze sob¹ wo³ali. Ale ja nic tam nie zgubi³em, na Wielkiej Ziemi.</text>
+        <text>Czemu jednego? Trzech nas by³o. Tamci zdezerterowali. Cz³owieku, mam wszystko w dupie, a Panzera - szczególnie. Za Perymetrem skrêcili na Bagna. Mnie ze sob¹ wo³ali. Ale ja nic tam nie zgubi³em, na Wielkiej Ziemi.</text>
     </string>
 	<string id="red_kasper_dialog_3_5">
         <text>Rozumiem. No, prowadŸ, Kasper.</text>
@@ -628,10 +628,10 @@
         <text>Dok¹d zmierzam - nikogo nie powinno interesowaæ, rozumiecie, poruczniku?</text>
     </string>
 	<string id="lim_yakovlev_dialog_1_3">
-        <text>Nie ma sprawy. Grenadier poleci³ okazaæ Ci wszelk¹ pomoc. Tak ¿e - przychodŸ, jakby co.</text>
+        <text>Nie ma sprawy. Panzer poleci³ okazaæ Ci wszelk¹ pomoc. Tak ¿e - przychodŸ, jakby co.</text>
     </string>
 	<string id="lim_yakovlev_dialog_1_4">
-        <text>Nie ma sprawy. Grenadier poleci³ okazaæ ci wszelk¹ pomoc. Tak ¿e - przychodŸ, jakby co.</text>
+        <text>Nie ma sprawy. Panzer poleci³ okazaæ ci wszelk¹ pomoc. Tak ¿e - przychodŸ, jakby co.</text>
     </string>
 	<string id="lim_yakovlev_dialog_1_5">
         <text>To zrozumia³e. Uwzglêdnij - droga na pó³noc jest zamkniêta. Automatyczny kompleks obronny stoi w rejonie RLS.</text>
@@ -1147,7 +1147,7 @@
         <text>Nie na sto procent.</text>
     </string>
 	<string id="lim_yakovlev_dialog_2_5">
-        <text>S³uchaj, Grek, bez pozwolenia Grenadiera, oczywiœcie nie mogê daæ Ci ludzi. A on nie pozwoli. Jest inna opcja - pancerz szturmowy. Nadzwyczaj odporny na stal i o³ów. Na serwomotorach. Ale s¹ te¿ minusy. Powiedzia³bym - du¿o minusów. To prototyp doœwiadczalny, a wiêc - niewygodny, ciê¿ki, PNW - praktycznie bezu¿yteczny. Najgorsze jest to, ¿e daleko mu do autonomii. Czyli, dane do regeneracji pancerza s¹ przesy³ane ze stanowiska dowodzenia. W¹sk¹ wi¹zk¹, dlatego operator powinien znaæ przybli¿one wspó³rzêdne obszaru, na którym pancerz bêdzie eksploatowany. Mówisz, ¿e operacja bêdzie przeprowadzana w Szpitalu? Tak wiêc, istnieje du¿e prawdopodobieñstwo, ¿e u¿ywaj¹c tego pancerza, pozostaniesz w Szpitalu ¿ywy i zdrowy. Pasuje Ci taka opcja? Tutaj le¿¹, bierz jaki chcesz. No i jak?</text>
+        <text>S³uchaj, Grek, bez pozwolenia Panzera, oczywiœcie nie mogê daæ Ci ludzi. A on nie pozwoli. Jest inna opcja - pancerz szturmowy. Nadzwyczaj odporny na stal i o³ów. Na serwomotorach. Ale s¹ te¿ minusy. Powiedzia³bym - du¿o minusów. To prototyp doœwiadczalny, a wiêc - niewygodny, ciê¿ki, PNW - praktycznie bezu¿yteczny. Najgorsze jest to, ¿e daleko mu do autonomii. Czyli, dane do regeneracji pancerza s¹ przesy³ane ze stanowiska dowodzenia. W¹sk¹ wi¹zk¹, dlatego operator powinien znaæ przybli¿one wspó³rzêdne obszaru, na którym pancerz bêdzie eksploatowany. Mówisz, ¿e operacja bêdzie przeprowadzana w Szpitalu? Tak wiêc, istnieje du¿e prawdopodobieñstwo, ¿e u¿ywaj¹c tego pancerza, pozostaniesz w Szpitalu ¿ywy i zdrowy. Pasuje Ci taka opcja? Tutaj le¿¹, bierz jaki chcesz. No i jak?</text>
     </string>
 	<string id="lim_yakovlev_dialog_2_6">
         <text>Rozumiem, naczelniku. Chcecie wypróbowac pancerz w warunkach bojowych. Dobra, zaryzykujê.</text>
@@ -1167,13 +1167,13 @@
         <text>Cieszê siê, widz¹c Ciê w dobrym zdrowiu, Grek.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_1">
-        <text>Jesteœ pieprzonym psycholem, Grenadier. Przecie¿ mo¿na by³o po cichu, noc¹, wyk³uæ no¿ami GRCowców.</text>
+        <text>Jesteœ pieprzonym psycholem, Panzer. Przecie¿ mo¿na by³o po cichu, noc¹, wyk³uæ no¿ami GRCowców.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_2">
         <text>Có¿, jak go spotkasz, to mo¿esz pouczyæ Fidela, jak by³o warto dzia³aæ przy szturmie koszar Moncada. Potrzebowaliœmy rekonansu, i ju¿ go prawie uzyskaliœmy. Dobra, emocje na bok. Zosta³y Ci jakieœ sprawy w Dolinie Mroku? Potrzebujesz pomocy?</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_3">
-        <text>A to ju¿ nie twój interes, Grenadier, czy mam jakieœ sprawy, czy nie. A nawet jeœli mam - poradzê sobie bez Ciebie. Zrobiê wszystko sam. Cicho i bez zadymy.</text>
+        <text>A to ju¿ nie Twój interes, Panzer, czy mam jakieœ sprawy, czy nie. A nawet jeœli mam - poradzê sobie bez Ciebie. Zrobiê wszystko sam. Cicho i bez zadymy.</text>
     </string>
 	<string id="esc_col_panzer_dialog_1_4">
         <text>Dobrze. Potem poœlê swoich, niech siê wyszalej¹.</text>

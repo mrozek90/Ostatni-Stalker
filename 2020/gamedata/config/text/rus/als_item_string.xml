@@ -1,6 +1,77 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
+	<!-- update -->
+	<string id="shocker_pda_name">
+		<text>PDA Paskudy</text>
+	</string>
+	<string id="shocker_pda_description">
+		<text>„Trudno zapamiętać, brak skojarzeń: \n Kod zamka: 2419. \n Kod dezaktywacji wieży: 6740. \n Co najważniejsze, nie można wyłączyć generatora bez uprzedniego przełączenia systemu w tryb konserwacji. \n To konieczne”.</text>
+	</string>
+
+	<string id="outfit_tank_name">
+		<text>Kombinezon szturmowy</text>
+	</string>
+	<string id="outfit_tank_description">
+		<text>Eksperymentalny kombinezon szturmowy. Ciężki, niewygodn, ze słabym widzeniem w nocy. Korzyści - pełna ochrona przed kulami i odłamkami oraz +50 kg do udźwigu.</text>
+	</string>
+
+	<string id="bormans_beads_name">
+		<text>Koraliki</text>
+	</string>
+	<string id="bormans_beads_description">
+		<text>Koraliki Leshy Borman</text>
+	</string>
+
+	<string id="ocp_perfocard_name">
+		<text>Karta</text>
+	</string>
+	<string id="ocp_perfocard_description">
+		<text>Dawna karta perforowana. Niepokoi to, że jest w doskonałej kondycji. I że ktoś to ukrył w takim miejscu.</text>
+	</string>
+
+	<string id="mutant_dog_tail_cook">
+		<text>"Mniam-mniam"</text>
+	</string>
+	<string id="mutant_dog_tail_cook_description">
+		<text>Psi ogon dojrzewający w sosie jazhang. Smacznie i zdrowo. \n Przynajmniej stalker Choi i najemnik Pak bardzo sobie chwalą.</text>
+	</string>
+
+	<string id="audiocassette_name">
+		<text>Kaseta magnetofonowa</text>
+	</string>
+	<string id="audiocassette_description">
+		<text>Stara kaseta magnetofonowa z ostatnim przesłaniem kapitana Parszyna.</text>
+	</string>
+
+	<string id="list_about_grek_description">
+		<text>Uwaga!!! \n Za głowę bandyty o pseudonimie „Grek” wyznaczono \n 1 000 000 nagrody. \n Zabierz głowę do byłego miasta wojskowego. \n Komendant.</text>
+	</string>
+
+	<string id="list_khazar_description">
+		<text>Zapłacę za informację o stalkerze o pseudonimie "Szydło". \n Chazar.</text>
+	</string>
+
+	<string id="list_koptelov_description">
+		<text>Nagroda! \n Informacje o wyprawie wojskowej do ZPO. \n por. Koptełow.</text>
+	</string>
+
+	<string id="list_som_description">
+		<text>UWAGA! \n Szukam jakichkolwiek informacji o śmierci grupy wojskowych stalkerów na Agropromie. \n Nagroda. \n Magazyny wojskowe \n Sum.</text>
+	</string>
+
+	<string id="list_panz_about_turrets_description">
+		<text>WYMAGANY! \n Specjalista w zakresie systemów bezpieczeństwa, bezpieczeństwa i nadzoru wideo. \n Wynagrodzenie od 100 000. \n Kontakt: \n Południowy Punkt Kontrolny, OK. \nPanzer.</text>
+	</string>
+
+	<string id="list_luz_about_hsm_description">
+		<text>Kupię! \n Zestaw naklejek ze skrótem HSM. \n Dr Łucenko.</text>
+	</string>
+	<!-- koniec update -->
+
+
+
+
 <!-- PDA -->
 
 <string id="morlok_pda_name">
