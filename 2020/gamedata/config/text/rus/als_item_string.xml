@@ -110,7 +110,7 @@
 </string>
 
 <string id="fly_block_name">
-	<text>Dron badawczy</text>
+	<text>Zestaw badawczy</text>
 </string>
 <string id="fly_block_description">
 	<text>Zestaw sprzêtu badawczego, umieszczony na naukowym dronie. Nie jest jasne jakie komponenty i urz¹dzenia zosta³y zainstalowane przez in¿ynierów wewn¹trz, ale ma to wszystko spor¹ masê.</text>
@@ -526,7 +526,7 @@
 	<text>ZAGINIONY NAUKOWIEC!!! \n Dr Braverman. Ostatnia wiadomoœæ radiowa z Laboratorium X-18. \n Szczodre wynagrodzenie. \n £uczenko.</text>
 </string>
 <string id="announcement_6_description">
-	<text>Dron Laboratoryjny!!! \n Szczodre wynagrodzenie za wspó³rzêdne miejsca upadku. \n £uczenko.</text>
+	<text>Powietrzne Laboratorium!!! \n Szczodre wynagrodzenie za wspó³rzêdne miejsca upadku. \n £uczenko.</text>
 </string>
 <string id="accesscard_hsm_hos_description">
 	<text>Karta dostêpu do pomieszczenia zarz¹dzania dzia³kami.\n Kod dostêpu 040766</text>

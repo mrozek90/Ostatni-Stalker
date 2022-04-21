@@ -315,13 +315,13 @@
 	</string>
 	<string id="ui_repair_success">
 		<text>Przedmiot zosta³ skutecznie naprawiony.</text>
-	</string>	
+	</string>
 	<string id="ui_remkit_repair_nomoney">
 		<text>Nie masz wystarczaj¹cej iloœci pieniêdzy na naprawê tej rzeczy.</text>
 	</string>
 	<string id="ui_cartrade_nomoney">
 		<text>Nie masz wystarczaj¹cej iloœci pieniêdzy na zakup tej maszyny.</text>
-	</string>	
+	</string>
 	<string id="ui_trunk_select_item">
 		<text>Wybierz z listy przedmiot do przemieszczenia.</text>
 	</string>
@@ -337,4 +337,6 @@
 	<string id="kb_cam_3">
 		<text>Niezale¿na kamera</text>
 	</string>
+
+
 </string_table>

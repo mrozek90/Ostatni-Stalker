@@ -1,0 +1,24 @@
+	<string id="general_ecolog_tip_1">
+		<text>Co siê sta³o? Czy on nie ¿yje? Natychmiast wracaj!</text>
+	</string>
+	<string id="general_ecolog_tip_2">
+		<text>Co siê sta³o? Czy on nie ¿yje? Zbierz pomiary i natychmiast wracaj!</text>
+	</string>
+	<string id="storyline_ghost_tip">
+		<text>Nagranie dŸwiêkowe Ducha.</text>
+	</string>
+	<string id="storyline_vasilyev_tip">
+		<text>Nagranie dŸwiêkowe Wasiliewa.</text>
+	</string>
+	<string id="tips_labx16switcher_press">
+		<text>Wy³¹czyæ urz¹dzenie</text>
+	</string>
+	<string id="yan_saharov_message">
+		<text>Brawo, Naznaczony, uda³o ci siê dotrzeæ do laboratorium. Dla nas niezwykle wa¿ne jest poznanie instalacji, która siê tam znajduje. Spróbuj j¹ wy³¹czyæ, ¿ebyœmy mogli j¹ zbadaæ.</text>
+	</string>
+	<string id="yan_saharov_message_2">
+		<text>S³uchajcie, ten prototyp nie da rady zbyt d³ugo chroniæ Was przed potê¿nymi emisjami. Przewidzia³em to, i za ka¿dym razem, kiedy znajdziecie siê  pod silnym wp³ywem promieniowania, w³¹czy siê specjalny timer. Gdy czas up³ynie, prototyp przestanie Was chroniæ, wiêc b¹dŸcie ostro¿ni i zwracajcie uwagê na czas.</text>
+	</string>
+	<string id="yan_saharov_message_3">
+		<text>Dobra robota, Naznaczony! Emisja wy³¹czona, a Wy ci¹gle ¿yjecie. Wezwaliœmy kilka wojskowych helikopterów, ¿eby oczyœci³y okolicê z zombie, dlatego póki co tam nie chodŸcie, ¿eby nie dostaæ siê pod ostrza³.  A przy okazji, jeœli bêdziecie w pobli¿u - zajrzyjcie do nas do bunkra.</text>
+	</string>

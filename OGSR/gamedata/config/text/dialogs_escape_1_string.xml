@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+    <string id="New_21">
+        <text>Spacer w deszczu</text>
+    </string>
+    <string id="New_2">
+        <text>Co nowego w Zonie?</text>
+    </string>
+    <string id="New_3">
+        <text>Pójdę to pożałuję</text>
+    </string>
+    <string id="New_1">
+        <text>Opowiedz o Striełce</text>
+    </string>
+    <string id="New_1121">
+        <text>Tak, odszedł</text>
+    </string>
+    <string id="New_11">
+        <text>Striełok - interesująca ksywka. Znalazł drogę do centrum i zniknął.</text>
+    </string>
+    <string id="New_113">
+        <text>Dziekuję za informacje</text>
+    </string>
+    <string id="New_1111">
+        <text>Tak, do centrum</text>
+    </string>
+    <string id="New_112">
+        <text>Poszedł?</text>
+    </string>
+    <string id="New_111">
+        <text>Do centrum?</text>
+    </string>
+    <string id="New_0">
+        <text>Witaj</text>
+    </string>
+</string_table>

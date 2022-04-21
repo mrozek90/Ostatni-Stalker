@@ -1,0 +1,704 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+
+
+<string id="enc_zone_artifact_chetki">
+		<text>Zdaniem niektórych stalkerów, artefakt rodzi się z ciał zdechłych ropuch w bagnach Zony, ale jak naprawdę tworzy się dany artefakt, nie wiedzą nawet naukowcy. Prawdopodobnie pojawił się w Zonie całkiem niedawno. Rzadki, jego wartość nie jest dokładnie określona, ponieważ handlarzom nikt go nie proponował, a naukowcy nie są specjalnie zainteresowani jego zakupem. Właściwości bardzo podejrzane. Zainteresowanie wzbudza tylko wśród kolekcjonerów.</text>
+	</string>
+<string id="enc_zone_artifact_barhat">
+		<text>Niezbyt rozpowszechniony artefakt, ale czasem się go spotyka w laboratoriach naukowców i w dużych kolekcjach. Nie przypomina innych artefaktów, jest potworny, nieforemny,  niewiele o nim wiadomo. Naukowcy sądzą, że wykształca się za pośrednictwem krystalizacji ciała dużego mutanta, który wpadł w anomalię. Nazwę otrzymał od zdolności zmieniania od czasu do czasu swoich właściwości na złośliwe, to znaczy w każdej chwili może zmienić pozytywne właściwości na negatywne, w związku z tym nie jest popularny wśród stalkerów.</text>
+	</string>
+<string id="enc_zone_artifact_chipsi">
+		<text>Cechy artefaktu są nieaktywne, co jest bardzo nietypowe dla danej okolicy.</text>
+	</string>
+<string id="enc_zone_artifact_diablo">
+		<text>Artefakt wcześniej nieznany w Zonie. Panuje pogląd, że wytworzył go jakiś naukowiec samouk, w którymś z podziemnych laboratoriów. Sferyczna, nieregularna forma, pusta w środku, składająca się z radialnych promieni. To czym różni się dany artefakt od innych to bardzo duża ilość pierwiastka helu w składzie chemicznym. Naukowcy twierdzą, że hel jest bardzo rozpowszechniony na słońcu. Na ziemi ten pierwiastek spotyka się w ilościach śladowych, w górnych warstwach atmosfery, w miejscach aktywności wulkanicznej, a także można go uzyskać z gazu ziemnego w procesie niskotemperaturowego rozdzielenia – tak zwanej destylacji fracjonowanej. Ale w Zonie nie ma warunków do uzyskania helu, więc powstaje pytanie – skąd hel mógł wziąć się w Zonie? Jeszcze jedna zagadka Zony. Ma dobrą cenę i niezłe charakterystyki ochronne.</text>
+	</string>
+<string id="enc_zone_artifact_gorgona">
+		<text>Rezultat badań grupy naukowców, zajmujących się opracowywaniem nowych artefaktów. Z wyglądu przypomina nieregularny twór z mnóstwem wychodzących z niego, wijących się promieni, które najprawdopodobniej  zapewniają znaczne wyprowadzanie radiacji, a tym samym obronę przed nią i wzrost sił witalnych u posiadacza artefaktu. Rzadka substancja, w wolnym obrocie i w sprzedaży nie spotykana. Widziało ten wytwór tylko kilku naukowców, których najprawdopodobniej, nie ma już wśród żywych.</text>
+	</string>
+<string id="enc_zone_artifact_jaba">
+		<text>Rzadki artefakt, niespotykany wśród stalkerów. W Zonie pojawił się stosunkowo niedawno. Wygląda jak kłąb z kawałków roślin, liści i gałęzi. Prawdopodobnie dany artefakt ma roślinne pochodzenie. Naukowcy przypuszczają, że wykształca się za pośrednictwem krystalizacji roślinnych resztek w anomalii pod pod wpływem silnej substancji chemicznej. Fluoryzuje na zielono. Ma świetne charakterystyki.</text>
+	</string>
+<string id="enc_zone_artifact_jbk">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+18 kg \n%c[default]Bardzo rzadki artefakt. Nie spotykany wśród stalkerów, a i wielu naukowców nie wie o nim. W Zonie pojawił się stosunkowo niedawno. Podobny do kawałka zbrojonego betonu, skąd też wziął swoją nazwę. Prawdopodobnie, dany artefakt utworzył się z resztek pozostałych w Zonie licznych żelazobetonowych konstrukcji, poddanych bardzo silnemu promieniowaniu. To dziwne, ale mierniki nie wykrywają radiacyjnego tła w danym artefakcie. Fluoryzuje na brązowo i ma świetne charakterystyki. Cena imponująca, ale jest tego wart.</text>
+	</string>
+<string id="enc_zone_artifact_klever">
+		<text>Jeżeli brać pod uwagę opowieści, snute przez stalkerów przy ognisku, to dany artefakt nie tworzy się, a wyrasta, jak legendarne "Serce Oazy", w pewnych miejscach w Zonie i, podobno, niektórzy samotnicy go widzieli. Ten artefakt, według opowieści, ma dość cudowne właściwości i podobno broni od wielu niedogodności. Po prostu panaceum jakieś. Marzenie kolekcjonerów i naukowców w Zonie. Piękny i drogi artefakt.</text>
+	</string>
+<string id="enc_zone_artifact_kliaksa">
+		<text>Nowy wytwór Zony. Łączy w sobie wielką ilość pozytywnych właściwości, ale przy tym wyciąga życie i rozum z posiadacza artefaktu, zabierając jego zdrowie. Podobno, znalazł go żywa legenda Zony – Kolekcjoner i podarował stalkerowi o imieniu Noe. Teraz jedynym posiadaczem danego artefaktu jest ten szaleniec, mieszkający w starej barce na Zatonie. Widocznie, to artefakt doprowadził go do takiego stanu. Analogów nie ma, a przynajmniej nic o tym nie wiadomo. Najskrytsze marzenie każdego kolekcjonera i naukowców całego świata. Nieładny, nieforemny, potworny. Ma ogromną cenę, to z pewnością, jeden z najdroższych artefaktów w Zonie.</text>
+	</string>
+<string id="enc_zone_artifact_krest">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+15 kg \n%c[default]Pojawia się w anomalii "Piec" przy określonych warunkach. Piękny i drogi artefakt. Jak powstaje – nikt tak naprawdę nie wie, chociaż wiele się o tym mówi. Naukowców interesuje w danym artefakcie bilans molekularny, kosztem którego zamierzają stworzyć lekarstwo na raka i uratować miliony ludzi. Pożytecznych właściwości nie stwierdzono, tylko negatywne.</text>
+	</string>
+<string id="enc_zone_artifact_ojerelie">
+		<text>Dziwny artefakt. Istnieje legenda, że pierwszy raz widziano ten artefakt, kiedy go znalazł obłąkany stalker i jak pokazał go naukowcom, a oni mówili, że ten artefakt jest zbyt niebezpieczny z powodu dużej radiacji i oddziaływania psionicznego. Szaleniec poszedł na bagno przy bazie Wolności i bez przerwy mówił, że ten artefakt to jego "Wybawca". Długo nie wychodził z tego domu na bagnie, wciąż coś wykrzykiwał po nocach, a potem ucichł - z pewnością dotychczas się nim lubuje. Za drugim razem naukowcy kupili ten artefakt, od człowieka zwanego Szrama, a ten zdobył go u bandytów w Czerwonym Lesie. Piękny, drogi, kolekcjonerski.</text>
+	</string>
+<string id="enc_zone_artifact_serpantin">
+		<text>Ten artefakt ma najrzadszą, a przy okazji bardzo pożyteczną właściwość: broni posiadacza przed obrażeniami, odnoszonymi przy przeszukiwaniu zzombifikowanych trupów.</text>
+	</string>
+<string id="enc_zone_artifact_shkatulka">
+		<text>Z wyglądu przypomina otwierający się kokon. Rzadki artefakt, spotykany w zasadzie tylko w warunkach silnej radiacji. Piękny, cena odpowiednia. Naukowców interesuje wewnętrzna struktura artefaktu i jego skład biochemiczny. Właściwości nie poznane. Marzenie kolekcjonerów.</text>
+	</string>
+<string id="enc_zone_artifact_spaika_2">
+		<text>Ten artefakt jest rezultatem niefortunnego eksperymentu grupy naukowców, zajmujących się opracowaniem nowych absolutów i hipermodyfikatów. Wobec nieosiągnięcia zamierzonego celu, artefaktu nie umieszczono w magazynie tajnego laboratorium, a po prostu potraktowano go jako wybrak i o nim zapomniano. Badając najciemniejsze zakątki Zony i spędziwszy wiele miesięcy na poszukiwaniach hiperabsolutu o nazwie "Gwiazda Proroka", Fenrir natrafił na ten artefakt. Aktówka, w której znajdowały się informacje o procesie jego tworzenia, była dobrze schowana i oznaczona indeksem «X». Fenrira zupełnie urządzały pozytywne właściwości tego artefaktu, a, ponieważ w całej Zonie był tylko jeden egzemplarz a tych, którzy go stworzyli, już nie było wśród żywych, to Fenrir nazwał artefakt swoim imieniem. Cena umowna, lecz imponująca.</text>
+	</string>
+<string id="enc_zone_artifact_kris_zvezda">
+		<text>Anomalny twór krystaliczny koloru niebieskiego, wygląd zewnętrzny – obręcz z ostrymi płatkami rozmieszczonymi spiralnie po obwodzie obręczy. Znaleziony w podziemnym laboratorium X-16, w anomalii «Galareta». Według słów stalkera, który znalazł ten egzemplarz, ten cyklicznie wypływał na powierzchnię anomalii. Substancja anomalii rozpuszcza prawie wszystkie istniejące materiały, to tylko kwestia czasu, a na tym tworze nie znać śladu przybywania w tak agresywnym środowisku. Jak stalker zdobył  ten artefakt nie powiedział, ale zauważył jedno, że ani pył ani błoto nie przylega do powierzchni artefaktu, tak samo substancja anomalii «Galareta».</text>
+	</string>
+
+     <string id="enc_zone_af_eye_voron">
+        <text>Nadzwyczajny i rzadki artefakt, mający kształt świecącej kuli, wiszącej na gałęzi. Rzadki. Według niesprawdzonych danych, powstaje przy oddziaływaniu anomalii elektromagnetycznej na określony rodzaj drewna, a przynajmniej, tn artefakt czasem znajdują w obrębie działania takiej anomalii. Lekko radioaktywny i obniża kuloodporność u swojego posiadacza, ale ma szereg bardzo pozytywnych właściwości. Piękny i drogi.</text>
+   	</string>
+	   <string id="enc_fallen_angel">
+       <text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+40 kg \n%c[default]Artefakt ten napotkano w Zonie tylko trzy razy. Jego charakterystyczna cecha - dobra ochrona przed poparzeniem i mordercza radiacja. Warunki powstawania nie są dobrze znane, ale jak widać, jest to klaster elementów roślinnych, w tym głównie zielonej bagiennej trawy, turzycy i sitowia. Artefakt ma strukturę marmuru. Organizacje naukowe tylko marzą, aby uzyskać ten artefakt do badań. Jest ogromne zainteresowanie wśród kolekcjonerów. Nieopisanie piękny artefakt.</text>
+       </string>
+	   <string id="enc_pero">
+       <text>Artefakt "Pióro" nie jest taki rzadki w Zonie. Ma jedną i tylko jedną cechę - zwiększa siłę posiadacza artefaktu. Ale ta właściwość nie jest powszechnie znana, dlatego jeżeli stalkerzy natrafiają na taki artefakt, to nie zbierają go, uważając za bezużyteczny śmieć. Warunki wytworzenia są nieznane. Sacharow przypuszcza, że wykształca się w anomalii "Komarza Łysina".</text>
+       </string>
+	   <string id="enc_vinograd">
+       <text>O tym artefakcie nikt by nie wiedział, gdyby nie jeden ze stalkerów, który wrócił z dalekiego rajdu i pijany wygadał się o nim Barmanowi. Ten stalker i tak go nie sprzedał, nawet za olbrzymie pieniądze. Drugiego takiego artefaktu nie znaleziono po dzisiejszy dzień. Struktura artefaktu marmurowa, posiada słabą złocistą poświatę. Wizualnie przypomina kiść winogron. Warunki wytworzenia nieznane. O właściwościach też jest bardzo mało informacji. Naukowcy i kolekcjonerzy sprzedaliby duszę diabłu za posiadanie tej anomalnej substancji. Ponieważ to rzecz unikatowa, to jego wartość jest absolutnie umowna.</text>
+       </string>
+        <string id="artifact_af_black_angel">
+		<text>"Czarny Anioł" to nadzwyczaj rzadki artefakt, powstaje, inaczej niż wszystkie pozostałe artefakty, nie po emisji, a krótko przed nią, t.z. jest osobliwym zwiastunem emisji. Niewytłumaczalnym sposobem przyciąga do siebie mutanty, przy czym, głównie te najniebezpieczniejsze. Bardzo radioaktywny. Znaleźć Czarnego Anioła udało się tylko nielicznym, dlatego jego cena jest nadzwyczaj wysoka. Właściwości tego artefaktu nie są do końca zbadane. Wiadomo tylko, że gdy znajduje się niedaleko chorego lub ranionego człowieka, raptownie wzrasta regeneracja tkanek, komórki organizmu odnawiają się prawie natychmiast. Według niesprawdzonych danych, pozwala wyleczyć nawet beznadziejnie chorych na raka w 4-tym stadium.</text>
+	</string>
+<string id="enc_zone_artifact_af-kosi">
+	<text>Artefakt tworzy się w rezultacie zlania się trzech anomalii: "Grawi", "Piec" i "Galareta". Nadzwyczaj rzadki. Warunków wytworzenia się tego artefaktu naukowcy jeszcze nie zbadali do końca, ale jest oczywiste, że trzeba bardzo dużo szczęścia i potężnej emisji, by doprowadzić do syntezy trzech konkretnych anomalii. Artefakt jest zdolny zmieniać trajektorię lotu kuli i dodaje nosicielowi więcej siły. Artefakt czyni też skórę nosiciela miększą i wrażliwszą. Przy noszeniu go przy sobie zauważono podniesienie temperatury ciała z powodu szybszego przepływu krwi w organizmie.</text>
+</string>
+	   <string id="enc_black_hole">
+       <text>O artefakcie "Czarna Dziura" nikt nigdy nie słyszał. Mało zbadany. Radioaktywny.</text>
+       </string>
+	   <string id="enc_provoloka">
+       <text>Jeden z niewielu artefaktów, posiadających właściwość samoistnej teleportacji. W jaki sposób to działa? Nie wiadomo, ale fakt – rzecz ma miejsce. Z powodu wielkiej ilości igieł na zewnętrznej powłoce artefaktu, przenikających na wylot prawie każdy pancerz, wywołuje silny krwotok u swojego posiadacza. Warunki wykształcenia nieznane.</text>
+       </string>
+	   <string id="enc_kletka">
+       <text>Artefakt tworzy się z ciała żywego organizmu, który znajduje się pod oddziaływaniem psionicznym i jednocześnie wpadnie w anomalię Galareta. Po raz pierwszy artefakt znaleziono stosunkowo niedawno, na bazie Wolności. Niedaleko bazy pojawił się kontroler, który wziął pod kontrolę stalkera. Stalker podszedł do bazy Wolności i zaczął strzelać, ale wpadł w anomalię "Galareta". Po tygodniu w anomalii utworzył się artefakt. Najwyraźniej artefakt składa się z substancji mózgowej, która przeszła w stan amorficzny, a dokładniej, z dużej ilości aksonalnej tkanki mózgowej. Przy noszeniu go na pasie bardzo silnie wpływa na mózg człowieka, pogarszając jego odporność na psionikę. Podnosi wytrzymałość człowieka, ale wywołuje silne krwotoki przy zranieniach. Z powodu przeważających negatywnych właściwości nie wzbudza zainteresowania u stalkerów.</text>
+       </string>
+	   <string id="enc_kvazar">
+       <text>Artefakt posiada jedną bardzo dobrą właściwość - doskonale broni przed wybuchami. W związku z tym istnieje na niego duże zapotrzebowanie wśród stalkerów, mimo dość silnego promieniowania tła. W rękach go trzymali nieliczni. Ze względu na rzadkość kolekcjonerzy polują za niego, a ponieważ warunki wytworzenia i natura danego artefaktu są nieznane, naukowcy zapłacą za niego dobre pieniądze, by pojąć zasadę pochodzenia. Piękny, rzadki i drogi artefakt.</text>
+       </string>
+	   <string id="enc_propeller">
+       <text>Zwiększa wytrzymałość organizmu modyfikując jądra komórkowego receptora PPAR-delta, regulującego metabolizm w komórkach mięśniowych. Ale, jako efekt uboczny, znacznie spowalnia proces gojenia się ran. Warunki wytworzenia i odkrywca artefaktu nieznani.</text>
+       </string>
+	   <string id="enc_pylesos">
+       <text>Kto i gdzie znalazł dany artefakt - nie wiadomo. Nie wiadomo też, jaka anomalia i przy jakich okolicznościach tworzy tą zielonkawą, strukturę przestrzenną. Żadnej informacji o nim nie ma, naukowcy też milczą. Niektórzy uważają, że ten artefakt jest fałszywy. Lecz coś jednakże wiadomo: jeden egzemplarz istnieje, to pewne, i przy noszeniu w plecaku artefakt pochłania część promieniowania emitowanego przez inne artefakty. Podczas noszenia na pasie zapewnia dodatkową obronę przed promieniowaniem i wyprowadza część radionuklidów z organizmu właściciela. Bardzo rzadki i drogi artefakt. Dobry dla kolekcji.</text>
+</string>
+	<string id="enc_shipovnik">
+		<text>Wygląda jak półprzezroczyste, brązowawe skupisko sciśniętych, polimeryzowanych resztek roślin, gleby, sierści i kości. Ma dziwaczną formę, pojawia się w miejscach o podwyższonej aktywności grawitacyjnej. Niewątpliwie rodzi się w anomalii "Winda". Posiada właściwość wchłaniania w siebie i neutralizowania mnóstwa szkodliwych substancji. To swego rodzaju gąbka, wchłaniająca radioaktywne cząsteczki i posiadająca zdolność częściowej neutralizacji szkodliwych dla człowieka substancji. Słabo poznany. Jest ceniony przez stalkerów, kolekcjonerów i naukowców. Ma dużą cenę.</text>
+	</string>
+ <string id="enc_fontan">
+	   <text>Promieniotwórczy, ale sprzyja szybkiej regeneracji komórek w ranie, robi skórę twardszą, co trochę ratuje od ran postrzałowych. Trzeba dużo szczęścia, aby znaleźć ten artefakt, tak ceniony przez kolekcjonerów. Z wyglądu, brzydki twór o nieregularnym kształcie, pokryty dziwnym nalotem rdzawego koloru. Naukowcy nigdy nie mieli go w rękach, więc warunki i anomalie konieczne do wygenerowania tego artefaktu są nieznane. Jedyne, co wiadomo, to charakterystyki. Sporo wart.</text>
+	   </string>
+ <string id="enc_magneto">
+	   <text>Artefakt, potwierdzając swoją nazwę, tworzy się przy większych, starych, porzuconych instalacjach elektrycznych. Po raz pierwszy znaleziono go w opuszczonej podstacji zasilania na północy Prypeci. Bardzo radioaktywny. Wyładowania elektryczne w jego jądrze tworzą piękną niebieską poświatę. Wart przyzwoitą sumkę u handlarzy.</text>
+	   </string>
+
+<string id="enc_poimal">
+               <text>"Złapać artefakt"</text>
+       </string>
+<string id="enc_zabral">
+               <text>"Zabrać pułapkę"</text>
+       </string>
+
+<string id="af_magneto">
+               <text>"Magneto"</text>
+       </string>
+<string id="af_fontan">
+               <text>"Wodotrysk"</text>
+</string>
+	   <string id="af_pylesos">
+               <text>"Elizjum"</text>
+       </string>
+<string id="af_shipovnik">
+		<text>"Dzika Róża"</text>
+</string>
+
+<string id="af-eye-voron">
+		<text>"Wronie Oko"</text>
+	</string>
+
+<string id="af_fallen_angel">
+               <text>"Upadły Anioł"</text>
+       </string>
+
+	   <string id="af_pero">
+               <text>"Pióro"</text>
+       </string>
+
+	   <string id="af_vinograd">
+               <text>"Winogrono"</text>
+       </string>
+
+        <string id="af-black-angel">
+		<text>"Czarny Anioł"</text>
+	</string>
+
+<string id="af_kosi">
+	<text>"Wiedźmiński Warkocz"</text>
+</string>
+
+	   <string id="af_black_hole">
+               <text>"Czarna Dziura"</text>
+       </string>
+
+	   <string id="af_provoloka">
+               <text>"Czarnobylski Jeż"</text>
+       </string>
+
+	   <string id="af_kletka">
+               <text>"Akson"</text>
+       </string>
+
+	   <string id="af_kvazar">
+               <text>"Kwazar"</text>
+       </string>
+
+	   <string id="af_propeller">
+               <text>"Korona"</text>
+       </string>
+
+	   <string id="af_klever">
+               <text>"Koniczyna"</text>
+       </string>
+
+	   <string id="af_jbk">
+               <text>"Żelbet"</text>
+       </string>
+
+	   <string id="af_jaba">
+               <text>"Żaba"</text>
+       </string>
+
+	   <string id="af_gorgona">
+               <text>"Gorgona"</text>
+       </string>
+
+	   <string id="af_diablo">
+               <text>"Diabeł"</text>
+       </string>
+
+	   <string id="af_chipsi">
+               <text>"Chipsy"</text>
+       </string>
+
+	   <string id="af_chetki">
+               <text>"Różaniec"</text>
+       </string>
+
+	   <string id="af_barhat">
+               <text>"Aksamit"</text>
+       </string>
+
+	   <string id="af_kliaksa">
+               <text>"Plama"</text>
+       </string>
+
+	   <string id="af_krest">
+               <text>"Krzyż"</text>
+       </string>
+
+	   <string id="af_ojerelie">
+               <text>"Naszyjnik"</text>
+       </string>
+
+	   <string id="af_serpantin">
+               <text>"Serpentyn"</text>
+       </string>
+
+	   <string id="af_shkatulka">
+               <text>"Szkatułka"</text>
+       </string>
+
+       <string id="af_spaika_2">
+               <text>"Artefakt Fenrira"</text>
+       </string>
+
+          <string id="af_kris_zvezda">
+               <text>"Kryształowa Gwiazda"</text>
+       </string>
+
+	   <string id="art_hunter_description">
+               <text>"Zaawansowany technologicznie przyrząd, opracowany przez nieznanych naukowców w Zonie. Szerokie zastosowanie nanotechnologii i fragmentów różnych artefaktów pozwoliło uzyskać niezrozumiałe dla prostaków właściwości. Bardzo kruche i łatwo ulegające zniszczeniu urządzenie. Służy do chwytania i transportu wyższych form artefaktów.\nŻeby pochwycić artefakt, trzeba zbliżyć się do niego na odległość minimum 3 m, rzucić pułapkę na ziemię, po otworzeniu parasolki złapać artefakt i zabrać pułapkę. Trzeba zachować szczególną ostrożność. Pole pułapki jest stabilizowane polem chwytanego artefaktu. Jeśli aktywować pułapkę w odległości powyżej 3 metrów lub w pobliżu dwóch i więcej artefaktów - pułapka ulegnie zniszczeniu"</text>
+       </string>
+
+	   <string id="art_hunter">
+               <text>"Pułapka parasolkowa"</text>
+       </string>
+
+	   <string id="enc_zone_zont">
+               <text>"Naładowana pułapka"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_barhat1">
+               <text>"Pułapka ze złapanym artefaktem Aksamit"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_chipsi1">
+               <text>"Pułapka ze złapanym artefaktem Czipsy"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_diablo1">
+               <text>"Pułapka ze złapanym artefaktem Diabeł"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_chetki1">
+               <text>"Pułapka ze złapanym artefaktem Różaniec"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_gorgona1">
+               <text>"Pułapka ze złapanym artefaktem Gorgona"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_jaba1">
+               <text>"Pułapka ze złapanym artefaktem Żaba"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_jbk1">
+               <text>"Pułapka ze złapanym artefaktem Żelbet"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_klever1">
+               <text>"Pułapka ze złapanym artefaktem Koniczyna"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_kliaksa1">
+               <text>"Pułapka ze złapanym artefaktem Plama"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_krest1">
+               <text>"Pułapka ze złapanym artefaktem Krzyż"</text>
+       </string>
+       
+	   <string id="enc_zone_artifact_ojerelie1">
+               <text>"Pułapka ze złapanym artefaktem Naszyjnik"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_serpantin1">
+               <text>"Pułapka ze złapanym artefaktem Serpentyn"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_shkatulka1">
+               <text>"Pułapka ze złapanym artefaktem Szkatułka"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kris_zvezda1">
+               <text>"Pułapka ze złapanym artefaktem Kryształowa Gwiazda"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_spaika_21">
+               <text>"Pułapka ze złapanym artefaktem Fenrira"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_eye_voron1">
+               <text>"Pułapka ze złapanym artefaktem Wronie Oko"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_fallen_angel1">
+               <text>"Pułapka ze złapanym artefaktem Upadły Anioł"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_pero1">
+               <text>"Pułapka ze złapanym artefaktem Pióro"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_vinograd1">
+               <text>"Pułapka ze złapanym artefaktem Winogrono"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_black_angel1">
+               <text>"Pułapka ze złapanym artefaktem Czarny Anioł"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kosi1">
+               <text>"Pułapka ze złapanym artefaktem Wiedźmiński Warkocz"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_black_hole1">
+               <text>"Pułapka ze złapanym artefaktem Czarna Dziura"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_provoloka1">
+               <text>"Pułapka ze złapanym artefaktem Czarnobylski Jeż"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kletka1">
+               <text>"Pułapka ze złapanym artefaktem Akson"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_kvazar1">
+               <text>"Pułapka ze złapanym artefaktem Kwazar"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_propeller1">
+               <text>"Pułapka ze złapanym artefaktem Korona"</text>
+       </string>
+
+	   <string id="enc_zone_artifact_pylesos1">
+               <text>"Pułapka ze złapanym artefaktem Elizjum"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_shipovnik1">
+               <text>"Pułapka ze złapanym artefaktem Dzika Róża"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_fontan1">
+               <text>"Pułapka ze złapanym artefaktem Wodotrysk"</text>
+       </string>
+
+
+	   <string id="enc_zone_artifact_magneto1">
+               <text>"Pułapka ze złapanym artefaktem Magneto"</text>
+       </string>
+
+
+	<string id="af-ameba-mica">
+		<text>"Mika"</text>
+	</string>
+	<string id="af-ameba-slime">
+		<text>"Śluz"</text>
+	</string>
+	<string id="af-ameba-slug">
+		<text>"Śluzowiec"</text>
+	</string>
+	<string id="af-blood">
+		<text>"Kamienna Krew"</text>
+	</string>
+	<string id="af-cristall">
+		<text>"Kryształ"</text>
+	</string>
+	<string id="af-cristall-flower">
+		<text>"Kryształowy Kwiat"</text>
+	</string>
+	<string id="af-drops">
+		<text>"Kropla"</text>
+	</string>
+	<string id="af-dummy-battery">
+		<text>"Bateryjka"</text>
+	</string>
+	<string id="af-dummy-dummy">
+		<text>"Pustak"</text>
+	</string>
+	<string id="af-dummy-glassbeads">
+		<text>"Korale Mamusi"</text>
+	</string>
+	<string id="af-dummy-pellicle">
+		<text>"Błona"</text>
+	</string>
+	<string id="af-dummy-spring">
+		<text>"Sprężyna"</text>
+	</string>
+	<string id="af-electra-flash">
+		<text>"Błysk"</text>
+	</string>
+	<string id="af-electra-moonlight">
+		<text>"Blask Księżyca"</text>
+	</string>
+	<string id="af-electra-sparkler">
+		<text>"Świecidełko"</text>
+	</string>
+	<string id="af-fireball">
+		<text>"Ognista Kula"</text>
+	</string>
+	<string id="af-fuzz-kolobok">
+		<text>"Kulebiak"</text>
+	</string>
+	<string id="af-gold-fish">
+		<text>"Złota Rybka"</text>
+	</string>
+	<string id="af-gravi">
+		<text>"Grawi"</text>
+	</string>
+	<string id="af-medusa">
+		<text>"Meduza"</text>
+	</string>
+	<string id="af-mincer-meat">
+		<text>"Kotlet"</text>
+	</string>
+	<string id="af-night-star">
+		<text>"Gwiazda Wieczorna"</text>
+	</string>
+	<string id="af-rusty-kristall">
+		<text>"Kryształowa Kolczatka"</text>
+	</string>
+	<string id="af-rusty-sea-urchin">
+		<text>"Jeżowiec"</text>
+	</string>
+	<string id="af-rusty-thorn">
+		<text>"Kolczatka"</text>
+	</string>
+	<string id="af-soul">
+		<text>"Dusza"</text>
+	</string>
+	<string id="af-vyvert">
+		<text>"Skrętak"</text>
+	</string>
+	<string id="Agroprom">
+		<text>"Agroprom"</text>
+	</string>
+	<string id="Ameba">
+		<text>"Galareta"</text>
+	</string>
+	<string id="Anomalies">
+		<text>Anomalie</text>
+	</string>
+	<string id="Artifacts">
+		<text>Artefakty</text>
+	</string>
+	<string id="Bald">
+		<text>"Trampolina"</text>
+	</string>
+	<string id="Bar">
+		<text>Bar</text>
+	</string>
+	<string id="Darkdolina">
+		<text>Dolina Mroku</text>
+	</string>
+	<string id="Deadcity">
+		<text>Usunięto</text>
+	</string>
+	<string id="Electra">
+		<text>"Elektra"</text>
+	</string>
+	<string id="enc_weapons1_wpn-winchester_m1">
+		<text>Odmiana Chasera. W lufę wbudowano niewielki odłamek artefaktu "grawi". Został on umieszczony w taki sposób, że zwiększa prędkość wylotową naboju.</text>
+	</string>
+	<string id="enc_zone_anomalies_ameba">
+		<text>Anomalia nieznanego pochodzenia. Przy kontakcie zadaje obrażenia zbliżone do tych, jakie wywołuje silny kwas. Tworzy trzy rodzaje artefaktów: "Śluz", "Śluzowiec" oraz "Mika".</text>
+	</string>
+	<string id="enc_zone_anomalies_bald">
+		<text>Jedna z pierwszych zarejestrowanych anomalii - niestabilne pole grawitacyjne zadające obrażenia wszystkim przebywającym w jego zasięgu. Aktywna średnio przez tydzień. Zmienna ilość obrażeń - od niewielkich siniaków przez poważne rany, aż po natychmiastową śmierć. Łatwo ją zauważyć w świetle dziennym. Nad anomalią widać ruch powietrza, towarzyszą jej również unoszące się liście oraz charakterystyczne szkarłatne plamy na ziemi. Trampolinę wykrywają wszystkie detektory, można ją również zidentyfikować, rzucając w nią różne przedmioty. Tworzy trzy rodzaje artefaktów: "Meduza", "Kryształowy Kwiat" oraz "Gwiazda Wieczorna".</text>
+	</string>
+	<string id="enc_zone_anomalies_electra">
+		<text>Anomalia o średnicy około 10 metrów, która gromadzi duże ilości elektryczności statycznej. Przy kontakcie wystrzeliwują z niej dziesiątki miniaturowych błyskawic, rażąc prądem, co prawie zawsze kończy się śmiercią. W świetle dziennym można ją rozpoznać po unoszącej się ponad nią niebieskawej mgle. W nocy Elektro można wykryć za pomocą dowolnego detektora lub rzucając w jej kierunku metalowe przedmioty. Tworzy trzy rodzaje artefaktów: "Świecidełko", "Błysk" oraz "Blask Księżyca".</text>
+	</string>
+	<string id="enc_zone_anomalies_fuzz">
+		<text>Jeden z przykładów zmutowanej roślinności Zony. Reaguje na szybko zbliżające się istoty żywe, wystrzeliwując w ich kierunku chmarę pocisków, które poważnie ranią nieosłoniętą lub słabo chronioną skórę. Nie reaguje na istoty, które poruszają się powoli. Tworzy trzy rodzaje artefaktów (prawdopodobnie swoje nasiona): "Kolczatka", "Kryształowa Kolczatka" oraz "Jeżowiec".</text>
+	</string>
+	<string id="enc_zone_anomalies_gravi">
+		<text>Anomalia prawdopodobnie pochodzenia grawitacyjnego. Po kontakcie z nią ogromna moc "Lejka" przyciąga do środka anomalii wszystko, co znajduje się w promieniu 10-15 metrów. Ofiary wciągnięte do jej jądra nie mają szans na przeżycie: ich ciała są błyskawicznie zgniatane, a po chwili rozsadzane w potężnym wybuchu energii. Przez cały czas swojego istnienia (zazwyczaj około tygodnia) anomalia ta pozostaje nieruchoma. W dzień łatwo ją rozpoznać po ruchu powietrza nad nią, unoszących się liściach, leżących wokół szczątkach ciał oraz po charakterystycznej ciemnej plamie pośrodku. Jest niezwykle niebezpieczna w nocy, gdyż można ją rozpoznać tylko za pomocą detektora lub rzucając w jej kierunku metalowe przedmioty. Tworzy trzy rodzaje artefaktów: "Skrętak", "Grawi" oraz "Złota Rybka".</text>
+	</string>
+	<string id="enc_zone_anomalies_lift">
+		<text>Nieszkodliwa anomalia chwilowo zakłócająca grawitację. Pojawia się na obszarze (zazwyczaj o średnicy kilku metrów), na którym siła przyciągania ziemskiego jest znacznie obniżona. Tworzy "Błonę".</text>
+	</string>
+	<string id="enc_zone_anomalies_meat">
+		<text>Anomalia ta porywa swe ofiary w powietrze i obraca nimi z zawrotną szybkością. Dokładne pochodzenie Karuzeli jest nieznane. Anomalię tę można rozpoznać po widocznej ponad nią niewielkiej trąbie powietrznej oraz po porozrzucanych w okolicy szczątkach ciał. Ofiary pochwycone na jej obrzeżach - wystarczająco daleko od najsilniej oddziałującego środka anomalii - mogą uciec Karuzeli ze stosunkowo niewielkimi obrażeniami. Tworzy trzy rodzaje artefaktów: "Kamienna krew", "Kotlet" oraz "Dusza".</text>
+	</string>
+	<string id="enc_zone_anomalies_radioactive">
+		<text>Teren zwiększonego promieniowania - ponad 50 mR/h. Przebywanie w strefie promieniowania przez dłuższy czas nie jest wskazane.</text>
+	</string>
+	<string id="enc_zone_anomalies_time">
+		<text>Prawdziwy cud wśród anomalii: teren o średnicy kilku metrów, gdzie upływ czasu jest znacznie wolniejszy niż zazwyczaj. Wydaje się nie mieć negatywnego wpływu na zdrowie człowieka. Jednakże czasem trudno jest się z niego wydostać. Co ciekawe, Wehikuł Czasu znika, gdy zabierze się ze środka tej anomalii "Korale Mamusi".</text>
+	</string>
+	<string id="enc_zone_anomalies_zharka">
+		<text>Gdy anomalia ta jest nieaktywna, objawia się jako ledwo widoczny obłok gorącego powietrza. Po kontakcie z nią przedmiot lub istota żywa natychmiast nagrzewa się do zabójczej temperatury dochodzącej do 1500 stopni w skali Kelwina. W nocy anomalię można rozpoznać dzięki zaawansowanym detektorom lub rzucając w nią metalowymi przedmiotami. Tworzy trzy rodzaje artefaktów: "Kropla", "Kula Ognista" oraz "Kryształ".</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-mica">
+		<text>"Galareta" jest w stanie wytworzyć taki artefakt przy zaistnieniu kilku najrzadziej spotykanych, ekstremalnych warunków fizycznych. Powstaje wtedy na wpół przezroczysty, twardy przedmiot. To rzadki i drogi artefakt.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slime">
+		<text>To pewne, że artefakt ten jest tworzony przez anomalię zwaną "Galaretą". Kiedy się go nosi przy sobie, rany mniej krwawią, choć ciało jego posiadacza staje się bardziej wrażliwe na różnego rodzaju oparzenia.</text>
+	</string>
+	<string id="enc_zone_artifact_af-ameba-slug">
+		<text>Artefakt stworzony w "Galarecie". Jego wady rekompensuje fakt, że poprawia krzepliwość krwi. Rzadko się go spotyka, więc można za niego sporo zarobić.</text>
+	</string>
+	<string id="enc_zone_artifact_af-blood">
+		<text>Artefakt stworzony w "Karuzeli". Dosyć brzydki, czerwonawy przedmiot powstały ze zgniecionych, dziwnie poskręcanych, spolimeryzowanych części roślin, ziemi i kości. Dosyć powszechny i niezbyt skuteczny.</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall">
+		<text>Powstaje, gdy do "Pieca" wpadają metale ciężkie. Idealnie usuwa promieniowanie. Bardzo ceniony przez stalkerów i ciężki do znalezienia.</text>
+	</string>
+	<string id="enc_zone_artifact_af-cristall-flower">
+		<text>Artefakt stworzony w "Trampolinie". Można go znaleźć jedynie na kilku obszarach w Zonie. Dzięki fragmentom metali można na nim zaobserwować piękną grę świateł. Przyglądanie się temu artefaktowi w nocy, przy ognisku, bardzo uspokaja.</text>
+	</string>
+	<string id="enc_zone_artifact_af-drops">
+		<text>Artefakt stworzony w "Piecu" przy bardzo wysokiej temperaturze. Z zewnątrz wygląda jak łza, ma błyszczącą, popękaną powierzchnię.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-battery">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+10 kg \n%c[default]Pochodzenie tego artefaktu owiane jest naukową tajemnicą. Rzecz jasna częściowo został stworzony przez elementy dielektryczne, lecz nauka nie zna warunków, w jakich powstał.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-dummy">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+5 kg \n%c[default]Gdy ma się przy sobie ten artefakt, białko wolniej ulega uszkodzeniu. Innymi słowy, ciało ludzkie jest w stanie wytrzymać wyższe temperatury i doznaje mniejszych oparzeń. Artefakt jest bardzo drogi i rzadko spotykany.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-glassbeads">
+		<text>Wspaniały artefakt. Chroń go - jest tak wartościowy dlatego, że nie ma żadnych skutków ubocznych. Naukowcy nie mogą wymyślić, jak go stworzyć w warunkach laboratoryjnych.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-pellicle">
+		<text>Ten artefakt jest wyjątkowo rzadko spotykany i wielu naukowców nie jest w stanie pojąć, że coś takiego może istnieć w środowisku naturalnym. Wydziela kwasowe składniki chemiczne.</text>
+	</string>
+	<string id="enc_zone_artifact_af-dummy-spring">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+25 kg \n%c[default]Według niektórych badaczy-teoretyków ten artefakt to hybryda "Bateryjki" i "Pustaka"</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-flash">
+		<text>"Elektra" czasem tworzy ten artefakt. Stalkerzy chętnie go używają ze względu na jego zalety. Niezła cena i ładny wygląd sprawiają, że jest on gratką dla kolekcjonerów.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-moonlight">
+		<text>Przykład zwyrodnienia anomalii "Elektra". Wydaje się, że ten piękny, okrągły przedmiot powstaje, gdy anomalia ulega wpływom termicznym. Drogi artefakt.</text>
+	</string>
+	<string id="enc_zone_artifact_af-electra-sparkler">
+		<text>Znajdowany niedaleko anomalii typu "Elektra". Dosyć powszechny i niedrogi. Mimo to badacze z Zony cenią go za jego właściwości.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fireball">
+		<text>Krystalizuje się w "Piecu". Dobrze zwalcza radioaktywność, choć zwiększone zapotrzebowanie na energię męczy mięśnie i narządy ruchu. Długotrwały bieg nie wchodzi w grę. Artefakt emituje ciepło.</text>
+	</string>
+	<string id="enc_zone_artifact_af-fuzz-kolobok">
+		<text>Gdy trzymasz w dłoniach tę tajemnicę Zony, czujesz, jak twoja skóra staje się twardsza i mniej wrażliwa. Ciągle można ją przestrzelić, ale o wiele trudniej ją przeciąć.</text>
+	</string>
+	<string id="enc_zone_artifact_af-gold-fish">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+10 kg \n%c[default]Artefakt stworzony w "Lejku". Uaktywnia go ciepło ludzkiego ciała. Zdecyduj, co jest gorsze - promieniowanie czy rany zadane nożem i wybierz mniejsze zło. Oczywiście możesz również sprzedać artefakt i sporo zarobić.</text>
+	</string>
+	<string id="enc_zone_artifact_af-gravi">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+8 kg \n%c[default]Można go znaleźć niedaleko anomalii takich jak "Lejek" lub w rękach innego stalkera. Gdy masz go przy sobie, cześć promieniowania zbiera się w ciele, natomiast reszta rozchodzi się promieniście z daleka od ciała. Wartościowy.</text>
+	</string>
+	<string id="enc_zone_artifact_af-medusa">
+		<text>Artefakt powstały w "Trampolinie". Tworzy wokół posiadacza słabe pole ochronne, którego efektem ubocznym jest niewielkie promieniowanie. Dosyć powszechny i niewiele wart.</text>
+	</string>
+	<string id="enc_zone_artifact_af-mincer-meat">
+		<text>Tworzony przez "Karuzelę". Powoduje przyśpieszony wzrost komórek, lecz nowo powstałe komórki są o wiele wrażliwsze na skutki oddziaływania uranu. Artefaktu tego nie znajduje się zbyt często, ale też trudno go nazwać rzadkim.</text>
+	</string>
+	<string id="enc_zone_artifact_af-night-star">
+		<text>Ten wspaniały artefakt powstaje w "Trampolinie". Żeby go używać, trzeba zneutralizować śmiertelną dawkę promieniowania. Drogi i rzadki - szczególnie interesujący dla ekspedycji naukowych i innych rodzajów działalności badawczej w Zonie.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-kristall">
+		<text>Krystalizuje się w "Kłującym Puchu". W naturalny sposób wysysa z organizmu promieniowanie - robi to przez uszy, zabierając również trochę krwi. Możliwe jest również krwawienie z innych otworów w ciele. Popularny i dosyć skuteczny, co jest przyczyną stabilnej ceny na rynku artefaktów.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-sea-urchin">
+		<text>Anomalia "Kłujący Puch" bardzo rzadko tworzy ten artefakt. Dzięki niemu rośnie ciśnienie krwi, a organizm pozbywa się dużej ilości czerwonych krwinek. Razem z nimi opuszcza ciało zgromadzone w nim promieniowanie. W swym głównym dziele, "Jonizacja i polaryzacja składników rzadkich artefaktów", Sacharow stwierdza, że skład tego artefaktu ma pewną graniczną stateczność i że w ciągu najbliższych dziesięciu lat nie będzie możliwe stworzenie go w warunkach laboratoryjnych.</text>
+	</string>
+	<string id="enc_zone_artifact_af-rusty-thorn">
+		<text>Efekt interakcji pomiędzy anomalią "Kłujący Puch" i ciałem nieostrożnego stalkera. "Kolczatka" bez względu na okoliczności kłuje ciało osoby, która go posiada. Jednak pomaga oczyścić jej organizm z radionukleidów. Dosyć powszechny i tani.</text>
+	</string>
+	<string id="enc_zone_artifact_af-soul">
+		<text>Bardzo rzadko spotykany artefakt znajdowany w okolicy "Karuzeli". Niewielu udaje się go odnaleźć, niewielu również miało okazję go zobaczyć. Ma piękny kształt i równie piękną cenę.</text>
+	</string>
+	<string id="enc_zone_artifact_af-vyvert">
+		<text>%c[200,255,255,255]Udźwig %c[0,0,255,0]+5 kg \n%c[default]Znajdowany w anomalii zwanej "Lejek". Gdy dotyka ciała, rozprzestrzenia radiację, która chroni ciało przed zadrapaniami lub ranami od broni. Nietrudno znaleźć ten artefakt, dlatego nie jest wiele wart.</text>
+	</string>
+	<string id="enc_zone_locations_agroprom">
+		<text>Dziwny, silnie skażony obszar. Jeśli zapuścisz się w jego głąb, zobaczysz płytkie jezioro, od jednego brzegu do drugiego zagracone porzuconym sprzętem i innymi szczątkami. Możesz również obejrzeć opuszczony Instytut i fabrykę, choć ostatnio często się tam kręci wojsko.</text>
+	</string>
+	<string id="enc_zone_locations_bar">
+		<text>Członkowie "Powinności" rozbili obóz na krańcach równiny i zawsze z chęcią przyjmują stalkerów, którzy potrzebują odpoczynku. To swoista pustynna oaza - miejsce, w którym nie ma ani anomalii, ani mutantów. Pamiętaj, żeby wybrać się do baru "100 Radów" w podziemiach - to miejsce spotkań stalkerów z całej Zony. Bar prowadzi miejscowy handlarz, więc jeśli poza plotkami interesuje cię również sprzedaż lub kupno towarów, to właśnie idealne miejsce. Na północ od baru znajduje się baza wojskowa, a na południe - Wysypisko.</text>
+	</string>
+	<string id="enc_zone_locations_darkdolina">
+		<text>Zawsze ponura, zawsze zamglona, zawsze deszczowa. Stalkerzy, którzy zapuszczą się do Doliny Mroku, mają duże szanse na znalezienie wartościowych artefaktów, natychmiastowej śmierci lub i tego, i tego. Bywają tu najstarsi weterani, choć można się też natknąć na zwykłych bandytów. Podobno gdzieś tu jest podziemne laboratorium, więc po drodze warto szukać ukrytego wejścia. Jednak nikt nie wrócił stąd żywy, więc nie wiadomo, jakie niebezpieczeństwa tam czyhają.</text>
+	</string>
+	<string id="enc_zone_locations_escape">
+		<text>Można to miejsce nazwać przedsionkiem Zony, miejscem, gdzie koty mogą nabrać wprawy. W podziemiach na tyłach wioski, niedaleko placówki wojskowej, znajdziesz handlarza. Pamiętaj, żeby z nim porozmawiać, jednak omijaj placówkę. Lepiej, żeby żołnierze cię nie zauważyli - większość z nich najpierw strzela, a później zadaje pytania. Chociaż - tak jak wszędzie - są i tacy, co dadzą się przekupić pod warunkiem, że wyżsi oficerowie nie patrzą. Nie należy atakować żołnierzy, o ile nie stanowią bezpośredniego zagrożenia.</text>
+	</string>
+	<string id="enc_zone_locations_garbage">
+		<text>Wielkie cmentarzysko maszyn. Zaraz po pierwszym wypadku wyrzucono tu całe stosy odpadów radioaktywnych - głównie pozostałości po starych budynkach pełnych mutantów. Tak jak na peryferiach Zony, w tym miejscu również roi się od stalkerów-żółtodziobów, czasem można też spotkać bandytę szukającego towarów za friko. Można tu znaleźć niektóre artefakty, lecz większość z nich niewarta jest zachodu. Lepiej się udać gdzie indziej. Kierując się na północ, dotrzesz do Dziczy, na zachodzie leży wejście do Doliny Mroku, a na wschodzie droga do Instytutu Badawczego Agroprom.</text>
+	</string>
+	<string id="enc_zone_locations_military-loc">
+		<text>Opuszczona baza wojskowa obok rozpadającej się osady i niewielkich moczarów. Wioska to upiorne miejsce, w którym dosłownie roi się od mutantów - samych pijawek tu mnóstwo. Stalkerzy starają się unikać tego miejsca, nawet jeśli przez to muszą nadrobić parę kilometrów. Anarchiści z "Wolności" zadomowili się w bazie wojskowej. Drogi łączącej bazę z Zoną broni Mózgozwęglacz, zagradzając drogę do Prypeci i Czarnobylskiej Elektrowni Jądrowej.</text>
+	</string>
+	<string id="enc_zone_locations_pripiat">
+		<text>To było niegdyś miasto stworzone dla inżynierów pracujących w elektrowni jądrowej w Czarnobylu. Kiedyś zaludnione - teraz miasto duchów, którego jedynymi mieszkańcami są mutanty i zombi. Wydaje się, że nie ma jak się tu dostać - drogę blokuje Mózgozwęglacz.</text>
+	</string>
+	<string id="enc_zone_locations_radar">
+		<text>Przerażające miejsce. Łatwo tu zniknąć bez śladu - nieistotne, jakie szczęście się miało do tej pory. Ktokolwiek zbliży się do Mózgozwęglacza, natychmiast dostaje pomieszania zmysłów, zmienia się w zombi i zaczyna niespokojnie błądzić po Zonie. Po człowieku pozostaje tylko skorupa. Nikt jeszcze stamtąd nie wrócił zdrowy psychicznie.</text>
+	</string>
+	<string id="enc_zone_locations_rostok">
+		<text>W Dziczy był kiedyś dosyć duży zakład wytwórczy, z którego teraz zostały tylko ruiny. Wielu stalkerów spotkała śmierć: roi się tu od wszelakich stworów, które ciągną z całej Zony. Podobno na tym terenie ukryto coś bardzo wartościowego, dlatego też zawsze wielu śmiałków szuka tu szczęścia.</text>
+	</string>
+	<string id="enc_zone_locations_stancia">
+		<text>Teren znanej na całym świecie elektrowni jądrowej. Serce Zony. Jeśli wierzyć legendom, tu też znajduje się Monolit - tajemniczy obiekt będący w stanie spełnić każde życzenie.</text>
+	</string>
+	<string id="enc_zone_locations_yantar">
+		<text>Legendarne jezioro na terenie o tej samej nazwie wyschło dawno temu, pozostawiając po sobie płytkie bagno. To miejsce mroczne i przesiąknięte śmiercią. Na awanturników, którzy są na tyle głupi, żeby się tu zbliżyć, czekają ogromne niebezpieczeństwa. Każdy, kto zajdzie za daleko, traci rozum. Zombi łażą po całym Jantarze w poszukiwaniu nowych ofiar. Jeśli obejdziesz jezioro i ominiesz zombi, dotrzesz do obozu naukowców, gdzie przetransportowani tam śmigłowcami jajogłowi prowadzą badania. Możesz z nimi porozmawiać - kupują artefakty, a poza tym mogą ci zlecić jakieś zadanie.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2006">
+		<text>Skażona strefa błyszczała światłem najjaśniejszym z możliwych, światłem prawie nie do zniesienia dla ludzkiego wzroku. Można było dosłownie zobaczyć, jak chmury zmieniają się w parę. Po chwili martwej ciszy dało się słyszeć łoskot pioruna, a potem zatrzęsła się ziemia. Ludzie padli na ziemię, wywracając oczami i zakrywając uszy. Ci, którzy mogli ustać na nogach, uciekli co sił. Wyglądało to, jakby ukryte pod sarkofagiem paliwo nuklearne nagle wybuchło. Następnego dnia wojsko otoczyło kordonem nową Zonę. Dzięki satelitom udało się ustalić, że epicentrum eksplozji tak naprawdę nie znajdowało się w pobliżu reaktorów elektrowni jądrowej, lecz około pół kilometra dalej. Uważa się, że personel elektrowni zginął od razu, choć na terenie objętym kordonem ciągle pozostali ludzie. Akcja ratunkowa wkrótce okazała się bezcelowa, gdyż ludzie wysyłani w głąb obszaru natychmiast umierali, a maszyny się psuły. Jakiś czas po katastrofie średnica Zony powiększyła się o kilka kilometrów. Większość oddziałów rządowych strzegących granicy oraz stacjonujące tam ekipy badawcze od razu zginęły. Ogarnięci paniką ludzie zaczęli uciekać. W pośpiechu ewakuowano mieszkańców pobliskich miast i wsi. Światu zagraża ogromne niebezpieczeństwo i możemy jedynie zgadywać, jaki może być jego pełny wymiar.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2008">
+		<text>Od czasu katastrofy w skażonej strefie wokół elektrowni jądrowej w Czarnobylu minęły dwa lata. Rosnąca w zawrotnym tempie liczba ofiar śmiertelnych, ogromna liczba zaginionych, martwe bydło, walące się budynki, okaleczone lasy... Aż do dziś naukowcy nie znaleźli odpowiedzi na pytanie, co tak naprawdę stało się w Czarnobylu. W międzyczasie w okolicy odkryto niewyobrażalne anomalie, a Zona ciągle się rozrasta. Nieliczne ekspedycje natrafiają na zmutowane gatunki zwierząt wykazujące niewiarygodne zdolności.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-2010">
+		<text>Ekipy badawcze chcące dokładnie zbadać Zonę znów podążają śladem lekkomyślnych samotników - stalkerów. Jednakże obszar strzeżony przez wojsko ma teraz innych, niebezpiecznych mieszkańców - od zwykłych kłusowników po najgorszych bandytów. Większość stalkerów wędruje po Zonie w poszukiwaniu anomalii i tak zwanych artefaktów, za sprzedaż których mogą całkiem dobrze zarobić.</text>
+	</string>
+	<string id="enc_zone_zone-story_story-raid">
+		<text>Wojsko, łącznie z siłami specjalnymi dowodzonymi przez paramilitarne oddziały stalkerów, rozpoczęło zmasowany wypad w głąb Zony. Ich celem było przedarcie się do elektrowni jądrowej w Czarnobylu i zniszczenie przyczyny powstawania pól anomalii albo przynajmniej zdobycie informacji z pierwszej ręki dotyczących obecnego stanu rzeczy. Akcja, w której uczestniczyło ponad tysiąc osób i w której wykorzystano ciężką maszynerię, okazała się zupełną porażką. Rozproszone grupy tych, którzy przeżyli, zostały zmuszone do pozostania w Zonie z niewielkimi nadziejami na ratunek.</text>
+	</string>
+	<string id="Escape">
+		<text>Blokada</text>
+	</string>
+	<string id="Fuzz">
+		<text>"Kłujący Puch"</text>
+	</string>
+	<string id="Garbage">
+		<text>Wysypisko</text>
+	</string>
+	<string id="Gravi">
+		<text>"Lejek"</text>
+	</string>
+	<string id="Lift">
+		<text>"Winda"</text>
+	</string>
+	<string id="Locations">
+		<text>Lokacje</text>
+	</string>
+	<string id="Meat">
+		<text>"Karuzela"</text>
+	</string>
+	<string id="Military-loc">
+		<text>Baza Wojskowa</text>
+	</string>
+	<string id="Pripiat">
+		<text>Prypeć</text>
+	</string>
+	<string id="Radar">
+		<text>Mózgozwęglacz</text>
+	</string>
+	<string id="Radioactive">
+		<text>Źródło promieniowania</text>
+	</string>
+	<string id="Rostok">
+		<text>Dzicz</text>
+	</string>
+	<string id="Stancia">
+		<text>CEA</text>
+	</string>
+	<string id="Story-2006">
+		<text>12 kwietnia, 2008, 14:33.</text>
+	</string>
+	<string id="Story-2008">
+		<text>2010 rok</text>
+	</string>
+	<string id="Story-2010">
+		<text>2011 rok</text>
+	</string>
+	<string id="Story-raid">
+		<text>Wypad w Zonę. 2011 rok</text>
+	</string>
+	<string id="Time_machine">
+		<text>"Maszyna Czasu"</text>
+	</string>
+	<string id="Yantar">
+		<text>Jantar</text>
+	</string>
+	<string id="Zharka">
+		<text>"Piec"</text>
+	</string>
+	<string id="Zone">
+		<text>Zona</text>
+	</string>
+	<string id="Zone-story">
+		<text>Historia Zony</text>
+	</string>
+</string_table>

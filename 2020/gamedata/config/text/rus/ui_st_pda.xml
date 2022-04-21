@@ -4,13 +4,13 @@
 		<text>Centruj na Greku</text>
 	</string>
 	<string id="add_spot_btn_hint">
-		<text>Dodaj nowy znak</text>
+		<text>Dodaj nowy znacznik</text>
 	</string>
 	<string id="Contacts">
 		<text>Kontakty</text>
 	</string>
 	<string id="Encyclopedia">
-		<text>Pomoc</text>
+		<text>Encyklopedia</text>
 	</string>
 	<string id="global_map_btn_hint">
 		<text>Mapa Zony</text>
@@ -22,16 +22,16 @@
 		<text>Imiê</text>
 	</string>
 	<string id="pda_btn_accomplished">
-		<text>Zakoñczone</text>
+		<text>Wykonane</text>
 	</string>
 	<string id="pda_btn_accomplished_hint">
-		<text>Poka¿ zakoñczone</text>
+		<text>Poka¿ wykonane zadania</text>
 	</string>
 	<string id="pda_btn_active">
 		<text>Aktywne</text>
 	</string>
 	<string id="pda_btn_active_hint">
-		<text>Poka¿ aktywne</text>
+		<text>Poka¿ aktywne zadania</text>
 	</string>
 	<string id="pda_btn_contacts">
 		<text>Kontakty</text>
@@ -46,7 +46,7 @@
 		<text>Poka¿ dziennik</text>
 	</string>
 	<string id="pda_btn_encyclopedia">
-		<text>Pomoc</text>
+		<text>Encyklopedia</text>
 	</string>
 	<string id="pda_btn_encyclopedia_hint">
 		<text>Poka¿ encyklopediê Zony</text>
@@ -97,7 +97,7 @@
 		<text>Ranga</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
-		<text>Poka¿ top listê stalkerów</text>
+		<text>Poka¿ ranking najlepszych stalkerów</text>
 	</string>
 	<string id="pda_btn_reputation">
 		<text>Reputacja</text>
@@ -115,7 +115,7 @@
 		<text>Usuñ znacznik</text>
 	</string>
 	<string id="pda_show_descr_btn_hint">
-		<text>Przejœcie</text>
+		<text>PrzejdŸ</text>
 	</string>
 	<string id="pda_show_location_btn_hint">
 		<text>Poka¿ znaczniki na mapie</text>

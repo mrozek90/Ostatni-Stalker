@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding="windows-1250"?>
+
+<string_table>
+	<string id="outfit_bandit">
+		<text>KURTKA BANDYTY</text>
+		<text ln="rus">Tradycyjnym ubiorem bandyty jest skórzana kurtka z wszytymi elementami z kevlaru.
+Nieznacznie zwiększa ochronę kuloodporną i odłamkową. Nie chroni przed wpływem PSI.</text>
+	</string>
+
+	<string id="outfit_soldier">
+		<text>MUNDUR</text>
+		<text ln="rus">Standardowy zestaw wyposażenia żołnierza to lekka kamizelka kuloodporna.
+Skutecznie chroni przed pociskami pistoletów i odłamkami. Nie chroni przed wpływem PSI.</text>
+	</string>
+
+	<string id="outfit_stalker">
+		<text>KURTKA STALKERA</text>
+		<text ln="rus">Wyprodukowany przez "rzemieślników" kurtka stalkera. Lekka wojskowa kamizelka kuloodporna plus
+napowietrzne elementy wzmacniające z kevlaru. Skutecznie chroni przed pociskami pistoletów i
+odłamkami. Gumowana plandeka dobrze chroni przed pyłem radiacyjnym i słabymi anomaliami.
+Nie chroni przed wpływem PSI.</text>
+	</string>
+
+	<string id="outfit_svoboda_light">
+		<text>KOMBINEZON WOLNOŚĆ</text>
+		<text ln="rus">Lekki kombinezon stalkera wykonany przez rzemieślników z grupy „Wolność”.
+Lekka wojskowa kamizelka kuloodporna oraz elementy z kevlaru wzmocnone nad głową.
+Skutecznie chroni przed pociskami pistoletów i odłamkami. Gumowana plandeka dobrze
+chroni przed promieniowaniem pyłowym i słabymi anomaliami. Nie chroni przed wpływem PSI.</text>
+	</string>
+
+	<string id="outfit_killer">
+		<text>KOMBINEZON NAJEMNIKA</text>
+		<text ln="rus">Kombinezon stalkera z grupy "Najemnicy". Na podstawie próbek specnazu i
+wyposażenia armii zachodnich. Ze względu na specjalną obróbkę tkaniny, odporny na ciepło i ma
+właściwości antyradiacyjne. Przeciętna kamizelka kuloodporna zawarta w kombinezonie jest wzmocniona
+przez elementy tytanowe. Skutecznie chroni przed pociskami z karabinów na średnim i długim dystansie. Ze względu na obecność metalowej siatki w kapturze, nieznacznie zmniejsza wpływ PSI.
+</text>
+	</string>
+
+	<string id="outfit_svoboda_heavy">
+		<text>WZMOCNIONY KOMBINEZON WOLNOŚĆ</text>
+		<text ln="rus">Wzmocniony kombinezon stalkera wykonany przez rzemieślników z grupy „Wolność”.
+Średnie wojskowe kamizelki kuloodporne oraz elementy cyrkonu wzmacniające nad głową zapewniają dobrą ochronę przed pociskami z automatów i odłamków na średnich i długich dystansach. Materiał kombinezonu składa się z dwóch
+warstw: specjalnie przygotowana skóra i tkanina z nitką azbestową. Dobra ochrona przed promieniowaniem i słaba przed
+anomaliami. Ze względu na obecność metalowej siatki w kapturze, nieznacznie zmniejsza wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_dolg">
+		<text>KOMBINEZON POWINNOŚĆ</text>
+		<text ln="rus">Wyprodukowany przez rzemieślników z grupy "Powinność", wzmocniony kombinezon stalkera.
+Przeciętna wojskowa kamizelka kuloodporna plus nad głową elementy kompozytowe zapewniają dobrą ochronę przed pociskami z
+automatów i odłamki na średnich i długich dystansach. Materiał kombinezonu składa się z dwóch warstw:
+specjalnie przygotowana skóra i warstwa kevlaru, która zapobiega poważnym uszkodzeniom spowodowanym ukąszeniami zwierząt. Dobrze chroni przed promieniowaniem i słabymi anomaliami.
+Ze względu na obecność metalowej siatki w kapturze, nieznacznie zmniejsza wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_monolit">
+		<text>KOMBINEZON MONOLIT</text>
+		<text ln="rus">Kombinezon stalkera z grupy "Monolit". Producent jest nieznany. Średnia wojskowa
+kamizelka kuloodporna plus nad głową elementy z kevlaru zapewniają dobrą ochronę przed pociskami z automatów i odłamkami
+na średnich i długich dystansach. Materiał kombinezonu składa się z dwóch warstw. Specjalnie przetworzone
+tkanina i warstwa specjalnego polietylenu. Bardzo dobrze chroni przed promieniowaniem i słabymi anomaliami. Odporna na
+żrące kwasy. Ze względu na obecność zaawansowanego systemu metalowych siatek i odbieraków fal
+znacznie zmniejsza wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_specops">
+		<text>KOMBINEZON SPECNAZ</text>
+		<text ln="rus">Zmodyfikowany do pracy w warunkach Strefy wyposażenie wojsk specjalnych to Beryl-5M.
+Składa się z: średniego wojskowego pancerza kuloodpornego wzmocnionego tytanowymi płytami pokrytymi berylem
+kombinezon dwuwarstwowy i kask Sfera-08. Dobra ochrona przed pociskami z automatów i odłamkami na średnim i długim dystansie. Średnia ochrona przed promieniowaniem i anomaliami. Dobra odporność na ciepło.
+Ze względu na obecność metalowego hełmu nieznacznie zmniejsza wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_protection">
+		<text>KOMBINEZON SSP-98M</text>
+		<text ln="rus">Kombinezon chemoodporny SSP-98M zmodyfikowany do pracy w Strefie.
+Używany przez jednostki ochrony obozów naukowych. Wbudowany system kompensacji powietrza,
+pozwalając na zmniejszenie szkód spowodowanych przeciążeniami podczas upadków i uderzeń anomalii. Wbudowany system filtracji, recylkulacji i klimatyzacji. Odporny na chemicznie agresywne środowiska. Bardzo dobra ochrona przed promieniowaniem.
+Dobra odporność na ciepło. Średnia ochrona przed pociskami i odłamkami. Ze względu na obecność systemu tłumienia oraz indukowaną elektryczność dobrze zmniejsza wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_ecolog">
+		<text>KOMBINEZON SSP-99M</text>
+		<text ln="rus">Kombinezon chemoodporny SSP-99M zmodyfikowany do pracy w Strefie.
+Wykorzystywana jest przez ekspedycje naukowców i współpracujących z nimi stalkerów. Wbudowany
+system kompensacji powietrza, który pozwala na zmniejszenie szkód spowodowanych przeciążeniami podczas upadków i wstrząsów od anomalii. Wbudowany system filtracji i klimatyzacji powietrza. Bardzo dobra ochrona przed
+promieniowanie i anomaliami biologicznymi. Odporny na chemicznie agresywne środowiska. Dobra odporność na ciepło.
+Średnia ochrona przed pociskami i odłamkami. Ze względu na obecność układu do tłumienia pól indukowanych dobrze
+zmniejsza wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_exo">
+		<text>EGZOSZKIELET</text>
+		<text ln="rus">Eksperymentalny model egzoszkieletu wojskowego. Producent - Zagraniczny
+Wojskowy Ośrodek Badawczy. Zainteresowany prowadzeniem swojego pomysłu w trudnych warunkach Strefy.
+Ciężki sprzęt hydrauliczny zamontowany z tyłu pozwala
+nosić znacznie większą wagę i mniej się męczyć. Hydraulika również kompensuje uszkodzenia spowodowane upadkami
+z wysokości oraz wpływ anomalii grawitacyjnych. Układ napędowy pośrednio służy do ochrony ciała przed pociskami.
+i odłamkami. Nakładany na ubiór.</text>
+	</string>
+
+	<string id="outfit_military_stalker">
+		<text>SKAT-9</text>
+		<text ln="rus">Specjalnie wykonany do pracy w warunkach Strefy zestaw wyposażenia dla wojska
+- SKAT-9. W skład wchodzą: ciężka kamizelka kuloodporna, wbudowany kombinezon kompensacyjny,
+kombinezon dwuwarstwowy (polietylen wzmacniany kevlarem) wzmocniony płytami tytanowymi z berylem
+powlekany i hełm Sphere-12. Bardzo dobra ochrona przed automatycznymi kulami i odłamkami. Ulepszona
+charakterystyka ochrony przed wybuchami, upadkami i wstrząsami grawitacyjnymi. Dobra ochrona przed promieniowaniem i
+anomaliami. Dobra odporność na ciepło. Dobra odporność na agresywne środowiska chemicznie. Obecność metalowego hełmu z systemem metalowych siatek i indukcji zmniejsza wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_military_commander">
+		<text>SKAT-9M</text>
+		<text ln="rus">Specjalnie wykonany do pracy w warunkach Strefy zestaw wyposażenia dla dowódcy wojska - SKAT-9M. W skład wchodzą: ciężka kamizelka kuloodporna, wbudowany kompensator
+kombinezon dwuwarstwowy (polietylen wzmocniony kevlarem) kombinezon wzmocniony tytanowymi płytami z
+powłoką berylową i hełm Sfera-12M. Bardzo dobra ochrona przed pociskami z automatów i odłamkami.
+Ulepszona ochrona przed eksplozjami, upadkami i wstrząsami grawitacyjnymi. Dobra ochrona przed
+promieniowanie i anomaliami. Dobra odporność na ciepło. Dobra odporność na agresywne środowiska chemicznie.
+Dzięki obecności metalowego hełmu z systemem tłumienia pól indukowanych dobrze redukuje
+wpływ PSI.</text>
+	</string>
+
+	<string id="outfit_scientific">
+		<text>TAJNY KOMBINEZON</text>
+		<text ln="rus">Kombinezon stalkera o najwyższej ochronie. Strój stalkera-mistrza lub lidera
+ugrupowania. Produkowany i sprzedawany potajemnie przez jeden z kijowskich instytutów badawczych ds. obronności. Bardzo drogi,
+i z tego powodu nie przyjął się przez stalkerów. Obejmuje: rezerwację z odstępem
+na witalnych obszarach ciała, wbudowany kombinezon kompensacyjny, wbudowany system filtracji
+klimatyzacja i hełm z kombinezonu o najwyższej ochronie chemicznej ze złożonym systemem tłumienia
+pola PSI. Bardzo dobra ochrona przed pociskami z automatów i odłamkami. Lepsza ochrona przed
+wybuchami, upadkami i wstrząsami grawitacyjnymi. Bardzo dobra ochrona przed promieniowaniem i anomaliami. Dobra
+wytrzymałość cieplna. Doskonała odporność na agresywne środowiska chemicznie.</text>
+	</string>
+</string_table>

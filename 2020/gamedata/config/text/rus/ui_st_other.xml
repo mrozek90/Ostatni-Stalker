@@ -136,6 +136,9 @@
 	<string id="ui_st_trade">
 		<text>Handel</text>
 	</string>
+	<string id="ui_st_trade_tm">
+		<text>Handel</text>
+	</string>
 	<string id="ui_st_voting_disabled">
 		<text>Nie mo¿na g³osowaæ</text>
 	</string>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="cant_walk">
+		<text>Jesteś zbyt wyczerpany, by się ruszyć</text>
+	</string>
+	<string id="cant_walk_weight">
+		<text>Jesteś zbyt obciążony, żeby się ruszyć</text>
+	</string>
+	<string id="dar_poltergeist_hold_the_door">
+		<text>Ktoś trzyma drzwi...</text>
+	</string>
+	<string id="Global Map">
+		<text>Mapa świata</text>
+	</string>
+	<string id="gun_jammed">
+		<text>Broń się zacięła. Przeładuj.</text>
+	</string>
+	<string id="inventory_box_use">
+		<text>Szukaj ($$ACTION_USE$$)</text>
+	</string>
+	<string id="Local Map">
+		<text>Mapa okolicy</text>
+	</string>
+	<string id="st_game_saved">
+		<text>Gra zapisana</text>
+	</string>
+	<string id="tip_car_locked">
+		<text>Zablokowano</text>
+	</string>
+	<string id="tip_car_use">
+		<text>Otwórz drzwi ($$ACTION_USE$$)</text>
+	</string>
+	<string id="tip_door_close">
+		<text>Naciśnij ($$ACTION_USE$$), by zamknąć drzwi.</text>
+	</string>
+	<string id="tip_door_coded">
+		<text>Drzwi są zakodowane</text>
+	</string>
+	<string id="tip_door_locked_inside">
+		<text>Drzwi są zamknięte z drugiej strony</text>
+	</string>
+	<string id="tip_door_locked_in">
+		<text>Drzwi są zamknięte od wewnątrz</text>
+	</string>
+	<string id="war_button_activate">
+		<text>Aktywować</text>
+	</string>
+	<string id="war_button_deactivate">
+		<text>Deaktywować</text>
+	</string>
+	<string id="tip_door_decode">
+		<text>Naciśnij ($$ACTION_USE$$), by odszyfrować drzwi</text>
+	</string>
+	<string id="tip_door_decoding">
+		<text>Trwa dekodowanie...</text>
+	</string>
+	<string id="tip_door_locked">
+		<text>Drzwi są zamknięte.</text>
+	</string>
+	<string id="tip_door_open">
+		<text>Naciśnij ($$ACTION_USE$$), by otworzyć drzwi.</text>
+	</string>
+	<string id="tip_gate_close">
+		<text>Naciśnij ($$ACTION_USE$$), by zamknąć bramę.</text>
+	</string>
+	<string id="tip_gate_locked">
+		<text>Brama zablokowana.</text>
+	</string>
+	<string id="tip_gate_open">
+		<text>Naciśnij ($$ACTION_USE$$), by otworzyć bramę.</text>
+	</string>
+	<string id="tip_monolith">
+		<text>POMYŚL ŻYCZENIE ($$ACTION_USE$$)</text>
+	</string>
+</string_table>

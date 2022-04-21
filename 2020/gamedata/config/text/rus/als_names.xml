@@ -45,29 +45,29 @@
 	</string>
 
 	<string id="stranger_novice">
-		<text>Czarny najeüca, nowicjusz</text>
+		<text>Czarny rajder, nowicjusz</text>
 	</string>
 	<string id="stranger_experienced">
-		<text>Czarny najeüca, doúwiadczony</text>
+		<text>Czarny rajder, doúwiadczony</text>
 	</string>
 	<string id="stranger_veteran">
-		<text>Czarny najeüca, weteran</text>
+		<text>Czarny rajder, weteran</text>
 	</string>
 	<string id="stranger_master">
-		<text>Czarny najeüca, mistrz</text>
+		<text>Czarny rajder, mistrz</text>
 	</string>
 
 	<string id="degen_novice">
-		<text>Degenerat, nowicjusz</text>
+		<text>Wyrodek, nowicjusz</text>
 	</string>
 	<string id="degen_regular">
-		<text>Degenerat, doúwiadczony</text>
+		<text>Wyrodek, doúwiadczony</text>
 	</string>
 	<string id="degen_veteran">
-		<text>Degenerat, weteran</text>
+		<text>Wyrodek, weteran</text>
 	</string>
 	<string id="degen_master">
-	<text>Degenerat, mistrz</text>
+	<text>Wyrodek, mistrz</text>
 	</string>
 
 
@@ -130,7 +130,7 @@
 	</string>
 
 	<string id="marsh_monk_4_name">
-		<text>o. Andrzej</text>
+		<text>o. Andriej</text>
 	</string>
 
 	<string id="marsh_monk_5_name">
@@ -190,7 +190,7 @@
 	</string>
 
 	<string id="marsh_bandit_01_name">
-		<text>Szczelina</text>
+		<text>Flama</text>
 	</string>
 
 	<string id="marsh_bandit_02_name">
@@ -258,7 +258,7 @@
 	</string>
 
 	<string id="dfs_killer_3_name">
-		<text>WrÛøek</text>
+		<text>Hiler</text>
 	</string>
 
 	<string id="dfs_stalker_freedom_commander_name">
@@ -538,11 +538,19 @@
 	</string>
 
 	<string id="atp_hunter_3_name">
-		<text>Barabasz</text>
+		<text>Ba≥abaszow</text>
+	</string>
+	
+	<string id="w_pri_stranger_name">
+		<text>Nieznany</text>
+	</string>
+	
+	<string id="strangers_experienced">
+		<text>Nieznany, doúwiadczony</text>
 	</string>
 
 	<string id="w_pri_stranger_name">
-		<text>Nieznajomy</text>
+		<text>Nieznany</text>
 	</string>
 
 	<string id="w_pri_dolg_trader_name">
@@ -558,11 +566,11 @@
 	</string>
 
 	<string id="ermol_name">
-		<text>Jermol</text>
+		<text>Jermo≥</text>
 	</string>
 
 	<string id="dfs_bezm_name">
-		<text>chorπøy Sierota</text>
+		<text>Chorπøy Bezmatierny</text>
 	</string>
 
 	<string id="dfs_besjak_name">
@@ -574,7 +582,7 @@
 	</string>
 
 	<string id="dfs_vepr_name">
-		<text>Wiepr</text>
+		<text>Dzik</text>
 	</string>
 
 	<string id="dfs_locman_name">
@@ -622,7 +630,7 @@
 	</string>
 
 	<string id="stalker_dimon_name">
-		<text>Sanja Ga≥asz</text>
+		<text>Sania Ga≥asz</text>
 	</string>
 
 
@@ -737,6 +745,9 @@
 	<string id="waterrat_gang_regular">
 		<text>Banda Karczownika, doúwiadczony</text>
 	</string>
+	<string id="waterrat_gang_experienced">
+		<text>Banda Karczownika, doúwiadczony</text>
+	</string>
 	<string id="waterrat_gang_veteran">
 		<text>Banda Karczownika, weteran</text>
 	</string>
@@ -745,7 +756,7 @@
 	</string>
 
 	<string id="mackleens_gang_novice">
-		<text>Banda McClena, nowicjusz</text>
+		<text>Banda McCleana, nowicjusz</text>
 	</string>
 	<string id="mackleens_gang_regular">
 		<text>Banda McCleana, doúwiadczony</text>
@@ -783,7 +794,7 @@
 	</string>
 
 	<string id="dutiy_name">
-		<text>PowinnoúÊ</text>
+		<text>BÍben</text>
 	</string>
 
 	<string id="chuma_name">
@@ -799,11 +810,11 @@
 	</string>
 
 	<string id="shilo_name">
-		<text>Kolia Szyd≥o</text>
+		<text>Kola Szyd≥o</text>
 	</string>
 
 	<string id="tarakan_name">
-		<text>Lech Karaluch</text>
+		<text>Lecha Tarakan</text>
 	</string>
 
 	<string id="hohmach_name">
@@ -811,7 +822,7 @@
 	</string>
 
 	<string id="soplja_name">
-		<text>Kolia Smark</text>
+		<text>Kola Sopel</text>
 	</string>
 
 	<string id="bosjak_name">
@@ -911,7 +922,7 @@
 	</string>
 
 	<string id="stalker_tankist_6_name">
-		<text>Charik Pieroøek</text>
+		<text>Harik Warenik</text>
 	</string>
 
 	<string id="stalker_tankist_7_name">
@@ -931,11 +942,11 @@
 	</string>
 
 	<string id="marsh_galash_stalker_4_name">
-		<text>Tajga</text>
+		<text>Szura Tajga</text>
 	</string>
 
 	<string id="marsh_galash_stalker_5_name">
-		<text>Ukrop</text>
+		<text>Koper</text>
 	</string>
 
 	<string id="uzbek_name">
@@ -959,7 +970,7 @@
 	</string>
 
 	<string id="uzbek_bandit_4_name">
-		<text>PiÛro</text>
+		<text>Mitka PiÛro</text>
 	</string>
 
 	<string id="uzbek_bandit_5_name">
@@ -987,7 +998,7 @@
 	</string>
 
 	<string id="mackleens_stalker_2_name">
-		<text>Surgut</text>
+		<text>Wania Surgut</text>
 	</string>
 
 	<string id="mackleens_stalker_3_name">
@@ -1011,11 +1022,11 @@
 	</string>
 
 	<string id="bunch_name">
-		<text>rakietnik Buncz</text>
+		<text>Bunch Poker</text>
 	</string>
 
 	<string id="varnak_name">
-		<text>Barnaba</text>
+		<text>Warnak</text>
 	</string>
 
 	<string id="sor_uzbek_bandit_3_name">
@@ -1031,23 +1042,23 @@
 	</string>
 
 	<string id="barmaley_name">
-		<text>Barmalej</text>
+		<text>Barmaley</text>
 	</string>
 
 	<string id="waterrat_stalker_1_name">
-		<text>Czerwony</text>
+		<text>Dima Krasny</text>
 	</string>
 
 	<string id="waterrat_stalker_2_name">
-		<text>Kie≥basa</text>
+		<text>Losza Kie≥basa</text>
 	</string>
 
 	<string id="waterrat_stalker_3_name">
-		<text>Groüny</text>
+		<text>Wadim Groüny</text>
 	</string>
 
 	<string id="waterrat_stalker_4_name">
-		<text>Kola</text>
+		<text>Wasia Kolec</text>
 	</string>
 
 	<string id="waterrat_stalker_5_name">
@@ -1055,7 +1066,7 @@
 	</string>
 
 	<string id="waterrat_stalker_6_name">
-		<text>Moderator</text>
+		<text>Wowa Moderator</text>
 	</string>
 
 	<string id="waterrat_stalker_7_name">
@@ -1063,7 +1074,7 @@
 	</string>
 
 	<string id="waterrat_stalker_8_name">
-		<text>D≥ugorÍki</text>
+		<text>Jurik D≥ugorÍki</text>
 	</string>
 
 	<string id="waterrat_stalker_9_name">
@@ -1075,11 +1086,11 @@
 	</string>
 
 	<string id="waterrat_stalker_11_name">
-		<text>Katzman</text>
+		<text>Joshua Katzman</text>
 	</string>
 
 	<string id="waterrat_stalker_12_name">
-		<text>Simson</text>
+		<text>Boria Simpson</text>
 	</string>
 
 	<string id="waterrat_stalker_13_name">
@@ -1099,7 +1110,7 @@
 	</string>
 
 	<string id="marsh_svoboda_bayda_name">
-		<text>Motocyklista</text>
+		<text>Bajda</text>
 	</string>
 
 	<string id="marsh_svoboda_commander_name">
@@ -1119,7 +1130,7 @@
 	</string>
 
 	<string id="marsh_svoboda_mexanik_name">
-		<text>Gromow</text>
+		<text>Grom</text>
 	</string>
 
 	<string id="lim_scientist_1_name">
@@ -1139,7 +1150,7 @@
 	</string>
 
 	<string id="lim_dolg_stalker_3_name">
-		<text>Niedüwiedü</text>
+		<text>Niedüwiadek</text>
 	</string>
 
 	<string id="lim_dolg_stalker_4_name">
@@ -1155,7 +1166,7 @@
 	</string>
 
 	<string id="lim_dolg_stalker_7_name">
-		<text>Krokodyl</text>
+		<text>Genia Krokodyl</text>
 	</string>
 
 	<string id="princeps_name">
@@ -1163,7 +1174,7 @@
 	</string>
 
 	<string id="conductor_name">
-		<text>Konduktor</text>
+		<text>Przewodnik</text>
 	</string>
 
 	<string id="director_name">
@@ -1183,7 +1194,7 @@
 	</string>
 
 	<string id="archiater_name">
-		<text>Architekt</text>
+		<text>Archiator</text>
 	</string>
 
 	<string id="technician_name">
@@ -1199,7 +1210,7 @@
 	</string>
 
 	<string id="executor_name">
-		<text>Kat</text>
+		<text>Egzekutor</text>
 	</string>
 
 	<string id="panzhc_arestant_1_name">
@@ -1211,7 +1222,7 @@
 	</string>
 
 	<string id="panzhc_arestant_3_name">
-		<text>Nerwus</text>
+		<text>Dima Nerwus</text>
 	</string>
 
 	<string id="panzhc_arestant_4_name">
@@ -1243,7 +1254,7 @@
 	</string>
 
 	<string id="kasper_name">
-		<text>Kacper</text>
+		<text>Kasper</text>
 	</string>
 
 	<string id="als_soldier_desant_1_name">
@@ -1251,11 +1262,11 @@
 	</string>
 
 	<string id="als_soldier_desant_2_name">
-		<text>sierøant Ilyen</text>
+		<text>Sierøant Ilin</text>
 	</string>
 
 	<string id="als_soldier_desant_3_name">
-		<text>szeregowy Erszow</text>
+		<text>Szeregowy Jerszow</text>
 	</string>
 
 	<string id="als_soldier_desant_4_name">
@@ -1263,7 +1274,7 @@
 	</string>
 
 	<string id="val_killer_langolier_name">
-		<text>Landolier</text>
+		<text>Langolier</text>
 	</string>
 
 	<string id="val_killer_verny_name">
@@ -1295,7 +1306,7 @@
 	</string>
 
 	<string id="mil_military_stalker_guard_chieff_2_name">
-		<text>Zamek</text>
+		<text>Rygiel</text>
 	</string>
 
 	<string id="mil_military_stalker_storekeeper_name">
@@ -1307,7 +1318,7 @@
 	</string>
 
 	<string id="military_stalker_2_name">
-		<text>Ibum</text>
+		<text>Dima Analgina</text>
 	</string>
 
 	<string id="military_stalker_3_name">
@@ -1319,23 +1330,23 @@
 	</string>
 
 	<string id="autoritet_bodyguard_1_name">
-		<text>Bagnet</text>
+		<text>Zaszyty</text>
 	</string>
 
 	<string id="autoritet_bodyguard_2_name">
-		<text>Tatar</text>
+		<text>Tatarzyn</text>
 	</string>
 
 	<string id="autoritet_bodyguard_3_name">
-		<text>KÍdziorek</text>
+		<text>Kud≥aty</text>
 	</string>
 
 	<string id="autoritet_bodyguard_4_name">
-		<text>Koronez</text>
+		<text>Koroban</text>
 	</string>
 
 	<string id="buben_name">
-		<text>BÍben</text>
+		<text>Tamburyn</text>
 	</string>
 
 	<string id="yorsh_name">
@@ -1363,7 +1374,7 @@
 	</string>
 
 	<string id="cptn_gryaznov_name">
-		<text>kapitan Brudny</text>
+		<text>Kapitan Griaznow</text>
 	</string>
 
 	<string id="ltnt_ivanzov_name">
@@ -1375,15 +1386,15 @@
 	</string>
 
 	<string id="srg_timchenko_name">
-		<text>sierøant Timoszenko</text>
+		<text>Sierøant Timczenko</text>
 	</string>
 
 	<string id="prv_zvezdizky_name">
-		<text>sierøant Gwiazda</text>
+		<text>Szeregowy Gwiazdow</text>
 	</string>
 
 	<string id="prv_teplov_name">
-		<text>szeregowy Ciep≥y</text>
+		<text>Szeregowy Tiep≥ow</text>
 	</string>
 
 	<string id="cptn_parshin_name">
@@ -1391,7 +1402,7 @@
 	</string>
 
 	<string id="doctor_pyh_name">
-		<text>doktor Pech</text>
+		<text>Doktor Piech</text>
 	</string>
 
 	<string id="val_wild_killer_commander_name">
@@ -1427,27 +1438,27 @@
 	</string>
 
 	<string id="raider_gus_name">
-		<text>GÍú</text>
+		<text>Gustaw</text>
 	</string>
 
 	<string id="black_raider_captain_name">
-		<text>kapitan</text>
+		<text>Kapitan</text>
 	</string>
 
 	<string id="black_raider_lieutenant_name">
-		<text>porucznik</text>
+		<text>Porucznik</text>
 	</string>
 
 	<string id="black_raider_sergeant_name">
-		<text>sierøant</text>
+		<text>Sierøant</text>
 	</string>
 
 	<string id="black_raider_corporal_name">
-		<text>kapral</text>
+		<text>Kapral</text>
 	</string>
 
 	<string id="black_raider_private_name">
-		<text>szeregowy</text>
+		<text>Szeregowy</text>
 	</string>
 
 	<string id="ltnt_grishin_name">
@@ -1459,7 +1470,7 @@
 	</string>
 
 	<string id="jj_name">
-		<text>Døej Døej</text>
+		<text>Johnny</text>
 	</string>
 
 	<string id="nomad_name">

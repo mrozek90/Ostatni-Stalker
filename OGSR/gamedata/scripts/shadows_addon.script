@@ -1,0 +1,553 @@
+--[[--------------------------------------------------------------------------------------------------------------------
+ File              : shadows_addon.script
+ Description       : Разные функции
+ Copyright         : Shadows & Co
+--]]--------------------------------------------------------------------------------------------------------------------
+function update()
+--	power_indicator()
+--	red_effect()
+--	yantar_psy_blowout()
+	hud_show_time()
+--	bunker_cooling_sound()
+end
+
+function start_game()
+    -- спавн
+    generators_spawn()
+	warlab_spawn()
+	secretlab_spawn()
+	lab_x16_spawn()
+	game_spawn()
+	-- переходы
+	generators_to_aes2()
+	aes2_to_generators()
+	secretlab_to_x10()
+	x10_to_secretlab()
+	aes1_to_aes2()
+	aes2_to_aes1()
+	aes1_to_pripyat()
+	garbage_to_agroprom()
+	agroprom_to_garbage()
+	escape_to_darkvalley()
+	sarcofag_to_aes1()
+	agroprom_to_yantar()
+	yantar_to_agroprom()
+	garbage_to_darkvalley()
+	darkvalley_to_garbage()
+	yantar_to_deadcity()
+	deadcity_to_radar()
+	radar_to_deadcity()
+end
+------------------------------------------------------------------------------------------------------------------------
+-- билдовский индикатор выносливости
+function power_indicator()
+    local hud = get_hud()
+    local green_power  = 0.5
+	local yellow_power = 0.3
+	local red_power    = 0.1
+	if green_power >= db.actor.power and not hud:GetCustomStatic("green_power_static") then 
+	    hud:AddCustomStatic("green_power_static")
+		if hud:GetCustomStatic("yellow_power_static") then hud:RemoveCustomStatic("yellow_power_static")
+		elseif hud:GetCustomStatic("red_power_static") then hud:RemoveCustomStatic("red_power_static") 
+	    end
+	elseif green_power < db.actor.power then
+	    if hud:GetCustomStatic("green_power_static") then hud:RemoveCustomStatic("green_power_static") end
+	end
+	green_power = db.actor.power
+	if yellow_power >= db.actor.power and not hud:GetCustomStatic("yellow_power_static") then 
+	    hud:AddCustomStatic("yellow_power_static")
+		if hud:GetCustomStatic("green_power_static") then hud:RemoveCustomStatic("green_power_static")
+		elseif hud:GetCustomStatic("red_power_static") then hud:RemoveCustomStatic("red_power_static") 
+	    end
+	else 
+	    if hud:GetCustomStatic("yellow_power_static") then hud:RemoveCustomStatic("yellow_power_static") end
+	end
+	yellow_power = db.actor.power
+	if red_power >= db.actor.power and not hud:GetCustomStatic("red_power_static") then 
+	    hud:AddCustomStatic("red_power_static")
+		if hud:GetCustomStatic("green_power_static") then hud:RemoveCustomStatic("green_power_static")
+		elseif hud:GetCustomStatic("yellow_power_static") then hud:RemoveCustomStatic("yellow_power_static") 
+	    end
+	else 
+	    if hud:GetCustomStatic("red_power_static") then hud:RemoveCustomStatic("red_power_static") end
+	end
+	red_power = db.actor.power
+end
+------------------------------------------------------------------------------------------------------------------------
+-- эффект ранения ГГ
+local health = 0
+function red_effect()
+    if health > db.actor.health + 0.008 then level.add_pp_effector("fire_hit.ppe", 1974, false) end
+    health = db.actor.health
+end
+------------------------------------------------------------------------------------------------------------------------
+-- пси-выбросы на Янтаре
+local next_blowout = 0
+local effects_off = 0
+function yantar_psy_blowout()
+	if level.name()=="l08_yantar" then 
+	    if not has_alife_info("yan_labx16_switcher_3_end") and next_blowout < time_global() then
+		    next_blowout = time_global() + 300000
+	        effects_off = time_global() + 20000
+		    db.actor.psy_health = -0.45
+            play_sound([[characters_voice\scenario\yantar\psy_voices_1]])
+	        play_sound([[ambient\blowout]])
+		    level.add_call(yantar_psy_blowout_timer, yantar_psy_blowout_off)
+		    level.add_pp_effector("psy_antenna.ppe", 1875, true)
+		    level.add_pp_effector("yantar_underground_psi.ppe", 1876, false)
+		    level.add_cam_effector("camera_effects\\shell_shock.anm", 396, false, "")
+		    level.add_cam_effector("camera_effects\\earthquake.anm", 397, false, "")
+		end
+	end
+end
+
+function yantar_psy_blowout_timer()
+    return time_global() > effects_off
+end
+
+function yantar_psy_blowout_off()
+	level.remove_pp_effector(1875)
+end
+------------------------------------------------------------------------------------------------------------------------
+-- время на худе
+local show_time_init = system_ini():r_bool("maingame_ui", "hud_show_zone_time")
+function hud_show_time()
+	if show_time_init then
+	    local hud = get_hud()
+        local cs = hud:GetCustomStatic("hud_show_time")
+	    if device().fov >= 30 then
+            if cs == nil then
+                hud:AddCustomStatic("hud_show_time", true)
+                cs = hud:GetCustomStatic("hud_show_time")
+            end
+            local time_h = level.get_time_hours()
+            local time_m = level.get_time_minutes()
+	        local msg = ""..(time_h >= 10 and "" or "0").."%d:"..(time_m >= 10 and "" or "0").."%d"
+            if cs ~= nil then cs:wnd():SetText(string.format(msg, time_h, time_m)) end
+	    else
+		    if cs then hud:RemoveCustomStatic("hud_show_time") end
+        end
+	end
+end
+------------------------------------------------------------------------------------------------------------------------
+-- звук работы Выжигателя в Х-10
+local cooling_snd
+function bunker_cooling_sound()
+    if level.name()=="l10u_bunker" then
+	    if not has_alife_info("bar_deactivate_radar_done") then
+		    if not (cooling_snd and cooling_snd:playing()) then
+		        cooling_snd = sound_object("ambient\\cooling_run")
+			    cooling_snd:play_at_pos(db.actor,vector():set(0,0,1),0,sound_object.s2d+sound_object.looped)
+		    end
+	    else
+	        if cooling_snd then cooling_snd:stop() cooling_snd = nil end
+	    end
+	end
+end
+------------------------------------------------------------------------------------------------------------------------
+-- исправление сброса визуала ГГ если в инвентаре больше двух костюмов
+function outfits_fix(obj)
+    if string.find(obj:section(),"outfit") then
+        local actor_outfit = db.actor:item_in_slot(6)
+        if actor_outfit and actor_outfit:id() ~= obj:id() then db.actor:transfer_item(actor_outfit, db.actor) end
+    end
+end
+------------------------------------------------------------------------------------------------------------------------
+
+local level_name = {
+["l01_escape"] = "Кордон",
+["l02_garbage"] = "Свалка",
+["l03_agroprom"] = "НИИ Агропром",
+["l03u_agr_underground"] = "Подземелье НИИ Агропром",
+["l04_darkvalley"] = "Тёмная долина",
+["l04u_labx18"] = "Лаборатория X-18",
+["l05_bar"] = "Бар",
+["l06_rostok"] = "Дикая территория",
+["l07_military"] = "Армейские склады",
+["l08_yantar"] = "Янтарное озеро",
+["l08u_brainlab"] = "Лаборатория X-16",
+["l09_deadcity"] = "Мёртвый город",
+["l10u_bunker"] = "Лаборатория X-10",
+["l10u_secret_lab"] = "Секретная лаборатория",
+["l10_radar"] = "Радар",
+["l11_pripyat"] = "Припять",
+["l12_stancia"] = "ЧАЭС",
+["l12_stancia_2"] = "ЧАЭС",
+["l12u_sarcofag"] = "Саркофаг",
+["l12u_control_monolith"] = "Бункер управления Монолитом",
+["l13_generators"] = "Генераторы",
+["l13u_warlab"] = "Военная лаборатория"}
+
+local community = {
+["stalker"] = "Одиночка",
+["military"] = "Военные",
+["bandit"] = "Бандит",
+["killer"] = "Наемник",
+["ecolog"] = "Эколог",
+["dolg"] = "Долг",
+["stranger"] = "Неизвестные",
+["freedom"] = "Свобода",
+["arena_enemy"] = "Участник арены",
+["trader"] = "Торговец"}
+
+local icon = {
+["stalker"] = {432,350},
+["military"] = {432,400},
+["bandit"] = {432,450},
+["killer"] = {432,500},
+["ecolog"] = {432,550},
+["dolg"] = {432,600},
+["stranger"] = {432,650},
+["freedom"] = {432,300},
+["arena_enemy"] = {432,350},
+["trader"] = {432,350}}
+
+-- новости о смерти сталкеров
+function kill_npc_news(victim,who)
+    if victim and IsStalker(victim) and victim:character_community()~="monolith" and victim:character_community()~="zombied" then
+        local dead_news = "%c[230,255,128,64]Погиб: "..victim:character_name().."\\nГруппировка: "..community[victim:character_community()].."\\nМесто гибели: "..level_name[level.name()]..""
+		local x = icon[victim:character_community()][1]
+        local y = icon[victim:character_community()][2]
+		db.actor:give_game_news(dead_news,"ui\\ui_iconstotal",Frect():set(x,y,50,50),5000,5000)
+    end
+end
+------------------------------------------------------------------------------------------------------------------------
+-- сообщения о пополнении энциклопедии
+function encyclopedy_news(group, name)
+    if group == "Diary" then
+		news_manager.send_encyclopedy("diary", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Заметка в журнале:",nil,7,"encyclopedy_icon")
+	elseif group == "Mutants" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Заметка о мутантах:",nil,7,"encyclopedy_icon")
+	elseif group == "Social" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Информация о группировке:",nil,7,"encyclopedy_icon")
+	elseif group == "Artifacts" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Заметка об артефактах:",nil,7,"encyclopedy_icon")
+	elseif group == "Anomalies" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Заметка об аномалиях:",nil,7,"encyclopedy_icon")
+	elseif group == "Locations" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Информация о локации:",nil,7,"encyclopedy_icon")
+	elseif group == "Zone-story" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]История Зоны:",nil,7,"encyclopedy_icon")
+	elseif group == "Stories" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Местный фольклор:",nil,7,"encyclopedy_icon")
+	elseif group == "memuars" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Личная заметка:",nil,7,"encyclopedy_icon")
+	elseif group == "Vehicles" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Информация о транспорте:",nil,7,"encyclopedy_icon")
+	elseif group == "Found_PDA" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Скачаны данные:",nil,7,"encyclopedy_icon")
+	elseif group=="st_operation_agroprom" or group=="LabX18_information" or group=="aes_military_task" then
+		news_manager.send_encyclopedy("encyclopedy", group)
+		send_tip(game.translate_string(name),"%c[230,255,128,64]Заметка в журнале:",nil,7,"encyclopedy_icon")
+	end
+end
+------------------------------------------------------------------------------------------------------------------------
+-- сон главного героя
+function sleep_main(scale)
+    level.add_pp_effector("peace_fade.ppe", 1973, false)
+    basic_time_factor = level.get_time_factor()
+    db.actor:hide_weapon()
+    level.disable_input()   
+    sleep_starter(scale) 
+end
+ 
+function sleep_starter(scale)
+    local factor = scale*1325
+    game.start_tutorial("time_scaling")
+    level.set_time_factor(factor)
+end
+ 
+function sleep_dreamer()
+    level.set_time_factor(basic_time_factor)
+	game.start_tutorial("without_dream") 
+end
+ 
+function sleep_stopper()
+    level.add_pp_effector("peace_unfade.ppe", 1973, false)
+    db.actor:restore_weapon()
+    level.enable_input()
+end
+------------------------------------------------------------------------------------------------------------------------
+-- финальный диалог выхода во фриплей
+class "final_dialog" (CUIScriptWnd)
+function final_dialog:__init() super()
+    self:Init(0,0,1024,768)
+	self.ClickBtnYes = function() 
+	    game.start_tutorial("mov_refuse_osoznanie") 
+		level.start_stop_menu(self,true) 
+	end
+	self.ClickBtnNo = function() 
+	    level.start_stop_menu(self,true) level.add_pp_effector("vibros_p.ppe",1974,false) 
+		play_sound([[ambient\x16\x16_brain_death]]) db.actor:restore_weapon()
+		alife():create("m_controller_old_fat",vector():set(170.5,30.8,-471.8),503408,3228)
+	end
+	local ctrl
+	local xml = CScriptXmlInit()
+	xml:ParseFile("ui_shadows_addon.xml")
+	-- фон
+	self.back = xml:InitStatic("freeplay_dialog_main",self)
+	-- иконка
+    xml:InitStatic("dialogs_yellow_icon",self.back)
+	-- кнопка Да
+	ctrl = xml:Init3tButton("btn_ok",self.back)	
+	self:Register(ctrl,"btn_ok")
+	self:AddCallback("btn_ok",ui_events.BUTTON_CLICKED,self.ClickBtnYes,self)
+	-- кнопка Нет
+	ctrl = xml:Init3tButton("btn_no",self.back)	
+	self:Register(ctrl,"btn_no")
+	self:AddCallback("btn_no",ui_events.BUTTON_CLICKED,self.ClickBtnNo,self)
+end
+------------------------------------------------------------------------------------------------------------------------
+-- переходы между локациями
+function create_level_changer(p_story_id, p_position, p_lvertex_id, p_gvertex_id, p_dest_lv, p_dest_gv, p_dest_pos, p_dest_dir, p_dest_level, p_silent)
+    local obj = alife():create("level_changer", p_position, p_lvertex_id, p_gvertex_id)
+    --level.map_add_object_spot(obj.id, "level_changer", "")
+    local packet = net_packet()
+    obj:STATE_Write(packet)
+    local game_vertex_id = packet:r_u16()
+    local cse_alife_object__unk1_f32 = packet:r_float()
+    local cse_alife_object__unk2_u32 = packet:r_u32()
+    local level_vertex_id = packet:r_u32()
+    local object_flags = packet:r_u32()
+    local custom_data = packet:r_stringZ()
+    local story_id = packet:r_u32()
+    local spawn_story_id = packet:r_u32()
+    local shape_count = packet:r_u8()
+    for i=1,shape_count do
+    local shape_type = packet:r_u8()
+    if shape_type == 0 then
+    local center = packet:r_vec3()
+    local radius = packet:r_float()
+    else
+    local axis_x_x = packet:r_float()
+    local axis_x_y = packet:r_float()
+    local axis_x_z = packet:r_float()
+    local axis_y_x = packet:r_float()
+    local axis_y_y = packet:r_float()
+    local axis_y_z = packet:r_float()
+    local axis_z_x = packet:r_float()
+    local axis_z_y = packet:r_float()
+    local axis_z_z = packet:r_float()
+    local offset_x = packet:r_float()
+    local offset_y = packet:r_float()
+    local offset_z = packet:r_float()
+    end
+    end
+    local restrictor_type = packet:r_u8()
+    local dest_game_vertex_id = packet:r_u16() 
+    local dest_level_vertex_id = packet:r_u32() 
+    local dest_position = packet:r_vec3()
+    local dest_direction = packet:r_vec3()
+    local dest_level_name = packet:r_stringZ()
+    local dest_graph_point = packet:r_stringZ()
+    local silent_mode = packet:r_u8()
+    packet:w_begin(game_vertex_id)
+    packet:w_float(cse_alife_object__unk1_f32)
+    packet:w_u32(cse_alife_object__unk2_u32) 
+    packet:w_u32(level_vertex_id)
+    packet:w_u32(bit_not(193))
+    packet:w_stringZ(custom_data)
+    packet:w_u32(p_story_id)
+    packet:w_u32(spawn_story_id)
+    packet:w_u8(1)
+    packet:w_u8(1)
+    packet:w_float(2)
+    packet:w_float(0)
+    packet:w_float(0)
+    packet:w_float(0)
+    packet:w_float(4)
+    packet:w_float(0)
+    packet:w_float(0)
+    packet:w_float(0)
+    packet:w_float(4)
+    packet:w_float(0)
+    packet:w_float(0)
+    packet:w_float(0)
+    packet:w_u8(3)
+    packet:w_u16(p_dest_gv)
+    packet:w_u32(p_dest_lv)
+    packet:w_vec3(p_dest_pos)
+    packet:w_vec3(p_dest_dir)
+    packet:w_stringZ(p_dest_level)
+    packet:w_stringZ("start_actor_99")
+    packet:w_u8(p_silent)
+    packet:r_seek(0)
+    obj:STATE_Read(packet, packet:w_tell())
+end
+
+-- с Генераторов на ЧАЭС-2
+function generators_to_aes2()
+    create_level_changer(5481,vector():set(-65.209,33.407,-542.041),246422,3009,
+    214796,2741,vector():set(844.504,-0.098,449.944),vector():set(0.0,-3.15,-1.0),"l12_stancia_2",0)
+end
+
+-- с ЧАЭС-2 на Генераторы
+function aes2_to_generators()
+    create_level_changer(5482,vector():set(844.377,-0.097,463.808),214796,2741,
+    250140,3009,vector():set(-61.513,32.912,-532.565),vector():set(0.0,0.0,-1.0),"l13_generators",0)
+end
+
+-- с секретной лаборатории в Х-10
+function secretlab_to_x10()
+    create_level_changer(5483,vector():set(21.510,-34.233,13.236),2865,2898,
+    8433,2775,vector():set(17.427,-8.989,7.107),vector():set(0.0,1.56,-1.0),"l10u_bunker",0)
+end
+
+-- из Х-10 в секретную лабораторию
+function x10_to_secretlab()
+    create_level_changer(5484,vector():set(22.277,-8.996,7.145),8794,2775,
+    2639,2898,vector():set(13.951,-34.484,13.207),vector():set(0.0,1.56,-1.0),"l10u_secret_lab",0)
+end
+
+-- с ЧАЭС-1 на ЧАЭС-2
+function aes1_to_aes2()
+    create_level_changer(5485,vector():set(1062.044,-0.098,-1.535),472713,2367,
+    245052,2723,vector():set(1043.175,-0.099,140.014),vector():set(0.0,1.56,-1.0),"l12_stancia_2",0)
+end
+
+-- с ЧАЭС-2 на ЧАЭС-1
+function aes2_to_aes1()
+    create_level_changer(5486,vector():set(1054.050,-0.100,139.413),245052,2723,
+    472436,2367,vector():set(1061.019,-0.100,-14.554),vector():set(0.0,-3.15,-1.0),"l12_stancia",0)
+end
+
+-- с ЧАЭС-1 в Припять
+function aes1_to_pripyat()
+    create_level_changer(5487,vector():set(918.040,-0.100,-406.662),405348,2487,
+    142100,2357,vector():set(31.426,1.032,413.021),vector():set(0.0,-3.15,-1.0),"l11_pripyat",0)
+end
+
+-- со Свалки на Агропром
+function garbage_to_agroprom()
+    create_level_changer(5488,vector():set(-162.082,1.022,-265.917),57249,275,
+    391773,692,vector():set(169.687,1.675,-233.633),vector():set(0.0,1.56,-1.0),"l03_agroprom",0)
+end
+
+-- с Агропрома на Свалку
+function agroprom_to_garbage()
+    create_level_changer(5489,vector():set(184.876,0.274,-237.087),400221,692,
+    67319,275,vector():set(-150.639,0.988,-268.724),vector():set(0.0,-1.58,-1.0),"l02_garbage",0)
+end
+
+-- с Кордона в Темную долину
+function escape_to_darkvalley()
+    create_level_changer(5490,vector():set(370.139,15.235,-43.657),594395,0,
+    122620,815,vector():set(-44.292,0.434,-537.154),vector():set(0.0,0.0,-1.0),"l04_darkvalley",0)
+end
+
+-- из Саркофага на ЧАЭС-1
+function sarcofag_to_aes1()
+    create_level_changer(5491,vector():set(-25.679,0.309,43.011),105,2553,
+    165064,2471,vector():set(380.653,-0.002,26.499),vector():set(0.0,-3.15,-1.0),"l12_stancia",0)
+end
+
+-- с Агропрома на Янтарь
+function agroprom_to_yantar()
+    create_level_changer(5492,vector():set(-217.234,22.090,190.070),20300,593,
+    16373,1488,vector():set(-63.348,-4.049,-343.500),vector():set(0.0,0.0,-1.0),"l08_yantar",0)
+end
+
+-- с Янтаря на Агропром
+function yantar_to_agroprom()
+    create_level_changer(5493,vector():set(-66.873,0.645,-356.059),15229,1488,
+    20976,593,vector():set(-216.354,19.744,179.506),vector():set(0.0,-3.15,-1.0),"l03_agroprom",0)
+end
+
+-- со Свалки в Темную долину
+function garbage_to_darkvalley()
+    create_level_changer(5494,vector():set(279.805,-8.052,-133.157),379766,405,
+    4477,838,vector():set(-164.193,-0.144,-372.775),vector():set(0.0,-1.58,-1.0),"l04_darkvalley",0)
+end
+
+-- из Темной долины на Свалку
+function darkvalley_to_garbage()
+    create_level_changer(5495,vector():set(-170.481,0.675,-373.119),2203,838,
+    376923,405,vector():set(270.119,-8.975,-136.696),vector():set(0.0,1.56,-1.0),"l02_garbage",0)
+end
+
+-- с Янтаря в Мёртвый город
+function yantar_to_deadcity()
+    create_level_changer(5496,vector():set(-24.651,0.543,-2.322),29985,1501,
+    88324,1878,vector():set(-253.053,3.651,-134.923),vector():set(0.0,-0.8,-1.0),"l09_deadcity",0)
+end
+
+-- с Мёртвого города на Радар
+function deadcity_to_radar()
+    create_level_changer(5497,vector():set(-243.018,-1.409,304.077),100363,1877,
+    2427,1951,vector():set(-25.066,-0.973,-82.044),vector():set(0.0,-1.58,-1.0),"l10_radar",0)
+end
+
+-- с Радара на Мёртвый город
+function radar_to_deadcity()
+    create_level_changer(5498,vector():set(-31.348,-1.013,-81.476),644,1951,
+    103881,1877,vector():set(-235.736,-2.086,295.809),vector():set(0.0,-2.35,-1.0),"l09_deadcity",0)
+end
+------------------------------------------------------------------------------------------------------------------------
+-- функция для воспроизведения звука
+function play_sound(sound,obj)
+	if obj == nil then obj = db.actor end
+	snd = xr_sound.get_safe_sound_object(sound)
+	snd:play_no_feedback(obj,sound_object.s2d,0,vector(),1.0)
+end
+------------------------------------------------------------------------------------------------------------------------
+-- функция установки меток на карту
+function add_spot_on_map(obj_id,type,text)
+    if obj_id then
+        if text == nil then text = " " end
+        level.map_add_object_spot_ser(obj_id,type,text)
+    end
+end
+
+-- функция удаления меток с карты
+function remove_spot_from_map(obj_id,type)
+    if obj_id and level.map_has_object_spot(obj_id,type) ~= 0 then
+        level.map_remove_object_spot(obj_id,type)
+    end
+end
+------------------------------------------------------------------------------------------------------------------------
+-- функция для проверки координат ГГ
+function actor_position()
+    local vid = db.actor:level_vertex_id()
+    local gvid = db.actor:game_vertex_id()
+    local a = db.actor:position()
+    local dir = db.actor:direction()
+    local text = "Позиция:\\nX= "..a.x.."\\nY= "..a.y.."\\nZ= "..a.z.."\\nDirX= "..dir.x.."\\nDirY= "..dir.y.."\\nDirZ= "..dir.z.."\\nlevel_vertex= "..vid.."\\ngame_vertex_id= "..gvid
+    news_manager.send_tip(db.actor,text,nil,nil,30000)
+end
+------------------------------------------------------------------------------------------------------------------------
+tips_icons = {default = {432,300,50,50}, encyclopedy_icon = {486,432,50,50}, military_icon = {432,400,50,50}}
+pda_news = xr_sound.get_safe_sound_object([[device\pda\pda_news]])
+pda_tips = xr_sound.get_safe_sound_object([[device\pda\pda_tip]])
+pda_task = xr_sound.get_safe_sound_object([[device\pda\pda_objective]])
+
+-- функция для проигрывания сообщений
+function send_tip(news_text,header,timeout,showtime,sender,sound)
+    if news_text == nil then return end
+    if header == nil then header = game.translate_string("st_tip") end
+    if timeout == nil then timeout = 0 end
+    if showtime == nil then showtime = 5 end
+    local player
+    if sound == "news" then player = pda_news
+    elseif sound == "task" then player = pda_task else player = pda_tips
+    end   
+    player:play(db.actor,timeout,sound_object.s2d)
+    if sender == nil then sender = "default" end
+    local x = tips_icons[sender][1]
+    local y = tips_icons[sender][2]
+    local width  = tips_icons[sender][3] 
+    local height = tips_icons[sender][4]
+    local news_text = "%c[255,160,160,160]"..header.."\\n".."%c[230,255,128,64]"..news_text
+    db.actor:give_game_news(news_text,"ui\\ui_iconsTotal",Frect():set(x,y,width,height),timeout*1000,showtime*1000)
+    return true
+end
