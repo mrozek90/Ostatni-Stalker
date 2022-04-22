@@ -579,7 +579,7 @@
 		<text>Rozpoznawanie NPC</text>
 	</string>
 	<string id="ui_mm_build_crosshair">
-		<text>W³asny celownik</text>
+		<text>Stary celownik</text>
 	</string>
 	<!-- Okno sterowania -->
 	<string id="ui_mm_controls">
