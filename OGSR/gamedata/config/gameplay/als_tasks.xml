@@ -15,15 +15,15 @@
 </game_task>
 
 <game_task id="meet_garfirst_bandits" prio="50">
-		<title>Ugrupowanie Szramy</title>
+		<title>Ugrupowanie Szramaja</title>
 		<objective>
-			<text>Znajdü SzramÍ</text>
+			<text>Znajdü Szramaja</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_2</article>
 			<infoportion_complete>player_complete_meet_garfirst_bandits</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Znajdü SzramÍ</text>
+			<text>Znajdü Szramaja</text>
 			<infoportion_complete>meet_garfirst_bandits_9</infoportion_complete>
 		</objective>
 		<!-- <objective>
@@ -91,13 +91,13 @@
 <game_task id="talk_esc_shamray" prio="50">
 		<title>Na Po≥udnie</title>
 		<objective>
-			<text>Porozmawiaj ze Szramπ</text>
+			<text>Porozmawiaj ze Szramajem</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_3</article>
 			<infoportion_complete>player_complete_talk_esc_shamray</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj ze Szramπ</text>
+			<text>Porozmawiaj ze Szramajem</text>
 			<infoportion_complete>talk_esc_shamray_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -143,7 +143,7 @@
 			<infoportion_complete>player_complete_get_otstoynik_passdoc</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zdobπdü przepustkÍ do Osadnika</text>
+			<text>Zdobπdü przepustkÍ do Osadnika.</text>
 	<map_location_type hint= "esc_cptn_krasnov_name">green_location</map_location_type>
 	<object_story_id>esc_grc_krasnov</object_story_id>
 			<infoportion_complete>get_otstoynik_passdoc_1</infoportion_complete>
@@ -159,7 +159,7 @@
 			<infoportion_complete>player_complete_cross_perimetre</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Odbierz przedmioty ze schowka</text>
+			<text>Zabierz przedmioty ze schowka</text>
 	<map_location_type hint= "shron_hint">green_location</map_location_type>
 	<object_story_id>esc_hazar_shron</object_story_id>
 			<infoportion_complete>cross_perimetre_1</infoportion_complete>
@@ -1206,11 +1206,11 @@
 			<infoportion_fail>actor_refused_cooperation</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Znajdü Gen Hakera.</text>
+			<text>Znajdü Giena Hakera.</text>
 			<infoportion_complete>track_to_limansk_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Daj Genowi pendrive wojskowego stalkera</text>
+			<text>Daj Gienowi pendrive wojskowego stalkera</text>
 			<infoportion_complete>track_to_limansk_2</infoportion_complete>
 		</objective>
 		<objective>
@@ -1326,15 +1326,15 @@
 </game_task>
 
 <game_task id="signal_from_varnak" prio="150">
-		<title>Sygna≥ od £ajdaka</title>
+		<title>Sygna≥ od Warnaka</title>
 		<objective>
-			<text>Sygna≥ od £ajdaka</text>
+			<text>Sygna≥ od Warnaka</text>
 			<icon>ui_iconsTotal_racia</icon>
 			<article>als_help_63</article>
 			<infoportion_complete>player_complete_signal_from_varnak</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poczekaj na wiadomoúÊ od £ajdaka</text>
+			<text>Poczekaj na wiadomoúÊ od Warnaka</text>
 			<infoportion_complete>signal_from_varnak_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -2205,7 +2205,7 @@
 		<objective>
 			<text>ZnaleüÊ zaginionego powinnoúciowca</text>
  	<map_location_type hint= "antigrav_hint">crlc_big</map_location_type>
-	<object_story_id>marsh_dolg_trup</object_story_id> 
+	<object_story_id>marsh_dolg_trup</object_story_id>
 			<infoportion_complete>dr_pirogov_fly_box_1</infoportion_complete>
 		</objective>
 		<objective>
@@ -2489,4 +2489,3 @@
 			<infoportion_complete>_</infoportion_complete>
 		</objective>
 </game_task> -->
-
