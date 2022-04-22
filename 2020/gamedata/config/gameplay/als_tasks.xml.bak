@@ -1,5 +1,5 @@
 
-<game_task id="kill_jj" prio="100">
+<game_task id="kill_jj" prio="5">
 		<title>Zabij Johnnego</title>
 		<objective>
 			<text>Zabij Johnnego</text>
@@ -15,15 +15,15 @@
 </game_task>
 
 <game_task id="meet_garfirst_bandits" prio="50">
-		<title>Ugrupowanie Szamraja</title>
+		<title>Ugrupowanie Szramy</title>
 		<objective>
-			<text>ZnajdŸ Szamraja</text>
+			<text>ZnajdŸ Szramê</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_2</article>
 			<infoportion_complete>player_complete_meet_garfirst_bandits</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnajdŸ Szamraja</text>
+			<text>ZnajdŸ Szramê</text>
 			<infoportion_complete>meet_garfirst_bandits_9</infoportion_complete>
 		</objective>
 		<!-- <objective>
@@ -91,13 +91,13 @@
 <game_task id="talk_esc_shamray" prio="50">
 		<title>Na Po³udnie</title>
 		<objective>
-			<text>Porozmawiaj ze Szamrajem</text>
+			<text>Porozmawiaj ze Szram¹</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_3</article>
 			<infoportion_complete>player_complete_talk_esc_shamray</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj ze Szamrajem</text>
+			<text>Porozmawiaj ze Szram¹</text>
 			<infoportion_complete>talk_esc_shamray_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -143,7 +143,7 @@
 			<infoportion_complete>player_complete_get_otstoynik_passdoc</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zdob¹dŸ przepustkê do Osadnika.</text>
+			<text>Zdob¹dŸ przepustkê do Osadnika</text>
 	<map_location_type hint= "esc_cptn_krasnov_name">green_location</map_location_type>
 	<object_story_id>esc_grc_krasnov</object_story_id>
 			<infoportion_complete>get_otstoynik_passdoc_1</infoportion_complete>
@@ -159,7 +159,7 @@
 			<infoportion_complete>player_complete_cross_perimetre</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabierz przedmioty ze schowka</text>
+			<text>Odbierz przedmioty ze schowka</text>
 	<map_location_type hint= "shron_hint">green_location</map_location_type>
 	<object_story_id>esc_hazar_shron</object_story_id>
 			<infoportion_complete>cross_perimetre_1</infoportion_complete>
@@ -199,9 +199,9 @@
 </game_task>
 
 <game_task id="greetings_from_shamray" prio="40">
-		<title>Pozdrowienia od Szamraja</title>
+		<title>Pozdrowienia od Szramy</title>
 		<objective>
-			<text>Pozdrowienia od Szamraja</text>
+			<text>Pozdrowienia od Szramy</text>
 			<icon>ui_iconsTotal_galash</icon>
 			<article>als_help_9</article>
 			<infoportion_complete>player_complete_greetings_from_shamray</infoportion_complete>
@@ -213,7 +213,7 @@
 			<infoportion_complete>greetings_from_shamray_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Pozdrów Ga³aszê od Szamraja</text>
+			<text>Pozdrów Ga³aszê od Szramy</text>
 			<infoportion_complete>greetings_from_shamray_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -242,7 +242,7 @@
 			<infoportion_complete>signal_for_shamray_done</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Sygna³ od Szamraja</text>
+			<text>Sygna³ od Szramy</text>
 			<infoportion_complete>signal_for_shamray_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -367,7 +367,7 @@
 			<infoportion_complete>fight_on_bogs1_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê ze Szamrajem</text>
+			<text>Spotkaj siê ze Szram¹</text>
 	<map_location_type hint= "shamray_name">green_location</map_location_type>
 	<object_story_id>marsh_shamray_1</object_story_id>
 			<infoportion_complete>fight_on_bogs1_2</infoportion_complete>
@@ -437,7 +437,7 @@
 			<infoportion_complete>player_complete_fight_on_bogs3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Szamrajem</text>
+			<text>Porozmawiaj z Szram¹</text>
 	<map_location_type hint= "shamray_name">green_location</map_location_type>
 	<object_story_id>marsh_shamray_1</object_story_id>
 			<infoportion_complete>fight_on_bogs3_1</infoportion_complete>
@@ -561,7 +561,7 @@
 			<infoportion_complete>player_complete_detector_of_dead_man</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnajdŸ detektor Morloka</text>
+			<text>ZnaldŸ detektor Morloka</text>
 	<map_location_type hint= "marsh_peshera_corpse_hint">green_location</map_location_type>
 	<object_story_id>marsh_peshera_corpse</object_story_id>
 			<infoportion_complete>detector_of_dead_man_1</infoportion_complete>
@@ -569,9 +569,9 @@
 </game_task>
 
 <game_task id="marsh_meet_deadman" prio="100">
-		<title>Opiekun schronu</title>
+		<title>Opiekun schowka</title>
 		<objective>
-			<text>Opiekun schronu</text>
+			<text>Opiekun schowka</text>
 			<icon>ui_iconsTotal_dedman</icon>
 			<article>als_help_26</article>
 			<infoportion_complete>player_complete_marsh_meet_deadman</infoportion_complete>
@@ -796,7 +796,7 @@
 			<infoportion_complete>player_complete_work_on_corporation</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Pulewiczem</text>
+			<text>Spotkaj siê z Kulawym</text>
 	<map_location_type hint= "grc_agent_name">blue_location</map_location_type>
 	<object_story_id>sor_grc_agent</object_story_id>
 			<infoportion_complete>work_on_corporation_1</infoportion_complete>
@@ -905,7 +905,7 @@
 			<infoportion_fail>transfer_agru_hsm_box_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Poczekaj na cz³owieka Pulewicza</text>
+			<text>Poczekaj na cz³owieka Kulawego</text>
 	<map_location_type hint= "meet_point">green_location</map_location_type>
 	<object_story_id>agr_hsm_meet_point</object_story_id>
 			<infoportion_complete>transfer_agru_hsm_box_1</infoportion_complete>
@@ -951,7 +951,7 @@
 			<infoportion_complete>container_number_two_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Skontaktuj siê z Pulewiczem</text>
+			<text>Skontaktuj siê z Kulawym</text>
 			<infoportion_complete>container_number_two_3</infoportion_complete>
 		</objective>
 </game_task>
@@ -981,7 +981,7 @@
 			<infoportion_complete>foolish_plan_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Pulewiczem</text>
+			<text>Porozmawiaj z Kulawym</text>
 			<infoportion_complete>foolish_plan_4</infoportion_complete>
 		</objective>
 </game_task>
@@ -1035,6 +1035,7 @@
 			<icon>ui_iconsTotal_book</icon>
 			<article>als_help_48</article>
 			<infoportion_complete>player_complete_find_necronomicon</infoportion_complete>
+<!-- 1linia wziête z OGSR -->
 			<infoportion_fail>esc_panzer_told</infoportion_fail>
 		</objective>
 		<objective>
@@ -1206,11 +1207,11 @@
 			<infoportion_fail>actor_refused_cooperation</infoportion_fail>
 		</objective>
 		<objective>
-			<text>ZnajdŸ Gienia Hakera.</text>
+			<text>ZnajdŸ Gen Hakera.</text>
 			<infoportion_complete>track_to_limansk_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Daj Gienowi pendrive wojskowego stalkera</text>
+			<text>Daj Genowi pendrive wojskowego stalkera</text>
 			<infoportion_complete>track_to_limansk_2</infoportion_complete>
 		</objective>
 		<objective>
@@ -1241,8 +1242,8 @@
 <game_task id="glade_centre" prio="10">
 		<title>Miejsce spotkania</title>
 		<objective>
-			<text>Miejsce spotkania</text>
-			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<text>Punkt spotkania</text>
+			<icon>ui_iconsTotal_dushman</icon>
 			<article>als_help_59</article>
 			<infoportion_complete>player_complete_glade_centre</infoportion_complete>
 		</objective>
@@ -1276,7 +1277,7 @@
 		<title>Jeden na jednego</title>
 		<objective>
 			<text>Jeden na jednego</text>
-			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<icon>ui_iconsTotal_mogila</icon>
 			<article>als_help_61</article>
 			<infoportion_complete>player_complete_in_private</infoportion_complete>
 		</objective>
@@ -1326,15 +1327,15 @@
 </game_task>
 
 <game_task id="signal_from_varnak" prio="150">
-		<title>Sygna³ od Warnaka</title>
+		<title>Sygna³ od £ajdaka</title>
 		<objective>
-			<text>Sygna³ od Warnaka</text>
+			<text>Sygna³ od £ajdaka</text>
 			<icon>ui_iconsTotal_racia</icon>
 			<article>als_help_63</article>
 			<infoportion_complete>player_complete_signal_from_varnak</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poczekaj na wiadomoœæ od Warnaka</text>
+			<text>Poczekaj na wiadomoœæ od £ajdaka</text>
 			<infoportion_complete>signal_from_varnak_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1401,7 +1402,7 @@
 			<infoportion_complete>player_complete_take_away_passports</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z kapitanem Parszinem</text>
+			<text>Porozmawiaj z kapitanem Parszywym</text>
 	<map_location_type hint= "cptn_parshin_name">green_location</map_location_type>
 	<object_story_id>sor_baza_commander</object_story_id>
 			<infoportion_complete>take_away_passports_1</infoportion_complete>
@@ -1441,7 +1442,7 @@
 			<infoportion_complete>vague_memoirs_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zanieœ artefakt do ¯wawego</text>
+			<text>Zanieœ artefakt do Zwinnego</text>
 	<map_location_type hint= "esc_shustryi_name">green_location</map_location_type>
 	<object_story_id>sor_sidor_stalker_1</object_story_id>
 			<infoportion_complete>vague_memoirs_2</infoportion_complete>
@@ -1455,10 +1456,9 @@
 			<icon>ui_iconsTotal_locations</icon>
 			<article>als_help_69</article>
 			<infoportion_complete>player_complete_dark_valley_abnormal_activity</infoportion_complete>
-			<infoportion_fail>dark_valley_abnormal_activity_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Aktywnoœæ w Dolinie Mroku</text>
+			<text>Zwiadowca z Doliny Mroku</text>
 			<infoportion_complete>dark_valley_abnormal_activity_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1478,13 +1478,13 @@
 			<infoportion_complete>dark_valley_abnormal_activity2_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Otwórz sejf Szokera</text>
+			<text>Otwórz sejf Paskudy</text>
 	<map_location_type hint= "val_safe_door_hint">green_location</map_location_type>
 	<object_story_id>val_safe_door</object_story_id>
 			<infoportion_complete>dark_valley_abnormal_activity2_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>WeŸ pendrive Szokera</text>
+			<text>WeŸ pendrive Paskudy</text>
 	<map_location_type hint= "val_shocker_flash_fake_hint">green_location</map_location_type>
 	<object_story_id>val_shocker_flash_fake</object_story_id>
 			<infoportion_complete>dark_valley_abnormal_activity2_3</infoportion_complete>
@@ -1513,7 +1513,6 @@
 			<icon>ui_iconsTotal_agr_agr_help_krot</icon>
 			<article>als_help_71</article>
 			<infoportion_complete>player_complete_gone_nestor</infoportion_complete>
-			<infoportion_fail>gone_nestor_1_fail</infoportion_fail>
 		</objective>
 		<objective>
 			<text>Porozmawiaj z Gruberem</text>
@@ -1528,11 +1527,11 @@
 			<icon>ui_iconsTotal_agr_agr_help_krot</icon>
 			<article>als_help_72</article>
 			<infoportion_complete>player_complete_gone_nestor_2</infoportion_complete>
-			<infoportion_fail>gone_nestor_2_fail</infoportion_fail>
 		</objective>
 		<objective>
 			<text>ZnajdŸ jakiekolwiek informacje o Nestorze</text>
 			<infoportion_complete>gone_nestor_2_1</infoportion_complete>
+			<infoportion_fail>gone_nestor_2_fail</infoportion_fail>
 		</objective>
 </game_task>
 
@@ -1614,6 +1613,7 @@
 			<icon>ui_iconsTotal_sortirovka</icon>
 			<article>als_help_77</article>
 			<infoportion_complete>player_complete_secrets_of_diggers</infoportion_complete>
+			<infoportion_fail>secrets_of_diggers_fail</infoportion_fail>
 		</objective>
 		<objective>
 			<text>ZnajdŸ skrytkê kopaczy</text>
@@ -1837,11 +1837,11 @@
 			<infoportion_complete>player_complete_peace_talker</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Pulewiczem</text>
+			<text>Porozmawiaj z Kulawym</text>
 			<infoportion_complete>peace_talker_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabierz Pulewicza do Kordonu</text>
+			<text>Zabierz Kulawego do Kordonu</text>
 			<infoportion_complete>peace_talker_2</infoportion_complete>
 		</objective>
 		<objective>
@@ -1939,7 +1939,7 @@
 			<infoportion_complete>player_complete_unknown_persons</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Nieznanymi na posterunku</text>
+			<text>Spotkaæ siê z nieznanymi na posterunku</text>
 	<map_location_type hint= "block_post_hint">green_location</map_location_type>
 	<object_story_id>gar_raider_meet_point</object_story_id>
 			<infoportion_complete>unknown_persons_1</infoportion_complete>
@@ -1998,9 +1998,9 @@
 </game_task>
 
 <game_task id="group_poisk_hiding_place" prio="100">
-		<title>Schowek grupy Poszukiwaczy</title>
+		<title>Schowek grupy "Poszukiwaczy"</title>
 		<objective>
-			<text>Schowek grupy Poszukiwaczy</text>
+			<text>Schowek grupy "Poszukiwaczy"</text>
 			<icon>ui_iconsTotal_artefact</icon>
 			<article>als_help_100</article>
 			<infoportion_complete>player_complete_group_poisk_hiding_place</infoportion_complete>
@@ -2026,7 +2026,7 @@
 		<objective>
 			<text>Porozmawiaj z Zo³otym o drodze do Limañska</text>
 	<map_location_type hint= "sor_m_barman_hint">green_location</map_location_type>
-	<object_story_id>sor_gold</object_story_id>
+	<object_story_id>sor_m_barman</object_story_id>
 			<infoportion_complete>tell_to_gold_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -2080,8 +2080,8 @@
 <game_task id="the_last_stalker" prio="10">
 		<title>Ostatni Stalker</title>
 		<objective>
-			<text>Ostatni stalker</text>
-			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
+			<text>Ostatni Stalker</text>
+			<icon>greese_tasks</icon>
 			<article>als_help_105</article>
 			<infoportion_complete>player_complete_the_last_stalker</infoportion_complete>
 		</objective>
@@ -2143,7 +2143,7 @@
 </game_task>
 
 <game_task id="kill_iron_mask" prio="100">
-		<title>Ostatni bastion</title>
+		<title>OStatni bastion</title>
 		<objective>
 			<text>Ostatni bastion</text>
 			<icon>xenomorph_tasks</icon>
@@ -2162,7 +2162,6 @@
 		<objective>
 			<text>Artefakty ze Zmierzchu</text>
 			<icon>ui_iconsTotal_tutorial_find_artefact</icon>
-			<article>artefacts_obscure</article>
 			<infoportion_complete>player_complete_artefacts_from_obscure</infoportion_complete>
 		</objective>
 		<objective>
@@ -2193,28 +2192,23 @@
 		</objective>
 </game_task>
 
-<game_task id="dr_pirogov_fly_box" prio="100">
-		<title>Aparatura z drona</title>
+<game_task id="stancia_and_monolith_1" prio="100">
+		<title>Stacja, Monolit i "Warlock-666"</title>
 		<objective>
-			<text>Aparatura z drona</text>
-			<icon>ui_iconsTotal_locations</icon>
-			<article>als_help_200</article>
-			<infoportion_complete>dr_pirogov_fly_box_end</infoportion_complete>
-		</objective>
-
-		<objective>
-			<text>ZnaleŸæ zaginionego powinnoœciowca</text>
- 	<map_location_type hint= "antigrav_hint">crlc_big</map_location_type>
-	<object_story_id>marsh_dolg_trup</object_story_id>
-			<infoportion_complete>dr_pirogov_fly_box_1</infoportion_complete>
+			<text>Stacja, Monolit i "Warlock-666"</text>
+			<icon>ui_iconsTotal_aes_military_task</icon>
+			<article>als_help_109</article>
+			<infoportion_complete>player_complete_stancia_and_monolith_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ zestaw badawczy</text>
-			<infoportion_complete>dr_pirogov_fly_box_2</infoportion_complete>
+			<text>Przeka¿ has³o dowódcy grupy Monolitu</text>
+			<infoportion_complete>stancia_and_monolith_1_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wróciæ do doktora Prigorowa</text>
-			<infoportion_complete>dr_pirogov_fly_box_3</infoportion_complete>
+			<text>Zabierz Warlocka-666 ze skrytki</text>
+	<map_location_type hint= "aes_warlok_skhron_hint">green_location</map_location_type>
+	<object_story_id>aes_warlok_skhron</object_story_id>
+			<infoportion_complete>stancia_and_monolith_1_2</infoportion_complete>
 		</objective>
 </game_task>
 
@@ -2236,27 +2230,6 @@
 		</objective>
 </game_task>
 
-<game_task id="stancia_and_monolith_1" prio="100">
-		<title>Stacja, Monolit i "Warlock-666"</title>
-		<objective>
-			<text>Stacja, Monolit i "Warlock-666"</text>
-			<icon>ui_iconsTotal_aes_military_task</icon>
-			<article>als_help_109</article>
-			<infoportion_complete>player_complete_stancia_and_monolith_1</infoportion_complete>
-		</objective>
-		<objective>
-			<text>Przeka¿ has³o dowódcy grupy Monolitu</text>
-			<infoportion_complete>stancia_and_monolith_1_1</infoportion_complete>
-		</objective>
-		<objective>
-			<text>Zabierz Warlocka-666 ze skrytki</text>
-	<map_location_type hint= "aes_warlok_skhron_hint">green_location</map_location_type>
-	<object_story_id>aes_warlok_skhron</object_story_id>
-			<infoportion_complete>stancia_and_monolith_1_2</infoportion_complete>
-		</objective>
-</game_task>
-
-
 <game_task id="push_cars" prio="100">
 		<title>Ulepszacze</title>
 		<objective>
@@ -2271,9 +2244,9 @@
 </game_task>
 
 <game_task id="shocker_group_shron" prio="100">
-		<title>Wdziêcznoœæ Szokera</title>
+		<title>Wdziêcznoœæ Paskudy</title>
 		<objective>
-			<text>Wdziêcznoœæ Szokera</text>
+			<text>Wdziêcznoœæ Paskudy</text>
 			<icon>money_tasks</icon>
 			<infoportion_complete>player_complete_shocker_group_shron</infoportion_complete>
 		</objective>

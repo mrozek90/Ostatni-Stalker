@@ -21,7 +21,7 @@
         <text>1.	Szturmowaæ? A na cholerê?! Jestem pewny, ¿e GRC przeka¿e Perymetr bez walki.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_3">
-        <text>Sk¹d takie wiadomoœci? Uwierzy³eœ Pulewiczowi?</text>
+        <text>Sk¹d takie wiadomoœci? Uwierzy³eœ Kulawemu?</text>
     </string>
 	<string id="sor_ivancov_dialog_10_4">
         <text>Mam inne Ÿród³o.</text>
@@ -63,7 +63,7 @@
         <text>S³ucham.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_17">
-        <text>Giena haker pracuje dla Powinnoœci. I nie che mi pomóc z deszyfracj¹.</text>
+        <text>Gen haker pracuje dla Powinnoœci. I nie che mi pomóc z deszyfracj¹.</text>
     </string>
 	<string id="sor_ivancov_dialog_10_18">
         <text>Rozumiem. IdŸ do Gena, on pomo¿e. A potem Ty pomo¿esz Powinnoœci. Umowa stoi?</text>
@@ -139,10 +139,10 @@
         <text>… Dobra. No, a o jakim warunku mówi³eœ Iwancowowi?</text>
     </string>
 	<string id="sor_panzer_dialog_1_3">
-        <text>Giena haker pracuje dla Powinnoœci. I odmawia mi pomocy z deszyfracj¹.</text>
+        <text>Gen haker pracuje dla Powinnoœci. I odmawia mi pomocy z deszyfracj¹.</text>
     </string>
 	<string id="sor_panzer_dialog_1_4">
-        <text>Rozumiem. IdŸ do Giena, pomo¿e Ci.</text>
+        <text>Rozumiem. IdŸ do Gena, pomo¿e Ci.</text>
     </string>
 	<string id="sor_panzer_dialog_1_5">
         <text>A jak¿e.</text>
@@ -170,7 +170,7 @@
         <text>Pendrive wojskowych stalkerów.</text>
     </string>
 	<string id="gena_hacker_dialog_2_7">
-        <text>Pendrive Szokera.</text>
+        <text>Pendrive Paskudy.</text>
     </string>
 	<string id="gena_hacker_dialog_2_8">
         <text>PDA ¿o³nierza z Bagien.</text>
@@ -210,7 +210,7 @@
         <text>PDA Brzytwy.</text>
     </string>
 	<string id="gena_hacker_dialog_3_5">
-        <text>PDA doktora Brawermana.</text>
+        <text>PDA doktora Bravermana.</text>
     </string>
 	<string id="gena_hacker_dialog_3_6">
         <text>Fleszka wojskowych stalkerów.</text>
@@ -266,7 +266,7 @@
         <text>Przecie¿ on by³ nieŸle stukniêty. I nie przys³uchiwa³em siê co tam be³kota³. Nie przys³uchiwa³em siê i nie zapamiêtywa³em.</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_3_2">
-        <text>Piêæ tysiêcy pomo¿e Twojej pamiêci.</text>
+        <text>Piêæ tysiêcy pomo¿e twojej pamiêci.</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_3_3">
         <text>Piêæ - raczej nie pomo¿e. Piêtnaœcie - pomo¿e, piêtnaœcie tysiêcy podzia³a na mój mózg, jak preparat nootropiczny.</text>
@@ -306,7 +306,7 @@
     </string>
 
 	<string id="marsh_bandit_siply_dialog_2_0">
-        <text>No i co Ty tu ca³¹ drogê siê krêcisz?!</text>
+        <text>No i co ty tu ca³¹ drogê siê krêcisz?!</text>
     </string>
 	<string id="marsh_bandit_siply_dialog_2_1">
         <text>Grek, nie denerwuj siê. Je¿eli potrzebujesz informacji - zapytaj. I je¿eli wiem, to siê podzielê.</text>
@@ -565,7 +565,7 @@
     </string>
 
 	<string id="red_kasper_dialog_2_0">
-        <text>Wiêc. Giena haker wiadomoœæ Ci przesy³a.</text>
+        <text>Wiêc. Gen haker wiadomoœæ Ci przesy³a.</text>
     </string>
 	<string id="red_kasper_dialog_2_1">
         <text>I z tego powodu tu gna³eœ? A nie by³o proœciej przez radio?</text>
@@ -577,7 +577,7 @@
         <text>Sk¹d znasz moj¹ marszrutê?</text>
     </string>
 	<string id="red_kasper_dialog_2_4">
-        <text>He. Gienia powiedzia³, niby ¿e, je¿eli Grek ¿yje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
+        <text>He. Gen powiedzia³, niby ¿e, je¿eli Grek ¿yje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
     </string>
 	<string id="red_kasper_dialog_2_5">
         <text>Panzer Ciebie jednego na wzmocnienie wys³a³?</text>
@@ -586,7 +586,7 @@
         <text>Czemu jednego? Trzech nas by³o. Tamci zdezerterowali. Ch³opie, mam wszystko w dupie, a Panzera - szczególnie. Za Perymetrem skrêcili na Bagna. Mnie ze sob¹ wo³ali. Ale ja nic tam nie zgubi³em, na Wielkiej Ziemi.</text>
     </string>
 	<string id="red_kasper_dialog_2_7">
-        <text>Rozumiem. Kasper, coœ o wiadomoœci od Giena mówi³eœ.</text>
+        <text>Rozumiem. Kasper, coœ o wiadomoœci od Gena mówi³eœ.</text>
     </string>
 
 	<string id="red_kasper_dialog_3_0">
@@ -596,7 +596,7 @@
         <text>Sk¹d znasz moj¹ marszrutê?</text>
     </string>
 	<string id="red_kasper_dialog_3_2">
-        <text>He. Giena powiedzia³, niby ¿e, je¿eli Grek ¿yje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
+        <text>He. Gen powiedzia³, niby ¿e, je¿eli Grek ¿yje, to znajdziesz go w Czerwonym Lesie, przy rzece.</text>
     </string>
 	<string id="red_kasper_dialog_3_3">
         <text>Panzer Ciebie jednego na wzmocnienie wys³a³?</text>
@@ -692,7 +692,7 @@
         <text>Tak. Oto ono.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_9">
-        <text>Nie. Je¿eli jest wam potrzebne - zajrzyjcie do Giena hakera. Mo¿ecie powo³aæ siê na mnie.</text>
+        <text>Nie. Je¿eli jest wam potrzebne - zajrzyjcie do u Gena hakera. Mo¿ecie powo³aæ siê na mnie.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_10">
         <text>Nie.</text>
@@ -744,7 +744,7 @@
         <text>Tak. Oto ono.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_var_9">
-        <text>Nie. Je¿eli jest wam potrzebne - zapytajcie u Giena hakera. Mo¿ecie powo³aæ siê na mnie.</text>
+        <text>Nie. Je¿eli jest wam potrzebne - zapytajcie u Gena hakera. Mo¿ecie powo³aæ siê na mnie.</text>
     </string>
 	<string id="dr_luzenko_dialog_1_var_10">
         <text>Nie.</text>
@@ -790,7 +790,7 @@
         <text>Tak. Oto ono.</text>
     </string>
 	<string id="dr_luzenko_dialog_2_7">
-        <text>Nie. Je¿eli jest wam potrzebne - zapytajcie u Giena hakera. Mo¿ecie powo³aæ siê na mnie.</text>
+        <text>Nie. Je¿eli jest wam potrzebne - zapytajcie u Gena hakera. Mo¿ecie powo³aæ siê na mnie.</text>
     </string>
 	<string id="dr_luzenko_dialog_2_8">
         <text>Nie.</text>
@@ -2597,7 +2597,7 @@
         <text>Teraz rozumiem. S³uchaj, Grek - oddam Ci dzia³kê Nestora, w porz¹dku?</text>
     </string>
 	<string id="esc_shustryi_dialog_1_5">
-        <text>IdŸ w cholerê, ¯wawy!</text>
+        <text>IdŸ w cholerê, Zwinny!</text>
     </string>
 	<string id="esc_shustryi_dialog_1_6">
         <text>Rozumiesz, chciwy durniu, ¿e pomagaliœcie kosmicznemu bandycie zbiec z naszej planety i ¿e on móg³ potem wróciæ?</text>

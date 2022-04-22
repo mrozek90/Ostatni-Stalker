@@ -3,7 +3,7 @@
 
 	<!-- update -->
 	<string id="shocker_pda_name">
-		<text>PDA Szokera</text>
+		<text>PDA Paskudy</text>
 	</string>
 	<string id="shocker_pda_description">
 		<text>„Trudno zapamiêtaæ, brak skojarzeñ: \n Kod zamka: 2419. \n Kod dezaktywacji wie¿y: 6740. \n Co najwa¿niejsze, nie mo¿na wy³¹czyæ generatora bez uprzedniego prze³¹czenia systemu w tryb konserwacji. \n To konieczne”.</text>
@@ -20,7 +20,7 @@
 		<text>Koraliki</text>
 	</string>
 	<string id="bormans_beads_description">
-		<text>Koraliki Leshy Bormana</text>
+		<text>Koraliki Leshy Borman</text>
 	</string>
 
 	<string id="ocp_perfocard_name">
@@ -241,7 +241,7 @@
 </string>
 
 <string id="gena_maljawa_name">
-	<text>Notatka Giena Hakera</text>
+	<text>Notatka Gen Hakera</text>
 </string>
 
 <string id="gena_maljawa_description">
@@ -403,26 +403,26 @@
 </string>
 
 <string id="hsm_box_1_name">
-	<text>Kontener #1</text>
+	<text>Skrzynka #1</text>
 </string>
 <string id="hsm_box_2_name">
-	<text>Kontener #2</text>
+	<text>Skrzynka #2</text>
 </string>
 <string id="hsm_box_3_name">
-	<text>Kontener #3</text>
+	<text>Skrzynka #3</text>
 </string>
 <string id="hsm_box_4_name">
-	<text>Kontener #4</text>
+	<text>Skrzynka #4</text>
 </string>
 <string id="hsm_box_5_name">
-	<text>Kontener #5</text>
+	<text>Skrzynka #5</text>
 </string>
 <string id="hsm_box_description">
 	<text>Jeden z kontenerów oznaczonych skrótem "HSM-***"</text>
 </string>
 
 <string id="panz_encryption_malyawa_description">
-	<text>«Do znalazcy! Proszê zwróciæ ten dokument Onisimowi ps "Pulewicz". Sortownia, miasteczko wojskowe. Gwarantowana wysoka nagroda.» \n Dalej - tabele liczb.</text>
+	<text>«Do znalazcy! Proszê zwróciæ ten dokument Onisimowi ps "Kulawy". Sortownia, miasteczko wojskowe. Gwarantowana wysoka nagroda.» \n Dalej - tabele liczb.</text>
 </string>
 
 <string id="blade_radiokey_name">
@@ -469,7 +469,7 @@
 
 
 <string id="shocker_flash_name">
-	<text>Pendrive Szokera</text>
+	<text>Pendrive Paskudy</text>
 </string>
 <string id="shocker_flash_description">
 	<text>Informacja zaszyfrowana.</text>

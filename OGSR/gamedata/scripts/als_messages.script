@@ -1,4 +1,4 @@
-Giena Hakerfunction forbitten()
+function forbitten()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]BO¯E, NIE BIERZ GO£YMI £APAMI!!!", nil, nil, 10000)
 end
 
