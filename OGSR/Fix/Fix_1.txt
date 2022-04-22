@@ -1,0 +1,12 @@
+Ostatni Stalker v.1.3 (x64 OGSR)
+
+Poprawka nr 1.
+Lista zmian:
+1. Korekta awarii gry swobodnej w X-10 z powodu braku schematu dzwiekowego.
+2. Wymuszona aktywacja slotow szybkiego uzycia F1-F4.
+3. Eksplodowane miny calkowicie znikaja z lokacji.
+4. Drobne poprawki dla lokalizacji oswietlenia.
+
+
+Instalacja: umiesc pliki w folderze z zainstalowanym modem.
+Nowa Gra nie jest wymagana.
