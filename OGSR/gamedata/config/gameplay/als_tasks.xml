@@ -15,15 +15,15 @@
 </game_task>
 
 <game_task id="meet_garfirst_bandits" prio="50">
-		<title>Ugrupowanie Szramaja</title>
+		<title>Ugrupowanie Szamraja</title>
 		<objective>
-			<text>Znajdü Szramaja</text>
+			<text>Znajdü Szamraja</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_2</article>
 			<infoportion_complete>player_complete_meet_garfirst_bandits</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Znajdü Szramaja</text>
+			<text>Znajdü Szamraja</text>
 			<infoportion_complete>meet_garfirst_bandits_9</infoportion_complete>
 		</objective>
 		<!-- <objective>
@@ -91,13 +91,13 @@
 <game_task id="talk_esc_shamray" prio="50">
 		<title>Na Po≥udnie</title>
 		<objective>
-			<text>Porozmawiaj ze Szramajem</text>
+			<text>Porozmawiaj ze Szamrajem</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_3</article>
 			<infoportion_complete>player_complete_talk_esc_shamray</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj ze Szramajem</text>
+			<text>Porozmawiaj ze Szamrajem</text>
 			<infoportion_complete>talk_esc_shamray_1</infoportion_complete>
 		</objective>
 </game_task>
