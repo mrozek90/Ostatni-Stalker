@@ -464,7 +464,7 @@
 	</string>
 
 	<string id="ui_mm_renderer">
-		<text>Typ renderowania</text>
+		<text>Tryb renderowania</text>
 	</string>
 	<string id="renderer_r1">
 		<text>Oœwietlenie statyczne</text>
@@ -486,7 +486,7 @@
 	</string>
 
 	<string id="ui_mm_r2_actor_shadow">
-		<text>Cieñie bohatera</text>
+		<text>Cieñ bohatera</text>
 	</string>
 
 	<string id="ui_mm_r2_glows_use">

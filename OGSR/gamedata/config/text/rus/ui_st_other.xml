@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="id_mp_money">
-		<text>Деньги</text>
+		<text>Pieni№dze</text>
 	</string>
 	<string id="mm_mp_pda_hunt">
-		<text>Бонус за КПК</text>
+		<text>Premia za PDA</text>
 	</string>
 
 	<string id="ui_mm_fov">
-		<text>Угол обзора</text>
+		<text>K№t widzenia</text>
 	</string>
 	<string id="ui_mm_fov55">
 		<text>55</text>
@@ -26,7 +26,7 @@
 		<text>90</text>
 	</string>
 	<string id="ui_mm_scope">
-		<text>Прицельные сетки для мониторов</text>
+		<text>Siatki do monitorуw</text>
 	</string>
 	<string id="ui_mm_scope43">
 		<text>4x3</text>
@@ -44,332 +44,332 @@
 		<text>21x9</text>
 	</string>
 	<string id="st_drink">
-		<text>выпить</text>
+		<text>Picie</text>
 	</string>
 	<string id="st_mp_direct_ip">
-		<text>Прямой IP</text>
+		<text>Bezpoњredni adres IP</text>
 	</string>
 	<string id="ui_mm_default">
-		<text>По умолчанию</text>
+		<text>Domyњlnie</text>
 	</string>
 	<string id="ui_mm_detail_density">
-		<text>Плотность травы</text>
+		<text>Gкstoњж trawy</text>
 	</string>
 	<string id="ui_mm_r2_sun">
-		<text>Тень от солнца</text>
+		<text>Cieс od sіoсca</text>
 	</string>
 	<string id="ui_mm_r2_sun_details">
-		<text>Тень травы</text>
+		<text>Cieс trawy</text>
 	</string>
 	<string id="ui_mm_render_2">
-		<text>Рендер-2</text>
+		<text>Render-2</text>
 	</string>
 	<string id="ui_pda_details">
-		<text># /детали</text>
+		<text># /Detale</text>
 	</string>
 	<string id="ui_st_btn_cancel">
-		<text>Отмена</text>
+		<text>Anuluj</text>
 	</string>
 	<string id="ui_st_btn_no">
-		<text>Нет</text>
+		<text>Nie</text>
 	</string>
 	<string id="ui_st_btn_ok">
-		<text>ОК</text>
+		<text>OK</text>
 	</string>
 	<string id="ui_st_btn_yes">
-		<text>Да</text>
+		<text>Tak</text>
 	</string>
 	<string id="ui_st_cant_run_r2">
-		<text>Вы не можете запустить второй рендер на вашем компьютере</text>
+		<text>Nie moїesz uruchomiж drugiego renderowania na swoim komputerze</text>
 	</string>
 	<string id="ui_st_conn_invalid_host">
-		<text>Ошибка соединения: неверный хост</text>
+		<text>Bі№d poі№czenia: nieprawidіowy host</text>
 	</string>
 	<string id="ui_st_conn_invalid_pass">
-		<text>Ошибка соединения: неверный пароль</text>
+		<text>Bі№d poі№czenia: nieprawidіowe hasіo</text>
 	</string>
 	<string id="ui_st_conn_rejected_server">
-		<text>Ошибка соединения: соединение прервано сервером</text>
+		<text>Bі№d poі№czenia: poі№czenie przerwane przez serwer</text>
 	</string>
 	<string id="ui_st_conn_sess_full">
-		<text>Ошибка соединения: сервер заполнен</text>
+		<text>Bі№d poі№czenia: serwer jest peіny</text>
 	</string>
 	<string id="ui_st_days">
-		<text>дн.</text>
+		<text>dni.</text>
 	</string>
 	<string id="ui_st_error">
-		<text>Ошибка</text>
+		<text>Bі№d</text>
 	</string>
 	<string id="ui_st_file_exist_owerwrite_q">
-		<text>Файл с таким именем уже существует. Перезаписать?</text>
+		<text>Plik o tej nazwie juї istnieje. Nadpisaж?</text>
 	</string>
 	<string id="ui_st_file_name_is_empty">
-		<text>Имя файла пустое</text>
+		<text>Nazwa pliku jest pusta.</text>
 	</string>
 	<string id="ui_st_hours">
-		<text>час.</text>
+		<text>godz.</text>
 	</string>
 	<string id="ui_st_leave">
-		<text>Уйти</text>
+		<text>Wyjdџ</text>
 	</string>
 	<string id="ui_st_mins">
-		<text>мин.</text>
+		<text>min.</text>
 	</string>
 	<string id="ui_st_months">
-		<text>мес.</text>
+		<text>mies.</text>
 	</string>
 	<string id="ui_st_params">
-		<text>Параметры</text>
+		<text>Parametry</text>
 	</string>
 	<string id="ui_st_secs">
-		<text>сек.</text>
+		<text>sek.</text>
 	</string>
 	<string id="ui_st_select_one_map">
-		<text>Пожалуйста, выберите хотя бы одну карту</text>
+		<text>Wybierz co najmniej jedn№ mapк.</text>
 	</string>
 	<string id="ui_st_take_all">
-		<text>Взять все</text>
+		<text>Zaznacz wszystko</text>
 	</string>
 	<string id="ui_st_time_remains">
-		<text>Осталось</text>
+		<text>Zostaіo</text>
 	</string>
 	<string id="ui_st_trade">
-		<text>Торговать</text>
+		<text>Handel</text>
 	</string>
 	<string id="ui_st_voting_disabled">
-		<text>Голосование отключено</text>
+		<text>Gіosowanie wyі№czone</text>
 	</string>
 	<string id="ui_st_want_to_leave_game_q">
-		<text>Вы действительно хотите покинуть игру?</text>
+		<text>Czy na pewno chcesz opuњciж grк?</text>
 	</string>
 	<string id="ui_st_your_items">
-		<text>Вещи Грека</text>
+		<text>Przedmioty Greka</text>
 	</string>
 	<string id="st_game_over_press_jump">
-		<text>Нажмите ($$ACTION_JUMP$$) для выхода в главное меню</text>
+		<text>Naciњnij ($$ACTION_JUMP$$) aby wyjњж do menu gіуwnego</text>
 	</string>
 	<string id="st_level">
-		<text>Уровень</text>
+		<text>Poziom.</text>
 	</string>
 	<string id="st_opening_stream">
-		<text>Открытие потока</text>
+		<text>Otwieranie streamu.</text>
 	</string>
 	<string id="st_loading_cform">
-		<text>Загрузка формы объектов</text>
+		<text>Јadowanie ksztaіtu obiektуw.</text>
 	</string>
 	<string id="st_prefetching_objects">
-		<text>Кэширование объектов</text>
+		<text>Buforowanie obiektуw.</text>
 	</string>
 	<string id="st_creating_new_game">
-		<text>Создание новой игры</text>
+		<text>Tworzenie nowej gry.</text>
 	</string>
 	<string id="st_loading_alife_simulator">
-		<text>Сервер: Загрузка симуляции жизни</text>
+		<text>Serwer: Јadowanie symulacji їycia...</text>
 	</string>
 	<string id="st_server_connecting">
-		<text>Сервер: Соединяемся</text>
+		<text>Serwer: Ј№czenie...</text>
 	</string>
 	<string id="st_loading_saved_game">
-		<text>Загрузка игры</text>
+		<text>Wczytywanie zapisanej gry...</text>
 	</string>
 	<string id="st_validating_cdkey">
-		<text>Проверка ключа</text>
+		<text>Weryfikacja klucza...</text>
 	</string>
 	<string id="st_loading_ai_objects">
-		<text>Загрузка ИИ объектов</text>
+		<text>Wczytywanie NPC...</text>
 	</string>
 	<string id="st_client_connecting_to">
-		<text>Клиент: Соединение с</text>
+		<text>Klient: Ј№czenie...</text>
 	</string>
 	<string id="st_client_spawning">
-		<text>Клиент: Создание</text>
+		<text>Klient: Spawning.</text>
 	</string>
 	<string id="st_loading_textures">
-		<text>Загрузка текстур</text>
+		<text>Јadowanie tekstur.</text>
 	</string>
 	<string id="st_client_synchronising">
-		<text>Клиент: Синхронизация</text>
+		<text>Klient: Synchronizacja...</text>
 	</string>
 	<string id="st_server_starting">
-		<text>Сервер: Старт</text>
+		<text>Serwer: Start!</text>
 	</string>
 	<string id="st_loading_shaders">
-		<text>Загрузка шейдеров</text>
+		<text>Јadowanie shaderуw.</text>
 	</string>
 	<string id="st_loading_geometry">
-		<text>Загрузка геометрии</text>
+		<text>Јadowanie geometrii.</text>
 	</string>
 	<string id="st_loading_spatial_db">
-		<text>Загрузка базы пространств</text>
+		<text>Wczytujк bazк danych przestrzeni.</text>
 	</string>
 	<string id="st_loading_details">
-		<text>Загрузка детальных объектов</text>
+		<text>Јadowanie szczegуіowych obiektуw.</text>
 	</string>
 	<string id="st_loading_sectors_portals">
-		<text>Загрузка секторов и порталов</text>
+		<text>Јadowanie sektorуw i portali.</text>
 	</string>
 	<string id="ui_st_conn_version_differs">
-		<text>Ошибка соединения: Отличаются версии.</text>
+		<text>Bі№d poі№czenia: wersje rуїni№ siк!</text>
 	</string>
 	<string id="ui_st_conn_cdkey_invalid">
-		<text>Ошибка соединения: Неверный CD-Key.</text>
+		<text>Bі№d poі№czenia: zіy klucz CD.</text>
 	</string>
 	<string id="ui_st_conn_cdkey_in_use">
-		<text>Ошибка соединения: Такой CD-Key уже используется.</text>
+		<text>Bі№d poі№czenia: ten klucz CD jest juї uїywany...</text>
 	</string>
 	<string id="ui_st_conn_cdkey_disabled">
-		<text>Ошибка соединения: Ваш CD-Key заблокирован. Свяжитесь со службой поддержки.</text>
+		<text>Bі№d poі№czenia: Twуj klucz CD jest zablokowany. Skontaktuj siк z pomoc№ techniczn№.</text>
 	</string>
 	<string id="ui_st_conn_new_patch">
-		<text>Доступен новый патч. \n Версия: %s\n %s\n Хотите загрузить его сейчас?</text>
+		<text>Dostкpna jest nowa aktualizacja. \n Wersja: %s\n %s\n Czy chcesz teraz pobraж?</text>
 	</string>
 	<string id="ui_st_conn_no_new_patch">
-		<text>Нет новых патчей</text>
+		<text>Brak aktualizacji.</text>
 	</string>
 	<string id="ui_mm_delete_existing_file_q">
-		<text>Вы действительно хотите удалить файл?</text>
+		<text>Czy na pewno chcesz usun№ж plik?</text>
 	</string>
 	<string id="st_game_paused">
-		<text>Пауза</text>
+		<text>Pauza</text>
 	</string>
 	<string id="st_bolt">
-		<text>Болт</text>
+		<text>Њruba</text>
 	</string>
 	<string id="st_items">
-		<text>Предметы</text>
+		<text>Przedmioty</text>
 	</string>
 	<string id="st_video">
-		<text>Видео</text>
+		<text>Wideo</text>
 	</string>
 	<string id="st_audio">
-		<text>Звук</text>
+		<text>Audio</text>
 	</string>
 	<string id="st_game">
-		<text>Игра</text>
+		<text>Gra</text>
 	</string>
 	<string id="st_controll">
-		<text>Управление</text>
+		<text>Sterowanie</text>
 	</string>
 	<string id="ui_st_connecting_to_masterserver">
-		<text>Присоединение к мастер-серверу</text>
+		<text>Doі№cz do serwera gіуwnego.</text>
 	</string>
 	<string id="mp_only_one_voting">
-		<text>Разрешено только одно активное голосование</text>
+		<text>Dozwolony tylko jeden aktywny gіos.</text>
 	</string>
 	<string id="ui_st_patch_download_success">
-		<text>Патч успешно скачан. Установить?</text>
+		<text>Aktualizacja zostaіa pomyњlnie pobrana. Zainstalowaж?</text>
 	</string>
 	<string id="ui_st_patch_download_error">
-		<text>Невозможно скачать патч.</text>
+		<text>Nie moїna pobraж aktualizacji.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Загрузка игры приведет к потере несохраненных данных. Желаете продолжить?</text>
+		<text>Wczytanie gry spowoduje utratк niezapisanych danych. Czy chciaіbyњ kontynuowaж?</text>
 	</string>
 	<string id="ui_st_invalid_saved_game">
-		<text>Не совпадает версия сохранённой игры или сохранённая игра испорчена.</text>
+		<text>Wersja zapisanej gry nie pasuje lub zapisana gra jest uszkodzona.</text>
 	</string>
 	<string id="ui_mm_r2_tonemap_middlegray">
-	    <text>Интенсивность HDR</text>
+	    <text>Intensywnoњж HDR</text>
     	</string>
 	    	<string id="ui_mm_r2_sun_lumscale">
-	    <text>Свет солнца</text>
+	    <text>Њwiatіo sіoneczne</text>
     	</string>
     	<string id="ui_mm_r2_sun_lumscale_amb">
-	    <text>Фоновый свет</text>
+	    <text>Њwiatіo w tle</text>
     	</string>
 	<string id="ui_mm_soft_water">
-		<text>Мягкая вода</text>
+		<text>Miкkka woda</text>
 	</string>
 	<string id="st_pda_change_spot_hint">
-		<text>Изменить текст метки</text>
+		<text>Zmieс tekst etykiety</text>
 	</string>
 	<string id="ui_mm_sun_shafts">
-		<text>Солнечные лучи</text>
+		<text>Promienie sіoneczne</text>
 	</string>
 	<string id="st_pda_delete_spot">
-		<text>Удалить метку</text>
+		<text>Usuс znacznik</text>
 	</string>
 
 	<string id="st_move">
-		<text>перенести</text>
+		<text>Przesuс</text>
 	</string>
 	<string id="st_move_all">
-		<text>перенести все</text>
+		<text>Przesuс wszystko</text>
 	</string>
 
 	<string id="st_move_to_slot_1">
-		<text>переместить в первый слот</text>
+		<text>Doі№cz do 1 slotu</text>
 	</string>
 	<string id="st_move_to_slot_2">
-		<text>переместить во второй слот</text>
+		<text>Doі№cz do 2 slotu</text>
 	</string>
 	<string id="st_attach_addon_to_wpn_in_slot_1">
-		<text>прикрепить %s к %s в первом слоте</text>
+		<text>Doі№cz %s do %s w pierwszym slocie</text>
 	</string>
 	<string id="st_attach_addon_to_wpn_in_slot_2">
-		<text>прикрепить %s к %s во втором слоте</text>
+		<text>Doі№cz %s do %s w drugim slocie</text>
 	</string>
 	<string id="ui_remkit_out_of_item">
-		<text>В инвентаре нет подходящих предметов для разбора на запчасти.</text>
+		<text>W ekwipunku nie ma odpowiednich przedmiotуw do demontaїu na czкњci.</text>
 	</string>
 	<string id="ui_remkit_select_item">
-		<text>Выберите из списка предмет для разбора на запчасти.</text>
+		<text>Wybierz element z listy demontaїu na czкњci.</text>
 	</string>
 	<string id="ui_remkit_invalid_item">
-		<text>Ничего не выйдет - вещь разбита в хлам. Выберите вещь в лучшем состоянии.</text>
+		<text>Nic z tego nie wyjdzie - przedmiot nadaje siк do kosza. Wybierz przedmiot w najlepszym stanie.</text>
 	</string>
 	<string id="ui_remkit_item_not_repaireble">
-		<text>Предмет не поддаётся ремонту или его уже невозможно починить.</text>
+		<text>Przedmiot jest nie do naprawienia lub nie moїna go juї naprawiж.</text>
 	</string>
 	<string id="ui_remkit_item_not_wanted">
-		<text>Предмет не нуждается в ремонте.</text>
+		<text>Przedmiot nie wymaga naprawy.</text>
 	</string>
 	<string id="ui_remkit_repair_success">
-		<text>Вам удалось улучшить состояние предмета.</text>
+		<text>Udaіo Ci siк poprawiж stan przedmiotu.</text>
 	</string>
 <string id="ui_remkit_repair_transport">
-		<text>Вам удалось подремонтировать автомобиль.</text>
+		<text>Udaіo Ci siк naprawiж samochуd.</text>
 	</string>
 	<string id="ui_remkit_repair_without_changes">
-		<text>Вы не смогли улучшить состояние предмета.</text>
+		<text>Nie udaіo siк poprawiж stanu przedmiotu.</text>
 	</string>
 	<string id="ui_remkit_repair_failure">
-		<text>По неопытности Вы ухудшили состояние предмета.</text>
+		<text>Z powodu braku dobrych umiejкtnoњci pogorszyіeњ stan przedmiotu.</text>
 	</string>
 	<string id="ui_repair_success">
-		<text>Предмет был успешно отремонтирован.</text>
-	</string>	
+		<text>Przedmiot zostaі pomyњlnie naprawiony.</text>
+	</string>
 	<string id="ui_remkit_repair_nomoney">
-		<text>У вас не хватает денег для ремонта этой вещи.</text>
+		<text>Nie masz wystarczaj№co duїo pieniкdzy, aby to naprawiж.</text>
 	</string>
 	<string id="ui_cartrade_nomoney">
-		<text>У вас не хватает денег для покупки этой машины.</text>
-	</string>	
+		<text>Nie masz wystarczaj№co duїo pieniкdzy, їeby kupiж ten samochуd.</text>
+	</string>
 	<string id="ui_trunk_select_item">
-		<text>Выберите из списка предмет для перемещения.</text>
+		<text>Wybierz z listy element do przeniesienia.</text>
 	</string>
 	<string id="ui_trunk_overweight">
-		<text>Вы не можете положить эту вещь в багажник - не хватает места.</text>
+		<text>Nie moїesz tego wіoїyж do bagaїnika - nie ma wystarczaj№co duїo miejsca.</text>
 	</string>
 	<string id="kb_cam_1">
-		<text>Вид от первого лица</text>
+		<text>Widok pierwszoosobowy.</text>
 	</string>
 	<string id="kb_cam_2">
-		<text>Вид от третьего лица</text>
+		<text>Widok z perspektywy trzeciej osoby.</text>
 	</string>
 	<string id="kb_cam_3">
-		<text>Вид от третьего лица (freelook)</text>
+		<text>Widok z trzeciej osoby (freelook).</text>
 	</string>
 
 	<string id="inventory_item_use_or_drag">
-		<text>Поднять предмет ($$ACTION_USE$$) \n Перетащить предмет (SHIFT+$$ACTION_USE$$)</text>
+		<text>Podnieњ przedmiot ($$ACTION_USE$$) \n Przenieњ przedmiot (SHIFT+$$ACTION_USE$$)</text>
 	</string>
 	<string id="game_object_drag">
-		<text>Перетащить предмет (SHIFT+$$ACTION_USE$$)</text>
+		<text>Przenieњ przedmiot (SHIFT+$$ACTION_USE$$)</text>
 	</string>
 
 	<string id="st_press_any_key">
-		<text>Нажмите любую клавишу для перехода к игре</text>
+		<text>Naciњnij dowolny klawisz, aby przejњж do gry.</text>
 	</string>
 
 </string_table>
