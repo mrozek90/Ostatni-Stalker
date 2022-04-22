@@ -14,8 +14,8 @@ function logic_time_spy(obj_id)
 		obj:clsid() == clsid.script_restr or
 		obj:clsid() == clsid.obj_physic or
 		obj:clsid() == clsid.car_s	then
-		local text_log = "У объекта "..obj:name().." повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего."
---			abort("У объекта "..obj:name().." повисла логика. Удалите созданное только что сохранение и переиграйте с предыдущего.")
+		local text_log = "Obiekt "..obj:name().." jest uszkodzony. Sprуbuj wczytaж poprzedni zapis."
+--			abort("Obiekt "..obj:name().." jest uszkodzony. Sprуbuj wczytaж poprzezdni zapis.")
 		news_manager.send_tip(db.actor, text_log, 0, "trader", 17000)
 			if not has_timer("no_save") and not db.debug then
 				start_timer("no_save", 5)
@@ -25,7 +25,7 @@ function logic_time_spy(obj_id)
 end
 
 
--- у объекта есть "непустая" логика
+-- obiekt ma logikк „niepust№”
 function logic_not_empty(npc, ini)
 return ini:section_exist("logic") and
 (ini:line_exist("logic", "cfg") or (ini:line_exist("logic", "active") and ini:r_string("logic", "active") ~= "nil"))
