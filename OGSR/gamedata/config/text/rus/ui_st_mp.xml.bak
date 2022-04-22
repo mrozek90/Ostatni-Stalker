@@ -1,405 +1,405 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
   <string id="mp_art_destroyed">
-    <text>Artefakt został zniszczony.</text>
+    <text>Ŕđňĺôŕęň áűë óíč÷ňîćĺí.</text>
   </string>
   <string id="mp_art_spowned">
-    <text>Powstał artefakt. Zanieś go do bazy, żeby zdobyć punkt.</text>
+    <text>Ŕđňĺôŕęň đîćäĺí. Ďđčíĺńčňĺ ĺăî íŕ áŕçó, ÷ňîáű çŕđŕáîňŕňü î÷ęî.</text>
   </string>
   <string id="mp_artefacts">
-    <text>Artefakty</text>
+    <text>ŕđňĺôŕęňű</text>
   </string>
   <string id="mp_artefacts_upcase">
-    <text>Artefakty</text>
+    <text>Ŕđňĺôŕęňîâ</text>
   </string>
   <string id="mp_auto_select">
-    <text>Autowybór</text>
+    <text>Ŕâňîâűáîđ</text>
   </string>
   <string id="mp_back">
-    <text>Wstecz</text>
+    <text>Íŕçŕä</text>
   </string>
   <string id="mp_ban">
-    <text>Zbanuj</text>
+    <text>Çŕáëîęčđîâŕňü</text>
   </string>
   <string id="mp_by_anomaly">
-    <text>Przez anomalię</text>
+    <text>ŕíîěŕëčĺé</text>
   </string>
   <string id="mp_cancel">
-    <text>Anuluj</text>
+    <text>Îňěĺíŕ</text>
   </string>
   <string id="mp_change_map">
-    <text>Zmień mapę</text>
+    <text>Čçěĺíčňü ęŕđňó</text>
   </string>
   <string id="mp_change_weather">
-    <text>Zmień pogodę</text>
+    <text>Čçěĺíčňü ďîăîäó</text>
   </string>
   <string id="mp_chat">
-    <text>Rozmowa</text>
+    <text>×ŕň</text>
   </string>
   <string id="mp_connected">
-    <text>połączony</text>
+    <text>ďîäńîĺäčíčëń˙</text>
   </string>
   <string id="mp_deaths">
-    <text>Śmierci</text>
+    <text>ńěĺđňč</text>
   </string>
   <string id="mp_description">
-    <text>Opis</text>
+    <text>Îďčńŕíčĺ</text>
   </string>
   <string id="mp_disconnected">
-    <text>rozłączony</text>
+    <text>îňńîĺäĺíčëń˙</text>
   </string>
   <string id="mp_enter_text">
-    <text>Wprowadź tekst do głosowania</text>
+    <text>Ââĺäčňĺ ňĺęńň äë˙ ăîëîńîâŕíč˙</text>
   </string>
   <string id="mp_entered_game">
-    <text>włącza się do gry</text>
+    <text>âîřĺë â čăđó</text>
   </string>
   <string id="mp_first_eye">
-    <text>(widok z pierwszej osoby)</text>
+    <text>(Îň ďĺđâîăî ëčöŕ)</text>
   </string>
   <string id="mp_frags">
-    <text>Fragi</text>
+    <text>ôđŕăč</text>
   </string>
   <string id="mp_frags_upcase">
-    <text>Fragi</text>
+    <text>Ôđŕăîâ</text>
   </string>
   <string id="mp_free_fly">
-    <text>(Swobodna kamera)</text>
+    <text>(Ńâîáîäíűé ďîëĺň)</text>
   </string>
   <string id="mp_free_look">
-    <text>(Widok z trzeciej osoby)</text>
+    <text>(Îň ňđĺňüĺăî ëčöŕ)</text>
   </string>
   <string id="mp_from">
-    <text>z</text>
+    <text>îň</text>
   </string>
   <string id="mp_go">
-    <text>JUŻ!</text>
+    <text>ÂĎĹĐĹÄ!</text>
   </string>
   <string id="mp_has_drop_art">
-    <text>upuszcza artefakt: %s</text>
+    <text>ďîňĺđ˙ë%s Ŕđňĺôŕęň</text>
   </string>
   <string id="mp_has_tak_art">
-    <text>zabiera artefakt %s</text>
+    <text>âç˙ë%s Ŕđňĺôŕęň</text>
   </string>
   <string id="mp_headhuntrs">
-    <text>Najemnicy</text>
+    <text>Íŕĺěíčęč</text>
   </string>
   <string id="mp_is_now">
-    <text>jest teraz</text>
+    <text>ňĺďĺđü</text>
   </string>
   <string id="mp_joined">
-    <text>dołącza</text>
+    <text>ďđčńîĺäčíčëń˙ ę</text>
   </string>
   <string id="mp_kick">
-    <text>Wyrzuć</text>
+    <text>Âűáđîńčňü</text>
   </string>
   <string id="mp_look_at">
-    <text>(Wolny widok)</text>
+    <text>(Ńâîáîäíî ďđčâ˙çŕííűé)</text>
   </string>
   <string id="mp_map_desc">
-    <text>Opis mapy</text>
+    <text>Îďčńŕíčĺ ęŕđňű</text>
   </string>
   <string id="mp_match_started">
-    <text>Rozpoczął się mecz</text>
+    <text>Íŕ÷ŕëîńü ńđŕćĺíčĺ!!!</text>
   </string>
   <string id="mp_modes">
-    <text>Tryby</text>
+    <text>Đĺćčěű</text>
   </string>
   <string id="mp_name">
-    <text>Imię</text>
+    <text>čě˙</text>
   </string>
   <string id="mp_next">
-    <text>Dalej</text>
+    <text>Äŕëüřĺ</text>
   </string>
   <string id="mp_no_voted">
-    <text>nie głosowali</text>
+    <text>Íĺ ďđîăîëîńîâŕëč</text>
   </string>
   <string id="mp_ping">
-    <text>Ping</text>
+    <text>ďčíă</text>
   </string>
   <string id="mp_player_wins">
-    <text>Gracz %s wygrywa mecz!</text>
+    <text>Čăđîę %s âűčăđŕë áîé!</text>
   </string>
   <string id="mp_players">
-    <text>Gracze</text>
+    <text>Čăđîęîâ</text>
   </string>
   <string id="mp_press_fire2spectator">
-    <text>Wciśnij "strzał", żeby przełączyć się w tryb widza</text>
+    <text>Íŕćěčňĺ Îăîíü, ÷ňîáű ďĺđĺéňč â đĺćčě íŕáëţäĺíč˙</text>
   </string>
   <string id="mp_press_jump2pay_spaw">
-    <text>Wciśnij "skok", żeby kupić natychmiastowe odrodzenie</text>
+    <text>Íŕćěčňĺ ďđűćîę, ÷ňîáű ęóďčňü ěîěĺíňŕëüíîĺ đîćäĺíčĺ</text>
   </string>
   <string id="mp_press_jump2select_skin">
-    <text>Wciśnij "skok", żeby wybrać skórkę</text>
+    <text>Íŕćěčňĺ ďđűćîę, ÷ňîáű âűáđŕňü ôîđěó</text>
   </string>
   <string id="mp_press_jump2select_team">
-    <text>Wciśnij "skok", żeby wybrać drużyny</text>
+    <text>Íŕćěčňĺ ďđűćîę, ÷ňîáű âűáđŕňü ęîěŕíäű</text>
   </string>
   <string id="mp_press_jump2spawn">
-    <text>Wciśnij "skok", żeby się odrodzić</text>
+    <text>Íŕćěčňĺ ďđűćîę, ÷ňîáű đîäčňüń˙</text>
   </string>
   <string id="mp_press_jump2start">
-    <text>Wciśnij "skok", żeby rozpocząć</text>
+    <text>Íŕćěčňĺ ďđűćîę, ÷ňîáű ńňŕđňîâŕňü</text>
   </string>
   <string id="mp_press_to_buy">
-    <text>Wciśnij ($$ACTION_BUY_MENU$$), żeby otworzyć menu handlu</text>
+    <text>Íŕćěčňĺ ($$ACTION_BUY_MENU$$) äë˙ äîńňóďŕ ę ěĺíţ ďîęóďęč</text>
   </string>
   <string id="mp_press_yes2pay">
-    <text>Masz %d$. Możesz kupić odrodzenie za %d$. Kliknij "tak", żeby zapłacić.</text>
+    <text>Âű čěĺĺňĺ %d$. Âű ěîćĺňĺ ęóďčňü đîćäĺíčĺ çŕ %d$. Íŕćěčňĺ "Äŕ", ÷ňîáű çŕďëŕňčňü.</text>
   </string>
   <string id="mp_ready">
-    <text>Gotowy...</text>
+    <text>Âíčěŕíčĺ...</text>
   </string>
   <string id="mp_restart">
-    <text>Ponowne rozpoczęcie</text>
+    <text>Đĺńňŕđň</text>
   </string>
   <string id="mp_restart_fast">
-    <text>Szybkie ponowne rozpoczęcie</text>
+    <text>Áűńňđűé đĺńňŕđň</text>
   </string>
   <string id="mp_scores">
-    <text>: frakcja zdobywa punkt</text>
+    <text>çŕđŕáŕňűâŕţň î÷ęî</text>
   </string>
   <string id="mp_select_ban">
-    <text>Wybierz gracza, który w głosowaniu ma zostać zbanowany</text>
+    <text>Âűáĺđčňĺ čăđîęŕ äë˙ ęîňîđîăî íŕçíŕ÷čňü ăîëîńîâŕíčĺ, ÷ňîáű ĺăî çŕáëîęčđîâŕňü</text>
   </string>
   <string id="mp_select_category">
-    <text>Wybierz kategorię głosowania</text>
+    <text>Âűáĺđčňĺ ęŕňĺăîđčţ ăîëîńîâŕíč˙</text>
   </string>
   <string id="mp_select_kick">
-    <text>Wybierz gracza, który w głosowaniu ma zostać wyrzucony</text>
+    <text>Âűáĺđčňĺ čăđîęŕ äë˙ ęîňîđîăî íŕçíŕ÷čňü ăîëîńîâŕíčĺ, ÷ňîáű ĺăî âűęčíóňü</text>
   </string>
   <string id="mp_select_kick_player">
-    <text>Wybierz gracza, który w głosowaniu ma zostać wyrzucony</text>
+    <text>Âűáĺđčňĺ čăđîęŕ äë˙ ęîňîđîăî íŕçíŕ÷čňü ăîëîńîâŕíčĺ, ÷ňîáű ĺăî âűęčíóňü</text>
   </string>
   <string id="mp_select_map">
-    <text>Wybierz mapę do głosowania</text>
+    <text>Âűáĺđčňĺ ęŕđňó äë˙ ăîëîńîâŕíč˙</text>
   </string>
   <string id="mp_skin_selection">
-    <text>Wybór skórki</text>
+    <text>Âűáîđ ôîđěű</text>
   </string>
   <string id="mp_spectator">
-    <text>Widz</text>
+    <text>Íŕáëţäŕňĺëü</text>
   </string>
   <string id="mp_spectators">
-    <text>WIDZOWIE</text>
+    <text>ÍŔÁËŢÄŔŇĹËČ</text>
   </string>
   <string id="mp_status">
-    <text>Status</text>
+    <text>ńňŕňóń</text>
   </string>
   <string id="mp_switched_to">
-    <text>przełącza się do</text>
+    <text>ďĺđĺřĺë ę</text>
   </string>
   <string id="mp_team_free_stalkers">
-    <text>Wolność</text>
+    <text>Ńâîáîäŕ</text>
   </string>
   <string id="mp_team_selection">
-    <text>Wybór drużyny</text>
+    <text>Âűáîđ ęîěŕíäű</text>
   </string>
   <string id="mp_team_wins">
-    <text>Drużyna %s WYGRYWA!</text>
+    <text>Ęîěŕíäŕ %s ÂŰČĂĐŰÂŔĹŇ!</text>
   </string>
   <string id="mp_text">
-    <text>Tekst</text>
+    <text>Ňĺęńň</text>
   </string>
   <string id="mp_time2respawn">
-    <text>Czas do odrodzenia</text>
+    <text>Âđĺě˙ äî đîćäĺíč˙</text>
   </string>
   <string id="mp_time2start">
-    <text>Czas do rozpoczęcia:</text>
+    <text>Âđĺě˙ äî ńňŕđňŕ:</text>
   </string>
   <string id="mp_timeleft">
-    <text>Pozostały czas: %d:%d; Zgoda %.2f</text>
+    <text>Îńňŕëîńü âđĺěĺíč : %d:%d; Agreed %.2f</text>
   </string>
   <string id="mp_vote_no">
-    <text>Nie</text>
+    <text>Ďđîňčâ</text>
   </string>
   <string id="mp_vote_yes">
-    <text>Tak</text>
+    <text>Çŕ</text>
   </string>
   <string id="mp_voted">
-    <text>głosowało</text>
+    <text>ďđîăîëîńîâŕë</text>
   </string>
   <string id="mp_voted_no">
-    <text>przeciw</text>
+    <text>"Ďđîňčâ"</text>
   </string>
   <string id="mp_voted_yes">
-    <text>za</text>
+    <text>"Çŕ"</text>
   </string>
   <string id="mp_voting_broken">
-    <text>Głosowanie anulowane przez serwer!</text>
+    <text>Ăîëîńîâŕíčĺ ŕííóëčđîâŕíî ńĺđâĺđîě!</text>
   </string>
   <string id="mp_voting_started">
-    <text>%s głosowanie rozpoczyna '%s'.</text>
+    <text>Ăîëîńîâŕíčĺ '%s' áűëî íŕ÷ŕňî %s.</text>
   </string>
   <string id="mp_voting_started_msg">
-    <text>Głosowanie się rozpoczęło!</text>
+    <text>Ăîëîńîâŕíčĺ íŕ÷ŕňî!</text>
   </string>
   <string id="mp_weather_clear">
-    <text>Bezchmurnie</text>
+    <text>×čńňŕ˙</text>
   </string>
   <string id="mp_weather_cloudy">
-    <text>Pochmurno</text>
+    <text>Îáëŕ÷íŕ˙</text>
   </string>
   <string id="mp_weather_night">
-    <text>Noc</text>
+    <text>Íî÷ü</text>
   </string>
   <string id="mp_weather_rain">
-    <text>Deszczowo</text>
+    <text>Äîćäü</text>
   </string>
   <string id="mp_with_backstab">
-    <text>Trafiony w plecy!!!</text>
+    <text>çŕđĺçŕí!!!</text>
   </string>
   <string id="mp_with_headshot">
-    <text>Strzał w głowę!!!</text>
+    <text>â ăîëîâó!!!</text>
   </string>
   <string id="mp_your_rank">
-    <text>Masz teraz rangę</text>
+    <text>Âŕř đŕíă ňĺďĺđü</text>
   </string>
   <string id="ui_st_description">
-    <text>Opis</text>
+    <text>Îďčńŕíčĺ</text>
   </string>
   <string id="ui_st_team1_name">
-    <text>Wolność</text>
+    <text>Ńâîáîäŕ</text>
   </string>
   <string id="ui_st_team2_name">
-    <text>Najemnicy</text>
+    <text>Íŕĺěíčęč</text>
   </string>
   <string id="af_neutral">
-    <text>Artefakt</text>
+    <text>Ŕđňĺôŕęň</text>
   </string>
   <string id="self">
-    <text>To ty</text>
+    <text>Ěĺ÷ĺíűé</text>
   </string>
   <string id="friend">
-    <text>Sojusznik</text>
+    <text>Ńîţçíčę</text>
   </string>
   <string id="team_base_1">
-    <text>Baza "Wolności"</text>
+    <text>Áŕçŕ Ńâîáîäű</text>
   </string>
   <string id="team_base_2">
-    <text>Baza najemników</text>
+    <text>Áŕçŕ Íŕĺěíčęîâ</text>
   </string>
   <string id="mp_si_no">
-    <text>Nie</text>
+    <text>Íĺň</text>
   </string>
   <string id="mp_si_yes">
-    <text>Tak</text>
+    <text>Äŕ</text>
   </string>
   <string id="mp_si_min">
-    <text>min.</text>
+    <text>ěčí</text>
   </string>
   <string id="mp_si_sec">
-    <text>sek.</text>
+    <text>ńĺę</text>
   </string>
   <string id="mp_si_maprotation">
-    <text>Obrót mapy</text>
+    <text>Ďîâîđîň ęŕđňű</text>
   </string>
   <string id="mp_si_voting">
-    <text>Głosowanie</text>
+    <text>Ăîëîńîâŕíčĺ</text>
   </string>
   <string id="mp_si_enabled">
-    <text>Włączone</text>
+    <text>Âęë</text>
   </string>
   <string id="mp_si_disabled">
-    <text>Wyłączone</text>
+    <text>Âűęë</text>
   </string>
   <string id="mp_si_spectatormodes">
-    <text>Tryby widza:</text>
+    <text>Đĺćčěű íŕáëţäĺíč˙:</text>
   </string>
   <string id="mp_si_servername">
-    <text>Nazwa serwera:</text>
+    <text>Čě˙ ńĺđâĺđŕ:</text>
   </string>
   <string id="mp_si_version">
-    <text>Wersja:</text>
+    <text>Âĺđńč˙:</text>
   </string>
   <string id="mp_si_free_fly">
-    <text>- Swobodny widz</text>
+    <text>- Ńâîáîäíűé ďîëĺň</text>
   </string>
   <string id="mp_si_first_eye">
-    <text>- Pierwsza osoba</text>
+    <text>- Îň ďĺđâîăî ëčöŕ</text>
   </string>
   <string id="mp_si_look_at">
-    <text>- Trzecia osoba</text>
+    <text>- Îň ňđĺňüĺăî ëčöŕ</text>
   </string>
   <string id="mp_si_free_look">
-    <text>- Swobodna kamera</text>
+    <text>- Ńâîáîäíűé îáçîđ</text>
   </string>
   <string id="mp_si_team_only">
-    <text>- Tylko dla drużyny</text>
+    <text>- Ňîëüęî ęîěŕíäŕ</text>
   </string>
   <string id="mp_si_fraglimit">
-    <text>Limit fragów</text>
+    <text>Ëčěčň ôđŕăîâ</text>
   </string>
   <string id="mp_si_time_limit">
-    <text>Limit czasu</text>
+    <text>Ëčěčň âđĺěĺíč</text>
   </string>
   <string id="mp_si_invinsibility_indicators">
-    <text>- Wskaźniki</text>
+    <text>- Číäčęŕňîđű</text>
   </string>
   <string id="mp_si_invinsibility_time">
-    <text>- Time</text>
+    <text>- Âđĺě˙</text>
   </string>
   <string id="mp_si_invinsibility">
-    <text>Nieśmiertelność</text>
+    <text>Íĺâčäčěîńňü:</text>
   </string>
   <string id="mp_si_anomalies">
-    <text>Anomalie</text>
+    <text>Ŕíîěŕëčč</text>
   </string>
   <string id="mp_si_anomalies_period">
-    <text>Czas trwania anomalii</text>
+    <text>Ďĺđčîä ŕíîěŕëčé</text>
   </string>
   <string id="mp_si_infinite">
-    <text>Nieskończony</text>
+    <text>Áĺńęîíĺ÷íűé</text>
   </string>
   <string id="mp_si_forcerespawn">
-    <text>Wymuszone odrodzenie</text>
+    <text>Ďđčíóäčňĺëüíîĺ đîćä.</text>
   </string>
   <string id="mp_si_warmuptime">
-    <text>Rozgrzewka</text>
+    <text>Đŕçěčíęŕ</text>
   </string>
   <string id="mp_si_autoteam_balance">
-    <text>Automatyczny balans drużyn</text>
+    <text>Ŕâňî-áŕëŕíń ęîěŕíä</text>
   </string>
   <string id="mp_si_autoteam_swap">
-    <text>Automatyczna zmiana drużyny</text>
+    <text>Ŕâňî-ńěĺíŕ ęîěŕíä</text>
   </string>
   <string id="mp_si_friendly_indicators">
-    <text>Wskaźniki sojuszników</text>
+    <text>Číäčęŕňîđű ńîţçíčęîâ</text>
   </string>
   <string id="mp_si_friendly_names">
-    <text>Nicki sojuszników</text>
+    <text>Čěĺíŕ ńîţçíčęîâ</text>
   </string>
   <string id="mp_si_friendly_fire">
-    <text>Obrażenia od sojuszników</text>
+    <text>Îăîíü ďî ńîţçíčęŕě</text>
   </string>
   <string id="mp_si_artefacts">
-    <text>Artefakty:</text>
+    <text>Ŕđňĺôŕęňű:</text>
   </string>
   <string id="mp_si_afcount">
-    <text>-  Liczba</text>
+    <text>- Ęîëč÷ĺńňâî</text>
   </string>
   <string id="mp_si_afstaytime">
-    <text>-  Czas pobytu</text>
+    <text>- Âđĺě˙</text>
   </string>
   <string id="mp_si_afrespawntime">
-    <text>-  Czas odrodzenia</text>
+    <text>- Ďî˙âëĺíčĺ</text>
   </string>
   <string id="mp_si_players_respawn">
-    <text>Odrodzenie</text>
+    <text>Đîćäĺíčĺ čăđîęîâ</text>
   </string>
   <string id="mp_si_artefact_captured">
-    <text>Odnalezione artefakty</text>
+    <text>Ŕđňĺôŕęň çŕőâŕ÷ĺí</text>
   </string>
   <string id="mp_si_any_time">
-    <text>Kiedykolwiek</text>
+    <text>Ëţáîĺ âđĺě˙</text>
   </string>
   <string id="mp_si_shielded_bases">
-    <text>Bazy chronione</text>
+    <text>Çŕůčůĺííűĺ áŕçű</text>
   </string>
   <string id="mp_si_return_players">
-    <text>Gracze wrócili do baz</text>
+    <text>Âîçâđŕň íŕ áŕçű</text>
   </string>
   <string id="mp_si_afbearer_cant_sprint">
-    <text>Bez sprintu z artefaktem</text>
+    <text>Íĺ áĺăŕňü ń ŕđňĺôŕęňîě</text>
   </string>
 </string_table>

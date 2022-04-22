@@ -1,207 +1,207 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+<?xml version="1.0" encoding="windows-1251" ?> 
 <string_table>
 	<string id="actor_btn_hint">
-		<text>Centruj na Greku</text>
+		<text>Öĺíňđ íŕ Ăđĺęĺ</text>
 	</string>
 	<string id="add_spot_btn_hint">
-		<text>Dodaj nowy znacznik</text>
+		<text>Äîáŕâčňü íîâóţ îňěĺňęó</text>
 	</string>
 	<string id="Contacts">
-		<text>Kontakty</text>
+		<text>Ęîíňŕęňű</text>
 	</string>
 	<string id="Encyclopedia">
-		<text>Encyklopedia</text>
+		<text>Ńďđŕâęŕ</text>
 	</string>
 	<string id="global_map_btn_hint">
-		<text>Mapa Zony</text>
+		<text>Íŕ ęŕđňó çîíű</text>
 	</string>
 	<string id="level_changer_invitation">
-		<text>Przejść na następną lokację?</text>
+		<text>Ďĺđĺéňč íŕ äđóăóţ ëîęŕöčţ?</text>
 	</string>
 	<string id="Name">
-		<text>Imię</text>
+		<text>Čě˙</text>
 	</string>
 	<string id="pda_btn_accomplished">
-		<text>Wykonane</text>
+		<text>Âűďîëíĺííűĺ</text>
 	</string>
 	<string id="pda_btn_accomplished_hint">
-		<text>Pokaż wykonane zadania</text>
+		<text>Ďîęŕçŕňü âűďîëíĺííűĺ çŕäŕíč˙</text>
 	</string>
 	<string id="pda_btn_active">
-		<text>Aktywne</text>
+		<text>Ŕęňčâíűĺ</text>
 	</string>
 	<string id="pda_btn_active_hint">
-		<text>Pokaż aktywne zadania</text>
+		<text>Ďîęŕçŕňü ŕęňčâíűĺ çŕäŕíč˙</text>
 	</string>
 	<string id="pda_btn_contacts">
-		<text>Kontakty</text>
+		<text>Ęîíňŕęňű</text>
 	</string>
 	<string id="pda_btn_contacts_hint">
-		<text>Pokaż listę kontaktów gracza</text>
+		<text>Ďîęŕçŕňü ńďčńîę ęîíňŕęňîâ ńňŕëęĺđîâ</text>
 	</string>
 	<string id="pda_btn_diary">
-		<text>Notatki</text>
+		<text>Ćóđíŕë</text>
 	</string>
 	<string id="pda_btn_diary_hint">
-		<text>Pokaż dziennik gracza</text>
+		<text>Ďîęŕçŕňü äíĺâíčę čăđîęŕ</text>
 	</string>
 	<string id="pda_btn_encyclopedia">
-		<text>Encyklopedia</text>
+		<text>Ńďđŕâęŕ</text>
 	</string>
 	<string id="pda_btn_encyclopedia_hint">
-		<text>Pokaż encyklopedię Zony</text>
+		<text>Ďîęŕçŕňü ýíöčęëîďĺäčţ ďî Çîíĺ</text>
 	</string>
 	<string id="pda_btn_failed">
-		<text>Niewykonane</text>
+		<text>Ďđîâŕëĺííűĺ</text>
 	</string>
 	<string id="pda_btn_failed_hint">
-		<text>Pokaż niewykonane zadania</text>
+		<text>Ďîęŕçŕňü ďđîâŕëĺííűĺ çŕäŕíč˙</text>
 	</string>
 	<string id="pda_btn_info">
-		<text>Informacje</text>
+		<text>Číôîđěŕöč˙</text>
 	</string>
 	<string id="pda_btn_journal">
-		<text>Dziennik</text>
+		<text>Ćóđíŕë</text>
 	</string>
 	<string id="pda_btn_journal_hint">
-		<text>Pokaż wpisy gracza</text>
+		<text>Ďîęŕçŕňü çŕďčńč čăđîęŕ</text>
 	</string>
 	<string id="pda_btn_map">
-		<text>Mapa</text>
+		<text>Ďëŕí</text>
 	</string>
 	<string id="pda_btn_map_hint">
-		<text>Pokaż mapę Zony</text>
+		<text>Ďîęŕçŕňü ęŕđňó Çîíű</text>
 	</string>
 	<string id="pda_btn_news">
-		<text>Historia</text>
+		<text>Čńňîđč˙</text>
 	</string>
 	<string id="pda_btn_news_hint">
-		<text>Pokaż historię wiadomości</text>
+		<text>Ďîęŕçŕňü čńňîđčţ ńîîáůĺíčé</text>
 	</string>
 	<string id="pda_btn_off_hint">
-		<text>Wyłącz</text>
+		<text>Âűęëţ÷čňü</text>
 	</string>
 	<string id="pda_btn_own">
-		<text>Moje</text>
+		<text>Ńâîč</text>
 	</string>
 	<string id="pda_btn_own_hint">
-		<text>Pokaż moje znaczniki na mapie</text>
+		<text>Ďîęŕçŕňü ńâîč îňěĺňęč íŕ ęŕđňĺ</text>
 	</string>
 	<string id="pda_btn_quests">
-		<text>Zadania</text>
+		<text>Çŕäŕ÷č</text>
 	</string>
 	<string id="pda_btn_quests_hint">
-		<text>Pokaż informacje o zadaniach</text>
+		<text>Ďîęŕçŕňü číôîđěŕöčţ ďî ęâĺńňŕě</text>
 	</string>
 	<string id="pda_btn_ranking">
-		<text>Ranking</text>
+		<text>Đŕíăč</text>
 	</string>
 	<string id="pda_btn_ranking_hint">
-		<text>Pokaż ranking najlepszych stalkerów</text>
+		<text>Ďîęŕçŕňü đĺéňčíă ëó÷řčő ńňŕëęĺđîâ</text>
 	</string>
 	<string id="pda_btn_reputation">
-		<text>Reputacja</text>
+		<text>Đĺďóňŕöč˙</text>
 	</string>
 	<string id="pda_btn_statistics">
-		<text>Dane</text>
+		<text>Äŕííűĺ</text>
 	</string>
 	<string id="pda_btn_statistics_hint">
-		<text>Pokaż statystykę postępów w grze</text>
+		<text>Ďîęŕçŕňü ńňŕňčńňčęó ďî ďđîőîćäĺíčţ</text>
 	</string>
 	<string id="pda_edit_user_task_btn_hint">
-		<text>Zmień opis</text>
+		<text>Đĺäŕęňčđîâŕňü îďčńŕíčĺ</text>
 	</string>
 	<string id="pda_remove_btn_hint">
-		<text>Usuń znacznik</text>
+		<text>Óäŕëčňü îňěĺňęó</text>
 	</string>
 	<string id="pda_show_descr_btn_hint">
-		<text>Przejdź</text>
+		<text>Ďĺđĺéňč</text>
 	</string>
 	<string id="pda_show_location_btn_hint">
-		<text>Pokaż znaczniki na mapie</text>
+		<text>Ďîęŕçűâŕňü îňěĺňęč íŕ ęŕđňĺ</text>
 	</string>
 	<string id="pda_show_pointer_btn_hint">
-		<text>Włącz znacznik</text>
+		<text>Ńäĺëŕňü îňěĺňęó ŕęňčâíîé</text>
 	</string>
 	<string id="pda_switch_description_btn_hint">
-		<text>Wybierz mapę/tekst</text>
+		<text>Ďĺđĺęëţ÷čňü ęŕđňŕ/ňĺęńň</text>
 	</string>
 	<string id="Rank">
-		<text>Ranga</text>
+		<text>Đŕíă</text>
 	</string>
 	<string id="remove_spot_btn_hint">
-		<text>Usuń znacznik</text>
+		<text>Óäŕëčňü îňěĺňęó</text>
 	</string>
 	<string id="st_detail_list_for_artefacts">
-		<text>Zdobyte artefakty</text>
+		<text>Äîáűňűĺ ŕđňĺôŕęňű</text>
 	</string>
 	<string id="st_detail_list_for_community_relations">
-		<text>Stosunki z frakcjami</text>
+		<text>Îňíîřĺíč˙ ń ăđóďďčđîâęŕěč</text>
 	</string>
 	<string id="st_detail_list_for_monsterkills">
-		<text>Zabite mutanty</text>
+		<text>Óáčéńňâî ěóňŕíňîâ</text>
 	</string>
 	<string id="st_detail_list_for_quests">
-		<text>Wykonane zadania</text>
+		<text>Âűďîëíĺííűĺ çŕäŕíč˙</text>
 	</string>
 	<string id="st_detail_list_for_stalkerkills">
-		<text>Zabici stalkerzy</text>
+		<text>Óáčéńňâî ńňŕëęĺđîâ</text>
 	</string>
 	<string id="st_map_actor">
-		<text>Grek</text>
+		<text>Ăđĺę</text>
 	</string>
 	<string id="st_news">
-		<text>Wiadomości</text>
+		<text>Íîâîńňü</text>
 	</string>
 	<string id="st_pda_artefacts">
-		<text>Artefakty</text>
+		<text>Ŕđňĺôŕęňű</text>
 	</string>
 	<string id="st_pda_detail_info">
-		<text>Szczegółowe informacje</text>
+		<text>Äĺňŕëüíŕ˙ číôîđěŕöč˙</text>
 	</string>
 	<string id="st_pda_monster_kills">
-		<text>Zabite mutanty</text>
+		<text>Óáčéńňâî ěóňŕíňîâ</text>
 	</string>
 	<string id="st_pda_player_statistic">
-		<text>Statystyki gracza</text>
+		<text>Ńňŕňčńňčęŕ čăđîęŕ</text>
 	</string>
 	<string id="st_pda_quest_complete">
-		<text>Wykonane zadania</text>
+		<text>Âűďîëíĺííűĺ ęâĺńňű</text>
 	</string>
 	<string id="st_pda_stalker_kills">
-		<text>Zabici stalkerzy</text>
+		<text>Óáčéńňâî ńňŕëęĺđîâ</text>
 	</string>
 	<string id="st_pda_statistic_reputation">
-		<text>Reputacja:</text>
+		<text>Đĺďóňŕöč˙:</text>
 	</string>
 	<string id="st_pda_statistic_score">
-		<text>Statystyka</text>
+		<text>Ńňŕňčńňčęŕ</text>
 	</string>
 	<string id="st_pda_task_detail_information">
-		<text>Szczegółowe informacje o zadaniach</text>
+		<text>Äĺňŕëüíŕ˙ číôîđěŕöč˙ î çŕäŕíčč</text>
 	</string>
 	<string id="st_pda_top20">
-		<text>20 najlepszych stalkerów</text>
+		<text>Ëó÷řŕ˙ 20-ęŕ ńňŕëęĺđîâ</text>
 	</string>
 	<string id="st_pda_total">
-		<text>W sumie</text>
+		<text>Âńĺăî</text>
 	</string>
 	<string id="st_tip">
-		<text>Wiadomość</text>
+		<text>Ńîîáůĺíčĺ</text>
 	</string>
 	<string id="svoboda_outfit_description_m1">
-		<text>W powłoce kombinezonu jest metalowa siatka - ma ona chronić przed polami elektrycznymi i magnetycznymi. W skład zestawu wchodzi również noktowizor.</text>
+		<text>Â ęîěáčíĺçîí číňĺăđčđîâŕíŕ ěĺňŕëëč÷ĺńęŕ˙ ńĺňęŕ, çŕůčůŕţůŕ˙ îň ýëĺęňđč÷ĺńęčő č ěŕăíčňíűő ďîëĺé. Â ęîěďëĺęň ňŕęćĺ âęëţ÷ĺí ďđčáîđ íî÷íîăî âčäĺíč˙.</text>
 	</string>
 	<string id="Tasks">
-		<text>Zadania</text>
+		<text>Çŕäŕíč˙</text>
 	</string>
 	<string id="Time">
-		<text>Czas</text>
+		<text>Âđĺě˙</text>
 	</string>
 	<string id="zoom_in_btn_hint">
-		<text>Przybliżenie +</text>
+		<text>ěŕńřňŕá +</text>
 	</string>
 	<string id="zoom_out_btn_hint">
-		<text>Oddalenie -</text>
+		<text>ěŕńřňŕá -</text>
 	</string>
 </string_table>

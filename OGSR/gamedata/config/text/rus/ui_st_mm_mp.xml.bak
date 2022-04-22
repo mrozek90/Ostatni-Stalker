@@ -1,240 +1,240 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="game type">
-		<text>TRYB GRY</text>
+		<text>ŇČĎ ČĂĐŰ</text>
 	</string>
 	<string id="icon">
-		<text>IKONY</text>
+		<text>ÇÍŔ×ĘČ</text>
 	</string>
 	<string id="map">
-		<text>MAPA</text>
+		<text>ĘŔĐŇŔ</text>
 	</string>
 	<string id="mm_mp_allowvoting">
-		<text>Pozwól na głosowanie</text>
+		<text>Đŕçđĺřčňü ăîëîńîâŕíčĺ</text>
 	</string>
 	<string id="mm_mp_anomalytime">
-		<text>Aktywność anomalii (min.)</text>
+		<text>Âđĺě˙ ŕíîěŕëčč (ě.)</text>
 	</string>
 	<string id="mm_mp_artefactcapture">
-		<text>Zdobycie artefaktu</text>
+		<text>Çŕőâŕň ŕđňĺôŕęňŕ</text>
 	</string>
 	<string id="mm_mp_artefdelay">
-		<text>Powstanie artefaktu (sek.)</text>
+		<text>Çŕäĺđćęŕ ŕđňĺôŕęňŕ</text>
 	</string>
 	<string id="mm_mp_artefnum">
-		<text>Liczba artefaktów</text>
+		<text>Ęîë-âî ŕđňĺôŕęňîâ</text>
 	</string>
 	<string id="mm_mp_artefstay">
-		<text>Trwałość artefaktów (min.)</text>
+		<text>Âđĺí˙ ŕđňĺôŕęňŕ</text>
 	</string>
 	<string id="mm_mp_autoteambalance">
-		<text>Automatyczny balans drużyn</text>
+		<text>Ŕâňîáŕëŕíń ęîěŕíä</text>
 	</string>
 	<string id="mm_mp_autoteamswap">
-		<text>Automatyczna zmiana drużyny</text>
+		<text>Ŕâňîńěĺíŕ ęîěŕíä</text>
 	</string>
 	<string id="mm_mp_avail_maps">
-		<text>DOSTĘPNE MAPY</text>
+		<text>ÄÎŃŇÓĎÍŰĹ ĘŔĐŇŰ</text>
 	</string>
 	<string id="mm_mp_cancel">
-		<text>Anuluj</text>
+		<text>Îňěĺíŕ</text>
 	</string>
 	<string id="mm_mp_cd_key">
-		<text>CD-Key:</text>
+		<text>CD-Key</text>
 	</string>
 	<string id="mm_mp_client">
-		<text>Klient</text>
+		<text>Ęëčĺíň</text>
 	</string>
 	<string id="mm_mp_create">
-		<text>Stwórz</text>
+		<text>Ńîçäŕňü</text>
 	</string>
 	<string id="mm_mp_damageblock">
-		<text>Nieśmiertelność (sek.)</text>
+		<text>Íĺó˙çâčěîńňü (ńĺę.)</text>
 	</string>
 	<string id="mm_mp_damageblockindicator">
-		<text>Wskaźnik nieśmiertelności</text>
+		<text>Číäčęŕňîđ íĺó˙çâčěîńňč</text>
 	</string>
 	<string id="mm_mp_deaths">
-		<text>Zabici</text>
+		<text>Ńěĺđňč</text>
 	</string>
 	<string id="mm_mp_dedicated">
-		<text>Dedykowany</text>
+		<text>Âűäĺëĺííűé</text>
 	</string>
 	<string id="mm_mp_empty">
-		<text>Puste</text>
+		<text>Ďóńňűĺ</text>
 	</string>
 	<string id="mm_mp_filters">
-		<text>Filtry</text>
+		<text>Ôčëüňđű</text>
 	</string>
 	<string id="mm_mp_forcerespawn">
-		<text>Odrodź po (sek.)</text>
+		<text>Đîćäĺíčĺ (ń.)</text>
 	</string>
 	<string id="mm_mp_fraglimit">
-		<text>Limit fragów</text>
+		<text>Ëčěčň ôđŕăîâ</text>
 	</string>
 	<string id="mm_mp_frags">
-		<text>Fragi</text>
+		<text>Ôđŕăč</text>
 	</string>
 	<string id="mm_mp_freezetime">
-		<text>Czas unieruchomienia</text>
+		<text>Âđĺě˙ çŕäĺđćęč</text>
 	</string>
 	<string id="mm_mp_friendlyfire">
-		<text>Obrażenia od sojuszników</text>
+		<text>Îăîíü ńîţçíčęŕ (ę.)</text>
 	</string>
 	<string id="mm_mp_friendlyindicators">
-		<text>Wskaźniki sojuszników</text>
+		<text>Číäčęŕňîđű ńîţçíčęîâ</text>
 	</string>
 	<string id="mm_mp_friendlynames">
-		<text>Nicki sojuszników</text>
+		<text>Čěĺíŕ äđóçĺé</text>
 	</string>
 	<string id="mm_mp_full">
-		<text>Pełne</text>
+		<text>Ďîëíűĺ</text>
 	</string>
 	<string id="mm_mp_gamemode">
-		<text>Tryb</text>
+		<text>Đĺćčě</text>
 	</string>
 	<string id="mm_mp_host_port">
-		<text>IP/host:port</text>
+		<text>IP/őîńň: ďîđň</text>
 	</string>
 	<string id="mm_mp_internet">
-		<text>Internet</text>
+		<text>Číňĺđíĺň</text>
 	</string>
 	<string id="mm_mp_join">
-		<text>Przyłącz się</text>
+		<text>Ďđčńîĺäčíčňüń˙</text>
 	</string>
 	<string id="mm_mp_lan">
-		<text>Sieć lokalna</text>
+		<text>Ëîęŕëüíŕ˙ ńĺňü</text>
 	</string>
 	<string id="mm_mp_listenservers">
-		<text>Nasłuch</text>
+		<text>Íĺ âűäĺëĺííűĺ</text>
 	</string>
 	<string id="mm_mp_mapratation">
-		<text>Lista map</text>
+		<text>Ńďčńîę ęŕđň</text>
 	</string>
 	<string id="mm_mp_maxplayers">
-		<text>Maks. liczba graczy</text>
+		<text>Ěŕęń. čăđîęîâ</text>
 	</string>
 	<string id="mm_mp_network_connection">
-		<text>Połączenie sieciowe</text>
+		<text>Ńĺňĺâîĺ ńîĺäčíĺíčĺ</text>
 	</string>
 	<string id="mm_mp_noanomalies">
-		<text>Bez anomalii</text>
+		<text>Áĺç ŕíîěŕëčé</text>
 	</string>
 	<string id="mm_mp_options">
-		<text>Opcje</text>
+		<text>Îďöčč</text>
 	</string>
 	<string id="mm_mp_password">
-		<text>Hasło</text>
+		<text>Ďŕđîëü</text>
 	</string>
 	<string id="mm_mp_player_name">
-		<text>Gracz:</text>
+		<text>Čě˙ čăđîęŕ:</text>
 	</string>
 	<string id="mm_mp_players">
-		<text>Gracze</text>
+		<text>Čăđîęč</text>
 	</string>
 	<string id="mm_mp_publicserver">
-		<text>Serwer publiczny</text>
+		<text>Číňĺđíĺň ńĺđâĺđ</text>
 	</string>
 	<string id="mm_mp_quickrefresh">
-		<text>Odśwież szybko</text>
+		<text>Îáíîâčňü îäčí</text>
 	</string>
 	<string id="mm_mp_rateofchange">
-		<text>Zmiana współczynnika</text>
+		<text>Ęîýô. čçěĺíĺíč˙</text>
 	</string>
 	<string id="mm_mp_refresh">
-		<text>Odśwież wszystko</text>
+		<text>Îáíîâčňü âńĺ</text>
 	</string>
 	<string id="mm_mp_reinforcement">
-		<text>Posiłki (sek.)</text>
+		<text>Ďîäęđĺďëĺíčĺ (ń.)</text>
 	</string>
 	<string id="mm_mp_respawnoptions">
-		<text>Opcje odrodzenia</text>
+		<text>Îďöčč đîćäĺíč˙</text>
 	</string>
 	<string id="mm_mp_sel_maps">
-		<text>WYBRANE MAPY</text>
+		<text>ÂŰÁĐŔÍÍŰĹ ĘŔĐŇŰ</text>
 	</string>
 	<string id="mm_mp_server">
-		<text>Serwer</text>
+		<text>Ńĺđâĺđ</text>
 	</string>
 	<string id="mm_mp_server_list">
-		<text>Lista serwerów</text>
+		<text>Ńďčńîę ńĺđâĺđîâ</text>
 	</string>
 	<string id="mm_mp_server_prop">
-		<text>Właściwości serwera</text>
+		<text>Ńâîéńňâŕ ńĺđâĺđŕ</text>
 	</string>
 	<string id="mm_mp_serverinfo">
-		<text>Inf. o serwerze</text>
+		<text>Číôî ńĺđâĺđŕ</text>
 	</string>
 	<string id="mm_mp_serverlist">
-		<text>Serwer</text>
+		<text>Ńĺđâĺđ</text>
 	</string>
 	<string id="mm_mp_servername">
-		<text>Nazwa serwera</text>
+		<text>Čě˙ ńĺđâĺđŕ</text>
 	</string>
 	<string id="mm_mp_serversettings">
-		<text>Ustawienia serwera</text>
+		<text>Íŕńňđîéęč ńĺđâĺđŕ</text>
 	</string>
 	<string id="mm_mp_spectator">
-		<text>Widz</text>
+		<text>Íŕáëţäŕňĺëü</text>
 	</string>
 	<string id="mm_mp_spectator_firsteye">
-		<text>Pierwsza osoba</text>
+		<text>Îň ďĺđâîăî ëčöŕ</text>
 	</string>
 	<string id="mm_mp_spectator_freefly">
-		<text>Swobodna kamera</text>
+		<text>Ńâîáîäíűé ďîëĺň</text>
 	</string>
 	<string id="mm_mp_spectator_freelook">
-		<text>Wolny widok</text>
+		<text>Ńâîáîäíî-ďđčâ˙çŕííűé</text>
 	</string>
 	<string id="mm_mp_spectator_lookat">
-		<text>Trzecia osoba</text>
+		<text>Îň ňđĺňüĺăî ëčöŕ</text>
 	</string>
 	<string id="mm_mp_spectator_options">
-		<text>Ustawienia widza</text>
+		<text>Íŕńňđîéęč íŕáëţäŕňĺë˙</text>
 	</string>
 	<string id="mm_mp_spectator_teamonly">
-		<text>Tylko drużyna</text>
+		<text>Ňîëüęî äë˙ ęîěŕíäű</text>
 	</string>
 	<string id="mm_mp_startweather">
-		<text>Początkowa pogoda</text>
+		<text>Ďîăîäŕ</text>
 	</string>
 	<string id="mm_mp_timelimit">
-		<text>Limit czasowy (min.)</text>
+		<text>Ëčěčň âđĺěĺíč (ě.)</text>
 	</string>
 	<string id="mm_mp_warmuptime">
-		<text>Rozgrzewka (sek.)</text>
+		<text>Đŕçîăđĺâ (ńĺę.)</text>
 	</string>
 	<string id="mm_mp_weatheroptions">
-		<text>Opcje pogody</text>
+		<text>Îďöčč ďîăîäű</text>
 	</string>
 	<string id="mm_mp_withoutfriendlyfire">
-		<text>Bez ognia sojuszniczego </text>
+		<text>Áĺç îăí˙ ńîţçí.</text>
 	</string>
 	<string id="mm_mp_withoutpassword">
-		<text>Bez hasła</text>
+		<text>Áĺç ďŕđîë˙</text>
 	</string>
 	<string id="mm_mp_withoutpunkbuster">
-		<text>Bez PunkBuster</text>
+		<text>Áĺç Punk Buster</text>
 	</string>
 	<string id="mm_mp_withpassword">
-		<text>Z hasłem</text>
+		<text>Ń ďŕđîëĺě</text>
 	</string>
 	<string id="mp_vote_hint">
-		<text>Głosy ZA-[$$ACTION_VOTE_YES$$]\nGłosy PRZECIW-[$$ACTION_VOTE_NO$$]\nWyniki-[$$ACTION_VOTE$$]</text>
+		<text>Ăîëîńîâŕňü ÇŔ-[$$ACTION_VOTE_YES$$]\nĂîëîńîâŕňü ĎĐÎŇČÂ-[$$ACTION_VOTE_NO$$]\nĐĺçóëüňŕňű-[$$ACTION_VOTE$$]</text>
 	</string>
 	<string id="ping">
-		<text>PING</text>
+		<text>ĎČÍĂ</text>
 	</string>
 	<string id="players">
-		<text>GRACZE</text>
+		<text>ČĂĐÎĘČ</text>
 	</string>
 	<string id="server name">
-		<text>NAZWA SERWERA</text>
+		<text>ČĚß ŃĹĐÂĹĐŔ</text>
 	</string>
 	<string id="version">
-		<text>Wersja</text>
+		<text>Âĺđńč˙</text>
 	</string>
 	<string id="st_mp_gsfilter">
-		<text>Filtr:</text>
+		<text>Ôčëüňđ:</text>
 	</string>
 </string_table>

@@ -126,7 +126,7 @@
 	<string id="kb_right_strafe">
 		<text>Krok w prawo</text>
 	</string>
-	<string id="kb_scores">
+	<string id="kb_reminds">
 		<text>Przypomnienia</text>
 	</string>
 	<string id="kb_screenshot">

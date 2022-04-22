@@ -1,84 +1,84 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 
     <string id="tab_type_1">
-		<text>Przedmioty</text>
+		<text>Ďđĺäěĺňű</text>
 	</string>
 	
 	<string id="tab_type_2">
-		<text>Obiekty</text>
+		<text>Îáúĺęňű</text>
 	</string>
 	
 	<string id="tab_where_1">
-		<text>W inwentarz gracza</text>
+		<text>Â číâĺíňŕđü ŕęňîđŕ</text>
 	</string>
 	
     <string id="tab_where_1">
-		<text>W inwentarz gracza</text>
+		<text>Â číâĺíňŕđü ŕęňîđŕ</text>
 	</string>
 	
 	<string id="tab_where_2">
-		<text>W inwentarz obiektu</text>
+		<text>Â číâĺíňŕđü îáúĺęňŕ</text>
 	</string>
 	
 	<string id="tab_where_3">
-		<text>Na powierzchni geometrii</text>
+		<text>Íŕ ďîâĺđőíîńňü ăĺîěĺňđčč</text>
 	</string>
 	
 	<string id="show_coord">
-	    <text>Wyjść na ekran</text>
+	    <text>Âűâîäčňü íŕ ýęđŕí</text>
 	</string>
 	
 	<string id="artefacts">
-	    <text>Artefakty</text>
+	    <text>Ŕđňĺôŕęňű</text>
 	</string>
 	
 	<string id="ammos">
-	    <text>Amunicja</text>
+	    <text>Ńíŕđ˙äű</text>
 	</string>
 	
 	<string id="wpns">
-	    <text>Broń</text>
+	    <text>Îđóćčĺ</text>
 	</string>
 	
 	<string id="addons">
-	    <text>Dodatki</text>
+	    <text>Ŕääîíű</text>
 	</string>
 	
 	<string id="outfits">
-	    <text>Pancerze</text>
+	    <text>Áđîíčęč</text>
 	</string>
 	
 	<string id="meds">
-	    <text>Lekarstwa</text>
+	    <text>Ěĺäčęŕěĺíňű</text>
 	</string>
 	
 	<string id="myaso">
-	    <text>Mięso</text>
+	    <text>Ě˙ńî</text>
 	</string>
 	
 	<string id="eats">
-	    <text>Jedzenie</text>
+	    <text>Ĺäŕ</text>
 	</string>
 	
 	<string id="devices">
-	    <text>Przedmioty</text>
+	    <text>Ďđĺäěĺňű</text>
 	</string>
 	
 	<string id="quests">
-	    <text>Questowe</text>
+	    <text>Ęâĺńňîâűĺ</text>
 	</string>
 	
 	<string id="uniqus">
-	    <text>Unikalne</text>
+	    <text>Óíčęŕëüíűĺ</text>
 	</string>
 	
 	<string id="physics">
-	    <text>Fizyczne</text>
+	    <text>Ôčçč÷ĺńęčĺ</text>
 	</string>
 	
 	<string id="stalkers">
-	    <text>Stalkerzy</text>
+	    <text>Ńňŕëęĺđű</text>
 	</string>
 	
 	<string id="spawn_sections">
@@ -86,47 +86,47 @@
 	</string>
 	
 	<string id="monsters">
-	    <text>Mutanty</text>
+	    <text>Ěîíńňđű</text>
 	</string>
 	
 	<string id="tab_pov_geo_1">
-	    <text>Według współrzędnych gracza</text>
+	    <text>Ďî ęîîđäčíŕňŕě ŕęňîđŕ</text>
 	</string>
 	
 	<string id="tab_pov_geo_2">
-	    <text>Według punktu pliku</text>
+	    <text>Ďî ôŕéë-ďîčíňŕě</text>
 	</string>
 	
 	<string id="tab_pov_geo_3">
-	    <text>Wpis współrzędnych</text>
+	    <text>Ââîä ęîîđäčíŕň</text>
 	</string>
 	
 	<string id="dist_from_act">
-	    <text>Odległość od gracza w kierunku jego wzroku.</text>
+	    <text>Äčńňŕíöč˙ îň ŕęňîđŕ, ďî íŕďđŕâëĺíčţ ĺăî âçăë˙äŕ.</text>
 	</string>
 	
 	<string id="tele_jump_title">
-	    <text>Wykonaj skok na</text>
+	    <text>Ďđîčçâĺńňč ďđűćîę íŕ</text>
 	</string>
 	
 	<string id="tele_jump_metr">
-	    <text>metrów w przód.</text>
+	    <text>ěĺňđîâ âďĺđ¸ä.</text>
 	</string>
 	
 	<string id="coord_fp">
-	    <text>Naciśnij by wybrać punkt pliku.</text>
+	    <text>Íŕćěčňĺ, ÷ňîáű âűáđŕňü ôŕéë-ďîčíň.</text>
 	</string>
 	
 	<string id="re_prop">
-	    <text>Zmienić</text>
+	    <text>Čçěĺíčňü</text>
 	</string>
 	
 	<string id="spawn_dist_metr">
-	    <text>metrów</text>
+	    <text>ěĺňđîâ</text>
 	</string>
 	
 	<string id="tab_inv_obj_1">
-	    <text>Według Story_id obiektu.</text>
+	    <text>Ďî Story_id îáúĺęňŕ.</text>
 	</string>
 	
 	<string id="tab_inv_obj_2">
@@ -138,11 +138,11 @@
 	</string>
 	
 	<string id="story_id_inv">
-	    <text>Wprowadź Story_id potrzebnego obiektu.</text>
+	    <text>Ââĺäčňĺ Story_id íóćíîăî îáúĺęňŕ.</text>
 	</string>
 	
 	<string id="hint_fixed_window">
-	    <text>Zapisz okno jako startowe.</text>
+	    <text>Çŕęđĺďčňü îęíî, ęŕę ńňŕđňîâîĺ.</text>
 	</string>
 
 </string_table>

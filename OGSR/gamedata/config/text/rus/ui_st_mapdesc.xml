@@ -1,75 +1,75 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="ui_map_desc_mp_agroprom_large">
-		<text>Странное место. Безмолвное здание наверняка хранит свои тайны, но не оно влечет сюда сталкеров, а артефакты, щедро рождающиеся в этом районе. Тут можно разжиться неплохими артефактами, а можно легко расстаться с жизнью... Будь быстр и точен, и удача непременно улыбнется именно тебе.</text>
+		<text>Dziwne miejsce. Ten cichy budynek ma wiele sekretуw, ale mimo niebezpieczeсstw, stalkerуw przyci№gaj№ liczne artefakty, ktуre moїna tu znaleџж. Zwinne ruchy i celne strzaіy sprawi№, їe szczкњcie siк do ciebie uњmiechnie...</text>
 	</string>
 	<string id="ui_map_desc_mp_agroprom_short">
-		<text>Странное место. Безмолвное здание наверняка хранит свои тайны, но не оно влечет сюда сталкеров, а артефакты, щедро рождающиеся в этом районе...</text>
+		<text>Dziwne miejsce. Ten cichy budynek ma wiele sekretуw, ale mimo niebezpieczeсstw, stalkerуw przyci№gaj№ liczne artefakty, ktуre moїna tu znaleџж. </text>
 	</string>
 	<string id="ui_map_desc_mp_atp_large">
-		<text>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики...Артефактов замечено не было, но это место популярно среди опытных сталкеров, которые отстреливают новичков и забирают у них то немногое, что у них есть. Ищи укрытия в домах и за техникой, остерегайся врагов на крышах.</text>
+		<text>Warsztaty to przedsionek Zony. Traktory, autobusy i ciкїarуwki zatrzymaіy siк tu na zawsze. Nie znaleziono tu їadnych artefaktуw, ale to miejsce jest popularne wњrуd bandytуw, ktуrzy poluj№ tu na nowicjuszy i zabieraj№ im, co mog№. Kryj siк za budynkami oraz za sprzкtem i uwaїaj na wrogуw na dachach.</text>
 	</string>
 	<string id="ui_map_desc_mp_atp_short">
-		<text>Автобусно-троллейбусный парк, расположенный в предбаннике Зоны. Замерли навсегда трактора, автобусы и грузовики...</text>
+		<text>Warsztaty to przedsionek Zony. Traktory, autobusy i ciкїarуwki zatrzymaіy siк tu na zawsze.</text>
 	</string>
 	<string id="ui_map_desc_mp_bath_large">
-		<text>Загадочное место, обладающее странным притяжением... Бассейн для экспериментов, кем и для чего построенный навсегда останется тайной. Артефактов тут нет, поэтому сталкеров сюда могу привлечь разве что остатки диковинных агрегатов и приборов. Внимательно следи за крышами и помни, что уровень радиации тут чрезмерно высок.</text>
+		<text>To tajemnicze miejsce w dziwny sposуb przyci№ga ludzi. Na zawsze pozostanie tajemnic№, kto i dlaczego wybudowaі ten eksperymentalny basen. Nie ma tu artefaktуw. Stalkerzy ci№gn№ tu do pozostaіoњci dziwnych maszyn i urz№dzeс. Obserwuj dachy i pamiкtaj, їe w tej okolicy panuje wyj№tkowo silne promieniowanie.</text>
 	</string>
 	<string id="ui_map_desc_mp_bath_short">
-		<text>Загадочное место, обладающее странным притяжением... Бассейн для экспериментов, кем и для чего построенный навсегда останется тайной.</text>
+		<text>To tajemnicze miejsce w dziwny sposуb przyci№ga ludzi. Na zawsze pozostanie tajemnic№, kto i dlaczego wybudowaі ten eksperymentalny basen. </text>
 	</string>
 	<string id="ui_map_desc_mp_factory_large">
-		<text>Мрачный, заброшенный заводик. Сколько сталкеров тут полегло, не счесть. Аномалий там всяких очень много, однако, притягивает это место сталкеров, как магнит. А все потому, что артефактами ценными тут разжиться... Осторожно, радиация!</text>
+		<text>Ponura, opuszczona fabryka. Nie wiadomo, ilu stalkerуw tu zginкіo. Peіno tu rуїnych anomalii, a mimo to stalkerzy przyci№gani s№ magnesem w postaci wartoњciowych artefaktуw. Uwaga na promieniowanie!</text>
 	</string>
 	<string id="ui_map_desc_mp_factory_short">
-		<text>Мрачный, заброшенный заводик. Сколько сталкеров тут полегло, не счесть.</text>
+		<text>Ponura, opuszczona fabryka. Nie wiadomo, ilu stalkerуw tu zginкіo.</text>
 	</string>
 	<string id="ui_map_desc_mp_garbage_large">
-		<text>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника... Можно найти останки старых построек и огромный ангар....Все это не далеко от входа в Зону и артефактов тут достаточно много, что и привлекает сюда сталкеров, которые ищут легкой наживы.</text>
+		<text>Czкњж ogromnego wysypiska, na ktуre po katastrofie w 1986 przywieziono gуry radioaktywnych њmieci, takich jak rozlatuj№ce siк dџwigi czy sprzкt komputerowy. Moїna tu znaleџж resztki starych budynkуw uїytkowych i ogromny hangar. Niedaleko znajduje siк wejњcie do Zony i moїna znaleџж wiele artefaktуw. To wіaњnie dlatego stalkerzy zjawiaj№ siк tu w poszukiwaniu іatwej zdobyczy.</text>
 	</string>
 	<string id="ui_map_desc_mp_garbage_short">
-		<text>Это часть большой вонючей свалки, куда после аварии в 86 году свозили горы радиоактивного мусора... разбитые краны, техника...</text>
+		<text>Czкњж ogromnego wysypiska, na ktуre po katastrofie w 1986 przywieziono gуry radioaktywnych њmieci, takich jak rozlatuj№ce siк dџwigi czy sprzкt komputerowy.</text>
 	</string>
 	<string id="ui_map_desc_mp_lost_village_large">
-		<text>Покинутая, забытая богом деревья в глубине Зоны. Небольшое, мелкое ржавое озеро, заполненное останками машин, внушает какой-то подсознательный страх перед действительностью Зоны. Опасайся снайперов, но помни, Зона любит смелых.</text>
+		<text>Opuszczona, zapomniana przez Boga i ludzi wioska w gікbi Zony. Maіe, pіytkie, rdzawe jezioro peіne wrakуw samochodуw, wywoіuje w sercach ludzi przebywaj№cych w Zonie podњwiadomy strach. Uwaїaj na snajperуw, lecz pamiкtaj, їe Zona woli odwaїnych.</text>
 	</string>
 	<string id="ui_map_desc_mp_lost_village_short">
-		<text>Покинутая, забытая богом деревья в глубине Зоны. Небольшое, мелкое ржавое озеро, заполненное останками машин, внушает какой-то подсознательный страх перед действительностью Зоны.</text>
+		<text>Opuszczona, zapomniana przez Boga i ludzi wioska w gікbi Zony. Maіe, pіytkie, rdzawe jezioro peіne wrakуw samochodуw, wywoіuje w sercach ludzi przebywaj№cych w Zonie podњwiadomy strach.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_1_large">
-		<text>Заброшенная армейская база - навсегда застывшие грузовики и БТРы, разрушенный штаб и казармы. Однако эта пустынность и заброшенность обманчива - тут настоящий Клондайк артефактов, поэтому враг может ожидать тебя где угодно...Докажи, что ты - лучший!</text>
+		<text>Baza wojskowa, w ktуrej pozostaіy zepsute ciкїarуwki, transportery opancerzone, koszary i zniszczone centrum dowodzenia. Jednak prawda o tym miejscu jest inna, niї siк wydaje. Baza jest bogata w artefakty, a za kaїdym rogiem czai siк wrуg. Pokaї, na co ciк staж i odbierz nagrodк!</text>
 	</string>
 	<string id="ui_map_desc_mp_military_1_short">
-		<text>Заброшенная армейская база - навсегда застывшие грузовики и БТРы, разрушенный штаб и казармы.</text>
+		<text>Baza wojskowa, w ktуrej pozostaіy zepsute ciкїarуwki, transportery opancerzone, koszary i zniszczone centrum dowodzenia.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_2_large">
-		<text>Эта старая деревенька - место жуткое и гиблое. Но раз уж рискнул добраться сюда, будь готовым получить пулю в лоб. Тут ты нигде не можешь чувствовать себя в безопасности, да хранят тебя оптика и глушитель.</text>
+		<text>Ta stara wioska to zіowieszcze miejsce i њmiertelna puіapka. Ale jeњli zaszedіeњ tak daleko mimo ryzyka, jesteњ gotуw umrzeж nagі№ њmierci№. Їadne miejsce nie jest tu bezpieczne, musisz wiкc liczyж na swуj celownik i tіumik, jeњli chcesz zostaж w jednym kawaіku.</text>
 	</string>
 	<string id="ui_map_desc_mp_military_2_short">
-		<text>Эта старая деревенька - место жуткое и гиблое. Но раз уж рискнул добраться сюда, будь готовым получить пулю в лоб.</text>
+		<text>Ta stara wioska to zіowieszcze miejsce i њmiertelna puіapka. Ale jeњli zaszedіeњ tak daleko mimo ryzyka, jesteњ gotуw umrzeж nagі№ њmierci№.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_large">
-		<text>Город Припять, бывшее место проживания работников АЭС, вернее, то, что от него осталось. Руины этого индустриального скелета таят в себе вполне реальную опасность. Здесь следует по-настоящему беречь свою жизнь.</text>
+		<text>Prypeж to byіe miejsce zamieszkania pracownikуw elektrowni j№drowej - a raczej to, co z niego zostaіo. Te przemysіowe ruiny s№ wyj№tkowo niebezpieczne. Tutaj naprawdк trzeba mieж siк stale na bacznoњci.</text>
 	</string>
 	<string id="ui_map_desc_mp_prypiat_short">
-		<text>Город Припять неподалеку от АЭС - наследие чернобыльской катастрофы.</text>
+		<text>Prypeж leїy niedaleko Czarnobylskiej Elektrowni J№drowej - pami№tki po katastrofie.</text>
 	</string>
 	<string id="ui_map_desc_mp_railraod_short">
-		<text>Небольшая железнодорожная станция при заводе "Росток".</text>
+		<text>Niewielka stacja kolejowa na terenie fabryki "Rostok". </text>
 	</string>
 	<string id="ui_map_desc_mp_railroad_large">
-		<text>Небольшая железнодорожная станция при заводе "Росток". Проржавевшие вагоны и тепловозы теперь стоят на вечном приколе. Множество артефактов приманивает сюда отчаянных сталкеров со всей Зоны.</text>
+		<text>Niewielka stacja kolejowa w fabryce Rostok. Zardzewiaіe wagony i lokomotywy diesla stoj№ teraz na wiecznym rozwidleniu drуg. Liczne znajdowane tu artefakty przyci№gaj№ zdesperowanych stalkerуw z caіej Zony. </text>
 	</string>
 	<string id="ui_map_desc_mp_rostok_large">
-		<text>Этот завод под грудами металла и за стенами бетона хранит какое-то особенное молчание. В прошлом веке здесь кипел рабочий процесс, трудящиеся спешили на смену под лозунги громкоговорителей... Но теперь завод отработал своё.</text>
+		<text>Pod stertami metalu i za betonowymi murami w fabryce panuje przedziwna cisza. W poprzednim stuleciu miejsce to tкtniіo їyciem, robotnicy њpieszyli na swoj№ zmianк, a z gіoњnikуw rozbrzmiewaіy slogany... Teraz w fabryce nikt juї nie pracuje.</text>
 	</string>
 	<string id="ui_map_desc_mp_rostok_short">
-		<text>Заброшенный старый завод под грудами металла и за стенами бетона хранит глубокое молчание.</text>
+		<text>W opuszczonej fabryce, pod stertami metalu i za betonowymi murami panuje gікboka cisza.</text>
 	</string>
 	<string id="ui_map_desc_mp_workshop_large">
-		<text>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты. Пустые ангары и склады таят в себе опасность на каждом шагу. Будь предельно осторожен и чаще обращай внимание на белую башню....</text>
+		<text>Zanim zjawiіa siк tu "Powinnoњж", byіy to obrzeїa fabryki "Rostok". Na tym zniszczonym terenie znaleџж moїna mnуstwo artefaktуw. Puste hangary i magazyny na kaїdym kroku roj№ siк od niebezpieczeсstw. B№dџ bardzo ostroїny i bacznie obserwuj biaі№ wieїк.</text>
 	</string>
 	<string id="ui_map_desc_mp_workshop_short">
-		<text>Окраина завода Росток до прихода Долга. Мрачные места, однако, очень богатые на артефакты.</text>
+		<text>Zanim zjawiіa siк tu "Powinnoњж", byіy to obrzeїa fabryki "Rostok". Na tym zniszczonym terenie znaleџж moїna mnуstwo artefaktуw.</text>
 	</string>
 </string_table>

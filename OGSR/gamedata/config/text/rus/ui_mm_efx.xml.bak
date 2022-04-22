@@ -1,69 +1,63 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+<?xml version="1.0" encoding="windows-1251" ?>
 <string_table>
 	<string id="ui_mm_crossfeed">
-		<text>Dźwięk obuuszny</text>
+		<text>Áčíŕóđŕë. çâóę</text>
 	</string>
 	<string id="ui_snd_stereo_mode">
-		<text>Wyjście stereo</text>
+		<text>Ńňĺđĺî-âűőîä</text>
 	</string>
 	<string id="ui_snd_resampler">
-		<text>Resempler</text>
+		<text>Đĺńĺěďëĺđ</text>
 	</string>
 	<string id="ui_snd_wide_stereo">
-		<text>Rozszerzone stereo</text>
+		<text>Đŕńřčđĺííîĺ ńňĺđĺî</text>
 	</string>
 	<string id="ui_snd_hrtf">
 		<text>HRTF</text>
 	</string>
 	<string id="crsf_disable">
-		<text>wyłączono</text>
+		<text>âűęëţ÷ĺíî</text>
 	</string>
 	<string id="crsf_low">
-		<text>niskie</text>
+		<text>ńëŕáîĺ</text>
 	</string>
 	<string id="crsf_middle">
-		<text>średnie</text>
+		<text>ńđĺäíĺĺ</text>
 	</string>
 	<string id="crsf_high">
-		<text>wysokie</text>
+		<text>âűńîęîĺ</text>
 	</string>
 	<string id="crsf_low_easy">
-		<text>uproszzcone niskie</text>
+		<text>óďđîů¸ííîĺ ńëŕáîĺ</text>
 	</string>
 	<string id="crsf_middle_easy">
-		<text>uproszczone średnie</text>
+		<text>óďđîů¸ííîĺ ńđĺäíĺĺ</text>
 	</string>
 	<string id="crsf_high_easy">
-		<text>uproszczone wysokie</text>
+		<text>óďđîů¸ííîĺ âűńîęîĺ</text>
 	</string>
 	<string id="sm_auto">
-		<text>autodetekcja</text>
+		<text>ŕâňîîďđĺäĺëĺíčĺ</text>
 	</string>
 	<string id="sm_speakers">
-		<text>głośniki</text>
+		<text>ęîëîíęč</text>
 	</string>
 	<string id="sm_headphones">
-		<text>słuchawki</text>
+		<text>íŕóříčęč</text>
 	</string>
 	<string id="rp_point">
-		<text>punktowy</text>
+		<text>ňî÷ĺ÷íűé</text>
 	</string>
 	<string id="rp_linear">
-		<text>liniowy</text>
+		<text>ëčíĺéíűé</text>
 	</string>
 	<string id="rp_cubic">
-		<text>sześcienny</text>
+		<text>ęóáč÷ĺńęčé</text>
 	</string>
 	<string id="efx_restart_tips">
-		<text>Po zmianie ustawień EFX</text>
+		<text>Ďîńëĺ čçěĺíĺíč˙ EFX íŕńňđîĺę</text>
 	</string>
 	<string id="efx_restart_tips1">
-		<text>należy zrestartować grę</text>
-	</string>
-	<string id="ui_mm_fps_lock">
-	<text>Blokada FPS</text>
-	</string>
-	<string id="ui_mm_always_active">
-	<text>Zawsze włączony </text>
+		<text>íĺîáőîäčěî ďĺđĺçŕďóńňčňü čăđó</text>
 	</string>
 </string_table>
