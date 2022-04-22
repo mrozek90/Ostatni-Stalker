@@ -1733,7 +1733,7 @@
         <text>Grek, w czasie gdy ty ci¹ga³eœ makiety do schowka, grupa Synoptyka wszystko przygotowa³a… Nie mogê ci wiêcej powiedzieæ, Grek, przejdŸ Barierê, znajdŸ panel - szast prast i ju¿. Tobie wypadnie przejœæ przez horyzont.</text>
     </string>
 	<string id="pri_gunman_dialog_1_9">
-        <text>Takie to proste, Strie³ok! A gdzie jeszcze pójœæ?! Wy³¹czyæ Barierê?! Tak, na mi³oœæ bosk¹! A, co - Doppler - martwy?</text>
+        <text>Takie to proste, Strie³ok! A gdzie jeszcze pójœæ?! Wy³¹czyæ Barierê?! Tak, na mi³oœæ bosk¹! A, co - Zmieniaj¹cy Oblicze - martwy?</text>
     </string>
 	<string id="pri_gunman_dialog_1_10">
         <text>Nie. Trzeba go zabiæ. Ale kule siê go nie imaj¹. A póki on ¿yje - Poszukiwacze nie wy³¹cz¹ Bariery</text>
@@ -1760,19 +1760,19 @@
         <text>Griszka? To dobrze, postaram siê go znaleŸæ.</text>
     </string>
 	<string id="pri_gunman_dialog_1_18">
-        <text>Przestañ panikowaæ, Grek - Doppler boi siê kutego ¿elaza. Pamiêtam, ¿e widzia³em u Ciebie no¿e, którymi operowa³ najemnik Johnny. Masz je jeszcze?</text>
+        <text>Przestañ panikowaæ, Grek - Zmieniaj¹cy Oblicze boi siê kutego ¿elaza. Pamiêtam, ¿e widzia³em u Ciebie no¿e, którymi operowa³ najemnik Johnny. Masz je jeszcze?</text>
     </string>
 	<string id="pri_gunman_dialog_1_19">
         <text>Tak, mam jeszcze kilka sztuk. Myœlisz, ¿e mo¿na go no¿em?</text>
     </string>
 	<string id="pri_gunman_dialog_1_20">
-        <text>Tak. Myœlê, ¿e Doppler obawia³ siê Johnnego z powodu tych ostrzy. Dlatego go nie rusza³.</text>
+        <text>Tak. Myœlê, ¿e Zmieniaj¹cy Oblicze obawia³ siê Johnnego z powodu tych ostrzy. Dlatego go nie rusza³.</text>
     </string>
 	<string id="pri_gunman_dialog_1_21">
         <text>Hm, ciekawy pomys³.</text>
     </string>
 	<string id="pri_gunman_dialog_1_22">
-        <text>Pamiêtaj, ¿e bêdziesz mia³ tylko jedn¹ próbê, do drugiej Doppler ju¿ nie dopuœci. Uderzyæ musisz bezb³êdnie, na pewniaka. Z dystansu mo¿esz nawet nie próbowaæ - postawi ochronê i zabije Ciê bez wahania. A jak tylko Bariera zostanie wy³¹czona - w³¹czymy HSM na Wysypisku.</text>
+        <text>Pamiêtaj, ¿e bêdziesz mia³ tylko jedn¹ próbê, do drugiej Zmieniaj¹cy Oblicze ju¿ nie dopuœci. Uderzyæ musisz bezb³êdnie, na pewniaka. Z dystansu mo¿esz nawet nie próbowaæ - postawi ochronê i zabije Ciê bez wahania. A jak tylko Bariera zostanie wy³¹czona - w³¹czymy HSM na Wysypisku.</text>
     </string>
 	<string id="pri_gunman_dialog_1_23">
         <text>Dobrze. Mam nadziejê, ¿e jeszcze pogadamy.</text>
@@ -2254,7 +2254,7 @@
         <text>Nie tylko. Trzeba wy³¹czyæ Barierê.</text>
     </string>
 	<string id="gen_slaven_dialog_1_7">
-        <text>Wykluczone. Je¿eli wy³¹czymy Barierê - Doppler od razu st¹d ucieknie. Mamy teraz z nim pakt o nieagresji: my siê w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucich³. Ale ryzykowaæ nie mo¿emy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
+        <text>Wykluczone. Je¿eli wy³¹czymy Barierê - Zmieniaj¹cy Oblicze od razu st¹d ucieknie. Mamy teraz z nim pakt o nieagresji: my siê w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucich³. Ale ryzykowaæ nie mo¿emy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
     </string>
 	<string id="gen_slaven_dialog_1_8">
         <text>Bariera niszczy swoim ciê¿arem granicê miêdzy swiatami. Je¿eli nie chcesz wejœæ w ostatnie dla ca³ego Wszechœwiata starcie z demonami Ciemnoœci, powinna zostaæ wy³¹czona.</text>
@@ -2263,7 +2263,7 @@
         <text>Jakie demony? Bredzisz, Grek?</text>
     </string>
 	<string id="gen_slaven_dialog_1_10">
-        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralnoœæ z Dopplerem wypadnie zerwaæ. Przy okazji, gdzie on?</text>
+        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralnoœæ z Zmieniaj¹cym Obliczem wypadnie zerwaæ. Przy okazji, gdzie on?</text>
     </string>
 	<string id="gen_slaven_dialog_1_11">
         <text>Tutaj. Obok swojej instalacji. Sygna³y jakieœ w niebo posy³a. Ale do nas nie lezie i my go nie tykamy… Proponujesz zaatakowaæ?</text>
@@ -2272,16 +2272,16 @@
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_1_13">
-        <text>I Barierê wy³¹czymy tylko wtedy, jeœli zlikwidujemy Dopplera.</text>
+        <text>I Barierê wy³¹czymy tylko wtedy, jeœli zlikwidujemy Zmieniaj¹cego Oblicza.</text>
     </string>
 	<string id="gen_slaven_dialog_1_14">
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_1_15">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Dopplera, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_1_16">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Dopplera, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_1_17">
         <text>Dobrze. Zamieniê z kimœ kilka s³ów i przyjdê.</text>
@@ -2291,13 +2291,13 @@
     </string>
 
 	<string id="gen_slaven_dialog_2_0">
-        <text>Wynieœliœmy jego cia³o z laboratorium. On w pojedynkê walczy³ z Dopplerem, i… có¿. Ale równie¿ Bariera zosta³a na miejscu!</text>
+        <text>Wynieœliœmy jego cia³o z laboratorium. On w pojedynkê walczy³ z Zmieniaj¹cym Obliczem, i… có¿. Ale równie¿ Bariera zosta³a na miejscu!</text>
     </string>
 	<string id="gen_slaven_dialog_2_1">
         <text>Trzeba wy³¹czyæ Barierê.</text>
     </string>
 	<string id="gen_slaven_dialog_2_2">
-        <text>Wykluczone. Je¿eli wy³¹czymy Barierê - Doppler od razu st¹d ucieknie. Mamy teraz z nim pakt o nieagresji: my siê w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucich³. Ale ryzykowaæ nie mo¿emy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
+        <text>Wykluczone. Je¿eli wy³¹czymy Barierê - Zmieniaj¹cy Oblicze od razu st¹d ucieknie. Mamy teraz z nim pakt o nieagresji: my siê w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucich³. Ale ryzykowaæ nie mo¿emy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
     </string>
 	<string id="gen_slaven_dialog_2_3">
         <text>Bariera niszczy swoim ciê¿arem granicê miêdzy swiatami. Je¿eli nie chcesz wejœæ w ostatnie dla ca³ego Wszechœwiata starcie z demonami Ciemnoœci, powinna zostaæ wy³¹czona.</text>
@@ -2306,7 +2306,7 @@
         <text>Jakie demony? Bredzisz, Grek?</text>
     </string>
 	<string id="gen_slaven_dialog_2_5">
-        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralnoœæ z Dopplerem wypadnie zerwaæ. Przy okazji, gdzie on?</text>
+        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralnoœæ z Zmieniaj¹cym Obliczem wypadnie zerwaæ. Przy okazji, gdzie on?</text>
     </string>
 	<string id="gen_slaven_dialog_2_6">
         <text>Tutaj. Obok swojej instalacji. Sygna³y jakieœ w niebo posy³a. Ale do nas nie lezie i my go nie tykamy… Proponujesz zaatakowaæ?</text>
@@ -2315,16 +2315,16 @@
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_2_8">
-        <text>I Barierê wy³¹czymy tylko wtedy, jeœli zlikwidujemy Dopplera.</text>
+        <text>I Barierê wy³¹czymy tylko wtedy, jeœli zlikwidujemy Zmieniaj¹cego Oblicza.</text>
     </string>
 	<string id="gen_slaven_dialog_2_9">
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_2_10">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Dopplera, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_2_11">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Dopplera, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_2_12">
         <text>Dobrze. Zamieniê kilka s³ów z Bormanem i przyjdê.</text>
@@ -2334,7 +2334,7 @@
     </string>
 
 	<string id="gen_slaven_dialog_3_0">
-        <text>Nie zapomnia³eœ? Bariera zostanie wy³¹czona, tylko wtedy, je¿eli Doppler zostanie zabity.</text>
+        <text>Nie zapomnia³eœ? Bariera zostanie wy³¹czona, tylko wtedy, je¿eli Zmieniaj¹cy Oblicze zostanie zabity.</text>
     </string>
 	<string id="gen_slaven_dialog_3_1">
         <text>Pozostajê przy w³asnym zdaniu.</text>
@@ -2457,7 +2457,7 @@
         <text>Nie wiem, Grek. Andriuszê pogrzebaliœmy tam, na pagórku. Odpoczniemy, odeœpimy. Potem siê zastanowimy co dalej robiæ.</text>
     </string>
 	<string id="esc_slaven_dialog_1_2">
-        <text>S³uchaj, S³awik - wypuœciliœmy Dopplera.</text>
+        <text>S³uchaj, S³awik - wypuœciliœmy Zmieniaj¹cego Oblicza.</text>
     </string>
 	<string id="esc_slaven_dialog_1_3">
         <text>Oczywiste. Przecie¿ mówiê - odpoczniemy, odeœpimy. Potem siê zastanowimy co dalej robiæ.</text>
@@ -2473,7 +2473,7 @@
         <text>Nie wiem, Grek. Andriuszê pogrzebaliœmy tam, na pagórku. Odpoczniemy, odeœpimy. Potem siê zastanowimy co dalej robiæ.</text>
     </string>
 	<string id="esc_slaven_dialog_2_2">
-        <text>S³uchaj, S³awik - zabiliœmy Dopplera!</text>
+        <text>S³uchaj, S³awik - zabiliœmy Zmieniaj¹cego Oblicze!</text>
     </string>
 	<string id="esc_slaven_dialog_2_3">
         <text>Oczywiste. Dawno ju¿ trzeba by³o, ale nie wiadomo by³o jak to zrobiæ.</text>
@@ -2498,7 +2498,7 @@
         <text>A kto ci powiedzia³, ¿e przyszed³em za Tob¹ na Generatory?</text>
     </string>
 	<string id="esc_jj_dialog_1_5">
-        <text>Doppler…</text>
+        <text>Zmieniaj¹cy Oblicze…</text>
     </string>
 	<string id="esc_jj_dialog_1_6">
         <text>Oszala³eœ.</text>
@@ -2537,7 +2537,7 @@
         <text>Tak, tak bywa…</text>
     </string>
 	<string id="esc_jj_dialog_1_18">
-        <text>Ale po co Doppler próbowa³ nas sk³óciæ?</text>
+        <text>Ale po co Zmieniaj¹cy Oblicze próbowa³ nas sk³óciæ?</text>
     </string>
 	<string id="esc_jj_dialog_1_19">
         <text>Cholera go wie, Grek. Mo¿e, to po prostu jego po¿egnalny dowcip.</text>
@@ -2693,10 +2693,10 @@
         <text>Streszczaj siê.</text>
     </string>
 	<string id="mil_military_stalker_storekeeper_dialog_2_5">
-        <text>Nudno by³o, wiêc… Poszed³em po cichu poszperaæ po kilku interesuj¹cych miejscach. Leo nie uprzedza³em, nie pozwoli³by na to. «Prometeusz», dawne kino, znasz przecie¿? Tam w³aœnie by³em. Wewn¹trz. I nagle, ni z tego, ni z owego, ogarn¹³ mnie bezpodstawny strach. Na wszelki wypadek schowa³em siê w k¹cie za pianinem. Siedzê. S³yszê kroki. Wyjrza³em ostro¿nie, patrzê, a tu do kina wchodzi Doppler. Nigdy wczeœniej go nie widzia³em i nie wierzy³em w opowieœci. A tu - ON! Podchodzi do mnie i mówi: «Zapomnia³em przekazaæ moje ogromne nieludzkie podziêkowania wszystkim i jeszcze to.» I jakieœ barach³o na pianino z hukiem k³adzie. Odwróci³ siê i poszed³.</text>
+        <text>Nudno by³o, wiêc… Poszed³em po cichu poszperaæ po kilku interesuj¹cych miejscach. Leo nie uprzedza³em, nie pozwoli³by na to. «Prometeusz», dawne kino, znasz przecie¿? Tam w³aœnie by³em. Wewn¹trz. I nagle, ni z tego, ni z owego, ogarn¹³ mnie bezpodstawny strach. Na wszelki wypadek schowa³em siê w k¹cie za pianinem. Siedzê. S³yszê kroki. Wyjrza³em ostro¿nie, patrzê, a tu do kina wchodzi Zmieniaj¹cy Oblicze. Nigdy wczeœniej go nie widzia³em i nie wierzy³em w opowieœci. A tu - ON! Podchodzi do mnie i mówi: «Zapomnia³em przekazaæ moje ogromne nieludzkie podziêkowania wszystkim i jeszcze to.» I jakieœ barach³o na pianino z hukiem k³adzie. Odwróci³ siê i poszed³.</text>
     </string>
 	<string id="mil_military_stalker_storekeeper_dialog_2_6">
-        <text>A gdzie to, co Doppler zostawi³?</text>
+        <text>A gdzie to, co Zmieniaj¹cy Oblicze zostawi³?</text>
     </string>
 	<string id="mil_military_stalker_storekeeper_dialog_2_7">
         <text>Prawdopodobnie, ci¹gle tam na pianinie le¿y. Nie rozgl¹da³em siê - uciek³em drugimi drzwiami. Ruszy³em do swoich. I nikogo ju¿ nie znalaz³em.</text>
@@ -2718,7 +2718,7 @@
         <text>To rozumiem. A ty coœ taki smutny, Grek? Zdarzy³o siê coœ?</text>
     </string>
 	<string id="varnak_grek_about_im_2">
-        <text>Ten Doppler - wyj¹tkowy skurwysyn.</text>
+        <text>Ten Zmieniaj¹cy Oblicze - wyj¹tkowy skurwysyn.</text>
     </string>
 	<string id="varnak_grek_about_im_3">
         <text>Nie zaprzeczê. To co siê sta³o?</text>
@@ -2813,7 +2813,7 @@
 	<text>To znaczy?</text>
 </string>
 <string id="moldovan_dialog_1_5">
-	<text>Wydaje mi siê, ¿e to Doppler go naznaczy³. Wszystko by³o normalnie, jak zwykle. A nagle w jedn¹ noc, Leszyk nagle zasêpi³ siê, skwaœnia³, ¿artowaæ przesta³. A co tam ¿artowaæ, mówiæ przesta³. Tak, nie, nie chcê, nie wiem - oto i ca³a rozmowa. I najwa¿niejsze, sam widzia³eœ - posiwia³. Jakby w jedn¹ chwilê postarza³ siê o dwadzieœcia lat. I zobojêtnia³ na wszystko. Nawet jeœæ nie chcia³. I ci¹gle chodzi³ na Dopplera patrzeæ. Wstanie, patrzy i nie rusza siê. Nawet pó³ dnia móg³ tak przestaæ, jeœli by go nie zawo³aæ. Jak zaczarowany. </text>
+	<text>Wydaje mi siê, ¿e to Zmieniaj¹cy Oblicze go naznaczy³. Wszystko by³o normalnie, jak zwykle. A nagle w jedn¹ noc, Leszyk nagle zasêpi³ siê, skwaœnia³, ¿artowaæ przesta³. A co tam ¿artowaæ, mówiæ przesta³. Tak, nie, nie chcê, nie wiem - oto i ca³a rozmowa. I najwa¿niejsze, sam widzia³eœ - posiwia³. Jakby w jedn¹ chwilê postarza³ siê o dwadzieœcia lat. I zobojêtnia³ na wszystko. Nawet jeœæ nie chcia³. I ci¹gle chodzi³ na Zmieniaj¹cego Oblicza patrzeæ. Wstanie, patrzy i nie rusza siê. Nawet pó³ dnia móg³ tak przestaæ, jeœli by go nie zawo³aæ. Jak zaczarowany. </text>
 </string>
 <string id="moldovan_dialog_1_6">
 	<text>Tak, Kotia, mog³o tak byæ, ja ju¿ niczemu siê nie dziwiê.</text>

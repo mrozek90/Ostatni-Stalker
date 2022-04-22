@@ -792,7 +792,7 @@
         <text>Dok³adnie! Grek. Widzê: znajoma twarz, a przypomnieæ sobie nie mogê. Widzia³em Ciê tu w zesz³ym roku.</text>
     </string>
 	<string id="sor_galash_dialog_1_5">
-        <text>Wiem. S³uchaj teraz uwa¿nie. Szamraj jest na Kordonie, z tej strony Perymetru. Powiedzia³, ¿e mu pomo¿esz.</text>
+        <text>Wiem. S³uchaj teraz uwa¿nie. Szamraj jest na Kordonie, z tamtej strony Perymetru. Powiedzia³, ¿e mu pomo¿esz.</text>
     </string>
 	<string id="sor_galash_dialog_1_6">
         <text>Gdzie go szukaæ?</text>
@@ -901,10 +901,10 @@
         <text>Co Ciê interesuje?</text>
     </string>
 	<string id="sor_barman_dialog_1_4">
-        <text>A wszystko. GRC, Perymetr, Bagna, Ciemnoœæ. A przede wszystkim - Doppler; uda³o siê za³atwiæ ³ajdaka?</text>
+        <text>A wszystko. GRC, Perymetr, Bagna, Ciemnoœæ. A przede wszystkim - Zmieniaj¹cy Oblicze; uda³o siê za³atwiæ ³ajdaka?</text>
     </string>
 	<string id="sor_barman_dialog_1_5">
-        <text>¯artujesz, Grek? Znalaz³eœ sobie porê. Nie ma i nie by³o ¿adnego Dopplera - Wañka Gitler, idiota niedorobiony, przebiera³ siê w stwora z ¿elazn¹ mask¹ na twarzy i straszy³ stalkerów. Doigra³ siê, odstrzelili go. Ot i ca³a historia.</text>
+        <text>¯artujesz, Grek? Znalaz³eœ sobie porê. Nie ma i nie by³o ¿adnego Zmieniaj¹cego Oblicza - Wañka Gitler, idiota niedorobiony, przebiera³ siê w stwora z ¿elazn¹ mask¹ na twarzy i straszy³ stalkerów. Doigra³ siê, odstrzelili go. Ot i ca³a historia.</text>
     </string>
 	<string id="sor_barman_dialog_1_6">
         <text>A ksenoformy? Te, co przestrzeñ zwija³y i rozwija³y?</text>
@@ -919,7 +919,7 @@
         <text>Bariera jest. Ciutkê siê zmniejszy³a, buforowe terytoria zla³y siê z realnymi. Kto ma jaja, takie arty stamt¹d wyci¹ga, paluszki lizaæ.</text>
     </string>
 	<string id="sor_barman_dialog_1_10">
-        <text>Coœ tu jest nie tak, bratku. Nie, k³amaæ nie bêdê, na ¿ywo Dopplera nie spotka³em. Ale z duchem, œwietlist¹ zjaw¹ w ¿elaznej masce zderzy³em siê w X-18. Bariera, jest dalej... A po cholerê jest teraz potrzebna? Wañkê Gitlera w Centrum Zony trzymaæ?</text>
+        <text>Coœ tu jest nie tak, bratku. Nie, k³amaæ nie bêdê, na ¿ywo Zmieniaj¹cego Oblicza nie spotka³em. Ale z duchem, œwietlist¹ zjaw¹ w ¿elaznej masce zderzy³em siê w X-18. Bariera, jest dalej... A po cholerê jest teraz potrzebna? Wañkê Gitlera w Centrum Zony trzymaæ?</text>
     </string>
 	<string id="sor_barman_dialog_1_11">
         <text>Barierê Poszukiwacze postawili, ¿eby nie wpuszczaæ g³upców do Centrum. Oni tam lataj¹cy talerz znaleŸli; nie wiedzia³eœ?</text>
@@ -1111,7 +1111,7 @@
         <text>Czo³gisty. Przysy³a mnie Sidor.</text>
     </string>
 	<string id="stalker_tankist_2_dialog_2_2">
-        <text>WchodŸ. Pogadamy.</text>
+        <text>WchodŸ i porozmawiaj</text>
     </string>
 	<string id="stalker_tankist_2_dialog_2_3">
         <text>Zaraz lepiej.</text>
@@ -1809,10 +1809,10 @@
         <text>Co siê sta³o?</text>
     </string>
 	<string id="marsh_monk_8_dialog_1_4">
-        <text>Kiedy Poszukiwacze i najemnik Johnny zaczêli zwabiaæ Dopplera w pu³apkê na Generatorach, o.Witalij powiedzia³ nam, ¿ebyœmy szli do Bariery, a sam z Aleksiejem, Twoim przyjacielem i jego ludŸmi poszed³ na pomoc Poszukiwaczom.</text>
+        <text>Kiedy Poszukiwacze i najemnik Johnny zaczêli zwabiaæ Zmieniaj¹cego Oblicza w pu³apkê na Generatorach, o.Witalij powiedzia³ nam, ¿ebyœmy szli do Bariery, a sam z Aleksiejem, Twoim przyjacielem i jego ludŸmi poszed³ na pomoc Poszukiwaczom.</text>
     </string>
 	<string id="marsh_monk_8_dialog_1_5">
-        <text>I... i czym to wszystko siê skoñczy³o? Za³atwili Dopplera?</text>
+        <text>I... i czym to wszystko siê skoñczy³o? Za³atwili Zmieniaj¹cego Oblicza?</text>
     </string>
 	<string id="marsh_monk_8_dialog_1_6">
         <text>Nikt nie wie. Z Centrum Zony nie by³o od nich ¿adnych wiadomoœci. A Generatory...</text>
@@ -2623,7 +2623,7 @@
         <text>Dobra.</text>
     </string>
 	<string id="agr_deadman_dialog_1_17">
-        <text>Kiedy emisja, która zaczê³a siê na Generatorach, zniszczy³a komorê statyczn¹, która mia³a pochwyciæ i uwiêziæ Dopplera, uderzy³a w Barierê, Bariera j¹ odepchnê³a… poczekaj, Grek, daj mi dokoñczyæ… Centrum Zony znalaz³o siê poza horyzontem zdarzeñ naszego œwiata.</text>
+        <text>Kiedy emisja, która zaczê³a siê na Generatorach, zniszczy³a komorê statyczn¹, która mia³a pochwyciæ i uwiêziæ Zmieniaj¹cego Oblicza, uderzy³a w Barierê, Bariera j¹ odepchnê³a… poczekaj, Grek, daj mi dokoñczyæ… Centrum Zony znalaz³o siê poza horyzontem zdarzeñ naszego œwiata.</text>
     </string>
 	<string id="agr_deadman_dialog_1_18">
         <text>W innej rzeczywistoœci?</text>
@@ -3055,7 +3055,7 @@
         <text>Zszywacz zniszczy Barierê?</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_8">
-        <text>Nie. Barierê trzeba wy³¹czyæ. Ale najpierw trzeba zabiæ albo zamkn¹æ Dopplera i zamkn¹æ wy³om w rzeczywistoœci, «zszyæ» horyzont.</text>
+        <text>Nie. Barierê trzeba wy³¹czyæ. Ale najpierw trzeba zabiæ albo zamkn¹æ Zmieniaj¹cego Oblicza i zamkn¹æ wy³om w rzeczywistoœci, «zszyæ» horyzont.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_9">
         <text>Co to takiego Todash? Frazes, typu, Ciemnoœæ miêdzy œwiatami - nie przejdzie.</text>
@@ -3112,7 +3112,7 @@
         <text>Co jeszcze chcesz wiedzieæ?</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_27">
-        <text>Czyli, Doppler dalej jest na wolnoœci?</text>
+        <text>Czyli, Zmieniaj¹cy Oblicze dalej jest na wolnoœci?</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_28">
         <text>Tak. Bariera go trzyma. I prawdopodobnie, nauczy³ siê zabijaæ Stra¿ników, mo¿liwe ¿e zabi³ ich wszystkich.</text>
@@ -3302,7 +3302,7 @@
         <text>Co jeszcze chcesz wiedzieæ?</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_27">
-        <text>Czyli, Doppler dalej jest na wolnoœci?</text>
+        <text>Czyli, Zmieniaj¹cy Oblicze dalej jest na wolnoœci?</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_28">
         <text>Tak. Bariera go trzyma. I prawdopodobnie, nauczy³ siê zabijaæ Stra¿ników, mo¿liwe ¿e zabi³ ich wszystkich.</text>
@@ -3311,7 +3311,7 @@
         <text>Kto to s¹ Stra¿nicy?</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_30">
-        <text>Sztucznie stworzeni reptilianie. Ich przeznaczenie - polowanie na zbieg³ych wiêŸniów, takich jak Doppler.</text>
+        <text>Sztucznie stworzeni reptilianie. Ich przeznaczenie - polowanie na zbieg³ych wiêŸniów, takich jak Zmieniaj¹cy Oblicze.</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_31">
         <text>A! Tak, przypominam sobie. Johnny coœ o tym mówi³. Przy okazji - kiedy ostatni raz widzia³eœ Johnnego?</text>
@@ -5807,7 +5807,7 @@
 		<text>A sk¹d mam wiedzieæ co ty masz robiæ? Przypomnij sobie lepiej - gdzie siê krêci³eœ, gdzie nos swój wsadza³eœ? Znalaz³o siê tam mo¿e coœ, nie ca³kiem normalne?</text>
 	</string>
 	<string id="barman_dialod_about_black_soul_8">
-		<text>Dok³adnie! Znalaz³em! Tu i przypominaæ nie ma czego. Pamiêtasz, jak Ciê o wojskowych stalkerów pyta³em?.. Wiêc jeden z nich opowiedzia³ mi ciekaw¹ historiê. Niby, zajrza³ ten stalker do kina i tam spotka³ siê z samym Dopplerem. Ten stalker to ma ze dwa metry wzrostu, a w spodnie o ma³o co nie narobi³ ze strachu. I uciek³ stamt¹d. A Doppler podobno zostawi³ w kinie prezent. Poszed³em szybko do Prypeci, zobaczyæ co to za prezent. I, wyobraŸ sobie, znalaz³em! Sztabka z³ota! Tylko, ¿e jak wsadzi³em j¹ do plecaka - sztabka zniknê³a. W jej miejsce taki oto artefakt siê pojawi³. O, widzisz jaki piêkny?</text>
+		<text>Dok³adnie! Znalaz³em! Tu i przypominaæ nie ma czego. Pamiêtasz, jak Ciê o wojskowych stalkerów pyta³em?.. Wiêc jeden z nich opowiedzia³ mi ciekaw¹ historiê. Niby, zajrza³ ten stalker do kina i tam spotka³ siê z samym Zmieniaj¹cym Obliczem. Ten stalker to ma ze dwa metry wzrostu, a w spodnie o ma³o co nie narobi³ ze strachu. I uciek³ stamt¹d. A Zmieniaj¹cy Oblicze podobno zostawi³ w kinie prezent. Poszed³em szybko do Prypeci, zobaczyæ co to za prezent. I, wyobraŸ sobie, znalaz³em! Sztabka z³ota! Tylko, ¿e jak wsadzi³em j¹ do plecaka - sztabka zniknê³a. W jej miejsce taki oto artefakt siê pojawi³. O, widzisz jaki piêkny?</text>
 	</string>
 	<string id="barman_dialod_about_black_soul_9">
 		<text>Cholera, Grek! Jak to siê dzieje, ¿e ty w ka¿de gówno wdepniesz! Czy Ty wiesz co TO jest?</text>

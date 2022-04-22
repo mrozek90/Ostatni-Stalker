@@ -2152,7 +2152,7 @@
 			<infoportion_fail>im_flies_away</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Zneutralizuj Dopplera</text>
+			<text>Zneutralizuj Zmieniaj¹cego Oblicza</text>
 			<infoportion_complete>kill_iron_mask_1</infoportion_complete>
 		</objective>
 </game_task>
