@@ -26,12 +26,8 @@ Folder: "2020" dla wersji 1.3 z silnikiem XRay.
 # **Lista zmian tłumaczenia względem v1.1:**  
 
 - Nazwa NPC: Wodny Szczur -> Karczownik  
-- Nazwa NPC: Dedman -> Umarlak  
-- Nazwa NPC: Szamraj -> Szrama  
+- Nazwa NPC: Dedman -> Umarlak   
 - Nazwa NPC: Pancer -> Panzer  
-- Nazwa NPC: Żwawy -> Zwinny  
-- Nazwa NPC: Szoker -> Paskuda  
-- Nazwa NPC: Genia/Gienia Haker -> Gen Haker  
 - Nazwa NPC: Ochrypły -> Chrypa  
 - Nazwa NPC: Piorun -> Grom  
 ...
