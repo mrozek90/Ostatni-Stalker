@@ -19,16 +19,16 @@
 	</string>
 
 	<string id="shamray_gang_novice">
-		<text>Banda Szramy, nowicjusz</text>
+		<text>Banda Szramaja, nowicjusz</text>
 	</string>
 	<string id="shamray_gang_regular">
-		<text>Banda Szramy, doúwiadczony</text>
+		<text>Banda Szramaja, doúwiadczony</text>
 	</string>
 	<string id="shamray_gang_veteran">
-		<text>Banda Szramy, weteran</text>
+		<text>Banda Szramaja, weteran</text>
 	</string>
 	<string id="shamray_gang_master">
-		<text>Banda Szramy, mistrz</text>
+		<text>Banda Szramaja, mistrz</text>
 	</string>
 
 	<string id="bb_novice">
@@ -540,11 +540,11 @@
 	<string id="atp_hunter_3_name">
 		<text>Ba≥abaszow</text>
 	</string>
-	
+
 	<string id="w_pri_stranger_name">
 		<text>Nieznany</text>
 	</string>
-	
+
 	<string id="strangers_experienced">
 		<text>Nieznany, doúwiadczony</text>
 	</string>
@@ -782,7 +782,7 @@
 	</string>
 
 	<string id="shamray_name">
-		<text>Losza Szrama</text>
+		<text>Losza Szamraj</text>
 	</string>
 
 	<string id="deadman_name">
@@ -1238,7 +1238,7 @@
 	</string>
 
 	<string id="grc_agent_name">
-		<text>Kulawy</text>
+		<text>Pulewicz</text>
 	</string>
 
 	<string id="grc_kum_name">
@@ -1362,7 +1362,7 @@
 	</string>
 
 	<string id="kuchma_name">
-		<text>Kuüma</text>
+		<text>Kuczma</text>
 	</string>
 
 	<string id="gold_name">
@@ -1406,7 +1406,7 @@
 	</string>
 
 	<string id="val_wild_killer_commander_name">
-		<text>Paskuda</text>
+		<text>Szoker</text>
 	</string>
 
 	<string id="val_wild_killer_operator_name">

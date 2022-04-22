@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1250" ?>
+SzamrajŻwawySzoker<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
 	<string id="dolg_hello_dialog_0">
@@ -151,7 +151,7 @@
         <text>Na bazie to kto robi za starszego?</text>
     </string>
     <string id="garfirst_deadman_dialog_10">
-        <text>Szrama. Prawie 160 kilo żywej wagi - albo tam, albo na południowym Kordonie się kręci. Jeżeli to ON ci potrzebny - sprawdź tam i tam.</text>
+        <text>Szamraj. Prawie 160 kilo żywej wagi - albo tam, albo na południowym Kordonie się kręci. Jeżeli to ON ci potrzebny - sprawdź tam i tam.</text>
     </string>
     <string id="garfirst_deadman_dialog_11">
         <text>Pod kim chodzi?</text>
@@ -160,7 +160,7 @@
         <text>Zwisa mi to, pod kim on chodzi. Ale chłop, podobno, niezły. To najważniejsze. Prawda?</text>
     </string>
     <string id="garfirst_deadman_dialog_13">
-        <text>Nie wiem. Może tak. No, to pójdę z Szramą się zaznajomić.</text>
+        <text>Nie wiem. Może tak. No, to pójdę z Szamrajem się zaznajomić.</text>
     </string>
     <string id="garfirst_deadman_dialog_14">
         <text>Aha, bywaj. Jakby co - zawsze tu jestem, wpadnij.</text>
@@ -241,7 +241,7 @@
         <text>Ot i Dętemu koniec. Właśnie zdechł, Grek?</text>
     </string>
 	<string id="esc_shamray_dialog1_1">
-        <text>E, Szrama, może to teleport?</text>
+        <text>E, Szamraj, może to teleport?</text>
     </string>
 	<string id="esc_shamray_dialog1_2">
         <text>Wszystko widziałem, Grek. Jak Dęty rzucił broń, jak biegł w stronę cmentarzyska pojazdów, jak jakaś bestia skręciła mu kark i rzuciła zwłoki w teleport.</text>
@@ -253,7 +253,7 @@
         <text>Nie, serią ją przeszyłem.</text>
     </string>
 	<string id="esc_shamray_dialog1_5">
-        <text>Poczekaj, Szrama, tam jeden braciak został. W piwnicy, na Pchlim Targu. Czuma, chyba.</text>
+        <text>Poczekaj, Szamraj, tam jeden braciak został. W piwnicy, na Pchlim Targu. Czuma, chyba.</text>
     </string>
 	<string id="esc_shamray_dialog1_6">
         <text>Zapomnij, już go nie ma. I nam tu za długo stać nie jest dobrze. Trzeba iść dalej, na Południe.</text>
@@ -443,10 +443,10 @@
         <text>U nas prawie demokracja, tak bractwo zdecydowało, niby że już dość. To i czekamy na powrót do cywilizacji. A Ty czego szukasz?</text>
     </string>
 	<string id="esc_hb_bandit_1_dialog_1_5">
-        <text>Przyjaciele moi tu nie zaglądali? Dwóch ich było, ludzie Szramy.</text>
+        <text>Przyjaciele moi tu nie zaglądali? Dwóch ich było, ludzie Szamraja.</text>
     </string>
 	<string id="esc_hb_bandit_1_dialog_1_6">
-        <text>Nie, od Szramy nikogo tu nie było.</text>
+        <text>Nie, od Szamraja nikogo tu nie było.</text>
     </string>
 	<string id="esc_hb_bandit_1_dialog_1_7">
         <text>Bez przepustki od GRC za perymetr trudno się dostać?</text>
@@ -489,7 +489,7 @@
         <text>Jeżeli postanowisz uciekać - dam Ci namiar na schowek. Tam - nóż, konserwy, apteczki i przede wszystkim, wykrywacz min. Broń też jest. Miejsce, gdzie przejście zrobić łatwo, i gdzie siatka cieńsza, narysuję Ci.</text>
     </string>
 	<string id="esc_hb_bandit_3_dialog_1_10">
-        <text>1.	Nie, nie wchodzi w rachubę. Obiecałem pomóc Szramie. W sumie - jakiś czas tu pobędę.</text>
+        <text>1.	Nie, nie wchodzi w rachubę. Obiecałem pomóc Szamrajowi. W sumie - jakiś czas tu pobędę.</text>
     </string>
 	<string id="esc_hb_bandit_3_dialog_1_11">
         <text>Cóż, jak chcesz.</text>
@@ -594,7 +594,7 @@
         <text>Tak ze cztery godziny przed Tobą dociągnąłem.</text>
     </string>
 	<string id="esc_hb_bandit_6_dialog_1_2">
-        <text>Szramowych nie widziałeś? Dwóch takich, wystraszonych?</text>
+        <text>Szamrajowych nie widziałeś? Dwóch takich, wystraszonych?</text>
     </string>
 	<string id="esc_hb_bandit_6_dialog_1_3">
         <text>Bęben i Jazgarz? Razem na posterunku GRC byli. Z południa przyszli, bez broni, dobrze mówisz - wystraszeni. Ciągle o jakiejś dziewczynie nawijali. GRC się nie bawiło: skuli im ręce i od razu na Sortownię zawieźli.</text>
@@ -694,7 +694,7 @@
         <text>O! Wróciłeś.</text>
     </string>
 	<string id="esc_shamray_dialog2_1">
-        <text>Są jakieś wieści, Szrama?</text>
+        <text>Są jakieś wieści, Szamraj?</text>
     </string>
 	<string id="esc_shamray_dialog2_2">
         <text>U mnie nic. A Ty co powiesz?</text>
@@ -736,10 +736,10 @@
         <text>Chcę, żebyście w nocy pohałasowali w zachodnim sektorze ochrony, odciągnęli brudasów.</text>
     </string>
 	<string id="esc_shamray_dialog2_15">
-        <text>Dam Ci radioskaner, wyślesz sygnał jak będziesz gotowy. Uważaj na helikopter. Jak przez wyłom w Perymetrze przeleziesz, nie rozglądaj się, tylko idź w prawo. Tam zobaczysz dziurę w siatce. Przełaź i biegiem. Inaczej koniec z Tobą... Prośba jest, Grek: jeżeli uda Ci się przejść za Perymetr, znajdź na Sortowni Saszkę Gałasza, na chutorze u Sidora się kręci. Przekaż mu, że Losza Szrama tkwi za Perymetrem na Kordonie, Loszy pomoc jest potrzebna i Losza chce ją otrzymać.</text>
+        <text>Dam Ci radioskaner, wyślesz sygnał jak będziesz gotowy. Uważaj na helikopter. Jak przez wyłom w Perymetrze przeleziesz, nie rozglądaj się, tylko idź w prawo. Tam zobaczysz dziurę w siatce. Przełaź i biegiem. Inaczej koniec z Tobą... Prośba jest, Grek: jeżeli uda Ci się przejść za Perymetr, znajdź na Sortowni Saszkę Gałasza, na chutorze u Sidora się kręci. Przekaż mu, że Losza Szamraj tkwi za Perymetrem na Kordonie, Loszy pomoc jest potrzebna i Losza chce ją otrzymać.</text>
     </string>
 	<string id="esc_shamray_dialog2_16">
-        <text>Dobrze, Szrama. No, to ruszamy.</text>
+        <text>Dobrze, Szamraj. No, to ruszamy.</text>
     </string>
 
 	<string id="esc_tankist_dialog_1_0">
@@ -749,7 +749,7 @@
         <text>Już dobrze. Natknęliśmy się z kumplem na gniazdo pijawek.</text>
     </string>
 	<string id="esc_tankist_dialog_1_2">
-        <text>Widzę. Braciaków z brygady Szramy tu nie widziałeś?</text>
+        <text>Widzę. Braciaków z brygady Szamraja tu nie widziałeś?</text>
     </string>
 	<string id="esc_tankist_dialog_1_3">
         <text>Było tu dwóch. To oni mnie podleczyli. Ich szukasz?</text>
@@ -780,7 +780,7 @@
         <text>Chcesz o coś spytać?</text>
     </string>
 	<string id="sor_galash_dialog_1_1">
-        <text>Masz pozdrowienia od Szramy. Potrzebuje Twojej pomocy. Zainteresowany?</text>
+        <text>Masz pozdrowienia od Szamraja. Potrzebuje Twojej pomocy. Zainteresowany?</text>
     </string>
 	<string id="sor_galash_dialog_1_2">
         <text>Wydaje mi się, że Ciebie znam...</text>
@@ -792,7 +792,7 @@
         <text>Dokładnie! Grek. Widzę: znajoma twarz, a przypomnieć sobie nie mogę. Widziałem Cię tu w zeszłym roku.</text>
     </string>
 	<string id="sor_galash_dialog_1_5">
-        <text>Wiem. Słuchaj teraz uważnie. Szrama jest na Kordonie, z tej strony Perymetru. Powiedział, że mu pomożesz.</text>
+        <text>Wiem. Słuchaj teraz uważnie. Szamraj jest na Kordonie, z tej strony Perymetru. Powiedział, że mu pomożesz.</text>
     </string>
 	<string id="sor_galash_dialog_1_6">
         <text>Gdzie go szukać?</text>
@@ -820,7 +820,7 @@
         <text>A to nie Twoja sprawa, bratku. Rozumiesz?</text>
     </string>
 	<string id="sor_galash_dialog_2_4">
-        <text>Wybacz. Jeszcze jedno pytanie: Szramy czasem nie spotkałeś?</text>
+        <text>Wybacz. Jeszcze jedno pytanie: Szamraja czasem nie spotkałeś?</text>
     </string>
 	<string id="sor_galash_dialog_2_5">
         <text>Jest na Kordonie. Na północnym posterunku.</text>
@@ -852,7 +852,7 @@
         <text>Nie rozumiem, Sidorycz, nie cieszysz się, że żywym mnie widzisz?</text>
     </string>
 	<string id="sor_sidor_dialog_1_3">
-        <text>Wręcz przeciwnie! Bardzo się cieszę! Borman pierwszy przepadł, chociaż, w zasadzie tego należało oczekiwać... Ech, Leszyk... Głowa nie od parady. Aha, potem Szramę też za Perymetr pociągnęło, umościł się ze swoimi na Wysypisku. Bardzo kiepskie miejsce - Wysypisko. Grek, oto co ja Ci powiem, jak bratu: miejsce, gdzie zlały się dwie rzeczywistości, będzie gównem z definicji. Otóż, kiedy odszedł Szrama, zrobił się tu zupełny burdel.</text>
+        <text>Wręcz przeciwnie! Bardzo się cieszę! Borman pierwszy przepadł, chociaż, w zasadzie tego należało oczekiwać... Ech, Leszyk... Głowa nie od parady. Aha, potem Szamraja też za Perymetr pociągnęło, umościł się ze swoimi na Wysypisku. Bardzo kiepskie miejsce - Wysypisko. Grek, oto co ja Ci powiem, jak bratu: miejsce, gdzie zlały się dwie rzeczywistości, będzie gównem z definicji. Otóż, kiedy odszedł Szamraj, zrobił się tu zupełny burdel.</text>
     </string>
 	<string id="sor_sidor_dialog_1_4">
         <text>Kontynuuj.</text>
@@ -1371,7 +1371,7 @@
         <text>Ośmiu.</text>
     </string>
 	<string id="marsh_uzbek_dialog_1_26">
-        <text>Nieźle. Słuchaj, Grek, tu Szrama i Gałasz siedzą ze swoimi. Może spróbujesz ich też podłączyć? Dam Ci współrzędne ich obozu. I detektor anomalii, przy okazji, też dam, bo przepadniesz, jak Snoopy na Bagnach. Detektor, oczywiście, zwykły... Tu nieopodal pieczara jest, leży tam trup stalkera, za życia wołali go Morlok, chyba był kopaczem. Miał całkiem niezły detektor. Może i dalej go ma... Burery tam rozrabiają.</text>
+        <text>Nieźle. Słuchaj, Grek, tu Szamraj i Gałasz siedzą ze swoimi. Może spróbujesz ich też podłączyć? Dam Ci współrzędne ich obozu. I detektor anomalii, przy okazji, też dam, bo przepadniesz, jak Snoopy na Bagnach. Detektor, oczywiście, zwykły... Tu nieopodal pieczara jest, leży tam trup stalkera, za życia wołali go Morlok, chyba był kopaczem. Miał całkiem niezły detektor. Może i dalej go ma... Burery tam rozrabiają.</text>
     </string>
 	<string id="marsh_uzbek_dialog_1_27">
         <text>Więcej luf na pewno się przyda. Jak będę gotowy - zaczniemy. A detektor dawaj.</text>
@@ -1380,10 +1380,10 @@
         <text>Sami damy radę. Jak będę gotowy - zaczniemy. A detektor dawaj.</text>
     </string>
 	<string id="marsh_uzbek_dialog_1_29">
-        <text>Myślę żeby Szramę podłączyć, trzeba tylko za Perymetr pójść.</text>
+        <text>Myślę żeby Szamraja podłączyć, trzeba tylko za Perymetr pójść.</text>
     </string>
 	<string id="marsh_uzbek_dialog_1_30">
-        <text>Szrama ze swoimi jest tu, na Bagnach. I Gałasz też jest z nimi. Dam ci współrzędne. I detektor anomalii, przy okazji, też dam, bo przepadniesz, jak Snoopy na Bagnach. Detektor, oczywiście, zwykły... Tu nieopodal pieczara jest, leży tam trup stalkera, za życia wołali go Morlok, chyba był kopaczem. Miał całkiem niezły detektor. Może i dalej go ma... Burery tam rozrabiają.</text>
+        <text>Szamraj ze swoimi jest tu, na Bagnach. I Gałasz też jest z nimi. Dam ci współrzędne. I detektor anomalii, przy okazji, też dam, bo przepadniesz, jak Snoopy na Bagnach. Detektor, oczywiście, zwykły... Tu nieopodal pieczara jest, leży tam trup stalkera, za życia wołali go Morlok, chyba był kopaczem. Miał całkiem niezły detektor. Może i dalej go ma... Burery tam rozrabiają.</text>
     </string>
 	<string id="marsh_uzbek_dialog_1_31">
         <text>Świetnie. Dobra, jesteśmy umówieni. Jak będę gotowy - zaczniemy. A detektor dawaj.</text>
@@ -1421,7 +1421,7 @@
         <text>Dokładnie. Jest ścieżka obok Perymetru. Nie wszyscy ją znają, nie zawsze po niej przejść można. Na Kordonie GRC całkiem się rozbestwiło, szukają Ciebie.</text>
     </string>
 	<string id="marsh_shamray_dialog_1_2">
-        <text>A niech szukają. Słuchaj, Szrama, sprawa jest - z Grabarzem trzeba się załatwić.</text>
+        <text>A niech szukają. Słuchaj, Szamraj, sprawa jest - z Grabarzem trzeba się załatwić.</text>
     </string>
 	<string id="marsh_shamray_dialog_1_3">
         <text>Taka sprawa... Uzbeka by podłączyć, ma ze siedmiu ludzi.</text>
@@ -1502,7 +1502,7 @@
         <text>Rozmawiałem, jest z nami.</text>
     </string>
 	<string id="marsh_tankist_dialog_1_2">
-        <text>Rozmawiałem, jest z nami. I jeszcze Gałasz ze Szramą.</text>
+        <text>Rozmawiałem, jest z nami. I jeszcze Gałasz ze Szamrajem.</text>
     </string>
 	<string id="marsh_tankist_dialog_1_3">
         <text>I bardzo dobrze. Kiedy zaczynamy?</text>
@@ -3701,7 +3701,7 @@
         <text>A do cholery ze Złotym. Słuchaj, Ernest, masz może przypadkiem jakiegoś znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_1_13">
-        <text>Gen jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
+        <text>Giena jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_1_14">
         <text>Gen? To świetnie!</text>
@@ -3747,10 +3747,10 @@
         <text>A do cholery ze Złotym. Słuchaj, Ernest, masz może przypadkiem jakiegoś znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_2_13">
-        <text>Gen jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
+        <text>Giena jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_2_14">
-        <text>Gen jest? To świetnie!</text>
+        <text>Giena jest? To świetnie!</text>
     </string>
 
 	<string id="barman_dialod_about_obsidian_knife_3_0">
@@ -3793,7 +3793,7 @@
         <text>A do cholery ze Złotym. Słuchaj, Ernest, masz może przypadkiem jakiegoś znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_3_13">
-        <text>Gen jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
+        <text>Giena jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_3_14">
         <text>Gen? To świetnie!</text>
@@ -3833,7 +3833,7 @@
         <text>A do cholery ze Złotym. Słuchaj, Ernest, masz może przypadkiem jakiegoś znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_hacker_11">
-        <text>Gen jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
+        <text>Giena jest, znasz go przecież, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_hacker_12">
         <text>Gen? To świetnie!</text>
@@ -4141,7 +4141,7 @@
         <text>Byłeś na Polanie?</text>
     </string>
 	<string id="sor_kuchma_prisoner_dialog_1_6">
-        <text>A po co mi ona, Grek!? Przecież ci mówię: siedzieliśmy ze Zwinnym przy ognisku. Podszedł gość. Zaproponował zlecenie. Powiedział, co trzeba zrobić. Koniec.</text>
+        <text>A po co mi ona, Grek!? Przecież ci mówię: siedzieliśmy ze Żwawym przy ognisku. Podszedł gość. Zaproponował zlecenie. Powiedział, co trzeba zrobić. Koniec.</text>
     </string>
 	<string id="sor_kuchma_prisoner_dialog_1_7">
         <text>Dobra. Na razie Cię nie zabiję.</text>
@@ -4433,7 +4433,7 @@
         <text>Co tam z dokumentami, Ernest?</text>
     </string>
 	<string id="barman_dialod_about_passports_1">
-        <text>Gotowe, Grek. Chcesz zabrać? Więc ruszaj na bazę wojskową, dokumenty są u kapitana Parszywego. Z nim też ugadasz się o «oknie». Jeżeli, oczywiście, zechcesz.</text>
+        <text>Gotowe, Grek. Chcesz zabrać? Więc ruszaj na bazę wojskową, dokumenty są u kapitana Parszyna. Z nim też ugadasz się o «oknie». Jeżeli, oczywiście, zechcesz.</text>
     </string>
 	<string id="barman_dialod_about_passports_2">
         <text>Rozumiem.</text>
@@ -4559,7 +4559,7 @@
         <text>Znasz chociaż nazwisko tego dowódcy?</text>
     </string>
 	<string id="sor_ltnt_simonov_dialog_1_3">
-        <text>Kapitan Parszyw.</text>
+        <text>Kapitan Parszyn.</text>
     </string>
 	<string id="sor_ltnt_simonov_dialog_1_4">
         <text>Jesteś Grek? Do bramy, potem prosto i na lewo. Idź, bracie, bądź zdrów.</text>
@@ -4645,10 +4645,10 @@
         <text>Witaj. Szukałem. Możesz mnie przeprowadzić na posterunek w miasteczku wojskowym? W areszcie jest zamknięty jeden gość. Muszę z nim pogadać.</text>
     </string>
 	<string id="sor_ivancov_dialog_1_2">
-        <text>Mogłem przeprowadzić. Teraz już nie. Sam ledwie głowę uniosłem, policja zaczęła coś podejrzewać. Kto Cię interesuje? Tam są Twoi i McClensa i Szramy.</text>
+        <text>Mogłem przeprowadzić. Teraz już nie. Sam ledwie głowę uniosłem, policja zaczęła coś podejrzewać. Kto Cię interesuje? Tam są Twoi i McClensa i Szamraja.</text>
     </string>
 	<string id="sor_ivancov_dialog_1_3">
-        <text>Hmm… I szramowcy są. Więc wszyscy mnie interesują.</text>
+        <text>Hmm… I szamrajowcy są. Więc wszyscy mnie interesują.</text>
     </string>
 	<string id="sor_ivancov_dialog_1_4">
         <text>Jeżeli masz pewnych ludzi - możemy napaść na miasteczko.</text>
@@ -4676,13 +4676,13 @@
     </string>
 
 	<string id="sor_stalker_1_dialog_0_0">
-        <text>Cześć, Zwinny!</text>
+        <text>Cześć, Żwawy!</text>
     </string>
 	<string id="sor_stalker_1_dialog_0_1">
         <text>To... to... Grek?! A mówili... Dobra, zapomnij.</text>
     </string>
 	<string id="sor_stalker_1_dialog_0_2">
-        <text>Co tu robisz, Zwinny?</text>
+        <text>Co tu robisz, Żwawy?</text>
     </string>
 	<string id="sor_stalker_1_dialog_0_3">
         <text>To co zwykle: wyposażenie i broń na zamówienie. Jeżeli czegoś będziesz potrzebować - przyjdź.</text>
@@ -4695,7 +4695,7 @@
         <text>Wydaje się, że czegoś ode mnie potrzebujesz.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_1">
-        <text>Pamiętam, Zwinny, że umiałeś każdą rzecz zdobyć.</text>
+        <text>Pamiętam, Żwawy, że umiałeś każdą rzecz zdobyć.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_2">
         <text>No, każdą to nie, ale mogę sporo.</text>
@@ -4716,13 +4716,13 @@
         <text>To powiększone kopie z prototypu oryginału. Bardzo chciałbym zdobyć prototyp.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_8">
-        <text>Ale sobie wymyśliłeś, Zwinny. A czemu prototyp? Czemu nie od razu oryginał?</text>
+        <text>Ale sobie wymyśliłeś, Żwawy. A czemu prototyp? Czemu nie od razu oryginał?</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_9">
         <text>Wyjaśnię. Jeżeli przyniesiesz prototyp. Normalna transakcja? Za prototyp - bardzo ciekawą historię i karabin snajperski.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_10">
-        <text>Idź w cholerę, Zwinny.</text>
+        <text>Idź w cholerę, Żwawy.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_11">
         <text>A gdzie szukać tego cuda? Pamiętam, że stalker, który stworzył te rzeźby, zaginął gdzieś w Zonie.</text>
@@ -4731,10 +4731,10 @@
         <text>Nestor baptysta? Tak, już od dawna nic o nim nie słychać. Ale to nieważne. Prototyp jest w X-18. Miejsce wskażę. Dogadamy się?</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_13">
-        <text>1.	Nie dogadamy. Idź w cholerę, Zwinny.</text>
+        <text>1.	Nie dogadamy. Idź w cholerę, Żwawy.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_14">
-        <text>2.	Paskudny z Ciebie typ, Zwinny: zaintrygowałeś mnie. Dobrze. Jesteśmy dogadani.</text>
+        <text>2.	Paskudny z Ciebie typ, Żwawy: zaintrygowałeś mnie. Dobrze. Jesteśmy dogadani.</text>
     </string>
 
 	<string id="vano_dialog_3_0">
@@ -4804,7 +4804,7 @@
         <text>Nie może być… Tak-tak, Grek, to on! No, po prostu brak słów, Grek!</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_2">
-        <text>A ja mam ich aż za dużo. Za idiotę mnie masz? Jaki to pieprzony prototyp? To artefakt, nieźle się w nich orientuję. Co Ty kombinujesz, Zwinny?</text>
+        <text>A ja mam ich aż za dużo. Za idiotę mnie masz? Jaki to pieprzony prototyp? To artefakt, nieźle się w nich orientuję. Co Ty kombinujesz, Żwawy?</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_3">
         <text>Uspokój się, Grek. Tak, technicznie to artefakt. Ale, artefakt, który posłużył jako prototyp do stworzenia innego artefaktu. Znaczy się, to faktycznie prototyp.</text>
@@ -4846,7 +4846,7 @@
         <text>A niedawno u Grubera zobaczyłem dwie figurki. Przypomniałem sobie o Nestorze, X-18 i planie. Zapytałem Grubera, skąd je ma. Ten powiedział, że Nestor baptysta wymienił je na wyposażenie.</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_16">
-        <text>Co zrobisz z artefaktem, Zwinny?</text>
+        <text>Co zrobisz z artefaktem, Żwawy?</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_17">
         <text>Sprzedam na Wielkiej Ziemi. Albo zostawię go sobie. Moja sprawa, mam rację, Grek?</text>
@@ -4880,10 +4880,10 @@
         <text>Dlaczego zmieniliście barwy? Albo to po prostu maskowanie?</text>
     </string>
 	<string id="sor_killer_yalta_dialog_1_4">
-        <text>Sprzykrzyło się bez kontraktu i bez pieniędzy siedzieć. Tak więc Paskuda, nasz główny, przyjaźń z GRC wykręcił. Wyposażenie i sprzęt otrzymał. Koń by zrozumiał, że coś dużego się kroi. Zapytałem Paskudę. Ten spokojnie zaczął wyjaśniać, niby że umocnić bazę trzeba. A potem zerwał się, zaczął wrzeszczeć jak opętany. Niby, nie nasza sprawa, nie podoba się, to spierdalać, itd. No to poszliśmy.</text>
+        <text>Sprzykrzyło się bez kontraktu i bez pieniędzy siedzieć. Tak więc Szoker, nasz główny, przyjaźń z GRC wykręcił. Wyposażenie i sprzęt otrzymał. Koń by zrozumiał, że coś dużego się kroi. Zapytałem Szokera. Ten spokojnie zaczął wyjaśniać, niby że umocnić bazę trzeba. A potem zerwał się, zaczął wrzeszczeć jak opętany. Niby, nie nasza sprawa, nie podoba się, to spierdalać, itd. No to poszliśmy.</text>
     </string>
 	<string id="sor_killer_yalta_dialog_1_5">
-        <text>Paskuda planuje bardzo się wzmocnić?</text>
+        <text>Szoker planuje bardzo się wzmocnić?</text>
     </string>
 	<string id="sor_killer_yalta_dialog_1_6">
         <text>A tak! Nawet helikopter i działka otrzymał. Technik systemowy przybył z Warszawy. Jego ksywka to OCP. A to bardzo poważne.</text>
@@ -5294,7 +5294,7 @@
         <text>No, a z handlem to co się stało? Albo coś poplątałem, albo w Zonie nigdy nie handlowano na większą skalę?</text>
     </string>
 	<string id="sidor_dialog_about_bankcard_1">
-        <text>Nie jesteś na czasie, Grek. Gen niedawno zorganizował cały system płatniczy, "Pustynne Ziemie" się nazywa; wszyscy na niego przeszli. Handel, rozliczenia. Nawet naprawy - widziałeś, z pewnością warsztaty remontowe? Jeżeli karta nie jest aktywowana - lepiej nie odwiedzaj takiego warsztatu. Karta wirtualna, wbudowana w PDA. Daj, wprowadzę Ci ją, nie potrwa to więcej niż minutę.</text>
+        <text>Nie jesteś na czasie, Grek. Giena niedawno zorganizował cały system płatniczy, "Pustynne Ziemie" się nazywa; wszyscy na niego przeszli. Handel, rozliczenia. Nawet naprawy - widziałeś, z pewnością warsztaty remontowe? Jeżeli karta nie jest aktywowana - lepiej nie odwiedzaj takiego warsztatu. Karta wirtualna, wbudowana w PDA. Daj, wprowadzę Ci ją, nie potrwa to więcej niż minutę.</text>
     </string>
 	<string id="sidor_dialog_about_bankcard_2">
         <text>1.	Nie, Sidor, wietrzę przekręt.</text>
@@ -5420,7 +5420,7 @@
         <text>Uzbek was weźmie do siebie. A jeszcze chciałem o coś zapytać: na bazę najemników w Dolinie Mroku można po cichu przeniknąć?</text>
     </string>
 	<string id="sor_killer_yalta_attack_dialog_3_3">
-        <text>Jeśli Paskuda nic nie pozmieniał, to jest sposób. Po galerii, tej gdzie poltergeist, na wewnętrzne podwórze. Po schodach na plac przeładunkowy wleźć, potem stamtąd na dach. I przez okno dachowe do warsztatu.</text>
+        <text>Jeśli Szoker nic nie pozmieniał, to jest sposób. Po galerii, tej gdzie poltergeist, na wewnętrzne podwórze. Po schodach na plac przeładunkowy wleźć, potem stamtąd na dach. I przez okno dachowe do warsztatu.</text>
     </string>
 	<string id="sor_killer_yalta_attack_dialog_3_4">
         <text>Aha… To ma sens. Masz ochotę przejść się ze mną do Doliny Mroku?</text>
@@ -5482,7 +5482,7 @@
         <text>Rozumiem. Gdzie podzieli się stalkerzy i braciaki z Osadnika?</text>
     </string>
 	<string id="sor_hazar_dialog_1_5">
-        <text>W to samo miejsce, gdzie i wszyscy pozostali - do programu «Stalker». Tylko nie tak, jak kiedyś Naznaczony, Szrama i inni. Tych przygotowywali na Zonę. Obecny program «Stalker» jest ustawiony na Wielką Ziemię. Byłeś może w tutejszej fabryce?</text>
+        <text>W to samo miejsce, gdzie i wszyscy pozostali - do programu «Stalker». Tylko nie tak, jak kiedyś Naznaczony, Szamraj i inni. Tych przygotowywali na Zonę. Obecny program «Stalker» jest ustawiony na Wielką Ziemię. Byłeś może w tutejszej fabryce?</text>
     </string>
 	<string id="sor_hazar_dialog_1_6">
         <text>A co tam jest interesującego?</text>
@@ -5533,7 +5533,7 @@
         <text>Dwa demony, chłopak i dziewczynka? Nie widziałem, ale słyszałem, pogłoski chodziły. Samotników nie ruszają. A jeżeli spotkają grupę, to zabijają wszystkich, prócz jednego. To wszystko, co słyszałem. Poczekaj! Jeszcze zdjęcie przelotnie widziałem. U kapitana Krasnowa, znasz go. Obydwoje czartów na tym zdjęciu… Co jeszcze chcesz wiedzieć?</text>
     </string>
 	<string id="sor_hazar_dialog_1_22">
-        <text>Gen też dla Powinności pracuje?</text>
+        <text>Giena też dla Powinności pracuje?</text>
     </string>
 	<string id="sor_hazar_dialog_1_23">
         <text>Nie wiem, spytaj go.</text>
@@ -5565,13 +5565,13 @@
         <text>Dziękuję, bracie.</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_1">
-        <text>Nie ma za co, bracie. Szramowcy?</text>
+        <text>Nie ma za co, bracie. Szamrajowcy?</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_2">
         <text>A… ty skąd wiesz? Znamy się?</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_3">
-        <text>Szukałem was na Kordonie. Losza Szrama bardzo za wami tęsknił. Żyjecie, to dobrze. Ty i Twój kumpel przeszliście po cichu Perymetr, dlaczego znowu przez wyłom w ścianie nie poszliście? Dlaczego poddaliście się GRC?</text>
+        <text>Szukałem was na Kordonie. Losza Szamraj bardzo za wami tęsknił. Żyjecie, to dobrze. Ty i Twój kumpel przeszliście po cichu Perymetr, dlaczego znowu przez wyłom w ścianie nie poszliście? Dlaczego poddaliście się GRC?</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_4">
         <text>Dziewczynka tam stała. Słuchy szły, że prawdziwe dwa diabły po Kordonie się kręcą. Spotkanym głowy przekręcają, ręce i nogi odrywają. Przeraziliśmy się z koleżką… Ja bym i teraz się zesrał ze strachu, jakbym znów tą dziewczynę zobaczył. Co robić? Dalej na Południe się przedzierać? Patrole. Krótko, schowaliśmy broń na ATP i do GRCowców na Perymetr biegiem, jak do krewnych. O dziewczynce opowiedzieliśmy, o tym, po co w Zonę poszliśmy. Ci, po prawdzie, dobrze nas potraktowali. Nie zabili. Do aresztu wsadzili.</text>
@@ -5580,13 +5580,13 @@
         <text>Rozumiem.</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_6">
-        <text>Bracie, kiedy widziałeś Szramę?</text>
+        <text>Bracie, kiedy widziałeś Szamraja?</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_7">
         <text>Był na Bagnach.</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_8">
-        <text>Dzięki. Więc idziemy na Bagna do Szramy.</text>
+        <text>Dzięki. Więc idziemy na Bagna do Szamraja.</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_9">
         <text>A na co mu takie gówno.</text>
@@ -5673,7 +5673,7 @@
         <text>Mów. Co z chłopakami?</text>
     </string>
 	<string id="val_scorpio_dialog_4">
-        <text>W areszcie, Paskuda ich złapał. Nie traktuje ich jak gości honorowych.</text>
+        <text>W areszcie, Szoker ich złapał. Nie traktuje ich jak gości honorowych.</text>
     </string>
 	<string id="val_scorpio_dialog_5">
         <text>Dlaczego miałbym Ci wierzyć?</text>
@@ -5691,7 +5691,7 @@
         <text>Przypuśćmy. Co Jałta powiedział?</text>
     </string>
 	<string id="val_scorpio_dialog_10">
-        <text>Przez galerię na bazę trzeba wejść. Najlepiej w nocy. Schody na dach - na placu rozładunkowym, potem przez okno dachowe... Zakłuć ochronę. Pendrive z wszystkimi dokumentami i kodami jest u Paskudy w sejfie, a to znaczy, że Paskuda też na straty. Wyłączyć sterowanie działkami. No, i z bazy się wydostać z Jałtą i jego towarzyszami.</text>
+        <text>Przez galerię na bazę trzeba wejść. Najlepiej w nocy. Schody na dach - na placu rozładunkowym, potem przez okno dachowe... Zakłuć ochronę. Pendrive z wszystkimi dokumentami i kodami jest u Szokera w sejfie, a to znaczy, że Szoker też na straty. Wyłączyć sterowanie działkami. No, i z bazy się wydostać z Jałtą i jego towarzyszami.</text>
     </string>
 	<string id="val_scorpio_dialog_11">
         <text>A gdyby działek nie wyłączyć?</text>

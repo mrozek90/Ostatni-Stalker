@@ -32,7 +32,7 @@
 <string id="static_0">
 		<text>AKT X : Ostatni stalker</text>
 	</string>
-	
+
 <string id="dont_kill">
 		<text>Nie zabijaj</text>
 	</string>
@@ -87,7 +87,7 @@
 	<text>Szczodrze zap³acimy za ka¿de wiadomoœci</text>
 </string>
 <string id="static_lost_scientist_announcement_3">
-	<text>o doktorze Bravermanie.</text>
+	<text>o doktorze Brawermanie.</text>
 </string>
 <string id="static_lost_scientist_announcement_4">
 	<text>£uczenko.</text>
@@ -233,7 +233,7 @@
 </string>
 
 <string id="shamray_gang">
-	<text>Banda Szramy</text>
+	<text>Banda Szamraja</text>
 </string>
 
 <string id="bb">

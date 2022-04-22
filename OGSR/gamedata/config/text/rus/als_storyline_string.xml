@@ -199,7 +199,7 @@
 </string>
 
 <string id="als_story_ar_23">
-<text>Statuetki «Stalker»</text>
+<text>Statuetki Stalkera</text>
 </string>
 <string id="als_story_ar_23_rus">
 <text>G³owê dam - widzia³em ju¿ coœ takiego wczeœniej. I znacznie wiêkszych rozmiarów. Wieczna noc, ¿ó³ty gaz, wyrodki… I ogromna rzeŸba stalkera, przeklinaj¹cego, albo zaklinaj¹cego czarne niebo…</text>
@@ -213,10 +213,10 @@
 </string>
 
 <string id="als_story_ar_25">
-<text>Pancer</text>
+<text>Panzer</text>
 </string>
 <string id="als_story_ar_25_rus">
-<text>Wcale nie jestem zdziwiony. ¯eby taki stary wilk jak Pancer nie trzyma³ asa w rêkawie i po prostu wysadzi³ siê w powietrze? B³agam was.</text>
+<text>Wcale nie jestem zdziwiony. ¯eby taki stary wilk jak Panzer nie trzyma³ asa w rêkawie i po prostu wysadzi³ siê w powietrze? B³agam was.</text>
 </string>
 
 <string id="als_story_ar_26">
@@ -376,7 +376,7 @@
 </string>
 
 <string id="has_val_shocker_safe_code">
-	<text>Kod do zamka sejfu Paskudy</text>
+	<text>Kod do zamka sejfu Szokera</text>
 </string>
 <string id="has_val_shocker_safe_code_rus">
 	<text>2419</text>
@@ -453,7 +453,7 @@
 </string>
 
 <string id="als_help_rus_9">
-	<text>ZnajdŸ Ga³asza i przeka¿ mu pozdrowienia od Szramy. Ga³asz powinien by³ byæ gdzieœ przy bunkrze handlarza na Sortowni.</text>
+	<text>ZnajdŸ Ga³asza i przeka¿ mu pozdrowienia od Szamraja. Ga³asz powinien byæ gdzieœ przy bunkrze handlarza na Sortowni.</text>
 </string>
 
 <string id="als_help_rus_10">
@@ -485,15 +485,15 @@
 </string>
 
 <string id="als_help_rus_17">
-	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z Baszarem i Czo³gist¹ wykorzystaæ radioskaner.</text>
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z P³oz¹ i Czo³gist¹ wykorzystaæ radioskaner.</text>
 </string>
 
 <string id="als_help_rus_18">
-	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z Baszarem i Czo³gist¹ wykorzystaæ radioskaner.</text>
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z P³oz¹ i Czo³gist¹ wykorzystaæ radioskaner.</text>
 </string>
 
 <string id="als_help_rus_19">
-	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z Baszarem wykorzystaæ radioskaner.</text>
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z P³oz¹ wykorzystaæ radioskaner.</text>
 </string>
 
 <string id="als_help_rus_20">
@@ -501,7 +501,7 @@
 </string>
 
 <string id="als_help_rus_21">
-	<text>Z takich no¿y korzysta³ tylko Johnny. Dowiedzieæ siê od Baszara - sk¹d one siê tu wziê³y.</text>
+	<text>Z takich no¿y korzysta³ tylko Johnny. Dowiedzieæ siê od P³ozy - sk¹d one siê tu wziê³y.</text>
 </string>
 
 <string id="als_help_rus_22">
@@ -517,7 +517,7 @@
 </string>
 
 <string id="als_help_rus_25">
-	<text>Prawdopodobnie, tu¿ obok, mo¿na znaleŸæ detektor, lepszy, ni¿ da³ Baszar.</text>
+	<text>Prawdopodobnie, tu¿ obok, mo¿na znaleŸæ detektor, lepszy, ni¿ da³ P³oza.</text>
 </string>
 
 <string id="als_help_rus_26">
@@ -573,7 +573,7 @@
 </string>
 
 <string id="als_help_rus_39">
-	<text>Kulawy da³ zlecenie na odnalezienie piêciu kontenerów, wskaza³ punkty na mapie, gdzie nadajniki GPS, zamontowane w kontenerach, zosta³y wy³¹czone.</text>
+	<text>Pulewicz da³ zlecenie na odnalezienie piêciu kontenerów, wskaza³ punkty na mapie, gdzie nadajniki GPS, zamontowane w kontenerach, zosta³y wy³¹czone.</text>
 </string>
 
 <string id="als_help_rus_40">
@@ -589,7 +589,7 @@
 </string>
 
 <string id="als_help_rus_43">
-	<text>Umarlak bêdzie czekaæ w tunelu na Wysypisku. Przed spotkaniem z Umarlakiem trzeba oddaæ kontener kapitanowi Krasnowowi na Perymetrze.</text>
+	<text>Umarlak bêdzie czekaæ w tunelu na Wysypisku. Przed spotkaniem z Umarlakiem trzeba oddaæ kontener kapitanowi Krasnowi na Perymetrze.</text>
 </string>
 
 <string id="als_help_rus_44">
@@ -681,7 +681,7 @@
 </string>
 
 <string id="als_help_rus_66">
-	<text>Kapitana Parszywy mo¿na znaleŸæ na bazie sprzêtu wojskowego.</text>
+	<text>Kapitana Parszyna mo¿na znaleŸæ na bazie sprzêtu wojskowego.</text>
 </string>
 
 <string id="als_help_rus_67">
@@ -689,7 +689,7 @@
 </string>
 
 <string id="als_help_rus_68">
-	<text>Zwinny wymieni za karabin rzadki artefakt z X-18.</text>
+	<text>¯wawy wymieni za karabin rzadki artefakt z X-18.</text>
 </string>
 
 <string id="als_help_rus_69">
@@ -697,11 +697,11 @@
 </string>
 
 <string id="als_help_rus_70">
-	<text>Zabraæ pendrive z sejfu Paskudy.</text>
+	<text>Zabierz pendrive z sejfu Szokera.</text>
 </string>
 
 <string id="als_help_rus_71">
-	<text>Gruber mo¿e wiedzieæ o Nestorze wiêcej od Zwinnego.</text>
+	<text>Gruber mo¿e wiedzieæ o Nestorze wiêcej od ¯wawego.</text>
 </string>
 
 <string id="als_help_rus_72">
@@ -733,7 +733,7 @@
 </string>
 
 <string id="als_help_rus_79">
-	<text>Pieni¹dze s¹ w sejfie Kulawego w miasteczku wojskowym.</text>
+	<text>Pieni¹dze s¹ w sejfie Pulewicza w miasteczku wojskowym.</text>
 </string>
 
 <string id="als_help_rus_80">
@@ -829,11 +829,11 @@
 </string>
 
 <string id="als_help_rus_103">
-	<text>Samemu Szpitala nie przejdziesz. Trzeba wróciæ i poprosiæ o pomoc.</text>
+	<text>Samemu Szpitala nie przejdê. Trzeba wróciæ i poprosiæ o pomoc.</text>
 </string>
 
 <string id="als_help_rus_104">
-	<text>Opowiedzieæ Baszarowi o znalezionym trupie Teutona.</text>
+	<text>Opowiedzieæ P³ozie o znalezionym trupie Teutona.</text>
 </string>
 
 <string id="als_help_rus_105">

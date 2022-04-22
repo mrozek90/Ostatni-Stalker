@@ -1,4 +1,4 @@
-function forbitten()
+Giena Hakerfunction forbitten()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]BO¯E, NIE BIERZ GO£YMI £APAMI!!!", nil, nil, 10000)
 end
 
@@ -80,35 +80,35 @@ function transaction_300_silent()
 end
 
 function message_from_hacker_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]PDA naukowca z Agropromu wcale nie jest PDA naukowca. Sam mog³em siê domyœliæ. To jest PDA wojskowego stalkera. Uda³o mi siê przeczytaæ informacje o bateriach i instalacji w Czerwonym Lesie. Wysy³am cz³owieka, poka¿e Ci na miejscu.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]PDA naukowca z Agropromu wcale nie jest PDA naukowca. Sam mog³em siê domyœliæ. To jest PDA wojskowego stalkera. Uda³o mi siê przeczytaæ informacje o bateriach i instalacji w Czerwonym Lesie. Wysy³am cz³owieka, poka¿e Ci na miejscu.", nil, nil, 10000)
 end
 
 function message_from_hacker_2()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]W PDA Simpsona oprócz ró¿nych bzdur wymieniany jest programista z Polski. Ma coœ wspólnego z najemnikami i czarnymi najeŸdŸcami.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]W PDA Simpsona oprócz ró¿nych bzdur wymieniany jest programista z Polski. Ma coœ wspólnego z najemnikami i czarnymi najeŸdŸcami.", nil, nil, 10000)
 end
 
 function message_from_hacker_3()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]PDA Lenki Brzytwy to podróbka. Ktoœ g³upio zwabia grupê McCleanów do Prypeci. Wspomniano tam równie¿ o skrytce Strie³ka w Prypeci, ale nie podano wspó³rzêdnych.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]PDA Lenki Brzytwy to podróbka. Ktoœ g³upio zwabia grupê McCleanów do Prypeci. Wspomniano tam równie¿ o skrytce Strie³ka w Prypeci, ale nie podano wspó³rzêdnych.", nil, nil, 10000)
 end
 
 function message_from_hacker_4()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Dr Braverman przypadkowo trafi³ do X-18 podczas próbnego uruchomienia jakiejœ maszyny w Limañsku.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]Dr Brawerman przypadkowo trafi³ do X-18 podczas próbnego uruchomienia jakiejœ maszyny w Limañsku.", nil, nil, 10000)
 end
 
 function message_from_hacker_5()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Na pendrive'ach wojskowych stalkerów - prosty rozkaz do³¹czenia do obozu na Agropromie i przeniesienia wszystkich do magazynów wojskowych. Jeœli nikogo tam ju¿ nie ma, powinni udaæ siê dalej do obozowiska w Czerwonym Lesie. Jeœli nikogo tam nie ma, sami rozbij¹ obóz i pójd¹ do Limañska.", nil, nil, 15000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]Na pendrive'ach wojskowych stalkerów - prosty rozkaz do³¹czenia do obozu na Agropromie i przeniesienia wszystkich do magazynów wojskowych. Jeœli nikogo tam ju¿ nie ma, powinni udaæ siê dalej do obozowiska w Czerwonym Lesie. Jeœli nikogo tam nie ma, sami rozbij¹ obóz i pójd¹ do Limañska.", nil, nil, 15000)
 end
 
 function message_from_hacker_6()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Pendrive Paskudy zawiera informacje biznesowe. Dostawy sprzêtu, broni, ¿arcie i tak dalej. P³ace dla in¿yniera systemów z Warszawy. Pe³na ksiêgowoœæ. Ale z tego mo¿esz zrozumieæ, ¿e zaczyna siê coœ niecodziennego. Uwa¿aj na siebie.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]Pendrive Szokera zawiera informacje biznesowe. Dostawy sprzêtu, broni, ¿arcie i tak dalej. P³ace dla in¿yniera systemów z Warszawy. Pe³na ksiêgowoœæ. Ale z tego mo¿esz zrozumieæ, ¿e zaczyna siê coœ niecodziennego. Uwa¿aj na siebie.", nil, nil, 10000)
 end
 
 function message_from_hacker_7()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]W PDA, w tym, co znalaz³eœ na Bagnach, znajduj¹ siê informacje skradzione Grabarzowi. Grabarz by³ zajêty szukaniem drugiego kompletu kluczy (nie wiem jakich) i obliczaniem poprawnych wspó³rzêdnych linii. Co to znaczy - za cholerê nie rozumiem. Ale pisz¹ o ATP na Kordonie. Wydaje mi siê, ¿e tam musisz szukaæ tych linii.", nil, nil, 20000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]W PDA, w tym, co znalaz³eœ na Bagnach, znajduj¹ siê informacje skradzione Grabarzowi. Grabarz by³ zajêty szukaniem drugiego kompletu kluczy (nie wiem jakich) i obliczaniem poprawnych wspó³rzêdnych linii. Co to znaczy - za cholerê nie rozumiem. Ale pisz¹ o ATP na Kordonie. Wydaje mi siê, ¿e tam musisz szukaæ tych linii.", nil, nil, 20000)
 end
 
 function message_from_hacker_8()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Gen Haker: \n - %c[default]Pendrive Paskudy mówi, ¿e do centrum Strefy mo¿na dostaæ siê rur¹ wentylacyjn¹ na Stacji.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Giena Haker: \n - %c[default]Pendrive Szokera mówi, ¿e do centrum Strefy mo¿na dostaæ siê rur¹ wentylacyjn¹ na Stacji.", nil, nil, 10000)
 end
 
 function message_from_aes_tactics_1()
@@ -186,10 +186,10 @@ function recieved_massage_19()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Jestem na miejscu. Ogieñ - gdy jesteœ gotowy.", nil, nil, 10000)
 end
 function recieved_massage_20()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Rajder: \n - %c[default]Trzynasty, gdzie do diab³a jesteœ? - W pobli¿u instalacji krêci siê jakiœ stalker, nie mogê go rozpoznaæ: silne zak³ócenia.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Nieznany: \n - %c[default]Trzynasty, gdzie do diab³a jesteœ? - W pobli¿u instalacji krêci siê jakiœ stalker, nie mogê go rozpoznaæ: silne zak³ócenia.", nil, nil, 10000)
 end
 function recieved_massage_21()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Rajder: \n - %c[default]Stalker, nazywaj¹cy siê... Grekiem? Wiesz o kim mówiê -  pojecha³. PodejdŸ do pó³nocnego punktu kontrolnego, porozmawiamy.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Nieznany: \n - %c[default]Stalker, nazywaj¹cy siê... Grekiem? Wiesz o kim mówiê -  pojecha³. PodejdŸ do pó³nocnego punktu kontrolnego, porozmawiamy.", nil, nil, 10000)
 end
 function recieved_massage_22()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Kasper: \n - %c[default]Grek, dogadane z mundurami.", nil, nil, 10000)
