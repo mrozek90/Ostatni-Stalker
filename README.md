@@ -13,7 +13,6 @@ https://stalkerteam.pl
 
 # **Instalacja:**
 
-- Wersja OGSR zawiera folder "Fix", znajduje się tam spolszczona instrukcja instalacji łatki.
 - Wypakować/wkleić folder w zależności od posiadanej wersji do głównego folderu z grą.
 (Czysta instalacja gry nie wymaga podmiany żadnych plików!)
 
@@ -21,6 +20,23 @@ https://stalkerteam.pl
 W zależności od wersji gry:  
 Folder: "OGSR" dla 1.3 z silnikiem OGSR x64.  
 Folder: "2020" dla wersji 1.3 z silnikiem XRay.
+
+
+Uwaga!  
+- Wersja OGSR zawiera łatkę twórcy: (gamedata/mods/Fix1.xdb)
+
+Poprawka nr 1.  
+Lista zmian:  
+1. Korekta awarii gry swobodnej w X-10 z powodu braku schematu dzwiekowego.  
+2. Wymuszona aktywacja slotow szybkiego uzycia F1-F4.  
+3. Eksplodowane miny calkowicie znikaja z lokacji.  
+4. Drobne poprawki dla lokalizacji oswietlenia.  
+
+-------------------------
+
+
+
+
 
 
 # **Lista zmian tłumaczenia względem v1.1:**  
