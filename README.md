@@ -1,9 +1,8 @@
-# Ostatni-Stalker 2020 
-
-Spolszczenie dla wersji 1.1 autorstwa https://stalkerteam.pl/profile/11-kobal/
+# Ostatni-Stalker 2020
 
 Spolszczenie dla wersji 1.3 OGSR x64 https://stalkerteam.pl/topic/16124-ostatni-stalker-13-%D1%8564-ogsr/  
-Spolszczenie dla wersji 1.3 X-Ray  
+
+Spolszczenie dla wersji 1.3 XRay  (link)
 
 
 Zakaz udostępniania linków na stronach trzecich.  
@@ -13,22 +12,26 @@ https://stalkerteam.pl
 
 
 # **Instalacja:**
-Wkleić do głównego folderu z grą.
+
+- Wersja OGSR zawiera folder "Fix", znajduje się tam spolszczona instrukcja instalacji łatki.
+- Wypakować/wkleić folder w zależności od posiadanej wersji do głównego folderu z grą.
+(Czysta instalacja gry nie wymaga podmiany żadnych plików!)
+
 
 W zależności od wersji gry:  
-1.3 dla silnika OGSR x64.  
-2020 dla wersji 1.3 silnika X-Ray.  
+Folder: "OGSR" dla 1.3 z silnikiem OGSR x64.  
+Folder: "2020" dla wersji 1.3 z silnikiem XRay.
 
 
-# **Lista zmian względem 1.1:**  
+# **Lista zmian tłumaczenia względem v1.1:**  
 
 - Nazwa NPC: Wodny Szczur -> Karczownik  
 - Nazwa NPC: Dedman -> Umarlak  
 - Nazwa NPC: Szamraj -> Szrama  
-- Nazwa NPC: Panzer -> Grenadier  
+- Nazwa NPC: Pancer -> Panzer  
 - Nazwa NPC: Żwawy -> Zwinny  
 - Nazwa NPC: Szoker -> Paskuda  
 - Nazwa NPC: Genia/Gienia Haker -> Gen Haker  
 - Nazwa NPC: Ochrypły -> Chrypa  
 - Nazwa NPC: Piorun -> Grom  
-
+...

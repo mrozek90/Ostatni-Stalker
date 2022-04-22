@@ -3,36 +3,36 @@
 
 <!-- ÑÒÀÒÈÊÈ -->
 <string id="static_1">
-		<text>ATTO PRIMO *Towarzysze broni*</text>
+		<text>AKT I : Towarzysze broni</text>
 	</string>
 <string id="static_2">
-	<text>ATTO SECONDO *Zagubione horyzonty*</text>
+	<text>AKT II : Zagubione horyzonty</text>
 </string>
 <string id="static_3">
-		<text>ATTO TERZO *Casus Belli*</text>
+		<text>AKT III : Casus Belli</text>
 	</string>
 <string id="static_4">
-		<text>ATTO QUARTO *Po³udniowa kampania*</text>
+		<text>AKT IV : Po³udniowa kampania</text>
 	</string>
 <string id="static_5">
-		<text>ATTO QUARTO *Zona*</text>
+		<text>AKT V : Zona</text>
 	</string>
 <string id="static_6">
-		<text>ATTO QUARTO *P.A.R.I.A.S..*</text>
+		<text>AKT VI : P.A.R.I.A.S.</text>
 	</string>
 <string id="static_7">
-		<text>ATTO QUINTO *Zona*</text>
+		<text>AKT VII : Powrót do Zony</text>
 	</string>
 <string id="static_8">
-		<text>ATTO QUINTO *Ostatni stalker*</text>
+		<text>AKT VIII : Ostatni stalker</text>
 	</string>
 <string id="static_9">
-		<text>ATTO SESTO *Ostatni stalker*</text>
+		<text>AKT IX : Ostatni stalker</text>
 	</string>
 <string id="static_0">
-		<text>ATTO QUINTO *Ostatni stalker*</text>
+		<text>AKT X : Ostatni stalker</text>
 	</string>
-
+	
 <string id="dont_kill">
 		<text>Nie zabijaj</text>
 	</string>
