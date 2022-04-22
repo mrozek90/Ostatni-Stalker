@@ -792,7 +792,7 @@
         <text>Dok³adnie! Grek. Widzê: znajoma twarz, a przypomnieæ sobie nie mogê. Widzia³em Ciê tu w zesz³ym roku.</text>
     </string>
 	<string id="sor_galash_dialog_1_5">
-        <text>Wiem. S³uchaj teraz uwa¿nie. Szamraj jest na Kordonie, z tej strony Perymetru. Powiedzia³, ¿e mu pomo¿esz.</text>
+        <text>Wiem. S³uchaj teraz uwa¿nie. Szamraj jest na Kordonie, z tamtej strony Perymetru. Powiedzia³, ¿e mu pomo¿esz.</text>
     </string>
 	<string id="sor_galash_dialog_1_6">
         <text>Gdzie go szukaæ?</text>
@@ -1111,7 +1111,7 @@
         <text>Czo³gisty. Przysy³a mnie Sidor.</text>
     </string>
 	<string id="stalker_tankist_2_dialog_2_2">
-        <text>WchodŸ. Pogadamy.</text>
+        <text>WchodŸ i porozmawiaj</text>
     </string>
 	<string id="stalker_tankist_2_dialog_2_3">
         <text>Zaraz lepiej.</text>
