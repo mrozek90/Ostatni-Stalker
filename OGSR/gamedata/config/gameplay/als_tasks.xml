@@ -1,29 +1,29 @@
 
 <game_task id="kill_jj" prio="100">
-		<title>Zabiæ Johnnego</title>
+		<title>Zabij Johnnego</title>
 		<objective>
-			<text>Zabiæ Johnnego</text>
+			<text>Zabij Johnnego</text>
 			<icon>jj_tasks</icon>
 			<article>als_help_1</article>
 			<infoportion_complete>player_complete_kill_jj</infoportion_complete>
 			<infoportion_fail>kill_jj_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Zabiæ Johnnego</text>
+			<text>Zabij Johnnego</text>
 			<infoportion_complete>_kill_jj</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="meet_garfirst_bandits" prio="50">
-		<title>Grupa Szamraja</title>
+		<title>Ugrupowanie Szramy</title>
 		<objective>
-			<text>ZnaleŸæ Szamraja</text>
+			<text>ZnajdŸ Szramê</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_2</article>
 			<infoportion_complete>player_complete_meet_garfirst_bandits</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnajdŸ Szamraja</text>
+			<text>ZnajdŸ Szramê</text>
 			<infoportion_complete>meet_garfirst_bandits_9</infoportion_complete>
 		</objective>
 		<!-- <objective>
@@ -45,13 +45,13 @@
 			<infoportion_complete>meet_garfirst_bandits_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Posterunek Agroprom-2</text>
+			<text>Punkt kontrolny Agroprom</text>
 	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
 	<object_story_id>meet_garfirst_bandits_4_point</object_story_id>
 			<infoportion_complete>meet_garfirst_bandits_4</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Posterunek Rostok</text>
+			<text>Punkt kontrolny Rostok</text>
 	<map_location_type hint= "block_post_hint">crlc_big</map_location_type>
 	<object_story_id>meet_garfirst_bandits_5_point</object_story_id>
 			<infoportion_complete>meet_garfirst_bandits_5</infoportion_complete>
@@ -91,45 +91,45 @@
 <game_task id="talk_esc_shamray" prio="50">
 		<title>Na Po³udnie</title>
 		<objective>
-			<text>Porozmawiaæ z Szamrajem</text>
+			<text>Porozmawiaj ze Szram¹</text>
 			<icon>ui_iconsTotal_shamrai</icon>
 			<article>als_help_3</article>
 			<infoportion_complete>player_complete_talk_esc_shamray</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Szamrajem</text>
+			<text>Porozmawiaj ze Szram¹</text>
 			<infoportion_complete>talk_esc_shamray_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="esc_recon" prio="50">
-		<title>Na Po³udnie 2</title>
+		<title>Na Po³udnie II</title>
 		<objective>
-			<text>Kordon - zwiad</text>
+			<text>Zwiad na Kordonie</text>
 			<icon>ui_iconsTotal_technique</icon>
 			<article>als_help_4</article>
 			<infoportion_complete>player_complete_esc_recon</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Kordon - zwiad</text>
+			<text>Zwiad na Kordonie</text>
 			<infoportion_complete>esc_recon_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Kordon - zwiad</text>
+			<text>Zwiad na Kordonie</text>
 			<infoportion_complete>esc_recon_2</infoportion_complete>
 		</objective>
-</game_task>Î
+</game_task>
 
 <game_task id="lc_to_escape" prio="50">
-		<title>Przejœcie na Kordon</title>
+		<title>Przejœcie do Kordonu</title>
 		<objective>
-			<text>ZnaleŸæ przejœcie na Kordon</text>
+			<text>ZnajdŸ przejœcie do Kordonu</text>
 			<icon>ui_iconsTotal_find_railroad_passage</icon>
 			<article>als_help_5</article>
 			<infoportion_complete>player_complete_lc_to_escape</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ przejœcie na Kordon</text>
+			<text>ZnajdŸ przejœcie do Kordonu</text>
 			<infoportion_complete>lc_to_escape_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -137,13 +137,13 @@
 <game_task id="get_otstoynik_passdoc" prio="40">
 		<title>Przepustka</title>
 		<objective>
-			<text>Zdobyæ przepustkê do osadnika</text>
+			<text>Zdob¹dŸ przepustkê do Osadnika</text>
 			<icon>ui_iconsTotal_find_railroad_passage</icon>
 			<article>als_help_6</article>
 			<infoportion_complete>player_complete_get_otstoynik_passdoc</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zdobyæ przepustkê do osadnika</text>
+			<text>Zdob¹dŸ przepustkê do Osadnika</text>
 	<map_location_type hint= "esc_cptn_krasnov_name">green_location</map_location_type>
 	<object_story_id>esc_grc_krasnov</object_story_id>
 			<infoportion_complete>get_otstoynik_passdoc_1</infoportion_complete>
@@ -159,19 +159,19 @@
 			<infoportion_complete>player_complete_cross_perimetre</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ rzeczy ze schowka</text>
+			<text>Odbierz przedmioty ze schowka</text>
 	<map_location_type hint= "shron_hint">green_location</map_location_type>
 	<object_story_id>esc_hazar_shron</object_story_id>
 			<infoportion_complete>cross_perimetre_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przeci¹æ drut</text>
+			<text>Przetnij drut</text>
 	<map_location_type hint= "koluchka_hint">green_location</map_location_type>
 	<object_story_id>esc_physic_destroyable_object_0006</object_story_id>
 			<infoportion_complete>cross_perimetre_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przejœæ za Perymetr</text>
+			<text>PrzejdŸ za Perymetr</text>
 	<map_location_type hint= "gap_in_perimeter_hint">green_location</map_location_type>
 	<object_story_id>esc_space_restrictor_0000</object_story_id>
 			<infoportion_complete>cross_perimetre_3</infoportion_complete>
@@ -179,56 +179,56 @@
 </game_task>
 
 <game_task id="escape_from_escape" prio="30">
-		<title>Wydostaæ siê z Kordonu</title>
+		<title>Ucieknij z Kordonu</title>
 		<objective>
-			<text>Wydostaæ siê z Kordonu</text>
+			<text>Ucieknij z Kordonu</text>
 			<icon>ui_iconsTotal_locations</icon>
 			<article>als_help_8</article>
 			<infoportion_complete>player_complete_escape_from_escape</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Dotrzeæ do tunelu</text>
+			<text>Dostañ siê do tunelu</text>
 	<map_location_type hint= "tonnel_hint">green_location</map_location_type>
 	<object_story_id>esc_tonnel_2</object_story_id>
 			<infoportion_complete>escape_from_escape_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przejœæ na Sortowniê</text>
+			<text>PrzejdŸ do Sortowni</text>
 			<infoportion_complete>escape_from_escape_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="greetings_from_shamray" prio="40">
-		<title>Pozdrowienia od Szamraja</title>
+		<title>Pozdrowienia od Szramy</title>
 		<objective>
-			<text>Pozdrowienia od Szamraja</text>
+			<text>Pozdrowienia od Szramy</text>
 			<icon>ui_iconsTotal_galash</icon>
 			<article>als_help_9</article>
 			<infoportion_complete>player_complete_greetings_from_shamray</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Ga³asza na Sortowni</text>
+			<text>ZnajdŸ Ga³asza na Sortowni</text>
 	<map_location_type hint= "galash_name">blue_location</map_location_type>
 	<object_story_id>sor_galash_1</object_story_id>
 			<infoportion_complete>greetings_from_shamray_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przekazaæ Ga³aszowi pozdrowienia od Szamraja</text>
+			<text>Pozdrów Ga³aszê od Szramy</text>
 			<infoportion_complete>greetings_from_shamray_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="arrival_on_stalkers" prio="100">
-		<title>Najazd</title>
+		<title>Uderzenie</title>
 		<objective>
-			<text>Najazd</text>
+			<text>Uderzenie</text>
 			<icon>ui_iconsTotal_bar_hunter_rifle</icon>
 			<article>als_help_10</article>
 			<infoportion_complete>player_complete_arrival_on_stalkers</infoportion_complete>
 			<infoportion_fail>arrival_on_stalkers_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Pomóc ograbiæ stalkerów</text>
+			<text>Pomó¿ okraœæ stalkerów</text>
 			<infoportion_complete>arrival_on_stalkers_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -242,26 +242,26 @@
 			<infoportion_complete>signal_for_shamray_done</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Daæ sygna³ Szamrajowi</text>
+			<text>Sygna³ od Szramy</text>
 			<infoportion_complete>signal_for_shamray_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="organize_brigada" prio="50">
-		<title>Zebraæ brygadê</title>
+		<title>Zbierz brygadê</title>
 		<objective>
-			<text>Zebraæ brygadê</text>
+			<text>Zbierz brygadê</text>
 			<icon>ui_iconsTotal_esc_trader_job</icon>
 			<article>als_help_12</article>
 			<function_complete>als_quests_complit.organize_brigada_cmplt</function_complete>
 			<infoportion_complete>player_complete_organize_brigada</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Sidorem</text>
+			<text>Porozmawiaj z Sidorem</text>
 			<infoportion_complete>organize_brigada_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zebraæ brygadê</text>
+			<text>Zbierz brygadê</text>
 			<infoportion_complete>organize_brigada_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -269,29 +269,29 @@
 <game_task id="conversation_with_uzbek" prio="40">
 		<title>Uzbek</title>
 		<objective>
-			<text>Rozmowa z Uzbekiem</text>
+			<text>Porozmawiaj z Uzbekiem</text>
 			<icon>ui_iconsTotal_uzbek</icon>
 			<article>als_help_13</article>
 			<infoportion_complete>player_complete_conversation_with_uzbek</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przedostaæ siê na Bagna</text>
+			<text>Udaj siê na Bagna</text>
 	<map_location_type hint= "esc2marsh_01_hint">green_location</map_location_type>
 	<object_story_id>esc2marsh_01</object_story_id>
 			<infoportion_complete>conversation_with_uzbek_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Uzbeka</text>
+			<text>ZnajdŸ Uzbeka</text>
 	<map_location_type hint= "uzbek_name">green_location</map_location_type>
 	<object_story_id>marsh_bandit_uzbek</object_story_id>
 			<infoportion_complete>conversation_with_uzbek_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Uzbekiem</text>
+			<text>Porozmawiaj z Uzbekiem</text>
 			<infoportion_complete>conversation_with_uzbek_3</infoportion_complete>
 		</objective>
 		<!--objective>
-			<text>Powiadomiæ Czo³gistê</text>
+			<text>Zg³oœ siê do Czo³gisty</text>
 			<infoportion_complete>conversation_with_uzbek_4</infoportion_complete>
 		</objective-->
 </game_task>
@@ -299,39 +299,39 @@
 <game_task id="conversation_with_uzbek_short" prio="40">
 		<title>Uzbek</title>
 		<objective>
-			<text>Rozmowa z Uzbekiem</text>
+			<text>Porozmawiaj z Uzbekiem</text>
 			<icon>ui_iconsTotal_uzbek</icon>
 			<article>als_help_14</article>
 			<infoportion_complete>player_complete_conversation_with_uzbek_short</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przedostaæ siê na Bagna</text>
+			<text>Udaj siê na Bagna</text>
 	<map_location_type hint= "esc2marsh_01_hint">green_location</map_location_type>
 	<object_story_id>esc2marsh_01</object_story_id>
 			<infoportion_complete>conversation_with_uzbek_short_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Uzbeka</text>
+			<text>ZnajdŸ Uzbeka</text>
 	<map_location_type hint= "uzbek_name">green_location</map_location_type>
 	<object_story_id>marsh_bandit_uzbek</object_story_id>
 			<infoportion_complete>conversation_with_uzbek_short_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Uzbekiem</text>
+			<text>Porozmawiaj z Uzbekiem</text>
 			<infoportion_complete>conversation_with_uzbek_short_3</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="shron_at_marsh" prio="70">
-		<title>Schowek na Bagnach</title>
+		<title>Skrytka na Bagnach</title>
 		<objective>
-			<text>Schowek na Bagnach</text>
+			<text>Skrytka na Bagnach</text>
 			<icon>ui_iconsTotal_weapons</icon>
 			<article>als_help_15</article>
 			<infoportion_complete>player_complete_shron_at_marsh</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ schowek z broni¹</text>
+			<text>ZnajdŸ skrytkê z broni¹</text>
 	<map_location_type hint= "shron_hint">green_location</map_location_type>
 	<object_story_id>marsh_sidor_skhron_restrictor</object_story_id>
 			<infoportion_complete>shron_at_marsh_1</infoportion_complete>
@@ -339,15 +339,15 @@
 </game_task>
 
 <game_task id="check_sor_borman_skhron" prio="20">
-		<title>Wyposa¿enie</title>
+		<title>Ekwipunek</title>
 		<objective>
-			<text>Wyposa¿enie</text>
+			<text>Ekwipunek</text>
 			<icon>borman_tasks</icon>
 			<article>als_help_16</article>
 			<infoportion_complete>player_complete_check_sor_borman_skhron</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Sprawdziæ schowek ugrupowania</text>
+			<text>SprawdŸ skrytkê</text>
 	<map_location_type hint= "shron_hint">green_location</map_location_type>
 	<object_story_id>sor_inventory_box_borman</object_story_id>
 			<infoportion_complete>check_sor_borman_skhron_1</infoportion_complete>
@@ -357,39 +357,39 @@
 <game_task id="fight_on_bogs1" prio="50">
 		<title>Rozpierducha na Bagnach</title>
 		<objective>
-			<text>Zlikwidowaæ bandê Grabarza</text>
+			<text>Pokonaj bandê Grabarza</text>
 			<icon>ui_iconsTotal_bar_crazy_veterans_quest</icon>
 			<article>als_help_17</article>
 			<infoportion_complete>player_complete_fight_on_bogs1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Po³¹czyæ siê z Czo³gist¹</text>
+			<text>Skontaktuj siê z Czo³gist¹</text>
 			<infoportion_complete>fight_on_bogs1_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Szamrajem</text>
+			<text>Spotkaj siê ze Szram¹</text>
 	<map_location_type hint= "shamray_name">green_location</map_location_type>
 	<object_story_id>marsh_shamray_1</object_story_id>
 			<infoportion_complete>fight_on_bogs1_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Ga³aszem</text>
+			<text>Spotkaj siê z Ga³asz¹</text>
 	<map_location_type hint= "galash_name">green_location</map_location_type>
 	<object_story_id>marsh_galash_1</object_story_id>
 			<infoportion_complete>fight_on_bogs1_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Czo³gist¹</text>
+			<text>Spotkaj siê z Czo³gist¹</text>
 	<map_location_type hint= "marsh_baza_svoboda_hint">green_location</map_location_type>
 	<object_story_id>marsh_baza_svoboda</object_story_id>
 			<infoportion_complete>fight_on_bogs1_4</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Po³¹czyæ siê z Baszarem</text>
+			<text>Skontaktuj siê z P³oz¹</text>
 			<infoportion_complete>fight_on_bogs1_5</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zlikwidowaæ bandê Grabarza</text>
+			<text>Pokonaj bandê Grabarza</text>
 	<map_location_type hint= "marsh_mogilshik_lager_hint">eliminate_lager_location</map_location_type>
 	<object_story_id>marsh_mogilshik_lager</object_story_id>
 	<function_complete>als_quests_complit.fight_on_bogs1_cmplt</function_complete>
@@ -400,27 +400,27 @@
 <game_task id="fight_on_bogs2" prio="50">
 		<title>Rozpierducha na Bagnach</title>
 		<objective>
-			<text>Zlikwidowaæ bandê Grabarza</text>
+			<text>Pokonaj bandê Grabarza</text>
 			<icon>ui_iconsTotal_bar_crazy_veterans_quest</icon>
 			<article>als_help_18</article>
 			<infoportion_complete>player_complete_fight_on_bogs2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Po³¹czyæ siê z Czo³gist¹</text>
+			<text>Spotkaj siê z Czo³gist¹</text>
 			<infoportion_complete>fight_on_bogs2_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Czo³gist¹</text>
+			<text>Spotkaj siê z Czo³gist¹</text>
 	<map_location_type hint= "marsh_baza_svoboda_hint">green_location</map_location_type>
 	<object_story_id>marsh_baza_svoboda</object_story_id>
 			<infoportion_complete>fight_on_bogs2_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Po³¹czyæ siê z Baszarem</text>
+			<text>Spotkaj siê z P³oz¹</text>
 			<infoportion_complete>fight_on_bogs2_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zlikwidowaæ bandê Grabarza</text>
+			<text>Pokonaj bandê Grabarza</text>
 	<map_location_type hint= "marsh_mogilshik_lager_hint">eliminate_lager_location</map_location_type>
 	<object_story_id>marsh_mogilshik_lager</object_story_id>
 	<function_complete>als_quests_complit.fight_on_bogs2_cmplt</function_complete>
@@ -431,29 +431,29 @@
 <game_task id="fight_on_bogs3" prio="50">
 		<title>Rozpierducha na Bagnach</title>
 		<objective>
-			<text>Zlikwidowaæ bandê Grabarza</text>
+			<text>Pokonaj bandê Grabarza</text>
 			<icon>ui_iconsTotal_bar_crazy_veterans_quest</icon>
 			<article>als_help_19</article>
 			<infoportion_complete>player_complete_fight_on_bogs3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Szamrajem</text>
+			<text>Porozmawiaj z Szram¹</text>
 	<map_location_type hint= "shamray_name">green_location</map_location_type>
 	<object_story_id>marsh_shamray_1</object_story_id>
 			<infoportion_complete>fight_on_bogs3_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Ga³aszem</text>
+			<text>Porozmawiaj z Ga³asz¹</text>
 	<map_location_type hint= "galash_name">green_location</map_location_type>
 	<object_story_id>marsh_galash_1</object_story_id>
 			<infoportion_complete>fight_on_bogs3_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Po³¹czyæ siê z Baszarem</text>
+			<text>Porozmawiaj z P³oz¹</text>
 			<infoportion_complete>fight_on_bogs3_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zlikwidowaæ bandê Grabarza</text>
+			<text>Pokonaj bandê Grabarza</text>
 	<map_location_type hint= "marsh_mogilshik_lager_hint">eliminate_lager_location</map_location_type>
 	<object_story_id>marsh_mogilshik_lager</object_story_id>
 	<function_complete>als_quests_complit.fight_on_bogs3_cmplt</function_complete>
@@ -462,16 +462,16 @@
 </game_task>
 
 <game_task id="knifes_and_waterrat" prio="70">
-		<title>No¿e i Wodny Szczur</title>
+		<title>No¿e i Karczownik</title>
 		<objective>
-			<text>No¿e i Wodny Szczur</text>
+			<text>No¿e i Karczownik</text>
 			<icon>kovzur_tasks</icon>
 			<article>als_help_20</article>
 			<infoportion_complete>player_complete_knifes_and_waterrat</infoportion_complete>
 			<infoportion_fail>arrive_on_waterrat_base_start</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Wodnym Szczurem o no¿ach do miotania</text>
+			<text>Porozmawiaj z Karczownikiem o rzucaniu no¿ami</text>
 	<map_location_type hint= "waterrat_name">green_location</map_location_type>
 	<object_story_id>marsh_waterrat</object_story_id>
 			<infoportion_complete>knifes_and_waterrat_1</infoportion_complete>
@@ -479,15 +479,15 @@
 </game_task>
 
 <game_task id="knifes_in_wall" prio="20">
-		<title>No¿e w œcianie</title>
+		<title>Nó¿ w œcianie</title>
 		<objective>
-			<text>No¿e w œcianie</text>
+			<text>Nó¿ w œcianie</text>
 			<icon>ui_iconsTotal_knife</icon>
 			<article>als_help_21</article>
 			<infoportion_complete>player_complete_knifes_in_wall</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spytaæ Baszara o no¿e do miotania</text>
+			<text>Spytaj P³ozê o rzucanie no¿ami</text>
 			<infoportion_complete>knifes_in_wall_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -501,38 +501,38 @@
 			<infoportion_complete>player_complete_gone_scouts</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ zaginionych ludzi Ga³asza</text>
+			<text>ZnajdŸ zaginionych ludzi Ga³asza</text>
 	<function_complete>als_quests_complit.gone_scouts_1_cmplt</function_complete>
 			<infoportion_complete>gone_scouts_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wróciæ do Ga³asza</text>
+			<text>Porozmawiaj z Ga³asz¹</text>
 			<infoportion_complete>gone_scouts_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="not_complete_mission" prio="30">
-		<title>Niezakoñczona misja</title>
+		<title>Niedokoñczona misja</title>
 		<objective>
-			<text>ZnaleŸæ Grabarza</text>
+			<text>ZnajdŸ Grabarza</text>
 			<icon>ui_iconsTotal_mogila</icon>
 			<article>als_help_23</article>
 			<infoportion_complete>player_complete_not_complete_mission</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Baszarem</text>
+			<text>Porozmawiaj z P³oz¹</text>
 			<infoportion_complete>not_complete_mission_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przeszukaæ obóz Grabarza</text>
+			<text>Przeszukaj obóz Grabarza</text>
 			<infoportion_complete>not_complete_mission_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ schowek Grabarza</text>
+			<text>ZnajdŸ przedmioty Grabarza</text>
 			<infoportion_complete>not_complete_mission_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Grabarza</text>
+			<text>ZnajdŸ Grabarza</text>
 			<infoportion_complete>not_complete_mission_4</infoportion_complete>
 		</objective>
 </game_task>
@@ -546,22 +546,22 @@
 			<infoportion_complete>player_complete_crime_at_marsh</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Rozejrzeæ siê po miejscu zdarzenia</text>
+			<text>Rozejrzyj siê po miejscu zdarzenia</text>
 			<infoportion_complete>crime_at_marsh_1</infoportion_complete>
 		<function_complete>als_quests_complit.crime_at_marsh_cmplt</function_complete>
 		</objective>
 </game_task>
 
 <game_task id="detector_of_dead_man" prio="20">
-		<title>Detektor truposza</title>
+		<title>Wykrywacz truposza</title>
 		<objective>
-			<text>Detektor truposza</text>
+			<text>Wykrywacz truposza</text>
 			<icon>ui_iconsTotal_yan_find_scientist</icon>
 			<article>als_help_25</article>
 			<infoportion_complete>player_complete_detector_of_dead_man</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ detektor Morloka</text>
+			<text>ZnaldŸ detektor Morloka</text>
 	<map_location_type hint= "marsh_peshera_corpse_hint">green_location</map_location_type>
 	<object_story_id>marsh_peshera_corpse</object_story_id>
 			<infoportion_complete>detector_of_dead_man_1</infoportion_complete>
@@ -577,7 +577,7 @@
 			<infoportion_complete>player_complete_marsh_meet_deadman</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Deadmanem</text>
+			<text>Spotkaj siê z Umarlakiem</text>
 	<map_location_type hint= "deadman_name">green_location</map_location_type>
 	<object_story_id>marsh_stalker_deadman</object_story_id>
 			<infoportion_complete>marsh_meet_deadman_1</infoportion_complete>
@@ -585,15 +585,15 @@
 </game_task>
 
 <game_task id="arrive_on_waterrat_base" prio="90">
-		<title>Grupa Wodnego Szczura</title>
+		<title>Grupa Karczownika</title>
 		<objective>
-			<text>Grupa Wodnego Szczura</text>
+			<text>Grupa Karczownika</text>
 			<icon>kovzur_tasks</icon>
 			<article>als_help_27</article>
 			<infoportion_complete>player_complete_arrive_on_waterrat_base</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przejœæ na bazê Wodnego Szczura</text>
+			<text>IdŸ do bazy Karczownika</text>
 	<map_location_type hint= "waterrat_base_hint">red_location</map_location_type>
 	<object_story_id>marsh_waterrat_base</object_story_id>
 			<infoportion_complete>arrive_on_waterrat_base_1</infoportion_complete>
@@ -601,9 +601,9 @@
 </game_task>
 
 <game_task id="marsh_find_deadman" prio="50">
-		<title>ZnaleŸæ Deadmana</title>
+		<title>ZnajdŸ Umarlaka</title>
 		<objective>
-			<text>ZnaleŸæ Deadmana</text>
+			<text>ZnajdŸ Umarlaka</text>
 			<icon>ui_iconsTotal_dedman</icon>
 			<article>als_help_28</article>
 			<infoportion_complete>player_complete_marsh_find_deadman</infoportion_complete>
@@ -615,15 +615,15 @@
 			<infoportion_complete>marsh_find_deadman_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Deadmana</text>
+			<text>ZnajdŸ Umarlaka</text>
 			<infoportion_complete>marsh_find_deadman_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="heli_and_ikons_1" prio="30">
-		<title>Str¹cony helikopter i ikony</title>
+		<title>Rozbity helikopter i ikony</title>
 		<objective>
-			<text>Porozmawiaæ z Krzemieniem</text>
+			<text>Porozmawiaj z Krzemieniem</text>
 	<map_location_type hint= "atp_freedom_trader_name">green_location</map_location_type>
 	<object_story_id>marsh_svoboda_baza_trader</object_story_id>
 			<icon>ui_iconsTotal_heli_fail</icon>
@@ -631,22 +631,22 @@
 			<infoportion_complete>player_complete_heli_and_ikons_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Krzemieniem</text>
+			<text>Porozmawiaj z Krzemieniem</text>
 			<infoportion_complete>heli_and_ikons_1_1</infoportion_complete>
 		<function_complete>als_quests_complit.heli_and_ikons_3_cmplt</function_complete>
 		</objective>
 </game_task>
 
 <game_task id="heli_and_ikons_2" prio="30">
-		<title>Str¹cony helikopter i ikony</title>
+		<title>Rozbity helikopter i ikony</title>
 		<objective>
-			<text>ZnaleŸæ Simpsona albo Kutchera</text>
+			<text>ZnajdŸ Simpsona albo Kutchera</text>
 			<icon>ui_iconsTotal_heli_fail</icon>
 			<article>als_help_30</article>
 			<infoportion_complete>player_complete_heli_and_ikons_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Simpsona albo Kutchera</text>
+			<text>ZnajdŸ Simpsona albo Kutchera</text>
 	<map_location_type hint= "marsh_watchtower_hint">blue_location</map_location_type>
 	<object_story_id>marsh_watchtower</object_story_id>
 			<infoportion_complete>heli_and_ikons_2_1</infoportion_complete>
@@ -655,15 +655,15 @@
 </game_task>
 
 <game_task id="heli_and_ikons_3" prio="30">
-		<title>Str¹cony helikopter i ikony</title>
+		<title>Rozbity helikopter i ikony</title>
 		<objective>
-			<text>ZnaleŸæ ikony</text>
+			<text>ZnajdŸ ikony</text>
 			<icon>ui_iconsTotal_heli_fail</icon>
 			<article>als_help_31</article>
 			<infoportion_complete>player_complete_heli_and_ikons_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ ikony</text>
+			<text>ZnajdŸ ikony</text>
 	<map_location_type hint= "marsh_inventory_box_helicopter_hint">crlc_big</map_location_type>
 	<object_story_id>marsh_inventory_box_helicopter</object_story_id>
 			<infoportion_complete>heli_and_ikons_3_1</infoportion_complete>
@@ -681,7 +681,7 @@
 			<infoportion_fail>player_complete_marsh_key_decision_2</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Oddaæ ikony</text>
+			<text>Oddaj ikony</text>
 	<map_location_type hint= "marsh_key_decision_1_hint">green_location</map_location_type>
 	<object_story_id>marsh_pope_8</object_story_id>
 			<infoportion_complete>marsh_key_decision_1_1</infoportion_complete>
@@ -698,7 +698,7 @@
 			<infoportion_fail>player_complete_marsh_key_decision_1</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Sprzedaæ ikony</text>
+			<text>Sprzedaj ikony</text>
 	<map_location_type hint= "marsh_key_decision_2_hint">green_location</map_location_type>
 	<object_story_id>marsh_svoboda_baza_trader</object_story_id>
 			<infoportion_complete>marsh_key_decision_2_1</infoportion_complete>
@@ -714,7 +714,7 @@
 			<infoportion_complete>player_complete_old_bunker_sidor</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Deadmanem w starym bunkrze</text>
+			<text>Spotkaj siê z Umarlakiem w starym bunkrze</text>
 	<map_location_type hint= "old_bunker_hint">green_location</map_location_type>
 	<object_story_id>esc_deadman</object_story_id>
 			<infoportion_complete>old_bunker_sidor_1</infoportion_complete>
@@ -730,11 +730,11 @@
 			<infoportion_complete>player_complete_find_gone_selectors</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ zaginion¹ grupê kopaczy</text>
+			<text>ZnajdŸ zaginion¹ grupê kopaczy</text>
 			<infoportion_complete>find_gone_selectors_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Odebraæ wynagrodzenie</text>
+			<text>Odbierz nagrodê</text>
 			<infoportion_complete>find_gone_selectors_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -748,15 +748,15 @@
 			<infoportion_complete>player_complete_there_will_be_light1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>W³¹czyæ generator</text>
+			<text>Uruchom generator</text>
 			<infoportion_complete>there_will_be_light1_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Otworzyæ sejf</text>
+			<text>Otwórz sejf</text>
 			<infoportion_complete>there_will_be_light1_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ kontener</text>
+			<text>Zabierz kontener</text>
 			<infoportion_complete>there_will_be_light1_3</infoportion_complete>
 		</objective>
 </game_task>
@@ -770,19 +770,19 @@
 			<infoportion_complete>player_complete_there_will_be_light2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ ze stalkerami</text>
+			<text>Porozmawiaj ze stalkerami</text>
 			<infoportion_complete>there_will_be_light2_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>W³¹czyæ generator</text>
+			<text>Uruchom generator</text>
 			<infoportion_complete>there_will_be_light2_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Otworzyæ sejf</text>
+			<text>Otwórz sejf</text>
 			<infoportion_complete>there_will_be_light2_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ kontener</text>
+			<text>Zabierz kontener</text>
 			<infoportion_complete>there_will_be_light2_4</infoportion_complete>
 		</objective>
 </game_task>
@@ -796,7 +796,7 @@
 			<infoportion_complete>player_complete_work_on_corporation</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Pulewiczem</text>
+			<text>Spotkaj siê z Kulawym</text>
 	<map_location_type hint= "grc_agent_name">blue_location</map_location_type>
 	<object_story_id>sor_grc_agent</object_story_id>
 			<infoportion_complete>work_on_corporation_1</infoportion_complete>
@@ -804,9 +804,9 @@
 </game_task>
 
 <game_task id="find_boxes_hsm" prio="20">
-		<title>Kontenery ze znacznikiem HSM</title>
+		<title>Kontenery oznaczone HSM</title>
 		<objective>
-			<text>Kontenery ze znacznikiem HSM</text>
+			<text>Kontenery oznaczone HSM</text>
 			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
 			<article>als_help_39</article>
 			<infoportion_complete>player_complete_find_boxes_hsm</infoportion_complete>
@@ -818,7 +818,7 @@
 			<infoportion_complete>find_boxes_hsm_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ znaczniki GPS</text>
+			<text>Zabierz znaczniki GPS</text>
 	<map_location_type hint= "yantar_hsm_hint">crlc_big</map_location_type>
 	<object_story_id>yantar_hsm_point</object_story_id>
 			<infoportion_complete>find_boxes_hsm_2</infoportion_complete>
@@ -856,19 +856,19 @@
 </game_task>
 
 <game_task id="silence_of_scientists" prio="70">
-		<title>Milczenie naukowców</title>
+		<title>Milczenie uczonych</title>
 		<objective>
-			<text>Milczenie naukowców</text>
+			<text>Milczenie uczonych</text>
 			<icon>ui_iconsTotal_agro</icon>
 			<article>als_help_40</article>
 			<infoportion_complete>player_complete_silence_of_scientists</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ towarzyszy na drogê</text>
+			<text>ZnajdŸ towarzyszy na drogê</text>
 			<infoportion_complete>silence_of_scientists_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Dotrzeæ do modu³u na Agropromie</text>
+			<text>IdŸ do modu³u w Agropromie</text>
 	<map_location_type hint= "agro_scientists_hint">green_location</map_location_type>
 	<object_story_id>agro_scientists_module</object_story_id>
 			<infoportion_complete>silence_of_scientists_2</infoportion_complete>
@@ -876,36 +876,36 @@
 </game_task>
 
 <game_task id="agru_take_away_container_hsm" prio="50">
-		<title>Zabraæ kontener</title>
+		<title>Zabierz kontener</title>
 		<objective>
-			<text>Zabraæ kontener</text>
+			<text>Zabierz kontener</text>
 			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
 			<article>als_help_41</article>
 			<infoportion_complete>player_complete_agru_take_away_container_hsm</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ kontener</text>
+			<text>ZnajdŸ kontener</text>
 	<map_location_type hint= "box_hsm_hint">green_location</map_location_type>
 	<object_story_id>agr_fake_hsm_box</object_story_id>
 			<infoportion_complete>agru_take_away_container_hsm_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ kontener</text>
+			<text>ZnajdŸ kontener</text>
 			<infoportion_complete>agru_take_away_container_hsm_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="transfer_agru_hsm_box" prio="50">
-		<title>Oddaæ kontener</title>
+		<title>Oddaj kontener</title>
 		<objective>
-			<text>Oddaæ kontener</text>
+			<text>Oddaj kontener</text>
 			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
 			<article>als_help_42</article>
 			<infoportion_complete>player_complete_transfer_agru_hsm_box</infoportion_complete>
 			<infoportion_fail>transfer_agru_hsm_box_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Poczekaæ na przedstawiciela Pulewicza</text>
+			<text>Poczekaj na cz³owieka Kulawego</text>
 	<map_location_type hint= "meet_point">green_location</map_location_type>
 	<object_story_id>agr_hsm_meet_point</object_story_id>
 			<infoportion_complete>transfer_agru_hsm_box_1</infoportion_complete>
@@ -921,13 +921,13 @@
 			<infoportion_complete>player_complete_meeting_near_tunnel</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Oddaæ kontener Krasnowowi</text>
+			<text>Oddaj kontener Krasnowowi</text>
 	<map_location_type hint= "esc_cptn_krasnov_name">green_location</map_location_type>
 	<object_story_id>esc_grc_krasnov</object_story_id>
 			<infoportion_complete>meeting_near_tunnel_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Deadmanem</text>
+			<text>Spotkaj siê z Umarlakiem</text>
 	<map_location_type hint= "">green_location</map_location_type>
 	<object_story_id></object_story_id>
 			<infoportion_complete>meeting_near_tunnel_2</infoportion_complete>
@@ -943,45 +943,45 @@
 			<infoportion_complete>player_complete_container_number_two</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ kontener</text>
+			<text>Zabierz kontener</text>
 			<infoportion_complete>container_number_two_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wydostaæ siê na powierzchniê</text>
+			<text>Wydostañ siê na powierzchniê</text>
 			<infoportion_complete>container_number_two_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Po³¹czyæ siê z Pulewiczem</text>
+			<text>Skontaktuj siê z Kulawym</text>
 			<infoportion_complete>container_number_two_3</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="foolish_plan" prio="50">
-		<title>Idiotyczny plan Deadmana</title>
+		<title>G³upi plan Umarlaka</title>
 		<objective>
-			<text>Idiotyczny plan Deadmana</text>
+			<text>G³upi plan Umarlaka</text>
 			<icon>ui_iconsTotal_dedman</icon>
 			<article>als_help_45</article>
 			<infoportion_complete>player_complete_foolish_plan</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Ukryæ kontener</text>
+			<text>Ukryj kontener</text>
 	<map_location_type hint= "gar_flea_market_hiding_place_hint">green_location</map_location_type>
 	<object_story_id>gar_flea_market_hiding_place</object_story_id>
 			<infoportion_complete>foolish_plan_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Urz¹dziæ zasadzkê na oddzia³ GRC</text>
+			<text>Zasadzka na oddzia³ GRC</text>
 	<map_location_type hint= "gar_ambush_restrictor_hint">green_location</map_location_type>
 	<object_story_id>gar_ambush_restrictor</object_story_id>
 			<infoportion_complete>foolish_plan_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wybiæ oddzia³</text>
+			<text>Zlikwiduj oddzia³</text>
 			<infoportion_complete>foolish_plan_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Po³¹czyæ siê z Pulewiczem</text>
+			<text>Porozmawiaj z Kulawym</text>
 			<infoportion_complete>foolish_plan_4</infoportion_complete>
 		</objective>
 </game_task>
@@ -995,35 +995,35 @@
 			<infoportion_complete>player_complete_container_number_three</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przenikn¹æ do laboratorium X-18</text>
+			<text>WejdŸ do laboratorium X-18</text>
 	<map_location_type hint= "box_hsm_hint">green_location</map_location_type>
 	<object_story_id>val_hsm_point</object_story_id>
 			<infoportion_complete>container_number_three_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ kontener HSM</text>
+			<text>Zabierz kontener HSM</text>
 			<infoportion_complete>container_number_three_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Ukryæ kontener w schowku grupy Synoptyka</text>
+			<text>Ukryj kontener w schowku grupy Synoptyka</text>
 			<infoportion_complete>container_number_three_3</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="first_meeting_sinoptic" prio="40">
-		<title>Spotkanie z Synoptykiem</title>
+		<title>Porozmawiaj z Synoptykiem</title>
 		<objective>
-			<text>Spotkanie z Synoptykiem</text>
+			<text>Porozmawiaj z Synoptykiem</text>
 			<icon>sinoptic_tasks</icon>
 			<article>als_help_47</article>
 			<infoportion_complete>player_complete_first_meeting_sinoptic</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Synoptykiem</text>
+			<text>Porozmawiaj z Synoptykiem</text>
 			<infoportion_complete>first_meeting_sinoptic_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Rozmowa z Synoptykiem</text>
+			<text>Porozmawiaj z Synoptykiem</text>
 			<infoportion_complete>first_meeting_sinoptic_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1038,33 +1038,33 @@
 			<infoportion_fail>esc_panzer_told</infoportion_fail>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Kuczmê</text>
+			<text>ZnajdŸ Kuczmê</text>
 			<infoportion_complete>find_necronomicon_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ manuskrypt</text>
+			<text>Zabierz manuskrypt</text>
 			<infoportion_complete>find_necronomicon_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Oddaæ manuskrypt Synoptykowi</text>
+			<text>Oddaj manuskrypt Synoptykowi</text>
 			<infoportion_complete>find_necronomicon_3</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="killing_paranoia" prio="50">
-		<title>Mordercza paranoja</title>
+		<title>Zabójcza paranoja</title>
 		<objective>
-			<text>Mordercza paranoja</text>
+			<text>Zabójcza paranoja</text>
 			<icon>ui_iconsTotal_dar_codedoor_2</icon>
 			<article>als_help_49</article>
 			<infoportion_complete>player_complete_killing_paranoia</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ sposób wydostania siê z X-18</text>
+			<text>ZnajdŸ sposób na wydostanie siê z X-18</text>
 			<infoportion_complete>killing_paranoia_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Rozprawiæ siê z najemnikami</text>
+			<text>Rozpraw siê z najemnikami</text>
 	<map_location_type hint= "revenge_to_mercenaries_hint">green_location</map_location_type>
 	<object_story_id>val_revenge_to_mercenaries_restrictor</object_story_id>
 			<infoportion_complete>killing_paranoia_2</infoportion_complete>
@@ -1072,37 +1072,37 @@
 </game_task>
 
 <game_task id="headquarters_counterintelligence_duty" prio="50">
-		<title>Kontener w sztabie SRKR Powinnoœci</title>
+		<title>Pojemnik w sztabie SRCR Powinnoœæ</title>
 		<objective>
-			<text>Kontener w sztabie SRKR Powinnoœci</text>
+			<text>Pojemnik w sztabie SRCR Powinnoœæ</text>
 			<icon>ui_iconsTotal_esc_blockpost_case_to_trader</icon>
 			<article>als_help_50</article>
 			<infoportion_complete>player_complete_headquarters_counterintelligence_duty</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przenikn¹æ do sztabu SRKR Powinnoœci</text>
+			<text>Zinflirtuj siedzibê Powinnoœci</text>
 			<infoportion_complete>headquarters_counterintelligence_duty_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ kontener</text>
+			<text>Zabierz kontener</text>
 			<infoportion_complete>headquarters_counterintelligence_duty_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Schowaæ kontener w schowku grupy Synoptyka</text>
+			<text>Ukryj kontener w schowku Synoptyka</text>
 			<infoportion_complete>headquarters_counterintelligence_duty_3</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="conscience_of_colonel" prio="50">
-		<title>Sumienie pu³kownika Pancera</title>
+		<title>Sumienie pu³kownika Panzera</title>
 		<objective>
-			<text>Sumienie pu³kownika Pancera</text>
+			<text>Sumienie pu³kownika Panzera</text>
 			<icon>ui_iconsNpc_stalker_do_balon_6</icon>
 			<article>als_help_51</article>
 			<infoportion_complete>player_complete_conscience_of_colonel</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wróciæ i dowiedzieæ siê czego potrzebuje Pancer</text>
+			<text>Wróæ i dowiedz siê, czego potrzebuje Panzer</text>
 			<infoportion_complete>conscience_of_colonel_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1117,27 +1117,27 @@
 			<infoportion_fail>actor_refused_cooperation</infoportion_fail>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ deszyfranta</text>
+			<text>ZnajdŸ deszyfrator</text>
 			<infoportion_complete>agent_grc_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="base_of_military_stalkers" prio="100">
-		<title>Baza wojskowych stalkerów</title>
+		<title>Baza militarnych stalkerów</title>
 		<objective>
-			<text>Baza wojskowych stalkerów</text>
+			<text>Baza militarnych stalkerów</text>
 			<icon>ui_iconsTotal_eliminate_lager</icon>
 			<article>als_help_53</article>
 			<infoportion_complete>player_complete_base_of_military_stalkers</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wejœæ na teren bazy</text>
+			<text>Dostañ siê do bazy</text>
 	<map_location_type hint= "entrance_on_base">green_location</map_location_type>
 	<object_story_id>mil_military_stalker_base</object_story_id>
 			<infoportion_complete>base_of_military_stalkers_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Leo</text>
+			<text>Porozmawiaj z Leo</text>
 	<map_location_type hint= "mil_military_stalker_commander_name">green_location</map_location_type>
 	<object_story_id>mil_military_stalker_commander</object_story_id>
 			<infoportion_complete>base_of_military_stalkers_2</infoportion_complete>
@@ -1153,7 +1153,7 @@
 			<infoportion_complete>player_complete_military_stalkers</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Dostarczyæ fleszkê na bazê</text>
+			<text>Dostarcz pendrive do bazy</text>
 	<map_location_type hint= "agr_ms_base_hint">green_location</map_location_type>
 	<object_story_id>agr_psy_zone_2</object_story_id>
 			<infoportion_complete>military_stalkers_1</infoportion_complete>
@@ -1161,23 +1161,23 @@
 </game_task>
 
 <game_task id="ritual_knife" prio="90">
-		<title>Obsydianowy nó¿</title>
+		<title>Nó¿ Obsydianowy</title>
 		<objective>
-			<text>Obsydianowy nó¿</text>
+			<text>Nó¿ Obsydianowy</text>
 			<icon>ui_iconsTotal_locations</icon>
 			<article>als_help_55</article>
 			<infoportion_complete>player_complete_ritual_knife</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ schowek o. Witalija</text>
+			<text>ZnajdŸ schowek o. Witalija</text>
 			<infoportion_complete>ritual_knife_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ nó¿</text>
+			<text>WeŸ nó¿</text>
 			<infoportion_complete>ritual_knife_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Oddaæ nó¿ Barmanowi</text>
+			<text>Zanieœ nó¿ Barmanowi</text>
 			<infoportion_complete>ritual_knife_3</infoportion_complete>
 		</objective>
 </game_task>
@@ -1191,49 +1191,49 @@
 			<infoportion_complete>player_complete_the_knife_for_the_barman</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Oddaæ nó¿ Barmanowi</text>
+			<text>Oddaj nó¿ Barmanowi</text>
 			<infoportion_complete>the_knife_for_the_barman_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="track_to_limansk" prio="40">
-		<title>Œcie¿ka do Limañska</title>
+		<title>Szlak do Limañska</title>
 		<objective>
-			<text>Œcie¿ka do Limañska</text>
+			<text>Szlak do Limañska</text>
 			<icon>ui_iconsNpc_green_stalker_7</icon>
 			<article>als_help_57</article>
 			<infoportion_complete>player_complete_track_to_limansk</infoportion_complete>
 			<infoportion_fail>actor_refused_cooperation</infoportion_fail>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Geniê Hakera</text>
+			<text>ZnajdŸ Gen Hakera.</text>
 			<infoportion_complete>track_to_limansk_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Daæ Genii fleszkê do deszyfracji</text>
+			<text>Daj Genowi pendrive wojskowego stalkera</text>
 			<infoportion_complete>track_to_limansk_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poczekaæ na wynik deszyfrowania</text>
+			<text>Poczekaj na wynik odszyfrowania</text>
 			<infoportion_complete>track_to_limansk_3</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="in_the_law" prio="100">
-		<title>W prawie</title>
+		<title>Wed³ug prawa</title>
 		<objective>
-			<text>W prawie</text>
+			<text>Wed³ug prawa</text>
 			<icon>borman_tasks</icon>
 			<article>als_help_58</article>
 			<infoportion_complete>player_complete_in_the_law</infoportion_complete>
 			<infoportion_fail>gen_borman_isdead</infoportion_fail>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Leszê Bormana</text>
+			<text>ZnajdŸ Leszê Bormana</text>
 			<infoportion_complete>in_the_law_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przekazaæ Leszy decyzjê o spotkaniu</text>
+			<text>Daj Leszy decyzjê o spotkaniu</text>
 			<infoportion_complete>in_the_law_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1247,7 +1247,7 @@
 			<infoportion_complete>player_complete_glade_centre</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zaj¹æ pozycjê w centrum polany</text>
+			<text>Usi¹dŸ na œrodku ³¹ki</text>
 	<map_location_type hint= "glade_centre_hint">green_location</map_location_type>
 	<object_story_id>pol_centre_restrictor</object_story_id>
 			<infoportion_complete>glade_centre_1</infoportion_complete>
@@ -1255,19 +1255,19 @@
 </game_task>
 
 <game_task id="kill_gravedigger" prio="50">
-		<title>Zabiæ Grabarza</title>
+		<title>Zabij Grabarza</title>
 		<objective>
-			<text>Zabiæ Grabarza</text>
+			<text>Zabij Grabarza</text>
 			<icon>ui_iconsTotal_mogila</icon>
 			<article>als_help_60</article>
 			<infoportion_complete>player_complete_kill_gravedigger</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zastrzeliæ Grabarza</text>
+			<text>Zastrzel Grabarza</text>
 			<infoportion_complete>kill_gravedigger_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ manuskrypt</text>
+			<text>Zabierz manuskrypt</text>
 			<infoportion_complete>kill_gravedigger_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1281,21 +1281,21 @@
 			<infoportion_complete>player_complete_in_private</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Umieœciæ klucze w skrzyni</text>
+			<text>W³ó¿ klucze do walizki</text>
 			<infoportion_complete>in_private_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poczekaæ na sygna³</text>
+			<text>Poczekaj na sygna³</text>
 	<map_location_type hint= "wait_signal_hint">green_location</map_location_type>
 	<object_story_id>atp_expectation_point_restrictor</object_story_id>
 			<infoportion_complete>in_private_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zwyciê¿yæ w pojedynku</text>
+			<text>Wygraj pojedynek</text>
 			<infoportion_complete>in_private_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ klucze i manuskrypt</text>
+			<text>Zabierz klucze i manuskrypt</text>
 	<function_complete>als_quests_complit.in_private_cmplt</function_complete>
 			<infoportion_complete>in_private_4</infoportion_complete>
 		</objective>
@@ -1310,62 +1310,62 @@
 			<infoportion_complete>player_complete_other_debts</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wróciæ na Polanê</text>
+			<text>Wróæ na Polanê</text>
 			<infoportion_complete>other_debts_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Dobiæ grupê Grabarza</text>
+			<text>Wykoñcz grupê Grabarza</text>
 	<function_complete>als_quests_complit.other_debts_1_1_cmplt</function_complete>
 			<infoportion_complete>other_debts_1_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ rzeczy Duszmana</text>
+			<text>Odbierz rzeczy Duszmana</text>
 	<function_complete>als_quests_complit.other_debts_cmplt</function_complete>
 			<infoportion_complete>other_debts_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="signal_from_varnak" prio="150">
-		<title>Sygna³ od Warnaka</title>
+		<title>Sygna³ od £ajdaka</title>
 		<objective>
-			<text>Sygna³ od Warnaka</text>
+			<text>Sygna³ od £ajdaka</text>
 			<icon>ui_iconsTotal_racia</icon>
 			<article>als_help_63</article>
 			<infoportion_complete>player_complete_signal_from_varnak</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poczekaæ na wiadomoœæ od Warnaka</text>
+			<text>Poczekaj na wiadomoœæ od £ajdaka</text>
 			<infoportion_complete>signal_from_varnak_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="sacred_business" prio="30">
-		<title>Œwiête dzie³o</title>
+		<title>Œwiêta sprawa</title>
 		<objective>
-			<text>Œwiête dzie³o</text>
+			<text>Œwiêta sprawa</text>
 			<icon>ui_iconsTotal_val_prisoner_help</icon>
 			<article>als_help_64</article>
 			<infoportion_complete>player_complete_sacred_business</infoportion_complete>
 			<infoportion_fail>sacred_business_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Zaj¹æ pozycjê</text>
+			<text>Zajmij stanowisko</text>
 	<map_location_type hint= "gun_position_hint">green_location</map_location_type>
 	<object_story_id>sor_gun_position_restrictor</object_story_id>
 			<infoportion_complete>sacred_business_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poczekaæ a¿ Iwancow bêdzie gotowy</text>
+			<text>Poczekaj, a¿ Iwancow bêdzie gotowy</text>
 			<infoportion_complete>sacred_business_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Rozbiæ okno wystrza³em</text>
+			<text>Strzel w okno</text>
 	<map_location_type hint= "window_hint">green_location</map_location_type>
 	<object_story_id>sor_police_window_1</object_story_id>
 			<infoportion_complete>sacred_business_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Uwolniæ wiêŸniów</text>
+			<text>Uwolnij wiêŸniów</text>
 	<map_location_type hint= "prisoners_hint">green_location</map_location_type>
 	<object_story_id>sor_monkeyhouse_restrictor</object_story_id>
 			<infoportion_complete>sacred_business_4</infoportion_complete>
@@ -1381,11 +1381,11 @@
 			<infoportion_complete>player_complete_werewolf_in_epaulets</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przedostaæ siê na Sortowniê</text>
+			<text>Zakradnij siê do Sortowni</text>
 			<infoportion_complete>werewolf_in_epaulets_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z majorem Iwancowem</text>
+			<text>Porozmawiaj z majorem Iwancow</text>
 	<map_location_type hint= "ivancov_name">green_location</map_location_type>
 	<object_story_id>sor_ivancov</object_story_id>
 			<infoportion_complete>werewolf_in_epaulets_2</infoportion_complete>
@@ -1393,55 +1393,55 @@
 </game_task>
 
 <game_task id="take_away_passports" prio="150">
-		<title>Paszport</title>
+		<title>Paszporty</title>
 		<objective>
-			<text>Paszport</text>
+			<text>Paszporty</text>
 			<icon>ui_iconsNpc_soldier_beret</icon>
 			<article>als_help_66</article>
 			<infoportion_complete>player_complete_take_away_passports</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z kapitanem Parszynem</text>
+			<text>Porozmawiaj z kapitanem Parszywym</text>
 	<map_location_type hint= "cptn_parshin_name">green_location</map_location_type>
 	<object_story_id>sor_baza_commander</object_story_id>
 			<infoportion_complete>take_away_passports_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ paszport</text>
+			<text>Odbierz paszporty</text>
 			<infoportion_complete>take_away_passports_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="large_caliber_sniper_rifle" prio="100">
-		<title>Optyka z wielkim kalibrem</title>
+		<title>Optyka du¿ego kalibru</title>
 		<objective>
-			<text>Optyka z wielkim kalibrem</text>
+			<text>Optyka du¿ego kalibru</text>
 			<icon>ui_iconsTotal_svdk</icon>
 			<article>als_help_67</article>
 			<infoportion_complete>player_complete_large_caliber_sniper_rifle</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zdobyæ wielkokalibrow¹ snajperkê</text>
+			<text>Zdob¹dŸ karabin snajperski du¿ego kalibru</text>
 			<infoportion_complete>large_caliber_sniper_rifle_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="vague_memoirs" prio="90">
-		<title>NiewyraŸne wspomnienia</title>
+		<title>Mgliste wspomnienia</title>
 		<objective>
-			<text>NiewyraŸne wspomnienia</text>
+			<text>Mgliste wspomnienia</text>
 			<icon>ui_iconsNpc_green_stalker_1</icon>
 			<article>als_help_68</article>
 			<infoportion_complete>player_complete_vague_memoirs</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ artefakt w X-18</text>
+			<text>ZnajdŸ artefakt w X-18</text>
 	<map_location_type hint= "art_red_name">green_location</map_location_type>
 	<object_story_id>darklab_art_red</object_story_id>
 			<infoportion_complete>vague_memoirs_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przynieœæ artefakt ¯wawemu</text>
+			<text>Zanieœ artefakt do Zwinnego</text>
 	<map_location_type hint= "esc_shustryi_name">green_location</map_location_type>
 	<object_story_id>sor_sidor_stalker_1</object_story_id>
 			<infoportion_complete>vague_memoirs_2</infoportion_complete>
@@ -1458,7 +1458,7 @@
 			<infoportion_fail>dark_valley_abnormal_activity_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Zwiad w Dolinie Mroku</text>
+			<text>Zwiadowca z Doliny Mroku</text>
 			<infoportion_complete>dark_valley_abnormal_activity_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1472,36 +1472,36 @@
 			<infoportion_complete>player_complete_dark_valley_abnormal_activity2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przenikn¹æ na bazê najemników</text>
+			<text>Zinflirtuj bazê najemników</text>
 	<map_location_type hint= "val_killers_basa_hint">green_location</map_location_type>
 	<object_story_id>val_killers_basa</object_story_id>
 			<infoportion_complete>dark_valley_abnormal_activity2_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Otworzyæ sejf Szokera</text>
+			<text>Otwórz sejf Paskudy</text>
 	<map_location_type hint= "val_safe_door_hint">green_location</map_location_type>
 	<object_story_id>val_safe_door</object_story_id>
 			<infoportion_complete>dark_valley_abnormal_activity2_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ fleszkê Szokera</text>
+			<text>WeŸ pendrive Paskudy</text>
 	<map_location_type hint= "val_shocker_flash_fake_hint">green_location</map_location_type>
 	<object_story_id>val_shocker_flash_fake</object_story_id>
 			<infoportion_complete>dark_valley_abnormal_activity2_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wy³¹czyæ dzia³ka</text>
+			<text>Wy³¹cz wie¿yczki</text>
 	<map_location_type hint= "val_comp_klava_1_hint">green_location</map_location_type>
 	<object_story_id>val_comp_klava_1</object_story_id>
 			<infoportion_complete>dark_valley_abnormal_activity2_4</infoportion_complete>
 			<infoportion_fail>val_comp_is_blocked</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Wydostaæ siê z bazy</text>
+			<text>Ucieknij z bazy</text>
 			<infoportion_complete>dark_valley_abnormal_activity2_5</infoportion_complete>
 		</objective>
 		<!--objective>
-			<text>Oddaæ fleszkê Sidorowiczowi</text>
+			<text>Daj pendrive Sidorowiczowi</text>
 			<infoportion_complete>dark_valley_abnormal_activity2_6</infoportion_complete>
 		</objective-->
 </game_task>
@@ -1516,13 +1516,13 @@
 			<infoportion_fail>gone_nestor_1_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Gruberem</text>
+			<text>Porozmawiaj z Gruberem</text>
 			<infoportion_complete>gone_nestor_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="gone_nestor_2" prio="80">
-		<title>Zaginiony Nestor 2</title>
+		<title>Zaginiony Nestor II</title>
 		<objective>
 			<text>Zaginiony Nestor</text>
 			<icon>ui_iconsTotal_agr_agr_help_krot</icon>
@@ -1531,7 +1531,7 @@
 			<infoportion_fail>gone_nestor_2_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ jakiekolwiek informacje o Nestorze</text>
+			<text>ZnajdŸ jakiekolwiek informacje o Nestorze</text>
 			<infoportion_complete>gone_nestor_2_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1545,7 +1545,7 @@
 			<infoportion_complete>player_complete_yalta</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przekazaæ Ja³cie plan</text>
+			<text>Opowiedz plan Ja³cie</text>
 	<map_location_type hint= "val_killer_yalta_name">green_location</map_location_type>
 	<object_story_id>sor_stalker_yalta</object_story_id>
 			<infoportion_complete>yalta_1</infoportion_complete>
@@ -1561,7 +1561,7 @@
 			<infoportion_complete>player_complete_mcleens</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przekazaæ McClensowi plan</text>
+			<text>Przeka¿ plan McClensowi</text>
 	<map_location_type hint= "mackleens_name">green_location</map_location_type>
 	<object_story_id>sor_mcleens_exo_from_pol</object_story_id>
 			<infoportion_complete>mcleens_1</infoportion_complete>
@@ -1578,13 +1578,13 @@
 			<infoportion_complete>player_complete_yalta_and_mcleens</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przekazaæ Ja³cie plan</text>
+			<text>Opowiedz plan Ja³cie</text>
 	<map_location_type hint= "val_killer_yalta_name">green_location</map_location_type>
 	<object_story_id>sor_stalker_yalta</object_story_id>
 			<infoportion_complete>yalta_and_mcleens_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przekazaæ McClensowi plan</text>
+			<text>Opowiedz plan McClensowi</text>
 	<map_location_type hint= "mackleens_name">green_location</map_location_type>
 	<object_story_id>sor_mcleens_exo_from_pol</object_story_id>
 			<infoportion_complete>yalta_and_mcleens_2</infoportion_complete>
@@ -1594,7 +1594,7 @@
 <game_task id="patronage_for_mercenaries" prio="120">
 		<title>Protekcja dla najemników</title>
 		<objective>
-			<text>Protekcja dla najemników</text>
+			<text>Ochrona dla najemników</text>
 			<icon>ui_iconsTotal_yalta</icon>
 			<article>als_help_76</article>
 			<infoportion_complete>player_complete_patronage_for_mercenaries</infoportion_complete>
@@ -1616,26 +1616,26 @@
 			<infoportion_complete>player_complete_secrets_of_diggers</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przetwórnia</text>
+			<text>ZnajdŸ skrytkê kopaczy</text>
 			<infoportion_complete>secrets_of_diggers_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="devices_from_factory" prio="100">
-		<title>Przyrz¹dy z fabryki</title>
+		<title>Urz¹dzenia z fabryki</title>
 		<objective>
-			<text>Przyrz¹dy z fabryki</text>
+			<text>Urz¹dzenia z fabryki</text>
 			<icon>ui_iconsTotal_sortirovka</icon>
 			<article>als_help_78</article>
 			<infoportion_complete>player_complete_devices_from_factory</infoportion_complete>
 			<infoportion_fail>devices_from_factory_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Spytaæ Sidora o fabrykê</text>
+			<text>Zapytaj Sidora o fabrykê</text>
 			<infoportion_complete>devices_from_factory_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spytaæ Barmana o fabrykê</text>
+			<text>Zapytaj Barmana o fabrykê</text>
 			<infoportion_complete>devices_from_factory_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1649,7 +1649,7 @@
 			<infoportion_complete>player_complete_grc_compensation</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ pieni¹dze z sejfu</text>
+			<text>Zabierz pieni¹dze z sejfu</text>
 			<infoportion_complete>grc_compensation_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1664,7 +1664,7 @@
 			<infoportion_complete>player_complete_tarnished_reputation</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z handlarzami na Sortowni</text>
+			<text>Porozmawiaj z kupcami w Sortowni</text>
 			<infoportion_complete>tarnished_reputation_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1678,21 +1678,21 @@
 			<infoportion_complete>player_complete_fallen_helicopter</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Sprawdziæ miejsce upadku helikoptera</text>
+			<text>Zbadaj miejsce katastrofy helikoptera</text>
 			<infoportion_complete>fallen_helicopter_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="meeting_on_farm" prio="100">
-		<title>Spotkanie na fermie</title>
+		<title>Spotkanie na farmie</title>
 		<objective>
-			<text>Spotkanie na fermie</text>
+			<text>Spotkanie na farmie</text>
 			<icon>ui_iconsTotal_yalta</icon>
 			<article>als_help_82</article>
 			<infoportion_complete>player_complete_meeting_on_farm</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z grup¹ Ja³ty na fermie w Dolinie Mroku</text>
+			<text>Spotkaj siê z grup¹ Ja³ty na farmie w Dolinie Mroku</text>
 	<map_location_type hint= "val_farm_hint">green_location</map_location_type>
 	<object_story_id>val_farm</object_story_id>
 			<infoportion_complete>meeting_on_farm_1</infoportion_complete>
@@ -1708,7 +1708,7 @@
 			<infoportion_complete>player_complete_meeting_on_krovososovka</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Z³otego w wiosce na Magazynach Wojskowych</text>
+			<text>ZnajdŸ Z³otego w wiosce na Magazynach Wojskowych</text>
 	<map_location_type hint= "krovososovka_hint">green_location</map_location_type>
 	<object_story_id>mil_krovososovka</object_story_id>
 			<infoportion_complete>meeting_on_krovososovka_1</infoportion_complete>
@@ -1725,7 +1725,7 @@
 			<infoportion_fail>val_zindan_prisoners_are_dead</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Uwolniæ wiêŸniów</text>
+			<text>Uwolnij wiêŸniów</text>
 	<map_location_type hint= "val_prisoner_frei_restrictor_hint">green_location</map_location_type>
 	<object_story_id>val_prisoner_frei_restrictor</object_story_id>
 			<infoportion_complete>zindan_1</infoportion_complete>
@@ -1741,7 +1741,7 @@
 			<infoportion_complete>player_complete_last_container_hsm</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ w Szpitalu kontener HSM</text>
+			<text>ZnajdŸ kontener HSM w szpitalu</text>
 			<infoportion_complete>last_container_hsm_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1755,7 +1755,7 @@
 			<infoportion_complete>player_complete_principle_business</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Schowaæ ostatni kontener w schowku grupy Synoptyka</text>
+			<text>Ukryj ostatni kontener w skrytce grupy Synoptyka</text>
 			<infoportion_complete>principle_business_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1769,29 +1769,29 @@
 			<infoportion_complete>player_complete_lost_scientist</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ doktora Bravermana</text>
+			<text>ZnajdŸ doktora Brawermana</text>
 			<infoportion_complete>lost_scientist_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Odebraæ wynagrodzenie</text>
+			<text>ZnajdŸ doktora Brawermana</text>
 			<infoportion_complete>lost_scientist_2</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="message_from_the_next_world" prio="100">
-		<title>Wiadomoœæ z tamtego œwiata</title>
+		<title>Wiadomoœæ z zaœwiatów</title>
 		<objective>
-			<text>Wiadomoœæ z tamtego œwiata</text>
+			<text>Wiadomoœæ z zaœwiatów</text>
 			<icon>ui_iconsTotal_bar_resque_information</icon>
 			<article>als_help_88</article>
 			<infoportion_complete>player_complete_message_from_the_next_world</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ doktora £uczenko</text>
+			<text>ZnajdŸ dr. £ucenko</text>
 			<infoportion_complete>message_from_the_next_world_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Opowiedzieæ o Bravermanie</text>
+			<text>Opowiedz o Brawermanie</text>
 			<infoportion_complete>message_from_the_next_world_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1805,11 +1805,11 @@
 			<infoportion_complete>player_complete_flying_laboratory</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ miejsce upadku drona</text>
+			<text>ZnajdŸ miejsce katastrofy drona</text>
 			<infoportion_complete>flying_laboratory_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Odebraæ wynagrodzenie</text>
+			<text>Odbierz nagrodê</text>
 			<infoportion_complete>flying_laboratory_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1823,7 +1823,7 @@
 			<infoportion_complete>player_complete_contract_with_colonel</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Pancerem w barze</text>
+			<text>Spotkaj siê z Panzerem przy barze</text>
 			<infoportion_complete>contract_with_colonel_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1837,19 +1837,19 @@
 			<infoportion_complete>player_complete_peace_talker</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Pulewiczem</text>
+			<text>Porozmawiaj z Kulawym</text>
 			<infoportion_complete>peace_talker_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przeprowadziæ Pulewicza na Kordon</text>
+			<text>Zabierz Kulawego do Kordonu</text>
 			<infoportion_complete>peace_talker_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Dogadaæ siê z GRC o zdaniu Perymetru</text>
+			<text>Dogadaj siê z GRC o zdaniu Perymetru</text>
 			<infoportion_complete>peace_talker_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Powiadomiæ Pancera o rezultacie negocjacji</text>
+			<text>Poinformuj Panzera o wynikach negocjacji</text>
 			<infoportion_complete>peace_talker_4</infoportion_complete>
 		</objective>
 </game_task>
@@ -1863,11 +1863,11 @@
 			<infoportion_complete>player_complete_gate_in_the_zone</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Otworzyæ brame Perymetru</text>
+			<text>Otwórz bramê Perymetru</text>
 			<infoportion_complete>gate_in_the_zone_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wys³aæ sygna³ Pancerowi</text>
+			<text>Wyœlij sygna³ do Panzera</text>
 			<infoportion_complete>gate_in_the_zone_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1882,15 +1882,15 @@
 			<infoportion_complete>player_complete_perimetre_storm</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wy³¹czyæ sterowanie na posterunku</text>
+			<text>Wy³¹cz sterownie w punkcie kontrolnym</text>
 			<infoportion_complete>perimetre_storm_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wy³¹czyæ sterowanie dzia³kami Perymetru</text>
+			<text>Wy³¹cz sterowanie za pomoc¹ wie¿yczek Obrze¿a</text>
 			<infoportion_complete>perimetre_storm_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Otworzyæ bramê Perymetru</text>
+			<text>Otwórz bramê Perymetru</text>
 			<infoportion_complete>perimetre_storm_3</infoportion_complete>
 		</objective>
 </game_task>
@@ -1904,7 +1904,7 @@
 			<infoportion_complete>player_complete_return_usbdisk_to_leo</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zwróciæ fleszkê i pieni¹dze Leo</text>
+			<text>Zwróæ pendrive i pieni¹dze Leo</text>
 	<map_location_type hint= "mil_military_stalker_commander_name">green_location</map_location_type>
 	<object_story_id>mil_military_stalker_commander</object_story_id>
 			<infoportion_complete>return_usbdisk_to_leo_1</infoportion_complete>
@@ -1921,11 +1921,11 @@
 			<infoportion_complete>player_complete_legend_about_reanimator</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Reanimatora</text>
+			<text>ZnajdŸ Reanimatora</text>
 			<infoportion_complete>legend_about_reanimator_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zdobyæ przyrz¹d PUMA</text>
+			<text>Kup urz¹dzenie PUMA</text>
 			<infoportion_complete>legend_about_reanimator_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1955,7 +1955,7 @@
 			<infoportion_complete>player_complete_disappearance_of_teuton</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ Teutona</text>
+			<text>ZnajdŸ Teutona</text>
 			<infoportion_complete>disappearance_of_teuton_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1970,11 +1970,11 @@
 			<infoportion_fail>gold_is_dead</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Iœæ do Czerwonego Lasu</text>
+			<text>Wejœcie do Czerwonego Lasu</text>
 			<infoportion_complete>key_for_portal_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Doprowadziæ Z³otego do portalu</text>
+			<text>DoprowadŸ Z³otego do Portalu</text>
 			<infoportion_complete>key_for_portal_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -1988,11 +1988,11 @@
 			<infoportion_complete>player_complete_neutralise_turrets</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przedostaæ siê do Szpitala</text>
+			<text>Dostañ siê do szpitala</text>
 			<infoportion_complete>neutralise_turrets_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zneutralizowaæ dzia³ka</text>
+			<text>Zneutralizuj wie¿yczki</text>
 			<infoportion_complete>neutralise_turrets_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -2006,11 +2006,11 @@
 			<infoportion_complete>player_complete_group_poisk_hiding_place</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabraæ artefakt ze schowka</text>
+			<text>Zabierz artefakt ze skrytki</text>
 			<infoportion_complete>group_poisk_hiding_place_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Oddaæ artefakt Simonowowi</text>
+			<text>Zanieœ artefakt Simonowi</text>
 			<infoportion_complete>group_poisk_hiding_place_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -2024,7 +2024,7 @@
 			<infoportion_complete>player_complete_tell_to_gold</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ ze Z³otym o drodze do Limañska</text>
+			<text>Porozmawiaj z Zo³otym o drodze do Limañska</text>
 	<map_location_type hint= "sor_m_barman_hint">green_location</map_location_type>
 	<object_story_id>sor_gold</object_story_id>
 			<infoportion_complete>tell_to_gold_1</infoportion_complete>
@@ -2040,25 +2040,25 @@
 			<infoportion_complete>player_complete_mine_power_supply</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Uzyskaæ w³aœciwe Ÿród³o zasilania</text>
+			<text>Uzyskaj odpowiednie Ÿród³o zasilania</text>
 			<infoportion_complete>mine_power_supply_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="duty_help" prio="100">
-		<title>Potrzebna pomoc</title>
+		<title>Pomoc z zewn¹trz</title>
 		<objective>
-			<text>Potrzebna pomoc</text>
+			<text>Pomoc z zewn¹trz</text>
 			<icon>ui_iconsTotal_agroprom_get_military_documents</icon>
 			<article>als_help_103</article>
 			<infoportion_complete>player_complete_duty_help</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poszukaæ pomocy u Leo</text>
+			<text>Poproœ Leo o pomoc</text>
 			<infoportion_complete>duty_help_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poszukaæ pomocy u «Powinnoœci»</text>
+			<text>Szukaj pomocy u Powinnoœci</text>
 			<infoportion_complete>duty_help_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -2072,13 +2072,13 @@
 			<infoportion_complete>player_complete_relatives</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Poorzmawiaæ z Baszarem o Teutonie</text>
+			<text>Porozmawiaj z P³oz¹ o Teutonie</text>
 			<infoportion_complete>relatives_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="the_last_stalker" prio="10">
-		<title>Ostatni stalker</title>
+		<title>Ostatni Stalker</title>
 		<objective>
 			<text>Ostatni stalker</text>
 			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
@@ -2086,11 +2086,11 @@
 			<infoportion_complete>player_complete_the_last_stalker</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ stalkerów za Barier¹</text>
+			<text>ZnajdŸ Stalkerów za Barier¹</text>
 			<infoportion_complete>the_last_stalker_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wyprowadziæ wszystkich poza Barierê</text>
+			<text>Zabierz wszystkich przez Barierê</text>
 			<infoportion_complete>the_last_stalker_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -2104,7 +2104,7 @@
 			<infoportion_complete>player_complete_destiny_yalta_group</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaæ z Ja³t¹</text>
+			<text>Porozmawiaj z Ja³t¹</text>
 	<map_location_type hint= "val_killer_yalta_name">green_location</map_location_type>
 	<object_story_id>sor_attack_stalker_1</object_story_id>
 			<infoportion_complete>destiny_yalta_group_1</infoportion_complete>
@@ -2121,7 +2121,7 @@
 			<infoportion_fail>stalker_catcher_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Przycisn¹æ Kutchera</text>
+			<text>Porozmawiaj z Kutcherem</text>
 			<infoportion_complete>stalker_catcher_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -2135,7 +2135,7 @@
 			<infoportion_complete>player_complete_courtyard_in_east_pripyat</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaæ siê z Deadmanem w Prypeci</text>
+			<text>Porozmawiaj z Umarlakiem w Prypeci</text>
 	<map_location_type hint= "meet_point_yard">crlc_big</map_location_type>
 	<object_story_id>pri_court_yard_restrictor</object_story_id>
 			<infoportion_complete>courtyard_in_east_pripyat_1</infoportion_complete>
@@ -2143,43 +2143,55 @@
 </game_task>
 
 <game_task id="kill_iron_mask" prio="100">
-		<title>Ostatni bój</title>
+		<title>OStatni bastion</title>
 		<objective>
-			<text>Ostatni bój</text>
+			<text>Ostatni bastion</text>
 			<icon>xenomorph_tasks</icon>
 			<article>als_help_109</article>
 			<infoportion_complete>player_complete_kill_iron_mask</infoportion_complete>
 			<infoportion_fail>im_flies_away</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Zabiæ Zmieniaj¹cego Oblicza</text>
+			<text>Zneutralizuj Dopplera</text>
 			<infoportion_complete>kill_iron_mask_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="artefacts_from_obscure" prio="100">
-		<title>Niezwyk³e artefakty</title>
+		<title>Artefakty ze Zmierzchu</title>
 		<objective>
-			<text>Niezwyk³e artefakty</text>
+			<text>Artefakty ze Zmierzchu</text>
 			<icon>ui_iconsTotal_tutorial_find_artefact</icon>
 			<article>artefacts_obscure</article>
 			<infoportion_complete>player_complete_artefacts_from_obscure</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnaleŸæ pu³apki parasolkowe</text>
+			<text>ZnajdŸ pu³apki parasolkowe</text>
 			<infoportion_complete>artefacts_from_obscure_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zebraæ niezwyk³e artefakty</text>
+			<text>Zbierz niezwyk³e artefakty</text>
 			<infoportion_complete>artefacts_from_obscure_2</infoportion_complete>
 	<function_complete>als_quests_complit.artefacts_from_obscure_2_cmplt</function_complete>
 		</objective>
 		<objective>
-			<text>Przynieœæ artefakty Gruberowi</text>
+			<text>Przynieœ artefakty do Grubera</text>
 			<infoportion_complete>artefacts_from_obscure_3</infoportion_complete>
 		</objective>
 </game_task>
 
+<game_task id="search_s_module" prio="100">
+		<title>Pusty modu³</title>
+		<objective>
+			<text>Pusty modu³</text>
+			<icon>ui_iconsTotal_agro</icon>
+			<infoportion_complete>player_complete_search_s_module</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przeszukaj modu³ naukowy</text>
+			<infoportion_complete>search_s_module_1</infoportion_complete>
+		</objective>
+</game_task>
 
 <game_task id="dr_pirogov_fly_box" prio="100">
 		<title>Aparatura z drona</title>
@@ -2189,6 +2201,7 @@
 			<article>als_help_200</article>
 			<infoportion_complete>dr_pirogov_fly_box_end</infoportion_complete>
 		</objective>
+
 		<objective>
 			<text>ZnaleŸæ zaginionego powinnoœciowca</text>
  	<map_location_type hint= "antigrav_hint">crlc_big</map_location_type>
@@ -2205,10 +2218,264 @@
 		</objective>
 </game_task>
 
+<game_task id="stancia_and_monolith_2" prio="100">
+		<title>Stacja, Monolit i "Warlock-666"</title>
+		<objective>
+			<text>Stacja, Monolit i "Warlock-666"</text>
+			<icon>ui_iconsTotal_aes_military_task</icon>
+			<article>als_help_111</article>
+			<infoportion_complete>player_complete_stancia_and_monolith_2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przeka¿ has³o dowódcy grupy Monolitu</text>
+			<infoportion_complete>stancia_and_monolith_2_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zabierz Warlock-666 ze skrytki</text>
+			<infoportion_complete>stancia_and_monolith_2_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="stancia_and_monolith_1" prio="100">
+		<title>Stacja, Monolit i "Warlock-666"</title>
+		<objective>
+			<text>Stacja, Monolit i "Warlock-666"</text>
+			<icon>ui_iconsTotal_aes_military_task</icon>
+			<article>als_help_109</article>
+			<infoportion_complete>player_complete_stancia_and_monolith_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przeka¿ has³o dowódcy grupy Monolitu</text>
+			<infoportion_complete>stancia_and_monolith_1_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zabierz Warlocka-666 ze skrytki</text>
+	<map_location_type hint= "aes_warlok_skhron_hint">green_location</map_location_type>
+	<object_story_id>aes_warlok_skhron</object_story_id>
+			<infoportion_complete>stancia_and_monolith_1_2</infoportion_complete>
+		</objective>
+</game_task>
 
 
+<game_task id="push_cars" prio="100">
+		<title>Ulepszacze</title>
+		<objective>
+			<text>Ulepszacze</text>
+			<icon>money_tasks</icon>
+			<infoportion_complete>player_complete_push_cars</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Wyzb¹dŸ siê technologii</text>
+			<infoportion_complete>push_cars_1</infoportion_complete>
+		</objective>
+</game_task>
 
+<game_task id="shocker_group_shron" prio="100">
+		<title>Wdziêcznoœæ Paskudy</title>
+		<objective>
+			<text>Wdziêcznoœæ Paskudy</text>
+			<icon>money_tasks</icon>
+			<infoportion_complete>player_complete_shocker_group_shron</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ kryjówkê najemników</text>
+	<map_location_type hint= "shron_hint">green_location</map_location_type>
+	<object_story_id>darklab_shocker_shron</object_story_id>
+			<infoportion_complete>shocker_group_shron_1</infoportion_complete>
+		</objective>
+</game_task>
 
+<game_task id="golden_head" prio="100">
+		<title>"Z³ota" g³owa</title>
+		<objective>
+			<text>"Z³ota" g³owa</text>
+			<icon>greese_tasks</icon>
+			<infoportion_complete>player_complete_golden_head</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Dogadaæ siê z Barmanem</text>
+			<infoportion_complete>golden_head_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="golden_head2" prio="100">
+		<title>"Z³ota" g³owa II</title>
+		<objective>
+			<text>"Z³ota" g³owa II</text>
+			<icon>greese_tasks</icon>
+			<infoportion_complete>player_complete_golden_head2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ "Komendanta"</text>
+			<infoportion_complete>golden_head2_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="golden_head3" prio="100">
+		<title>"Z³ota" g³owa III</title>
+		<objective>
+			<text>"Z³ota" g³owa III</text>
+			<icon>greese_tasks</icon>
+			<infoportion_complete>player_complete_golden_head3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Spotkaj siê z klientem</text>
+			<infoportion_complete>golden_head3_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>WeŸ milion</text>
+			<infoportion_complete>golden_head3_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="khazar_and_awl" prio="100">
+		<title>Chazar I Szyd³o</title>
+		<objective>
+			<text>Chazar I Szyd³o</text>
+			<icon>ahnenerbe</icon>
+			<infoportion_complete>player_complete_khazar_and_awl</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Chazar I Szyd³o</text>
+			<infoportion_complete>khazar_and_awl_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="red_giant" prio="100">
+		<title>Pseudo-giganci w Czerwonym Lesie</title>
+		<objective>
+			<text>Pseudo-giganci w Czerwonym Lesie</text>
+			<icon>ui_iconsTotal_eliminate_lager</icon>
+			<infoportion_complete>player_complete_red_giant</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Oczyœæ obóz mutantów w Czerwonym Lesie</text>
+	<map_location_type hint= "ls_monster_lager">eliminate_lager_location</map_location_type>
+	<object_story_id>red_giant_lag</object_story_id>
+	<function_complete>als_quests_complit.red_giant_cmplt</function_complete>
+			<infoportion_complete>red_giant_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Odbierz nagrodê</text>
+	<map_location_type hint= "lim_scientist_2_name">green_location</map_location_type>
+	<object_story_id>lim_scientist_2</object_story_id>
+			<infoportion_complete>red_giant_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="hsm_stickers" prio="100">
+		<title>Sygnalizatory HSM</title>
+		<objective>
+			<text>Sygnalizatory HSM</text>
+			<icon>ui_iconsTotal_find_item</icon>
+			<infoportion_complete>player_complete_hsm_stickers</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Przynieœ zestaw dla klienta</text>
+	<map_location_type hint= "lim_scientist_2_name">green_location</map_location_type>
+	<object_story_id>lim_scientist_2</object_story_id>
+			<infoportion_complete>hsm_stickers_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="esc_turrets_repair" prio="100">
+		<title>Awaria systemu</title>
+		<objective>
+			<text>Awaria systemu</text>
+			<icon>dolg_tasks</icon>
+			<infoportion_complete>player_complete_esc_turrets_repair</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z pu³kownikiem Panzerem</text>
+			<infoportion_complete>esc_turrets_repair_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="esc_turrets_repair2" prio="100">
+		<title>Awaria systemu II</title>
+		<objective>
+			<text>Awaria systemu II</text>
+			<icon>dolg_tasks</icon>
+			<infoportion_complete>player_complete_esc_turrets_repair2</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Genem</text>
+			<infoportion_complete>esc_turrets_repair2_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="esc_turrets_repair22" prio="100">
+		<title>Awaria systemu II</title>
+		<objective>
+			<text>Awaria systemu II</text>
+			<icon>dolg_tasks</icon>
+			<infoportion_complete>player_complete_esc_turrets_repair22</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Porozmawiaj z Ousipim</text>
+			<infoportion_complete>esc_turrets_repair22_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="esc_turrets_repair23" prio="100">
+		<title>Awaria systemu II</title>
+		<objective>
+			<text>Awaria systemu II</text>
+			<icon>dolg_tasks</icon>
+			<infoportion_complete>player_complete_esc_turrets_repair23</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ schowek Ousipiego</text>
+			<infoportion_complete>esc_turrets_repair23_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="esc_turrets_repair3" prio="100">
+		<title>Awaria systemu III</title>
+		<objective>
+			<text>Awaria systemu III</text>
+			<icon>dolg_tasks</icon>
+			<infoportion_complete>player_complete_esc_turrets_repair3</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ schowek Ousipiego</text>
+			<infoportion_complete>esc_turrets_repair3_1</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="soldiers_in_zone" prio="100">
+		<title>Wyprawa wojskowa</title>
+		<objective>
+			<text>Wyprawa wojskowa</text>
+			<icon>ahnenerbe</icon>
+			<infoportion_complete>player_complete_soldiers_in_zone</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ dokumenty dotycz¹ce wyprawy</text>
+			<infoportion_complete>soldiers_in_zone_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zanieœ dokumenty porucznikowi</text>
+			<infoportion_complete>soldiers_in_zone_2</infoportion_complete>
+		</objective>
+</game_task>
+
+<game_task id="horror_of_agroprom" prio="100">
+		<title>Horror Agropromu</title>
+		<objective>
+			<text>Horror Agropromu</text>
+			<icon>ahnenerbe</icon>
+			<infoportion_complete>player_complete_horror_of_agroprom</infoportion_complete>
+		</objective>
+		<objective>
+			<text>ZnajdŸ dyktafon Tarasa</text>
+			<infoportion_complete>horror_of_agroprom_1</infoportion_complete>
+		</objective>
+		<objective>
+			<text>Zanieœ dyktafon Somu</text>
+			<infoportion_complete>horror_of_agroprom_2</infoportion_complete>
+		</objective>
+</game_task>
 
 <!-- <game_task id="" prio="100">
 		<title></title>

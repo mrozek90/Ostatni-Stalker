@@ -225,11 +225,7 @@
 </string>
 
 <string id="esc2marsh_01_hint">
-	<text>Na Bagna</text>
-</string>
-
-<string id="aes_warlok_skhron_hint">
-	<text>Schowek z Warlockiem</text>
+	<text>na Bagna</text>
 </string>
 
 <string id="shamray_gang">
@@ -496,10 +492,6 @@
 
 <string id="esc_mobil_real_point">
 	<text>Mobilny punkt dowodzenia</text>
-</string>
-
-<string id="ls_monster_lager">
-	<text>Legowisko mutantów</text>
 </string>
 
 <!-- <string id="">
@@ -861,33 +853,6 @@
 
 <string id="do_place_mine">
 	<text>Postaw minê ($$ACTION_USE$$)</text>
-</string>
-<string id="injectit">
-	<text>Wysuñ kasetê ($$ACTION_USE$$)</text>
-</string>
-
-<string id="million_per_head">
-	<text>Milion na g³owê!!! \n Zerwij reklamê ($$ACTION_USE$$)</text>
-</string>
-
-<string id="need_for_info">
-	<text>Potrzebujesz informacji! \n Zerwij reklamê ($$ACTION_USE$$)</text>
-</string>
-
-<string id="ls_clearn_territory">
-	<text>Oczyœæ obszar ($$ACTION_USE$$)</text>
-</string>
-
-<string id="ls_will_bay">
-	<text>Kupiê! \n Zerwij reklamê ($$ACTION_USE$$)</text>
-</string>
-
-<string id="ls_take_order">
-	<text>Zerwij reklamê ($$ACTION_USE$$)</text>
-</string>
-
-<string id="turrets_repair">
-	<text>WYMAGANY!!! \n Zerwij reklamê ($$ACTION_USE$$)</text>
 </string>
 
 <!-- <string id="">

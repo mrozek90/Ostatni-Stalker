@@ -1,127 +1,126 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="item test1">
-		<text>This is an ITEM test string</text>
+		<text>To jest sznurek testowy do torby podróżnej</text>
 	</string>
 	<string id="item test2">
-		<text>This is a another ITEM test string</text>
+		<text>To kolejny sznurek testowy do torby podróżnej</text>
 	</string>
 	<string id="item_case_esc_desc">
-		<text>Ogniotrwała walizka z dokumentami.</text>
+		<text>Walizka z dokumentami. Wykonane z materiału ognioodpornego.</text>
 	</string>
 	<string id="item_decoder_desc">
-		<text>Zaawansowany technicznie elektroniczny wytrych. Co dziwne, wygląda na to, że nie jest narzędziem złodziejskim - został raczej stworzony z myślą o konkretnym zamku elektronicznym i nie da się nim otworzyć żadnych innych drzwi.</text>
+		<text>Coś jak potężny elektroniczny klucz główny. Wygląda na to, że został stworzony w celu złamania jakiegoś specyficznego zamka elektronicznego. Co dziwne, projekt nie sugeruje uniwersalności - został stworzony do konkretnego zamka i nie jest w stanie złamać żadnych innych kodów</text>
 	</string>
 	<string id="item_decoder_name">
 		<text>Dekoder</text>
 	</string>
 	<string id="item_detector_yantar_desc">
-		<text>Detektor emisji psionicznych.</text>
+		<text>Urządzenie do pomiaru promieniowania psi.</text>
 	</string>
 	<string id="item_detector_yantar_name">
 		<text>Czujnik PP-4a</text>
 	</string>
 	<string id="item_doc_x16_desc">
-		<text>Dokumenty o instalacji «Mózgu Psionicznego».</text>
+		<text>Teczka polietylenowa z dokumentami. Bez dyplomu z biologii trudno coś tu zrozumieć..</text>
 	</string>
 	<string id="item_doc_x16_name">
-		<text>Dokumenty z laboratorium X-16</text>
+		<text>Dokumenty z laboratorium X16</text>
 	</string>
 	<string id="item_doc_x18_desc">
-		<text>Gruby plik dokumentów naukowych. Terminy, formuły i trochę wykresów. Bez przygotowania naukowego na kierunku biologicznym trudno coś z nich zrozumieć.</text>
+		<text>Gruby stos prac naukowych. Mądre terminy, wzory i wykresy.</text>
 	</string>
 	<string id="item_doc_x18p1_name">
-		<text>Dokumenty z X-18 część 1</text>
+		<text>Dokumenty z X18 cz.1</text>
 	</string>
 	<string id="item_doc_x18p2_name">
-		<text>Dokumenty z X-18 część 2</text>
+		<text>Dokumenty z X18 cz.2</text>
 	</string>
 	<string id="item_doc_x18p3_name">
-		<text>Dokumenty z X-18 część 3</text>
+		<text>Dokumenty z X18 cz.3</text>
 	</string>
 	<string id="item_doc_x18p4_name">
-		<text>Dokumenty z X-18 część 4</text>
+		<text>Dokumenty z X18 cz.4</text>
 	</string>
 	<string id="item_doc_x18p5_name">
-		<text>Dokumenty z X-18 część 5</text>
+		<text>Dokumenty z X18 cz.5</text>
 	</string>
 	<string id="item_docs_hiden_pri_desc">
-		<text>Zniszczony rękopis w skórzanej oprawie. Autorem jest sam Striełok. Jeśli spojrzeć na same nagłówki, można się z niego pewnie dowiedzieć czegoś o sekretach Zony.</text>
+		<text>Niewyraźne notatki ze skórzaną okładką. Napisany przez samego Streloka. Sądząc po tytułach, ujawnia niektóre tajemnice Strefy.</text>
 	</string>
 	<string id="item_docs_hiden_pri_name">
 		<text>Dokumenty z Prypeci</text>
 	</string>
 	<string id="item_dynamite_esc_desc">
-		<text>Ciężka, drewniana skrzynia, na której w kilku językach napisane jest "materiały wybuchowe".</text>
+		<text>Ciężkie drewniane pudełko z napisem „Wybuchowe” w kilku językach.</text>
 	</string>
 	<string id="item_dynamite_esc_name">
-		<text>Skrzynia z materiałami wybuchowymi</text>
+		<text>Pudełko dynamitu</text>
 	</string>
 	<string id="item_flash_crazy_mil_desc">
-		<text>Pendrive - wygodny sposób na przechowywanie i przenoszenie danych.</text>
+		<text>Pendrive - wygodne urządzenie do przesyłania informacji.</text>
 	</string>
 	<string id="item_flash_crazy_mil_name">
 		<text>Pendrive szaleńca</text>
 	</string>
 	<string id="item_flash_eco_rost_desc">
-		<text>Pendrive - wygodny sposób na przechowywanie i przenoszenie danych.</text>
+		<text>Pendrive to wygodne urządzenie do przesyłania informacji.</text>
 	</string>
 	<string id="item_flash_eco_rost_name">
-		<text>Pendrive Krugłowa</text>
+		<text>Pendrive profesora Kruglowa</text>
 	</string>
 	<string id="item_flash_esc_desc">
-		<text>Pendrive - wygodny sposób na przechowywanie i przenoszenie danych.</text>
+		<text>Pendrive to wygodne urządzenie do przesyłania informacji.</text>
 	</string>
 	<string id="item_flash_esc_name">
-		<text>Pendrive jeńca</text>
+		<text>Pendrive więźnia</text>
 	</string>
 	<string id="item_flash_gslinger_agro_desc">
-		<text>Pendrive - wygodny sposób na przechowywanie i przenoszenie danych.</text>
+		<text>Pendrive to wygodne urządzenie do przesyłania informacji.</text>
 	</string>
 	<string id="item_flash_gslinger_agro_name">
 		<text>Pendrive Striełoka</text>
 	</string>
 	<string id="item_key_x18_desc">
-		<text>Klucz elektroniczny do podziemnego laboratorium X-18.</text>
+		<text>Klucz elektroniczny z podziemnego laboratorium X-18.</text>
 	</string>
 	<string id="item_key_x18_name">
-		<text>Klucz Borowa</text>
+		<text>Klucz Wieprza</text>
 	</string>
 	<string id="item_krot_flash">
 		<text>Pendrive Kreta</text>
 	</string>
->	<string id="item_pda_lucky_desc">
-		<text>Kieszonkowy komputer osobisty. Niezastąpiony w Zonie.</text>
+	<string id="item_PDA_lucky_desc">
+		<text>Kieszonkowy komputer osobisty. Niezastąpione urządzenie w Strefie.</text>
 	</string>
-	<string id="item_pda_lucky_name">
-		<text>PDA Farciarza</text>
+	<string id="item_PDA_lucky_name">
+		<text>PDA Szczęściarza</text>
 	</string>
-	<string id="item_pda_tiran_desc">
-		<text>Kieszonkowy komputer osobisty. Niezastąpiony w Zonie.</text>
+	<string id="item_PDA_tiran_desc">
+		<text>Kieszonkowy komputer osobisty. Niezastąpione urządzenie w Strefie.</text>
 	</string>
 	<string id="item_PDA_tiran_name">
 		<text>PDA Tyrana</text>
 	</string>
 	<string id="item_quest_case_02_desc">
-		<text>Walizka z dokumentami. Wykonana z ogniotrwałego materiału.</text>
+		<text>Etui z dokumentami. Wykonany z materiału ogniotrwałego.</text>
 	</string>
 	<string id="item_quest_case_02_name">
-		<text>Wojskowe dokumenty</text>
+		<text>Dokumenty Wojskowe</text>
 	</string>
 	<string id="item_case_esc_name">
-		<text>Dokumenty z posterunku</text>
+		<text>Dokumenty z punktu kontrolnego</text>
 	</string>
 	<string id="yan_bad_psy_helmet_desc">
-		<text>Nienastrojony prototyp, opracowany przez naukowców dla ochrony przed promieniowaniem psionicznym</text>
+		<text>Nieskalibrowany prototyp opracowany przez naukowców w celu ochrony przed promieniowaniem PSI</text>
 	</string>
 	<string id="yan_bad_psy_helmet_name">
-		<text>Nienastrojony hełm psioniczny</text>
+		<text>Nieskalibrowany hełm psioniczny</text>
 	</string>
 	<string id="yan_good_psy_helmet_desc">
-		<text>Nastrojony prototyp, opracowany przez naukowców dla ochrony przed promieniowaniem psionicznym</text>
+		<text>Dostrojony prototyp zaprojektowany przez naukowców w celu ochrony przed promieniowaniem PSI</text>
 	</string>
 	<string id="yan_good_psy_helmet_name">
-		<text>Nastrojony hełm psioniczny</text>
+		<text>Dostrojony hełm psychiczny</text>
 	</string>
 </string_table>
-

@@ -1,5 +1,5 @@
 
-<game_task id="kill_jj" prio="5">
+<game_task id="kill_jj" prio="100">
 		<title>Zabij Johnnego</title>
 		<objective>
 			<text>Zabij Johnnego</text>
@@ -1035,7 +1035,6 @@
 			<icon>ui_iconsTotal_book</icon>
 			<article>als_help_48</article>
 			<infoportion_complete>player_complete_find_necronomicon</infoportion_complete>
-<!-- 1linia wziête z OGSR -->
 			<infoportion_fail>esc_panzer_told</infoportion_fail>
 		</objective>
 		<objective>
@@ -1242,8 +1241,8 @@
 <game_task id="glade_centre" prio="10">
 		<title>Miejsce spotkania</title>
 		<objective>
-			<text>Punkt spotkania</text>
-			<icon>ui_iconsTotal_dushman</icon>
+			<text>Miejsce spotkania</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
 			<article>als_help_59</article>
 			<infoportion_complete>player_complete_glade_centre</infoportion_complete>
 		</objective>
@@ -1277,7 +1276,7 @@
 		<title>Jeden na jednego</title>
 		<objective>
 			<text>Jeden na jednego</text>
-			<icon>ui_iconsTotal_mogila</icon>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
 			<article>als_help_61</article>
 			<infoportion_complete>player_complete_in_private</infoportion_complete>
 		</objective>
@@ -1456,6 +1455,7 @@
 			<icon>ui_iconsTotal_locations</icon>
 			<article>als_help_69</article>
 			<infoportion_complete>player_complete_dark_valley_abnormal_activity</infoportion_complete>
+			<infoportion_fail>dark_valley_abnormal_activity_fail</infoportion_fail>
 		</objective>
 		<objective>
 			<text>Zwiadowca z Doliny Mroku</text>
@@ -1513,6 +1513,7 @@
 			<icon>ui_iconsTotal_agr_agr_help_krot</icon>
 			<article>als_help_71</article>
 			<infoportion_complete>player_complete_gone_nestor</infoportion_complete>
+			<infoportion_fail>gone_nestor_1_fail</infoportion_fail>
 		</objective>
 		<objective>
 			<text>Porozmawiaj z Gruberem</text>
@@ -1527,11 +1528,11 @@
 			<icon>ui_iconsTotal_agr_agr_help_krot</icon>
 			<article>als_help_72</article>
 			<infoportion_complete>player_complete_gone_nestor_2</infoportion_complete>
+			<infoportion_fail>gone_nestor_2_fail</infoportion_fail>
 		</objective>
 		<objective>
 			<text>ZnajdŸ jakiekolwiek informacje o Nestorze</text>
 			<infoportion_complete>gone_nestor_2_1</infoportion_complete>
-			<infoportion_fail>gone_nestor_2_fail</infoportion_fail>
 		</objective>
 </game_task>
 
@@ -1591,7 +1592,7 @@
 </game_task>
 
 <game_task id="patronage_for_mercenaries" prio="120">
-		<title>Ochrona dla najemników</title>
+		<title>Protekcja dla najemników</title>
 		<objective>
 			<text>Ochrona dla najemników</text>
 			<icon>ui_iconsTotal_yalta</icon>
@@ -1613,7 +1614,6 @@
 			<icon>ui_iconsTotal_sortirovka</icon>
 			<article>als_help_77</article>
 			<infoportion_complete>player_complete_secrets_of_diggers</infoportion_complete>
-			<infoportion_fail>secrets_of_diggers_fail</infoportion_fail>
 		</objective>
 		<objective>
 			<text>ZnajdŸ skrytkê kopaczy</text>
@@ -2026,7 +2026,7 @@
 		<objective>
 			<text>Porozmawiaj z Zo³otym o drodze do Limañska</text>
 	<map_location_type hint= "sor_m_barman_hint">green_location</map_location_type>
-	<object_story_id>sor_m_barman</object_story_id>
+	<object_story_id>sor_gold</object_story_id>
 			<infoportion_complete>tell_to_gold_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -2080,8 +2080,8 @@
 <game_task id="the_last_stalker" prio="10">
 		<title>Ostatni Stalker</title>
 		<objective>
-			<text>Ostatni Stalker</text>
-			<icon>greese_tasks</icon>
+			<text>Ostatni stalker</text>
+			<icon>ui_iconsTotal_storyline_eliminate_gunslinger</icon>
 			<article>als_help_105</article>
 			<infoportion_complete>player_complete_the_last_stalker</infoportion_complete>
 		</objective>
@@ -2162,6 +2162,7 @@
 		<objective>
 			<text>Artefakty ze Zmierzchu</text>
 			<icon>ui_iconsTotal_tutorial_find_artefact</icon>
+			<article>artefacts_obscure</article>
 			<infoportion_complete>player_complete_artefacts_from_obscure</infoportion_complete>
 		</objective>
 		<objective>
@@ -2192,41 +2193,27 @@
 		</objective>
 </game_task>
 
-<game_task id="stancia_and_monolith_1" prio="100">
-		<title>Stacja, Monolit i "Warlock-666"</title>
+<game_task id="dr_pirogov_fly_box" prio="100">
+		<title>Aparatura z drona</title>
 		<objective>
-			<text>Stacja, Monolit i "Warlock-666"</text>
-			<icon>ui_iconsTotal_aes_military_task</icon>
-			<article>als_help_109</article>
-			<infoportion_complete>player_complete_stancia_and_monolith_1</infoportion_complete>
+			<text>Aparatura z drona</text>
+			<icon>ui_iconsTotal_locations</icon>
+			<article>als_help_200</article>
+			<infoportion_complete>dr_pirogov_fly_box_end</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przeka¿ has³o dowódcy grupy Monolitu</text>
-			<infoportion_complete>stancia_and_monolith_1_1</infoportion_complete>
+			<text>ZnaleŸæ zaginionego powinnoœciowca</text>
+ 	<map_location_type hint= "antigrav_hint">crlc_big</map_location_type>
+	<object_story_id>marsh_dolg_trup</object_story_id> 
+			<infoportion_complete>dr_pirogov_fly_box_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zabierz Warlocka-666 ze skrytki</text>
-	<map_location_type hint= "aes_warlok_skhron_hint">green_location</map_location_type>
-	<object_story_id>aes_warlok_skhron</object_story_id>
-			<infoportion_complete>stancia_and_monolith_1_2</infoportion_complete>
-		</objective>
-</game_task>
-
-<game_task id="stancia_and_monolith_2" prio="100">
-		<title>Stacja, Monolit i "Warlock-666"</title>
-		<objective>
-			<text>Stacja, Monolit i "Warlock-666"</text>
-			<icon>ui_iconsTotal_aes_military_task</icon>
-			<article>als_help_111</article>
-			<infoportion_complete>player_complete_stancia_and_monolith_2</infoportion_complete>
+			<text>Zabraæ zestaw badawczy</text>
+			<infoportion_complete>dr_pirogov_fly_box_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przeka¿ has³o dowódcy grupy Monolitu</text>
-			<infoportion_complete>stancia_and_monolith_2_1</infoportion_complete>
-		</objective>
-		<objective>
-			<text>Zabierz Warlock-666 ze skrytki</text>
-			<infoportion_complete>stancia_and_monolith_2_2</infoportion_complete>
+			<text>Wróciæ do doktora Prigorowa</text>
+			<infoportion_complete>dr_pirogov_fly_box_3</infoportion_complete>
 		</objective>
 </game_task>
 
@@ -2462,3 +2449,4 @@
 			<infoportion_complete>_</infoportion_complete>
 		</objective>
 </game_task> -->
+

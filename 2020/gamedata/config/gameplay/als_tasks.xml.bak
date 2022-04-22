@@ -553,9 +553,9 @@
 </game_task>
 
 <game_task id="detector_of_dead_man" prio="20">
-		<title>Wykrywacz umarlaka</title>
+		<title>Wykrywacz truposza</title>
 		<objective>
-			<text>Wykrywacz umarlaka</text>
+			<text>Wykrywacz truposza</text>
 			<icon>ui_iconsTotal_yan_find_scientist</icon>
 			<article>als_help_25</article>
 			<infoportion_complete>player_complete_detector_of_dead_man</infoportion_complete>
@@ -577,7 +577,7 @@
 			<infoportion_complete>player_complete_marsh_meet_deadman</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Deadmanem</text>
+			<text>Spotkaj siê z Umarlakiem</text>
 	<map_location_type hint= "deadman_name">green_location</map_location_type>
 	<object_story_id>marsh_stalker_deadman</object_story_id>
 			<infoportion_complete>marsh_meet_deadman_1</infoportion_complete>
@@ -1458,7 +1458,7 @@
 			<infoportion_complete>player_complete_dark_valley_abnormal_activity</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Zwiadowca z Ciemnej Doliny</text>
+			<text>Zwiadowca z Doliny Mroku</text>
 			<infoportion_complete>dark_valley_abnormal_activity_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1560,7 +1560,7 @@
 			<infoportion_complete>player_complete_mcleens</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Przeka¿ plan McClenowi</text>
+			<text>Przeka¿ plan McClensowi</text>
 	<map_location_type hint= "mackleens_name">green_location</map_location_type>
 	<object_story_id>sor_mcleens_exo_from_pol</object_story_id>
 			<infoportion_complete>mcleens_1</infoportion_complete>
@@ -2174,7 +2174,7 @@
 	<function_complete>als_quests_complit.artefacts_from_obscure_2_cmplt</function_complete>
 		</objective>
 		<objective>
-			<text>Przynieœ artefakty do Growera</text>
+			<text>Przynieœ artefakty do Grubera</text>
 			<infoportion_complete>artefacts_from_obscure_3</infoportion_complete>
 		</objective>
 </game_task>

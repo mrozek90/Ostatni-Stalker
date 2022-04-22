@@ -1,7 +1,78 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 
-<!-- PDA's -->
+	<!-- update -->
+	<string id="shocker_pda_name">
+		<text>PDA Paskudy</text>
+	</string>
+	<string id="shocker_pda_description">
+		<text>„Trudno zapamiętać, brak skojarzeń: \n Kod zamka: 2419. \n Kod dezaktywacji wieży: 6740. \n Co najważniejsze, nie można wyłączyć generatora bez uprzedniego przełączenia systemu w tryb konserwacji. \n To konieczne”.</text>
+	</string>
+
+	<string id="outfit_tank_name">
+		<text>Kombinezon szturmowy</text>
+	</string>
+	<string id="outfit_tank_description">
+		<text>Eksperymentalny kombinezon szturmowy. Ciężki, niewygodn, ze słabym widzeniem w nocy. Korzyści - pełna ochrona przed kulami i odłamkami oraz +50 kg do udźwigu.</text>
+	</string>
+
+	<string id="bormans_beads_name">
+		<text>Koraliki</text>
+	</string>
+	<string id="bormans_beads_description">
+		<text>Koraliki Leshy Borman</text>
+	</string>
+
+	<string id="ocp_perfocard_name">
+		<text>Karta</text>
+	</string>
+	<string id="ocp_perfocard_description">
+		<text>Dawna karta perforowana. Niepokoi to, że jest w doskonałej kondycji. I że ktoś to ukrył w takim miejscu.</text>
+	</string>
+
+	<string id="mutant_dog_tail_cook">
+		<text>"Mniam-mniam"</text>
+	</string>
+	<string id="mutant_dog_tail_cook_description">
+		<text>Psi ogon dojrzewający w sosie jazhang. Smacznie i zdrowo. \n Przynajmniej stalker Choi i najemnik Pak bardzo sobie chwalą.</text>
+	</string>
+
+	<string id="audiocassette_name">
+		<text>Kaseta magnetofonowa</text>
+	</string>
+	<string id="audiocassette_description">
+		<text>Stara kaseta magnetofonowa z ostatnim przesłaniem kapitana Parszyna.</text>
+	</string>
+
+	<string id="list_about_grek_description">
+		<text>Uwaga!!! \n Za głowę bandyty o pseudonimie „Grek” wyznaczono \n 1 000 000 nagrody. \n Zabierz głowę do byłego miasta wojskowego. \n Komendant.</text>
+	</string>
+
+	<string id="list_khazar_description">
+		<text>Zapłacę za informację o stalkerze o pseudonimie "Szydło". \n Chazar.</text>
+	</string>
+
+	<string id="list_koptelov_description">
+		<text>Nagroda! \n Informacje o wyprawie wojskowej do ZPO. \n por. Koptełow.</text>
+	</string>
+
+	<string id="list_som_description">
+		<text>UWAGA! \n Szukam jakichkolwiek informacji o śmierci grupy wojskowych stalkerów na Agropromie. \n Nagroda. \n Magazyny wojskowe \n Sum.</text>
+	</string>
+
+	<string id="list_panz_about_turrets_description">
+		<text>WYMAGANY! \n Specjalista w zakresie systemów bezpieczeństwa, bezpieczeństwa i nadzoru wideo. \n Wynagrodzenie od 100 000. \n Kontakt: \n Południowy Punkt Kontrolny, OK. \nPanzer.</text>
+	</string>
+
+	<string id="list_luz_about_hsm_description">
+		<text>Kupię! \n Zestaw naklejek ze skrótem HSM. \n Dr Łucenko.</text>
+	</string>
+	<!-- koniec update -->
+
+
+
+
+<!-- PDA -->
 
 <string id="morlok_pda_name">
 	<text>PDA stalkera Morloka</text>
@@ -14,7 +85,7 @@
 	<text>Uszkodzony detektor</text>
 </string>
 <string id="detector_fack_description">
-	<text>Niestety, ten detektor do niczego mi sie nie przyda. Całe wnętrze wygląda jakby ktos walił w niego młotkiem.</text>
+	<text>Niestety, ten detektor do niczego mi sie nie przyda. Wygląda jakby ktoś wbijał nim gwoździe.</text>
 </string>
 
 <string id="simpson_pda_name">
@@ -25,38 +96,38 @@
 </string>
 
 <string id="shevchuk_pda_name">
-	<text>PDA dezertera</text>
+	<text>PDA wyrodka</text>
 </string>
 <string id="shevchuk_pda_desc">
-	<text>Jest tu zapis rozmowy między Szewczukiem i Grabarzem, z której jasno wynika, że Szewczuk obrobił schowek Grabarza i teraz proponuje Grabarzowi wykupienie jakiejś rzeczy z tego schowka.</text>
+	<text>Jest tu zapis rozmowy między Szewczukiem i Grabarzem, z której jasno wynika, że Szewczuk okradł schowek Grabarza i teraz proponuje Grabarzowi wykupienie jakiejś rzeczy z tego schowka.</text>
 </string>
 
 <string id="af_antigrav">
 	<text>Antygraw</text>
 </string>
 <string id="enc_af_antigrav">
-	<text>Urządzenie opracowane przez naukowców w Zonie. Zawiera cząstki rozszczepionych artefaktów grawitacyjnych i niweluje do 200 kg ciężaru przenoszonego ładunku. </text>
+	<text>Urządzenie opracowane przez naukowców w Zonie. Zawiera cząstki rozszczepionych artefaktów grawitacyjnych i niweluje do 200 kg ciężaru przenoszonego ładunku.</text>
 </string>
 
 <string id="fly_block_name">
 	<text>Zestaw badawczy</text>
 </string>
 <string id="fly_block_description">
-	<text>Zestaw sprzętu badawczego, umieszczony na naukowym dronie. Nie jest jasne jakie komponenty i urządzenia zostały zainstalowane przez inżynierów wewnątrz zestawu, ale ma to wszystko sporą masę.</text>
+	<text>Zestaw sprzętu badawczego, umieszczony na naukowym dronie. Nie jest jasne jakie komponenty i urządzenia zostały zainstalowane przez inżynierów wewnątrz, ale ma to wszystko sporą masę.</text>
 </string>
 
 <string id="broken_pda_name">
 	<text>Zniszczone PDA</text>
 </string>
 <string id="broken_pda_description">
-	<text>Mimo, że ekran PDA został przebity nożem, przy jego załączaniu pojawiają się po kolei cyfry 1, 0, 5, 2. Na tylnej obudowie widnieje emblemat wojskowych stalkerów.</text>
+	<text>Mimo, że ekran PDA został przestrzelony, przy włączaniu pojawiają się po kolei cyfry 1, 0, 5, 2. Na tylnej obudowie widnieje emblemat wojskowych stalkerów.</text>
 </string>
 
 <string id="shilo_pda_name">
 	<text>Pda Szydła</text>
 </string>
 <string id="shilo_pda_description">
-	<text>ostatni wpis: \n "Przekażcie przy okazji Nestorowi-baptyście, że nie udało się zabrać jego rzeczy"</text>
+	<text>ostatni wpis: \n "Przekażcie przy okazji babtyście Nestorowi, że nie udało się zabrać jego rzeczy"</text>
 </string>
 
 <string id="nestor_pda_name">
@@ -105,7 +176,7 @@
 </string>-->
 
 
-<!-- Ěŕë˙âű -->
+<!-- papierki -->
 
 <string id="malyawa_name">
 	<text>Notatka</text>
@@ -120,7 +191,7 @@
 </string>
 
 <string id="ded_mar_malyawa_name">
-	<text>Notatka od Deadmana</text>
+	<text>Notatka od Umarlaka</text>
 </string>
 
 <string id="reanimator_malyawa_name">
@@ -146,11 +217,11 @@
 </string>
 
 <string id="teuton_malyawa_description">
-	<text>"Przyjacielu stalkerze! Przy okazji oddaj ten liścik Uzbekowi, nie odmawiaj, bracie. \n Cześć, krewniaku! \n Długo myślałem i postanowiłem, głęboko w tyle mam twoje sprawy, teraz mam własny interes. I nie daj Boże byś spróbował znów wtrącić się w moje życie - przysięgam, zabiję cię. I pluję sobie na całą twoją rodzinkę, a szczególnie, na twoją siostrzyczkę-zdzirę. \n Możesz przekazać jej moje pozdrowienia, niech pocałuje mnie w dupę! \n Teuton."</text>
+	<text>"Przyjacielu stalkerze! Przy okazji oddaj ten liścik Uzbekowi, nie odmawiaj, bracie. \n Cześć, krewniaku! \n Długo myślałem i postanowiłem, głęboko w rzyci mam twoje sprawy, teraz mam własny interes. I nie daj Boże byś spróbował znów wtrącić się w moje życie - przysięgam, zastrzele cię. I pluję sobie na całą twoją rodzinkę, a szczególnie, na twoją zdzirowatą siostrzyczkę. \n Możesz przekazać jej moje pozdrowienia, niech pocałuje mnie w dupę! \n Teuton."</text>
 </string>
 
 <string id="reanimator_malyawa_description">
-	<text>"Trzeci raz nie zastaję was na miejscu. Chłopaki! Przecież pracujemy razem! Zaćpaliście, czy co? \n Będę czekać nieopodal na wasz powrót. \n Liczę na was. \n R-r.</text>
+	<text>"Trzeci raz nie zastaję was na miejscu. Chłopaki! Przecież pracujemy razem! Zaćpaliście, czy co? \n Będę czekać nieopodal. \n Liczę na was. \n R-r.</text>
 </string>
 
 <string id="malyawa_01_description">
@@ -166,11 +237,11 @@
 </string>
 
 <string id="hazar_malyawa_description">
-	<text>G., jeżeli żyjesz, co jest mało prawdopodobne, ale, jeżeli ty jednak żyjesz - oto twój płaszcz ( znalazłem go przy wejściu w podziemia Prypeci ) i trochę towaru na początek. Ch-r.</text>
+	<text>G., jeżeli żyjesz, co jest mało prawdopodobne, ale, jeżeli ty jednak żyjesz - oto twój płaszcz ( znalazłem go przy wejściu do podziemia Prypeci ) i trochę towaru na początek. Ch-r.</text>
 </string>
 
 <string id="gena_maljawa_name">
-	<text>Notatka Geni Hakera</text>
+	<text>Notatka Gen Hakera</text>
 </string>
 
 <string id="gena_maljawa_description">
@@ -178,11 +249,11 @@
 </string>
 
 <string id="waterrat_malyawa_name">
-	<text>Pożegnalna notatka Wodnego Szczura</text>
+	<text>Pożegnalna notatka Karczownika</text>
 </string>
 
 <string id="waterrat_malyawa_description">
-	<text>Notatka napisana zwykłym ołówkiem. \n «Życie wycieka ze mnie razem z ciepłem, zostało mi jeszcze kilka godzin. Jeszcze wcześniej stracę świadomość, a to - dobrze. Jak temu diabłu Grabarzowi udaje się podtrzymywać te piekielne zimno w lodówce? Chociaż - pluć na to. \n Grabarz, pieprzony psychol, to przez jego szalone pomysły pojawiliśmy się tu, w tym wiecznym półmroku. Mówił, że wystarczy precyzyjnie skoordynować klucze we właściwym miejscu i otworzy się portal do centrum Zony. Portal się otworzył. Ale nie tam, gdzie chciał Grabarz. I teraz tu zdychamy. \n Tyle pracy, tyle krwi i taki finał. Stara lodówka, zniszczony warlock, piekielny mróz. \n Mam dwa noże z kutej stali, broń przeciw demonom, ale nie mam odwagi ich użyć. \n Mógłbym krzyczeć, ale nie chcę wołać Grabarza: lepiej jak zdechnę w samotności. \n Jedno mnie trochę pociesza - on też zdechnie. Z głodu i pragnienia. \n Bez kluczy nikt się stąd nie wydostanie. \n Koniec. Wybaczcie. Postaram się zasnąć i odejść we śnie.»
+	<text>Notatka napisana zwykłym ołówkiem. \n «Życie wycieka ze mnie razem z ciepłem, zostało mi jeszcze kilka godzin. Pewnie wcześniej stracę świadomość, a to - dobrze. Jak temu diabłu Grabarzowi udaje się przetrwać te cholerne zimno w lodówce? Chociaż - jebać to. \n Grabarz, pieprzony psychol, to przez jego szalone pomysły pojawiliśmy się tu, w tym wiecznym półmroku. Mówił, że wystarczy precyzyjnie skoordynować klucze we właściwym miejscu i otworzy się portal do centrum Zony. Portal się otworzył. Ale nie tam, gdzie chciał Grabarz. I teraz tu zdychamy. \n Tyle pracy, tyle krwi i taki finał. Stara lodówka, zniszczony warlock, arktyczny mróz. \n Mam dwa noże z kutej stali, broń przeciw demonom, ale nie mam odwagi ich użyć. \n Mógłbym krzyczeć, ale nie chcę wołać Grabarza: lepiej jak zdechnę w samotności. \n Jedno mnie trochę pociesza - on też zdechnie. Z głodu i pragnienia. \n Bez kluczy nikt się stąd nie wydostanie. \n Koniec. Wybaczcie. Postaram się zasnąć i odejść we śnie.»
 </text>
 </string>
 
@@ -191,7 +262,7 @@
 </string>
 
 <string id="bunker_door_code_description">
-	<text>1730 i 0370 \n Deadman podał dwa takie kody do drzwi w bunkrze. \n Do jakich drzwi pasują i czy w ogóle działają - Deadman nie wie. \n  No cóż, sprawdzimy je.
+	<text>1730 i 0370 \n Umarlak podał dwa takie kody do drzwi w bunkrze. \n Do jakich drzwi pasują i czy w ogóle działają - Umarlak nie wie. \n  No cóż, sprawdzimy je.
 </text>
 </string>
 
@@ -237,10 +308,10 @@
 </string>
 
 <string id="military_stalkers_flash_name">
-	<text>Fleszka z rozkazem</text>
+	<text>Pendrive z rozkazem</text>
 </string>
 <string id="military_stalkers_flash_description">
-	<text>Fleszka zaszyfrowana w technologii BitLocker</text>
+	<text>Pendrive zaszyfrowany w technologii BitLocker</text>
 </string>
 
 <string id="item_passport_rf_name">
@@ -261,7 +332,7 @@
 	<text>ARTEFAKT</text>
 </string>
 <string id="art_red_description">
-	<text>Artefakt to rzeźba stalkera wykonana z nieznanego materiału</text>
+	<text>Artefakt przedstawiający postać stalkera wykonana z nieznanego materiału</text>
 </string>
 
 <string id="sor_basement_key_name">
@@ -272,21 +343,21 @@
 </string>
 
 <string id="sor_jj_key_description">
-	<text>Klucz. \n Grek przypomina sobie ten klucz, ale nie pamięta do jakiego to zamka.</text>
+	<text>Klucz. \n Grek przypomina sobie ten klucz, ale nie pamięta do jakiego jest zamka.</text>
 </string>
 
 <string id="passdoc_pda_name">
 	<text>Przepustka</text>
 </string>
 <string id="passdoc_desc">
-	<text>Przepustka do "osadnika"</text>
+	<text>Przepustka do "Osadnika"</text>
 </string>
 
 <string id="mobile">
-	<text>Mobile Manager</text>
+	<text>Mobilny Manager</text>
 </string>
 <string id="mobile_description">
-	<text>Narzędzie do przemieszczania, spawnu, kontroli i.t.d.</text>
+	<text>Narzędzie do przemieszczania, przywołania, kontroli itd.</text>
 </string>
 
 <string id="braverman_pda_name">
@@ -307,7 +378,7 @@
 	<text>Obsydianowy nóż</text>
 </string>
 <string id="obsidian_knife_description">
-	<text>Pradawny aztecki nóż rytualny z wulkanicznego szkła.</text>
+	<text>Pradawny aztecki nóż rytualny z wulkanicznej skały.</text>
 </string>
 
 <string id="mutant_boar_leg_cook">
@@ -332,26 +403,26 @@
 </string>
 
 <string id="hsm_box_1_name">
-	<text>Skrzynka nr1</text>
+	<text>Skrzynka #1</text>
 </string>
 <string id="hsm_box_2_name">
-	<text>Skrzynka nr2</text>
+	<text>Skrzynka #2</text>
 </string>
 <string id="hsm_box_3_name">
-	<text>Skrzynka nr3</text>
+	<text>Skrzynka #3</text>
 </string>
 <string id="hsm_box_4_name">
-	<text>Skrzynka nr4</text>
+	<text>Skrzynka #4</text>
 </string>
 <string id="hsm_box_5_name">
-	<text>Skrzynka nr5</text>
+	<text>Skrzynka #5</text>
 </string>
 <string id="hsm_box_description">
 	<text>Jeden z kontenerów oznaczonych skrótem "HSM-***"</text>
 </string>
 
 <string id="panz_encryption_malyawa_description">
-	<text>«Do znalazcy! Proszę zwrócić ten dokument Onisimowi Pulewiczowi. Sortownia, miasteczko wojskowe. Gwarantowana wysoka nagroda.» \n Dalej - kolumny liczb.</text>
+	<text>«Do znalazcy! Proszę zwrócić ten dokument Onisimowi ps "Kulawy". Sortownia, miasteczko wojskowe. Gwarantowana wysoka nagroda.» \n Dalej - tabele liczb.</text>
 </string>
 
 <string id="blade_radiokey_name">
@@ -383,14 +454,14 @@
 	<text>"PUMA"</text>
 </string>
 <string id="automedic_system_description">
-	<text>Personalne uniwersalne mobilne ambulatorium. \n Monitoruje stan zdrowia użytkownika. \n Przy zbliżeniu się do stanu krytycznego, automatycznie aplikuje preparaty medyczne, jeżeli takie są na wyposażeniu użytkownika. \n By aktywować przyrząd trzeba powiesić go na pasie.</text>
+	<text>Personalne Uniwersalne Mobilne Ambulatorium. \n Monitoruje stan zdrowia użytkownika. \n Przy zbliżeniu się do stanu krytycznego, automatycznie aplikuje preparaty medyczne, jeżeli takie są na wyposażeniu użytkownika. \n By aktywować przyrząd trzeba powiesić go na pasie.</text>
 </string>
 
 <string id="outfit_grek_name">
 	<text>Skórzany płaszcz Greka</text>
 </string>
 <string id="outfit_grek_description">
-	<text>Unikalny, jedyny w swoim rodzaju płaszcz. \n Grek znalazł go w czasie samotnego rajdu do Martwego Miasta. \n Płaszcz nie tylko dodaje sił i wytrzymałości, ale również nieźle broni przed szkodliwymi wpływami Zony i przed kulami. \n W komplecie z płaszczem są też okulary przeciwsłoneczne, które w rzeczy samej są świetnym noktowizorem, niestety teraz gdzieś się zapodziały.</text>
+	<text>Unikalny, jedyny w swoim rodzaju płaszcz. \n Grek znalazł go w czasie samotnego wypadu do Martwego Miasta. \n Płaszcz nie tylko dodaje sił i wytrzymałości, ale również nieźle broni przed szkodliwymi wpływami Zony i przed kulami. \n W komplecie z płaszczem są też okulary przeciwsłoneczne, które w rzeczy samej są świetnym noktowizorem, niestety teraz gdzieś się zapodziały.</text>
 </string>
 <string id="outfit_grek_glass_description">
 	<text>Unikalny, jedyny w swoim rodzaju płaszcz. \n Grek znalazł go w czasie samotnego rajdu do Martwego Miasta. \n Płaszcz nie tylko dodaje sił i wytrzymałości, ale również nieźle broni przed szkodliwymi wpływami Zony i przed kulami. \n W komplecie z płaszczem są też okulary przeciwsłoneczne, które w rzeczy samej są świetnym noktowizorem.</text>
@@ -398,7 +469,7 @@
 
 
 <string id="shocker_flash_name">
-	<text>Fleszka Szokera</text>
+	<text>Pendrive Paskudy</text>
 </string>
 <string id="shocker_flash_description">
 	<text>Informacja zaszyfrowana.</text>
@@ -408,11 +479,11 @@
 	<text>Latarka</text>
 </string>
 <string id="uv_light_torch_description">
-	<text>Przyrząd działa, ale wiązki światła nie widać. \n Prawdopodobnie, przyrząd pracuje poza widoczną skalą światła.</text>
+	<text>Przyrząd działa, ale wiązki światła nie widać. \n Prawdopodobnie, przyrząd pracuje poza widzialnym widmem światła.</text>
 </string>
 
 <string id="black_raider_singulator_description">
-	<text>Korektor promieniowania reliktowego operatora czarnych rajderów.</text>
+	<text>Korektor promieniowania reliktowego operatora Black Raidera.</text>
 </string>
 <string id="als_singulator_name">
 	<text>Singulator</text>
@@ -435,12 +506,12 @@
 	<text>Mapa pokazuje lokalizację teraźniejszego mobilnego panelu sterowania działkami.</text>
 </string>
 
-<!--  Îáú˙âëĺíč˙ -->
+<!--  ogłoszenia -->
 <string id="announcement_name">
 	<text>Ogłoszenie</text>
 </string>
 <string id="announcement_1_description">
-	<text>Zaginęli kopacze. \n  Ostatni raz łączyli się 29-go kwietnia z Bagien. \n  Za informację będzie wypłacone wynagrodzenie - 10 000. \n  Zlaticz.</text>
+	<text>Ktokolwiek widział, ktokolwiek wie: kopacze. \n  Ostatni raz łączyli się 29-go kwietnia z Bagien. \n  Za informację będzie wypłacone wynagrodzenie - 10 000. \n  Zlatić.</text>
 </string>
 <string id="announcement_2_description">
 	<text>P.R.A.C.A.!!! \n Potrzebny jest doświadczony i odważny stalker do realizacji specjalnego zadania. \n Zapłata - niewyobrażalnie wysoka! \n Przyznany wyjątkowy status i szczególne pełnomocnictwa! \n Więcej informacji można otrzymać w miasteczku wojskowym u przedstawiciela Korporacji. \n GRC</text>
@@ -452,7 +523,7 @@
 	<text>ZAGINIONY UCZONY!!! \n Szczodre wynagrodzenie za jakąkolwiek wiadomość o doktorze Bravermanie. \n Łuczenko.</text>
 </string>
 <string id="announcement_5_description">
-	<text>ZAGINIONY UCZONY!!! \n Dr Braverman. Ostatnia wiadomość radiowa z Laboratorium X-18. \n Szczodre wynagrodzenie. \n Łuczenko.</text>
+	<text>ZAGINIONY NAUKOWIEC!!! \n Dr Braverman. Ostatnia wiadomość radiowa z Laboratorium X-18. \n Szczodre wynagrodzenie. \n Łuczenko.</text>
 </string>
 <string id="announcement_6_description">
 	<text>Powietrzne Laboratorium!!! \n Szczodre wynagrodzenie za współrzędne miejsca upadku. \n Łuczenko.</text>
@@ -462,10 +533,10 @@
 </string>
 
 <string id="timer_bomb_name">
-	<text>Mina</text>
+	<text>Bomba zegarowa</text>
 </string>
 <string id="timer_bomb_description">
-	<text>Mina o opóźnionym działaniu. Czas opóźnienia po aktywacji zegara to 15 sekund</text>
+	<text>Bomba o opóźnionym działaniu. Czas opóźnienia po aktywacji zegara to 15 sekund.</text>
 </string>
 
 </string_table>

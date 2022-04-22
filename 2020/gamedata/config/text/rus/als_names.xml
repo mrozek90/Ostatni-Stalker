@@ -45,16 +45,16 @@
 	</string>
 
 	<string id="stranger_novice">
-		<text>Czarny rajder, nowicjusz</text>
+		<text>Nieznany, nowicjusz</text>
 	</string>
 	<string id="stranger_experienced">
-		<text>Czarny rajder, doœwiadczony</text>
+		<text>Nieznany, doœwiadczony</text>
 	</string>
 	<string id="stranger_veteran">
-		<text>Czarny rajder, weteran</text>
+		<text>Nieznany, weteran</text>
 	</string>
 	<string id="stranger_master">
-		<text>Czarny rajder, mistrz</text>
+		<text>Nieznany, mistrz</text>
 	</string>
 
 	<string id="degen_novice">
