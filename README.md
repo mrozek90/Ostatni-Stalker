@@ -41,9 +41,6 @@ Lista zmian:
 
 # **Lista zmian tłumaczenia względem v1.1:**  
 
-- Nazwa NPC: Wodny Szczur -> Karczownik  
-- Nazwa NPC: Dedman -> Umarlak   
+
 - Nazwa NPC: Pancer -> Panzer  
-- Nazwa NPC: Ochrypły -> Chrypa  
-- Nazwa NPC: Piorun -> Grom  
 ...
