@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="pri_followers_start_dlg_21">
+		<text>Ruszajmy ulicą. W razie czego - osłaniaj mnie.</text>
+	</string>
+	<string id="pri_followers_start_dlg_211">
+		<text>Dobrze.</text>
+	</string>
+	<string id="pri_followers_start_dlg_31">
+		<text>Dzięki za pomoc, Naznaczony. To była ciężka walka. Urządzimy tu popas. \nJeśli chcesz iść dalej, opowiem ci coś o okolicy. Jak się cofniesz i skręcisz w prawo, dotrzesz na dworzec autobusowy. To otwarty teren, więc niezbyt bezpieczny. \nJeśli pójdziesz naprzód, to znajdziesz się przed hotelem. Po prawej będziesz mieć bazę "Monolitu". Tym kolesiom odwaliło. \nZa bazą znajduje się stadion. Planowaliśmy przez niego dostać się do elektrowni. To tyle.</text>
+	</string>
+	<string id="pri_followers_start_dlg_311">
+		<text>Dziękuję.</text>
+	</string>
+	<string id="pri_followers_start_dlg_41">
+		<text>Dzięki za pomoc. Powodzenia.</text>
+	</string>
+	<string id="pri_followers_start_dlg_411">
+		<text>Cześć.</text>
+	</string>
+</string_table>

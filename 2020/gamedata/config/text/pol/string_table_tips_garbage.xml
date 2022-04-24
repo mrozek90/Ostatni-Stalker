@@ -1,0 +1,27 @@
+	<string id="gar_actor_looser">
+		<text>No i miêczak jesteœ, Naznaczony, po¿ytku z ciebie zero. Tak ¿e i wdziêcznoœci od nas nie oczekuj. Nie ma ci za co dziêkowaæ.</text>
+	</string>
+	<string id="gar_actor_normal">
+		<text>NieŸle, stalkerze, zabi³eœ mutanty. Ale tu na nikim nie zrobi³eœ wra¿enia, tak ¿e je¿eli chcesz przejœæ - trzeba bêdzie p³aciæ.</text>
+	</string>
+	<string id="gar_actor_winner">
+		<text>Doskonale, Naznaczony, rzeczywiœcie bardzo nam pomog³eœ. Bêdziemy uwazaæ, ¿e op³aci³eœ swoje przejœcie. Mo¿esz iœæ na terytorium Baru.</text>
+	</string>
+	<string id="gar_direction_fire">
+		<text>Podpuœcimy ich bli¿ej, by nikt nie uciek³. Strzelam pierwszy - potem wy.</text>
+	</string>
+	<string id="gar_dolg_blokpost_warning">
+		<text>Stalkerze, przebywasz na terytorium kontrolowanym przez Powinnoœæ. Ka¿dy przejaw agresji bêdzie ukarany.</text>
+	</string>
+	<string id="gar_dolg_monster_rush">
+		<text>Uwaga!!! Mówi posterunek Powinnoœci na Wysypisku. Z Doliny Mroku w kierunku Baru idzie fala mutantów. Ka¿demu, kto pomo¿e odstrzeliæ te mutanty - gwarantujemy wdziêcznoœæ z naszej strony.</text>
+	</string>
+	<string id="gar_dolg_warning">
+		<text>Stalkerze, jesteœ na terytorium Powinnoœci. Bêdziesz siê awanturowaæ  - zdobêdziesz czwarty stopieñ inwalidztwa!</text>
+	</string>
+	<string id="gar_hellcar_victory">
+		<text>Ch³opaki, pokonaliœmy ich. Odpocznijcie, a ty, stalkerze, podejdŸ do mnie, pogadamy.</text>
+	</string>
+	<string id="tips_gar_hellcar_alarm">
+		<text>Ludzie, wzywa dowódca oddzia³u neutra³ów. Wybiliœmy bandytów z Cmentarzyska Pojazdów, spodziewamy siê kontrataku. Ma³o nas, tak ¿e prosimy o pomoc.</text>
+	</string>

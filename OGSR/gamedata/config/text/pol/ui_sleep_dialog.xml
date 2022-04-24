@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="sleep_title_1">
+		<text>Śpij do...</text>
+	</string>
+	<string id="sleep_warning_radiation">
+		<text>Nie możesz spać, gdy Twoje ciało jest napromieniowane.</text>
+	</string>
+	<string id="sleep_warning_enemy">
+		<text>Nie możesz spać, gdy w pobliżu są wrogowie.</text>
+	</string>
+	<string id="sleep_warning_satiety_or_bleeding">
+		<text>Nie możesz spać, jesteś bardzo głodny lub krwawisz.</text>
+	</string>
+	<string id="st_sleep_hours">
+		<text>godz</text>
+	</string>
+	<string id="barman_sleep_dialog_1">
+		<text>Chciałbym się gdzieś położyć...</text>
+	</string>
+	<string id="barman_sleep_dialog_2">
+		<text>Idź do pokoju na tyle i połóż się tam. Powiem Garikowi, żeby Cię przepuścił. Możesz iść kiedy chcesz.</text>
+	</string>
+	<string id="barman_sleep_dialog_3">
+		<text>Dziękuję</text>
+	</string>
+	<string id="guard_sleep_dialog_1_1">
+		<text>Barman powiedział, że mogę wejść...</text>
+	</string>
+	<string id="guard_sleep_dialog_1_2">
+		<text>Dobra, możesz przejść. Jeśli znowu masz ochotę, "zagwizdaj". Moim zadaniem jest nie przepuszczać byle kogo.</text>
+	</string>
+	<string id="guard_sleep_dialog_1_3">
+		<text>Cóż, teraz nie jestem "nikim"... Ehh... Żartuję...</text>
+	</string>
+	<string id="guard_sleep_dialog_2_1">
+		<text>Przepuść, przyjaciel.</text>
+	</string>
+	<string id="guard_sleep_dialog_2_2">
+		<text>Ach, to znowu Ty...</text>
+	</string>
+	<string id="guard_sleep_dialog_2_3">
+		<text>Tak...</text>
+	</string>
+
+</string_table>

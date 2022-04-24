@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+<string_table>
+	<string id="svoboda_outfit_name_m1">
+		<text>Kombinezon "Wolność" M2</text>
+	</string>
+	<string id="team_1_desc">
+		<text>Anarchiści Zony. Wyznają ideę, że Zona to enklawa wolności. Uważają, że wszystkie prawa, zasady i zwyczaje świata zewnętrznego tutaj tracą swą moc. Ich motto brzmi: "Rób co chcesz, ale nie przeszkadzaj innym". Próbują powstrzymać rząd przed przejęciem kontroli nad Zoną i walczą z najemnikami. Bojownicy "Wolności" generalnie wyposażeni są w broń  radzieckiej lub rosyjskiej produkcji.</text>
+	</string>
+	<string id="team_1_name">
+		<text>Ugrupowanie "Wolność" (Wolni stalkerzy)</text>
+	</string>
+	<string id="team_2_desc">
+		<text>Poszukiwacze przygód i zbiry z całego świata, nie gardzący żadną, nawej najbrudniejszą robotą. Ich motto brzmi: "Pecunia non olet - Pieniądze nie śmierdzą". Są tu artefakty, więc są też duże pieniądze... Najemnicy używają głównie broni produkcji zachodniej.</text>
+	</string>
+	<string id="team_2_name">
+		<text>"Najemnicy" (Łowcy głów, najemnicy)</text>
+	</string>
+</string_table>
+

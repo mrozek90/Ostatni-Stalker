@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="id_mp_money">
+		<text>Pieni№dze</text>
+	</string>
+	<string id="mm_mp_pda_hunt">
+		<text>Premia za PDA</text>
+	</string>
+
+	<string id="ui_mm_fov">
+		<text>K№t widzenia</text>
+	</string>
+	<string id="ui_mm_fov55">
+		<text>55</text>
+	</string>
+	<string id="ui_mm_fov675">
+		<text>67,5</text>
+	</string>
+	<string id="ui_mm_fov75">
+		<text>75</text>
+	</string>
+	<string id="ui_mm_fov83">
+		<text>83</text>
+	</string>
+	<string id="ui_mm_fov90">
+		<text>90</text>
+	</string>
+	<string id="ui_mm_scope">
+		<text>Siatki do monitorуw</text>
+	</string>
+	<string id="ui_mm_scope43">
+		<text>4x3</text>
+	</string>
+	<string id="ui_mm_scope54">
+		<text>5x4</text>
+	</string>
+	<string id="ui_mm_scope169">
+		<text>16x9</text>
+	</string>
+	<string id="ui_mm_scope1610">
+		<text>16x10</text>
+	</string>
+	<string id="ui_mm_scope219">
+		<text>21x9</text>
+	</string>
+	<string id="st_drink">
+		<text>Picie</text>
+	</string>
+	<string id="st_mp_direct_ip">
+		<text>Bezpoњredni adres IP</text>
+	</string>
+	<string id="ui_mm_default">
+		<text>Domyњlnie</text>
+	</string>
+	<string id="ui_mm_detail_density">
+		<text>Gкstoњж trawy</text>
+	</string>
+	<string id="ui_mm_r2_sun">
+		<text>Cieс od sіoсca</text>
+	</string>
+	<string id="ui_mm_r2_sun_details">
+		<text>Cieс trawy</text>
+	</string>
+	<string id="ui_mm_render_2">
+		<text>Render-2</text>
+	</string>
+	<string id="ui_pda_details">
+		<text># /Detale</text>
+	</string>
+	<string id="ui_st_btn_cancel">
+		<text>Anuluj</text>
+	</string>
+	<string id="ui_st_btn_no">
+		<text>Nie</text>
+	</string>
+	<string id="ui_st_btn_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_st_btn_yes">
+		<text>Tak</text>
+	</string>
+	<string id="ui_st_cant_run_r2">
+		<text>Nie moїesz uruchomiж drugiego renderowania na swoim komputerze</text>
+	</string>
+	<string id="ui_st_conn_invalid_host">
+		<text>Bі№d poі№czenia: nieprawidіowy host</text>
+	</string>
+	<string id="ui_st_conn_invalid_pass">
+		<text>Bі№d poі№czenia: nieprawidіowe hasіo</text>
+	</string>
+	<string id="ui_st_conn_rejected_server">
+		<text>Bі№d poі№czenia: poі№czenie przerwane przez serwer</text>
+	</string>
+	<string id="ui_st_conn_sess_full">
+		<text>Bі№d poі№czenia: serwer jest peіny</text>
+	</string>
+	<string id="ui_st_days">
+		<text>dni.</text>
+	</string>
+	<string id="ui_st_error">
+		<text>Bі№d</text>
+	</string>
+	<string id="ui_st_file_exist_owerwrite_q">
+		<text>Plik o tej nazwie juї istnieje. Nadpisaж?</text>
+	</string>
+	<string id="ui_st_file_name_is_empty">
+		<text>Nazwa pliku jest pusta.</text>
+	</string>
+	<string id="ui_st_hours">
+		<text>godz.</text>
+	</string>
+	<string id="ui_st_leave">
+		<text>Wyjdџ</text>
+	</string>
+	<string id="ui_st_mins">
+		<text>min.</text>
+	</string>
+	<string id="ui_st_months">
+		<text>mies.</text>
+	</string>
+	<string id="ui_st_params">
+		<text>Parametry</text>
+	</string>
+	<string id="ui_st_secs">
+		<text>sek.</text>
+	</string>
+	<string id="ui_st_select_one_map">
+		<text>Wybierz co najmniej jedn№ mapк.</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Weџ wszystko</text>
+	</string>
+	<string id="ui_st_time_remains">
+		<text>Zostaіo</text>
+	</string>
+	<string id="ui_st_trade">
+		<text>Handel</text>
+	</string>
+	<string id="ui_st_trade_tm">
+		<text>Handel</text>
+	</string>
+	<string id="ui_st_voting_disabled">
+		<text>Gіosowanie wyі№czone</text>
+	</string>
+	<string id="ui_st_want_to_leave_game_q">
+		<text>Czy na pewno chcesz opuњciж grк?</text>
+	</string>
+	<string id="ui_st_your_items">
+		<text>Przedmioty Greka</text>
+	</string>
+	<string id="st_game_over_press_jump">
+		<text>Naciњnij ($$ACTION_JUMP$$) aby wyjњж do menu gіуwnego</text>
+	</string>
+	<string id="st_level">
+		<text>Poziom.</text>
+	</string>
+	<string id="st_opening_stream">
+		<text>Otwieranie streamu.</text>
+	</string>
+	<string id="st_loading_cform">
+		<text>Јadowanie ksztaіtu obiektуw.</text>
+	</string>
+	<string id="st_prefetching_objects">
+		<text>Buforowanie obiektуw.</text>
+	</string>
+	<string id="st_creating_new_game">
+		<text>Tworzenie nowej gry.</text>
+	</string>
+	<string id="st_loading_alife_simulator">
+		<text>Serwer: Јadowanie symulacji їycia...</text>
+	</string>
+	<string id="st_server_connecting">
+		<text>Serwer: Ј№czenie...</text>
+	</string>
+	<string id="st_loading_saved_game">
+		<text>Wczytywanie zapisanej gry...</text>
+	</string>
+	<string id="st_validating_cdkey">
+		<text>Weryfikacja klucza...</text>
+	</string>
+	<string id="st_loading_ai_objects">
+		<text>Wczytywanie NPC...</text>
+	</string>
+	<string id="st_client_connecting_to">
+		<text>Klient: Ј№czenie...</text>
+	</string>
+	<string id="st_client_spawning">
+		<text>Klient: Spawning.</text>
+	</string>
+	<string id="st_loading_textures">
+		<text>Јadowanie tekstur.</text>
+	</string>
+	<string id="st_client_synchronising">
+		<text>Klient: Synchronizacja...</text>
+	</string>
+	<string id="st_server_starting">
+		<text>Serwer: Start!</text>
+	</string>
+	<string id="st_loading_shaders">
+		<text>Јadowanie shaderуw.</text>
+	</string>
+	<string id="st_loading_geometry">
+		<text>Јadowanie geometrii.</text>
+	</string>
+	<string id="st_loading_spatial_db">
+		<text>Wczytujк bazк danych przestrzeni.</text>
+	</string>
+	<string id="st_loading_details">
+		<text>Јadowanie szczegуіowych obiektуw.</text>
+	</string>
+	<string id="st_loading_sectors_portals">
+		<text>Јadowanie sektorуw i portali.</text>
+	</string>
+	<string id="ui_st_conn_version_differs">
+		<text>Bі№d poі№czenia: wersje rуїni№ siк!</text>
+	</string>
+	<string id="ui_st_conn_cdkey_invalid">
+		<text>Bі№d poі№czenia: zіy klucz CD.</text>
+	</string>
+	<string id="ui_st_conn_cdkey_in_use">
+		<text>Bі№d poі№czenia: ten klucz CD jest juї uїywany...</text>
+	</string>
+	<string id="ui_st_conn_cdkey_disabled">
+		<text>Bі№d poі№czenia: Twуj klucz CD jest zablokowany. Skontaktuj siк z pomoc№ techniczn№.</text>
+	</string>
+	<string id="ui_st_conn_new_patch">
+		<text>Dostкpna jest nowa aktualizacja. \n Wersja: %s\n %s\n Czy chcesz teraz pobraж?</text>
+	</string>
+	<string id="ui_st_conn_no_new_patch">
+		<text>Brak aktualizacji.</text>
+	</string>
+	<string id="ui_mm_delete_existing_file_q">
+		<text>Czy na pewno chcesz usun№ж plik?</text>
+	</string>
+	<string id="st_game_paused">
+		<text>Pauza</text>
+	</string>
+	<string id="st_bolt">
+		<text>Њruba</text>
+	</string>
+	<string id="st_items">
+		<text>Przedmioty</text>
+	</string>
+	<string id="st_video">
+		<text>Wideo</text>
+	</string>
+	<string id="st_audio">
+		<text>Audio</text>
+	</string>
+	<string id="st_game">
+		<text>Gra</text>
+	</string>
+	<string id="st_controll">
+		<text>Sterowanie</text>
+	</string>
+	<string id="ui_st_connecting_to_masterserver">
+		<text>Doі№cz do serwera gіуwnego.</text>
+	</string>
+	<string id="mp_only_one_voting">
+		<text>Dozwolony tylko jeden aktywny gіos.</text>
+	</string>
+	<string id="ui_st_patch_download_success">
+		<text>Aktualizacja zostaіa pomyњlnie pobrana. Zainstalowaж?</text>
+	</string>
+	<string id="ui_st_patch_download_error">
+		<text>Nie moїna pobraж aktualizacji.</text>
+	</string>
+	<string id="ui_st_load_game_confirm">
+		<text>Wczytanie gry spowoduje utratк niezapisanych danych. Czy chciaіbyњ kontynuowaж?</text>
+	</string>
+	<string id="ui_st_invalid_saved_game">
+		<text>Wersja zapisanej gry nie pasuje lub zapisana gra jest uszkodzona.</text>
+	</string>
+	<string id="ui_mm_r2_tonemap_middlegray">
+	    <text>Intensywnoњж HDR</text>
+    	</string>
+	    	<string id="ui_mm_r2_sun_lumscale">
+	    <text>Њwiatіo sіoneczne</text>
+    	</string>
+    	<string id="ui_mm_r2_sun_lumscale_amb">
+	    <text>Њwiatіo w tle</text>
+    	</string>
+	<string id="ui_mm_soft_water">
+		<text>Miкkka woda</text>
+	</string>
+	<string id="st_pda_change_spot_hint">
+		<text>Zmieс tekst etykiety</text>
+	</string>
+	<string id="ui_mm_sun_shafts">
+		<text>Promienie sіoneczne</text>
+	</string>
+	<string id="st_pda_delete_spot">
+		<text>Usuс znacznik</text>
+	</string>
+
+	<string id="st_move">
+		<text>Przesuс</text>
+	</string>
+	<string id="st_move_all">
+		<text>Przesuс wszystko</text>
+	</string>
+
+	<string id="st_move_to_slot_1">
+		<text>Doі№cz do 1 slotu</text>
+	</string>
+	<string id="st_move_to_slot_2">
+		<text>Doі№cz do 2 slotu</text>
+	</string>
+	<string id="st_attach_addon_to_wpn_in_slot_1">
+		<text>Doі№cz %s do %s w pierwszym slocie</text>
+	</string>
+	<string id="st_attach_addon_to_wpn_in_slot_2">
+		<text>Doі№cz %s do %s w drugim slocie</text>
+	</string>
+	<string id="ui_remkit_out_of_item">
+		<text>W ekwipunku nie ma odpowiednich przedmiotуw do demontaїu na czкњci.</text>
+	</string>
+	<string id="ui_remkit_select_item">
+		<text>Wybierz element z listy demontaїu na czкњci.</text>
+	</string>
+	<string id="ui_remkit_invalid_item">
+		<text>Nic z tego nie wyjdzie - przedmiot nadaje siк do kosza. Wybierz przedmiot w najlepszym stanie.</text>
+	</string>
+	<string id="ui_remkit_item_not_repaireble">
+		<text>Przedmiot jest nie do naprawienia lub nie moїna go juї naprawiж.</text>
+	</string>
+	<string id="ui_remkit_item_not_wanted">
+		<text>Przedmiot nie wymaga naprawy.</text>
+	</string>
+	<string id="ui_remkit_repair_success">
+		<text>Udaіo Ci siк poprawiж stan przedmiotu.</text>
+	</string>
+<string id="ui_remkit_repair_transport">
+		<text>Udaіo Ci siк naprawiж samochуd.</text>
+	</string>
+	<string id="ui_remkit_repair_without_changes">
+		<text>Nie udaіo siк poprawiж stanu przedmiotu.</text>
+	</string>
+	<string id="ui_remkit_repair_failure">
+		<text>Z powodu braku dobrych umiejкtnoњci pogorszyіeњ stan przedmiotu.</text>
+	</string>
+	<string id="ui_repair_success">
+		<text>Przedmiot zostaі pomyњlnie naprawiony.</text>
+	</string>
+	<string id="ui_remkit_repair_nomoney">
+		<text>Nie masz wystarczaj№co duїo pieniкdzy, aby to naprawiж.</text>
+	</string>
+	<string id="ui_cartrade_nomoney">
+		<text>Nie masz wystarczaj№co duїo pieniкdzy, їeby kupiж ten samochуd.</text>
+	</string>
+	<string id="ui_trunk_select_item">
+		<text>Wybierz z listy element do przeniesienia.</text>
+	</string>
+	<string id="ui_trunk_overweight">
+		<text>Nie moїesz tego wіoїyж do bagaїnika - nie ma wystarczaj№co duїo miejsca.</text>
+	</string>
+	<string id="kb_cam_1">
+		<text>Widok pierwszoosobowy.</text>
+	</string>
+	<string id="kb_cam_2">
+		<text>Widok z perspektywy trzeciej osoby.</text>
+	</string>
+	<string id="kb_cam_3">
+		<text>Widok z trzeciej osoby (freelook).</text>
+	</string>
+
+	<string id="inventory_item_use_or_drag">
+		<text>Podnieњ przedmiot ($$ACTION_USE$$) \n Przenieњ przedmiot (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+	<string id="game_object_drag">
+		<text>Przenieњ przedmiot (SHIFT+$$ACTION_USE$$)</text>
+	</string>
+
+	<string id="st_press_any_key">
+		<text>Naciњnij dowolny klawisz, aby przejњж do gry.</text>
+	</string>
+
+</string_table>

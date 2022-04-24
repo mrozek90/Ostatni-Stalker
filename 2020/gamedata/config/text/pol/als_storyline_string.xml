@@ -1,0 +1,915 @@
+<?xml version="1.0" encoding="windows-1250" ?>
+
+
+
+<string_table>
+
+<string id="grek_notes">
+	<text>Notatki osobiste</text>
+</string>
+
+<string id="grek_photos">
+	<text>Zdjęcia</text>
+</string>
+
+<string id="grek_res_information">
+	<text>Otrzymane informacje</text>
+</string>
+
+<string id="grek_saves">
+	<text>Schowki</text>
+</string>
+
+<string id="grek_pda">
+	<text>Informacje odzyskane z znalezionych PDA</text>
+</string>
+
+<string id="found_codes">
+	<text>Znalezione kody</text>
+</string>
+
+<string id="received_messages">
+	<text>Otrzymane wiadomości</text>
+</string>
+
+<string id="talking_history">
+	<text>Historia rozmów</text>
+</string>
+
+<!-- STORY -->
+<string id="als_story_ar_1">
+	<text>Partia szachów</text>
+</string>
+<string id="als_story_ar_1_rus">
+	<text>Wygląda to na jakiś sprytny szyfr. I jeszcze... - co w tym wszystkim robi policja?</text>
+</string>
+
+<string id="als_story_ar_2">
+	<text>Zdjęcia w PDA Leńki Brzytwy</text>
+</string>
+<string id="als_story_ar_2_rus">
+	<text>Grupa Diegtiariewa, Striełok, Pancer, Iwancow. Striełok, Włóczęga i Sokołow oznaczeni literą Z.</text>
+</string>
+
+<string id="als_story_ar_3">
+	<text>Partia szachów</text>
+</string>
+<string id="als_story_ar_3_rus">
+	<text>Nieznany stalker powiedział, że tu zaszyfrowano liczbę 379.</text>
+</string>
+
+<string id="als_story_ar_4">
+	<text>Krasnow i kontener</text>
+</string>
+<string id="als_story_ar_4_rus">
+	<text>GRCowiec jest dziś wyjątkowo niegościnny. Zablokował nawet należne mi wyposażenie. Pewnie tęskni za swoim Apaczem. A cholera z nim, jego sprzętem i jego Apaczem.</text>
+</string>
+
+<string id="als_story_ar_0">
+<text>Zabić Johnnego!</text>
+</string>
+<string id="als_story_ar_0_rus">
+<text>Jak znalazłem się w tej jaskini? Martwy wyrodek… Gdzie mój ekwipunek? Ni cholery nie pamiętam… Dobrze pamiętam tylko jedno - człowieka, któremu ufałem, którego uważałem za przyjaciela, który strzelił mi w plecy… Wróciłem… Prawdopodobnie, wróciłem z Piekła… Wróciłem, żeby znaleźć i zabić zdrajcę, zabić Johnnego!</text>
+</string>
+
+<string id="als_story_ar_5">
+<text> Zabić Johnnego!</text>
+</string>
+<string id="als_story_ar_5_rus">
+<text>Jak znalazłem się w tej jaskini? Gdzie jest mój ekwipunek? Ni cholery nie pamiętam… Dobrze pamiętam tylko jedno - człowieka, któremu ufałem, którego uważałem za przyjaciela, który strzelił mi w plecy… Wróciłem… Prawdopodobnie, wróciłem z Piekła… Wróciłem, żeby znaleźć i zabić zdrajcę, zabić Johnnego!</text>
+</string>
+
+<string id="als_story_ar_6">
+<text>Bufor</text>
+</string>
+<string id="als_story_ar_6_rus">
+<text>To trochę pamiętam. Bufor, Centrum Zony, Bariera… Wszystko to jest jakoś powiązane z Johnnym. Trzeba wybrać się na Sortownię, w naszej bazie powinna być broń i pieniądze. Baza!!! Losza Borman!!! Dokładnie, trzeba przede wszystkim sprawdzić bazę. Potem - Sidor i Barman.</text>
+</string>
+
+<string id="als_story_ar_7">
+<text>Ciemność</text>
+</string>
+<string id="als_story_ar_7_rus">
+<text>Ciemność? Czy - emisja? Może to była po prostu emisja. Do diabła! Nie pamiętam jak wygląda zwykła emisja. A jak niezwykła - też nie pamiętam. Jedno jest pewne - trzeba ruszyć na południe, trzeba zabrać wyposażenie z bazy i dopiero potem przebijać się z powrotem do Prypeci.</text>
+</string>
+
+<string id="als_story_ar_8">
+<text>Ombrellone i M.CZ.</text>
+</string>
+<string id="als_story_ar_8_rus">
+<text>Same cuda i cudeńka… Ombrellone to parasol po włosku. Parasol… Kopuła? To jakieś bzdury. A może i wcale nie bzdury. Specjalne parasole, ochrona przed kwaśnym deszczem. Rajderzy to wędrowni handlarze. Niby, wszystko do siebie pasuje. Instalacja, która wywołuje kwaśne deszcze. Efekt jest niewielki, ale kwaśny deszcz miał ostrzegać stalkerów. Zwykła spekulacja: kupić od jakiegoś «Gr.» ochronne parasole i sprzedać dużo drożej… Podpis - M.Cz… Jak komu wygodnie - Misza Czapaj, Mądry Człowiek, Mały Członek.</text>
+</string>
+
+<string id="als_story_ar_9">
+<text>Chazar</text>
+</string>
+<string id="als_story_ar_9_rus">
+<text>No to w sumie, Chazar pośrednio potwierdził winę Johnnego. Wypalił mi w plecy, przyszedł do Leszyka, powiedział, niby że, koniec, Grek wykitował. A ja przeżyłem. Niespodzianka.</text>
+</string>
+
+<string id="als_story_ar_10">
+<text>Zwidy</text>
+</string>
+<string id="als_story_ar_10_rus">
+<text>Co to było? Dzieciak przy ogrodzeniu… Jednak mocno oberwałem. Chociaż… cholera wie, może i coś tam naprawdę było.</text>
+</string>
+
+<string id="als_story_ar_11">
+<text>Kostia</text>
+</string>
+<string id="als_story_ar_11_rus">
+<text>Znajoma morda. Gdzieś go już widziałem. Gliniarz. Albo - z jakiegoś urzędu.</text>
+</string>
+
+<string id="als_story_ar_12">
+<text>Wano</text>
+</string>
+<string id="als_story_ar_12_rus">
+<text>Wano uczestniczył w słynnym rajdzie do Prypeci przez podziemia. Potem brał udział w jakiejś operacji specjalnej SBU. Do diabła. Nie pamiętam.</text>
+</string>
+
+<string id="als_story_ar_13">
+<text>McClens</text>
+</string>
+<string id="als_story_ar_13_rus">
+<text>A tego typa poznałem.</text>
+</string>
+
+<string id="als_story_ar_14">
+<text>Buncz</text>
+</string>
+<string id="als_story_ar_14_rus">
+<text>Buncz. Pływa po całej postsowieckiej przestrzeni na swojej łódce, teraz zaś do Uzbeka przylgnął. Cóż, jeżeli taki człowiek jak Buncz, dołączył do Uzbeka, to wygląda na to, że Uzbek to normalny gość.</text>
+</string>
+
+<string id="als_story_ar_15">
+<text>Baszar</text>
+</string>
+<string id="als_story_ar_15_rus">
+<text>Nie ma co gadać, rozumiesz. Baszar, stary znajomy. Spotkaliśmy się kiedyś na południu. Reputację Baszar miał wtedy więcej niż pozytywną. No, zobaczymy, czy nie zardzewiał włóczęga.</text>
+</string>
+
+<string id="als_story_ar_16">
+<text>Noże Johnnego</text>
+</string>
+<string id="als_story_ar_16_rus">
+<text>Nikt takich nie miał. Przynajmniej ja nie widziałem. Specjalne zamówienie, specjalny stop. Wydaje mi się, że nie raz jeszcze na nie trafię na terytorium Zony. I możliwe, że to one mnie zaprowadzą do Johnnego.</text>
+</string>
+
+<string id="als_story_ar_17">
+<text>Martwi zwiadowcy</text>
+</string>
+<string id="als_story_ar_17_rus">
+<text>Dziki dobrały się do nich jak już byli martwi. Prawie nie ma śladów krwi.</text>
+</string>
+
+<string id="als_story_ar_18">
+<text>Chorąży Szewczuk</text>
+</string>
+<string id="als_story_ar_18_rus">
+<text>Żołnierz? Sam? Na Bagnach, gdzie każdy stalker będzie go miał za tarczę strzelniczą? Bardzo to dziwne.</text>
+</string>
+
+<string id="als_story_ar_19">
+<text>Kryjówka Grabarza</text>
+</string>
+<string id="als_story_ar_19_rus">
+<text>Myślę, że to było tak - Grabarz trzymał coś bardzo cennego dla niego w kryjówce, ale nie na terenie swojego obozu. Wygląda na to, że nie ufał swoim bandytom. Szewczuk z kumplem przypadkowo znaleźli tą kryjówkę, schowali fanty gdzieś indziej… Aha - fanty! Wojacy po zawartości domyślili się, że to własność Grabarza… Raczej nie po artach. Znaczy że... po książce. Towarzysz Szewczuka poszedł do obozu Grabarza tragować wykup za książkę, tam też otrzymał nóż w szyję na "dzień dobry". Jakoś tak.</text>
+</string>
+
+<string id="als_story_ar_20">
+<text>Dzieci w Zonie</text>
+</string>
+<string id="als_story_ar_20_rus">
+<text>Dedman mówił o chłopaku. O całkiem niezwykłym chłopaku. Widziałem na Kordonie dziewczynkę. Jakieś te dzieci to zły omen, czuję to w kościach.</text>
+</string>
+
+<string id="als_story_ar_21">
+<text>Warlock-666</text>
+</string>
+<string id="als_story_ar_21_rus">
+<text>Jest źle! Najwidoczniej Griszce rzeczywiście udało się stworzyć superbroń. Ktoś naprawdę zabrał ten karabin z kryjówki Synoptyka i przetestował go na grupie Szczura.</text>
+</string>
+
+<string id="als_story_ar_22">
+<text>Klucze</text>
+</string>
+<string id="als_story_ar_22_rus">
+<text>Widziałem przy Johnnym klucze Monolitu i myślałem, że mowa jest właśnie o nich. A te klucze - to nie byle co! Złoto, precyzyjna robota. Ale trochę mnie przerażają.</text>
+</string>
+
+<string id="als_story_ar_23">
+<text>Statuetki Stalkera</text>
+</string>
+<string id="als_story_ar_23_rus">
+<text>Głowę dam - widziałem już coś takiego wcześniej. I znacznie większych rozmiarów. Wieczna noc, żółty gaz, wyrodki… I ogromna rzeźba stalkera, przeklinającego, albo zaklinającego czarne niebo…</text>
+</string>
+
+<string id="als_story_ar_24">
+<text>Kontenery</text>
+</string>
+<string id="als_story_ar_24_rus">
+<text>Cóż, to naprawdę byłby grzech odrzucić taką możliwość kręcenia się po Zonie pod przykrywką GRC. A może w tych kontenerach znajdzie się coś cennego. Takich dupków jak GRC, normalny człowiek oszuka z przyjemnością.</text>
+</string>
+
+<string id="als_story_ar_25">
+<text>Panzer</text>
+</string>
+<string id="als_story_ar_25_rus">
+<text>Wcale nie jestem zdziwiony. Żeby taki stary wilk jak Panzer nie trzymał asa w rękawie i po prostu wysadził się w powietrze? Błagam was.</text>
+</string>
+
+<string id="als_story_ar_26">
+<text>Igor Olegowicz</text>
+</string>
+<string id="als_story_ar_26_rus">
+<text>Nie pogadasz. Ci ludzie wszędzie cię znajdą. Tak - nawet w Centrum Zony. Teraz są aż trzy motywy: Johnny, Borman. Cóż, albo w najgorszym wypadku, ucieczka przed takimi autorytetetami jak ten tutaj.</text>
+</string>
+
+<string id="als_story_ar_27">
+<text>Dedman i kontenery</text>
+</string>
+<string id="als_story_ar_27_rus">
+<text>Chociaż wydaje mi się, że ten typ jest stale naćpany, to jego propozycja jest po mojej myśli: nie mam powodu ufać GRC i pomysł wodzenia ich za nosy podoba mi się.</text>
+</string>
+
+<string id="als_story_ar_28">
+<text>Staruszek i najemnicy</text>
+</string>
+<string id="als_story_ar_28_rus">
+<text>Albo staruszek wyczuł bestię, która zabiła potem Langoliera, albo rzeczywiście zobaczył coś strasznego.</text>
+</string>
+
+<string id="als_story_ar_29">
+<text>Synoptyk</text>
+</string>
+<string id="als_story_ar_29_rus">
+<text>Więc się spotkaliśmy. Teraz jest jasne, że jego miano wcale nie od nazwy zawodu i na cholerę synoptyk w Zonie, gdzie pogoda jest absolutnie nieprzewidywalnie kontrolowana przez samą Zonę. «Obserwujący wszystko w całości». Patrzący, w skrócie. Trzeba przyjrzeć się uważnie temu «patrzącemu». A tymczasem - wypada zdobyć mu tę jego książkę.</text>
+</string>
+
+<string id="als_story_ar_30">
+<text>Kopacze</text>
+</string>
+<string id="als_story_ar_30_rus">
+<text>Trzech ich było, nie trzeba tu wróżki: są trzy szklanki. Znaleźli coś, przekąsili i przeholowali z wodą ognistą. Jeden okazał się szybszy. On też rozłożył trupy tak, żeby wydawało się, że sami do siebie strzelali. A ktoś tego trzeciego spłoszył, tak że zapomniał o szklance.</text>
+</string>
+
+<string id="als_story_ar_31">
+<text>Mechanik na Bagnach</text>
+</string>
+<string id="als_story_ar_31_rus">
+<text>To pewne! Widziałem już gdzieś tę mordę wcześniej! Ale wydaje mi się, że nie kłóciliśmy się, inaczej już bym sobie przypomniał kto i gdzie.</text>
+</string>
+
+<string id="als_story_ar_32">
+<text>Rzeźnia na Agropromie</text>
+</string>
+<string id="als_story_ar_32_rus">
+<text>Dwa pomieszczenia zawalone trupami, a krwi nie ma. Jakby emisją nakryło. Ale emisji nie było… Same cuda i cudeńka…</text>
+</string>
+
+<string id="als_story_ar_33">
+<text>Polana</text>
+</string>
+<string id="als_story_ar_33_rus">
+<text>To jest podstawa! Jedno uspokaja - nie wygląda Kuczma na bandytę od Grabarza. Powiedział, że będzie czekać w kawiarni. Znaczy się, zrobimy tak - biorę sprzęt od Kuczmy. No i trzeba kilku chłopaków podciągnąć, żeby na Polanie konkretnie się przedstawić Duszmanowi. Przecież nie dwóch ich tam będzie. O! McClens-Zulus. Powiem, niby że, banda Grabarza siedzi niedaleko. Myślę, że Zulus wpisze się w temat.</text>
+</string>
+
+<string id="als_story_ar_34">
+<text>Złudne ATP</text>
+</string>
+<string id="als_story_ar_34_rus">
+<text>Oto jakie wrota otwierają klucze. Te, które miał Johnny, zwyczajnie i prymitywnie aktywowały ukryty teleport między lokacjami. A te… Te otwierają drzwi w przestrzeń między światami.</text>
+</string>
+
+<string id="als_story_ar_35">
+<text>Brama fabryczna</text>
+</string>
+<string id="als_story_ar_35_rus">
+<text>Na pierwszy rzut oka bramy tak po prostu się nie otworzy. Gdyby tak skombinować u wojaków BTRa… A poszperać na terenie fabryki, myślę, że warto.</text>
+</string>
+
+<string id="als_story_ar_36">
+<text>Nestor i Martwe Miasto</text>
+</string>
+<string id="als_story_ar_36_rus">
+<text>Martwe Miasto. Dokładnie! Tam - żółty gaz, wyrodki i rzeźba. Ale nie pamiętam tam dzieci. Czy naprawdę tych dwoje jest złych? Zdecydowanie - tak.</text>
+</string>
+
+<string id="als_story_ar_37">
+<text>Teuton i Bajda</text>
+</string>
+<string id="als_story_ar_37_rus">
+<text>Daję głowę - wiąże się to wszystko jakoś z «warlockiem», kopaczami, grupą Wodnego Szczura i laboratorium X-18. Czuję to w kościach.</text>
+</string>
+
+<string id="als_story_ar_38">
+<text>Martwy naukowiec</text>
+</string>
+<string id="als_story_ar_38_rus">
+<text>Wpadł nieborak do szybu windy. Albo ktoś pomógł mu wpaść.</text>
+</string>
+
+<string id="als_story_ar_39">
+<text>Szpital</text>
+</string>
+<string id="als_story_ar_39_rus">
+<text>Czarni rajderzy. Che-che. Myślę, że to GRC i najemnicy z Doliny Mroku. U jednych i drugich reputacja poniżej podłogi. Więc sobie ją zresetowali.</text>
+</string>
+
+<string id="als_story_ar_40">
+<text>Ojciec Siergiej</text>
+</string>
+<string id="als_story_ar_40_rus">
+<text>W Martwym Mieście jest Berendej. To wynika ze słów ojca Siergieja. To o kominie - już niezupełnie. Ale - nam tam, na CEA.</text>
+</string>
+
+<string id="als_story_ar_41">
+<text>Striełok</text>
+</string>
+<string id="als_story_ar_41_rus">
+<text>Teraz rozumiem po co maska i zmieniony głos - Striełoka każdy pies w Zonie zna.</text>
+</string>
+
+<string id="als_story_ar_42">
+<text>Desant w Martwym Mieście</text>
+</string>
+<string id="als_story_ar_42_rus">
+<text>Desantowcy nieznanym sposobem znaleźli się tu, w Martwym Mieście. Po co, dlaczego, komu to potrzebne - nie wiadomo. Ale w każdym razie, to doświadczeni żołnierze, nie pierwszy dzień w Zonie. I jeżeli pójdą ze mną dalej to tym lepiej dla mnie: cztery dodatkowe lufy na pewno nie zaszkodzą.</text>
+</string>
+
+<string id="als_story_ar_43">
+<text>Zwrot</text>
+</string>
+<string id="als_story_ar_43_rus">
+<text>I co się okazuje? Losza zginął. Wyłączywszy Barierę, pomogliśmy Zmieniającemu Oblicza zbiec, wcześniej Żwawy i Nestor pomogli mu wysłać sygnał alarmowy w kosmos i jacyś nieznani nieboracy ewakuowali go z Ziemi. I niedługo ci nieboracy bedą mieć poważne problemy. Albo już mają. A jeśli Zmieniający Oblicza wróci już na swoim statku, a może i z szajką takich samych międzygalaktycznych bandytów, to gdzie zdecyduje się wysiąść? Ha? Lepiej już uciekać, czy jeszcze trochę pochodzić po Zonie?</text>
+</string>
+
+<string id="als_story_ar_43_1">
+<text>Zwrot</text>
+</string>
+<string id="als_story_ar_43_1_rus">
+<text>I co się okazuje? Losza zginął. Bariera wyłączona. Striełok, prawdopodobnie zdążył włączyć swój "zszywacz". Co mam teraz zrobić? Lepiej uciekać, albo jeszcze trochę pochodzić po Zonie? Chociaż, zawsze zdążę - paszport mam "w kieszeni".</text>
+</string>
+
+
+<string id="als_story_ar_44">
+<text>Rzeźnia na Agropromie</text>
+</string>
+<string id="als_story_ar_44_rus">
+<text>Po cholerę brałem tego pendrive… Dwa pomieszczenia zawalone trupami wojskowych stalkerów a krwi nie ma. Jakby emisja ich dopadła. Ale emisji nie było… Same cuda i cudeńka…</text>
+</string>
+
+
+<!-- <string id="als_story_ar_">
+	<text></text>
+</string>
+<string id="als_story_ar__rus">
+	<text></text>
+</string> -->
+
+<string id="has_knew_sor_monkeyhouse_code">
+	<text>Kod do drzwi aresztu</text>
+</string>
+<string id="has_knew_sor_monkeyhouse_code_rus">
+	<text>6911</text>
+</string>
+
+<string id="has_val_shocker_safe_code">
+	<text>Kod do zamka sejfu Szokera</text>
+</string>
+<string id="has_val_shocker_safe_code_rus">
+	<text>2419</text>
+</string>
+
+<string id="has_val_turrets_control_access">
+	<text>Kod deaktywacji działek</text>
+</string>
+<string id="has_val_turrets_control_access_rus">
+	<text>6740</text>
+</string>
+
+<string id="has_learned_pulevich_safe_code">
+	<text>Kod do zamka sejfu GRC w miasteczku wojskowym</text>
+</string>
+<string id="has_learned_pulevich_safe_code_rus">
+	<text>61522</text>
+</string>
+
+<string id="has_lim_access_code">
+	<text>Kod dostępu do pomieszczenia kontrolnego działek</text>
+</string>
+<string id="has_lim_access_code_rus">
+	<text>040766</text>
+</string>
+
+<string id="had_find_out_code_31777">
+	<text>Kod zamka drzwi wyjścia awaryjnego ?-18</text>
+</string>
+<string id="had_find_out_code_31777_rus">
+	<text>31777</text>
+</string>
+
+<!-- <string id="als_story_ar_">
+	<text>_</text>
+</string>
+<string id="als_story_ar__rus">
+	<text>_</text>
+</string> -->
+
+
+
+
+<string id="als_help_rus_1">
+	<text>Znaleźć najemnika o przezwisku Johnny i go zabić.</text>
+</string>
+
+<string id="als_help_rus_2">
+	<text>Według Dedmana, terytorium Wysypiska znajduje się pod kontrolą bandy niejakiego Szamraja. Sam Szamraj może znajdować się w jednym ze wskazanych przez Dedmana miejsc - w hangarze, na posterunku, na cmentarzysku pojazdów.</text>
+</string>
+
+<string id="als_help_rus_3">
+	<text>Poczekać na wyjście Szamraja z teleportu i porozmawiać z nim.</text>
+</string>
+
+<string id="als_help_rus_4">
+	<text>Ostrożnie zbadać terytorium Kordonu.</text>
+</string>
+
+<string id="als_help_rus_5">
+	<text>Gdzieś tu jest wejście w teleport Wysypisko-Kordon. Trzeba je znaleźć i zdążyć z niego skorzystać, zanim Wysypisko pokryje Ciemność.</text>
+</string>
+
+<string id="als_help_rus_6">
+	<text>Nie można wejść do Osadnika tak po prostu. Trzeba znaleźć kapitana Krasnowa i wziąć od niego przepustkę. Przy Perymetrze należy zachować ostrożność - snajperzy strzelają bez ostrzeżenia.</text>
+</string>
+
+<string id="als_help_rus_7">
+	<text>Po wschodniej stronie Perymetru jest niezabezpieczony wyłom, przez który można niepostrzeżenie przedostać się na drugą stronę Perymetru.</text>
+</string>
+
+<string id="als_help_rus_8">
+	<text>Na chronionym terytorium Kordonu dosłownie roi się od GRC, więc aby przejść do tunelu prowadzącego na Sortownię, należy zachować szczególną ostrożność.</text>
+</string>
+
+<string id="als_help_rus_9">
+	<text>Znajdź Gałasza i przekaż mu pozdrowienia od Szamraja. Gałasz powinien być gdzieś przy bunkrze handlarza na Sortowni.</text>
+</string>
+
+<string id="als_help_rus_10">
+	<text>Prymus proponuje by zmusić stalkerów do podzielenia się towarem. Można się zgodzić, można i nie.</text>
+</string>
+
+<string id="als_help_rus_11">
+	<text>Posłać Szamrajowi sygnał o gotowości za pomocą radioskanera.</text>
+</string>
+
+<string id="als_help_rus_12">
+	<text>Sam z dwoma ugrupowaniami na Bagnach sobie nie poradzisz. Trzeba zebrać do tego drużynę. Tutaj, na Sortowni.</text>
+</string>
+
+<string id="als_help_rus_13">
+	<text>Znaleźć na Bagnach lidera bandyckiej grupy o przezwisku «Uzbek» i porozmawiać z nim.</text>
+</string>
+
+<string id="als_help_rus_14">
+	<text>Znaleźć na Bagnach lidera bandyckiej grupy o przezwisku «Uzbek» i porozmawiać z nim.</text>
+</string>
+
+<string id="als_help_rus_15">
+	<text>Sidor dał namiar na schowek z bronią. Znaleźć i zabrać wszystko ze schowka.</text>
+</string>
+
+<string id="als_help_rus_16">
+	<text>Jaskinia wcześniej była bazą grupy Bormana na Sortowni. W schowku grupy mogło zostać coś cennego.</text>
+</string>
+
+<string id="als_help_rus_17">
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieństwem. Powinni zostać zlikwidowani. Do łączności z Płozą i Czołgistą wykorzystać radioskaner.</text>
+</string>
+
+<string id="als_help_rus_18">
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieństwem. Powinni zostać zlikwidowani. Do łączności z Płozą i Czołgistą wykorzystać radioskaner.</text>
+</string>
+
+<string id="als_help_rus_19">
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieństwem. Powinni zostać zlikwidowani. Do łączności z Płozą wykorzystać radioskaner.</text>
+</string>
+
+<string id="als_help_rus_20">
+	<text>Dogadać się ze Szczurem w temacie sprzedaży noży najemnika o przezwisku «Johnny».</text>
+</string>
+
+<string id="als_help_rus_21">
+	<text>Z takich noży korzystał tylko Johnny. Dowiedzieć się od Płozy - skąd one się tu wzięły.</text>
+</string>
+
+<string id="als_help_rus_22">
+	<text>Gałasz czeka na swoich zwiadowców i rezygnuje z udziału w operacji do ich powrotu.</text>
+</string>
+
+<string id="als_help_rus_23">
+	<text>Grupa Grabarza została zlikwidowana, ale samemu Grabarzowi udało się uciec. W schowku może być przedmiot, który podpowie gdzie szukać Grabarza.</text>
+</string>
+
+<string id="als_help_rus_24">
+	<text>Dokładnie sprawdzić miejsce zdarzenia, zwracając uwagę dosłownie na wszystko.</text>
+</string>
+
+<string id="als_help_rus_25">
+	<text>Prawdopodobnie, tuż obok, można znaleźć detektor, lepszy, niż dał Płoza.</text>
+</string>
+
+<string id="als_help_rus_26">
+	<text>Dowiedzieć się, czego chce Dedman.</text>
+</string>
+
+<string id="als_help_rus_27">
+	<text>Dotrzeć do bazy Wodnego Szczura i porozmawiać z Płozą.</text>
+</string>
+
+<string id="als_help_rus_28">
+	<text>Dedman mógł widzieć kto wystrzelał grupę Wodnego Szczura. A może, to był sam Dedman.</text>
+</string>
+
+<string id="als_help_rus_29">
+	<text>Znaleźć strącony helikopter i zabrać z niego ikony, jeżeli ocalały.</text>
+</string>
+
+<string id="als_help_rus_30">
+	<text>Znaleźć strącony helikopter i zabrać z niego ikony, jeżeli ocalały.</text>
+</string>
+
+<string id="als_help_rus_31">
+	<text>Znaleźć strącony helikopter i zabrać z niego ikony, jeżeli ocalały.</text>
+</string>
+
+<string id="als_help_rus_32">
+	<text>Oddać ikony mnichom.</text>
+</string>
+
+<string id="als_help_rus_33">
+	<text>Sprzedać ikony w bazie Wolności.</text>
+</string>
+
+<string id="als_help_rus_34">
+	<text>Dedman czeka w starym bunkrze Sidorowicza na Kordonie.</text>
+</string>
+
+<string id="als_help_rus_35">
+	<text>Znaleźć grupę będzie łatwiej, jeżeli zwrócisz się po wskazówki do «wszechwiedzącego» Ochrypłego.</text>
+</string>
+
+<string id="als_help_rus_36">
+	<text>«Torbiele» - wytwory wiecznej Ciemności, prawdopodobnie, światło zmusi je do odstąpienia.</text>
+</string>
+
+<string id="als_help_rus_37">
+	<text>«Torbiele» - wytwory wiecznej Ciemności, prawdopodobnie, światło zmusi je do odstąpienia.</text>
+</string>
+
+<string id="als_help_rus_38">
+	<text>Znaleźć w miasteczku wojskowym przedstawiciela korporacji GRC i otrzymać od niego zlecenie.</text>
+</string>
+
+<string id="als_help_rus_39">
+	<text>Pulewicz dał zlecenie na odnalezienie pięciu kontenerów, wskazał punkty na mapie, gdzie nadajniki GPS, zamontowane w kontenerach, zostały wyłączone.</text>
+</string>
+
+<string id="als_help_rus_40">
+	<text>Można wziąć z sobą półprzytomnych od nieróbstwa komandosów. A można też ich nie brać: Być może, po prostu nie ma łączności z Agropromem.</text>
+</string>
+
+<string id="als_help_rus_41">
+	<text>Znaleźć kontener w podziemiach nie tak znowu łatwo, choć jego nadajnik działa. Ale, skoro nadajnik działa - to kontener w podziemiach na pewno jest.</text>
+</string>
+
+<string id="als_help_rus_42">
+	<text>Poczekać przy lądowisku helikopterów i oddać znaleziony kontener GRC.</text>
+</string>
+
+<string id="als_help_rus_43">
+	<text>Dedman będzie czekać w tunelu na Wysypisku. Przed spotkaniem z Dedmanem trzeba oddać kontener kapitanowi Krasnowi na Perymetrze.</text>
+</string>
+
+<string id="als_help_rus_44">
+	<text>Trzeba pamiętać o korektorze i o wskaźnikach, które powinny doprowadzić prosto do kontenera.</text>
+</string>
+
+<string id="als_help_rus_45">
+	<text>Iść za Dedmaniem i go słuchać.</text>
+</string>
+
+<string id="als_help_rus_46">
+	<text>Tak jak i przy pierwszym kontenerze, nadajnik tego kontenera też może działać.</text>
+</string>
+
+<string id="als_help_rus_47">
+	<text>Synoptyk - tajemnicza i legendarna osobistość. Rozmowa z nim z pewnością będzie ciekawa.</text>
+</string>
+
+<string id="als_help_rus_48">
+	<text>Synoptykowi z jakiegoś powodu potrzebny jest «Necronomicon». Trzeba znaleźć Kuczmę i pogadać o cenie.</text>
+</string>
+
+<string id="als_help_rus_49">
+	<text>Przestraszeni najemnicy urządzili pułapkę. Możliwe, że nie ma się co gorączkować, a najpierw ich znaleźć i porozmawiać.</text>
+</string>
+
+<string id="als_help_rus_50">
+	<text>Pojawiła się możliwość wejścia do tajnego bunkra służb wywiadu i kontrwywiadu ugrupowania «Powinność» i zabrać stamtąd kontener.</text>
+</string>
+
+<string id="als_help_rus_51">
+	<text>Celowo najpierw wrócić do bunkra i porozmawiać z Panzerem, a potem przedłużyć drogę.</text>
+</string>
+
+<string id="als_help_rus_52">
+	<text>Samemu nie dekodować szyfrówki. Potrzebny specjalista.</text>
+</string>
+
+<string id="als_help_rus_53">
+	<text>Jasne, że zanim nie porozmawiasz z Leo, to z Magazynów nie wyjdziesz.</text>
+</string>
+
+<string id="als_help_rus_54">
+	<text>Na bazie wojskowych stalkerów na Agropromie znaleźć dowódcę i oddać mu pendrive.</text>
+</string>
+
+<string id="als_help_rus_55">
+	<text>Schowek Berendeja najprawdopodobniej jest gdzieś przy cerkwi na Bagnach.</text>
+</string>
+
+<string id="als_help_rus_56">
+	<text>Po co Barmanowi ten dziwny nóż - nie ważne. Po prostu mu go oddać, i sprawa zakończona.</text>
+</string>
+
+<string id="als_help_rus_57">
+	<text>Wojskowi stalkerzy wiedzą jak dostać się do Limańska. Możliwe, że jeszcze ktoś zna drogę a informacja o tym będzie w którymś ze znalezionych urządzeń.</text>
+</string>
+
+<string id="als_help_rus_58">
+	<text>Najprawdopodobniej Losza jest gdzieś w centrum Zony. Trzeba znaleźć sposób na przeniknięcie za Barierę.</text>
+</string>
+
+<string id="als_help_rus_59">
+	<text>Udać się do wskazanego punktu i poczekać na sprzedawcę.</text>
+</string>
+
+<string id="als_help_rus_60">
+	<text>Po prostu zastrzelić.</text>
+</string>
+
+<string id="als_help_rus_61">
+	<text>Grabarz zaproponował uczciwy pojedynek, i wszystko powinno być honorowo.</text>
+</string>
+
+<string id="als_help_rus_62">
+	<text>Znaleźć swoje rzeczy i wrócić na Polanę ze wzmocnieniem. Z pewnością, wystarczy pomówić z McClensem.</text>
+</string>
+
+<string id="als_help_rus_63">
+	<text>Warnak da znać, jeżeli Iwancow znów pojawi się w kawiarni.</text>
+</string>
+
+<string id="als_help_rus_64">
+	<text>Zlikwidować GRC i uwolnić więźniów.</text>
+</string>
+
+<string id="als_help_rus_65">
+	<text>Major Iwancow był u Warnaka i zgodził się na spotkanie.</text>
+</string>
+
+<string id="als_help_rus_66">
+	<text>Kapitana Parszyna można znaleźć na bazie sprzętu wojskowego.</text>
+</string>
+
+<string id="als_help_rus_67">
+	<text>Iwancow twierdzi, że potrzebne okno można przebić tylko dużym kalibrem. Zwykłe SWD nie wystarczy.</text>
+</string>
+
+<string id="als_help_rus_68">
+	<text>Żwawy wymieni za karabin rzadki artefakt z X-18.</text>
+</string>
+
+<string id="als_help_rus_69">
+	<text>Śledzić najemników w Dolinie Mroku.\nZnowu najemnicy! Cóż oni takiego zamierzają i dla kogo pracują? Trzeba po cichu przedostać się na ich bazę i się rozejrzeć. A może i trochę poszperać - może znajdzie się coś interesującego. Od frontu zapewne nie przejdę, znają swój fach. Pójdę nocą, spróbuję przedostać się przez galeryjkę. Żeby tylko ognista anomalia nie zamknęła przejścia.</text>
+</string>
+
+<string id="als_help_rus_70">
+	<text>Zabierz pendrive z sejfu Szokera.</text>
+</string>
+
+<string id="als_help_rus_71">
+	<text>Gruber może wiedzieć o Nestorze więcej od Żwawego.</text>
+</string>
+
+<string id="als_help_rus_72">
+	<text>Nestor, mimo wszystko, nie mógł odejść daleko.</text>
+</string>
+
+<string id="als_help_rus_73">
+	<text>Grupa Jałty była w chałupie przy bunkrze Sidora.</text>
+</string>
+
+<string id="als_help_rus_74">
+	<text>Grupa McClensa była przy ścieżce na Polanę.</text>
+</string>
+
+<string id="als_help_rus_75">
+	<text>Grupa Jałty była w chałupie przy bunkrze Sidora. Grupa McClensa była przy ścieżce na Polanę.</text>
+</string>
+
+<string id="als_help_rus_76">
+	<text>Trzeba wypełnić daną Jałcie obietnicę pomocy z rehabilitacją.</text>
+</string>
+
+<string id="als_help_rus_77">
+	<text>Zbadać terytorium dziwnej fabryki.</text>
+</string>
+
+<string id="als_help_rus_78">
+	<text>Prawdopodobnie, ktoś będzie mógł powiedzieć coś o tych przyrządach.</text>
+</string>
+
+<string id="als_help_rus_79">
+	<text>Pieniądze są w sejfie Pulewicza w miasteczku wojskowym.</text>
+</string>
+
+<string id="als_help_rus_80">
+	<text>Lepiej porozmawiać z wszystkimi trzema: z Warnakiem, z Barmanem i Sidorem.</text>
+</string>
+
+<string id="als_help_rus_81">
+	<text>Helikopter spadł i eksplodował. Ale wypada sprawdzić czy ktoś nie przeżył.</text>
+</string>
+
+<string id="als_help_rus_82">
+	<text>Grupa Jałty będzie czekać na fermie w Dolinie Mroku. Najbliższa droga - przez tunel na Kordonie.</text>
+</string>
+
+<string id="als_help_rus_83">
+	<text>Złoty obiecał przeprowadzić tajną ścieżką do Limańska i będzie czekać w wiosce na Magazynach Wojskowych.</text>
+</string>
+
+<string id="als_help_rus_84">
+	<text>Grupa Jałty jest uwięziona na bazie samochodowej. Trzeba ich uwolnić, postępując dokładnie według planu.</text>
+</string>
+
+<string id="als_help_rus_85">
+	<text>Znana jest już dokładna lokalizacja ostatniego kontenera z marką HSM.</text>
+</string>
+
+<string id="als_help_rus_86">
+	<text>Wrócić na Wysypisko i schować ostatni kontener w schowku grupy Synoptyka.</text>
+</string>
+
+<string id="als_help_rus_87">
+	<text>Znaleźć naukowca w X-18.</text>
+</string>
+
+<string id="als_help_rus_88">
+	<text>Opowiedzieć doktorowi Łuczenko o znalezionym w X-18 ciele.</text>
+</string>
+
+<string id="als_help_rus_89">
+	<text>Obok - wszystkowiedzący Ochryoły.</text>
+</string>
+
+<string id="als_help_rus_90">
+	<text>Porozmawiać z Panzerem.</text>
+</string>
+
+<string id="als_help_rus_91">
+	<text>Dogadać się z GRC o przekazaniu Perymetru.</text>
+</string>
+
+<string id="als_help_rus_92">
+	<text>Podejdzie praktycznie każdy zwykły pięciocyfrowy kod. Na przykład 12345 lub 54321.</text>
+</string>
+
+<string id="als_help_rus_93">
+	<text>Dopóki działka nie zostaną wyłączone - Perymetr jest niedostępny.</text>
+</string>
+
+<string id="als_help_rus_94">
+	<text>Wynagrodzenie jest otrzymane niezasłużenie.  Trzeba je zwrócić. Przy okazji i pendrive.</text>
+</string>
+
+<string id="als_help_rus_95">
+	<text>Gdzieś po Zonie chodzi Reanimator z cudownym przyrządem na pasie. Gdzie go szukać - nikt nie wie.</text>
+</string>
+
+<string id="als_help_rus_96">
+	<text>Posterunek - były posterunek Powinności na Wysypisku.</text>
+</string>
+
+<string id="als_help_rus_97">
+	<text>Teuton lubi się zabawić. Może, trzeba go poszukać w barze?</text>
+</string>
+
+<string id="als_help_rus_98">
+	<text>Poza Złotym i wojskowymi stalkerami nikt inny nie zna tajnej ścieżki do Limańska. Dlatego trzeba się postarać by Złoty dotarł do ścieżki żywy.</text>
+</string>
+
+<string id="als_help_rus_99">
+	<text>Znaleźć panel sterowania działkami i go wyłączyć.</text>
+</string>
+
+<string id="als_help_rus_100">
+	<text>By rozwalić bramę do fabryki będzie potrzebny BTR. Simonow chce za wypożyczenie wozu rzadki artefakt ze schowka grupy Poszukiwaczy na Kordonie. Trzeba znaleźć ten schowek.</text>
+</string>
+
+<string id="als_help_rus_101">
+	<text>Znaleźć Złotego i porozmawiać z nim.</text>
+</string>
+
+<string id="als_help_rus_102">
+	<text>Możliwe, że pasować będzie akumulator od jakiejś broni energetycznej. Niedaleko jest sztab zwiadu Powinności. Może warto tam poszukać?</text>
+</string>
+
+<string id="als_help_rus_103">
+	<text>Samemu Szpitala nie przejdę. Trzeba wrócić i poprosić o pomoc.</text>
+</string>
+
+<string id="als_help_rus_104">
+	<text>Opowiedzieć Płozie o znalezionym trupie Teutona.</text>
+</string>
+
+<string id="als_help_rus_105">
+	<text>Przeniknąć za Barierę i znaleźć tych, którzy tam zostali.</text>
+</string>
+
+<string id="als_help_rus_106">
+	<text>Jałta czeka na rekomendacje.</text>
+</string>
+
+<string id="als_help_rus_107">
+	<text>Kutcher - albo jest naćpany, albo czegoś śmiertelnie się boi. Z czasem, prawdopodobnie, mu przejdzie.</text>
+</string>
+
+<string id="als_help_rus_108">
+	<text>Znaleźć Dedmana w Prypeci.</text>
+</string>
+
+<string id="als_help_rus_109">
+	<text>Lepiej będzie zdecydować na miejscu - zabijać, albo nie.</text>
+</string>
+<string id="als_help_rus_110">
+	<text>Znalezienie skrytki w elektrowni jądrowej w Czarnobylu za pomocą etykiety to prosta sprawa. Najważniejsze, żeby nie wchodzić w konflikt z Monolitami.</text>
+</string>
+
+<string id="als_help_rus_111">
+	<text>Znalezienie skrytki w elektrowni jądrowej w Czarnobylu przy użyciu punktu DES nie jest trudnym zadaniem. Najważniejsze, żeby nie wchodzić w konflikt z Monolitami.</text>
+</string>
+<string id="als_help_rus_200">
+	<text>Trzeba zabrać zestaw badawczy z rozbitego na Bagnie drona i przynieść go doktorowi Pirogowowi.</text>
+</string>
+
+<string id="artefacts_rus_obscure">
+		<text>Gruber opowiedział mi o nowych niezwykłych artefaktach, które powstały po połączeniu buforowych terytoriów. Artefakty leżą po całej Zonie, ale żeby je zdobyć, potrzebne będą pułapki parasolkowe. Gruber płaci 500 tys. za pełny zestaw takich artefaktów, zapakowanych w pułapki - 30 sztuk. Będzie potrzebny niezły zapas tych parasolek. Może, ktoś będzie w stanie podpowiedzieć, gdzie można znaleźć taką ilość pułapek?</text>
+	</string>
+
+<!-- <string id="als_help_rus_">
+	<text></text>
+</string> -->
+
+<!-- <string id="from_deadman">
+	<text>Dedman</text>
+</string>
+
+<string id="from_uzbashi">
+	<text>Baszar</text>
+</string>
+
+<string id="from_zlatich">
+	<text>Zlaticz</text>
+</string>
+
+<string id="from_dushman">
+	<text>Duszman</text>
+</string>
+
+<string id="radio_from_hacker">
+	<text>Genia Haker</text>
+</string>
+
+<string id="message_from_aes_tactics">
+	<text>Taktyk</text>
+</string> -->
+
+
+<!-- SOCIUM -->
+
+</string_table>
+
+
+
+
+
+<!-- <string id="">
+	<text>_</text>
+</string>
+<string id="">
+	<text>_</text>
+</string> -->
