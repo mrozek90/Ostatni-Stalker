@@ -3,11 +3,11 @@ function forbitten()
 end
 
 function from_deadman_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Umarlak: \n - %c[default]Hej koleœ. Widzê, ¿e jesteœ zainteresowany. Mnie te¿ interesuje ta sprawa. ChodŸ, porozmawiajmy.", nil, nil, 20000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Dedman: \n - %c[default]Hej koleœ. Widzê, ¿e jesteœ zainteresowany. Mnie te¿ interesuje ta sprawa. ChodŸ, porozmawiajmy.", nil, nil, 20000)
 end
 
 function from_uzbashi_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]P³oza: \n - %c[default]Grek, ktoœ zlikwidowa³ grupê Karczownika.", nil, nil, 30000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]P³oza: \n - %c[default]Grek, ktoœ zlikwidowa³ grupê Wodnego Szczura.", nil, nil, 30000)
 end
 
 function from_grek_1()
@@ -141,7 +141,7 @@ function recieved_massage_4()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grek: \n - %c[default]To by by³o na tyle. Kwestia zasad.", nil, nil, 10000)
 end
 function recieved_massage_5()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]£ajdak: \n - %c[default]Pamiêtasz jeszcze nasz¹ rozmowê o szachach? Ten, który zepsu³ przyjêcie, czeka w bunkrze na farmie w pobli¿u Sidoru. Pospiesz siê - nie bêdzie d³ugo czeka³.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Warnak: \n - %c[default]Pamiêtasz jeszcze nasz¹ rozmowê o szachach? Ten, który zepsu³ przyjêcie, czeka w bunkrze na farmie w pobli¿u Sidoru. Pospiesz siê - nie bêdzie d³ugo czeka³.", nil, nil, 10000)
 end
 function recieved_massage_6()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Grek, s³yszysz mnie? ¯o³nierze z³apali niez³ego karasia podczas próby przejœcia przez pó³nocny punkt kontrolny. Nie oci¹gaj siê, bêdzie bardzo ciekawie.", nil, nil, 10000)
@@ -153,13 +153,13 @@ function recieved_massage_8()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Czy¿: \n - %c[default]Masz szczêœcie, kozaku. A teraz spróbuj wyjœæ z laboratorium: wyjœcie jest zaminowane, miny zadzia³aj¹ gdy siê pojawisz w okolicy. ¯yczê Ci umrzeæ z g³odu, szumowino.", nil, nil, 10000)
 end
 function recieved_massage_9()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grenadier: \n - %c[default]I zapomnij od drodze tutaj.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Panzer: \n - %c[default]I zapomnij od drodze tutaj.", nil, nil, 10000)
 end
 -- function recieved_massage_10()
 	-- news_manager.send_tip(db.actor, "%c[255,200,0,0]: \n - %c[default].", nil, nil, 10000)
 -- end
 function recieved_massage_11()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Umarlak: \n - %c[default]Stary, nigdy nie dotykaj œpi¹cych zombie.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Dedman: \n - %c[default]Stary, nigdy nie dotykaj œpi¹cych zombie.", nil, nil, 10000)
 end
 function recieved_massage_12()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Duszman: \n - %c[default]IdŸ na œrodek polany i nie drygaj - jesteœ na celowniku.", nil, nil, 10000)
@@ -240,7 +240,7 @@ function recieved_massage_37()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]£adny: \n - %c[default]Jak siê masz?! Uda³o Ci siê zwi¹zaæ drania?! Krótko mówi¹c! Andryukha odpad³ po 200.! Amunicja siê koñczy! Nie mo¿emy d³u¿ej czekaæ! Wy³¹czam barierê!", nil, nil, 10000)
 end
 function recieved_massage_38()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grenadier: \n - %c[default]Widzê, ¿e dobrze siê tu bawisz. I bêdzie jeszcze fajniej. W skrócie ch³opaki, rzuæcie wszystko i szybko ruszajcie do bazy. Przewóz zg³oszony.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Panzer: \n - %c[default]Widzê, ¿e dobrze siê tu bawisz. I bêdzie jeszcze fajniej. W skrócie ch³opaki, rzuæcie wszystko i szybko ruszajcie do bazy. Przewóz zg³oszony.", nil, nil, 10000)
 end
 function recieved_massage_39()
 	news_manager.send_tip(db.actor, "%c[255,1,255,255]Strie³ok: \n - %c[default]Grek, dobra robota! Wierzy³em, ¿e mo¿esz wy³¹czyæ barierê! Uruchamiam zszywacz...", nil, nil, 10000)
