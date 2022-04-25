@@ -1242,7 +1242,7 @@
 <game_task id="glade_centre" prio="10">
 		<title>Miejsce spotkania</title>
 		<objective>
-			<text>Punkt spotkania</text>
+			<text>Miejsce spotkania</text>
 			<icon>ui_iconsTotal_dushman</icon>
 			<article>als_help_59</article>
 			<infoportion_complete>player_complete_glade_centre</infoportion_complete>

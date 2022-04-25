@@ -151,7 +151,7 @@ end
 -- упрощённый вызов новости
 function ts_tip(news_caption, msg, showtime, timeout)
 
-	local news_text = "#системная ошибка. перезагрузите ваш PDA"
+	local news_text = "#bі№d systemu. zrestartuj swуj PDA"
 	local texture = "ui\\ui_iconsTotal"
 
 	if msg then
@@ -196,9 +196,9 @@ function ts_ammo_discharge(wpn)
 --		ts_log("ts_ammo_discharge\t\t", name.." ammo_count = "..ammo_count.." ammo_type = "..ammo_type)
 		local section_ammo = ts_ammo_by_num(wpn:section(),ammo_type)
 		if section_ammo~=nil and string.find(section_ammo,"ammo") then
-			local str1 = string.format(" Боеприпас %s (%d шт.)",game.translate_string(string.gsub(section_ammo,"_","-").."_s"), ammo_count)
+			local str1 = string.format(" Amunicja %s (%d szt.)",game.translate_string(string.gsub(section_ammo,"_","-").."_s"), ammo_count)
 --			ts_log("ts_ammo_discharge\t\t",str1)
-			ts_tip("Патроны",str1)
+			ts_tip("Naboje",str1)
 			spawn_ammo_in_inv(section_ammo, ammo_count, nil)
 			wpn:unload_magazine()
 		else
