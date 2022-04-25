@@ -421,19 +421,19 @@
 
 
 <string id="als_help_rus_1">
-	<text>ZnaleŸæ najemnika o przezwisku Johnny i go zabiæ.</text>
+	<text>ZnajdŸ najemnika o przezwisku Johnny i go zabij.</text>
 </string>
 
 <string id="als_help_rus_2">
-	<text>Wed³ug Dedmana, terytorium Wysypiska znajduje siê pod kontrol¹ bandy niejakiego Szamraja. Sam Szamraj mo¿e znajdowaæ siê w jednym ze wskazanych przez Dedmana miejsc - w hangarze, na posterunku, na cmentarzysku pojazdów.</text>
+	<text>Wed³ug Dedmana, terytorium Wysypiska znajduje siê pod kontrol¹ bandy niejakiego Szamraja. Sam Szamraj mo¿e znajdowaæ siê w jednym ze wskazanych przez Dedmana miejsc - w hangarze, na posterunku lub przy cmentarzysku pojazdów.</text>
 </string>
 
 <string id="als_help_rus_3">
-	<text>Poczekaæ na wyjœcie Szamraja z teleportu i porozmawiaæ z nim.</text>
+	<text>Poczekaj na wyjœcie Szamraja z teleportu i porozmawiaj z nim.</text>
 </string>
 
 <string id="als_help_rus_4">
-	<text>Ostro¿nie zbadaæ terytorium Kordonu.</text>
+	<text>Ostro¿nie zbadaj terytorium Kordonu.</text>
 </string>
 
 <string id="als_help_rus_5">
@@ -445,7 +445,7 @@
 </string>
 
 <string id="als_help_rus_7">
-	<text>Po wschodniej stronie Perymetru jest niezabezpieczony wy³om, przez który mo¿na niepostrze¿enie przedostaæ siê na drug¹ stronê Perymetru.</text>
+	<text>Po wschodniej stronie Perymetru jest niezabezpieczony wy³om, przez który mo¿na niepostrze¿enie przedostaæ siê na drug¹ stronê Perymetru. Lepiej robiæ to noc¹...</text>
 </string>
 
 <string id="als_help_rus_8">
@@ -461,11 +461,11 @@
 </string>
 
 <string id="als_help_rus_11">
-	<text>Pos³aæ Szamrajowi sygna³ o gotowoœci za pomoc¹ radioskanera.</text>
+	<text>Poœlij Szamrajowi sygna³ o gotowoœci za pomoc¹ radioskanera.</text>
 </string>
 
 <string id="als_help_rus_12">
-	<text>Sam z dwoma ugrupowaniami na Bagnach sobie nie poradzisz. Trzeba zebraæ do tego dru¿ynê. Tutaj, na Sortowni.</text>
+	<text>Sam z dwoma ugrupowaniami na Bagnach sobie nie poradzê. Trzeba zebraæ do tego dru¿ynê. Tutaj, na Sortowni.</text>
 </string>
 
 <string id="als_help_rus_13">

@@ -175,7 +175,7 @@ local a = db.actor
         		local item = db.actor:object(i)
         			if item:section() == "wpn_knife_map" then
             				local sobj = alife():object(item:id())
-            				if sobj then 
+            				if sobj then
                 				alife():release(sobj,true)
                 			 end 
         			end
@@ -522,9 +522,9 @@ end
 
 
 function news_have(first_speaker, second_speaker)
-	news_manager.send_tip(db.actor, "%c[default]Получена новая информация.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[default]Otrzymano nowe informacje.", nil, nil, 10000)
 end
 
 function news_monahi(first_speaker, second_speaker)
-	news_manager.send_tip(db.actor, "%c[default]Все монахи погибли.", nil, nil, 15000)
+	news_manager.send_tip(db.actor, "%c[default]Wszyscy mnisi zginкli.", nil, nil, 15000)
 end

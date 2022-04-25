@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
 	<string id="id_mp_money">
 		<text>Pieni№dze</text>
@@ -242,13 +242,13 @@
 		<text>Przedmioty</text>
 	</string>
 	<string id="st_video">
-		<text>Wideo</text>
+		<text>Grafika</text>
 	</string>
 	<string id="st_audio">
-		<text>Audio</text>
+		<text>Dџwiкk</text>
 	</string>
 	<string id="st_game">
-		<text>Gra</text>
+		<text>Rozgrywka</text>
 	</string>
 	<string id="st_controll">
 		<text>Sterowanie</text>
@@ -266,7 +266,7 @@
 		<text>Nie moїna pobraж aktualizacji.</text>
 	</string>
 	<string id="ui_st_load_game_confirm">
-		<text>Wczytanie gry spowoduje utratк niezapisanych danych. Czy chciaіbyњ kontynuowaж?</text>
+		<text>Wczytanie gry spowoduje utratк niezapisanych danych. Czy chcesz kontynuowaж?</text>
 	</string>
 	<string id="ui_st_invalid_saved_game">
 		<text>Wersja zapisanej gry nie pasuje lub zapisana gra jest uszkodzona.</text>
@@ -358,7 +358,7 @@
 		<text>Widok pierwszoosobowy.</text>
 	</string>
 	<string id="kb_cam_2">
-		<text>Widok z perspektywy trzeciej osoby.</text>
+		<text>Widok z trzeciej osoby</text>
 	</string>
 	<string id="kb_cam_3">
 		<text>Widok z trzeciej osoby (freelook).</text>

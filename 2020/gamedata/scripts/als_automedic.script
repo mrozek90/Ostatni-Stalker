@@ -12,12 +12,12 @@ function automaic_check_health()
 		check_energy_drink()
 	end
 end
- 
+
 function check_medkits()
 
-local medkit_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критическое состояние здоровья. Применяю аптечку. %c[default]"
-local medkit_army_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критическое состояние здоровья. Применяю армейскую аптечку. %c[default]"
-local medkit_scientic_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критическое состояние здоровья. Применяю научную аптечку. %c[default]"
+local medkit_text = "%c[155,160,160,160]PUMA\\n%c[default]Automat:%c[255,160,160,160] Krytyczny stan zdrowia. Uїywam apteczki. %c[default]"
+local medkit_army_text = "%c[155,160,160,160]PUMA\\n%c[default]Automat:%c[255,160,160,160] Krytyczny stan zdrowia. Uїywam apteczki wojskowej. %c[default]"
+local medkit_scientic_text = "%c[155,160,160,160]PUMA\\n%c[default]Automat:%c[255,160,160,160] Krytyczny stan zdrowia. Uїywam apteczki naukowej. %c[default]"
 
 	if db.actor:object("medkit") ~= nil then
 		db.actor:eat(db.actor:object("medkit"))
@@ -37,25 +37,25 @@ local medkit_scientic_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[2
 end
 
 function check_antirad()
-local antirad_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критический уровень радиационного заражения. Применяю антирадиационный препарат. %c[default]"
-local antirad_scientic_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критический уровень радиационного заражения. Применяю научную аптечку. %c[default]"
-	
+local antirad_text = "%c[155,160,160,160]PUMA\\n%c[default]Automat:%c[255,160,160,160] Krytyczny poziom skaїenia radiacyjnego. Uїywam leku przeciw promieniowaniu. %c[default]"
+local antirad_scientic_text = "%c[155,160,160,160]PUMA\\n%c[default]Automat:%c[255,160,160,160] Krytyczny poziom skaїenia radiacyjnego. Uїywam apteczki naukowej. %c[default]"
+
 	 if	db.actor:object("antirad") ~= nil then
 		db.actor:eat(db.actor:object("antirad"))
 		xr_effects.system_message_13()
 		db.actor:give_game_news(antirad_text, "ui\\ui_iconsTotal", Frect():set(0,188,83,47), 0, 5000)
-	
+
 	elseif db.actor:object("medkit_scientic") ~= nil then
 		db.actor:eat(db.actor:object("medkit_scientic"))
 		xr_effects.system_message_14()
 		db.actor:give_game_news(antirad_scientic_text, "ui\\ui_iconsTotal",Frect():set(0,188,83,47), 0, 5000)
-	
+
 	end
 end
 
 function check_bandage()
 
-local bandage_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Опасное кровотечение. Применяю бинт. %c[default]"
+local bandage_text = "%c[155,160,160,160]PUMA\\n%c[default]Automat:%c[255,160,160,160]Niebezpieczne krwawienie. Nakіadam bandaї. %c[default]"
 
 	if db.actor:object("bandage") ~= nil then
 		db.actor:eat(db.actor:object("bandage"))
@@ -65,7 +65,7 @@ local bandage_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,1
 end
 
 function check_energy_drink()
-local energy_drink_text = "%c[155,160,160,160]ПУМА\\n%c[default]Выполняю:%c[255,160,160,160] Критический упадок сил. Применяю энергетический коктейль. %c[default]"
+local energy_drink_text = "%c[155,160,160,160]PUMA\\n%c[default]Automat:%c[255,160,160,160] Krytyczny spadek siі. Uїywam koktajlu energetycznego. %c[default]"
 
 	if db.actor:object("energy_drink") ~= nil then
 		db.actor:eat(db.actor:object("energy_drink"))
