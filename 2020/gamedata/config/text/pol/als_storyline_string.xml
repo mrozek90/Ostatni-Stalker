@@ -66,14 +66,14 @@
 </string>
 
 <string id="als_story_ar_0">
-<text>Zabiæ Johnnego!</text>
+<text>Zabij Johnnego!</text>
 </string>
 <string id="als_story_ar_0_rus">
 <text>Jak znalaz³em siê w tej jaskini? Martwy wyrodek… Gdzie mój ekwipunek? Ni cholery nie pamiêtam… Dobrze pamiêtam tylko jedno - cz³owieka, któremu ufa³em, którego uwa¿a³em za przyjaciela, który strzeli³ mi w plecy… Wróci³em… Prawdopodobnie, wróci³em z Piek³a… Wróci³em, ¿eby znaleŸæ i zabiæ zdrajcê, zabiæ Johnnego!</text>
 </string>
 
 <string id="als_story_ar_5">
-<text> Zabiæ Johnnego!</text>
+<text> Zabij Johnnego!</text>
 </string>
 <string id="als_story_ar_5_rus">
 <text>Jak znalaz³em siê w tej jaskini? Gdzie jest mój ekwipunek? Ni cholery nie pamiêtam… Dobrze pamiêtam tylko jedno - cz³owieka, któremu ufa³em, którego uwa¿a³em za przyjaciela, który strzeli³ mi w plecy… Wróci³em… Prawdopodobnie, wróci³em z Piek³a… Wróci³em, ¿eby znaleŸæ i zabiæ zdrajcê, zabiæ Johnnego!</text>
@@ -143,10 +143,10 @@
 </string>
 
 <string id="als_story_ar_15">
-<text>Baszar</text>
+<text>Uzbek</text>
 </string>
 <string id="als_story_ar_15_rus">
-<text>Nie ma co gadaæ, rozumiesz. Baszar, stary znajomy. Spotkaliœmy siê kiedyœ na po³udniu. Reputacjê Baszar mia³ wtedy wiêcej ni¿ pozytywn¹. No, zobaczymy, czy nie zardzewia³ w³óczêga.</text>
+<text>Nie ma o czym mówiæ. Uzbek - stary znajomy. Spotkaliœmy siê kiedyœ na po³udniu. Reputacjê mia³ wtedy wiêcej ni¿ pozytywn¹. No, zobaczymy czy nie zardzewia³ stary w³óczêga.</text>
 </string>
 
 <string id="als_story_ar_16">
@@ -276,7 +276,7 @@
 </string>
 
 <string id="als_story_ar_34">
-<text>Z³udne ATP</text>
+<text>Mira¿ ATP</text>
 </string>
 <string id="als_story_ar_34_rus">
 <text>Oto jakie wrota otwieraj¹ klucze. Te, które mia³ Johnny, zwyczajnie i prymitywnie aktywowa³y ukryty teleport miêdzy lokacjami. A te… Te otwieraj¹ drzwi w przestrzeñ miêdzy œwiatami.</text>
@@ -469,15 +469,15 @@
 </string>
 
 <string id="als_help_rus_13">
-	<text>ZnaleŸæ na Bagnach lidera bandyckiej grupy o przezwisku «Uzbek» i porozmawiaæ z nim.</text>
+	<text>ZnajdŸ na Bagnach lidera bandyckiej grupy o przezwisku "Baszar" i porozmawiaj z nim.</text>
 </string>
 
 <string id="als_help_rus_14">
-	<text>ZnaleŸæ na Bagnach lidera bandyckiej grupy o przezwisku «Uzbek» i porozmawiaæ z nim.</text>
+	<text>ZnajdŸ na Bagnach lidera bandyckiej grupy o przezwisku "Baszar" i porozmawiaj z nim.</text>
 </string>
 
 <string id="als_help_rus_15">
-	<text>Sidor da³ namiar na schowek z broni¹. ZnaleŸæ i zabraæ wszystko ze schowka.</text>
+	<text>Sidor da³ namiar na schowek z broni¹. ZnajdŸ i zabierz wszystko ze schowka.</text>
 </string>
 
 <string id="als_help_rus_16">
@@ -485,23 +485,23 @@
 </string>
 
 <string id="als_help_rus_17">
-	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z P³oz¹ i Czo³gist¹ wykorzystaæ radioskaner.</text>
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z Baszarem i Czo³gist¹ wykorzystaj radioskaner.</text>
 </string>
 
 <string id="als_help_rus_18">
-	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z P³oz¹ i Czo³gist¹ wykorzystaæ radioskaner.</text>
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z Baszarem i Czo³gist¹ wykorzystaj radioskaner.</text>
 </string>
 
 <string id="als_help_rus_19">
-	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z P³oz¹ wykorzystaæ radioskaner.</text>
+	<text>Grabarz i jego banda wkurzyli wszystkich swoim nieuzasadnionym okrucieñstwem. Powinni zostaæ zlikwidowani. Do ³¹cznoœci z Baszarem wykorzystaj radioskaner.</text>
 </string>
 
 <string id="als_help_rus_20">
-	<text>Dogadaæ siê ze Szczurem w temacie sprzeda¿y no¿y najemnika o przezwisku «Johnny».</text>
+	<text>Dogadaj siê ze Szczurem w temacie sprzeda¿y no¿y najemnika o przezwisku "Johnny".</text>
 </string>
 
 <string id="als_help_rus_21">
-	<text>Z takich no¿y korzysta³ tylko Johnny. Dowiedzieæ siê od P³ozy - sk¹d one siê tu wziê³y.</text>
+	<text>Z takich no¿y korzysta³ tylko Johnny. Dowiedziedz siê od Baszara - sk¹d one siê tu wziê³y.</text>
 </string>
 
 <string id="als_help_rus_22">
@@ -513,19 +513,19 @@
 </string>
 
 <string id="als_help_rus_24">
-	<text>Dok³adnie sprawdziæ miejsce zdarzenia, zwracaj¹c uwagê dos³ownie na wszystko.</text>
+	<text>Dok³adnie sprawdŸ miejsce zdarzenia, zwracaj¹c uwagê dos³ownie na wszystko.</text>
 </string>
 
 <string id="als_help_rus_25">
-	<text>Prawdopodobnie, tu¿ obok, mo¿na znaleŸæ detektor, lepszy, ni¿ da³ P³oza.</text>
+	<text>Prawdopodobnie, tu¿ obok, mo¿na znaleŸæ detektor lepszy, ni¿ ten co da³ Baszar.</text>
 </string>
 
 <string id="als_help_rus_26">
-	<text>Dowiedzieæ siê, czego chce Dedman.</text>
+	<text>Dowiedz siê, czego chce Dedman.</text>
 </string>
 
 <string id="als_help_rus_27">
-	<text>Dotrzeæ do bazy Wodnego Szczura i porozmawiaæ z P³oz¹.</text>
+	<text>Dotrzyj do bazy Wodnego Szczura i porozmawiaj z Baszarem.</text>
 </string>
 
 <string id="als_help_rus_28">
@@ -533,23 +533,23 @@
 </string>
 
 <string id="als_help_rus_29">
-	<text>ZnaleŸæ str¹cony helikopter i zabraæ z niego ikony, je¿eli ocala³y.</text>
+	<text>ZnajdŸ str¹cony helikopter i zabierz z niego ikony, je¿eli ocala³y.</text>
 </string>
 
 <string id="als_help_rus_30">
-	<text>ZnaleŸæ str¹cony helikopter i zabraæ z niego ikony, je¿eli ocala³y.</text>
+	<text>ZnajdŸ str¹cony helikopter i zabierz z niego ikony, je¿eli ocala³y.</text>
 </string>
 
 <string id="als_help_rus_31">
-	<text>ZnaleŸæ str¹cony helikopter i zabraæ z niego ikony, je¿eli ocala³y.</text>
+	<text>ZnajdŸ str¹cony helikopter i zabierz z niego ikony, je¿eli ocala³y.</text>
 </string>
 
 <string id="als_help_rus_32">
-	<text>Oddaæ ikony mnichom.</text>
+	<text>Oddaj ikony mnichom.</text>
 </string>
 
 <string id="als_help_rus_33">
-	<text>Sprzedaæ ikony w bazie Wolnoœci.</text>
+	<text>Sprzedaj ikony w bazie Wolnoœci.</text>
 </string>
 
 <string id="als_help_rus_34">
@@ -557,19 +557,19 @@
 </string>
 
 <string id="als_help_rus_35">
-	<text>ZnaleŸæ grupê bêdzie ³atwiej, je¿eli zwrócisz siê po wskazówki do «wszechwiedz¹cego» Ochryp³ego.</text>
+	<text>ZnajdŸ grupê bêdzie ³atwiej, je¿eli zwrócisz siê po wskazówki do «wszechwiedz¹cego» Ochryp³ego.</text>
 </string>
 
 <string id="als_help_rus_36">
-	<text>«Torbiele» - wytwory wiecznej Ciemnoœci, prawdopodobnie, œwiat³o zmusi je do odst¹pienia.</text>
+	<text>"Ksenoformy" - wytwory wiecznej Ciemnoœci, prawdopodobnie, œwiat³o zmusi je do odst¹pienia.</text>
 </string>
 
 <string id="als_help_rus_37">
-	<text>«Torbiele» - wytwory wiecznej Ciemnoœci, prawdopodobnie, œwiat³o zmusi je do odst¹pienia.</text>
+	<text>"Ksenoformy" - wytwory wiecznej Ciemnoœci, prawdopodobnie, œwiat³o zmusi je do odst¹pienia.</text>
 </string>
 
 <string id="als_help_rus_38">
-	<text>ZnaleŸæ w miasteczku wojskowym przedstawiciela korporacji GRC i otrzymaæ od niego zlecenie.</text>
+	<text>ZnajdŸ w miasteczku wojskowym przedstawiciela korporacji GRC i otrzymaj od niego zlecenie.</text>
 </string>
 
 <string id="als_help_rus_39">
@@ -581,11 +581,11 @@
 </string>
 
 <string id="als_help_rus_41">
-	<text>ZnaleŸæ kontener w podziemiach nie tak znowu ³atwo, choæ jego nadajnik dzia³a. Ale, skoro nadajnik dzia³a - to kontener w podziemiach na pewno jest.</text>
+	<text>ZnajdŸ kontener w podziemiach nie tak znowu ³atwo, choæ jego nadajnik dzia³a. Ale, skoro nadajnik dzia³a - to kontener  na pewno jest w podziemiach.</text>
 </string>
 
 <string id="als_help_rus_42">
-	<text>Poczekaæ przy l¹dowisku helikopterów i oddaæ znaleziony kontener GRC.</text>
+	<text>Poczekaj przy l¹dowisku helikopterów i oddaj znaleziony kontener GRC.</text>
 </string>
 
 <string id="als_help_rus_43">
@@ -597,7 +597,7 @@
 </string>
 
 <string id="als_help_rus_45">
-	<text>Iœæ za Dedmaniem i go s³uchaæ.</text>
+	<text>IdŸ za Dedmanem i go s³uchaj.</text>
 </string>
 
 <string id="als_help_rus_46">
@@ -609,7 +609,7 @@
 </string>
 
 <string id="als_help_rus_48">
-	<text>Synoptykowi z jakiegoœ powodu potrzebny jest «Necronomicon». Trzeba znaleŸæ Kuczmê i pogadaæ o cenie.</text>
+	<text>Synoptykowi z jakiegoœ powodu potrzebny jest "Necronomicon". Trzeba znaleŸæ Kuczmê i pogadaæ o cenie.</text>
 </string>
 
 <string id="als_help_rus_49">
@@ -617,23 +617,23 @@
 </string>
 
 <string id="als_help_rus_50">
-	<text>Pojawi³a siê mo¿liwoœæ wejœcia do tajnego bunkra s³u¿b wywiadu i kontrwywiadu ugrupowania «Powinnoœæ» i zabraæ stamt¹d kontener.</text>
+	<text>Pojawi³a siê mo¿liwoœæ wejœcia do tajnego bunkra s³u¿b wywiadu i kontrwywiadu ugrupowania "Powinnoœæ" i zabraæ stamt¹d kontener.</text>
 </string>
 
 <string id="als_help_rus_51">
-	<text>Celowo najpierw wróciæ do bunkra i porozmawiaæ z Panzerem, a potem przed³u¿yæ drogê.</text>
+	<text>Najpierw wróæ do bunkra i porozmawiaj z Panzerem, a potem przed³u¿ drogê.</text>
 </string>
 
 <string id="als_help_rus_52">
-	<text>Samemu nie dekodowaæ szyfrówki. Potrzebny specjalista.</text>
+	<text>Samemu nie dekoduj szyfrówki. Potrzebny specjalista.</text>
 </string>
 
 <string id="als_help_rus_53">
-	<text>Jasne, ¿e zanim nie porozmawiasz z Leo, to z Magazynów nie wyjdziesz.</text>
+	<text>Jasnym jest, ¿e zanim nie porozmawiasz z Leo, to z Magazynów nie wyjdziesz.</text>
 </string>
 
 <string id="als_help_rus_54">
-	<text>Na bazie wojskowych stalkerów na Agropromie znaleŸæ dowódcê i oddaæ mu pendrive.</text>
+	<text>Na bazie wojskowych stalkerów na Agropromie znajdŸ dowódcê i oddaj mu pendrive.</text>
 </string>
 
 <string id="als_help_rus_55">
@@ -641,7 +641,7 @@
 </string>
 
 <string id="als_help_rus_56">
-	<text>Po co Barmanowi ten dziwny nó¿ - nie wa¿ne. Po prostu mu go oddaæ, i sprawa zakoñczona.</text>
+	<text>Po co Barmanowi ten dziwny nó¿ - nie wa¿ne. Po prostu mu go oddaj i sprawa zakoñczona.</text>
 </string>
 
 <string id="als_help_rus_57">
@@ -653,19 +653,19 @@
 </string>
 
 <string id="als_help_rus_59">
-	<text>Udaæ siê do wskazanego punktu i poczekaæ na sprzedawcê.</text>
+	<text>Udaj siê do wskazanego punktu i poczekaj na sprzedawcê.</text>
 </string>
 
 <string id="als_help_rus_60">
-	<text>Po prostu zastrzeliæ.</text>
+	<text>Po prostu zastrzel.</text>
 </string>
 
 <string id="als_help_rus_61">
-	<text>Grabarz zaproponowa³ uczciwy pojedynek, i wszystko powinno byæ honorowo.</text>
+	<text>Grabarz zaproponowa³ uczciwy pojedynek i wszystko powinno byæ honorowo.</text>
 </string>
 
 <string id="als_help_rus_62">
-	<text>ZnaleŸæ swoje rzeczy i wróciæ na Polanê ze wzmocnieniem. Z pewnoœci¹, wystarczy pomówiæ z McClensem.</text>
+	<text>ZnajdŸ swoje rzeczy i wróæ na Polanê ze wzmocnieniem. Z pewnoœci¹, wystarczy pomówiæ z McClensem.</text>
 </string>
 
 <string id="als_help_rus_63">
@@ -673,7 +673,7 @@
 </string>
 
 <string id="als_help_rus_64">
-	<text>Zlikwidowaæ GRC i uwolniæ wiêŸniów.</text>
+	<text>Zlikwiduj GRC i uwolnij wiêŸniów.</text>
 </string>
 
 <string id="als_help_rus_65">
@@ -689,11 +689,11 @@
 </string>
 
 <string id="als_help_rus_68">
-	<text>¯wawy wymieni za karabin rzadki artefakt z X-18.</text>
+	<text>¯wawy wymieni karabin za rzadki artefakt z X-18.</text>
 </string>
 
 <string id="als_help_rus_69">
-	<text>Œledziæ najemników w Dolinie Mroku.\nZnowu najemnicy! Có¿ oni takiego zamierzaj¹ i dla kogo pracuj¹? Trzeba po cichu przedostaæ siê na ich bazê i siê rozejrzeæ. A mo¿e i trochê poszperaæ - mo¿e znajdzie siê coœ interesuj¹cego. Od frontu zapewne nie przejdê, znaj¹ swój fach. Pójdê noc¹, spróbujê przedostaæ siê przez galeryjkê. ¯eby tylko ognista anomalia nie zamknê³a przejœcia.</text>
+	<text>ŒledŸ najemników w Dolinie Mroku.\nZnowu najemnicy! Có¿ oni takiego zamierzaj¹ i dla kogo pracuj¹? Trzeba po cichu przedostaæ siê na ich bazê i siê rozejrzeæ. A mo¿e i trochê poszperaæ - mo¿e znajdzie siê coœ interesuj¹cego. Od frontu zapewne nie przejdê, znaj¹ swój fach. Pójdê noc¹, spróbujê przedostaæ siê przez galeryjkê. ¯eby tylko ognista anomalia nie zamknê³a przejœcia.</text>
 </string>
 
 <string id="als_help_rus_70">
@@ -701,7 +701,7 @@
 </string>
 
 <string id="als_help_rus_71">
-	<text>Gruber mo¿e wiedzieæ o Nestorze wiêcej od ¯wawego.</text>
+	<text>Gruber mo¿e wiedzieæ wiêcej o Nestorze ni¿ ¯wawy.</text>
 </string>
 
 <string id="als_help_rus_72">
@@ -725,7 +725,7 @@
 </string>
 
 <string id="als_help_rus_77">
-	<text>Zbadaæ terytorium dziwnej fabryki.</text>
+	<text>Zbadaj terytorium dziwnej fabryki.</text>
 </string>
 
 <string id="als_help_rus_78">
@@ -737,7 +737,7 @@
 </string>
 
 <string id="als_help_rus_80">
-	<text>Lepiej porozmawiaæ z wszystkimi trzema: z Warnakiem, z Barmanem i Sidorem.</text>
+	<text>Lepiej porozmawiaj ze wszystkimi trzema: z Warnakiem, z Barmanem i Sidorem.</text>
 </string>
 
 <string id="als_help_rus_81">
@@ -757,19 +757,19 @@
 </string>
 
 <string id="als_help_rus_85">
-	<text>Znana jest ju¿ dok³adna lokalizacja ostatniego kontenera z mark¹ HSM.</text>
+	<text>Znana jest ju¿ dok³adna lokalizacja ostatniego kontenera z napisem HSM.</text>
 </string>
 
 <string id="als_help_rus_86">
-	<text>Wróciæ na Wysypisko i schowaæ ostatni kontener w schowku grupy Synoptyka.</text>
+	<text>Wróæ na Wysypisko i schowaj ostatni kontener w schowku grupy Synoptyka.</text>
 </string>
 
 <string id="als_help_rus_87">
-	<text>ZnaleŸæ naukowca w X-18.</text>
+	<text>ZnajdŸ naukowca w X-18.</text>
 </string>
 
 <string id="als_help_rus_88">
-	<text>Opowiedzieæ doktorowi £uczenko o znalezionym w X-18 ciele.</text>
+	<text>Opowiedz doktorowi £uczenko o znalezionym w X-18 ciele.</text>
 </string>
 
 <string id="als_help_rus_89">
@@ -777,11 +777,11 @@
 </string>
 
 <string id="als_help_rus_90">
-	<text>Porozmawiaæ z Panzerem.</text>
+	<text>Porozmawiaj z Panzerem.</text>
 </string>
 
 <string id="als_help_rus_91">
-	<text>Dogadaæ siê z GRC o przekazaniu Perymetru.</text>
+	<text>Dogadaj siê z GRC o przekazaniu Perymetru.</text>
 </string>
 
 <string id="als_help_rus_92">
@@ -793,7 +793,7 @@
 </string>
 
 <string id="als_help_rus_94">
-	<text>Wynagrodzenie jest otrzymane niezas³u¿enie.  Trzeba je zwróciæ. Przy okazji i pendrive.</text>
+	<text>Wynagrodzenie jest otrzymane niezas³u¿enie.  Zwróæ je. Przy okazji i pendrive.</text>
 </string>
 
 <string id="als_help_rus_95">
@@ -813,7 +813,7 @@
 </string>
 
 <string id="als_help_rus_99">
-	<text>ZnaleŸæ panel sterowania dzia³kami i go wy³¹czyæ.</text>
+	<text>ZnajdŸ panel sterowania dzia³kami i go wy³¹cz.</text>
 </string>
 
 <string id="als_help_rus_100">
@@ -821,7 +821,7 @@
 </string>
 
 <string id="als_help_rus_101">
-	<text>ZnaleŸæ Z³otego i porozmawiaæ z nim.</text>
+	<text>ZnajdŸ Z³otego i porozmawiaj z nim.</text>
 </string>
 
 <string id="als_help_rus_102">
@@ -833,11 +833,11 @@
 </string>
 
 <string id="als_help_rus_104">
-	<text>Opowiedzieæ P³ozie o znalezionym trupie Teutona.</text>
+	<text>Opowiedz Baszarowi o znalezionym trupie Teutona.</text>
 </string>
 
 <string id="als_help_rus_105">
-	<text>Przenikn¹æ za Barierê i znaleŸæ tych, którzy tam zostali.</text>
+	<text>Przeniknij za Barierê i znajdŸ tych, którzy tam zostali.</text>
 </string>
 
 <string id="als_help_rus_106">
@@ -849,11 +849,11 @@
 </string>
 
 <string id="als_help_rus_108">
-	<text>ZnaleŸæ Dedmana w Prypeci.</text>
+	<text>ZnajdŸ Dedmana w Prypeci.</text>
 </string>
 
 <string id="als_help_rus_109">
-	<text>Lepiej bêdzie zdecydowaæ na miejscu - zabijaæ, albo nie.</text>
+	<text>Lepiej bêdzie zdecydowaæ na miejscu - zabiæ albo nie.</text>
 </string>
 <string id="als_help_rus_110">
 	<text>Znalezienie skrytki w elektrowni j¹drowej w Czarnobylu za pomoc¹ etykiety to prosta sprawa. Najwa¿niejsze, ¿eby nie wchodziæ w konflikt z Monolitami.</text>

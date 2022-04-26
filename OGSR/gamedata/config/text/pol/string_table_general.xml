@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
+
+	<!-- brakujące w PDA: Dziennik -->
+	<string id="found_zapiska">
+		<text>Znalezione Ogłoszenia</text>
+	</string>
+	<string id="crime_at_marsh_name">
+		<text>...na Bagnach</text>
+	</string>
+
+
+
 	<string id="actor">
 		<text>grupa Bormana</text>
 	</string>
@@ -49,7 +60,7 @@
 		<text>dobry</text>
 	</string>
 	<string id="indifferent">
-		<text>neutralna</text>
+		<text>neutralny</text>
 	</string>
 	<string id="killer">
 		<text>Najemnik</text>
@@ -169,7 +180,7 @@
 		<text>Gra skończona.</text>
 	</string>
 	<string id="st_item_used">
-		<text>Używane</text>
+		<text>Użyto</text>
 	</string>
 	<string id="st_not_enough_money">
 		<text>Brak pieniędzy</text>

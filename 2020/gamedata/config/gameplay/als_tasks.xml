@@ -269,7 +269,7 @@
 <game_task id="conversation_with_uzbek" prio="40">
 		<title>Uzbek</title>
 		<objective>
-			<text>Porozmawiaj z Uzbekiem</text>
+			<text>Porozmawiaj z Baszarem</text>
 			<icon>ui_iconsTotal_uzbek</icon>
 			<article>als_help_13</article>
 			<infoportion_complete>player_complete_conversation_with_uzbek</infoportion_complete>
@@ -281,13 +281,13 @@
 			<infoportion_complete>conversation_with_uzbek_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnajdŸ Uzbeka</text>
+			<text>ZnajdŸ Baszara</text>
 	<map_location_type hint= "uzbek_name">green_location</map_location_type>
 	<object_story_id>marsh_bandit_uzbek</object_story_id>
 			<infoportion_complete>conversation_with_uzbek_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Uzbekiem</text>
+			<text>Porozmawiaj z Baszarem</text>
 			<infoportion_complete>conversation_with_uzbek_3</infoportion_complete>
 		</objective>
 		<!--objective>
@@ -379,13 +379,13 @@
 			<infoportion_complete>fight_on_bogs1_3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Czo³gist¹</text>
+			<text>Skontaktuj siê z Czo³gist¹</text>
 	<map_location_type hint= "marsh_baza_svoboda_hint">green_location</map_location_type>
 	<object_story_id>marsh_baza_svoboda</object_story_id>
 			<infoportion_complete>fight_on_bogs1_4</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Skontaktuj siê z P³oz¹</text>
+			<text>Skontaktuj siê z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs1_5</infoportion_complete>
 		</objective>
 		<objective>
@@ -416,7 +416,7 @@
 			<infoportion_complete>fight_on_bogs2_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z P³oz¹</text>
+			<text>Spotkaj siê z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs2_3</infoportion_complete>
 		</objective>
 		<objective>
@@ -449,7 +449,7 @@
 			<infoportion_complete>fight_on_bogs3_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z P³oz¹</text>
+			<text>Porozmawiaj z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs3_3</infoportion_complete>
 		</objective>
 		<objective>
@@ -487,7 +487,7 @@
 			<infoportion_complete>player_complete_knifes_in_wall</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spytaj P³ozê o rzucanie no¿ami</text>
+			<text>Spytaj Uzbeka o rzucaniu no¿ami</text>
 			<infoportion_complete>knifes_in_wall_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -520,7 +520,7 @@
 			<infoportion_complete>player_complete_not_complete_mission</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z P³oz¹</text>
+			<text>Porozmawiaj z Uzbekem</text>
 			<infoportion_complete>not_complete_mission_1</infoportion_complete>
 		</objective>
 		<objective>
@@ -951,7 +951,7 @@
 			<infoportion_complete>container_number_two_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Skontaktuj siê z Pulewiczem</text>
+			<text>Spotkaj siê z Pulewiczem</text>
 			<infoportion_complete>container_number_two_3</infoportion_complete>
 		</objective>
 </game_task>
@@ -2152,7 +2152,7 @@
 			<infoportion_fail>im_flies_away</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Zneutralizuj Dopplera</text>
+			<text>Zneutralizuj Zmieniaj¹cego Oblicza</text>
 			<infoportion_complete>kill_iron_mask_1</infoportion_complete>
 		</objective>
 </game_task>

@@ -13,7 +13,7 @@
 		<text>Najemnik</text>
 	</string>
 	<string id="bad">
-		<text>z³a</text>
+		<text>z³y</text>
 	</string>
 	<string id="bandit">
 		<text>Bandyta</text>
@@ -46,10 +46,10 @@
 		<text>przyjaciel</text>
 	</string>
 	<string id="good">
-		<text>dobra</text>
+		<text>dobry</text>
 	</string>
 	<string id="indifferent">
-		<text>neutralna</text>
+		<text>neutralny</text>
 	</string>
 	<string id="killer">
 		<text>Najemnik</text>

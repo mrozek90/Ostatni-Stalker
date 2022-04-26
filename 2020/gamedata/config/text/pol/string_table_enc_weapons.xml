@@ -4,7 +4,7 @@
 		<text>Amunicja</text>
 	</string>
 	<string id="ammo-11.43x23-fmj">
-		<text>Naboje 0.45ACP</text>
+		<text>Naboje 0.45 ACP</text>
 	</string>
 	<string id="ammo-11.43x23-fmj_s">
 		<text>0.45ACP</text>
@@ -52,7 +52,7 @@
 		<text>5,56 AP</text>
 	</string>
 	<string id="ammo-5.56x45-ss190">
-		<text>5,56õ45 mm SS109</text>
+		<text>5,56x45 mm SS109</text>
 	</string>
 	<string id="ammo-5.56x45-ss190_s">
 		<text>5,56 SS</text>
@@ -626,7 +626,7 @@
     <text>Mauser Red 9</text>
   </string>
    <string id="enc_weapons1_wpn_mauser_red9">
-    <text>Amunicja:\n • podstawowy 9x19 mm CMO\n • ulepszony 9x19 mm PBP\n • ¨pojemnoœæ magazynka 20 nabojów\n Wiêkszoœæ Mauserów by³a projektowana pod amunicjê 7.63mm Mauser (prawie identyczna z rodzimym nabojem 7.62x25mm TT). Prócz tego, w 1916-m roku Prusy zamówi³y u Mausera 150000 pistoletów pod swój standardowy nabój 9mm Parabellum. Od zwyk³ych pistoletów te modele wyró¿nia³y siê przede wszystkim kalibrem (9mm Parabellum zamiast 7.63 Mauser). Drug¹ wa¿n¹ ró¿nic¹ by³ celownik z podzia³k¹ 50-500 metrów.Takie pistolety charakteryzowa³y siê du¿¹ cyfr¹ "9", wycinan¹ na rêkojeœci i zalan¹ czerwon¹ farb¹.</text>    
+    <text>Amunicja:\n • podstawowy 9x19 mm CMO\n • ulepszony 9x19 mm PBP\n • ¨pojemnoœæ magazynka 20 nabojów\n Wiêkszoœæ Mauserów by³a projektowana pod amunicjê 7.63mm Mauser (prawie identyczna z rodzimym nabojem 7.62x25mm TT). Prócz tego, w 1916-m roku Prusy zamówi³y u Mausera 150000 pistoletów pod swój standardowy nabój 9mm Parabellum. Od zwyk³ych pistoletów te modele wyró¿nia³y siê przede wszystkim kalibrem (9mm Parabellum zamiast 7.63 Mauser). Drug¹ wa¿n¹ ró¿nic¹ by³ celownik z podzia³k¹ 50-500 metrów.Takie pistolety charakteryzowa³y siê du¿¹ cyfr¹ "9", wycinan¹ na rêkojeœci i zalan¹ czerwon¹ farb¹.</text>
   </string>
 
    <string id="ars-rpk74">
@@ -640,35 +640,35 @@
     <text>«TT»</text>
   </string>
    <string id="enc_weapons1_wpn-tt33">
-    <text>Amunicja:\n • 7,62x25mm zwyk³y TT\n • 7,62x25mm ze stalow¹ kul¹ PS\n • ¨pojemnoœæ magazynka 8 nabojów\n O pistolecie TT w naszych czasach czêœciej mówi¹ w kronikach kryminalnych, ale ten wytwór rosyjskiego zbrojmistrza Fiodora Tokariewa nie zas³u¿y³ sobie na tak¹ s³awê. Wytwór Tokariewa otrzyma³ robocz¹ nazwê «7,62-mm samopowtarzalny pistolet wz. 1930», ale w procesie przygotowañ do masowej produkcji ten model zosta³ poddany szeregowi zmian, które uproœci³y technologiê produkcji. W rezultacie w 1934 r. w Tulskiej fabryce zbrojeniowej zak³adzie rozpoczê³a siê masowa produkcja modelu «7,62-mm pistolet TT wz. 1933», a ju¿ po kilku latach nikt go inaczej ni¿ «TT(Tulski, Tokariewa)»  nie nazywa³. Ten model by³ eksportowany do NRD, Polski, Rumunii, Bu³garii, Pó³nocnego Wietnamu, Afganistanu, a Jugos³awia, Wêgry, Chiny i Korea Pó³nocna nawet zdoby³y licencjê na produkcjê TT i amunicji do niego.</text>    
+    <text>Amunicja:\n • 7,62x25mm zwyk³y TT\n • 7,62x25mm ze stalow¹ kul¹ PS\n • ¨pojemnoœæ magazynka 8 nabojów\n O pistolecie TT w naszych czasach czêœciej mówi¹ w kronikach kryminalnych, ale ten wytwór rosyjskiego zbrojmistrza Fiodora Tokariewa nie zas³u¿y³ sobie na tak¹ s³awê. Wytwór Tokariewa otrzyma³ robocz¹ nazwê «7,62-mm samopowtarzalny pistolet wz. 1930», ale w procesie przygotowañ do masowej produkcji ten model zosta³ poddany szeregowi zmian, które uproœci³y technologiê produkcji. W rezultacie w 1934 r. w Tulskiej fabryce zbrojeniowej zak³adzie rozpoczê³a siê masowa produkcja modelu «7,62-mm pistolet TT wz. 1933», a ju¿ po kilku latach nikt go inaczej ni¿ «TT(Tulski, Tokariewa)»  nie nazywa³. Ten model by³ eksportowany do NRD, Polski, Rumunii, Bu³garii, Pó³nocnego Wietnamu, Afganistanu, a Jugos³awia, Wêgry, Chiny i Korea Pó³nocna nawet zdoby³y licencjê na produkcjê TT i amunicji do niego.</text>
   </string>
 
    <string id="ars-mp40">
     <text>«MP-40»</text>
   </string>
    <string id="enc_arsenal_mp40">
-    <text>Amunicja:\n • podstawowy 9x19 mm CMO\n • ulepszony 9x19 mm PBP\n • efektywny zasiêg 150m\n • zasiêg celowania 180m\n • szybkostrzelnoœæ 550 s/m\n • pojemnoœæ magazynka 32 naboje\n Dodatki:\n • Celownik optyczny ---\n • T³umik ---\n • Granatnik podlufowy ---\n Pistolety maszynowe MP-38 i MP-40, czêsto mylnie zwane Schmeisserami, zosta³y opracowane przez niemieckiego konstruktora Heinricha Vollmera w firmie Erma-Werke GmbH, i wesz³y na uzbrojenie Wehrmachtu w 1938 roku. Pierwotnie by³y przeznaczone na uzbrojenie komandosów i za³óg pojazdów bojowych, ale póŸniej wesz³y na uzbrojenie pieszych oddzia³ów Wehrmachtu i SS. W sumie wyprodukowano oko³o 1.2 miliona sztuk MP-38 i MP-40. MP-40 to modyfikacja MP-38, w której frezowan¹ komorê zamkow¹ zast¹piono wyt³aczan¹.</text>    
+    <text>Amunicja:\n • podstawowy 9x19 mm CMO\n • ulepszony 9x19 mm PBP\n • efektywny zasiêg 150m\n • zasiêg celowania 180m\n • szybkostrzelnoœæ 550 s/m\n • pojemnoœæ magazynka 32 naboje\n Dodatki:\n • Celownik optyczny ---\n • T³umik ---\n • Granatnik podlufowy ---\n Pistolety maszynowe MP-38 i MP-40, czêsto mylnie zwane Schmeisserami, zosta³y opracowane przez niemieckiego konstruktora Heinricha Vollmera w firmie Erma-Werke GmbH, i wesz³y na uzbrojenie Wehrmachtu w 1938 roku. Pierwotnie by³y przeznaczone na uzbrojenie komandosów i za³óg pojazdów bojowych, ale póŸniej wesz³y na uzbrojenie pieszych oddzia³ów Wehrmachtu i SS. W sumie wyprodukowano oko³o 1.2 miliona sztuk MP-38 i MP-40. MP-40 to modyfikacja MP-38, w której frezowan¹ komorê zamkow¹ zast¹piono wyt³aczan¹.</text>
   </string>
 
    <string id="wpn-ppsh41">
     <text>«PPSZ-41»</text>
   </string>
    <string id="enc_weapons1_wpn-ppsh41">
-    <text>Amunicja:\n • 7,62x25mm zwyk³y TT\n • 7,62x25mm ze stalow¹ kul¹ PS\n • efektywny zasiêg 200m\n • zasiêg celowania 280m\n • szybkostrzelnoœæ 900 s/m\n • pojemnoœæ magazynka 71 nabojów\n Dodatki:\n • Celownik optyczny ---\n • T³umik ---\n • Granatnik podlufowy ---\n Pistolet maszynowy Szpagina model z 1941 roku (PPSZ-41) pod amunicjê 7,62x25 mm. Prosty i pewny, a przy tym posiada ca³kiem niez³e charakterystyki.</text>    
+    <text>Amunicja:\n • 7,62x25mm zwyk³y TT\n • 7,62x25mm ze stalow¹ kul¹ PS\n • efektywny zasiêg 200m\n • zasiêg celowania 280m\n • szybkostrzelnoœæ 900 s/m\n • pojemnoœæ magazynka 71 nabojów\n Dodatki:\n • Celownik optyczny ---\n • T³umik ---\n • Granatnik podlufowy ---\n Pistolet maszynowy Szpagina model z 1941 roku (PPSZ-41) pod amunicjê 7,62x25 mm. Prosty i pewny, a przy tym posiada ca³kiem niez³e charakterystyki.</text>
   </string>
 
    <string id="ars-stg44">
     <text>«Sturmgewehr-44»</text>
   </string>
    <string id="arsenal_mod-stg44">
-    <text>Amunicja:\n • 7.92x33mm\n • efektywny zasiêg 400m\n • zasiêg celowania 600m\n • szybkostrzelnoœæ 500 s/m\n • pojemnoœæ magazynka 30 nabojów\n Dodatki:\n • Celownik optyczny ---\n • T³umik ---\n • Granatnik podlufowy ---\n Sturmgewehr-44 – niemiecki karabin szturmowy model z 1943/44 r. Karabinek dzia³a na zasadzie odprowadzenia gazów przez boczny otwór w œciance lufy. Komora gazowa typu zamkniêtego ma sta³¹ objêtoœæ. Ryglowanie przewodu lufy nastêpuje przez wychylenie zamka w p³aszczyŸnie pionowej podczas ryglowania (przekoszenie). Ryglowania i odryglowania dokonuje siê za pomoc¹ wspó³pracuj¹cych ze sob¹ odpowiednio pochy³ych p³aszczyzn na zamku i suwadle.</text>    
+    <text>Amunicja:\n • 7.92x33mm\n • efektywny zasiêg 400m\n • zasiêg celowania 600m\n • szybkostrzelnoœæ 500 s/m\n • pojemnoœæ magazynka 30 nabojów\n Dodatki:\n • Celownik optyczny ---\n • T³umik ---\n • Granatnik podlufowy ---\n Sturmgewehr-44 – niemiecki karabin szturmowy model z 1943/44 r. Karabinek dzia³a na zasadzie odprowadzenia gazów przez boczny otwór w œciance lufy. Komora gazowa typu zamkniêtego ma sta³¹ objêtoœæ. Ryglowanie przewodu lufy nastêpuje przez wychylenie zamka w p³aszczyŸnie pionowej podczas ryglowania (przekoszenie). Ryglowania i odryglowania dokonuje siê za pomoc¹ wspó³pracuj¹cych ze sob¹ odpowiednio pochy³ych p³aszczyzn na zamku i suwadle.</text>
   </string>
 
    <string id="ars-vepr">
     <text>Wiepr-12 «M³ot»</text>
   </string>
    <string id="enc_arsenal_vepr">
-    <text>Amunicja:\n • 12x70 œrut\n • 12x76 czekan\n • 12x76 strza³ka\n • pojemnoœæ magazynka 8 nabojów\nDodatki:\n • Zintegrowany celownik kolimatorowy\n • T³umik ---\n • Granatnik podlufowy ---\n Wiepr-12 «M³ot» – wielostrza³owy, g³adkolufowy, samopowtarzalny karabinek, przeznaczony do polowania, zawodów sportowych, samoobrony, a tak¿e wykorzystywany w charakterze broni s³u¿bowej. G³adkolufowe strzelby Wiepr-12 odziedziczy³y ogóln¹ budowê i uk³ad automatu (rêcznego karabinu maszynowego) Ka³asznikowa, z mechanizmem odprowadzania gazów prochowych i zamkiem ryglowanym przez obrót. Naturalnie, komora zamkowa i slufa zosta³y przekonstruowane z zamiarem wykorzystania amunicji myœliwskiej. Dla podniesienia odpornoœci na korozjê wiêkszoœæ elementów jest chromowanych.</text>    
+    <text>Amunicja:\n • 12x70 œrut\n • 12x76 czekan\n • 12x76 strza³ka\n • pojemnoœæ magazynka 8 nabojów\nDodatki:\n • Zintegrowany celownik kolimatorowy\n • T³umik ---\n • Granatnik podlufowy ---\n Wiepr-12 «M³ot» – wielostrza³owy, g³adkolufowy, samopowtarzalny karabinek, przeznaczony do polowania, zawodów sportowych, samoobrony, a tak¿e wykorzystywany w charakterze broni s³u¿bowej. G³adkolufowe strzelby Wiepr-12 odziedziczy³y ogóln¹ budowê i uk³ad automatu (rêcznego karabinu maszynowego) Ka³asznikowa, z mechanizmem odprowadzania gazów prochowych i zamkiem ryglowanym przez obrót. Naturalnie, komora zamkowa i slufa zosta³y przekonstruowane z zamiarem wykorzystania amunicji myœliwskiej. Dla podniesienia odpornoœci na korozjê wiêkszoœæ elementów jest chromowanych.</text>
   </string>
 
    <string id="wpn-winchester_m1">
