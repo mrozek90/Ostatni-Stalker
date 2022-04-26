@@ -367,6 +367,12 @@
 			<infoportion_complete>fight_on_bogs1_1</infoportion_complete>
 		</objective>
 		<objective>
+			<text>Spotkaj siê z Czo³gist¹</text>
+	<map_location_type hint= "marsh_baza_svoboda_hint">green_location</map_location_type>
+	<object_story_id>marsh_baza_svoboda</object_story_id>
+			<infoportion_complete>fight_on_bogs1_4</infoportion_complete>
+		</objective>
+		<objective>
 			<text>Spotkaj siê ze Szamrajem</text>
 	<map_location_type hint= "shamray_name">green_location</map_location_type>
 	<object_story_id>marsh_shamray_1</object_story_id>
@@ -380,10 +386,9 @@
 		</objective>
 		<objective>
 			<text>Skontaktuj siê z Czo³gist¹</text>
-	<map_location_type hint= "marsh_baza_svoboda_hint">green_location</map_location_type>
-	<object_story_id>marsh_baza_svoboda</object_story_id>
-			<infoportion_complete>fight_on_bogs1_4</infoportion_complete>
+			<infoportion_complete>fight_on_bogs1_1</infoportion_complete>
 		</objective>
+		
 		<objective>
 			<text>Skontaktuj siê z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs1_5</infoportion_complete>
@@ -406,7 +411,7 @@
 			<infoportion_complete>player_complete_fight_on_bogs2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Czo³gist¹</text>
+			<text>Skontaktuj siê z Czo³gist¹</text>
 			<infoportion_complete>fight_on_bogs2_1</infoportion_complete>
 		</objective>
 		<objective>
@@ -416,7 +421,7 @@
 			<infoportion_complete>fight_on_bogs2_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Uzbekem</text>
+			<text>Skontaktuj siê z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs2_3</infoportion_complete>
 		</objective>
 		<objective>
@@ -437,19 +442,19 @@
 			<infoportion_complete>player_complete_fight_on_bogs3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Szamrajem</text>
+			<text>Spotkaj siê z Szamrajem</text>
 	<map_location_type hint= "shamray_name">green_location</map_location_type>
 	<object_story_id>marsh_shamray_1</object_story_id>
 			<infoportion_complete>fight_on_bogs3_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Ga³asz¹</text>
+			<text>Spotkaj siê z Ga³asz¹</text>
 	<map_location_type hint= "galash_name">green_location</map_location_type>
 	<object_story_id>marsh_galash_1</object_story_id>
 			<infoportion_complete>fight_on_bogs3_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Uzbekem</text>
+			<text>Spotkaj siê z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs3_3</infoportion_complete>
 		</objective>
 		<objective>

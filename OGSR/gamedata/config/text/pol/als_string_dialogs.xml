@@ -1682,7 +1682,7 @@
         <text>A nic. Przeczeka³em, potem poszed³em dalej. Mówiê przecie¿ - myœla³em, ¿e od bitumu mam zwidy. A byæ mo¿e i szczêœcie. Jak uwa¿asz?</text>
     </string>
 	<string id="marsh_deadman_dialog_1_13">
-        <text>Zgadnij. A Ty, przypadkiem, tego trzeciego nie znasz?</text>
+        <text>Zgadujê ¿e Ty, przypadkiem, tego trzeciego nie znasz?</text>
     </string>
 	<string id="marsh_deadman_dialog_1_14">
         <text>Nie. Ch³opca nie widzia³eœ gdzieœ w pobli¿u?</text>
@@ -1709,7 +1709,7 @@
         <text>Na cholerê mi to wszystko opowiadasz?</text>
     </string>
 	<string id="marsh_deadman_dialog_1_22">
-        <text>Sam spyta³eœ. A odnoœnie ch³opca: szed³em niedawno z bazy i natkn¹³em siê na stado dzików. Tak cicho siê podkrad³y, œwinie, ¿e uciekaæ ju¿ by³o za póŸno, a i nie by³o gdzie. Stojê jak s³up soli. A dziki... uwa¿aj... obok przesz³y. I ten ch³opiec na czele.</text>
+        <text>Sam spyta³eœ. A odnoœnie ch³opca: szed³em niedawno z bazy i natkn¹³em siê na stado dzików. Tak cicho siê podkrad³y œwinie, ¿e uciekaæ ju¿ by³o za póŸno, a i nie by³o gdzie. Stojê jak s³up soli. A dziki... uwa¿aj... obok przesz³y. I ten ch³opiec na ich czele.</text>
     </string>
 	<string id="marsh_deadman_dialog_1_23">
         <text>I co potem?</text>
@@ -1721,16 +1721,16 @@
         <text>Dziwny jakiœ ten ch³opiec. Jednak¿e, po co Ty mnie wzywa³eœ, Dedman? O haszu z opium opowiedzieæ? Co by³o w schowku prócz karabinu maszynowego?</text>
     </string>
 	<string id="marsh_deadman_dialog_1_26">
-        <text>Griszê Budu³aja znasz? W schowku by³ «Warlock-666».</text>
+        <text>Griszê Budu³aja znasz? W schowku by³ "Warlock-666".</text>
     </string>
 	<string id="marsh_deadman_dialog_1_27">
-        <text>Nonsens. Griszka w malignie o «Warlocku» bredzi³.</text>
+        <text>Nonsens. Griszka w malignie o "Warlocku" bredzi³.</text>
     </string>
 	<string id="marsh_deadman_dialog_1_28">
         <text>Grek, ca³kiem powa¿nie. Jakiœ dupek chodzi teraz po Zonie i ma "Warlocka".</text>
     </string>
 	<string id="marsh_deadman_dialog_1_29">
-        <text>Jak «Warlock» dosta³ siê do Twojego schowka?</text>
+        <text>Jak "Warlock" dosta³ siê do Twojego schowka?</text>
     </string>
 	<string id="marsh_deadman_dialog_1_30">
         <text>Grisza robi³ go na nasze zlecenie. Synoptyka znasz?</text>
@@ -1999,7 +1999,7 @@
         <text>Sk¹d wzi¹³eœ te statuetki?</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_1_1">
-        <text>Pamiêæ o przyjacielu. Zainteresowany?</text>
+        <text>Pami¹tka po przyjacielu. Zainteresowany?</text>
     </string>
 	<string id="marsh_svoboda_gruver_dialog_1_2">
         <text>Sam nie wiem. Gdzieœ je ju¿ kiedyœ widzia³em. Albo nie te a podobne.</text>
