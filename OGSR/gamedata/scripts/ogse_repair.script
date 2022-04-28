@@ -22,7 +22,7 @@ local item_table_index = 0
 function open_repair_dialog()
 
 	local spwn = repair_dialog(get_hud())
-	level.start_stop_menu(spwn,true)	
+	level.start_stop_menu(spwn,true)
 
 end
 
@@ -34,12 +34,12 @@ function select_repair_items:__init() super()
 -- -- amk.logf("Начинаем инициализацию поля списка предметов")
 	self.item_name		= "itemname"
 	self:SetWndRect		(0,0,320,22)
-	
+
 	local ca = 255
 	local cr = 216
 	local cg = 186
 	local cb = 140
-	
+
 	self.itmnum				= CUIStatic	()
 	self.itmnum:SetAutoDelete	(true)
 	self:AttachChild		(self.itmnum)
@@ -87,7 +87,7 @@ function repair_dialog:InitControls()
 	-- файл-описатель наших элементов
 	local xml = CScriptXmlInit()
 	local ctrl = false
-	
+
 	xml:ParseFile("ui_repair.xml")
 	-- видео на заднем плане
 	xml:InitStatic("back_video", self)
@@ -107,24 +107,24 @@ function repair_dialog:InitControls()
 
 	-- кнопки
 	self:Register(xml:Init3tButton("window_name", self),"window_name")
-	
-	
+
+
 	self:Register(xml:Init3tButton("caption1", self),"caption1")
 	self:Register(xml:Init3tButton("caption2", self),"caption2")
 	self:Register(xml:Init3tButton("caption4", self),"caption4")
-	
+
 	self:Register(xml:Init3tButton("caption5", self),"caption4")
 	self:Register(xml:Init3tButton("caption6", self),"caption4")
-	self:Register(xml:Init3tButton("caption7", self),"caption4")		
+	self:Register(xml:Init3tButton("caption7", self),"caption4")
 
-	
+
 	self.btn_4 = xml:Init3tButton("btn_4", self)
 	self:Register(self.btn_4, "btn_4")
-	self.btn_4:Enable(false)	
-	
+	self.btn_4:Enable(false)
+
 	self.btn_5 = xml:Init3tButton("btn_5", self)
 	self:Register(self.btn_5, "btn_5")
-	self.btn_5:Enable(false)	
+	self.btn_5:Enable(false)
 	-- кнопка выхода
 	self:Register(xml:Init3tButton("btn_quit", self),"btn_quit")
 
@@ -141,11 +141,11 @@ function repair_dialog:InitCallBacks()
 -- -- amk.logf("Инициализируем коллбэки")
 	-- тут интерактивные элементы, при определенном действии выполняется заданная ф-ия
 	self:AddCallback("btn_4", ui_events.BUTTON_CLICKED, self.rep_btn, self)
-	
+
 	self:AddCallback("btn_5", ui_events.BUTTON_CLICKED, self.rep_btn_full, self)
-	
+
 	self:AddCallback("btn_quit", ui_events.BUTTON_CLICKED, self.on_quit, self)
-	
+
 	self:AddCallback("list_window", ui_events.LIST_ITEM_CLICKED, 			  self.OnListItemClicked,		self)
 	self:AddCallback("list_window", ui_events.WINDOW_LBUTTON_DB_CLICK,		  self.OnListItemDbClicked,		self)
 
@@ -166,25 +166,25 @@ function repair_dialog:FillList()
 	local item_in_slot_1 = db.actor:item_in_slot(1)
 	local item_in_slot_2 = db.actor:item_in_slot(2)
 	local item_in_slot_6 = db.actor:item_in_slot(6)
-	
+
 	if item_in_slot_1 then
 		item_in_slot_1 = item_in_slot_1:id()
-	else	
-		item_in_slot_1 = 0 
+	else
+		item_in_slot_1 = 0
 	end
-	
+
 	if item_in_slot_2 then
 		item_in_slot_2 = item_in_slot_2:id()
-	else	
-		item_in_slot_2 = 0 
+	else
+		item_in_slot_2 = 0
 	end
 
 	if item_in_slot_6 then
 		item_in_slot_6 = item_in_slot_6:id()
-	else	
-		item_in_slot_6 = 0 
-	end	
-	
+	else
+		item_in_slot_6 = 0
+	end
+
 	local i = 1
 	while (item_table[i]) do
 -- -- amk.logf("Извлекаем предмет из таблицы")
@@ -192,22 +192,22 @@ function repair_dialog:FillList()
 		local s_item_section = s_item:section()
 		local _item_num = "" .. i .. ""
 		local _item_name = game.translate_string(get_inv_name_short(s_item_section))
-		
-		if s_item:id() == item_in_slot_1 
+
+		if s_item:id() == item_in_slot_1
 		or s_item:id() == item_in_slot_2 then
-			_item_name = _item_name.." (в руках)"
+			_item_name = _item_name.." (w rкkach)"
 		elseif s_item:id() == item_in_slot_6 then
-			_item_name = _item_name.." (одет)"
+			_item_name = _item_name.." (zaіoїone)"
 		end
-		
+
 		local _item_cond = s_item:condition()*100
 		if _item_cond ~= 100 then _item_cond = string.format("%.1f", _item_cond) end
 		_item_cond = "[" .. _item_cond .. "%]"
 -- -- amk.logf("Передаём строку с предметом в список")
-		
+
 		self:AddItemToList(_item_num, _item_name, _item_cond)
 		i = i+1
-		
+
 	end
 
 -- -- amk.logf("Закончили наполнять список")
@@ -224,15 +224,15 @@ end
 function repair_dialog:OnListItemClicked()
 
 	local list_box = self:GetListWnd("list_window")
-	
+
 	if list_box:GetSize() == 0 then return end
-	
+
 	local itm_index = list_box:GetSelectedItem()
-	
+
 	local item = list_box:GetItem(itm_index)
 
 	if item == nil then return end
-	
+
 	self.btn_4:Enable(true)
 	self.btn_5:Enable(true)
 
@@ -242,23 +242,23 @@ function repair_dialog:OnListItemClicked()
 	self:DrawConditionRemBar(destr_item_st, 300, 130)
 	self:DrawCurRemItemName(destr_item_name, 300, 45)
 	self:DrawCurRemItem(destr_item_st, 300, 90)
-	
+
 	local destr_item = item_table[destr_item_index]
 	local to_repair = 1.0 - destr_item:condition()
 	local money = db.actor:money()
 	local item_repair_cost = math.floor(destr_item:cost() * to_repair * profit_margin * price_multiplier)
 	local repair_step_cost = 0
-	
+
 	if destr_item:condition() < 1-partial_repair then
 		repair_step_cost = math.floor((destr_item:cost() * profit_margin) * partial_repair * price_multiplier)
 	else
 		repair_step_cost = item_repair_cost
 	end
-	
+
 	self:DrawMoney(money, 260, 63)
 	self:DrawStepCost(repair_step_cost, 260, 83)
 	self:DrawCost(item_repair_cost, 260, 103)
-	
+
 	self.cur_rem_textur:Show(true)
 	self.item_name_rem:Show(true)
 	self.stepcost:Show(true)
@@ -277,7 +277,7 @@ function repair_dialog:rep_btn()
 
 -- -- amk.logf("Будем ремонтировать")
 	local console = get_console()
-	local list = self:GetListWnd("list_window")	
+	local list = self:GetListWnd("list_window")
 	if list:GetSize()==0 then
 		return
 	end
@@ -292,15 +292,15 @@ function repair_dialog:rep_btn()
 	end
 
 	local item = list:GetItem(index)
-	
+
 	if not item then
 --		amk.send_tip("Выберите предмет для ремонта.")
 		self.msgbox_id = 1
 		self.message_box:Init("message_box_select_item")
 		self:GetHolder():start_stop_menu(self.message_box, true)
 		return
-	end		
-	
+	end
+
 	local destr_item_index = tonumber(item.itmnum:GetText())
 	local destr_item = item_table[destr_item_index]
 
@@ -308,13 +308,13 @@ function repair_dialog:rep_btn()
 	local money = db.actor:money()
 	local item_repair_cost = math.floor(destr_item:cost() * to_repair * profit_margin * price_multiplier)
 	local repair_step_cost = 0
-	
+
 	if destr_item:condition() < 1-partial_repair then
 		repair_step_cost = math.floor((destr_item:cost() * profit_margin) * partial_repair * price_multiplier)
 	else
 		repair_step_cost = item_repair_cost
 	end
-	
+
 	if money >= repair_step_cost then
 		local cond 		= destr_item:condition()
 		local out_cond 	= cond + partial_repair
@@ -331,19 +331,19 @@ function repair_dialog:rep_btn()
 		self.stepcost:Show(false)
 		self.cost:Show(false)
 		self.cond_rem_bar:Show(false)
-		
+
 		remkit_main.play_repair_sound()
-		
+
 		list_box:RemoveAll()
 		self:FillList()
 
 		local money = db.actor:money()
-		self:DrawMoney(money, 260, 63)		
-		
+		self:DrawMoney(money, 260, 63)
+
 	else
 		self.msgbox_id = 1
 		self.message_box:Init("message_box_repair_nomoney")
-		self:GetHolder():start_stop_menu(self.message_box, true)	
+		self:GetHolder():start_stop_menu(self.message_box, true)
 	end
 
 end
@@ -352,7 +352,7 @@ function repair_dialog:rep_btn_full()
 
 -- -- amk.logf("Будем ремонтировать")
 	local console = get_console()
-	local list = self:GetListWnd("list_window")	
+	local list = self:GetListWnd("list_window")
 	if list:GetSize()==0 then
 		return
 	end
@@ -367,47 +367,47 @@ function repair_dialog:rep_btn_full()
 	end
 
 	local item = list:GetItem(index)
-	
+
 	if not item then
 --		amk.send_tip("Выберите предмет для ремонта.")
 		self.msgbox_id = 1
 		self.message_box:Init("message_box_select_item")
 		self:GetHolder():start_stop_menu(self.message_box, true)
 		return
-	end	
-	
+	end
+
 	local destr_item_index = tonumber(item.itmnum:GetText())
 	local destr_item = item_table[destr_item_index]
 
 	local to_repair = 1.0 - destr_item:condition()
 	local money = db.actor:money()
 	local item_repair_cost = math.floor(destr_item:cost() * to_repair * profit_margin * price_multiplier)
-	
+
 	if money >= item_repair_cost then
 		destr_item:set_condition(1)
-		db.actor:give_money(0-item_repair_cost)	
+		db.actor:give_money(0-item_repair_cost)
 		local list_box = self:GetListWnd("list_window")
-		
+
 		self.cur_rem_textur:Show(false)
 		self.item_name_rem:Show(false)
 		self.stepcost:Show(false)
-		self.cost:Show(false)	
+		self.cost:Show(false)
 		self.cond_rem_bar:Show(false)
-		
+
 		remkit_main.play_repair_sound()
-		
+
 		list_box:RemoveAll()
-		self:FillList()		
-		
+		self:FillList()
+
 		local money = db.actor:money()
-		self:DrawMoney(money, 260, 63)		
+		self:DrawMoney(money, 260, 63)
 	else
 		self.msgbox_id = 1
 		self.message_box:Init("message_box_repair_nomoney")
-		self:GetHolder():start_stop_menu(self.message_box, true)	
+		self:GetHolder():start_stop_menu(self.message_box, true)
 	end
 
-end	
+end
 
 function repair_dialog:OnKeyboard(dik, keyboard_action)
 	CUIScriptWnd.OnKeyboard(self,dik,keyboard_action)
@@ -419,7 +419,7 @@ function repair_dialog:OnKeyboard(dik, keyboard_action)
 		if dik == DIK_keys.DIK_NUMPAD4 then
 			self:rep_btn()
 		end
-		
+
 	end
 	return true
 end
@@ -433,14 +433,14 @@ end
 function repair_dialog:AddItemToList(item_num, item_name, item_cond)
 -- -- amk.logf("Пытаемся добавить строку списка:")
 	local _itm = select_repair_items()
-	
+
 -- -- amk.logf("Передача индекса..." .. item_num)
 	_itm.itmnum:SetText (item_num)
 -- -- amk.logf("Передача имени..." .. item_name)
 	_itm.itmn:SetText (item_name)
 -- -- amk.logf("Передача кондиции..." .. item_cond)
 	_itm.itmage:SetText (item_cond)
-	
+
 -- -- amk.logf("Получаем доступ к полю списка...")
 	local list_box = self:GetListWnd("list_window")
 -- -- amk.logf("Добавление строки...")
@@ -472,19 +472,19 @@ if y == nil then y = 0 end
   local isGrenade=false
   local isScope=false
   local isSilencer=false
-  
+
   local a = self.cur_rem_textur
   local sys = system_ini()
   if not a then
 	self.cur_rem_textur = CUIStatic()
     a = self.cur_rem_textur
     a:SetWindowName("cur_rem_textur")
-    a:SetAutoDelete(true)  
-	a:InitTexture("ui\\ui_icon_equipment")   
+    a:SetAutoDelete(true)
+	a:InitTexture("ui\\ui_icon_equipment")
     a:SetStretchTexture(true)
     self:AttachChild(a)
   end
-	
+
 	if de_item then
 	tx = remkit_main.get_x(de_item)
     ty = remkit_main.get_y(de_item)
@@ -500,7 +500,7 @@ if y == nil then y = 0 end
 
     a:SetOriginalRect(tx,ty,tw,th)
 	a:Init(x,y,tw/2,th/2)
-	
+
 		if system_ini():line_exist(di_section, "scope_status") then
 			scope = system_ini():r_u32(di_section, "scope_status")
 		end
@@ -524,15 +524,15 @@ if launcher == 2 and bit_and(cur_destr_state.addon_flags, 2) == 2 then
 	ya=sys:r_u32(sect_addon, "inv_grid_y")*50
 	wa=sys:r_u32(sect_addon, "inv_grid_width")*50
 	ha=sys:r_u32(sect_addon, "inv_grid_height")*50
-  
-  local b = self.grenade_rem_textur   
-  
+
+  local b = self.grenade_rem_textur
+
  if not b then
 	self.grenade_rem_textur=CUIStatic()
 	b = self.grenade_rem_textur
 	b:SetWindowName("grenade_rem_textur")
-	b:SetAutoDelete(true)  
-	b:InitTexture("ui\\ui_icon_equipment")   
+	b:SetAutoDelete(true)
+	b:InitTexture("ui\\ui_icon_equipment")
 	b:SetStretchTexture(true)
 	self:AttachChild(b)
  end
@@ -550,25 +550,25 @@ if scope == 2 and bit_and(cur_destr_state.addon_flags, 1) == 1 then
 	ya=sys:r_u32(sect_addon, "inv_grid_y")*50
 	wa=sys:r_u32(sect_addon, "inv_grid_width")*50
 	ha=sys:r_u32(sect_addon, "inv_grid_height")*50
-  
-  local b = self.scope_rem_textur   
-  
+
+  local b = self.scope_rem_textur
+
  if not b then
 	self.scope_rem_textur =CUIStatic()
-	b = self.scope_rem_textur 
+	b = self.scope_rem_textur
 	b:SetWindowName("scope_rem_textur ")
-	b:SetAutoDelete(true)  
-	b:InitTexture("ui\\ui_icon_equipment")   
+	b:SetAutoDelete(true)
+	b:InitTexture("ui\\ui_icon_equipment")
 	b:SetStretchTexture(true)
 	self:AttachChild(b)
  end
 	b:SetOriginalRect(xa,ya,wa,ha)
 	b:Init(x_sco,y_sco,wa/2,ha/2)
-	
+
 end
 
 --Рисуем глушитель
-if silence == 2 and bit_and(cur_destr_state.addon_flags, 4) == 4 then 	
+if silence == 2 and bit_and(cur_destr_state.addon_flags, 4) == 4 then
 	isSilencer=true
 	sect_addon=sys:r_string(di_section,"silencer_name")
 	x_sil=x+(sys:r_u32(di_section, "silencer_x")/2)
@@ -577,15 +577,15 @@ if silence == 2 and bit_and(cur_destr_state.addon_flags, 4) == 4 then
 	ya=sys:r_u32(sect_addon, "inv_grid_y")*50
 	wa=sys:r_u32(sect_addon, "inv_grid_width")*50
 	ha=sys:r_u32(sect_addon, "inv_grid_height")*50
-  
- local b = self.silencer_rem_textur   
-  
+
+ local b = self.silencer_rem_textur
+
  if not b then
 	self.silencer_rem_textur=CUIStatic()
 	b = self.silencer_rem_textur
 	b:SetWindowName("silencer_rem_textur")
-	b:SetAutoDelete(true)  
-	b:InitTexture("ui\\ui_icon_equipment")   
+	b:SetAutoDelete(true)
+	b:InitTexture("ui\\ui_icon_equipment")
 	b:SetStretchTexture(true)
 	self:AttachChild(b)
  end
@@ -595,11 +595,11 @@ end
 
 else
 a:Init(0,0,0,0)
-end	
+end
 	local d1 = self.grenade_rem_textur
 	local d2 = self.scope_rem_textur
 	local d3 = self.silencer_rem_textur
-	
+
 	if d1 and not isGrenade  then
 	d1:Init(0,0,0,0)
 	end
@@ -607,7 +607,7 @@ end
 	if d2 and not isScope  then
 	d2:Init(0,0,0,0)
 	end
-	
+
 	if d3 and not isSilencer  then
 	d3:Init(0,0,0,0)
 	end
@@ -630,13 +630,13 @@ local cond_rem_bar_width = 0
     c:SetWindowName("cond_rem_bar")
     c:SetAutoDelete(true)
 	c:InitTexture("ui\\ui_hud")
-    c:SetOriginalRect(347,207,110,10)   
+    c:SetOriginalRect(347,207,110,10)
     c:SetStretchTexture(true)
-    self:AttachChild(c) 
+    self:AttachChild(c)
 	end
 	if cond_rem_bar_width > 109 then cond_rem_bar_width = 109
 	elseif cond_rem_bar_width <= 0 then cond_rem_bar_width = 1 end
-	c:SetOriginalRect(346+cond_rem_bar_width,207,1,10)   
+	c:SetOriginalRect(346+cond_rem_bar_width,207,1,10)
 	c:Init(x,y,cond_rem_bar_width,10)
 	else
 	c:Init(0,0,0,0)
@@ -654,7 +654,7 @@ if y == nil then y = 0 end
     w = self.item_name_rem
     w:SetWindowName("item_name_rem")
     w:SetAutoDelete(true)
-    self:AttachChild(w) 
+    self:AttachChild(w)
 	end
 	if de_item then
 	w:SetFont(GetFontLetterica16Russian())
@@ -677,7 +677,7 @@ if y == nil then y = 0 end
     w = self.money
     w:SetWindowName("money")
     w:SetAutoDelete(true)
-    self:AttachChild(w) 
+    self:AttachChild(w)
 	end
 	if insert_text then
 	w:SetFont(GetFontLetterica16Russian())
@@ -701,7 +701,7 @@ if y == nil then y = 0 end
     w = self.stepcost
     w:SetWindowName("stepcost")
     w:SetAutoDelete(true)
-    self:AttachChild(w) 
+    self:AttachChild(w)
 	end
 	if insert_text then
 	w:SetFont(GetFontLetterica16Russian())
@@ -725,7 +725,7 @@ if y == nil then y = 0 end
     w = self.cost
     w:SetWindowName("cost")
     w:SetAutoDelete(true)
-    self:AttachChild(w) 
+    self:AttachChild(w)
 	end
 	if insert_text then
 	w:SetFont(GetFontLetterica16Russian())
@@ -744,7 +744,7 @@ function repair_dialog:OnMsgYes()
 
 	if self.msgbox_id == 1 then return
 	end
-	
+
 	self.msgbox_id = 0
 end
 -----------------------------------------------------------------------
