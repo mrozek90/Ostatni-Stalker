@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
+<!-- brakujące -->
+<string id="det_art_indy_info">
+	<text>Prosty i za razem bardzo pomocny detektor anomalii.</text>
+</string>
 
 	<!-- update -->
 	<string id="shocker_pda_name">
