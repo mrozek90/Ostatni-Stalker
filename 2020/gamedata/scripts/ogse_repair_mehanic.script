@@ -195,9 +195,9 @@ function repair_dialog:FillList()
 		
 		if s_item:id() == item_in_slot_1 
 		or s_item:id() == item_in_slot_2 then
-			_item_name = _item_name.." (â ğóêàõ)"
+			_item_name = _item_name.." (w rêkach)"
 		elseif s_item:id() == item_in_slot_6 then
-			_item_name = _item_name.." (îäåò)"
+			_item_name = _item_name.." (za³o¿one)"
 		end
 		
 		local _item_cond = s_item:condition()*100

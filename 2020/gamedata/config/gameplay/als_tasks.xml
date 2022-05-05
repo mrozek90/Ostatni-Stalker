@@ -406,7 +406,7 @@
 			<infoportion_complete>player_complete_fight_on_bogs2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Czo³gist¹</text>
+			<text>Skontaktuj siê z Czo³gist¹</text>
 			<infoportion_complete>fight_on_bogs2_1</infoportion_complete>
 		</objective>
 		<objective>
@@ -416,7 +416,7 @@
 			<infoportion_complete>fight_on_bogs2_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Uzbekem</text>
+			<text>Skontaktuj siê z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs2_3</infoportion_complete>
 		</objective>
 		<objective>
@@ -437,19 +437,19 @@
 			<infoportion_complete>player_complete_fight_on_bogs3</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Szamrajem</text>
+			<text>Spotkaj siê z Szamrajem</text>
 	<map_location_type hint= "shamray_name">green_location</map_location_type>
 	<object_story_id>marsh_shamray_1</object_story_id>
 			<infoportion_complete>fight_on_bogs3_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Ga³asz¹</text>
+			<text>Spotkaj siê z Ga³asz¹</text>
 	<map_location_type hint= "galash_name">green_location</map_location_type>
 	<object_story_id>marsh_galash_1</object_story_id>
 			<infoportion_complete>fight_on_bogs3_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Uzbekem</text>
+			<text>Spotkaj siê z Uzbekem</text>
 			<infoportion_complete>fight_on_bogs3_3</infoportion_complete>
 		</objective>
 		<objective>
@@ -569,15 +569,15 @@
 </game_task>
 
 <game_task id="marsh_meet_deadman" prio="100">
-		<title>Opiekun schronu</title>
+		<title>Opiekun schowka</title>
 		<objective>
-			<text>Opiekun schronu</text>
+			<text>Opiekun schowka</text>
 			<icon>ui_iconsTotal_dedman</icon>
 			<article>als_help_26</article>
 			<infoportion_complete>player_complete_marsh_meet_deadman</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Umarlakiem</text>
+			<text>Spotkaj siê z Dedmanem</text>
 	<map_location_type hint= "deadman_name">green_location</map_location_type>
 	<object_story_id>marsh_stalker_deadman</object_story_id>
 			<infoportion_complete>marsh_meet_deadman_1</infoportion_complete>
@@ -601,9 +601,9 @@
 </game_task>
 
 <game_task id="marsh_find_deadman" prio="50">
-		<title>ZnajdŸ Umarlaka</title>
+		<title>ZnajdŸ Dedmana</title>
 		<objective>
-			<text>ZnajdŸ Umarlaka</text>
+			<text>ZnajdŸ Dedmana</text>
 			<icon>ui_iconsTotal_dedman</icon>
 			<article>als_help_28</article>
 			<infoportion_complete>player_complete_marsh_find_deadman</infoportion_complete>
@@ -615,7 +615,7 @@
 			<infoportion_complete>marsh_find_deadman_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>ZnajdŸ Umarlaka</text>
+			<text>ZnajdŸ Dedmana</text>
 			<infoportion_complete>marsh_find_deadman_2</infoportion_complete>
 		</objective>
 </game_task>
@@ -714,7 +714,7 @@
 			<infoportion_complete>player_complete_old_bunker_sidor</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Umarlakiem w starym bunkrze</text>
+			<text>Spotkaj siê z Dedmanem w starym bunkrze</text>
 	<map_location_type hint= "old_bunker_hint">green_location</map_location_type>
 	<object_story_id>esc_deadman</object_story_id>
 			<infoportion_complete>old_bunker_sidor_1</infoportion_complete>
@@ -927,7 +927,7 @@
 			<infoportion_complete>meeting_near_tunnel_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Umarlakiem</text>
+			<text>Spotkaj siê z Dedmanem</text>
 	<map_location_type hint= "">green_location</map_location_type>
 	<object_story_id></object_story_id>
 			<infoportion_complete>meeting_near_tunnel_2</infoportion_complete>
@@ -957,9 +957,9 @@
 </game_task>
 
 <game_task id="foolish_plan" prio="50">
-		<title>G³upi plan Umarlaka</title>
+		<title>G³upi plan Dedmana</title>
 		<objective>
-			<text>G³upi plan Umarlaka</text>
+			<text>G³upi plan Dedmana</text>
 			<icon>ui_iconsTotal_dedman</icon>
 			<article>als_help_45</article>
 			<infoportion_complete>player_complete_foolish_plan</infoportion_complete>
@@ -2072,7 +2072,7 @@
 			<infoportion_complete>player_complete_relatives</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z P³oz¹ o Teutonie</text>
+			<text>Porozmawiaj z Uzbekem o Teutonie</text>
 			<infoportion_complete>relatives_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -2135,7 +2135,7 @@
 			<infoportion_complete>player_complete_courtyard_in_east_pripyat</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Umarlakiem w Prypeci</text>
+			<text>Porozmawiaj z Dedmanem w Prypeci</text>
 	<map_location_type hint= "meet_point_yard">crlc_big</map_location_type>
 	<object_story_id>pri_court_yard_restrictor</object_story_id>
 			<infoportion_complete>courtyard_in_east_pripyat_1</infoportion_complete>
