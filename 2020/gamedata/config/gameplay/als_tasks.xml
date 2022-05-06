@@ -267,7 +267,7 @@
 </game_task>
 
 <game_task id="conversation_with_uzbek" prio="40">
-		<title>Uzbek</title>
+		<title>Baszar</title>
 		<objective>
 			<text>Porozmawiaj z Baszarem</text>
 			<icon>ui_iconsTotal_uzbek</icon>
@@ -462,16 +462,16 @@
 </game_task>
 
 <game_task id="knifes_and_waterrat" prio="70">
-		<title>Noøe i Karczownik</title>
+		<title>Noøe i Szczur Wodny</title>
 		<objective>
-			<text>Noøe i Karczownik</text>
+			<text>Noøe i Szczur Wodny</text>
 			<icon>kovzur_tasks</icon>
 			<article>als_help_20</article>
 			<infoportion_complete>player_complete_knifes_and_waterrat</infoportion_complete>
 			<infoportion_fail>arrive_on_waterrat_base_start</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Karczownikiem o rzucaniu noøami</text>
+			<text>Porozmawiaj z Szczurem Wodnym o rzucaniu noøami</text>
 	<map_location_type hint= "waterrat_name">green_location</map_location_type>
 	<object_story_id>marsh_waterrat</object_story_id>
 			<infoportion_complete>knifes_and_waterrat_1</infoportion_complete>
@@ -585,15 +585,15 @@
 </game_task>
 
 <game_task id="arrive_on_waterrat_base" prio="90">
-		<title>Grupa Karczownika</title>
+		<title>Grupa Szczura Wodnego</title>
 		<objective>
-			<text>Grupa Karczownika</text>
+			<text>Grupa Szczura Wodnego</text>
 			<icon>kovzur_tasks</icon>
 			<article>als_help_27</article>
 			<infoportion_complete>player_complete_arrive_on_waterrat_base</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Idü do bazy Karczownika</text>
+			<text>Idü do bazy Szczura Wodnego</text>
 	<map_location_type hint= "waterrat_base_hint">red_location</map_location_type>
 	<object_story_id>marsh_waterrat_base</object_story_id>
 			<infoportion_complete>arrive_on_waterrat_base_1</infoportion_complete>

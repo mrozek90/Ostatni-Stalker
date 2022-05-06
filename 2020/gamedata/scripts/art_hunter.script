@@ -1,36 +1,36 @@
 local actor = db.actor
 local search_art = {
-		"af_barhat1",	
-        "af_chetki1",	
-        "af_chipsi1",	
-        "af_diablo1",	
-        "af_gorgona1",	
+		"af_barhat1",
+        "af_chetki1",
+        "af_chipsi1",
+        "af_diablo1",
+        "af_gorgona1",
         "af_jaba1",
-        "af_jbk1",		
-        "af_klever1",	
-        "af_kliaksa1",	
+        "af_jbk1",
+        "af_klever1",
+        "af_kliaksa1",
         "af_krest1",
-        "af_ojerelie1",	
-        "af_serpantin1",	
-        "af_shkatulka1",	
-        "af_spaika_21",	
-        "af_kris_zvezda1",	
-        "af_eye_voron1",	
-        "af_fallen_angel1",	
-        "af_pero1",		
-        "af_vinograd1",	
-        "af_black_angel1",	
-        "af_kosi1",		
-        "af_black_hole1",	
-        "af_provoloka1",	
-        "af_kletka1",	
-        "af_kvazar1",	
-        "af_propeller1",	
-        "af_pylesos1",	
-        "af_shipovnik1",	
-        "af_fontan1",	
+        "af_ojerelie1",
+        "af_serpantin1",
+        "af_shkatulka1",
+        "af_spaika_21",
+        "af_kris_zvezda1",
+        "af_eye_voron1",
+        "af_fallen_angel1",
+        "af_pero1",
+        "af_vinograd1",
+        "af_black_angel1",
+        "af_kosi1",
+        "af_black_hole1",
+        "af_provoloka1",
+        "af_kletka1",
+        "af_kvazar1",
+        "af_propeller1",
+        "af_pylesos1",
+        "af_shipovnik1",
+        "af_fontan1",
 		"magneto1"
-	}		
+	}
 
 function get_art(actor)
 	local anoms = {}
@@ -51,7 +51,7 @@ end
 
 function on_item_drop(item)
 	local sect = item:section()
-	if sect ~= "art_hunter" then 
+	if sect ~= "art_hunter" then
 		return
 	end
 	local anoms = get_art(actor)
@@ -68,8 +68,8 @@ function on_item_drop(item)
             		particle = particles_object(particle)
             		particle:play_at_pos(actor:position())
         	end
-  		actor:give_game_news("Артефакт слишком далеко. Невозможно произвести захват.", "ui\\ui_icons_task", Frect():set(0,100,50,50) ,0, 10000)
-		-- news_manager.send_tip(actor, "%c[255,200,0,0]Ловушка самоуничтожилась.", nil, nil, 10000)
+  		actor:give_game_news("Artefakt jest za daleko. Nie moїna uchwyciж.", "ui\\ui_icons_task", Frect():set(0,100,50,50) ,0, 10000)
+		-- news_manager.send_tip(actor, "%c[255,200,0,0]Puіapka ulegіa samozniszczeniu.", nil, nil, 10000)
 	end
 	if table.getn(anoms) > 1 then
 
@@ -85,8 +85,8 @@ function on_item_drop(item)
             		particle = particles_object(particle)
             		particle:play_at_pos(actor:position())
         	end
-  		actor:give_game_news("Два артефакта находятся слишком близко друг к другу. Невозможно произвести захват.", "ui\\ui_icons_task", Frect():set(0,100,50,50) ,0, 10000)
-		-- news_manager.send_tip(actor, "%c[255,200,0,0]Ловушка самоуничтожилась.", nil, nil, 10000)
+  		actor:give_game_news("Te dwa artefakty s№ zbyt blisko siebie. Nie moїna uchwyciж.", "ui\\ui_icons_task", Frect():set(0,100,50,50) ,0, 10000)
+		-- news_manager.send_tip(actor, "%c[255,200,0,0]Puіapka ulegіa samozniszczeniu.", nil, nil, 10000)
 	end
 
 	if table.getn(anoms) == 1 then
@@ -103,12 +103,12 @@ function on_item_drop(item)
 			alife():release(alife():object(obj:id()), true)
 			zont(pos1,lvid,gvid,"physics\\art_sharik",100,"joint1",sect1)
 		   end
-   		end	
+   		end
 	end
 end
 
 
-function zont( pos, lvid, gvid, vis, mass, fixed_bones,sect1 ) 
+function zont( pos, lvid, gvid, vis, mass, fixed_bones,sect1 )
   local sobj = alife():create( sect1, pos, lvid, gvid )
   local pk = get_netpk( sobj, 1 )
   local data = pk:get()
@@ -120,5 +120,3 @@ function zont( pos, lvid, gvid, vis, mass, fixed_bones,sect1 )
   pk:set(data)
   return sobj
 end
-
-

@@ -68,7 +68,7 @@ end
 
 function get_1000000_money(npc,actor)
 	local lyam = 1000000
-	local news_texti = "\\n%c[255,255,0,0]Martwy stalker: Zyama. Desert Lands, uznanie na mapie: %c[default]"..game.translate_string(tostring(lyam).." RU.")
+	local news_texti = "\\n%c[255,255,0,0]Martwy stalker: Zyama. Pustynne Ziemie, uznanie na mapie: %c[default]"..game.translate_string(tostring(lyam).." RU.")
 	db.actor:give_game_news(news_texti, "ui\\ui_iconsTotal", Frect():set(0,0,83,47), 1, 4000)
 	db.actor:give_money(lyam)
 end
