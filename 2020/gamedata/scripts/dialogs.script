@@ -1,0 +1,525 @@
+function allow_break_dialog(first_speaker, second_speaker, id)
+	if second_speaker:profile_name() == "osoznanie" then
+		return false
+	end
+
+	return true
+end
+
+
+function break_dialog(first_speaker, second_speaker, id)
+	first_speaker:stop_talk()
+	second_speaker:stop_talk()
+end
+
+function disable_talk_self(first_speaker, second_speaker)
+	first_speaker:disable_talk()
+end
+function disable_talk_victim(first_speaker, second_speaker)
+	second_speaker:disable_talk()
+end
+
+function punch(first_speaker, second_speaker)
+	--abort("KICK ASS !!!!")
+	--xr_punch.punch[first_speaker:id()] = second_speaker
+	db.storage[second_speaker:id()].punch.enabled = true
+end
+
+function get_money_then_leave(first_speaker, second_speaker)
+	db.storage[first_speaker:id()].meet.enabled = false
+	db.storage[first_speaker:id()].robber.enabled = true
+end
+
+function is_wounded(first_speaker, second_speaker)
+    if db.storage[first_speaker:id()].wounded ~= nil and
+       db.storage[first_speaker:id()].wounded.wound_manager.can_use_medkit == true
+    then
+        return false
+    end
+
+	return xr_wounded.is_wounded(first_speaker)
+end
+function is_opp_wounded(first_speaker, second_speaker, dialog_id)
+    if db.storage[second_speaker:id()].wounded ~= nil and
+       db.storage[second_speaker:id()].wounded.wound_manager.can_use_medkit == true
+    then
+        return false
+    end
+	return	xr_wounded.is_wounded(second_speaker)
+end
+function is_not_wounded(first_speaker, second_speaker)
+	return not this.is_wounded(first_speaker, second_speaker)
+end
+function actor_have_medkit(first_speaker, second_speaker)
+	return first_speaker:object("medkit") ~= nil or
+		   first_speaker:object("medkit_army") ~= nil or
+		   first_speaker:object("medkit_scientic") ~= nil
+end
+function actor_have_bandage(first_speaker, second_speaker)
+	return first_speaker:object("bandage") ~= nil
+end
+function transfer_medkit(first_speaker, second_speaker)
+	if first_speaker:object("medkit") ~= nil then
+		dialogs.relocate_item_section(second_speaker, "medkit", "out")
+	elseif first_speaker:object("medkit_army") ~= nil then
+		dialogs.relocate_item_section(second_speaker, "medkit_army", "out")
+	else
+		dialogs.relocate_item_section(second_speaker, "medkit_scientic", "out")
+	end
+
+	--' “ут надо анлочить аптечку дл€ использовани€.
+	xr_wounded.unlock_medkit(second_speaker)
+
+	if second_speaker:relation(first_speaker) ~= game_object.enemy then
+		second_speaker:set_relation(game_object.friend, first_speaker)
+	end
+	first_speaker:change_character_reputation(10);
+end
+function transfer_bandage(first_speaker, second_speaker)
+	dialogs.relocate_item_section(second_speaker, "bandage", "out")
+	second_speaker:set_relation(game_object.friend, first_speaker)
+end
+function kill_yourself(npc, actor)
+	npc:kill(actor)
+end
+
+
+--' Obsolete, do not use!!!
+function relocate_item(victim, obj, type)
+	if db.actor and victim then
+		if type == "in" then
+			victim:transfer_item(obj, db.actor)
+		elseif type == "out" then
+			db.actor:transfer_item(obj, victim)
+		end
+		--'news_manager.relocate_item(db.actor, type, obj)
+	end
+end
+--' Use this function instead.
+function relocate_item_section(victim, section, type)
+	if db.actor and victim then
+		if type == "in" then
+
+			--' “рансферить нужно только квестовые предметы.
+			if quest_section[section] == true and
+			   victim:object(section) ~= nil
+			then
+				victim:transfer_item(victim:object(section), db.actor)
+			else
+				alife():create(section,
+					    db.actor:position(),
+						db.actor:level_vertex_id(),
+						db.actor:game_vertex_id(),
+						db.actor:id())
+			end
+		elseif type == "out" then
+			db.actor:transfer_item(db.actor:object(section), victim)
+		end
+		news_manager.relocate_item(db.actor, type, section)
+	end
+end
+
+
+function relocate_money(victim, num, type)
+	if db.actor and victim and db.actor:has_info("deserted_earths_card_activated") then
+		if type == "in" then
+			local news_texti = "\\n%c[255,255,0,0]PUSTYNNE ZIEMIE, dodano do karty: %c[default]"..(num).." RU."
+			db.actor:give_game_news(news_texti, "ui\\ui_iconsTotal", Frect():set(0,0,83,47), 1, 4000)
+			db.actor:give_money(num)
+			game_stats.money_quest_update(num)
+		elseif type == "out" then
+			local news_texti = "\\n%c[255,255,0,0]PUSTYNNE ZIEMIE, odjкto z karty: %c[default]"..(num).." RU."
+			db.actor:give_game_news(news_texti, "ui\\ui_iconsTotal", Frect():set(0,0,83,47), 1, 4000)
+			db.actor:transfer_money(num, victim)
+			game_stats.money_quest_update(-num)
+		end
+		news_manager.relocate_money(db.actor, type, num)
+	end
+
+	if db.actor and victim and db.actor:dont_has_info("deserted_earths_card_activated") then
+		if type == "in" then
+			db.actor:give_money(num)
+			game_stats.money_quest_update(num)
+		elseif type == "out" then
+			db.actor:transfer_money(num, victim)
+			game_stats.money_quest_update(-num)
+		end
+		news_manager.relocate_money(db.actor, type, num)
+	end
+end
+
+--'---------------------------------------------------------------------------------
+--' DIALOG ALLOWED
+--'---------------------------------------------------------------------------------
+function dialog_allowed(object, victim, id)
+	if id ~= nil then
+--		printf("*DIALOGS*: dialog_allowed: %s", id)
+	else
+--		printf("*DIALOGS*: dialog_allowed: nil")
+	end
+	if db.storage[victim:id()].actor_dialogs ~= nil then
+		for k,v in pairs(db.storage[victim:id()].actor_dialogs) do
+			if v == id then return true end
+		end
+	end
+	return false
+end
+function dialog_not_disable(object, victim, id)
+	if id ~= nil then
+--		printf("*DIALOGS*: dialog_disable:%s", id)
+	else
+--		printf("*DIALOGS*: dialog_disable:nil")
+	end
+	if db.storage[victim:id()].actor_disable ~= nil then
+		for k,v in pairs(db.storage[victim:id()].actor_disable) do
+			if v == id then return false end
+		end
+	end
+	return true
+end
+
+function allow_wounded_dialog(object, victim, id)
+	if db.storage[victim:id()].wounded == nil then
+		return false
+	end
+	if db.storage[victim:id()].wounded.help_dialog == id then
+		return true
+	end
+	return false
+end
+
+
+-----------------------------------------------------------------------------------
+-- LEVELS
+-----------------------------------------------------------------------------------
+function level_escape(first_speaker, second_speaker)
+	return level.name() == "l01_escape"
+end
+
+function level_garbage(first_speaker, second_speaker)
+	return level.name() == "l02_garbage"
+end
+
+function level_agroprom(first_speaker, second_speaker)
+	return level.name() == "l03_agroprom_ai2" or level.name() == "l03_agroprom"
+end
+
+-----------------------------------------------------------------------------------
+-- Relation functions
+-----------------------------------------------------------------------------------
+function is_friend(first_speaker, second_speaker)
+	return first_speaker:relation(second_speaker) == game_object.friend
+end
+
+function is_not_friend(first_speaker, second_speaker)
+	return not is_friend(first_speaker, second_speaker)
+end
+
+function become_friend(first_speaker, second_speaker)
+	first_speaker:set_relation(game_object.friend, second_speaker)
+end
+
+-----------------------------------------------------------------------------------
+-- Community
+-----------------------------------------------------------------------------------
+function actor_in_dolg(actor, npc)
+	if db.actor then
+		return db.actor:character_community() == "actor_dolg"
+	end
+	return false
+end
+function actor_not_in_dolg(actor, npc)
+	return not actor_in_dolg(actor, npc)
+end
+function actor_set_dolg(actor, npc)
+	printf("ACTOR NOW IN [DOLG] COMMUNITY")
+	if db.actor then
+		db.actor:set_character_community("actor_dolg", 0, 0)
+	end
+	return true
+end
+function actor_clear_community(actor, npc)
+	printf("ACTOR NOW IN [NEUTRAL] COMMUNITY")
+	if db.actor then
+		db.actor:set_character_community("actor", 0, 0)
+	end
+	return true
+end
+
+-----------------------------------------------------------------------------------
+-- Money functions
+-----------------------------------------------------------------------------------
+function has_2000_money(first_speaker, second_speaker)
+	return first_speaker:money() >= 2000
+end
+
+function has_10000_money(first_speaker, second_speaker)
+	return first_speaker:money() >= 10000
+end
+
+function has_8500_money(first_speaker, second_speaker)
+	return first_speaker:money() >= 8500
+end
+
+function dont_has_10000_money(first_speaker, second_speaker)
+	return first_speaker:money() <= 10000
+end
+
+function has_100000_money(first_speaker, second_speaker)
+	return first_speaker:money() >= 100000
+end
+
+function has_200000_money(first_speaker, second_speaker)
+	return first_speaker:money() >= 200000
+end
+
+function has_50000_money(first_speaker, second_speaker)
+	return first_speaker:money() >= 50000
+end
+
+function dont_has_50000_money(first_speaker, second_speaker)
+	return first_speaker:money() <= 50000
+end
+
+-----------------------------------------------------------------------------------
+-- TRADE
+-----------------------------------------------------------------------------------
+--' »нициализаци€ торговли
+function trade_init(seller, buyer)
+	db.storage[seller:id()].meet.begin_wait_to_see.begin = time_global()/1000
+	xr_position.setPosition(db.storage[seller:id()].meet.Seller,
+							db.storage[seller:id()].meet.Seller:level_vertex_id())
+	db.storage[seller:id()].meet.Buyer = buyer
+end
+
+function want_trade(seller, buyer)
+	if seller:relation(buyer) == game_object.friend or
+		seller:relation(buyer) == game_object.neutral
+		-- seller:relation(buyer) == game_object.enemy
+	then
+		return true
+	else
+		return false
+	end
+end
+
+function dont_want_trade(seller, buyer)
+	return not want_trade(seller,buyer)
+end
+
+function has_otstoynik_passdoc(first_speaker, second_speaker)
+	return first_speaker:object("otstoynik_passdoc") ~= nil
+end
+
+function dont_has_otstoynik_passdoc(first_speaker, second_speaker)
+	return first_speaker:object("otstoynik_passdoc") == nil
+end
+
+function has_radioscaner(first_speaker, second_speaker)
+	return second_speaker:object("radio_scaner") ~= nil
+end
+
+function hasnot_radioscaner(first_speaker, second_speaker)
+	return second_speaker:object("radio_scaner") == nil
+end
+
+function has_wpn_knife(first_speaker, second_speaker)
+	return first_speaker:object("ammo_knife") ~= nil
+end
+
+function hasnot_wpn_knife(first_speaker, second_speaker)
+	return first_speaker:object("ammo_knife") == nil
+end
+
+function has_obsidian_knife(first_speaker, second_speaker)
+	return first_speaker:object("obsidian_knife") ~= nil
+end
+
+function hasnot_obsidian_knife(first_speaker, second_speaker)
+	return first_speaker:object("obsidian_knife") == nil
+end
+
+function has_art_red(first_speaker, second_speaker)
+	return first_speaker:object("af_stalker") ~= nil
+end
+
+function has_wpn_vintorez(first_speaker, second_speaker)
+	return first_speaker:object("wpn_vintorez") ~= nil
+end
+
+function has_wpn_vihlop(first_speaker, second_speaker)
+	return first_speaker:object("wpn_vihlop") ~= nil
+end
+
+function has_vintorez_or_vihlop(first_speaker, second_speaker)
+	return  first_speaker:object("wpn_vihlop") ~= nil or
+			first_speaker:object("wpn_vintorez") ~= nil or
+			first_speaker:object("wpn_svd_m1") ~= nil
+end
+
+function has_blade_radiokeys(first_speaker, second_speaker)
+	return  (first_speaker:object("blade_radiokey_1") ~= nil and
+			first_speaker:object("blade_radiokey_2") ~= nil)
+end
+
+function has_blade_radiokeys_meet_dialog(first_speaker, second_speaker)
+	return  (second_speaker:object("blade_radiokey_1") ~= nil and
+			second_speaker:object("blade_radiokey_2") ~= nil)
+end
+
+function has_blade_radiokey_or_radiokeys(first_speaker, second_speaker)
+	return  (first_speaker:object("blade_radiokey_1") ~= nil and
+			first_speaker:object("blade_radiokey_2") ~= nil) or
+			first_speaker:object("blade_radiokey_1") ~= nil or
+			first_speaker:object("blade_radiokey_2") ~= nil
+end
+
+function has_grek_outfit(first_speaker, second_speaker)
+	return first_speaker:object("grek_outfit") ~= nil
+end
+
+function hasnot_grek_outfit(first_speaker, second_speaker)
+	return first_speaker:object("grek_outfit") == nil
+end
+
+function has_teuton_malyawa(first_speaker, second_speaker)
+	return first_speaker:object("teuton_malyawa") ~= nil
+end
+
+function hasnot_teuton_malyawa(first_speaker, second_speaker)
+	return first_speaker:object("teuton_malyawa") == nil
+end
+
+function has_broken_warlock(first_speaker, second_speaker)
+	return first_speaker:object("wpn_warlock_error") ~= nil
+end
+
+function hasnot_broken_warlock(first_speaker, second_speaker)
+	return first_speaker:object("wpn_warlock_error") == nil
+end
+
+function dc_has_keys(first_speaker, second_speaker)
+	return (second_speaker:object("monolith_kee_1") ~= nil and
+			second_speaker:object("monolith_kee_2") ~= nil and
+			second_speaker:object("monolith_kee_3") ~= nil)
+end
+
+function has_bormans_beads(first_speaker, second_speaker)
+	return first_speaker:object("bormans_beads") ~= nil
+end
+
+function hasnot_bormans_beads(first_speaker, second_speaker)
+	return first_speaker:object("bormans_beads") == nil
+end
+
+function has_shocker_pda(first_speaker, second_speaker)
+	return first_speaker:object("shocker_pda") ~= nil
+end
+
+function hasnot_shocker_pda(first_speaker, second_speaker)
+	return first_speaker:object("shocker_pda") == nil
+end
+
+function has_hsm_beacon(first_speaker, second_speaker)
+	return (first_speaker:object("hsm_beacon_1") ~= nil and
+			first_speaker:object("hsm_beacon_2") ~= nil and
+			first_speaker:object("hsm_beacon_3") ~= nil and
+			first_speaker:object("hsm_beacon_4") ~= nil and
+			first_speaker:object("hsm_beacon_5") ~= nil)
+end
+
+
+-- для диалога с Геной
+
+-- сломанный КПК с научного модуля на Агропроме
+function has_broken_pda(first_speaker, second_speaker)
+	return first_speaker:object("broken_pda") ~= nil
+end
+
+-- КПК Леньки Бритвы
+function has_blade_pda(first_speaker, second_speaker)
+	return first_speaker:object("blade_pda") ~= nil
+end
+
+-- КПК д-ра Бравермана
+function has_braverman_pda(first_speaker, second_speaker)
+	return first_speaker:object("braverman_pda") ~= nil
+end
+
+function hasnot_braverman_pda(first_speaker, second_speaker)
+	return first_speaker:object("braverman_pda") == nil
+end
+
+-- флешка военсталков
+function has_military_stalkers_flash(first_speaker, second_speaker)
+	return first_speaker:object("military_stalkers_flash") ~= nil
+end
+
+function hasnot_military_stalkers_flash(first_speaker, second_speaker)
+	return first_speaker:object("military_stalkers_flash") == nil
+end
+
+-- флешка Шокера
+function has_shocker_flash(first_speaker, second_speaker)
+	return first_speaker:object("shocker_flash") ~= nil
+end
+
+-- КПК мертвого военного с Болот
+function has_shevchuk_pda(first_speaker, second_speaker)
+	return first_speaker:object("shevchuk_pda") ~= nil
+end
+
+-- КПК Симпсона
+function has_simpson_pda(first_speaker, second_speaker)
+	return first_speaker:object("simpson_pda") ~= nil
+end
+
+-- записка из штаба Панцера
+function has_panz_encryption_malyawa(first_speaker, second_speaker)
+	return first_speaker:object("panz_encryption_malyawa") ~= nil
+end
+
+function has_af_black_angel(first_speaker, second_speaker)
+	return first_speaker:object("lov_af_black_angel1") ~= nil
+end
+
+function black_soul_have(first_speaker, second_speaker)
+	return first_speaker:object("black_soul") ~= nil
+end
+
+function has_ocp_perfocard(first_speaker, second_speaker)
+	return first_speaker:object("ocp_perfocard") ~= nil
+end
+
+function has_shilo_pda(first_speaker, second_speaker)
+	return first_speaker:object("shilo_pda") ~= nil
+end
+
+function hasnot_shilo_pda(first_speaker, second_speaker)
+	return first_speaker:object("shilo_pda") == nil
+end
+
+function has_audiocassette(first_speaker, second_speaker)
+	return first_speaker:object("audiocassette") ~= nil
+end
+
+function has_taras_dictophone(first_speaker, second_speaker)
+	return first_speaker:object("taras_dictophone") ~= nil
+end
+
+--
+-- function has_(first_speaker, second_speaker)
+	-- return first_speaker:object("") ~= nil
+-- end
+
+function has_all_obscure_artefacts(actor, npc)
+	return xr_conditions.has_all_obscure_artefacts()
+end
+
+function is_night(actor, npc)
+	return not xr_conditions.is_day()
+end
+
+function is_day(actor, npc)
+	return xr_conditions.is_day()
+end
