@@ -796,7 +796,7 @@
 			<infoportion_complete>player_complete_work_on_corporation</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Pulewiczem</text>
+			<text>Porozmawiaj z Pulewiczem</text>
 	<map_location_type hint= "grc_agent_name">blue_location</map_location_type>
 	<object_story_id>sor_grc_agent</object_story_id>
 			<infoportion_complete>work_on_corporation_1</infoportion_complete>
@@ -951,7 +951,7 @@
 			<infoportion_complete>container_number_two_2</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Spotkaj siê z Pulewiczem</text>
+			<text>Porozmawiaj z Pulewiczem</text>
 			<infoportion_complete>container_number_two_3</infoportion_complete>
 		</objective>
 </game_task>

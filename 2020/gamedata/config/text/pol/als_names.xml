@@ -2,7 +2,7 @@
 <string_table>
 
 	<string id="tushkano_strong">
-		<text>Skoczek zabójca</text>
+		<text>Tuszkan zabójca</text>
 	</string>
 
 	<string id="usarmy_novice">
@@ -462,7 +462,7 @@
 	</string>
 
 	<string id="dc_krank_15_name">
-		<text>porucznik Parszywy</text>
+		<text>porucznik Parszyn</text>
 	</string>
 
 	<string id="dc_krank_16_name">
@@ -1034,7 +1034,7 @@
 	</string>
 
 	<string id="waterrat_name">
-		<text>Wodny Szczur</text>
+		<text>Szczur Wodny</text>
 	</string>
 
 	<string id="marsh_sevchuk_name">
@@ -1398,7 +1398,7 @@
 	</string>
 
 	<string id="cptn_parshin_name">
-		<text>kapitan Parszywy</text>
+		<text>kapitan Parszyn</text>
 	</string>
 
 	<string id="doctor_pyh_name">
