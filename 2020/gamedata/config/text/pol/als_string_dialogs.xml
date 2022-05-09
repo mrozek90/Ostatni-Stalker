@@ -736,7 +736,7 @@
         <text>Chcê, ¿ebyœcie w nocy poha³asowali w zachodnim sektorze ochrony, odci¹gnêli brudasów.</text>
     </string>
 	<string id="esc_shamray_dialog2_15">
-        <text>Dam Ci radioskaner, wyœlesz sygna³ jak bêdziesz gotowy. Uwa¿aj na helikopter. Jak przez wy³om w Perymetrze przeleziesz, nie rozgl¹daj siê, tylko idŸ w prawo. Tam zobaczysz dziurê w siatce. Prze³aŸ i biegiem. Inaczej koniec z Tob¹... Proœba jest, Grek: je¿eli uda Ci siê przejœæ za Perymetr, znajdŸ na Sortowni Saszkê Ga³asza, na chutorze u Sidora siê krêci. Przeka¿ mu, ¿e Losza Szamraj tkwi za Perymetrem na Kordonie, Loszy pomoc jest potrzebna i Losza chce j¹ otrzymaæ.</text>
+        <text>Dam Ci radiotelefon, wyœlesz sygna³ jak bêdziesz gotowy. Uwa¿aj na helikopter. Jak przez wy³om w Perymetrze przeleziesz, nie rozgl¹daj siê, tylko idŸ w prawo. Tam zobaczysz dziurê w siatce. Prze³aŸ i biegiem. Inaczej koniec z Tob¹... Proœba jest, Grek: je¿eli uda Ci siê przejœæ za Perymetr, znajdŸ na Sortowni Saszkê Ga³asza, na chutorze u Sidora siê krêci. Przeka¿ mu, ¿e Losza Szamraj tkwi za Perymetrem na Kordonie, Loszy pomoc jest potrzebna i Losza chce j¹ otrzymaæ.</text>
     </string>
 	<string id="esc_shamray_dialog2_16">
         <text>Dobrze, Szamraj. No, to ruszamy.</text>
@@ -3508,7 +3508,7 @@
         <text>Nasza radiostacja pad³a. A trzeba szybko oddaæ rozkaz dowódcy bazy na Agropromie.</text>
     </string>
 	<string id="mil_military_stalker_commander_dialog_1_15">
-        <text>Mam szerokopasmowy radioskaner.</text>
+        <text>Mam szerokopasmowy radiotelefon.</text>
     </string>
 	<string id="mil_military_stalker_commander_dialog_1_16">
         <text>Nie da rady. Radiostacje pracuj¹ przez koder-dekoder… S³uchaj, Grek, chcesz zarobiæ? Chêtnie dobrze zap³acê za prost¹ robótkê - dostarczyæ rozkaz na bazê wojskow¹ na Agropromie. 20 000.</text>
@@ -4189,7 +4189,7 @@
     </string>
 
 	<string id="marsh_svoboda_trader_dialog_3_0">
-        <text>Potrzebujê pomocy, Krzemieñ: pad³ mi radioskaner.</text>
+        <text>Potrzebujê pomocy, Krzemieñ: pad³ mi radiotelefon.</text>
     </string>
 	<string id="marsh_svoboda_trader_dialog_3_1">
         <text>Mam dzia³aj¹cy skaner. Japoñski, sporo kosztuje.</text>

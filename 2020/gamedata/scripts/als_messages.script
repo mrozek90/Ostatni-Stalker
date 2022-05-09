@@ -35,7 +35,7 @@ function from_system_3()
 end
 
 function from_system_4()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]SKANER RADIOWY USZKODZONY", nil, nil, 2000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]RADIOTELEFON USZKODZONY", nil, nil, 2000)
 	xr_effects.system_message_4()
 end
 

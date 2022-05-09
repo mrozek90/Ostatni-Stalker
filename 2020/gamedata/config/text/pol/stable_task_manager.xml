@@ -213,8 +213,8 @@
 	<string id="tm_b_monster_part_1_descr">
 		<text>To tak mo¿na? ¯reæ oczy zmutowanej œwini?</text>
 	</string>
-	
-	
+
+
 	<string id="barmen_monster_part_2">
 		<text>Przynieœ kopyto dzika</text>
 	</string>
@@ -1190,9 +1190,9 @@
 	<string id="defend_lager">
 		<text>Obrona obozu</text>
 	</string>
-	
+
 	<!-- ÏÑ -->
-	
+
 	<string id="kremen_find_artefact_1">
 		<text>ZnajdŸ artefakt "Kotlet"</text>
 	</string>
@@ -1355,26 +1355,26 @@
 	<string id="desc_kremen_find_artefact_18">
 		<text>ZnajdŸ i przynieœ Krzemieniowi artefakt "Mika".</text>
 	</string>
-	
+
 	<string id="kremen_monster_part_1">
-		<text>Przynieœ nogê dzika</text>
+		<text>Przynieœ ogon psa</text>
 	</string>
 	<string id="text_kremen_monster_part_1">
-		<text>Jest zamówienie na nogê dzika.</text>
+		<text>Jest zamówienie na psi ogon. Przynieœ mi je.</text>
 	</string>
 	<string id="desc_kremen_monster_part_1">
-		<text>Przynieœ Krzemieniowi nogê dzika.</text>
+		<text>Przynieœ Krzemieniowi ogon psa</text>
 	</string>
 	<string id="kremen_monster_part_2">
-		<text>Przynieœ oko miêsacza</text>
+		<text>Przynieœ ³apê burera</text>
 	</string>
 	<string id="text_kremen_monster_part_2">
-		<text>Jest zamówienie na oko miêsacza.</text>
+		<text>Jest zamówienie na ³apê burera.</text>
 	</string>
 	<string id="desc_kremen_monster_part_2">
-		<text>Przynieœ Krzemieniowi oko miêsacza.</text>
+		<text>Przynieœ Krzemieniowi ³apê burera.</text>
 	</string>
-	
+
 	<string id="groover_find_artefact_1">
 		<text>ZnajdŸ artefakt "Kotlet"</text>
 	</string>
@@ -1537,7 +1537,7 @@
 	<string id="desc_groover_find_artefact_18">
 		<text>ZnajdŸ i przynieœ Gruberowi artefakt "Mika".</text>
 	</string>
-	
+
 	<string id="groover_monster_part_1">
 		<text>Przynieœ stopê snorka</text>
 	</string>
@@ -1556,8 +1556,8 @@
 	<string id="desc_groover_monster_part_2">
 		<text>Przynieœ Gruberowi macki pijawki.</text>
 	</string>
-	
-	
+
+
 	<string id="tm_kremen_has_no_job">
 		<text>Na razie golcu.</text>
 	</string>
@@ -1573,7 +1573,7 @@
 	<string id="tm_kremen_list_job">
 		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string>
-	
+
 	<string id="tm_groover_has_no_job">
 		<text>Na razie golcu.</text>
 	</string>
@@ -1589,14 +1589,14 @@
 	<string id="tm_groover_list_job">
 		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string>
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
 	<!-- <string id="tm_trader_dubl_find_artefact_1">
 		<text>ZnajdŸ artefakt "Kotlet"</text>
 	</string>
@@ -1759,7 +1759,7 @@
 	<string id="desc_tm_trader_dubl_find_artefact_18">
 		<text>ZnajdŸ i przynieœ Sidorowiczowi artefakt "Mika".</text>
 	</string>
-	
+
 	<string id="tm_trader_dubl_monster_part_1">
 		<text>Przynieœ nogê dzika</text>
 	</string>
@@ -1778,7 +1778,7 @@
 	<string id="desc_tm_trader_dubl_monster_part_2">
 		<text>Przynieœ Sidorowiczowi oko miêsacza.</text>
 	</string>
-	
+
 	<string id="tm_trader_dubl_has_no_job">
 		<text>Na razie go³odupcu.</text>
 	</string>
@@ -1794,5 +1794,5 @@
 	<string id="tm_trader_dubl_list_job">
 		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string> -->
-	
+
 </string_table>
