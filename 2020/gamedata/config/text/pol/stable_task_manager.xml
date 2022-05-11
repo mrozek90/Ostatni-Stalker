@@ -1206,7 +1206,7 @@
 		<text>Przynieœ artefakt "Meduza"</text>
 	</string>
 	<string id="text_kremen_find_artefact_2">
-		<text>Jest ca³kiem proste zadanie: zdobyæ "Meduzê" Bierzesz?</text>
+		<text>Jest ca³kiem proste zadanie: zdobyæ "Meduzê". Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_2">
 		<text>ZnajdŸ i przynieœ Krzemieniowi artefakt "Meduza".</text>
@@ -1230,7 +1230,7 @@
 		<text>ZnajdŸ i przynieœ Krzemieniowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="kremen_find_artefact_5">
-		<text>Przynieœ artefakt "Gwiazda Wieczorna"</text>
+		<text>Przynieœ artefakt "Skrêtak"</text>
 	</string>
 	<string id="text_kremen_find_artefact_5">
 		<text>Artefakt "Skrêtak" jest potrzebny. Bierzesz?</text>
@@ -1548,13 +1548,13 @@
 		<text>Przynieœ Gruberowi stopê snorka.</text>
 	</string>
 	<string id="groover_monster_part_2">
-		<text>Przynieœ macki pijawki</text>
+		<text>Przynieœ rêkê zombi</text>
 	</string>
 	<string id="text_groover_monster_part_2">
-		<text>Duszone z cebul¹ macki pijawki niektórzy cudzoziemcy maj¹ za wielki rarytas. Wiêc jest zamówienie.</text>
+		<text>Duszone z cebul¹ rêce zombie niektórzy cudzoziemcy maj¹ za wielki rarytas. Wiêc jest zamówienie.</text>
 	</string>
 	<string id="desc_groover_monster_part_2">
-		<text>Przynieœ Gruberowi macki pijawki.</text>
+		<text>Przynieœ Gruberowi rêkê zombie.</text>
 	</string>
 
 
