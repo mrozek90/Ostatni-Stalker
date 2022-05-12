@@ -7,7 +7,7 @@ function from_deadman_1()
 end
 
 function from_uzbashi_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]P³oza: \n - %c[default]Grek, ktoœ zlikwidowa³ grupê Wodnego Szczura.", nil, nil, 30000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Baszar: \n - %c[default]Grek, ktoœ zlikwidowa³ grupê Wodnego Szczura.", nil, nil, 30000)
 end
 
 function from_grek_1()
