@@ -374,6 +374,80 @@
         <text>Aha.</text>
     </string>
 
+	<string id="marsh_bandit_siply_dialog_5_0">
+        <text>A teraz sprawdzimy frajerze, czy masz naprawdê dobre informacje.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_1">
+        <text>Pytaj, Grek.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_2">
+        <text>Warlok. Gdzie szukaæ?</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_3">
+        <text>Sto tysiêcy za info. A pieni¹dze - z góry.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_4">
+        <text>1.	A pójdziesz Ty, grzeszny dziwaku.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_5">
+        <text>2.	Tak, gadasz... Chocia¿ poczekaj. Zgoda, ale jeœli zdecydujesz siê na przekrêt - to Ciê wypatrosze frajerze.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_6">
+        <text>Na stacji, na dachu pomieszczenia generatora diesla, w du¿ej drewnianej skrzyni.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_7">
+        <text>Poszed³ won! Sk¹d masz to wiedzieæ? Nie wyleziesz z Bagien.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_8">
+        <text>Griszka Budulai w³aœnie tu by³. Nachla³ siê jak meserszmit. Gada³ do siebie o tym „warloku” i o tym, gdzie go ukry³.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_9">
+        <text>[W wybuch³em]: Da³em sto tysiêcy! Za brednie pijanego mechanika Griszki. No dobra, klamka zapad³a. Nara, Husky.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_10">
+        <text>Czekaj, Grek. Tam na dachu Monolity. Ale pozwol¹ Ci wyj¹æ tego z pude³ka, jeœli powiesz starszemu: „Od el maestro do el maestro za el brujo”. Demiurg - ksywa starszego.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_5_11">
+        <text>Hm. OK. Zobaczymy.</text>
+    </string>
+
+	<string id="marsh_bandit_siply_dialog_6_0">
+        <text>Ale teraz sprawdzimy czy jesteœ zwyk³ym frajerem, czy masz naprawdê dobre informacje.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_1">
+        <text>Pytaj, Grek.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_2">
+        <text>Warlok, co o tym s³ysza³eœ? Gdzie szukaæ?</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_3">
+        <text>Dwieœcie tysiêcy za info. Kasa z góry.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_4">
+        <text>1.	Pierdol siê, chyba kpisz.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_5">
+        <text>2.	Pierdol siê. Chocia¿ poczekaj. Nawijaj. Ale jeœli zdecydujesz siê na przekrêt - to zmia¿d¿ê jak karalucha.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_6">
+        <text>Na stacji, na dachu hali generatorów diesla, w du¿ej drewnianej skrzyni.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_7">
+        <text>Chyba kpisz. Sk¹d niby masz to wiedzieæ skoro z Bagna nie wy³azisz?</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_8">
+        <text>Griszka Budulai w³aœnie tu by³. Wychla³ za du¿o. Coœ tam mamrota³ pod nosem o Warloku i o tym, gdzie go ukry³.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_9">
+        <text>[W wybuchem]: Da³em dwieœcie tysiêcy!! Za jakiœ pijany be³kot mechanika Griszki. No dobra, sta³o siê. ¯egnaj, Husky.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_10">
+        <text>Czekaj, Greku. Tam na dachu Monolity. Nie pozwol¹ Ci wyj¹æ nic z pude³ka, jeœli powiesz starszemu: „Od el maestro do el maestro za el brujo”. Demiurg - ksywa starszego.</text>
+    </string>
+	<string id="marsh_bandit_siply_dialog_6_11">
+        <text>Hm. OK. Zobaczymy.</text>
+    </string>
+
 	<string id="val_killer_yalta_arrest_dialog_1_0">
         <text>Co do Uzbeka nic siê nie zmieni³o.</text>
     </string>
@@ -1539,7 +1613,23 @@
         <text>Teraz jesteœmy z Uzbekiem. Co powie - tak bêdzie.</text>
     </string>
 	<string id="marsh_yalta_dialog_1_4">
-        <text>Rozumiem. Powodzenia, bracia.</text>
+        <text>Jasne. Powodzenia bratku.</text>
+    </string>
+
+	<string id="marsh_yalta_dialog_2_0">
+        <text>Same œmia³ki do Uzbeka do³¹czy³y?</text>
+    </string>
+	<string id="marsh_yalta_dialog_2_1">
+        <text>Warnak podsun¹³. Znikn¹³eœ gdzieœ po napadzie, zaczêliœmy szukaæ pracy, a Warnak udziela³ rad w kawiarni. No i szepn¹³ dobre s³owo do Uzbeka.</text>
+    </string>
+	<string id="marsh_yalta_dialog_2_2">
+        <text>Fakt, zacz¹³em krêciæ siê i zapomnia³em o Tobie... Wiêc co zrobicie?</text>
+    </string>
+	<string id="marsh_yalta_dialog_2_3">
+        <text>Jesteœmy teraz pod Uzbekiem. Cokolwiek powie, my to zrobimy.</text>
+    </string>
+	<string id="marsh_yalta_dialog_2_4">
+        <text>Zrozumia³em. Powodzenia bracie.</text>
     </string>
 
 	<string id="marsh_zulus_dialog_1_0">
@@ -2756,9 +2846,794 @@
         <text>Rozumiem.</text>
     </string>
 
-<string id="gruver_speek_arts_0">
-        <text>Popatrz tu kole¿ko - nie wiesz co to takiego? (pokazuje pu³apki na arty)</text>
+	<string id="sor_budulay_dialog_1_0">
+        <text>Witaj Grisza.</text>
     </string>
+	<string id="sor_budulay_dialog_1_1">
+        <text>Có¿, œwietni. Gadaj, czego potrzebujesz?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_2">
+        <text>Interesuje mnie Twoja straszliwa broñ - Warlok-666.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_3">
+        <text>Warlok-666... Strie³ok powiedzia³, ¿e zrobi³eœ go na zamówienie dla grupy Synoptyka.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_4">
+        <text>Co Ciê obchodzi Warlok, Grek? Tak, nie mo¿esz odpowiedzieæ, to takie jasne. I nie stresuj siê za bardzo - nie mam go.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_5">
+        <text>Odda³, sprzeda³ lub zgubi³ po pijaku?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_6">
+        <text>Widzia³em roz³adowany akumulator. Zw³oki zdjête "warlokiem". Wiêc istnieje warlok, czy nie istnieje?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_7">
+        <text>Czy ten mo¿na naprawiæ? [Poka¿ uszkodzonego Warloka]</text>
+    </string>
+	<string id="sor_budulay_dialog_1_8">
+        <text>Jeœli znajdê zepsutego, naprawisz go?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_9">
+        <text>Jaki masz interes?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_10">
+        <text>Nie robiê ju¿ napraw.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_11">
+        <text>To przera¿aj¹ce uczucie, gdy wiesz, ¿e w ka¿dej chwili jakiœ czort mo¿e Ciê pokonaæ z kilku kilometrów. Gdybym to mia³ - inna sprawa. I tak jest powód ¿eby uciec ze Strefy.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_12">
+        <text>Teraz dam Ci bezp³atn¹ radê, Grek: wynoœ siê. Nara, by³y kumplu od picia.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_13">
+        <text>No có¿, trzymaj siê Grisza.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_14">
+        <text>Dobra, Grek. Nie s³ysza³em o Tobie z³ego s³owa. Dlatego coœ Ci powiem. Ukry³em Warloka w elektrowni j¹drowej.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_15">
+        <text>Wiêc mo¿e mo¿esz wskazaæ miejsce schowka? Czy tajemnica?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_16">
+        <text>Miejsce jest bezpieczne - po prostu nie mo¿esz siê tam dostaæ. A bezpieczeñstwo gwarantuj¹ Monolity - to groŸni faceci. Ogólnie to wrzucê Ci wspó³rzêdne do PDA. A jak siê tam dostaæ - kombinuj. Jeœli tam dotrzesz, powiesz im g³ównemu, ksywka - Demiurgiow: "Od el maestro do el maestro za el brujo". S³owo po s³owie. Nie pomieszaj tego.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_17">
+        <text>Gracias enormes por la cooperacion, el senor Jorge.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_18">
+        <text>No dobra, a w razie czego - zrobisz remont?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_19">
+        <text>Nie-e. Ulegnie samozniszczeniu przy demonta¿u.</text>
+    </string>
+	<string id="sor_budulay_dialog_1_20">
+        <text>Okazuje siê, ¿e na pró¿no taszczy³em ten zardzewia³y kawa³ek ¿elaza?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_21">
+        <text>Ktoœ Ciê niewoli³?</text>
+    </string>
+	<string id="sor_budulay_dialog_1_22">
+        <text>Dobra, Grek. Nie s³ysza³em o Tobie nic z³ego. Dlatego mówiê. Ukry³em "warloka" w elektrowni j¹drowej.</text>
+    </string>
+
+	<string id="sor_budulay_dialog_2_0">
+        <text>Potrzebne s¹ baterie.</text>
+    </string>
+	<string id="sor_budulay_dialog_2_1">
+        <text>Jakie chcesz? Dro¿sze ale l¿ejsze, czy tañsze ale ciê¿sze?</text>
+    </string>
+	<string id="sor_budulay_dialog_2_2">
+        <text>1.	Tañsze.</text>
+    </string>
+	<string id="sor_budulay_dialog_2_3">
+        <text>2.	Dro¿sze.</text>
+    </string>
+	<string id="sor_budulay_dialog_2_4">
+        <text>3.	Zmieni³em zdanie.</text>
+    </string>
+
+	<string id="aes_demiurg_dialog_1_0">
+        <text>Chwa³a Ci za to Demiurg.</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_1">
+        <text>Jesteœ tym, który przyby³ z mnichami-wojownikami, przebi³ siê, walczy³, wszed³ do kana³u, wyszed³ z innym, wróci³, wyskoczy³ z tunelu i znikn¹³. Tak jest?</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_2">
+        <text>Tak.</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_3">
+        <text>Wczeœniej zosta³eœ zabity, ale inni wskrzesili Ciê i przez rok ¿y³eœ jako inny w przykrywce. Tak jest?</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_4">
+        <text>Tak.</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_5">
+        <text>A teraz znowu wróci³eœ. Jeœli przyszed³eœ do innych, to droga nie zaczyna siê tutaj.</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_6">
+        <text>Nie. Szuka³em Ciebie. I chcê powiedzieæ: „Od el maestro do el maestro dla el brujo”.</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_7">
+        <text>Nie. Szuka³em Ciebie. I chcê powiedzieæ: „Od el maestro do el maestro dla el brujo”. Muszê Ciê ostrzec - przypadkowo znalaz³em has³o i miejsce.</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_8">
+        <text>Nie uwierzysz - po prostu jest to bardzo interesuj¹ce: dlaczego teleporty dzia³aj¹ i dok¹d mog¹ prowadziæ.</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_9">
+        <text>Dobrze. Oto walizka. WeŸ to, co musisz wzi¹æ</text>
+    </string>
+	<string id="aes_demiurg_dialog_1_10">
+<text>Mówisz prawdê. To dobrze. Ale nie obchodzi mnie, kto poda³ Ci has³o ani sk¹d je zdoby³eœ. Najwa¿niejsze, ¿e has³o jest poprawne. Oto walizka. WeŸ to, co musisz.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_11">
+<text>To mi³e.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_12">
+<text>Chcesz do nas do³¹czyæ? Do „Monolitu”.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_13">
+<text>1. Nie, dziêkujê. Chcê wróciæ do domu, na Wielk¹ Ziemiê. Mam tu wszystkiego dosyæ. Te same twarze. Te same gadki. „Jak siê masz?”, „Co nowego?”, „Czeœæ.”, dosta³em Strefê! Mam doœæ. A jeden rok jest generalnie wyciêty z ¿ycia, po prostu wymazany! Rozumiesz mnie, Demiurgo?</text>
+</string>
+	<string id="aes_demiurg_dialog_1_14">
+<text>S³ysza³em o mê¿czyŸnie, któremu skradziono dwadzieœcia lat.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_15">
+<text>Wiem, co masz na myœli. Zmar³. ¯egnaj Monolicie.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_16">
+<text>Wiem, co masz na myœli. ¯egnaj Monolicie.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_17">
+<text>2. Hm. Wejœæ w skórê Monolitu? By³em inny. Po prostu nic nie pamiêtam. Có¿, spróbujmy.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_18">
+<text>Nie bêdzie odwrotu, bêdzie inaczej.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_19">
+<text>1. Jestem gotowy.</text>
+</string>
+	<string id="aes_demiurg_dialog_1_20">
+<text>2. Tak? Zmieni³em zdanie i strasznie chcia³em wracaæ do domu. Mam tu wszystkiego dosyæ. Te same twarze. Te same gadki. „Jak siê masz?”, „Co nowego?”, „Czeœæ.”, dosta³em Strefê! Mam doœæ. ¯egnaj Monolicie.</text>
+</string>
+
+	<string id="autoritet_bodyguard_3_dialog_1_0">
+<text>Dobrego zdrowia, szanowny panie.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_1">
+<text>Witam.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_2">
+<text>Grecki, gdzie jest Leszy Borman?</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_3">
+<text>Leszy nie¿yje.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_4">
+<text>Potrzebujê dowodu, Grek.</text>
+ </string>
+	<string id="autoritet_bodyguard_3_dialog_1_5">
+<text>1. Czy rozpoznajesz? [poka¿ koraliki]</text>
+ </string>
+	<string id="autoritet_bodyguard_3_dialog_1_6">
+<text>Tak... Pami¹tka... Leszy nigdy by tego nikomu nie da³. Nawet dla wytchnienia. Có¿, co siê sta³o, sta³o siê. To dla Ciebie od Morfeusza. Piêædziesi¹t tysiêcy. ¯egnaj, Grek.</text>
+ </string>
+	<string id="autoritet_bodyguard_3_dialog_1_7">
+<text>Có¿, na razie Kudrawy.</text>    </string>
+	<string id="autoritet_bodyguard_3_dialog_1_8">
+<text>Widzia³em zw³oki. Musisz mi uwierzyæ na s³owo.</text>
+  </string>
+	<string id="autoritet_bodyguard_3_dialog_1_9">
+<text>Morfeusz powiedzia³, ¿e potrzebne s¹ twarde dowody.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_10">
+<text>Dowód? ... Dobrze. Bêdziesz mia³ dowód. Idziemy. To niedaleko.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_11">
+<text>Lesha zagin¹³. Ciê¿ko walczyliœmy z „czarnymi najeŸdŸcami” na Generatorach. Po bitwie nie widzia³em go ani ¿ywego, ani martwego. I wtedy zaczê³a siê Emisja... myœlê, ¿e ukry³ siê przed ni¹.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_12">
+<text>Gdzie te generatory?</text>
+ </string>
+	<string id="autoritet_bodyguard_3_dialog_1_13">
+<text>Ju¿ nigdzie. Usuniête z naszego œwiata.</text>
+ </string>
+	<string id="autoritet_bodyguard_3_dialog_1_14">
+<text>Co tu wygadujesz, Grek? Co mam powiedzieæ Morfeuszowi? Jak na greckim bazarze, ¿e Borman znikn¹³ w ramach jakiegoœ wydarcia, na jakichœ Generatorach, które ktoœ skasowa³? Pos³ucha³byœ sam siebie. Co to za bzdury? Gdzie jest dowód? Morfeusz powiedzia³, ¿e potrzebujesz twardych dowodów!</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_15">
+<text>Dowód? ... Dobra. Bêdziesz mia³ dowód. Idziemy. To niedaleko.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_16">
+<text>2. Mówisz, ¿e potrzebujesz dowodu? Có¿, wrzuæ swój gruby ty³ek do Hummera i pod¹¿aj za nimi do Strefy, m¹dralo!</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_17">
+<text>Nie b¹dŸ taki hej do przodu, Grek. Za³atwmy to inaczej.</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_1_18">
+<text>W takim razie... Bêdziesz mia³ dowód. Idziemy. To niedaleko.</text>
+ </string>
+
+	<string id="autoritet_bodyguard_3_dialog_2_0">
+<text>Gdzie oni s¹?</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_2_1">
+        <text>Kto?</text>
+    </string>
+	<string id="autoritet_bodyguard_3_dialog_2_2">
+<text>Nie udawaj g³upiego, Grek! Gdzie s¹ dowody?</text>
+</string>
+	<string id="autoritet_bodyguard_3_dialog_2_3">
+<text>Oto oni. W krzakach.</text>
+ </string>
+
+	<string id="sor_bubenersh_dialog_2_0">
+<text>Wykop je po cichu tutaj.</text>
+ </string>
+	<string id="sor_bubenersh_dialog_2_1">
+<text>Zróbmy to, Grek. A co potem?</text>
+ </string>
+	<string id="sor_bubenersh_dialog_2_2">
+<text>Nastêpnie goñ na Bagna. Szamraj nie mo¿e o niczym wiedzieæ. Jeœli dowie siê o Twoich wyczynach na Kordonie, zastrzeli Ciê na chuj.</text>
+ </string>
+	<string id="sor_bubenersh_dialog_2_3">
+<text>A potem dok¹d?</text>
+ </string>
+	<string id="sor_bubenersh_dialog_2_4">
+<text>Trzymaj siê blisko kaplicy. Na razie to wszystko!</text>
+ </string>
+
+	<string id="barman_dialog_about_cars_0">
+<text>S³uchaj, Ernest, nie s³ysza³eœ czasem o brykach?</text>
+ </string>
+	<string id="barman_dialog_about_cars_1">
+<text>Jakich brykach?</text>
+  </string>
+	<string id="barman_dialog_about_cars_2">
+<text>A no zwyczajne takie auta. Cywilne „Chevrolet” i „Hummer”.</text>
+ </string>
+	<string id="barman_dialog_about_cars_3">
+<text>Grek, czy... czy Ty je zniszczy³eœ?</text>
+</string>
+	<string id="barman_dialog_about_cars_4">
+<text>Nie by³o wyboru. Nie bój siê, Ernest, nie znajd¹ sprawców: wszystko jest czysto za³atwione.</text>
+</string>
+	<string id="barman_dialog_about_cars_5">
+<text>Czyste, mówisz? A samochody?</text>
+ </string>
+	<string id="barman_dialog_about_cars_6">
+<text>Kup, zabierz, odsprzedaj. Bañka z oba.</text>
+ </string>
+	<string id="barman_dialog_about_cars_7">
+<text>Nie, Grek, nie podpiszê siê pod tym... Chocia¿ jest jeszcze jedna opcja: pomogê Ci siê ich pozbyæ. Ale nie ma bañki a nawet pó³. Tak charytatywnie. Idziesz?</text>
+</string>
+	<string id="barman_dialog_about_cars_8">
+<text>1. Nie idê.</text>
+</string>
+	<string id="barman_dialog_about_cars_9">
+<text>2. Dobra. Niech tak bêdzie. Ale ¿eby ani jedna ¿yj¹ca dusza...</text>
+</string>
+	<string id="barman_dialog_about_cars_10">
+<text>Rzecz jasna. Napijesz sie?</text>
+</string>
+	<string id="barman_dialog_about_cars_11">
+<text>Dawaj.</text>    </string>
+
+	<string id="varnak_about_cars_0">
+<text>S¹ dwie taczki. Chevrolet i Hummer. Zainteresowany?</text>
+ </string>
+	<string id="varnak_about_cars_1">
+<text>Ile?</text>
+   </string>
+	<string id="varnak_about_cars_2">
+<text>Bañka za oba.</text>
+</string>
+	<string id="varnak_about_cars_3">
+<text>Rozs¹dna cena bior¹c pod uwagê ich historiê. Umowa stoi. Napijesz siê?</text>
+</string>
+	<string id="varnak_about_cars_4">
+<text>Dawaj.</text>
+ </string>
+
+	<string id="esc_shocker_dialog_1_0">
+<text>Zdrówka, Grek!</text>
+ </string>
+	<string id="esc_shocker_dialog_1_1">
+<text>Có¿... i Ty b¹dŸ zdrów Szoker.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_2">
+<text>Chcê zapytaæ – czy nadal masz mój PDA?</text>
+ </string>
+	<string id="esc_shocker_dialog_1_3">
+<text>Sk¹d wiesz, ¿e to wzi¹³em?</text>
+ </string>
+	<string id="esc_shocker_dialog_1_4">
+<text>Có¿, to proste: w pobli¿u jest wiele kamer. Mog³em coœ zauwa¿yæ. Wiêc masz to, czy nie?</text>
+ </string>
+	<string id="esc_shocker_dialog_1_5">
+<text>Byæ mo¿e i mam. I co z tego?</text>
+ </string>
+	<string id="esc_shocker_dialog_1_6">
+<text>Grek, nie potrzebujesz go. Nie przyda Ci siê wiêcej. Cena za niego to dycha w targowy dzieñ... A ja jestem gotów kupiæ w³asny PDA za dwadzieœcia piêæ.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_7">
+<text>1. To nie wystarczy.</text>
+</string>
+	<string id="esc_shocker_dialog_1_8">
+<text>2. Dobra. Stoi!</text>   
+ </string>
+	<string id="esc_shocker_dialog_1_9">
+<text>Chcê o coœ jeszcze spytaæ, Grek – dlaczego nie wykiwa³eœ nas wszystkich tam, w Dolinie, kiedy wszyscy spaliœmy pod tymi œmieciami?</text>
+</string>
+	<string id="esc_shocker_dialog_1_10">
+<text>Nie wiem. Mo¿e muzyka w Twoim barze to zrobi³a... nie wiem, Szoker.</text>
+</string>
+	<string id="esc_shocker_dialog_1_11">
+<text>Jesteœ dobrym cz³owiekiem, Grek. Zaakceptuj p³atnoœæ.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_12">
+<text>WeŸ PDA. I ¿egnaj Szoker.</text>
+  </string>
+	<string id="esc_shocker_dialog_1_13">
+<text>Nie wystarczy? Dorzucê schowek z artami. Nasz schowek, arty tam zacne.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_14">
+<text>Zacne, mówisz? Mmm.. No dobrze. Stoi!</text>
+  </string>
+	<string id="esc_shocker_dialog_1_15">
+<text>Podam Ci wspó³rzêdne skrytki i forsê – Ousipi, powiedz mu.</text>
+  </string>
+	<string id="esc_shocker_dialog_1_16">
+<text>Nie omieszkam.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_17">
+<text>S³uchaj Grek, chcê o coœ soytaæ – dlaczego nie wykiwa³eœ nas wszystkich tam, w Dolinie, kiedy wszyscy spaliœmy pod tymi œmieciami?</text>
+  </string>
+	<string id="esc_shocker_dialog_1_18">
+<text>Nie wiem. Mo¿e muzyka w Twoim barze to zrobi³a... nie mam pojêcia, Szoker.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_19">
+<text>Dobry z Ciebie ch³op, Grek.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_20">
+<text>A no. Zdarza siê.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_21">
+<text>Nie mam go.</text>
+ </string>
+	<string id="esc_shocker_dialog_1_22">
+<text>Szkoda. Tak czy siak. Nie - wiêc nie. I chcê zapytaæ jeszcze o jedn¹ rzecz, Grek – dlaczego nie wykiwa³eœ nas wszystkich tam, w Dolinie, kiedy wszyscy drzemali pod tymi œmieciami?</text>
+ </string>
+	<string id="esc_shocker_dialog_1_23">
+<text>Nie wiem. Mo¿e to ta nastrojowa muzyka w Twoim barze to zrobi³a... nie wiem, Szoker.</text>
+</string>
+	<string id="esc_shocker_dialog_1_24">
+<text>Jesteœ dobrym cz³owiekiem, Grek. Podam Ci wspó³rzêdne skrytki. Nasza skrytka. Sztuka tam nie jest z³a, weŸ sobie wszystko.</text>
+   </string>
+	<string id="esc_shocker_dialog_1_25">
+<text>Hmm. Có¿, dziêkujê.</text>
+  </string>
+
+	<string id="esc_osp_dialog_1_0">
+<text>Pozdrowienia, stalkerze.</text>
+  </string>
+	<string id="esc_osp_dialog_1_1">
+<text>Jestem tu z powodu forsy.</text>
+ </string>
+	<string id="esc_osp_dialog_1_2">
+<text>S³ysza³em rozmowê. A jednak w ¿aden sposób nie rozumiem – dlaczego nas nie zastrzeli³eœ? Byliœmy w Twoich ³apach.</text>
+  </string>
+	<string id="esc_osp_dialog_1_3">
+<text>Dobrze mówisz po rosyjsku, Ousipi.</text>
+ </string>
+	<string id="esc_osp_dialog_1_4">
+<text>Nie rozumiesz?</text>    </string>
+	<string id="esc_osp_dialog_1_5">
+<text>¯egnaj, Ousipy, in¿ynierze systemowy z Warszawy.</text>
+ </string>
+
+	<string id="lim_yakovlev_dialog_3_0">
+<text>Wiitaj witaj. Krótko mówi¹c, komandorze, wy³¹czy³em wie¿yczki.</text>
+ </string>
+	<string id="lim_yakovlev_dialog_3_1">
+<text>Jak tam winda?</text>
+ </string>
+	<string id="lim_yakovlev_dialog_3_2">
+<text>Rewizja jest oczywiœcie potrzebna. Nic poza tym.</text>
+</string>
+	<string id="lim_yakovlev_dialog_3_3">
+<text>Zajmiemy siê tym. Mo¿esz sobie zatrzymaæ. Tylko nie zapomnij - nie ochroni Ciê przed kulami poza Szpitalem.</text>    </string>
+	<string id="lim_yakovlev_dialog_3_4">
+<text>Tak, pamiêtam, pamiêtam.</text>
+ </string>
+
+	<string id="dr_luzenko_about_giants_0">
+<text>Ja w sprawie zwierz¹tek.</text>
+ </string>
+	<string id="dr_luzenko_about_giants_1">
+<text>Tak, tak. Oto Twoje pieni¹dze. Dziêkujê bardzo.</text>
+</string>
+	<string id="dr_luzenko_about_giants_2">
+<text>Zawsze do us³ug.</text>
+ </string>
+
+	<string id="dr_luzenko_about_hsm_0">
+<text>Co o tym s¹dzisz, doktorze? [Poka¿ naklejki]</text>
+ </string>
+	<string id="dr_luzenko_about_hsm_1">
+<text>Tak, dok³adnie to chcia³bym zbadaæ. Czy wiesz, co to jest?</text>
+  </string>
+	<string id="dr_luzenko_about_hsm_2">
+<text>Wiem, doktorku.</text>
+ </string>
+	<string id="dr_luzenko_about_hsm_3">
+<text>Dobrze. Oto Twoje pieni¹dze. Dziêkujê.</text>
+</string>
+	<string id="dr_luzenko_about_hsm_4">
+<text>Jesteœmy w kontakcie, w razie czego.</text>
+ </string>
+
+	<string id="barman_goldenhead_dialog_0">
+<text>Nie rozumiem, kolego: og³osi³eœ na mnie polowanie? No to jestem.</text>
+</string>
+	<string id="barman_goldenhead_dialog_1">
+<text>O czym Ty mówisz, Grek?</text>
+ </string>
+	<string id="barman_goldenhead_dialog_2">
+<text>[Poka¿ og³oszenie] To wisia³o u Ciebie w barze.</text>
+  </string>
+	<string id="barman_goldenhead_dialog_3">
+<text>Fiu fiu... Wow! Ca³a bañka! Mówisz, ¿e w barze wisia³o? Interesuj¹ce...</text>
+ </string>
+	<string id="barman_goldenhead_dialog_4">
+<text>Ktoœ pyta³ o taczki?</text>
+ </string>
+	<string id="barman_goldenhead_dialog_5">
+<text>Ludzie Uzbeka ukradli wózki. Mo¿e ktoœ pyta³ póŸniej, ale ma³o kto by o tym bêbni³ – Uzbek nie lubi mordochlapów.</text>
+ </string>
+	<string id="barman_goldenhead_dialog_6">
+<text>Inni byli? No, po tym jak ludzie Uzbeka przestawili samochody.</text>
+</string>
+	<string id="barman_goldenhead_dialog_7">
+<text>Nie s¹dzê. Mo¿na oczywiœcie obejrzeæ nagrania z kamery... Chwileczkê! By³ Ochryp³y. Chudy goœæ. Widzia³em na monitorze, jak wszed³ przez drzwi. Przy schodach zatrzyma³ siê na parê minut i dopiero wtedy przyszed³ do lady.</text>
+</string>
+	<string id="barman_goldenhead_dialog_8">
+<text>Ochryp³y zapyta³ o wózki? Albo o mnie?</text>
+</string>
+	<string id="barman_goldenhead_dialog_9">
+<text>Nie. Absolutnie nie. Machn¹³ kieliszkiem wódki, zap³aci³ i wyszed³.</text>
+  </string>
+	<string id="barman_goldenhead_dialog_10">
+<text>Œliski typ... Hej, Ernest, jeœli Ochryp³y znów siê pojawi, powiedz mu ¿eby poczeka³ na Greka tutaj, jest interes. Bêdzie próbowa³ siê wymkn¹æ - daj znaæ Warnakowi, niech go trzyma. Czujê w koœciach, ¿e Ochryp³y pojawi³ siê w Sortowni z jakiegoœ powodu. OK?</text>
+ </string>
+	<string id="barman_goldenhead_dialog_11">
+		<text>W porz¹dku.</text>
+    </string>
+	<string id="barman_goldenhead_dialog_12">
+<text>Kto teraz kieruje obozem wojskowym?</text>
+</string>
+	<string id="barman_goldenhead_dialog_13">
+<text>Jest pusty. By³ pusty. A teraz - nawet nie wiem.</text>
+</string>
+	<string id="barman_goldenhead_dialog_14">
+<text>W takim razie pójdê i sprawdzê.</text>
+ </string>
+
+	<string id="sor_bandit_siply_dialog_1_0">
+<text>Serwus, Grek.</text>    </string>
+	<string id="sor_bandit_siply_dialog_1_1">
+<text>Ochryp³y, a Ty jesteœ dzielnym sma¿alnikiem: siedzisz tak spokojnie i czekasz, a¿ przynios¹ Ci g³owê Greka. Zaraz urwê Twój i powieszê jako dzwonek przy uszach barmana. Twoje to?! [Poka¿ og³oszenie]</text>
+ </string>
+	<string id="sor_bandit_siply_dialog_1_2">
+<text>Spokojnie Grek, zaraz wszystko wyjaœniê.</text>
+ </string>
+	<string id="sor_bandit_siply_dialog_1_3">
+<text>B¹dŸ ³askaw bo rêce mnie œwie¿bi¹.</text>
+ </string>
+	<string id="sor_bandit_siply_dialog_1_4">
+<text>By³em na bagnach (no wiesz, gdzie zwykle spêdzam czas), kiedy przysz³a do mnie wiadomoœæ, ¿e mo¿na siê ca³kiem nieŸle ustawiæ. Trzeba by³o tylko spotkaæ ma³ego cz³owieka w pobli¿u wie¿y ciœnieñ. Poszed³em. A tam braciaki. Dali ten kawa³ek papieru, ¿eby zanieœæ i powiesiæ go na tablicy przy Sortowni i czekaæ albo na g³owê Greka, albo na jego truch³o.</text>
+  </string>
+	<string id="sor_bandit_siply_dialog_1_5">
+<text>Dali Ci œwistek, Ty go powiesi³eœ, przynieœli Ci g³owê i co dalej?</text>
+  </string>
+	<string id="sor_bandit_siply_dialog_1_6">
+<text>OdprowadŸ s³abego towarzysza z hmm... przedmiotem na Polanê.</text>
+ </string>
+	<string id="sor_bandit_siply_dialog_1_7">
+<text>Oto on, biedak z „przedmiotem mmm” przed Tob¹. ChodŸmy, dobra?</text>
+ </string>
+	<string id="sor_bandit_siply_dialog_1_8">
+<text>Nie, Grek. Beze mnie: leje na to, to nie realne. Nie pójdê.</text>
+  </string>
+	<string id="sor_bandit_siply_dialog_1_9">
+<text>A gdzie pójdziesz?</text>
+</string>
+	<string id="sor_bandit_siply_dialog_1_10">
+<text>Jeœli pozwolisz mi odejœæ, wydostanê siê ze Strefy. Bojê siê ich, a jeszcze bardziej Ciebie. Nie ¿yjesz. Zosta³eœ zabity rok temu.</text>
+ </string>
+	<string id="sor_bandit_siply_dialog_1_11">
+<text>No dobrze. Zabili-zabili. Gorzej ni¿ baba. Sp³ywaj. IdŸ, zanim zmieniê zdanie.</text>
+ </string>
+
+	<string id="pol_zyama_dialog_0">
+<text>Oba! On sam siê pojawi³!</text>
+</string>
+	<string id="pol_zyama_dialog_1">
+<text>Ty g³upi ciulu, m¹ciwodo! Nie wyjdziesz st¹d ¿ywy. Jasne?</text>
+ </string>
+	<string id="pol_zyama_dialog_2">
+<text>Jak Kud³aty, Tatar, Vshtyreny i Koroban? A tak przy okazji, gdzie oni s¹ i ich samochody? Denerwujesz powa¿nych ludzi, Grek. Niedobrze.</text>
+  </string>
+	<string id="pol_zyama_dialog_3">
+<text>Twoje? [Poka¿ og³oszenie]</text>
+  </string>
+	<string id="pol_zyama_dialog_4">
+<text>Có¿, rozumiesz, Grek, Igor Olegovich nie bêdzie patrzy³ na Twoje wybryki przez palce. Bêdziesz musia³ odpowiedzieæ. Wiêc gdzie s¹ ch³opcy i samochody?</text>
+ </string>
+	<string id="pol_zyama_dialog_5">
+<text>Dlaczego nie zapytasz: „Gdzie jest Leszy”? Leszy zmar³. Kud³atemu tak powiedzia³em. On w Zone ze swoimi polaz³. Tam szukaj.</text>
+  </string>
+	<string id="pol_zyama_dialog_6">
+<text>Tak gadasz, Grek?</text>
+  </string>
+	<string id="pol_zyama_dialog_7">
+<text>Odszczekaj swoje oskar¿enia.</text>
+ </string>
+	<string id="pol_zyama_dialog_8">
+<text>Dobrze. Lesza nie ¿yje?</text>
+ </string>
+	<string id="pol_zyama_dialog_9">
+<text>Có¿, mam ju¿ doœæ g³upiego bazaru. Moja odpowiedŸ: dostarczy³eœ g³owê? Postêpowa³eœ zgodnie z protoko³em? Gdzie jest moja bañka?</text>
+  </string>
+	<string id="pol_zyama_dialog_10">
+<text>Uspokój siê, Grek. To nie lata 90. Otrzymasz swoje pieni¹dze.</text>
+ </string>
+	<string id="pol_zyama_dialog_11">
+<text>Kiedy?</text>
+ </string>
+	<string id="pol_zyama_dialog_12">
+<text>Dostaniesz powiadomienie.</text>
+ </string>
+	<string id="pol_zyama_dialog_13">
+        <text>Dobra.</text>
+    </string>
+	<string id="pol_zyama_dialog_14">
+<text>Czy Ty mnie przeœladujesz, Grek? Czego jeszcze chcesz?</text>
+ </string>
+	<string id="pol_zyama_dialog_15">
+<text>No to porównajmy lufy.</text>
+ </string>
+
+	<string id="esc_col_panzer_2_dialog_2_0">
+<text>S³ysza³em, ¿e masz problemy, pu³kowniku, szukasz in¿yniera systemów. A jeœli to nie tajemnica - co siê sta³o?</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_2_1">
+<text>Co siê sta³o? Sam wysadzi³ mobilny punkt dowodzenia z panelem sterowania wie¿y, a teraz cieszy ryja.</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_2_2">
+<text>Co za najazd, pu³kowniku?</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_2_3">
+        <text>¯art.</text>
+    </string>
+	<string id="esc_col_panzer_2_dialog_2_4">
+        <text>Dowcipniœ.</text>
+    </string>
+	<string id="esc_col_panzer_2_dialog_2_5">
+<text>Wie¿yczki Perymetru nie dzia³aj¹. Mutanty wspinaj¹ siê, a wie¿yczki wy³¹czone. W Limañsku i w Dolinie dzia³aj¹ normalnie po restarcie systemu, ale tutaj nie ma co restartowaæ: zniszczyliœmy system razem z Tob¹, Grek.</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_2_6">
+<text>Po co w takim razie in¿ynier systemowy?</text>
+</string>
+	<string id="esc_col_panzer_2_dialog_2_7">
+<text>Giena mówi, ¿e mo¿na przydzieliæ kontrolê nad wie¿yczkami z panelu sterowania na stronê po³udniow¹.</text>
+</string>
+	<string id="esc_col_panzer_2_dialog_2_8">
+<text>Jeœli mo¿na - dlaczego nie? A mo¿e zdobywa wartoœæ?</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_2_9">
+<text>Mówi, ¿e potrzebny jest kod dostêpu, kody in¿ynierskie. Nie mo¿na ich zhakowaæ.</text>
+   </string>
+	<string id="esc_col_panzer_2_dialog_2_10">
+<text>Mo¿e mogê pomóc. Nie ¿egnam siê, pu³kowniku.</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_2_11">
+<text>Có¿... nawet ja tutaj jestem bezsilny.</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_2_12">
+<text>Chwileczkê... Znam kogoœ, kto mo¿e pomóc.</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_2_13">
+        <text>Mo¿e pomóc</text>
+    </string>
+	<string id="esc_col_panzer_2_dialog_2_14">
+<text>Uratowa³em mu ¿ycie. Widzia³em go póŸniej – pamiêta.</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_2_15">
+<text>Uratowa³em mu ¿ycie. Po prostu muszê go znaleŸæ.</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_2_16">
+<text>Kto to jest? Czy go znam?</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_2_17">
+<text>Ousipi. Technik systemów u najemników.</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_2_18">
+<text>Wiem kto. Jak uratowa³eœ mu ¿ycie?</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_2_19">
+        <text>Nie strzeli³em.</text>
+    </string>
+
+	<string id="val_gena_hacker_dialog_2_0">
+<text>Spójrz – znalaz³em to gówno w skrzynce. I wydaje mi siê, ¿e to by³a schowek Ousipi. [Poka¿ kartê] Mo¿e siê przydaæ do rozwi¹zania problemu z wie¿yczkami na Cordon?</text>
+ </string>
+	<string id="val_gena_hacker_dialog_2_1">
+<text>Nie wiem. Spróbujê przeczytaæ. Dziêkujê Grek.</text>
+ </string>
+	<string id="val_gena_hacker_dialog_2_2">
+<text>Mam nadziejê, ¿e nie zdziera³em piêt na pró¿no.</text>
+ </string>
+
+	<string id="esc_col_panzer_2_dialog_3_0">
+<text>No, pu³kowniku, czy wie¿yczki dzia³aj¹?</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_3_1">
+<text>Uhm. Przyda³a siê karta, któr¹ przynios³eœ: wszystkie kody na niej by³y sprytnie zaszyfrowane. Giena zdo³a³ znaleŸæ klucz do szyfru.</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_3_2">
+<text>Jestem szczêœliwy z tego powodu. Gdzie s¹ moje pieni¹dze?</text>
+ </string>
+	<string id="esc_col_panzer_2_dialog_3_3">
+        <text>Ju¿ Ci œlê.</text>
+    </string>
+	<string id="esc_col_panzer_2_dialog_3_4">
+        <text>Czeœæ</text>
+    </string>
+
+	<string id="val_gena_hacker_dialog_3_0">
+<text>Pu³kownik mówi, ¿e potrzebujesz kodów do systemu sterowania wie¿¹ na Kordonie.</text>
+</string>
+	<string id="val_gena_hacker_dialog_3_1">
+<text>Potrzebne. Pos³uchaj, Grek, to Ty rozprawi³eœ siê z tutejszymi najemnikami. Nie znalaz³eœ niczego przy pewnym najemniku - Ousipi?</text>
+</string>
+	<string id="val_gena_hacker_dialog_3_2">
+<text>Nie by³o czasu na szukanie. Szoker mia³ kody do lokalnego terminala. Reszta mnie nie interesowa³a. Znalaz³eœ coœ?</text>
+ </string>
+	<string id="val_gena_hacker_dialog_3_3">
+<text>Ousipi nie mia³ nic. W sensie sprzêt by³ i nic wiêcej. Byæ mo¿e potkn¹³ siê gdzieœ po drodze.</text>
+</string>
+	<string id="val_gena_hacker_dialog_3_4">
+<text>Po drodze, mówisz? A mo¿e g³upio trzyma³ je w g³owie?</text>
+ </string>
+	<string id="val_gena_hacker_dialog_3_5">
+<text>Nie, Grek, ciê¿ko jest zachowaæ w g³owie tyle znaków. Gdzieœ ukry³ notatkê lub, co bardziej prawdopodobne, pendrive.</text>
+</string>
+	<string id="val_gena_hacker_dialog_3_6">
+<text>Z grubsza znam jego œcie¿kê. Dobra, poszukam.</text>
+ </string>
+
+	<string id="val_gena_hacker_dialog_4_0">
+<text>W skrócie, Giena, znalaz³em to ustrojstwo. Mo¿e w³aœnie tego potrzebujesz?</text>
+ </string>
+	<string id="val_gena_hacker_dialog_4_1">
+<text>Mo¿e. Spróbujê to przeczytaæ.</text>
+ </string>
+	<string id="val_gena_hacker_dialog_4_2">
+<text>Mam nadziejê, ¿e nie zdziera³em butów na pró¿no.</text>
+ </string>
+
+	<string id="esc_col_panzer_2_dialog_4_0">
+<text>No, pu³kowniku, czy wie¿yczki dzia³aj¹?</text>
+  </string>
+	<string id="esc_col_panzer_2_dialog_4_1">
+<text>Uhm. Przyda³a siê karta, któr¹ przynios³eœ: wszystkie kody na niej by³y sprytnie zaszyfrowane. Giena zdo³a³ znaleŸæ klucz do szyfru.</text>    </string>
+	<string id="esc_col_panzer_2_dialog_4_2">
+<text>Jestem szczêœliwy z jego powodu. Gdzie s¹ moje pieni¹dze?</text>    </string>
+	<string id="esc_col_panzer_2_dialog_4_3">
+        <text>Zaraz bêdziesz je mieæ.</text>
+    </string>
+	<string id="esc_col_panzer_2_dialog_4_4">
+        <text>Dziêki, czeœæ!</text>
+    </string>
+
+	<string id="esc_osp_dolg_dialog_1_0">
+<text>Coœ jeszcze?</text>    </string>
+	<string id="esc_osp_dolg_dialog_1_1">
+<text>To zale¿y od Ciebie, mój m³ody przyjacielu. Pu³kownik Panzer potrzebuje in¿yniera systemów, który zajmie siê kontrol¹ wie¿yczek na Kordonie. Mo¿e potrafsz?</text>    </string>
+	<string id="esc_osp_dolg_dialog_1_2">
+<text>Oczywiœcie: to moja praca. Tylko powinnoœciowcy mnie zastrzel¹ albo zabior¹ do wiêŸnia.</text>    </string>
+	<string id="esc_osp_dolg_dialog_1_3">
+<text>Nie bój siê, odprowadzê Ciê. Wiesz, nie jest to jeden strza³, ale umowa na czas nieokreœlony. Pieni¹dze, ochrona, stabilnoœæ. Wiêc jak, zgadzasz siê?</text>    </string>
+	<string id="esc_osp_dolg_dialog_1_4">
+<text>¯adna kasa nie œmierdzi. Dobrze. Zgadzam siê.</text>    </string>
+	<string id="esc_osp_dolg_dialog_1_5">
+<text>ChodŸmy, mój polski przyjacielu.</text>    </string>
+
+	<string id="esc_col_panzer_2_dialog_5_0">
+<text>Czy przyprowadzi³em Ci in¿yniera systemowego najwy¿szej klasy, Panzer? Przyprowadzi³em. Gdzie s¹ moje pieni¹dze?</text>    </string>
+	<string id="esc_col_panzer_2_dialog_5_1">
+<text>Bêd¹ pieni¹dze, Grek. Gdy tylko Twój Polak potwierdzi swoje kwalifikacje, wie¿yczki zaczn¹ pukaæ - otrzymasz pieni¹dze. Jeœli sobie nie poradzi, to kosztem obci¹¿e ale Ciebie... </text>    </string>
+	<string id="esc_col_panzer_2_dialog_5_2">
+<text>Zrozumiano. Dobra, poczekam.</text>    </string>
+
+	<string id="esc_col_panzer_2_dialog_6_0">
+<text>No, pu³kowniku, czy wie¿yczki dzia³aj¹?</text>    </string>
+	<string id="esc_col_panzer_2_dialog_6_1">
+<text>Twój Polak jest super-specjalist¹ Grek. Wszystko dzia³a.</text>    </string>
+	<string id="esc_col_panzer_2_dialog_6_2">
+<text>Jestem szczêœliwy z jego powodu. Gdzie s¹ moje pieni¹dze?</text>    </string>
+	<string id="esc_col_panzer_2_dialog_6_3">
+        <text>Zaraz bêd¹.</text>
+    </string>
+	<string id="esc_col_panzer_2_dialog_6_4">
+        <text>Dziêki, czeœæ!</text>
+    </string>
+
+	<string id="sor_hazar_dialog_2_0">
+        <text>[Poka¿ og³oszenie] Twoje?</text>
+    </string>
+	<string id="sor_hazar_dialog_2_1">
+        <text>Tak Grek, pomo¿esz?</text>
+    </string>
+	<string id="sor_hazar_dialog_2_2">
+<text>Jakiego rodzaju informacji potrzebujesz Chazar?</text>    </string>
+	<string id="sor_hazar_dialog_2_3">
+<text>Widzisz, Grek, zosta³ zabrany, jak inni, do fabryki. Ale wed³ug plotek uda³o mu siê uciec z fabryki ciê¿arówk¹. Wiêc chcia³bym wiedzieæ, czy on ¿yje, czy te¿ zamkn¹³ oczy.</text>    </string>
+	<string id="sor_hazar_dialog_2_4">
+        <text>Dlaczego chcesz?</text>
+    </string>
+	<string id="sor_hazar_dialog_2_5">
+        <text>Mój przyjaciel.</text>
+    </string>
+	<string id="sor_hazar_dialog_2_6">
+        <text>Teraz, Chazar, idŸ do kawiarni i wspominaj swojego przyjaciela: umar³. Oto jego PDA. Zabra³em z cia³a. Na bagnach w pobli¿u fabryki. I ciê¿arówka tam jest. Lepiej tam nie idŸ - widok jest okropny..</text>
+    </string>
+	<string id="sor_hazar_dialog_2_7">
+        <text>Jasny. Nie tak daleko doszed³... Dobra - oto pieni¹dze, Grek. Czy mogê zachowaæ PDA?</text>
+    </string>
+	<string id="sor_hazar_dialog_2_8">
+        <text>Oczywiœcie Chazar.</text>
+    </string>
+	<string id="sor_hazar_dialog_2_9">
+        <text>Dziêki, jeœli zobaczê Twojego ziomka - dam cynk.</text>
+    </string>
+
+	<string id="sor_hazar_dialog_3_0">
+<text>Oto co, Chazar, idŸ do kawiarni i wspominaj swojego przyjaciela: umar³. Oto jego PDA. Zabra³em z cia³a. Na bagnach w pobli¿u fabryki. I ciê¿arówka tam jest. Lepiej tam nie idŸ - obraz jest koszmarny.</text>    </string>
+	<string id="sor_hazar_dialog_3_1">
+<text>Zrozumiano. Nie tak daleko, wiêc... Tak - oto pieni¹dze, Grek. Czy mogê zachowaæ PDA?</text>    </string>
+	<string id="sor_hazar_dialog_3_2">
+        <text>Oczywiœcie Chazar.</text>
+    </string>
+
+	<string id="sor_soldier_commander_1_dialog_2_0">
+<text>Czy jesteœ zainteresowany wypraw¹ wojskow¹ do Centrum Strefy, poruczniku?</text>    </string>
+	<string id="sor_soldier_commander_1_dialog_2_1">
+<text>Ja, Grek. Kr¹¿¹ straszne plotki, ale nie wierzê, potrzebujê dowodów. I mo¿esz powiedzieæ wszystko.</text>    </string>
+	<string id="sor_soldier_commander_1_dialog_2_2">
+<text>Z³omowisko, magazyny i Czerwony Las s¹ zaœmiecone rdzewiej¹cymi maszynami, poruczniku. I wêdruj¹ zombie w wojskowych mundurach.</text>    </string>
+	<string id="sor_soldier_commander_1_dialog_2_3">
+        <text>Stalkerskie bujdy.</text>
+    </string>
+	<string id="sor_soldier_commander_1_dialog_2_4">
+        <text>Oto kaseta z najnowszym nagraniem Parszyna. Parszynowi uwierzysz?</text>
+    </string>
+	<string id="sor_soldier_commander_1_dialog_2_5">
+        <text>Sk¹d... sk¹d to masz, stalkerze?</text>
+    </string>
+	<string id="sor_soldier_commander_1_dialog_2_6">
+        <text>W Czerwonym Lesie. I proszê mi wierzyæ, poruczniku, w naturze wszystko wygl¹da jeszcze straszniej, ni¿ mówi kapitan Parszyn. Trzymaj kasetê. Nie potrzebujê pieniêdzy.</text>
+    </string>
+
+	<string id="mil_military_stalker_storekeeper_dialog_3_0">
+        <text>To jest dyktafon Tarasa, Som</text>
+    </string>
+	<string id="mil_military_stalker_storekeeper_dialog_3_1">
+        <text>A co tam jest?</text>
+    </string>
+		<string id="mil_military_stalker_storekeeper_dialog_3_2">
+					<text>Sam pos³uchaj. Nie bêdziesz mia³ pytañ.</text>
+			</string>
 	<string id="gruver_speek_arts_1">
         <text>O¿esz, Ty! Wiem. To pu³apki na arty, parasolki. A ta to - ju¿ u¿ywana parasolka. W jej wnêtrzu jest ju¿ artefakt, trzeba go tylko wydostaæ. Oko³o pó³tora roku temu zaczê³y siê pojawiaæ nowe artefakty. Nie wiem jak one s¹ tam wewn¹trz urz¹dzone, ale go³ymi rêkami ich nie podniesiesz. Oto sobie le¿y artefakt, widzisz go a palce przez niego przechodz¹. Tylko powietrze chwytaj¹. A pu³apka go zgranuluje, czy te¿ skomasuje, czy coœ tam z nim zrobi... Wybacz, ale nie zag³êbia³em siê w te uczone terminy. Wiem, ¿e bez tego parasola artu nie weŸmiesz i ¿e jest to pu³apka jednorazowa. I ¿e te artefakty s¹ bardzo drogie.</text>
     </string>
