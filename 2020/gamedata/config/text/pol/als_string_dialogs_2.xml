@@ -1291,7 +1291,7 @@
         <text>Ju¿ o tym wiem. I wiesz co, Grek, nie bardzo mnie to martwi: tego durnia i tak by ktoœ za³atwi³. Wczeœniej czy póŸniej.</text>
     </string>
 	<string id="marsh_uzbek_wr_dialog_3_2">
-        <text>Zostawi³ notatkê w barze. (oddaje notatkê Teutona)</text>
+        <text>Zostawi³ notatkê w barze. [Oddaj notatkê Teutona]</text>
     </string>
 	<string id="marsh_uzbek_wr_dialog_3_3">
         <text>I nie interesuje ciê kto go zabi³?</text>
@@ -3159,7 +3159,7 @@
 <text>1. To nie wystarczy.</text>
 </string>
 	<string id="esc_shocker_dialog_1_8">
-<text>2. Dobra. Stoi!</text>   
+<text>2. Dobra. Stoi!</text>
  </string>
 	<string id="esc_shocker_dialog_1_9">
 <text>Chcê o coœ jeszcze spytaæ, Grek – dlaczego nie wykiwa³eœ nas wszystkich tam, w Dolinie, kiedy wszyscy spaliœmy pod tymi œmieciami?</text>
