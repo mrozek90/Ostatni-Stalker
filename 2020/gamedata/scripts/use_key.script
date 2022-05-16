@@ -41,7 +41,7 @@ function dik_f1()
 	if section then
 		local it = db.actor:object(section)
 		if it and it ~= nil then
-		this.hud_msg("cant_walk", "использовано: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
+		this.hud_msg("cant_walk", "Uїyto: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
 		db.actor:eat(it)
 		end
 	end
@@ -56,7 +56,7 @@ function dik_f2()
 	if section then
 		local it = db.actor:object(section)
 		if it and it ~= nil then
-		this.hud_msg("cant_walk", "использовано: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
+		this.hud_msg("cant_walk", "Uїyto: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
 		db.actor:eat(it)
 		end
 	end
@@ -68,7 +68,7 @@ function dik_f3()
 	if section then
 		local it = db.actor:object(section)
 		if it and it ~= nil then
-		this.hud_msg("cant_walk", "использовано: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
+		this.hud_msg("cant_walk", "Uїyto: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
 		db.actor:eat(it)
 		end
 	end
@@ -80,7 +80,7 @@ function dik_f4()
 	if section then
 		local it = db.actor:object(section)
 		if it and it ~= nil then
-		this.hud_msg("cant_walk", "использовано: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
+		this.hud_msg("cant_walk", "Uїyto: "..game.translate_string(system_ini():r_string(it:section(), "inv_name")))
 		db.actor:eat(it)
 		end
 	end

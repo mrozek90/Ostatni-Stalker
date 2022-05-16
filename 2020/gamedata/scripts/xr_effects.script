@@ -6079,7 +6079,7 @@ for i= 1, 65534 do
 				local ccc = string.len(search_art[j])
 				local aaa = string.sub(search_art[j],1,ccc-1)
 				alife():create(aaa, db.actor:position(), db.actor:level_vertex_id(), db.actor:game_vertex_id(),db.actor:id())
-				db.actor:give_game_news("Получена ловушка с артефактом.", "ui\\ui_iconsTotal",Frect():set(0,188,83,47) ,0, 5000)
+				db.actor:give_game_news("Otrzymano puіapkк z artefaktem.", "ui\\ui_iconsTotal",Frect():set(0,188,83,47) ,0, 5000)
 			end
 		end
 	end
