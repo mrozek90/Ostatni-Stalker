@@ -1882,11 +1882,11 @@
 			<infoportion_complete>player_complete_perimetre_storm</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wy³¹cz sterownie w punkcie kontrolnym</text>
+			<text>Wy³¹cz sterownie wie¿yczek w punkcie kontrolnym</text>
 			<infoportion_complete>perimetre_storm_1</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wy³¹cz sterowanie za pomoc¹ wie¿yczek Obrze¿a</text>
+			<text>Wy³¹cz sterowanie wie¿yczek w mobilnym punkcie</text>
 			<infoportion_complete>perimetre_storm_2</infoportion_complete>
 		</objective>
 		<objective>
