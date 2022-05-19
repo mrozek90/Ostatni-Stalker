@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="windows-1250" ?>
 <string_table>
+	<string id="catcher_dialog_2_0">
+				<text>Posłuchaj przyjacielu: za Twoimi plecami był stalker. Nie wiesz gdzie poszedł?</text>
+		</string>
+	<string id="catcher_dialog_2_1">
+				<text>Nikogo nie widziałem. Coś się stało, Grek?</text>
+		</string>
+	<string id="catcher_dialog_2_2">
+				<text>W takim razie nie było tematu.</text>
+		</string>
 
 	<string id="val_yalta_group_dialog_0">
         <text>Co do Uzbeka nic się nie zmieniło.</text>
