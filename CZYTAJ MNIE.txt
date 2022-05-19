@@ -1,0 +1,28 @@
+# Ostatni-Stalker 2020
+
+Spolszczenie dla wersji 2020 XRay  https://stalkerteam.pl/topic/16126-ostatni-stalker-v2020/
+
+
+------------- Zakaz udostępniania plików na stronach trzecich. --------------------------
+
+Mrozek
+https://stalkerteam.pl
+
+-----------------------------------------------------------------------------------------
+
+# **Instalacja:**
+
+- Wypakować/wkleić folder do głównego folderu z grą.
+
+- Wymaga nowej gry do prawidłowego działania.
+
+
+
+--------- #### -------------
+
+
+Wszystkie drobne aktualizacje będą udostępniane na Githubie:
+https://github.com/mrozek90/Ostatni-Stalker
+
+19.05.2022
+Wersja 1.17
