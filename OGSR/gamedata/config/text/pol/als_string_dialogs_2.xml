@@ -101,7 +101,7 @@
         <text>Dobrze, s³ucham.</text>
     </string>
 	<string id="sor_grc_agent_prisoner_dialog_2_4">
-        <text>Idziemy razem na Kordon. Przedstawisz ofertê dla dowództwa Powinnoœci - usun¹æ garnizon z Perymetru.</text>
+        <text>Idziemy razem na Kordon. Oferta od dowództwa Powinnoœci - usun¹æ garnizon z Perymetru.</text>
     </string>
 	<string id="sor_grc_agent_prisoner_dialog_2_5">
         <text>Nie mam takich pe³nomocnictw.</text>
@@ -1217,7 +1217,7 @@
         <text>Ju¿ o tym wiem. I wiesz co, Grek, nie bardzo mnie to martwi: tego durnia i tak by ktoœ za³atwi³. Wczeœniej czy póŸniej.</text>
     </string>
 	<string id="marsh_uzbek_wr_dialog_3_2">
-        <text>Zostawi³ notatkê w barze. (oddaje notatkê Teutona)</text>
+        <text>Zostawi³ notatkê w barze. [Oddaj notatkê Teutona]</text>
     </string>
 	<string id="marsh_uzbek_wr_dialog_3_3">
         <text>I nie interesuje ciê kto go zabi³?</text>

@@ -448,10 +448,10 @@
 </string>
 
 <string id="radio_scaner_name">
-	<text>Radioskaner</text>
+	<text>Radiotelefon</text>
 </string>
 <string id="radio_scaner_description">
-	<text>Szerokopasmowy radioskaner</text>
+	<text>Szerokopasmowy radiotelefon s³u¿¹cy do komunikacji w Zonie.</text>
 </string>
 
 <string id="automedic_system_name">
@@ -524,13 +524,13 @@
 	<text>SPRZEDAM!!! \n  Starodruk "Manuskrypt"  \n  W dobrym stanie  \n  Pytaæ o Kuczmê</text>
 </string>
 <string id="announcement_4_description">
-	<text>ZAGINIONY UCZONY!!! \n Szczodre wynagrodzenie za jak¹kolwiek wiadomoœæ o doktorze Bravermanie. \n £uczenko.</text>
+	<text>ZAGINIONY UCZONY!!! \n Szczodre wynagrodzenie za jak¹kolwiek wiadomoœæ o doktorze Bravermanie. \n £ucenko.</text>
 </string>
 <string id="announcement_5_description">
-	<text>ZAGINIONY NAUKOWIEC!!! \n Dr Braverman. Ostatnia wiadomoœæ radiowa z Laboratorium X-18. \n Szczodre wynagrodzenie. \n £uczenko.</text>
+	<text>ZAGINIONY NAUKOWIEC!!! \n Dr Braverman. Ostatnia wiadomoœæ radiowa z Laboratorium X-18. \n Szczodre wynagrodzenie. \n £ucenko.</text>
 </string>
 <string id="announcement_6_description">
-	<text>Powietrzne Laboratorium!!! \n Szczodre wynagrodzenie za wspó³rzêdne miejsca upadku. \n £uczenko.</text>
+	<text>Powietrzne Laboratorium!!! \n Szczodre wynagrodzenie za wspó³rzêdne miejsca upadku. \n £ucenko.</text>
 </string>
 <string id="accesscard_hsm_hos_description">
 	<text>Karta dostêpu do pomieszczenia zarz¹dzania dzia³kami.\n Kod dostêpu 040766</text>
@@ -542,9 +542,6 @@
 <string id="timer_bomb_description">
 	<text>Bomba o opóŸnionym dzia³aniu. Czas opóŸnienia po aktywacji zegara to 15 sekund.</text>
 </string>
-
-
-
 
 </string_table>
 

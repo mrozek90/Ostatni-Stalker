@@ -9,7 +9,7 @@
 	<text>AKT II : Zagubione horyzonty</text>
 </string>
 <string id="static_3">
-		<text>AKT III : Casus Belli</text>
+		<text>AKT III : Motyw Wojny</text>
 	</string>
 <string id="static_4">
 		<text>AKT IV : Po³udniowa kampania</text>
@@ -51,7 +51,7 @@
 	<text>Za informacje zostanie wyp³acone wynagrodzenie - 10 000.</text>
 </string>
 <string id="static_gone_selectors_announcement_4">
-	<text>Zlatyæ.</text>
+	<text>Zlatycz.</text>
 </string>
 
 <string id="static_job_for_corporation_announcement_1">
@@ -90,7 +90,7 @@
 	<text>o doktorze Brawermanie.</text>
 </string>
 <string id="static_lost_scientist_announcement_4">
-	<text>£uczenko.</text>
+	<text>£ucenko.</text>
 </string>
 
 <string id="static_lost_scientist_radio_announcement_1">
@@ -103,7 +103,7 @@
 	<text>Szczodre wynagrodzenie.</text>
 </string>
 <string id="static_lost_scientist_radio_announcement_4">
-	<text>£uczenko.</text>
+	<text>£ucenko.</text>
 </string>
 
 <string id="static_fallen_aircraft_announcement_1">
@@ -116,7 +116,7 @@
 	<text>wspó³rzêdne miejsca upadku.</text>
 </string>
 <string id="static_fallen_aircraft_announcement_4">
-	<text>£uczenko.</text>
+	<text>£ucenko.</text>
 </string>
 
 
@@ -632,7 +632,7 @@
 </string>
 
 <string id="marsh_gone_selectors">
-	<text>Zaginêli kopacze. \n Ostatni raz nawi¹zali ³¹cznoœæ 29-go kwietnia z Bagien. Za informacje zostanie wyp³acone wynagrodzenie - 10 000. \n Zlatyæ. \n Zerwij og³oszenie($$ACTION_USE$$)</text>
+	<text>Zaginêli kopacze. \n Ostatni raz nawi¹zali ³¹cznoœæ 29-go kwietnia z Bagien. Za informacje zostanie wyp³acone wynagrodzenie - 10 000. \n Zlatycz. \n Zerwij og³oszenie($$ACTION_USE$$)</text>
 </string>
 
 <string id="is_disconnected">

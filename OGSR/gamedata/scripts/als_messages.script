@@ -15,11 +15,11 @@ function from_grek_1()
 end
 
 function from_zlatich_money()
-	news_manager.send_tip(db.actor, "%c[255,1,255,255]Zlatyæ: \n - %c[default]Grek, Twoje informacje s¹ potwierdzone. Mo¿esz przyjœæ po nagrodê.", nil, nil, 30000)
+	news_manager.send_tip(db.actor, "%c[255,1,255,255]Zlatycz: \n - %c[default]Grek, Twoje informacje s¹ potwierdzone. Mo¿esz przyjœæ po nagrodê.", nil, nil, 30000)
 end
 
 function from_zlatich_1()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Zlatyæ: \n - %c[default]Grek, chodŸ. Jest temat do przegadania.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Zlatycz: \n - %c[default]Grek, chodŸ. Jest temat do przegadania.", nil, nil, 10000)
 end
 
 function from_system_2()
@@ -35,7 +35,7 @@ function from_system_3()
 end
 
 function from_system_4()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]SKANER RADIOWY USZKODZONY", nil, nil, 2000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]RADIOTELEFON USZKODZONY", nil, nil, 2000)
 	xr_effects.system_message_4()
 end
 
@@ -141,7 +141,7 @@ function recieved_massage_4()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Grek: \n - %c[default]To by by³o na tyle. Kwestia zasad.", nil, nil, 10000)
 end
 function recieved_massage_5()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]Warnak: \n - %c[default]Pamiêtasz jeszcze nasz¹ rozmowê o szachach? Ten, który zepsu³ przyjêcie, czeka w bunkrze na farmie w pobli¿u Sidoru. Pospiesz siê - nie bêdzie d³ugo czeka³.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Warnak: \n - %c[default]Pamiêtasz jeszcze nasz¹ rozmowê o szachach? Ten, który zepsu³ przyjêcie, czeka w bunkrze na farmie w pobli¿u Sidora. Pospiesz siê - nie bêdzie d³ugo czeka³.", nil, nil, 10000)
 end
 function recieved_massage_6()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n - %c[default]Grek, s³yszysz mnie? ¯o³nierze z³apali niez³ego karasia podczas próby przejœcia przez pó³nocny punkt kontrolny. Nie oci¹gaj siê, bêdzie bardzo ciekawie.", nil, nil, 10000)

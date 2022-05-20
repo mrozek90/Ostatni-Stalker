@@ -2,7 +2,7 @@
 <string_table>
 
 	<string id="tushkano_strong">
-		<text>Skoczek zabójca</text>
+		<text>Tuszkan zabójca</text>
 	</string>
 
 	<string id="usarmy_novice">
@@ -262,7 +262,7 @@
 	</string>
 
 	<string id="dfs_stalker_freedom_commander_name">
-		<text>Zlatyæ</text>
+		<text>Zlatycz</text>
 	</string>
 
 	<string id="dfs_stalker_freedom_gruver_name">
@@ -374,7 +374,7 @@
 	</string>
 
 	<string id="slaven_name">
-		<text>£adny</text>
+		<text>Slawian</text>
 	</string>
 
 	<string id="andry_name">
@@ -462,7 +462,7 @@
 	</string>
 
 	<string id="dc_krank_15_name">
-		<text>porucznik Parszywy</text>
+		<text>porucznik Parszyn</text>
 	</string>
 
 	<string id="dc_krank_16_name">
@@ -1010,7 +1010,7 @@
 	</string>
 
 	<string id="gena_hacker_name">
-		<text>haker Gen</text>
+		<text>haker Gienia</text>
 	</string>
 
 	<string id="haker_bandit_1_name">
@@ -1034,7 +1034,7 @@
 	</string>
 
 	<string id="waterrat_name">
-		<text>Wodny Szczur</text>
+		<text>Szczur Wodny</text>
 	</string>
 
 	<string id="marsh_sevchuk_name">
@@ -1094,7 +1094,7 @@
 	</string>
 
 	<string id="waterrat_stalker_13_name">
-		<text>Zapa³ek</text>
+		<text>Kutcher</text>
 	</string>
 
 	<string id="marsh_svoboda_trader_name">
@@ -1114,7 +1114,7 @@
 	</string>
 
 	<string id="marsh_svoboda_commander_name">
-		<text>Zlatyæ</text>
+		<text>Zlatycz</text>
 	</string>
 
 	<string id="svoboda_robot_name">
@@ -1226,7 +1226,7 @@
 	</string>
 
 	<string id="panzhc_arestant_4_name">
-		<text>Palacz</text>
+		<text>Stoker</text>
 	</string>
 
 	<string id="obamaboy_name">
@@ -1398,7 +1398,7 @@
 	</string>
 
 	<string id="cptn_parshin_name">
-		<text>kapitan Parszywy</text>
+		<text>kapitan Parszyn</text>
 	</string>
 
 	<string id="doctor_pyh_name">

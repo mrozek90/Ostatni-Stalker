@@ -213,8 +213,8 @@
 	<string id="tm_b_monster_part_1_descr">
 		<text>To tak mo¿na? ¯reæ oczy zmutowanej œwini?</text>
 	</string>
-	
-	
+
+
 	<string id="barmen_monster_part_2">
 		<text>Przynieœ kopyto dzika</text>
 	</string>
@@ -390,10 +390,10 @@
 		<text>Niepotrzebnie tak panikowa³em. Zona na ró¿ne sposoby miesza mi w g³owie. S¹dzi³em, ¿e mam nerwy ze stali, ¿e niczego siê nie bojê - a tu proszê. To wycie rozbrzmiewaj¹ce w uszach. Wszystko by³o jak zwykle. Szliœmy na ekspedycjê zwiadowcz¹ do Doliny Mroku, zeszliœmy z Kriwym do okopów, ¿eby kryæ resztê oddzia³u, a tu nagle us³ysza³em to wycie i strach mnie chwyci³ za gard³o. Cholera, nawet nie pamiêtam, jak dotar³em na miejsce. Kiedy wróci³em do bazy, Woronin o ma³o co mnie nie zastrzeli³ na miejscu - przecie¿ dopiero co da³ mi ulepszon¹ giwerê, jak to mówi¹: "za zas³ugi"... A tu nagle... spanikowa³em i zwia³em tak szybko, ¿e przez myœl mi nie przesz³o, ¿eby j¹ zabraæ. Odnajdziesz j¹ dla mnie? Bez porz¹dnej broni nie mam dok¹d pójœæ. </text>
 	</string>
 	<string id="ecolog_eliminate_lager_1">
-		<text>Zniszcz legowisko snorków</text>
+		<text>Zniszcz legowisko pseudogigantów</text>
 	</string>
 	<string id="ecolog_eliminate_lager_1_descr">
-		<text>Zniszcz legowisko snorków nad Jantarem.</text>
+		<text>Zniszcz legowisko pseudogigantów nad Jantarem.</text>
 	</string>
 	<string id="ecolog_eliminate_lager_1_text">
 		<text>Otrzymasz niewielk¹ iloœæ pieniêdzy, jeœli mieszkaj¹ce na bagnach snorki przestan¹ naprzykrzaæ siê mnie i moim kolegom. Czasem, gdy przeprowadzamy eksperymenty, kompletnie nie mo¿emy siê skupiæ.</text>
@@ -1190,9 +1190,9 @@
 	<string id="defend_lager">
 		<text>Obrona obozu</text>
 	</string>
-	
+
 	<!-- ÏÑ -->
-	
+
 	<string id="kremen_find_artefact_1">
 		<text>ZnajdŸ artefakt "Kotlet"</text>
 	</string>
@@ -1206,7 +1206,7 @@
 		<text>Przynieœ artefakt "Meduza"</text>
 	</string>
 	<string id="text_kremen_find_artefact_2">
-		<text>Jest ca³kiem proste zadanie: zdobyæ "Meduzê" Bierzesz?</text>
+		<text>Jest ca³kiem proste zadanie: zdobyæ "Meduzê". Bierzesz?</text>
 	</string>
 	<string id="desc_kremen_find_artefact_2">
 		<text>ZnajdŸ i przynieœ Krzemieniowi artefakt "Meduza".</text>
@@ -1230,7 +1230,7 @@
 		<text>ZnajdŸ i przynieœ Krzemieniowi artefakt "Gwiazda Wieczorna".</text>
 	</string>
 	<string id="kremen_find_artefact_5">
-		<text>Przynieœ artefakt "Gwiazda Wieczorna"</text>
+		<text>Przynieœ artefakt "Skrêtak"</text>
 	</string>
 	<string id="text_kremen_find_artefact_5">
 		<text>Artefakt "Skrêtak" jest potrzebny. Bierzesz?</text>
@@ -1355,26 +1355,26 @@
 	<string id="desc_kremen_find_artefact_18">
 		<text>ZnajdŸ i przynieœ Krzemieniowi artefakt "Mika".</text>
 	</string>
-	
+
 	<string id="kremen_monster_part_1">
-		<text>Przynieœ nogê dzika</text>
+		<text>Przynieœ ogon psa</text>
 	</string>
 	<string id="text_kremen_monster_part_1">
-		<text>Jest zamówienie na nogê dzika.</text>
+		<text>Jest zamówienie na psi ogon. Przynieœ mi je.</text>
 	</string>
 	<string id="desc_kremen_monster_part_1">
-		<text>Przynieœ Krzemieniowi nogê dzika.</text>
+		<text>Przynieœ Krzemieniowi ogon psa</text>
 	</string>
 	<string id="kremen_monster_part_2">
-		<text>Przynieœ oko miêsacza</text>
+		<text>Przynieœ ³apê burera</text>
 	</string>
 	<string id="text_kremen_monster_part_2">
-		<text>Jest zamówienie na oko miêsacza.</text>
+		<text>Jest zamówienie na ³apê burera.</text>
 	</string>
 	<string id="desc_kremen_monster_part_2">
-		<text>Przynieœ Krzemieniowi oko miêsacza.</text>
+		<text>Przynieœ Krzemieniowi ³apê burera.</text>
 	</string>
-	
+
 	<string id="groover_find_artefact_1">
 		<text>ZnajdŸ artefakt "Kotlet"</text>
 	</string>
@@ -1537,7 +1537,7 @@
 	<string id="desc_groover_find_artefact_18">
 		<text>ZnajdŸ i przynieœ Gruberowi artefakt "Mika".</text>
 	</string>
-	
+
 	<string id="groover_monster_part_1">
 		<text>Przynieœ stopê snorka</text>
 	</string>
@@ -1548,16 +1548,16 @@
 		<text>Przynieœ Gruberowi stopê snorka.</text>
 	</string>
 	<string id="groover_monster_part_2">
-		<text>Przynieœ macki pijawki</text>
+		<text>Przynieœ rêkê zombi</text>
 	</string>
 	<string id="text_groover_monster_part_2">
-		<text>Duszone z cebul¹ macki pijawki niektórzy cudzoziemcy maj¹ za wielki rarytas. Wiêc jest zamówienie.</text>
+		<text>Duszone z cebul¹ rêce zombie niektórzy cudzoziemcy maj¹ za wielki rarytas. Wiêc jest zamówienie.</text>
 	</string>
 	<string id="desc_groover_monster_part_2">
-		<text>Przynieœ Gruberowi macki pijawki.</text>
+		<text>Przynieœ Gruberowi rêkê zombie.</text>
 	</string>
-	
-	
+
+
 	<string id="tm_kremen_has_no_job">
 		<text>Na razie golcu.</text>
 	</string>
@@ -1573,7 +1573,7 @@
 	<string id="tm_kremen_list_job">
 		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string>
-	
+
 	<string id="tm_groover_has_no_job">
 		<text>Na razie golcu.</text>
 	</string>
@@ -1589,14 +1589,14 @@
 	<string id="tm_groover_list_job">
 		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string>
-	
-	
-	
-	
-	
-	
-	
-	
+
+
+
+
+
+
+
+
 	<!-- <string id="tm_trader_dubl_find_artefact_1">
 		<text>ZnajdŸ artefakt "Kotlet"</text>
 	</string>
@@ -1759,7 +1759,7 @@
 	<string id="desc_tm_trader_dubl_find_artefact_18">
 		<text>ZnajdŸ i przynieœ Sidorowiczowi artefakt "Mika".</text>
 	</string>
-	
+
 	<string id="tm_trader_dubl_monster_part_1">
 		<text>Przynieœ nogê dzika</text>
 	</string>
@@ -1778,7 +1778,7 @@
 	<string id="desc_tm_trader_dubl_monster_part_2">
 		<text>Przynieœ Sidorowiczowi oko miêsacza.</text>
 	</string>
-	
+
 	<string id="tm_trader_dubl_has_no_job">
 		<text>Na razie go³odupcu.</text>
 	</string>
@@ -1794,5 +1794,5 @@
 	<string id="tm_trader_dubl_list_job">
 		<text>Dalej, zobaczmy co tu mamy:</text>
 	</string> -->
-	
+
 </string_table>
