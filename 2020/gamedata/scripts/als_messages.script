@@ -1,3 +1,16 @@
+-- Dialogi
+function perymetr_grek_dialog_1()
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Krasnow: %c[default]Stój gdzie stoisz, bli¿ej nie podchodŸ. Strzelamy bez ostrze¿enia.\\n%c[255,1,255,1]Grek: %c[default]Hej, oficerze. Chcê przejœæ dalej!\\n%c[255,1,255,255]Krasnow: %c[default]Poczekaj, zaraz podejdê.", nil, nil, 10000)
+end
+
+function perymetr_grek_dialog_2()
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Krasnow: %c[default]Stój gdzie stoisz, bli¿ej nie podchodŸ. Strzelamy bez ostrze¿enia.\\n%c[255,1,255,1]Grek: %c[default]Hej, oficerze. Chcê przejœæ dalej!\\n%c[255,1,255,255]Krasnow: %c[default]Dobrze, zaraz podejdê. ", nil, nil, 10000)
+end
+
+-- koniec dialogów
+
+
+
 function forbitten()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]BO¯E, NIE BIERZ GO£YMI £APAMI!!!", nil, nil, 10000)
 end

@@ -5090,11 +5090,13 @@ end
 function esc_grek_megafon_1_speak(npc)
 	local snd_obj = xr_sound.get_safe_sound_object([[als\esc\esc_grek_megafon_1_2]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+  als_messages.perymetr_grek_dialog_1()
 end
 
 function esc_grek_megafon_2_speak(npc)
 	local snd_obj = xr_sound.get_safe_sound_object([[als\esc\esc_grek_megafon_2_2]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
+  als_messages.perymetr_grek_dialog_2()
 end
 
 function red_panzer_grek_radio_1(npc)
