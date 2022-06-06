@@ -1831,5 +1831,3 @@ end
 
 	test_section_iteration("system.ltx","space_restrictor")
 -- /**/
-
-
