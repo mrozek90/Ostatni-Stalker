@@ -11,34 +11,27 @@ function darklab_grek_luzenko_radio_3_dialog()
 end
 
 function darklab_grek_luzenko_radio_2_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]CQD, CQD czy ktoœ mnie s³yszy? CQD.
-	%c[255,1,255,255]£uczenko: %c[default]Kto tam?\\n	%c[255,1,255,1]Grek: %c[default]A Ty kto? \\n	%c[255,1,255,255]£uczenko: %c[default]Przedstaw siê albo przerwê ³¹cznoœæ!\\n	%c[255,1,255,1]Grek: %c[default]Jestem w X18 i nie mogê wyjœæ na powierzchniê. \\n	%c[255,1,255,255]£uczenko: %c[default]Ale kto, do cholery?\\n	%c[255,1,255,1]Grek: %c[default]Stalker. \\n	%c[255,1,255,255]£uczenko: %c[default]Koniec ³¹cznoœci.\\n	%c[255,1,255,1]Grek: %c[default]Poczekaj! S³yszysz? Nie s³yszy...	", nil, nil, 30000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]CQD, CQD czy ktoœ mnie s³yszy? CQD.\\n	%c[255,1,255,255]£uczenko: %c[default]Kto tam?\\n	%c[255,1,255,1]Grek: %c[default]A Ty kto? \\n	%c[255,1,255,255]£uczenko: %c[default]Przedstaw siê albo przerwê ³¹cznoœæ!\\n	%c[255,1,255,1]Grek: %c[default]Jestem w X18 i nie mogê wyjœæ na powierzchniê. \\n	%c[255,1,255,255]£uczenko: %c[default]Ale kto, do cholery?\\n	%c[255,1,255,1]Grek: %c[default]Stalker. \\n	%c[255,1,255,255]£uczenko: %c[default]Koniec ³¹cznoœci.\\n	%c[255,1,255,1]Grek: %c[default]Poczekaj! S³yszysz? Nie s³yszy...	", nil, nil, 30000)
 end
 
 function darklab_grek_luzenko_radio_1_dialog()
-	news_manager.send_tip_bez(db.actor, "
-	%c[255,1,255,255]£uczenko: %c[default]Kanal jest na odbiorze. Mówcie, kto jest na linii... kto??? \\n
-	%c[255,1,255,1]Grek: %c[default]Koñ w skórzanym palto!", nil, nil, 17000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]£uczenko: %c[default]Kanal jest na odbiorze. Mówcie, kto jest na linii... kto??? \\n	%c[255,1,255,1]Grek: %c[default]Koñ w skórzanym palto!", nil, nil, 17000)
 end
 
 function val_grek_phrase_4_dialog()
-	news_manager.send_tip_bez(db.actor, "
-	%c[255,1,255,1]Grek: %c[default]IdŸcie po cichu, nie utrudniajcie.", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]IdŸcie po cichu, nie utrudniajcie.", nil, nil, 3000)
 end
 
 function val_grek_phrase_3_dialog()
-	news_manager.send_tip_bez(db.actor, "
-	%c[255,1,255,1]Grek: %c[default]Ej, frajerzy! Ja wam ³by poukrêcam!", nil, nil, 4000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ej, frajerzy! Ja wam ³by poukrêcam!", nil, nil, 4000)
 end
 
 function val_grek_phrase_2_dialog()
-	news_manager.send_tip_bez(db.actor, "
-	%c[255,1,255,1]Grek: %c[default]Ukratupi³o waszego Longaliera. Potwór go porwa³, otwierajcie!", nil, nil, 4000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ukratupi³o waszego Longaliera. Potwór go porwa³, otwierajcie!", nil, nil, 4000)
 end
 
 function val_grek_phrase_1_dialog()
-	news_manager.send_tip_bez(db.actor, "
-	%c[255,1,255,1]Grek: %c[default]Co wy tu odpierdalacie, frajerzy! Otwieraæ drzwi!", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Co wy tu odpierdalacie, frajerzy! Otwieraæ drzwi!", nil, nil, 3000)
 end
 
 function varnak_about_chess_dialog()
