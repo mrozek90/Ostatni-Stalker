@@ -139,13 +139,13 @@
         <text>Na Greka reagujê. S³uchaj, bracie, oœwieæ mnie, kumpli szukam.</text>
     </string>
     <string id="garfirst_deadman_dialog_6">
-        <text>Tak, niby, nikt tu nie przechodzi³. Albo znowu przespa³em... A tak ogólnie - wasi, znaczy siê, braciaki, w hangarze siê rozgoœcili. Prawdziwa baza, ha-ha... Posterunki, znowu wasi. Na cmentarzysku pojazdów, wydaje siê, ¿e te¿ wasi, wózkami siê wo¿¹. A Tobie to kto jest potrzebny?</text>
+        <text>Raczej nikt tu nie przechodzi³. Albo znowu przespa³em... A tak ogólnie - wasi, znaczy siê, braciaki, w hangarze siê rozgoœcili. Prawdziwa baza, ha-ha... Posterunki, znowu wasi. Na cmentarzysku pojazdów, wydaje siê, ¿e te¿ wasi, wózkami siê wo¿¹. A Tobie to kto jest potrzebny?</text>
     </string>
     <string id="garfirst_deadman_dialog_7">
         <text>Nie poznajê okolicy, nie rozumiem tego: niby - Wysypisko. A jednak - wcale nie Wysypisko...</text>
     </string>
     <string id="garfirst_deadman_dialog_8">
-        <text>E-e-e... Tak ju¿ jest od dawna. M¹drzy ludzie powiedzieli - bufor na rzeczywistoœæ siê na³o¿y³. Na pocz¹tku te¿ szala³em, niby, ¿e za d³ugo to trwa. Potem odpuœci³em - jest jak jest... Krótko, na bazie wci¹¿ ktoœ z waszych na pewno jest.</text>
+        <text>E-e-e... Tak ju¿ jest od dawna. M¹drzy ludzie powiedzieli - bufor na rzeczywistoœæ siê na³o¿y³. Na pocz¹tku te¿ szala³em, ¿e za d³ugo to trwa. Potem odpuœci³em - jest jak jest... Krótko, na bazie wci¹¿ ktoœ z waszych na pewno jest.</text>
     </string>
     <string id="garfirst_deadman_dialog_9">
         <text>Na bazie to kto robi za starszego?</text>
@@ -597,7 +597,7 @@
         <text>Szamrajowych nie widzia³eœ? Dwóch takich, wystraszonych?</text>
     </string>
 	<string id="esc_hb_bandit_6_dialog_1_3">
-        <text>Bêben i Jazgarz? Razem na posterunku GRC byli. Z po³udnia przyszli, bez broni, dobrze mówisz - wystraszeni. Ci¹gle o jakiejœ dziewczynie nawijali. GRC siê nie bawi³o: skuli im rêce i od razu na Sortowniê zawieŸli.</text>
+        <text>Dêty i Jazgarz? Razem na posterunku GRC byli. Z po³udnia przyszli, bez broni, dobrze mówisz - wystraszeni. Ci¹gle o jakiejœ dziewczynie nawijali. GRC siê nie bawi³o: skuli im rêce i od razu na Sortowniê zawieŸli.</text>
     </string>
 	<string id="esc_hb_bandit_6_dialog_1_4">
         <text>Nie bronili siê?</text>
@@ -718,7 +718,7 @@
         <text>Jest sprawa: mo¿emy przekraœæ siê za Perymetr. Sprawa, oczywiœcie, œmierdzi, ale stawka jest ciekawa.</text>
     </string>
 	<string id="esc_shamray_dialog2_9">
-        <text>Gówno. Trójkê rozwal¹, bez dwóch zdañ. Próbuj sam.</text>
+        <text>Dupa tam. Trójkê rozwal¹, bez dwóch zdañ. Próbuj sam.</text>
     </string>
 	<string id="esc_shamray_dialog2_10">
         <text>No, ja na pewno tu nie zostanê. A Ty i Simon mi pomo¿ecie.</text>
@@ -3701,7 +3701,7 @@
         <text>A do cholery ze Z³otym. S³uchaj, Ernest, masz mo¿e przypadkiem jakiegoœ znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_1_13">
-        <text>Giena jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
+        <text>Gienia jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_1_14">
         <text>Gienia? To œwietnie!</text>
@@ -3747,10 +3747,10 @@
         <text>A do cholery ze Z³otym. S³uchaj, Ernest, masz mo¿e przypadkiem jakiegoœ znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_2_13">
-        <text>Giena jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
+        <text>Gienia jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_2_14">
-        <text>Giena jest? To œwietnie!</text>
+        <text>Gienia jest? To œwietnie!</text>
     </string>
 
 	<string id="barman_dialod_about_obsidian_knife_3_0">
@@ -3793,7 +3793,7 @@
         <text>A do cholery ze Z³otym. S³uchaj, Ernest, masz mo¿e przypadkiem jakiegoœ znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_3_13">
-        <text>Giena jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
+        <text>Gienia jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_obsidian_knife_3_14">
         <text>Gienia? To œwietnie!</text>
@@ -3833,7 +3833,7 @@
         <text>A do cholery ze Z³otym. S³uchaj, Ernest, masz mo¿e przypadkiem jakiegoœ znajomego hakera?</text>
     </string>
 	<string id="barman_dialod_about_hacker_11">
-        <text>Giena jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
+        <text>Gienia jest, znasz go przecie¿, na chutorze u Sidora go widziano.</text>
     </string>
 	<string id="barman_dialod_about_hacker_12">
         <text>Gienia? To œwietnie!</text>
@@ -5294,7 +5294,7 @@
         <text>No, a z handlem to co siê sta³o? Albo coœ popl¹ta³em, albo w Zonie nigdy nie handlowano na wiêksz¹ skalê?</text>
     </string>
 	<string id="sidor_dialog_about_bankcard_1">
-        <text>Nie jesteœ na czasie, Grek. Giena niedawno zorganizowa³ ca³y system p³atniczy, "Pustynne Ziemie" siê nazywa; wszyscy na niego przeszli. Handel, rozliczenia. Nawet naprawy - widzia³eœ, z pewnoœci¹ warsztaty remontowe? Je¿eli karta nie jest aktywowana - lepiej nie odwiedzaj takiego warsztatu. Karta wirtualna, wbudowana w PDA. Daj, wprowadzê Ci j¹, nie potrwa to wiêcej ni¿ minutê.</text>
+        <text>Nie jesteœ na czasie, Grek. Gienia niedawno zorganizowa³ ca³y system p³atniczy, "Pustynne Ziemie" siê nazywa; wszyscy na niego przeszli. Handel, rozliczenia. Nawet naprawy - widzia³eœ, z pewnoœci¹ warsztaty remontowe? Je¿eli karta nie jest aktywowana - lepiej nie odwiedzaj takiego warsztatu. Karta wirtualna, wbudowana w PDA. Daj, wprowadzê Ci j¹, nie potrwa to wiêcej ni¿ minutê.</text>
     </string>
 	<string id="sidor_dialog_about_bankcard_2">
         <text>1.	Nie, Sidor, wietrzê przekrêt.</text>
@@ -5533,7 +5533,7 @@
         <text>Dwa demony, ch³opak i dziewczynka? Nie widzia³em, ale s³ysza³em, pog³oski chodzi³y. Samotników nie ruszaj¹. A je¿eli spotkaj¹ grupê, to zabijaj¹ wszystkich, prócz jednego. To wszystko, co s³ysza³em. Poczekaj! Jeszcze zdjêcie przelotnie widzia³em. U kapitana Krasnowa, znasz go. Obydwoje czartów na tym zdjêciu… Co jeszcze chcesz wiedzieæ?</text>
     </string>
 	<string id="sor_hazar_dialog_1_22">
-        <text>Giena te¿ dla Powinnoœci pracuje?</text>
+        <text>Gienia te¿ dla Powinnoœci pracuje?</text>
     </string>
 	<string id="sor_hazar_dialog_1_23">
         <text>Nie wiem, spytaj go.</text>

@@ -5123,6 +5123,7 @@ function darklab_grek_luzenko_radio_3(npc)
 end
 
 function darklab_grek_luzenko_radio_4(npc)
+  als_messages.darklab_grek_luzenko_radio_4_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\darklab\darklab_grek_luzenko_radio_4]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5140,6 +5141,7 @@ function esc_grek_megafon_2_speak(npc)
 end
 
 function red_panzer_grek_radio_1(npc)
+  als_messages.red_panzer_grek_radio_1_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\red\red_panzer_grek_radio_1]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5154,11 +5156,13 @@ function red_panzer_grek_radio_2_sound()
 end
 
 function esc_grek_kum_phrase_1(npc)
+  als_messages.esc_grek_kum_phrase_1_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\esc\esc_grek_kum_phrase_1]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function esc_grek_kum_phrase_2(npc)
+  als_messages.esc_grek_kum_phrase_2_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\esc\esc_grek_kum_phrase_2]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5281,21 +5285,25 @@ function sor_ivancov_sniper_radio_sound()
 end
 
 function sor_grek_phrase_1(npc)
+  als_messages.sor_grek_phrase_1_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sor\sor_grek_phrase_1]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function sor_grek_phrase_2(npc)
+  als_messages.sor_grek_phrase_2_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sor\sor_grek_phrase_2]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function sor_grek_phrase_3(npc)
+  als_messages.sor_grek_phrase_3_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sor\sor_grek_phrase_3]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function sor_grek_phrase_4(npc)
+  als_messages.sor_grek_phrase_4_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sor\sor_grek_phrase_4]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5421,6 +5429,7 @@ function esc_storm_radio_24(npc)
 end
 
 function aes_grek_phrase_1(npc)
+  als_messages.aes_grek_phrase_1_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\aes_grek_phrase_1]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5436,12 +5445,14 @@ function agrunder_hsm_activated()
 end
 
 function play_snd_from_radio_dushman_1(actor, npc)
+  als_messages.sor_dushman_radio_1_dialog()
 	local snd_obj	= xr_sound.get_safe_sound_object([[als\radio\sor_dushman_radio_1]])
 	local obj		= npc:object("hand_radio")
 	snd_obj:play_no_feedback(obj, sound_object.s3d, 0, obj:position(), 1.0)
 end
 
 function play_snd_from_radio_dushman_2(actor, npc)
+  als_messages.sor_dushman_radio_2_dialog()
 	local snd_obj	= xr_sound.get_safe_sound_object([[als\radio\sor_dushman_radio_2]])
 	local obj		= npc:object("hand_radio")
 	snd_obj:play_no_feedback(obj, sound_object.s3d, 0, obj:position(), 1.0)

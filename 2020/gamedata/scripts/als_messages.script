@@ -6,6 +6,51 @@
 -- %c[255,1,255,1]Grek: %c[default]XXX. \\n
 -- ", nil, nil, 17000)
 
+function sor_dushman_radio_2_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Duszman: %c[default]W porz¹dku, przychodŸ", nil, nil, 2000)
+end
+
+function sor_dushman_radio_1_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Duszman: %c[default]Kto?", nil, nil, 2000)
+end
+
+function aes_grek_phrase_1_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Dlaczego rozumiem Twój jêzyk? ", nil, nil, 2000)
+end
+
+function sor_grek_phrase_4_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Jeszcze nie przyœla³em. Dobra, pójdziemy i rozs¹dzimy.", nil, nil, 4000)
+end
+
+function sor_grek_phrase_3_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ju¿ dobrze, zapomnijmy. A teraz czego chcecie ode mnie? \\n	%c[255,1,255,255]Ja³ta: %c[default]Potwierdzaj¹ce dowody przedstawisz ogó³owi. To tak, a teraz mi³y cz³owieku idŸ do kawiarni, najpij siê wódki i przemyœl, jak znaleŸæ Loszê.\\n	", nil, nil, 17000)
+end
+
+function sor_grek_phrase_2_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Ja³ta: %c[default]A Ty Grek, staremu cz³owiekowi nie przerywaj. Zamknij mordê i s³uchaj. Na spotkaniu zdecydowaliœmy, ¿e Losza Borman winien jest ogó³owi innej strefy, obserwuj¹cym go zostawiæ. Znajdziesz Loszê i przeka¿esz mu, ¿e czekaj¹ na niego w Czelabiñsku. Nie znajdziesz - odpowiesz za to. Zrozumia³eœ, Grek? \\n	%c[255,1,255,1]Grek: %c[default]W Dolinie Mroku nie byliœcie w stanie oceniæ sytuacji tylko zawczasu zaminowaliœcie wyjœcie, omal nie odprawiaj¹c mnie pomiêdzy anio³y.", nil, nil, 22000)
+end
+
+function sor_grek_phrase_1_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Ja³ta: %c[default]No witaj Grek, doczeka³em siê Ciebie. A Ty wci¹¿ bawisz siê w wojenkê... Ludzie gadaj¹, ¿e niedawno na Bagnach by³a. Nie nastrzela³eœ siê jeszcze? To ju¿ inne czasy, Grek.\\n	%c[255,1,255,1]Grek: %c[default]Ohoho, co za spotkanie, Ja³ta. A Twoi przyjaciele-kopacze to gdzie?. \\n	", nil, nil, 14000)
+end
+
+function esc_grek_kum_phrase_2_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Przejœcie zrób.", nil, nil, 2000)
+end
+
+function esc_grek_kum_phrase_1_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Do waszego wodza, z powodu roboty.", nil, nil, 3000)
+end
+
+
+function red_panzer_grek_radio_1_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Panzer: %c[default]Grek, wróæ siê. Gadka jest.\\n	%c[255,1,255,255]Panzer: %c[default]Sk³ama³em, nie widzia³em o kontenerze.\\n	%c[255,1,255,1]Grek: %c[default]To mo¿e wypijemy z tego powodu? Panzer przyzna³ siê ¿e coœ zjeba³. \\n	%c[255,1,255,255]Panzer: %c[default]Ty lepiej najpierw zrób coœ dla Ojczyzny a dopiero potem obelgami rzucaj.", nil, nil, 26000)
+end
+
+function darklab_grek_luzenko_radio_4_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Wywo³anie ogólne CQD, do wszystkich co mnie s³ysz¹. Utkn¹³em w X18. Potrzebne dane o wyjœciu awaryjnym. \\n	%c[255,1,255,255]£uczenko: %c[default]Przedstaw siê.\\n	%c[255,1,255,1]Grek: %c[default]Dr. Brawerman, z kim rozmawiam? \\n	%c[255,1,255,255]£uczenko: %c[default]Tu £uczenko. Doktorze, Ty jesteœ ¿ywy?! Nie wiarygodne!\\n	%c[255,1,255,1]Grek: %c[default]Tak, tak ¿yjê. \\n	%c[255,1,255,255]£uczenko: %c[default]Co z Twoim g³osem?\\n	%c[255,1,255,1]Grek: %c[default]Podra¿nione gard³o. Potrzebujê wyjœcia awaryjnego.\\n	%c[255,1,255,255]£uczenko: %c[default]Nie pamiêtasz, gdzie jest wyjœcie awaryjne?\\n	%c[255,1,255,255]£uczenko: %c[default]Nie, cholera, nie mam pojêcia.\\n	%c[255,1,255,255]£uczenko: %c[default]Uspoój siê doktorze. W starej windzie wyjœcie znajdziesz. Kod sam znieni³eœ. Mówi³eœ, ¿e cyfry kodu wzi¹³eœ z jakiegoœ napisu w labie. \\n	%c[255,1,255,1]Grek: %c[default]Zrozumia³em. \\n	%c[255,1,255,255]£uczenko: %c[default]Nie mogê Ci pomóc, doktorze. Brak urz¹dzeñ.\\n	%c[255,1,255,1]Grek: %c[default]Nie szkodzi, wydostanê siê. Bez odbioru.", nil, nil, 58000)
+end
+
 function darklab_grek_luzenko_radio_3_dialog()
 	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Czy ktoœ mnie s³yszy? \\n	%c[255,1,255,255]£uczenko: %c[default]Powtarzam - ktoœ Ty?\\n	%c[255,1,255,1]Grek: %c[default]Stalker... Po prostu Stalker. \\n	%c[255,1,255,255]£uczenko: %c[default]Podaj swoje imiê.\\n	%c[255,1,255,1]Grek: %c[default]Wyjdê, znajdê Ciê i ³eb ukrêcê. \\n	%c[255,1,255,255]£uczenko: %c[default]Koniec ³¹cznoœci.	", nil, nil, 17000)
 end
@@ -151,7 +196,7 @@ function esc_wolf_to_rangers_dialog()
 end
 
 function perymetr_grek_dialog_1()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Krasnow: %c[default]Stój gdzie stoisz, bli¿ej nie podchodŸ. Strzelamy bez ostrze¿enia.\\n%c[255,1,255,1]Grek: %c[default]Hej, oficerze. Chcê przejœæ dalej!\\n%c[255,1,255,255]Krasnow: %c[default]Poczekaj, zaraz podejdê.", nil, nil, 10000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Krasnow: %c[default]Stój gdzie stoisz, bli¿ej nie podchodŸ. Strzelamy bez ostrze¿enia.\\n%c[255,1,255,1]Grek: %c[default]Hej, oficerze. Potrzebny mi kapitan Krasnow!\\n%c[255,1,255,255]Krasnow: %c[default]Poczekaj, zaraz podejdê.", nil, nil, 10000)
 end
 
 function perymetr_grek_dialog_2()
