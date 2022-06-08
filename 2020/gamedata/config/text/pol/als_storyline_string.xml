@@ -225,7 +225,7 @@
 <text>Igor Olegowicz</text>
 </string>
 <string id="als_story_ar_26_rus">
-<text>Nie pogadasz. Ci ludzie wszêdzie ciê znajd¹. Tak - nawet w Centrum Zony. Teraz s¹ a¿ trzy motywy: Johnny, Borman. Có¿, albo w najgorszym wypadku, ucieczka przed takimi autorytetetami jak ten tutaj.</text>
+<text>Nie pogadasz... Tacy ludzie wszêdzie Ciê znajd¹. Nawet w Centrum Zony. Teraz s¹ a¿ trzy motywy: Johnny, Borman albo w najgorszym wypadku, ucieczka przed takimi autorytetetami jak ten tutaj. \n \n \n \n Dialog:\n \n %c[255,1,255,255]Ja³ta: %c[default]No witaj Grek, doczeka³em siê Ciebie. A Ty wci¹¿ bawisz siê w wojenkê... Ludzie gadaj¹, ¿e niedawno na Bagnach by³a. Nie nastrzela³eœ siê jeszcze? To ju¿ inne czasy, Grek.\n %c[255,1,255,1]Grek: %c[default]Czasy inne, tylko ja taki sam. \n %c[255,1,255,255]Ja³ta: %c[default]A Ty Grek, staremu cz³owiekowi nie przerywaj. Zamknij mordê i s³uchaj. Na spotkaniu zdecydowaliœmy, ¿e Losza Borman winien jest ogó³owi innej strefy, obserwuj¹cym go zostawiæ. Znajdziesz Loszê i przeka¿esz mu, ¿e czekaj¹ na niego w Czelabiñsku. Nie znajdziesz - odpowiesz za to. Zrozumia³eœ, Grek? \n	%c[255,1,255,1]Grek: %c[default]No dobra, Igor Olegowicz, a co jak ju¿ trafiê na Loszê? \n	%c[255,1,255,255]Ja³ta: %c[default]Potwierdzaj¹ce dowody przedstawisz ogó³owi. To tyle, a teraz mi³y cz³owieku idŸ do kawiarni, najpij siê wódki i przemyœl, jak znaleŸæ Loszê.</text>
 </string>
 
 <string id="als_story_ar_27">
