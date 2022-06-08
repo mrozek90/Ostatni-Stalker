@@ -1,4 +1,4 @@
-n-- czerwiec 2022
+-- czerwiec 2022
 -- Dialogi od Mrozek stalkerteam.pl
 
 -- news_manager.send_tip_bez(db.actor, "
@@ -35,11 +35,11 @@ function sor_grek_phrase_1_dialog()
 end
 
 function esc_grek_kum_phrase_2_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Przejœcie zrób.", nil, nil, 2000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Kum: %c[default]Jasne, na terytorum nie szlajaj siê... ekhem... strzelimy w pizdu. Za bram¹ na lewo.\\n	%c[255,1,255,1]Grek: %c[default]Przejœcie zrób.", nil, nil, 3000)
 end
 
 function esc_grek_kum_phrase_1_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Do waszego wodza, z powodu roboty.", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Kum: %c[default]Stój! Gdzie...?\\n %c[255,1,255,1]Grek: %c[default]Do waszego wodza, z powodu roboty.", nil, nil, 3000)
 end
 
 
