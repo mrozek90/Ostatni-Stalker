@@ -233,7 +233,7 @@
 </string>
 
 <string id="doctor_malyawa_description">
-	<text>Nie martw siê specjalnie kodem na panelu - przeczytaj dwa razy Apokalipsê (13:17-18) i cofnij siê o krok.</text>
+	<text>Nie martw siê specjalnie kodem do panelu - przeczytaj dwa razy Apokalipsê (13:17-18) i cofnij siê o krok.</text>
 </string>
 
 <string id="hazar_malyawa_description">
@@ -308,10 +308,10 @@
 </string>
 
 <string id="military_stalkers_flash_name">
-	<text>Pendrive z rozkazem</text>
+	<text>Fleszka z rozkazem</text>
 </string>
 <string id="military_stalkers_flash_description">
-	<text>Pendrive zaszyfrowany w technologii BitLocker</text>
+	<text>Fleszka zaszyfrowany w technologii BitLocker</text>
 </string>
 
 <string id="item_passport_rf_name">
@@ -469,7 +469,7 @@
 
 
 <string id="shocker_flash_name">
-	<text>Pendrive Szokera</text>
+	<text>Fleszka Szokera</text>
 </string>
 <string id="shocker_flash_description">
 	<text>Informacja zaszyfrowana.</text>

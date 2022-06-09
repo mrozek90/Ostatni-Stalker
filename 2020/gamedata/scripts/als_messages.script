@@ -2,8 +2,8 @@
 -- Dialogi od Mrozek stalkerteam.pl
 
 -- news_manager.send_tip_bez(db.actor, "
--- %c[255,1,255,255]XXX: %c[default]XXX\\n
--- %c[255,1,255,1]Grek: %c[default]XXX. \\n
+--%c[255,1,255,255]XXX: %c[default]XXX\\n
+--%c[255,1,255,1]Grek: %c[default]XXX. \\n
 -- ", nil, nil, 17000)
 
 function sor_dushman_radio_2_dialog()
@@ -39,7 +39,7 @@ function esc_grek_kum_phrase_2_dialog()
 end
 
 function esc_grek_kum_phrase_1_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Kum: %c[default]Stój! Gdzie...?\\n %c[255,1,255,1]Grek: %c[default]Do waszego wodza, z powodu roboty.", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Kum: %c[default]Stój! Gdzie...?\\n%c[255,1,255,1]Grek: %c[default]Do waszego wodza, z powodu roboty.", nil, nil, 3000)
 end
 
 
@@ -88,7 +88,7 @@ function gar_radio_4_dialog()
 end
 
 function gar_radio_3_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Miasto, Miasto... \\n	%c[255,1,255,255]Pulewicz: %c[default]Miasto zg³asza siê.\\n	%c[255,1,255,1]Grek: %c[default]Wasi ludzie s¹ martwi. Wpadli w zasadzkê. Pozabijani. \\n	%c[255,1,255,255]Pulewicz: %c[default]Kto to zrobi³?\\n	%c[255,1,255,1]Grek: %c[default]Nie wiem, wygl¹dali na najemników. Widzia³em walkê z daleka - wasi nie mieli ¿adnej szansy. \\n	%c[255,1,255,255]Pulewicz: %c[default]Masz kontener?\\n	%c[255,1,255,1]Grek: %c[default]On jest teraz w bezpiecznym miejscu. \\n	%c[255,1,255,255]Pulewicz: %c[default]Sygna³ znów przepad³.\\n	%c[255,1,255,1]Grek: %c[default]Wiem to.\\n	%c[255,1,255,255]Pulewicz: %c[default]Gdzie teraz udajesz siê? Nie bój siê, kana³ jest kodowany.\\n	%c[255,1,255,1]Grek: %c[default]Gówno warta ta wasza kodowania linia, ktoœ ci¹gle mnie wyprzedza.\\n	%c[255,1,255,255]Pulewicz: %c[default]Co proponujesz?\\n	%c[255,1,255,1]Grek: %c[default]Zbiorê wszystkie kontenery i dopiero nawi¹¿ê ³¹cznoœæ.\\n %c[255,1,255,255]Pulewicz: %c[default]Hmm... to roztropne. Czekam na wieœci. Do odbioru.\\n	%c[255,1,255,1]Grek: %c[default]Do odbioru.", nil, nil, 68000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Miasto, Miasto... \\n	%c[255,1,255,255]Pulewicz: %c[default]Miasto zg³asza siê.\\n	%c[255,1,255,1]Grek: %c[default]Wasi ludzie s¹ martwi. Wpadli w zasadzkê. Pozabijani. \\n	%c[255,1,255,255]Pulewicz: %c[default]Kto to zrobi³?\\n	%c[255,1,255,1]Grek: %c[default]Nie wiem, wygl¹dali na najemników. Widzia³em walkê z daleka - wasi nie mieli ¿adnej szansy. \\n	%c[255,1,255,255]Pulewicz: %c[default]Masz kontener?\\n	%c[255,1,255,1]Grek: %c[default]On jest teraz w bezpiecznym miejscu. \\n	%c[255,1,255,255]Pulewicz: %c[default]Sygna³ znów przepad³.\\n	%c[255,1,255,1]Grek: %c[default]Wiem to.\\n	%c[255,1,255,255]Pulewicz: %c[default]Gdzie teraz udajesz siê? Nie bój siê, kana³ jest kodowany.\\n	%c[255,1,255,1]Grek: %c[default]Gówno warta ta wasza kodowania linia, ktoœ ci¹gle mnie wyprzedza.\\n	%c[255,1,255,255]Pulewicz: %c[default]Co proponujesz?\\n	%c[255,1,255,1]Grek: %c[default]Zbiorê wszystkie kontenery i dopiero nawi¹¿ê ³¹cznoœæ.\\n%c[255,1,255,255]Pulewicz: %c[default]Hmm... to roztropne. Czekam na wieœci. Do odbioru.\\n	%c[255,1,255,1]Grek: %c[default]Do odbioru.", nil, nil, 68000)
 end
 
 function gar_radio_2_dialog()
@@ -104,31 +104,31 @@ function agr_radio_3_dialog()
 end
 
 function agru_grek_deev_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]XXX: %c[default]Oj bratku, nieprzyjemne miejsce.\\n	%c[255,1,255,1]Grek: %c[default]Przywyk³em chodziæ tam, gdzie innym strach nie pozwala... S³uchaj sier¿ancie, wracaj na powierzchniê bo i tak wynagrodzenia nie bêdzie - naukowcy na pewno nie ¿yj¹. \\n	%c[255,1,255,255]XXX: %c[default]Te¿ tak przypuszczam... Dobra, mów dalej.\\n	%c[255,1,255,1]Grek: %c[default]Nie po drodze iœæ wam dalej ze mn¹ i nara¿aæ siê. \\n	%c[255,1,255,255]XXX: %c[default]Uspokój siê Grek, nie chcesz iœæ z nami to powiedzmy, ¿e Ty idziesz sam i my te¿ sami pójdziemy. No i jak, dobry pomys³ - co nie? W piêcioro tu weszliœmy to i w piêcioro wyjdziemy! \\n %c[255,1,255,1]Grek: %c[default]Niech bêdzie. \\n	%c[255,1,255,255]XXX: %c[default]To co, ruszamy?\\n	%c[255,1,255,1]Grek: %c[default]Naprzód!", nil, nil, 66000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Dejew: %c[default]Oj bratku, nieprzyjemne miejsce.\\n	%c[255,1,255,1]Grek: %c[default]Przywyk³em chodziæ tam, gdzie innym strach nie pozwala... S³uchaj sier¿ancie, wracaj na powierzchniê bo i tak wynagrodzenia nie bêdzie - naukowcy na pewno nie ¿yj¹. \\n%c[255,1,255,255]Dejew: %c[default]Te¿ tak przypuszczam... Dobra, mów dalej.\\n%c[255,1,255,1]Grek: %c[default]Nie po drodze iœæ wam dalej ze mn¹ i nara¿aæ siê. \\n	%c[255,1,255,255]Dejew: %c[default]Uspokój siê Grek, nie chcesz iœæ z nami to powiedzmy, ¿e Ty idziesz sam i my te¿ sami pójdziemy. No i jak, dobry pomys³ - co nie? W piêcioro tu weszliœmy to i w piêcioro wyjdziemy! \\n%c[255,1,255,1]Grek: %c[default]Niech bêdzie. \\n	%c[255,1,255,255]Dejew: %c[default]To co, ruszamy?\\n	%c[255,1,255,1]Grek: %c[default]Naprzód!", nil, nil, 66000)
 end
 
 function agr_grek_deev_5_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]No co za chujnia! Tu dynamit potrzebny.\\n	%c[255,1,255,255]XXX: %c[default]Powolutku Grek... Aaa... Znam to, taka chytroœæ naukowców. Ukryty panel wprowadzania. Nale¿y najpierw oœwietliæ. Podœwietlasz klawiaturê i mo¿na wprowadziæ kod.\\n %c[255,1,255,1]Grek: %c[default]Ale czym podœwietliæ? \\n	%c[255,1,255,255]XXX: %c[default]Takim czymœ podobnym do latarki rêcznej. Podœwietlasz odpowiednie miejsce i pojawia siê pulpit. W polowym nic takiego nie znalaz³eœ?\\n	%c[255,1,255,1]Grek: %c[default]Nie, nie znalaz³em. \\n %c[255,1,255,255]XXX: %c[default]No to musisz siê wróciæ i lepiej poszukaæ. Drzwi zablokowane to latarka musi byæ w polowym.", nil, nil, 40000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]No co za chujnia! Tu dynamit potrzebny.\\n	%c[255,1,255,255]Dejew: %c[default]Powolutku Grek... Aaa... Znam to, taka chytroœæ naukowców. Ukryty panel wprowadzania. Nale¿y najpierw oœwietliæ. Podœwietlasz klawiaturê i mo¿na wprowadziæ kod.\\n%c[255,1,255,1]Grek: %c[default]Ale czym podœwietliæ? \\n	%c[255,1,255,255]Dejew: %c[default]Takim czymœ podobnym do latarki rêcznej. Podœwietlasz odpowiednie miejsce i pojawia siê pulpit. W polowym nic takiego nie znalaz³eœ?\\n	%c[255,1,255,1]Grek: %c[default]Nie, nie znalaz³em. \\n%c[255,1,255,255]Dejew: %c[default]No to musisz siê wróciæ i lepiej poszukaæ. Drzwi zablokowane to latarka musi byæ w module.", nil, nil, 40000)
 end
 
 function agr_grek_deev_4_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]No co za chujnia! Tu dynamit potrzebny.\\n	%c[255,1,255,255]XXX: %c[default]Powolutku Grek... Aaa... Znam to, taka chytroœæ naukowców. Ukryty panel wprowadzania. Nale¿y najpierw oœwietliæ. Podœwietlasz klawiaturê i mo¿na wprowadziæ kod.\\n	%c[255,1,255,1]Grek: %c[default]Ale czym podœwietliæ? \\n	%c[255,1,255,255]XXX: %c[default]Takim czymœ podobnym do latarki rêcznej. Podœwietlasz odpowiednie miejsce i pojawia siê pulpit. W polowym nic takiego nie znalaz³eœ?\\n	%c[255,1,255,1]Grek: %c[default]Znalaz³em, to ona. \\n %c[255,1,255,255]XXX: %c[default]No to skieruj j¹ na w³az.", nil, nil, 35000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]No co za chujnia! Tu dynamit potrzebny.\\n	%c[255,1,255,255]Dejew: %c[default]Powolutku Grek... Aaa... Znam to, taka chytroœæ naukowców. Ukryty panel wprowadzania. Nale¿y najpierw oœwietliæ. Podœwietlasz klawiaturê i mo¿na wprowadziæ kod.\\n	%c[255,1,255,1]Grek: %c[default]Ale czym podœwietliæ? \\n	%c[255,1,255,255]Dejew: %c[default]Takim czymœ podobnym do latarki rêcznej. Podœwietlasz odpowiednie miejsce i pojawia siê pulpit. W polowym nic takiego nie znalaz³eœ?\\n	%c[255,1,255,1]Grek: %c[default]Znalaz³em, to ona. \\n%c[255,1,255,255]Dejew: %c[default]No to skieruj j¹ na w³az.", nil, nil, 35000)
 end
 
 function agr_grek_deev_3_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]XXX: %c[default]Grek, nie ma co siê krêciæ. WchodŸ w portal, my za Tob¹.", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Dejew: %c[default]Grek, nie ma co siê krêciæ. WchodŸ w portal, my za Tob¹.", nil, nil, 3000)
 end
 
 function agr_grek_deev_1_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]XXX: %c[default]Mówi³eœ - gor¹co bêdzie.\\n	%c[255,1,255,1]Grek: %c[default]No my jeszcze nie skoñczyliœmy. Modu³ pusty, ch³opaki rozgl¹dajcie siê dooko³a, mo¿e coœ siê natrafi.", nil, nil, 13000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Dejew: %c[default]Mówi³eœ - gor¹co bêdzie.\\n	%c[255,1,255,1]Grek: %c[default]No my jeszcze nie skoñczyliœmy. Modu³ pusty, ch³opaki rozgl¹dajcie siê dooko³a, mo¿e coœ siê natrafi.", nil, nil, 13000)
 end
 
 function agr_grek_deev_2_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]XXX: %c[default]Grek, czeka nas wêdrówka do podziemi.\\n	%c[255,1,255,1]Grek: %c[default]Co znalaz³eœ? \\n	%c[255,1,255,255]XXX: %c[default]Sam badziew.", nil, nil, 17000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Dejew: %c[default]Grek, czeka nas wêdrówka do podziemi.\\n	%c[255,1,255,1]Grek: %c[default]Co znalaz³eœ? \\n	%c[255,1,255,255]Dejew: %c[default]Sam badziew.", nil, nil, 17000)
 end
 
 function agr_grek_deev_3_dialog()
-	news_manager.send_tip_bez(db.actor, " %c[255,1,255,1]Grek: %c[default]No co za cholerstwo!. \\n	%c[255,1,255,255]XXX: %c[default]Zgadzam siê, no to co? Biadoliæ bêdziemy czy pod ziemiê pójdziemy?\\n %c[255,1,255,1]Grek: %c[default]Przygotowaæ broñ i w drogê.", nil, nil, 13000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,1]Grek: %c[default]No co za cholerstwo!. \\n	%c[255,1,255,255]Dejew: %c[default]Zgadzam siê, no to co? Biadoliæ bêdziemy czy pod ziemiê pójdziemy?\\n%c[255,1,255,1]Grek: %c[default]Przygotowaæ broñ i w drogê.", nil, nil, 13000)
 end
 
 function val_radio_2_dialog()
@@ -152,11 +152,11 @@ function agr_radio_2_dialog()
 end
 
 function agr_radio_1_dialog()
-	news_manager.send_tip(db.actor, " %c[255,1,255,255]Pulewicz: %c[default]Dru¿nik, Dru¿nik...\\n %c[255,1,255,1]Grek: %c[default]Jestem.\\n %c[255,1,255,255]Pulewicz: %c[default]Mam sygna³ od sygnalizatora.\\n %c[255,1,255,1]Grek: %c[default]Nie w¹tpiê. \\n %c[255,1,255,255]Pulewicz: %c[default]Wys³a³em œmig³owiec, poczekaj na niego przy l¹dowisku.\\n %c[255,1,255,1]Grek: %c[default]Zrozumia³em. Bez odbioru.", nil, nil, 21000)
+	news_manager.send_tip(db.actor, "%c[255,1,255,255]Pulewicz: %c[default]Dru¿nik, Dru¿nik...\\n%c[255,1,255,1]Grek: %c[default]Jestem.\\n%c[255,1,255,255]Pulewicz: %c[default]Mam sygna³ od sygnalizatora.\\n%c[255,1,255,1]Grek: %c[default]Nie w¹tpiê. \\n%c[255,1,255,255]Pulewicz: %c[default]Wys³a³em œmig³owiec, poczekaj na niego przy l¹dowisku.\\n%c[255,1,255,1]Grek: %c[default]Zrozumia³em. Bez odbioru.", nil, nil, 21000)
 end
 
 function agru_radio_1_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Miasto... Miasto... \\n	%c[255,1,255,255]Pulewicz: %c[default]Odbiór.\\n	%c[255,1,255,1]Grek: %c[default]Namierzy³em kontener, muszê tylko go zabraæ.\\n	%c[255,1,255,255]Pulewicz: %c[default]Nie zrozumia³em. Znalaz³eœ naukowców no i zabra³eœ od nich sygnalizatory?\\n	%c[255,1,255,1]Grek: %c[default]Za chwilê znajdê. \\n	%c[255,1,255,255]Pulewicz: %c[default]Nie rozumiem Ciê, co siê dzieje?\\n	%c[255,1,255,1]Grek: %c[default]Najprawdopodobniej wszyscy s¹ martwi. Sygnalizator na kontenerze dzia³a. Widzê go wyraŸnie na ekranie.\\n	%c[255,1,255,255]Pulewicz: %c[default]Ja niczego nie widzê.\\n	%c[255,1,255,1]Grek: %c[default]Bo jestem w podziemnym kompleksie na Agropromie.\\n %c[255,1,255,255]Pulewicz: %c[default]Hm... W porz¹dku. Musisz wynieœæ kontener na powierzchniê to mo¿e i ja zobaczê. Ko³o polowego labu jest l¹dowisko dla œmig³owców, tak?.\\n	%c[255,1,255,1]Grek: %c[default]No jest.\\n	%c[255,1,255,255]Pulewicz: %c[default]Wiêc do odbioru i nie przepadaj na tak d³ugo.\\n	", nil, nil, 66000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Miasto... Miasto... \\n	%c[255,1,255,255]Pulewicz: %c[default]Odbiór.\\n	%c[255,1,255,1]Grek: %c[default]Namierzy³em kontener, muszê tylko go zabraæ.\\n	%c[255,1,255,255]Pulewicz: %c[default]Nie zrozumia³em. Znalaz³eœ naukowców no i zabra³eœ od nich sygnalizatory?\\n	%c[255,1,255,1]Grek: %c[default]Za chwilê znajdê. \\n	%c[255,1,255,255]Pulewicz: %c[default]Nie rozumiem Ciê, co siê dzieje?\\n	%c[255,1,255,1]Grek: %c[default]Najprawdopodobniej wszyscy s¹ martwi. Sygnalizator na kontenerze dzia³a. Widzê go wyraŸnie na ekranie.\\n	%c[255,1,255,255]Pulewicz: %c[default]Ja niczego nie widzê.\\n	%c[255,1,255,1]Grek: %c[default]Bo jestem w podziemnym kompleksie na Agropromie.\\n%c[255,1,255,255]Pulewicz: %c[default]Hm... W porz¹dku. Musisz wynieœæ kontener na powierzchniê to mo¿e i ja zobaczê. Ko³o polowego labu jest l¹dowisko dla œmig³owców, tak?.\\n	%c[255,1,255,1]Grek: %c[default]No jest.\\n	%c[255,1,255,255]Pulewicz: %c[default]Wiêc do odbioru i nie przepadaj na tak d³ugo.\\n	", nil, nil, 66000)
 end
 
 function yantar_radio_3_dialog()
@@ -168,11 +168,11 @@ function yantar_radio_2_dialog()
 end
 
 function yantar_radio_1_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Pulewicz: %c[default]Dru¿nik... Dru¿nik...\\n	%c[255,1,255,1]Grek: %c[default]Na odbiorze.\\n	%c[255,1,255,255]Pulewicz: %c[default]Gdzie jesteœ?\\n %c[255,1,255,1]Grek: %c[default]Ko³o zak³adu na Jantarze.\\n	%c[255,1,255,255]Pulewicz: %c[default]To Ty aktywowa³eœ sygnalizatory?\\n	%c[255,1,255,1]Grek: %c[default]Jeszcze ich na oczy nie widzia³em, tak jak i waszych uczonych.\\n	%c[255,1,255,255]Pulewicz: %c[default]Ktoœ uaktywni³ wszystkie 5 sygnalizatorów, ko³o polowego labu na Jantarze.\\n	%c[255,1,255,1]Grek: %c[default]Zrozumia³em, wyjaœniê to. Bez odbioru.", nil, nil, 34000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Pulewicz: %c[default]Dru¿nik... Dru¿nik...\\n	%c[255,1,255,1]Grek: %c[default]Na odbiorze.\\n	%c[255,1,255,255]Pulewicz: %c[default]Gdzie jesteœ?\\n%c[255,1,255,1]Grek: %c[default]Ko³o zak³adu na Jantarze.\\n	%c[255,1,255,255]Pulewicz: %c[default]To Ty aktywowa³eœ sygnalizatory?\\n	%c[255,1,255,1]Grek: %c[default]Jeszcze ich na oczy nie widzia³em, tak jak i waszych uczonych.\\n	%c[255,1,255,255]Pulewicz: %c[default]Ktoœ uaktywni³ wszystkie 5 sygnalizatorów, ko³o polowego labu na Jantarze.\\n	%c[255,1,255,1]Grek: %c[default]Zrozumia³em, wyjaœniê to. Bez odbioru.", nil, nil, 34000)
 end
 
 function help_me_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Demon: %c[default]Pomó¿ mi...", nil, nil, 10000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Demon: %c[default]Pomó¿ mi...", nil, nil, 2000)
 end
 
 function esc_negotiations_3_dialog()
