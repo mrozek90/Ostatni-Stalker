@@ -5592,11 +5592,13 @@ function system_message_25(npc)
 end
 
 function puma_activated(npc)
+  als_messages.puma_activated_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\puma_activated]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function puma_deactivated(npc)
+  als_messages.puma_deactivated_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\puma_deactivated]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end

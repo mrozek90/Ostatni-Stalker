@@ -6,12 +6,21 @@
 --%c[255,1,255,1]Grek: %c[default]XXX. \\n
 -- ", nil, nil, 17000)
 
+
+function puma_activated_dialog()
+		news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]PUMA %c[default] REANIMATOR AKTYWNY", nil, nil, 3000)
+end
+
+function puma_deactivated_dialog()
+		news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]PUMA %c[default] REANIMATOR NIEAKTYWNY", nil, nil, 3000)
+end
+
 function sor_dushman_radio_2_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Duszman: %c[default]W porz¹dku, przychodŸ", nil, nil, 2000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Kuczma: %c[default]Znasz go. \\n%c[255,1,255,255]Duszman: %c[default]W porz¹dku, przyprowadŸ.", nil, nil, 4000)
 end
 
 function sor_dushman_radio_1_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Duszman: %c[default]Kto?", nil, nil, 2000)
+	news_manager.send_tip_bez(db.actor, " %c[255,1,255,255]Kuczma: %c[default]To ja, jest klient \\n%c[255,1,255,255]Duszman: %c[default]Kto?", nil, nil, 4000)
 end
 
 function aes_grek_phrase_1_dialog()
@@ -68,15 +77,15 @@ function val_grek_phrase_4_dialog()
 end
 
 function val_grek_phrase_3_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ej, frajerzy! Ja wam ³by poukrêcam!", nil, nil, 4000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ej, frajerzy! Ja wam ³by poukrêcam!\\n%c[255,1,255,255]Czy¿: %c[default]¯egnaj gnoju. Do zobaczenia w piekle!", nil, nil, 7000)
 end
 
 function val_grek_phrase_2_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ukratupi³o waszego Longaliera. Potwór go porwa³, otwierajcie!", nil, nil, 4000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ukratupi³o waszego Longaliera. Potwór go porwa³, otwierajcie!\\n%c[255,1,255,255]Wierny: %c[default]Nie otwierajcie! On nas te¿ jak Longaliera...\\n%c[255,1,255,255]Ja³ta: %c[default]Czy¿, aktywuj odliczanie. \\n", nil, nil, 9000)
 end
 
 function val_grek_phrase_1_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Co wy tu odpierdalacie, frajerzy! Otwieraæ drzwi!", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Co wy tu odpierdalacie, frajerzy! Otwieraæ drzwi!\\n%c[255,1,255,255]Czy¿: %c[default]Gdzie Longalier?\\n%c[255,1,255,255]Ja³ta: %c[default]On go zabi³...\\n", nil, nil, 7000)
 end
 
 function varnak_about_chess_dialog()
@@ -132,7 +141,7 @@ function agr_grek_deev_3_dialog()
 end
 
 function val_radio_2_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]???: %c[default]Serwus Grek, dawno nie widzia³em Ciê. PodejdŸ, jest coœ do omówienia.", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Ben: %c[default]Serwus Grek, dawno nie widzia³em Ciê. PodejdŸ, jest coœ do omówienia.", nil, nil, 4000)
 end
 
 function val_radio_1_dialog()

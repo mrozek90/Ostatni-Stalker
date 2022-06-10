@@ -114,10 +114,10 @@
         <text>Naprawiasz wyposa¿enie?</text>
     </string>
 	<string id="als_repair_dialog_1">
-        <text>Co u Ciebie?</text>
+        <text>Coœ Twojego?</text>
     </string>
 	<string id="als_repair_dialog_2">
-        <text>Tak - popatrz.</text>
+        <text>Tak - zerknij.</text>
     </string>
 
     <string id="garfirst_deadman_dialog_0">
@@ -3100,13 +3100,13 @@
         <text>Powiedzmy - dla stuprocentowej pewnoœci ¿e zadzia³a.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_23">
-        <text>Dobra, znajdê. Teraz o "warlocku". Je¿eli znajdê frajera, który rozwali³ grupê Wodnego Szczura i wykoñczê go - zostawiam "warlocka" dla siebie, a Ty mi nie rzucasz ¿adnych roszczeñ. To oczywiste?</text>
+        <text>Dobra, znajdê. Teraz o "warlocku". Je¿eli znajdê frajera, który rozwali³ grupê Wodnego Szczura i wykoñczê go - zostawiam "warlocka" dla siebie, a Ty mi nie rzucasz ¿adnych roszczeñ. Wyrazi³em siê jasno?</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_24">
         <text>Roszczeñ nie bêdzie jeœli otrzymam ksiêgê.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_25">
-        <text>Nie martw siê, Synoptyk. Chocia¿... Dobra, jesteœmy umówieni.</text>
+        <text>Nie martw siê, Synoptyk. Chocia¿... Dobra, jesteœmy dogadani.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_26">
         <text>Co jeszcze chcesz wiedzieæ?</text>
@@ -3118,7 +3118,7 @@
         <text>Tak. Bariera go trzyma. I prawdopodobnie, nauczy³ siê zabijaæ Stra¿ników, mo¿liwe ¿e zabi³ ich wszystkich.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_29">
-        <text>Kto to s¹ Stra¿nicy?</text>
+        <text>Kim s¹ Stra¿nicy?</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_30">
         <text>Sztucznie stworzeni reptilianie. Ich przeznaczenie - polowanie na zbieg³ych wiêŸniów, takich jak Zmieniaj¹cy Oblicza.</text>
@@ -4047,13 +4047,13 @@
     </string>
 
 	<string id="marsh_kosta_dialog_1_0">
-        <text>Patrzê, przyjecha³eœ?</text>
+        <text>Patrzê, przyszed³eœ?</text>
     </string>
 	<string id="marsh_kosta_dialog_1_1">
-        <text>Porz¹dku wiêcej na Bagnach siê zrobi³o, to i przyjecha³em.</text>
+        <text>Porz¹dku wiêcej na Bagnach siê zrobi³o, to i przyszed³em.</text>
     </string>
 	<string id="marsh_kosta_dialog_1_2">
-        <text>Masz plan jak przejechaæ bli¿ej Centrum Zony?</text>
+        <text>Masz plan przejœæ bli¿ej Centrum Zony?</text>
     </string>
 	<string id="marsh_kosta_dialog_1_3">
         <text>Zobaczymy.</text>
@@ -4496,7 +4496,7 @@
         <text>GRC ca³kiem siê rozbestwi³o.</text>
     </string>
 	<string id="sidor_dialog_about_killers_4">
-        <text>I ch.. z nimi, Sidor.</text>
+        <text>I chuj z nimi, Sidor.</text>
     </string>
 
 
