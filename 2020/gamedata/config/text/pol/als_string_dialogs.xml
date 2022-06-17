@@ -2342,7 +2342,7 @@
     </string>
 
 	<string id="sor_soldier_commander_1_dialog_1_0">
-        <text>Tak, tak, tak. Ju¿ mnie o Tobie powiadomili. Uprzedziæ chcê.</text>
+        <text>Tak tak tak. Ju¿ mnie o Tobie powiadomili. Uprzedziæ chcê.</text>
     </string>
 	<string id="sor_soldier_commander_1_dialog_1_1">
         <text>S³ucham, naczelniku.</text>
@@ -2509,7 +2509,7 @@
         <text>S³uchajcie, sier¿ancie, Ty te nalepki na œcianê naklei³eœ?</text>
     </string>
 	<string id="als_soldier_desant_4_dialog_2_1">
-        <text>Jakie? A, te... Nie. Co ja mia³em? - Zaj¹æ siê czymœ?</text>
+        <text>Jakie? A, te... Nie. Co ja mia³em - zaj¹æ siê czymœ?</text>
     </string>
 	<string id="als_soldier_desant_4_dialog_2_2">
         <text>Dobra.</text>
@@ -2522,13 +2522,13 @@
         <text>Dobrze, bracie. A co Ci trzeba?</text>
     </string>
 	<string id="als_soldier_desant_1_dialog_2_2">
-        <text>Jajog³owi was oszukali, tak? Mo¿emy ich odwiedziæ i przypomnieæ o dlugu.</text>
+        <text>Jajog³owi was oszukali, tak? Mo¿emy ich odwiedziæ i przypomnieæ o d³ugu.</text>
     </string>
 	<string id="als_soldier_desant_1_dialog_2_3">
-        <text>Co z tego bêdziesz mia³, bratku? Albo chcesz dzia³kê?</text>
+        <text>Co z tego bêdziesz mia³, bratku? Chcesz dzia³kê?</text>
     </string>
 	<string id="als_soldier_desant_1_dialog_2_4">
-        <text>Tam, gdzie naukowców znaleŸæ mo¿na, myœlê sobie, ¿e bêdzie gor¹co. A mi akurat tam droga. Tak ¿e i bez dzia³ki piszê siê w ten temat.</text>
+        <text>Tam, gdzie naukowców znaleŸæ mo¿na, myœlê sobie, ¿e bêdzie gor¹co. A mi akurat to po drodze. Tak ¿e i bez dzia³ki piszê siê w ten temat.</text>
     </string>
 	<string id="als_soldier_desant_1_dialog_2_5">
         <text>Mmm... Rozumiem. No, dobra. Pójdziemy. Ale dok¹d?</text>
@@ -2556,7 +2556,7 @@
         <text>Co z tego bêdziesz mia³, bratku? Albo chcesz dzia³kê?</text>
     </string>
 	<string id="als_soldier_desant_1_dialog_3_4">
-        <text>Tam, gdzie naukowców znaleŸæ mo¿na, myœlê sobie, ¿e bêdzie gor¹co. A mi akurat tam droga. Tak ¿e i bez dzia³ki piszê siê w ten temat.</text>
+        <text>Tam, gdzie naukowców znaleŸæ mo¿na, myœlê sobie, ¿e bêdzie gor¹co. A mi tam akurat jest po drodze. Tak ¿e i bez dzia³ki piszê siê w ten temat.</text>
     </string>
 	<string id="als_soldier_desant_1_dialog_3_5">
         <text>Mmm... Rozumiem. No, dobra. Pójdziemy. Ale dok¹d?</text>
@@ -2578,7 +2578,7 @@
         <text>Zaraz po¿a³ujesz.</text>
     </string>
 	<string id="agr_deadman_dialog_1_2">
-        <text>E. Pogadamy o HSM, Grek? Ty przecie¿ nie wiesz, co to jest. Ty nawet nie wiesz, jak ten skrót siê czyta. Horizon Stapler Machine. Zszywacz Horyzontu.</text>
+        <text>E. Pogadamy o HSM, Grek? Ty przecie¿ nie wiesz, co to jest. Ty nawet nie wiesz, jak ten skrót siê czyta. Horizon Stapler Machine - Zszywacz Horyzontu.</text>
     </string>
 	<string id="agr_deadman_dialog_1_3">
         <text>E, nowa telenowela?</text>
@@ -2590,10 +2590,10 @@
         <text>Inaczej ju¿ w ¿aden sposób Ci siê nie uda, bratku.</text>
     </string>
 	<string id="agr_deadman_dialog_1_6">
-        <text>Ty sam, Grek, nie masz ¿adnej ekipy.</text>
+        <text>Ty sam Grek, nie masz ¿adnej ekipy.</text>
     </string>
 	<string id="agr_deadman_dialog_1_7">
-        <text>No i co? Z Tob¹, wyskrobku, sobie poradzê. Ale - chcê najpierw wiedzieæ: dlaczego str¹ci³eœ helikopter? I - co to takiego zszywacz horyzontu?</text>
+        <text>No i co? Z Tob¹ wyskrobku sobie poradzê. Ale - chcê najpierw wiedzieæ: dlaczego str¹ci³eœ helikopter? I - co to takiego zszywacz horyzontu?</text>
     </string>
 	<string id="agr_deadman_dialog_1_8">
         <text>Tylko jedno pytanie, Grek. Ile kontenerów znalaz³eœ?</text>
@@ -2602,7 +2602,7 @@
         <text>... Jeden.</text>
     </string>
 	<string id="agr_deadman_dialog_1_10">
-        <text>To dobrze. Dam Ci dok³adnie taki sam. Ale - prawdziwy. Ten, co powinien by³ le¿eæ w schowku grupy Strie³oka. Powinien, ale nie le¿a³. Ryzykowa³eœ ¿yciem za kopiê, Grek.</text>
+        <text>To dobrze. Dam Ci dok³adnie taki sam. Ale - prawdziwy. Ten, co powinien by³ le¿eæ w schowku grupy Strie³oka. Powinien, ale nie le¿a³. Ryzykowa³eœ ¿ycie za kopiê, Grek.</text>
     </string>
 	<string id="agr_deadman_dialog_1_11">
         <text>Czterech zginê³o...</text>
@@ -2638,7 +2638,7 @@
         <text>Dystans, oddzielaj¹cy obserwatora zdarzenia od zdarzeñ, o których nie mo¿e on nigdy otrzymaæ ¿adnych informacji. W ogóle nic. To przydatne w astrofizyce. I to - na granicy fantastyki. A teraz do tego horyzontu - horyzont naoko³o Centrum Zony - kilkadziesi¹t kilometrów.</text>
     </string>
 	<string id="agr_deadman_dialog_1_22">
-        <text>A dla obserwatora, czyli frajera, który jest w Centrum Zony?</text>
+        <text>A dla obserwatora, czyli frajera który jest w Centrum Zony?</text>
     </string>
 	<string id="agr_deadman_dialog_1_23">
         <text>I dla niego nic siê nie dzieje, absolutnie nic, tylko poza Centrum Zony.</text>
@@ -2659,13 +2659,13 @@
         <text>I mo¿na bêdzie dostaæ siê do Centrum Zony. Tak?</text>
     </string>
 	<string id="agr_deadman_dialog_1_29">
-        <text>He... je¿eli masz inwektor, mo¿esz tam siê udaæ choæby teraz. ... Grek, GRC potrzebuje zszywacza nie po to, by naprawiaæ horyzont. A do tego, ¿eby zamkn¹æ wy³om. I wtedy Centrum Zony zginie. I zginie wszystko. ... Bariera - ta przestrzeñ, nieskoñczon¹ iloœæ razy na³o¿ona jedna na drug¹. W obrêbie Bariery s¹ inne prawa fizyki.</text>
+        <text>He... je¿eli masz inwektor, mo¿esz tam siê udaæ choæby teraz. ... Grek, GRC potrzebuje zszywacza nie po to, by naprawiaæ horyzont. A do tego, ¿eby zamkn¹æ wy³om. I wtedy Centrum Zony zginie. I zginie wszystko... Bariera - ta przestrzeñ, nieskoñczon¹ iloœæ razy na³o¿ona jedna na drug¹. W obrêbie Bariery s¹ inne prawa fizyki.</text>
     </string>
 	<string id="agr_deadman_dialog_1_30">
         <text>Wyjaœnij.</text>
     </string>
 	<string id="agr_deadman_dialog_1_31">
-        <text>GRC nie wiedz¹, oni by tak nie dzia³ali, gdyby wiedzieli lub rozumieli, co w rezultacie wyjdzie. A wyjdzie - bardzo wielka, gigantyczna czarna dziura. I ca³y nasz Wszechœwiat "siê zawali", zwinie siê w punkt. W punkt, w którym nie ma d³ugoœci, ani szerokoœci, ani objêtoœci. Ani czasu.</text>
+        <text>GRC nie wiedz¹. Oni by tak nie dzia³ali, gdyby wiedzieli lub rozumieli, co w rezultacie wyjdzie. A wyjdzie - bardzo wielka, gigantyczna czarna dziura. I ca³y nasz Wszechœwiat "siê zawali", zwinie siê w punkt. W punkt, w którym nie ma d³ugoœci, ani szerokoœci, ani objêtoœci. Ani czasu.</text>
     </string>
 	<string id="agr_deadman_dialog_1_32">
         <text>Ca³kiem siê zapl¹ta³em. A Ty, znaczy siê, chcesz naprawiæ horyzont?</text>
@@ -2722,7 +2722,7 @@
         <text>Jasne. Jeszcze coœ?</text>
     </string>
 	<string id="agr_deadman_dialog_1_50">
-        <text>(pokazuj¹c okulary przeciws³oneczne) Spójrz, nie twoje aby? Znalaz³em przypadkiem w Prypeci.</text>
+        <text>(pokazuj¹c okulary przeciws³oneczne) Spójrz, nie Twoje aby? Znalaz³em przypadkiem w Prypeci.</text>
     </string>
 	<string id="agr_deadman_dialog_1_51">
         <text>Wielkie dziêki, kolego. Do zobaczenia.</text>
@@ -2738,7 +2738,7 @@
         <text>Kapitanie, daleko mi do ¿artów. Przyjmij ³adunek. I wszystko.</text>
     </string>
 	<string id="esc_krasnov_dialog_3_3">
-        <text>S³uchaj, bandyto, polecono mi wydaæ Ci amunicjê. Otó¿ dla Ciebie u mnie amunicji nie ma. I pisz sobie do kogo chcesz.</text>
+        <text>S³uchaj bandyto, polecono mi wydaæ Ci amunicjê. Otó¿ dla Ciebie u mnie amunicji nie ma. I pisz sobie do kogo chcesz.</text>
     </string>
 	<string id="esc_krasnov_dialog_3_4">
         <text>WsadŸ j¹ sobie w dupê.</text>
@@ -2757,10 +2757,10 @@
     </string>
 
 	<string id="gar_deadman_dialog_1_0">
-        <text>Korektora nie zgubi³eœ? ¯art. Grek, nie wiesz, co to jest, ale wiesz, jak z tego korzystaæ.</text>
+        <text>Korektora nie zgubi³eœ? ¯art. Grek, nie wiesz co to jest, ale wiesz jak z tego korzystaæ.</text>
     </string>
 	<string id="gar_deadman_dialog_1_1">
-        <text>Wiem. Powiedzia³eœ, ¿e wyjaœnisz mi, jak to dzia³a.</text>
+        <text>Wiem. Powiedzia³eœ, ¿e wyjaœnisz mi jak to dzia³a.</text>
     </string>
 	<string id="gar_deadman_dialog_1_2">
         <text>Grek, na pocz¹tek - nie pijê, nie palê, nie ma¿ê siê.</text>
@@ -2769,7 +2769,7 @@
         <text>Tak? Kto by pomyœla³. Wiêc co to takiego - korektor?</text>
     </string>
 	<string id="gar_deadman_dialog_1_4">
-        <text>Je¿eli chcesz coœ schowaæ, no, jakiœ przedmiot, ale tak, ¿eby nikt nie móg³ tego znaleŸæ, to jak to zrobisz?</text>
+        <text>Je¿eli chcesz coœ schowaæ, no, jakiœ przedmiot, ale tak ¿eby nikt nie móg³ tego znaleŸæ, to jak to zrobisz?</text>
     </string>
 	<string id="gar_deadman_dialog_1_5">
         <text>Ty co - g³upi jesteœ? Jestem z³odziejem. Nigdy niczego nie chowa³em.</text>
@@ -2876,7 +2876,7 @@
         <text>Znaczy siê, nie oddajemy? To jaki masz plan?</text>
     </string>
 	<string id="gar_deadman_dialog_3_1">
-        <text>Schowamy kontener na Pchlim Targu.  Urz¹dzimy zasadzkê na po³udniowym posterunku i wystrzelamy wszystkich.</text>
+        <text>Schowamy kontener na Pchlim Targu. Urz¹dzimy zasadzkê na po³udniowym posterunku i wystrzelamy wszystkich.</text>
     </string>
 	<string id="gar_deadman_dialog_3_2">
         <text>Durny plan.</text>
@@ -3133,7 +3133,7 @@
         <text>Mo¿e coœ s³ysza³eœ?</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_34">
-        <text>Z Centrum Zony, przy tej emisji, ma³o kto wyszed³. I najemnika o imieniu Johnny wœród tych którzy wyszli nie by³o.</text>
+        <text>Z Centrum Zony, przy tej emisji ma³o kto wyszed³. I najemnika o imieniu Johnny wœród tych którzy wyszli nie by³o.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_1_35">
         <text>Zrozumia³em. I ostatnie pytanie: realnie mo¿na dostaæ siê do X-18?</text>
@@ -3205,7 +3205,7 @@
         <text>Drzwi zamkniête i zablokowane.</text>
     </string>
 	<string id="darklab_killer_langolier_dialog_2_2">
-        <text>No i co? Znaczy, ¿e ktoœ tu by³ ju¿ po was. Mo¿e, ten dziwny dziadek.</text>
+        <text>No i co? Znaczy, ¿e ktoœ tu by³ ju¿ po was. Mo¿e ten dziwny dziadek.</text>
     </string>
 	<string id="darklab_killer_langolier_dialog_2_3">
         <text>Nie podoba mi siê to, Grek.</text>
@@ -3272,7 +3272,7 @@
         <text>S³uchaj, Grek - potrzebujê tê ksiêgê. Gdzie ona jest? Masz j¹?!</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_17">
-        <text>Spokojnie, bratku, nie mam jej. Co siê tak rzucasz? Je¿eli bêdzie trzeba - znajdê j¹.</text>
+        <text>Spokojnie bratku, nie mam jej. Co siê tak rzucasz? Je¿eli bêdzie trzeba - znajdê j¹.</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_18">
         <text>Grabarz te¿ próbowa³ zszyæ horyzont. Swoimi, po prawdzie, metodami.</text>
@@ -3323,7 +3323,7 @@
         <text>Mo¿e coœ s³ysza³eœ?</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_34">
-        <text>Z Centrum Zony, przy tej emisji, ma³o kto wyszed³. I najemnika o imieniu Johnny wœród tych którzy wyszli nie by³o.</text>
+        <text>Z Centrum Zony przy tej emisji ma³o kto wyszed³. I najemnika o imieniu Johnny wœród tych którzy wyszli nie by³o.</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_35">
         <text>Rozumiem. I ostatnie pytanie. Najbli¿szy kontener ostatni raz da³ sygna³ w Czerwonym Lesie, przy starej kopalni. Co tam jest?</text>
@@ -3341,7 +3341,7 @@
         <text>No, z tym sobie poradzê. Bywaj przyjacielu.</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_40">
-        <text>Nie œpiesz siê, Grek. IdŸ najpierw na Sortowniê. Chodz¹ s³uchy, ¿e to Ty z Dedmanem wybi³eœ GRC na Wysypisku.  Pogadaj z handlarzami, oni zawsze maj¹ œwie¿e wiadomoœci. Mo¿e nie ma ju¿ sensu w³aziæ do sztabu Panzera po kontener, a? I jeszcze zapamiêtaj - nie dotykaj "œpi¹cych zombie".</text>
+        <text>Nie œpiesz siê, Grek. IdŸ najpierw na Sortowniê. Chodz¹ s³uchy, ¿e to Ty z Dedmanem wybi³eœ GRC na Wysypisku. Pogadaj z handlarzami, oni zawsze maj¹ œwie¿e wiadomoœci. Mo¿e nie ma ju¿ sensu w³aziæ do sztabu Panzera po kontener, a? I jeszcze zapamiêtaj - nie dotykaj "œpi¹cych zombie".</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_1_41">
         <text>Co to takiego - "œpi¹ce zombie"?</text>
@@ -3366,7 +3366,7 @@
         <text>Im dalej w las, tym wiêcej partyzantów...</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_2_4">
-        <text>Sztab od dawna stoi pusty. Kontener jest w sejfie, by dotrzeæ do niego trzeba w³¹czyæ generator: zamek nie ma autonomicznego Ÿród³a zasilania. Tylko... w sumie, nie œpiesz siê, Grek. IdŸ najpierw na Sortowniê. Chodz¹ s³uchy, ¿e to Ty z Dedmaniem wybi³eœ GRC na Wysypisku.  Pogadaj z handlarzami, oni zawsze maj¹ œwie¿e wiadomoœci. Mo¿e nie ma ju¿ sensu w³aziæ do sztabu Pancera po kontener, a?</text>
+        <text>Sztab od dawna stoi pusty. Kontener jest w sejfie, by dotrzeæ do niego trzeba w³¹czyæ generator: zamek nie ma autonomicznego Ÿród³a zasilania. Tylko... w sumie, nie œpiesz siê, Grek. IdŸ najpierw na Sortowniê. Chodz¹ s³uchy, ¿e to Ty z Dedmaniem wybi³eœ GRC na Wysypisku. Pogadaj z handlarzami, oni zawsze maj¹ œwie¿e wiadomoœci. Mo¿e nie ma ju¿ sensu w³aziæ do sztabu Panzera po kontener, a?</text>
     </string>
 	<string id="gar_sinoptic_sinoptic_dialog_2_5">
         <text>S³uchy, mówisz? Bywaj, przyjacielu.</text>
@@ -3425,7 +3425,7 @@
         <text>Nie, pytam - kto rozmawia³?</text>
     </string>
 	<string id="panzhc_col_panzer_dialog4_6">
-        <text>Cholera go wie. Sygna³ nie podda³ siê pe³nej demodulacji, po³owy s³ów w ogóle nie zrozumiesz. Ale sens jest zrozumia³y - poczekaæ na Pchlim Targu a¿ przyjdziesz z ostatnim kontenerem i Ciê zabiæ.</text>
+        <text>Cholera go wie. Sygna³ nie podda³ siê pe³nej demodulacji, po³owy s³ów w ogóle nie zrozumia³em. Ale sens jest zrozumia³y - poczekaæ na Pchlim Targu a¿ przyjdziesz z ostatnim kontenerem i Ciê zabiæ.</text>
     </string>
 	<string id="panzhc_col_panzer_dialog4_7">
         <text>Có¿... Dziêkujê za ostrze¿enie. A czemu od razu nie powiedzia³eœ?</text>
@@ -3444,7 +3444,7 @@
         <text>Czeœæ. A mi mówili: ¿e w Zonie pusto, ani ¿ywej duszy.</text>
     </string>
 	<string id="mil_military_stalker_guard_chieff_1_dialog_1_2">
-        <text>Bywa. Zdaje siê, ¿e Ciê znam. Grek, tak? Ty do nas, czy mimochodem?</text>
+        <text>Bywa. Zdaje siê, ¿e Ciê znam. Grek, tak? Ty do nas czy mimochodem?</text>
     </string>
 	<string id="mil_military_stalker_guard_chieff_1_dialog_1_3">
         <text>Aha, przejazdem.</text>
@@ -3511,7 +3511,7 @@
         <text>Mam szerokopasmowy radiotelefon.</text>
     </string>
 	<string id="mil_military_stalker_commander_dialog_1_16">
-        <text>Nie da rady. Radiostacje pracuj¹ przez koder-dekoder... S³uchaj, Grek, chcesz zarobiæ? Chêtnie dobrze zap³acê za prost¹ robótkê - dostarczyæ rozkaz na bazê wojskow¹ na Agropromie. 20 000.</text>
+        <text>Nie da rady. Radiostacje pracuj¹ przez koder-dekoder... S³uchaj, Grek, chcesz zarobiæ? Chêtnie dobrze zap³acê za prost¹ robótkê - dostarczyæ rozkaz na bazê wojskow¹ na Agropromie. 20 000 RU.</text>
     </string>
 	<string id="mil_military_stalker_commander_dialog_1_17">
         <text>1.	Nie mam czasu, wybacz.</text>
@@ -3526,7 +3526,7 @@
         <text>2.	Notatkê, czy coœ oddaæ? Dobra, przeka¿ê.</text>
     </string>
 	<string id="mil_military_stalker_commander_dialog_1_21">
-        <text>Nie notatkê, pendrive. Oddasz j¹ Tarasowi, albo jego zastêpcy na Agropromie i wszystko. Pieni¹dze zap³acê z góry. Plus premia - PKM i amunicja. Oto pendrive. Reszta u Suma, piêtro ni¿ej. Mo¿esz mu te¿ co nieco sprzedaæ, ¿eby szybciej siê poruszaæ.</text>
+        <text>Nie notatkê, fleszkê. Oddasz j¹ Tarasowi, albo jego zastêpcy na Agropromie i wszystko. Pieni¹dze zap³acê z góry. Plus premia - PKM i amunicja. Oto pendrive. Reszta u Suma, piêtro ni¿ej. Mo¿esz mu te¿ co nieco sprzedaæ, ¿eby szybciej siê poruszaæ.</text>
     </string>
 	<string id="mil_military_stalker_commander_dialog_1_22">
         <text>Umowa jest bardzo korzystna. Gdzie haczyk, dowódco?</text>
@@ -3561,7 +3561,7 @@
         <text>Aha, przejazdem.</text>
     </string>
 	<string id="mil_military_stalker_guard_chieff_2_dialog_1_4">
-        <text>Na Wysypisko? Wiêc s³uchaj, przejœæ tam mo¿na, ale tylko za pozwoleniem naszego dowódcy, Leo. Rada: zajrzyj do nas na bazê, pogadaj z Leo. Zrzucê Ci znacznik na PDA.</text>
+        <text>Na Wysypisko? Wiêc s³uchaj, przejœæ tam mo¿na, ale tylko za pozwoleniem naszego dowódcy - Leo. Rada: zajrzyj do nas na bazê, pogadaj z Leo. Zrzucê Ci znacznik na PDA.</text>
     </string>
 	<string id="mil_military_stalker_guard_chieff_2_dialog_1_5">
         <text>No, dlaczego by nie pogadaæ z dobrym cz³owiekiem.</text>
@@ -3589,7 +3589,7 @@
         <text>Nie ma z kim porozmawiaæ: zleceniodawca przepad³. A ja siê czujê jak ostatni drañ - wynagrodzenie wzi¹³ i nic nie zrobi³... Co wiesz o wojskowych stalkerach?</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_7">
-        <text>Wojskowi stalkerzy? Hmm... No, nic z³ego o nich nie s³ysza³em. Po s³uchach - baza u nich na Agropromie. Tu, je¿eli nawet siê pojawiaj¹, to siê maskuj¹, jeszcze nikt nie podszed³ do mnie i nie powiedzia³, halo, jestem wojskowym stalkerem. Osobiœcie nikogo nie znam.</text>
+        <text>Wojskowi stalkerzy? Hmm... No, nic z³ego o nich nie s³ysza³em. Po s³uchach - baza u nich na Agropromie. Tu, je¿eli nawet siê pojawiaj¹, to siê maskuj¹, jeszcze nikt nie podszed³ do mnie i nie powiedzia³: "halo, jestem wojskowym stalkerem". Osobiœcie nikogo nie znam.</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_8">
         <text>A nie jest to przypadkiem Powinnoœæ? Zmienili nazwê i wszystko.</text>
@@ -3598,7 +3598,7 @@
         <text>Mo¿e i Powinnoœæ. Jaki Ty masz interes do wojskowych stalkerów?</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_10">
-        <text>Mmm... tu taki drobiazg, Ernest, mam jeden drobiazg, który, bardzo prawdopodobnie, wska¿e na miejsce, gdzie mogê znaleŸæ zleceniodawcê. I porozmawiaæ z nim.</text>
+        <text>Mmm... tu taki drobiazg, Ernest. Mam jeden drobiazg, który bardzo prawdopodobne, ¿e wska¿e miejsce gdzie mogê znaleŸæ zleceniodawcê. I porozmawiaæ z nim.</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_11">
         <text>A je¿eli o to chodzi? Je¿eli zleceniodawca chce, byœ go szuka³ i znalaz³?</text>
@@ -3619,10 +3619,10 @@
         <text>Có¿. Mów.</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_17">
-        <text>Pó³tora roku temu, pewien stalker, zapomnia³em jego imienia, da³ mi na poczet d³ugu dziwny drobiazg. D³ug by³ niewielki, 70-80 dolarów, a drobiazg by³ dla niego, wydawa³o mi siê, bardzo wa¿ny. By³ to szklany nó¿.</text>
+        <text>Pó³tora roku temu, pewien stalker, zapomnia³em jego imienia, da³ mi na poczet d³ugu dziwny drobiazg. D³ug by³ niewielki, 70-80 dolarów, a drobiazg by³ dla niego, wydawa³o mi siê, bardzo wa¿ny. By³ to kamienny nó¿.</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_18">
-        <text>Szklany nó¿? A czemu nie szklany kut...</text>
+        <text>Kamienny nó¿? A czemu nie kamienny kut...</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_19">
         <text>Przestañ r¿eæ, Grek, pos³uchaj. Kiedy pokaza³em ten nó¿ Berendejowi, no wiesz - ojcu Witalijowi, ten bardzo siê rozz³oœci³, nagada³ mi ró¿nych bzdur o demonach i dawnych czasach i zabra³ nó¿.</text>
@@ -3634,7 +3634,7 @@
         <text>Tak sobie myœlê - rzecz to cenna bo stara i nachodzi mnie chêæ odzyskania tej kamiennej zguby. Pomo¿esz?</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_22">
-        <text>A gdzie mam szukaæ Berendeja i Twojej kamiennej zguby? Przecie¿ Berendej zgin¹³. A nó¿ zapewne razem z nim. Ha?</text>
+        <text>A gdzie mam szukaæ Berendeja i Twojej kamiennej zguby? Przecie¿ Berendej zgin¹³. A nó¿ zapewne razem z nim. Hê?</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_23">
         <text>Mi mówi³, ¿e zakopie nó¿ w poœwiêconej ziemi. Po paru tygodniach Berendej znowu by³ tu i brzêkn¹³ o danej sprawie, niby ¿e wszystko urz¹dzi³ i ¿e no¿a pogañskiego nikt wiêcej ju¿ nie zobaczy.</text>
@@ -3643,7 +3643,7 @@
         <text>No to b¹dŸ spokojny: je¿eli Berendej powiedzia³, znaczy, tak i jest.</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_25">
-        <text>Mo¿e, mimo wszystko, spróbujesz znaleŸæ ten nó¿?</text>
+        <text>Mo¿e mimo wszystko spróbujesz znaleŸæ ten nó¿?</text>
     </string>
 	<string id="barman_dialod_about_military_stalkers_26">
         <text>1.	Wybacz, Ernest. Daremna robota.</text>
@@ -3865,13 +3865,13 @@
     </string>
 
 	<string id="barman_dialod_about_autoritet_0">
-        <text>Ernest, film tu krêc¹, czy co? O bandyckim Petersburgu.</text>
+        <text>Ernest, film tu krêc¹, czy co? O bandyckim Petersburgu?</text>
     </string>
 	<string id="barman_dialod_about_autoritet_1">
-        <text>Grek, tam, na zapleczu, czekaj¹ na Ciebie. Powa¿ni. W sumie, b¹dŸ ostro¿ny.</text>
+        <text>Grek, tam, na zapleczu czekaj¹ na Ciebie. Powa¿ni. W sumie, b¹dŸ ostro¿ny.</text>
     </string>
 	<string id="barman_dialod_about_autoritet_2">
-        <text>Hmm. Intryga.</text>
+        <text>Hmm... Intryga.</text>
     </string>
 
 	<string id="barman_dialod_about_panzer_0">
@@ -3881,7 +3881,7 @@
         <text>Grek, tam, na zapleczu... W sumie, sam zobaczysz.</text>
     </string>
 	<string id="barman_dialod_about_panzer_2">
-        <text>Hmm. Intryga.</text>
+        <text>Hmm... Intryga.</text>
     </string>
 
 	<string id="sor_uzbek_bandit_2_dialog_1_0">
@@ -3906,13 +3906,13 @@
         <text>Sazan.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_1_7">
-        <text>Dok³adnie! Sazan. Tych dwóch ostatnich czeka³o na kogoœ. Przesiedzieli ca³¹ noc, prawie nic nie pili, tylko w szachy grali. Partii nie zakoñczyli. Poprosili, ¿eby nie przestawiaæ figur, niby ¿e, nied³ugo wróc¹ i dograj¹.</text>
+        <text>Dok³adnie! Sazan. Tych dwóch ostatnich czeka³o na kogoœ. Przesiedzieli ca³¹ noc, prawie nic nie pili, tylko w szachy grali. Partii nie zakoñczyli. Poprosili, ¿eby nie przestawiaæ figur, niby ¿e nied³ugo wróc¹ i dograj¹.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_1_8">
         <text>Sk¹d taka mi³oœæ do szachów? Im ciê¿ko odró¿niæ wie¿ê od króla.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_1_9">
-        <text>Aha. zerkn¹³em na szachownicê... Nie wiem, w co oni grali, ale na pewno nie w szachy. Ale nasza placówka jest lojalna w stosunku do klientów, proœbê klienta mo¿liwie zawsze spe³niamy, i ja na wszelki wypadek zrobi³em zdjêcie z ich "partii". I dobrze zrobi³em: dok³adnie za pó³ godziny zaszed³ pijany policjant, zrzuci³ szachownicê z bufetu. A ci i tak nie wrócili.</text>
+        <text>A-no. Zerkn¹³em na szachownicê... Nie wiem, w co oni grali, ale na pewno nie w szachy. Ale nasza placówka jest lojalna w stosunku do klientów, proœbê klienta mo¿liwie zawsze spe³niamy i ja na wszelki wypadek zrobi³em zdjêcie z ich "partii". I dobrze zrobi³em: dok³adnie za pó³ godziny zaszed³ pijany policjant, zrzuci³ szachownicê z bufetu. A ci i tak nie wrócili.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_1_10">
         <text>Co to za policjant?</text>
@@ -3949,7 +3949,7 @@
         <text>No kto... Znawcy starego dobrego rock-and-rolla i dobrego napitku. Ró¿ni ludzie zachodz¹.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_2_4">
-        <text>Powinnoœciowcy te¿ zachodz¹? Chodz¹ s³uchy, ¿e Pancer ¿yje.</text>
+        <text>Powinnoœciowcy te¿ zachodz¹? Chodz¹ s³uchy, ¿e Panzer ¿yje.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_2_5">
         <text>Na Panzera niczego nie powiem, nie wiem. Gadali ludzie, oczywiœcie, ¿e po starciu z wyrodkami w Prypeci, kiedy Panzer siê wysadzi³, jego cia³a i tak nie znaleŸli. Ale mnie tam nie by³o, k³amaæ nie zwyk³em... A z waszych - Chazara widzia³em. Gena hakera. Jeszcze dwóch by³o niedawno... Dziobaty i... Sandacz, chyba.</text>
@@ -3958,13 +3958,13 @@
         <text>Sazan.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_2_7">
-        <text>Dok³adnie! Sazan. Tych dwóch ostatnich czeka³o na kogoœ. Przesiedzieli ca³¹ noc, prawie nic nie pili, tylko w szachy grali. Partii nie zakoñczyli. Poprosili, ¿eby nie przestawiaæ figur, niby ¿e, nied³ugo wróc¹ i dograj¹.</text>
+        <text>Dok³adnie! Sazan. Tych dwóch ostatnich czeka³o na kogoœ. Przesiedzieli ca³¹ noc, prawie nic nie pili, tylko w szachy grali. Partii nie zakoñczyli. Poprosili, ¿eby nie przestawiaæ figur, niby ¿e nied³ugo wróc¹ i dograj¹.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_2_8">
         <text>Sk¹d taka mi³oœæ do szachów? Im Ciê¿ko odró¿niæ wie¿ê od króla.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_2_9">
-        <text>Aha. zerkn¹³em na szachownicê... Nie wiem, w co oni grali, ale na pewno nie w szachy. Ale nasza placówka jest lojalna w stosunku do klientów, proœbê klienta mo¿liwie zawsze spe³niamy, i ja na wszelki wypadek zrobi³em zdjêcie z ich "partii". I dobrze zrobi³em: dok³adnie za pó³ godziny zaszed³ pijany policjant, zrzuci³ szachownicê z bufetu. A ci i tak nie wrócili.</text>
+        <text>A-no. Zerkn¹³em na szachownicê... Nie wiem w co oni grali, ale na pewno nie w szachy. Ale nasza placówka jest lojalna w stosunku do klientów, proœbê klienta mo¿liwie zawsze spe³niamy i ja na wszelki wypadek zrobi³em zdjêcie z ich "partii". I dobrze zrobi³em: dok³adnie za pó³ godziny zaszed³ pijany policjant, zrzuci³ szachownicê z bufetu. A ci i tak nie wrócili.</text>
     </string>
 	<string id="sor_uzbek_bandit_2_dialog_2_10">
         <text>Co to za policjant?</text>
@@ -4030,7 +4030,7 @@
         <text>Co tam z wynagrodzeniem, dowódco?</text>
     </string>
 	<string id="marsh_svoboda_commander_dialog_3_1">
-        <text>Twoje wiadomoœci zosta³y potwierdzone. Bez obrazy, takie przepisy.</text>
+        <text>Twoje wiadomoœci zosta³y potwierdzone. Bez urazy - takie przepisy.</text>
     </string>
 	<string id="marsh_svoboda_commander_dialog_3_2">
         <text>Nie nale¿y ufaæ ludziom, to fakt. Mnie - mo¿na.</text>
@@ -4040,7 +4040,7 @@
         <text>Co tam z wynagrodzeniem, dowódco?</text>
     </string>
 	<string id="marsh_svoboda_commander_dialog_4_1">
-        <text>Twoje wiadomoœci zosta³y potwierdzone. Bez obrazy, takie przepisy.</text>
+        <text>Twoje wiadomoœci zosta³y potwierdzone. Bez obrazy - takie przepisy.</text>
     </string>
 	<string id="marsh_svoboda_commander_dialog_4_2">
         <text>Nie nale¿y ufaæ ludziom, to fakt. Mnie - mo¿na.</text>
@@ -4097,13 +4097,13 @@
         <text>Widzia³eœ j¹ chocia¿?</text>
     </string>
 	<string id="sor_kuchma_dialog_1_6">
-        <text>Tak jak Ciebie teraz. Ksi¹¿ka stara, bez dwóch zdañ. Zakrêtasy jakieœ w niej i rysunki straszne. Okropna sprawa.</text>
+        <text>Tak, jak Ciebie teraz. Ksi¹¿ka stara, bez dwóch zdañ. Zakrêtasy jakieœ w niej i rysunki straszne. Okropna sprawa.</text>
     </string>
 	<string id="sor_kuchma_dialog_1_7">
         <text>Cena?</text>
     </string>
 	<string id="sor_kuchma_dialog_1_8">
-        <text>W³aœciciel chce dziesiêæ tysiêcy. Mówi, ¿e targowaæ siê nie bêdzie, niby i tak prawie za darmo oddaje.</text>
+        <text>W³aœciciel chce dziesiêæ tysiêcy. Mówi, ¿e targowaæ siê nie bêdzie. Niby i tak prawie za darmo oddaje.</text>
     </string>
 	<string id="sor_kuchma_dialog_1_9">
         <text>Chcia³bym zobaczyæ towar na w³asne oczy, dotkn¹æ.</text>
@@ -4135,13 +4135,13 @@
         <text>Ksi¹¿kê ma Duszman?</text>
     </string>
 	<string id="sor_kuchma_prisoner_dialog_1_4">
-        <text>Zapewne. Sk¹d mam wiedzieæ? Zap³acili mi, powiesi³em og³oszenie, odprowadzi³em Ciê do przejœcia, przenios³em wyposa¿enie nieco dalej od przejœcia, poszed³em do kawiarni by tam na Ciebie czekaæ. A tu Ci mnie zabrali.</text>
+        <text>Zapewne. Sk¹d mam wiedzieæ? Zap³acili mi, powiesi³em og³oszenie, odprowadzi³em Ciê do przejœcia. Przenios³em wyposa¿enie nieco dalej od przejœcia, poszed³em do kawiarni by tam na Ciebie czekaæ. A tu Ci mnie zabrali.</text>
     </string>
 	<string id="sor_kuchma_prisoner_dialog_1_5">
         <text>By³eœ na Polanie?</text>
     </string>
 	<string id="sor_kuchma_prisoner_dialog_1_6">
-        <text>A po co mi ona, Grek!? Przecie¿ ci mówiê: siedzieliœmy ze ¯wawym przy ognisku. Podszed³ goœæ. Zaproponowa³ zlecenie. Powiedzia³, co trzeba zrobiæ. Koniec.</text>
+        <text>A po co mi ona, Grek!? Przecie¿ Ci mówiê: siedzieliœmy ze ¯wawym przy ognisku. Podszed³ goœæ. Zaproponowa³ zlecenie. Powiedzia³, co trzeba zrobiæ. Koniec.</text>
     </string>
 	<string id="sor_kuchma_prisoner_dialog_1_7">
         <text>Dobra. Na razie Ciê nie zabijê.</text>
@@ -4151,7 +4151,7 @@
         <text>No i co? Wdepn¹³eœ, frajerze? Myœla³eœ, ¿e jak gruchn¹³eœ Grabarza, to na tym wszystko siê skoñczy? Dureñ z Ciebie. Gotowy stan¹æ przed Panem?</text>
     </string>
 	<string id="pol_dushman_dialog_1_1">
-        <text>Chcielibyœcie mnie zabiæ, zabilibyœcie od razu. Czyli, mów czego Ci trzeba, z³odzieju, albo zaczynamy siê strzelaæ.</text>
+        <text>Chcielibyœcie mnie zabiæ, zabilibyœcie od razu. Czyli mów czego Ci trzeba, z³odzieju, albo zaczynamy siê strzelaæ.</text>
     </string>
 	<string id="pol_dushman_dialog_1_2">
         <text>Nie rozœmieszaj mnie: Ty jesteœ nieuzbrojony, nawet bez no¿a. Dobra. Mamy dla Ciebie ofertê: zapominasz o Grabarzu i o manuskrypcie, który widzia³eœ. I tyle, rozejdziemy siê, ka¿dy w swoj¹ stronê.</text>
@@ -4182,7 +4182,7 @@
         <text>Potrzebna mi ³¹cznoœæ radiowa.</text>
     </string>
 	<string id="marsh_svoboda_robot_dialog_1_3">
-        <text>E-e-e, bracie... Nawet nie wiem, jak ci pomóc. Spróbuj z Krzemieniem pogadaæ, widzia³em u niego japoñski skaner.</text>
+        <text>E-e-e, bracie... Nawet nie wiem, jak Ci pomóc. Spróbuj z Krzemieniem pogadaæ, widzia³em u niego japoñski skaner.</text>
     </string>
 	<string id="marsh_svoboda_robot_dialog_1_4">
         <text>Dziêki, bracie.</text>
@@ -4210,7 +4210,7 @@
         <text>A jak skaner znalaz³ siê u Ciebie?</text>
     </string>
 	<string id="marsh_svoboda_trader_dialog_3_7">
-        <text>Nurik zostawi³ go Gromowi do naprawy, zap³aci³ z góry. A Grom naprawi³ i zostawi³ skaner u mnie, ¿ebym go odda³ Nurikowi, kiedy ten siê pojawi. I sam te¿ przepad³. Nie, Grek, nie moja rzecz, nic nie poradzê. Ot ¿eby wiedzieæ, ¿e Nurik nie wróci...</text>
+        <text>Nurik zostawi³ go Gromowi do naprawy, zap³aci³ z góry. A Gromow naprawi³ i zostawi³ skaner u mnie, ¿ebym go odda³ Nurikowi, kiedy ten siê pojawi. I sam te¿ przepad³. Nie, Grek, nie moja rzecz, nic nie poradzê. Ot ¿eby wiedzieæ, ¿e Nurik nie wróci...</text>
     </string>
 	<string id="marsh_svoboda_trader_dialog_3_8">
         <text>Ju¿ rozumiem.</text>
@@ -4504,10 +4504,10 @@
         <text>Tak, tak, wiem, Ernest uprzedzi³. Dzieñ dobry, Grek. Wiele dobrego s³ysza³em o Tobie. Dokumenty le¿¹ na stole. Trochê niewyraŸne F.I.O., tak spec zdecydowa³, ¿e bêdzie odci¹gaæ uwagê na kontroli. Pomówiæ z Tob¹ chcê, Grek. Masz czas? Nie przejmuj siê bojcem: on te¿ do domu chce.</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_1">
-        <text>Na rozmowê? Znajdzie siê. S³ucham, kapitanie.</text>
+        <text>Na rozmowê? Znajdzie siê czas. S³ucham, kapitanie.</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_2">
-        <text>Wiem, ¿e z braciakami Ty tak, z koniecznoœci, ale w istocie, Ty - rajder, samotnik. Stalker, który mo¿e przedostaæ siê w dowolny punkt Zony. I wróciæ. Tak jest?</text>
+        <text>Wiem, ¿e z braciakami Ty tak z koniecznoœci, ale w istocie, Ty - rajder, samotnik. Stalker, który mo¿e przedostaæ siê w dowolny punkt Zony. I wróciæ. Tak jest?</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_3">
         <text>O co chodzi, naczelniku?</text>
@@ -4522,10 +4522,10 @@
         <text>Mnie trudno nazwaæ pewnym siebie w stosunku do Zony, Grek.</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_7">
-        <text>Du¿o ¿elastwa przygotowa³o wojsko. Wybieracie siê w Zonê? Nie odpowiadaj, i tak wiem. Otó¿, kapitanie: im wiêcej ¿elastwa, tym mniej szans na powrót. Gdzie posy³aj¹, kapitanie? Albo to tajemnica wojskowa?</text>
+        <text>Du¿o ¿elastwa przygotowa³o wojsko. Wybieracie siê w Zonê? Nie odpowiadaj - i tak wiem. Otó¿, kapitanie: im wiêcej ¿elastwa, tym mniej szans na powrót. Gdzie posy³aj¹, kapitanie? Albo to tajemnica wojskowa?</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_8">
-        <text>Jaka tam tajemnica, Grek. Wszyscy ju¿ wiedz¹. Limañsk.</text>
+        <text>Jaka tam tajemnica, Grek. Wszyscy ju¿ wiedz¹: Limañsk.</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_9">
         <text>Paskudnie. Przewodnika macie?</text>
@@ -4534,7 +4534,7 @@
         <text>Nie w przewodniku sprawa, Grek. Nam nie wróciæ. Nigdy nam siê nie uda wróciæ.</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_11">
-        <text>Wiêc dam Ci radê, ¿o³nierzu... pistolet do skroni - mózg na œcianie. Medal za œmieræ w Zonie jeszzce dostaniesz. Poœmiertnie. Nie kocha Zona nudziarzy i ponuraków.</text>
+        <text>Wiêc dam Ci radê, ¿o³nierzu... pistolet do skroni - mózg na œcianie. Medal za œmieræ w Zonie jeszcze dostaniesz. Poœmiertnie. Nie kocha Zona nudziarzy i ponuraków.</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_12">
         <text>Dobra. Rozmowa skoñczona. Dokumenty, jak powiedzia³em, le¿¹ na stole. Bierz.</text>
@@ -4543,7 +4543,7 @@
         <text>"Okno".</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_14">
-        <text>"Okno" ... Lekarz GRC na Kordonie. Doktor Piech. On zorganizuje Ci "okno" i przewodnika... Brak blokady, Grek. ¯egnaj.</text>
+        <text>"Okno"... Lekarz GRC na Kordonie. Doktor Piech. On zorganizuje Ci "okno" i przewodnika... Brak blokady, Grek. ¯egnaj.</text>
     </string>
 	<string id="sor_soldier_commander_2_dialog_1_15">
         <text>G³upiec z Ciebie, kapitanie. Spotkamy siê jeszcze, z pewnoœci¹. Daleko st¹d. W Górnej Tundrze, w miejscach bogatych w zwierzynê. ¯egnaj, ¿o³nierzu.</text>
@@ -4578,7 +4578,7 @@
         <text>Prosta sprawa, znajdê.</text>
     </string>
 	<string id="sor_ltnt_simonov_dialog_about_btr_3">
-        <text>Otó¿, przyjacielu Grek, s³uchaj: na po³udniowym posterunku jest schowek grupy Poszukiwaczy. Na strychu. ukry³em tam artefakt, ceny niema³ej. Czarny Anio³. Jest tam jeszcze trochê drobiazgów, mo¿esz je sobie zostawiæ, ale artefakt mi przynieœ. A ja ci dam BTR. W dzier¿awê. Pasuje Ci taki plan?</text>
+        <text>Otó¿, przyjacielu Grek, s³uchaj: na po³udniowym posterunku jest schowek grupy Poszukiwaczy. Na strychu. ukry³em tam artefakt, ceny niema³ej. Czarny Anio³. Jest tam jeszcze trochê drobiazgów, mo¿esz je sobie zostawiæ, ale artefakt mi przynieœ. A ja Ci dam BTR. W dzier¿awê. Pasuje Ci taki plan?</text>
     </string>
 	<string id="sor_ltnt_simonov_dialog_about_btr_4">
         <text>1.	Pasuje. Czekaj na artefakt, dowódco.</text>
@@ -4648,7 +4648,7 @@
         <text>Mog³em przeprowadziæ. Teraz ju¿ nie. Sam ledwie g³owê unios³em, policja zaczê³a coœ podejrzewaæ. Kto Ciê interesuje? Tam s¹ Twoi i McClensa i Szamraja.</text>
     </string>
 	<string id="sor_ivancov_dialog_1_3">
-        <text>Hmm... I szamrajowcy s¹. Wiêc wszyscy mnie interesuj¹.</text>
+        <text>Hmm... I szamrajowcy s¹... Wiêc wszyscy mnie interesuj¹.</text>
     </string>
 	<string id="sor_ivancov_dialog_1_4">
         <text>Je¿eli masz pewnych ludzi - mo¿emy napaœæ na miasteczko.</text>
@@ -4657,7 +4657,7 @@
         <text>Ludzi mo¿na znaleŸæ.</text>
     </string>
 	<string id="sor_ivancov_dialog_1_6">
-        <text>Nie znajdziesz - trudno: poradzimy sobie we dwóch, chocia¿ ciê¿ko bêdzie, oczywiœcie.</text>
+        <text>Nie znajdziesz - trudno: poradzimy sobie we dwóch, chocia¿ ciê¿ko bêdzie oczywiœcie.</text>
     </string>
 	<string id="sor_ivancov_dialog_1_7">
         <text>We dwóch? Nierealne.</text>
@@ -4704,7 +4704,7 @@
         <text>Karabin jest mi potrzebny. Du¿y kaliber i z optyk¹. Pieni¹dze mam.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_4">
-        <text>To oczywiœcie dobrze, ¿e masz pieni¹dze. Ale mi trzeba czegoœ innego. Z pewnoœci¹ widzia³eœ, u Grubera na Bagnach, dwie kamienne rzeŸby - stalker wznosz¹cy rêce do nieba?</text>
+        <text>To oczywiœcie dobrze, ¿e masz pieni¹dze. Ale mi trzeba czegoœ innego. Z pewnoœci¹ widzia³eœ, u Gruwera na Bagnach, dwie kamienne rzeŸby - stalker wznosz¹cy rêce do nieba?</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_5">
         <text>Niby widzia³em.</text>
@@ -4725,7 +4725,7 @@
         <text>IdŸ w cholerê, ¯wawy.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_11">
-        <text>A gdzie szukaæ tego cuda? Pamiêtam, ¿e stalker, który stworzy³ te rzeŸby, zagin¹³ gdzieœ w Zonie.</text>
+        <text>A gdzie szukaæ tego cuda? Pamiêtam, ¿e stalker który stworzy³ te rzeŸby zagin¹³ gdzieœ w Zonie.</text>
     </string>
 	<string id="sor_stalker_1_dialog_1_12">
         <text>Nestor baptysta? Tak, ju¿ od dawna nic o nim nie s³ychaæ. Ale to niewa¿ne. Prototyp jest w X-18. Miejsce wska¿ê. Dogadamy siê?</text>
@@ -4798,7 +4798,7 @@
     </string>
 
 	<string id="sor_stalker_1_dialog_2_0">
-        <text>(pokazuje artefakt) Patrz. Na to siê umawialiœmy?</text>
+        <text>Patrz. Na to siê umawialiœmy? [pokazuje artefakt]</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_1">
         <text>Nie mo¿e byæ... Tak-tak, Grek, to on! No, po prostu brak s³ów, Grek!</text>
@@ -4816,7 +4816,7 @@
         <text>Nie zna³eœ Nestora babtysty? To dopiero orygina³. NiegroŸny, ale te¿ nieŸle pokrêcony. Wiêc ostatni raz widzia³em go na Wysypisku, na Pchlim Targu. Figurki klepa³ z wszystkiego, co by³o pod rêk¹. Stalker patrz¹cy w niebo.</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_6">
-        <text>Te same, co teraz ma Gruber?</text>
+        <text>Te same, co teraz ma Gruwer?</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_7">
         <text>Aha. Kiedy spotka³em Nestora, wyrzeŸbi³ ju¿ tego kilkadziesi¹t sztuk. Sam - chudy, obdarty, palce do koœci zdarte. A w oczach pali mu siê jakiœ dziki ogieñ. I mamrocze sobie pod nosem jakieœ bzdury. Ca³kiem odjecha³. Spróbowa³em do niego zagadaæ. Bez rezultatu. Nie reaguje. Przysiad³em obok by coœ przek¹siæ, siedzê, zagryzam. A ten sobie mamrocze. Zacz¹³em siê mimo woli przys³uchiwaæ. "X-18, szyb wentylacyjny, stalker, artefakt, Martwe Miasto" i tym podobne... Grek, co z Tob¹?</text>
@@ -4843,7 +4843,7 @@
         <text>Dziwne. Ja te¿, kiedy zobaczy³em artefakt, od razu o Martwym Mieœcie pomyœla³em. Mistyka.</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_15">
-        <text>A niedawno u Grubera zobaczy³em dwie figurki. Przypomnia³em sobie o Nestorze, X-18 i planie. Zapyta³em Grubera, sk¹d je ma. Ten powiedzia³, ¿e Nestor baptysta wymieni³ je na wyposa¿enie.</text>
+        <text>A niedawno u Gruwera zobaczy³em dwie figurki. Przypomnia³em sobie o Nestorze, X-18 i planie. Zapyta³em Gruwera, sk¹d je ma. Ten powiedzia³, ¿e Nestor baptysta wymieni³ je na wyposa¿enie.</text>
     </string>
 	<string id="sor_stalker_1_dialog_2_16">
         <text>Co zrobisz z artefaktem, ¯wawy?</text>
@@ -4874,7 +4874,7 @@
         <text>Miny sk¹d bierzecie?</text>
     </string>
 	<string id="sor_killer_yalta_dialog_1_2">
-        <text>Te, co na wyjœciu z X-18 postawiliœmy, ze schowka na Kordonie. Pod samym nosem GRC na po³udniowym posterunku s¹ schowane . Na pewno.</text>
+        <text>Te, co na wyjœciu z X-18 postawiliœmy, ze schowka na Kordonie. Pod samym nosem GRC na po³udniowym posterunku s¹ schowane. Na pewno.</text>
     </string>
 	<string id="sor_killer_yalta_dialog_1_3">
         <text>Dlaczego zmieniliœcie barwy? Albo to po prostu maskowanie?</text>
@@ -4886,7 +4886,7 @@
         <text>Szoker planuje bardzo siê wzmocniæ?</text>
     </string>
 	<string id="sor_killer_yalta_dialog_1_6">
-        <text>A tak! Nawet helikopter i dzia³ka otrzyma³. Technik systemowy przyby³ z Warszawy. Jego ksywka to OCP. A to bardzo powa¿ne.</text>
+        <text>A tak! Nawet helikopter i dzia³ka otrzyma³. Technik systemowy przyby³ z Warszawy. Jego ksywka to Ousipi. A to bardzo powa¿ne.</text>
     </string>
 	<string id="sor_killer_yalta_dialog_1_7">
         <text>Co myœlicie robiæ?</text>
@@ -5159,7 +5159,7 @@
         <text>Leñki Brzytwy, prawdopodobnie.</text>
     </string>
 	<string id="sor_mackleens_exo_dialog_5_10">
-        <text>Domyœlam siê, ¿e naznaczeni Soko³ow i W³óczêga. W³aœnie dlatego i my wróciliœmy do Zony. Obaj zabici; na Wielkiej Ziemi. Jeden w Gatczinie, drugi we W³adywostoku.</text>
+        <text>Domyœlam siê, ¿e naznaczeni Soko³ow i W³óczêga. W³aœnie dlatego i my wróciliœmy do Zony. Obaj zabici - na Wielkiej Ziemi. Jeden w Gatczinie, drugi we W³adywostoku.</text>
     </string>
 	<string id="sor_mackleens_exo_dialog_5_11">
         <text>Mówili, ¿e skoñczy³eœ ze stalkerk¹, a obserwujê, jak wasza grupa znowu zbiera siê na Sortowni na wypad w Zonê. Zew Prypeci?</text>
@@ -5278,7 +5278,7 @@
         <text>GRC wynajê³o najemników? Dolina Mroku. Opowiedz o tym?</text>
     </string>
 	<string id="sor_grc_agent_prisoner_dialog_1_13">
-        <text>Najemnicy z pomoc¹ GRC buduj¹ umocnion¹ bazê w Dolinie Mroku. Opowiedz o tym?</text>
+        <text>Najemnicy z pomoc¹ GRC buduj¹ umocnion¹ bazê w Dolinie Mroku. Opowiesz o tym?</text>
     </string>
 	<string id="sor_grc_agent_prisoner_dialog_1_14">
         <text>¯egnaj.</text>
@@ -5294,7 +5294,7 @@
         <text>No, a z handlem to co siê sta³o? Albo coœ popl¹ta³em, albo w Zonie nigdy nie handlowano na wiêksz¹ skalê?</text>
     </string>
 	<string id="sidor_dialog_about_bankcard_1">
-        <text>Nie jesteœ na czasie, Grek. Gienia niedawno zorganizowa³ ca³y system p³atniczy, "Pustynne Ziemie" siê nazywa; wszyscy na niego przeszli. Handel, rozliczenia. Nawet naprawy - widzia³eœ, z pewnoœci¹ warsztaty remontowe? Je¿eli karta nie jest aktywowana - lepiej nie odwiedzaj takiego warsztatu. Karta wirtualna, wbudowana w PDA. Daj, wprowadzê Ci j¹, nie potrwa to wiêcej ni¿ minutê.</text>
+        <text>Nie jesteœ na czasie, Grek. Gienia niedawno zorganizowa³ ca³y system p³atniczy, "Pustynne Ziemie" siê nazywa. Wszyscy na niego przeszli. Handel, rozliczenia. Nawet naprawy - widzia³eœ, z pewnoœci¹ warsztaty remontowe? Je¿eli karta nie jest aktywowana - lepiej nie odwiedzaj takiego warsztatu. Karta wirtualna, wbudowana w PDA. Daj, wprowadzê Ci j¹. Nie potrwa to wiêcej ni¿ minutê.</text>
     </string>
 	<string id="sidor_dialog_about_bankcard_2">
         <text>1.	Nie, Sidor, wietrzê przekrêt.</text>
@@ -5303,7 +5303,7 @@
         <text>2.	Dzia³aj. Spróbujê oceniæ zalety wirtualnej waluty.</text>
     </string>
 	<string id="sidor_dialog_about_bankcard_4">
-        <text>2.	Dzia³aj. Spróbujê oceniæ zalety wirtualnej waluty. Przy okazji, mam tu dwadzieœcia tysiêcy uzbierane; wrzuæ je od razu na mój rachunek.</text>
+        <text>2.	Dzia³aj. Spróbujê oceniæ zalety wirtualnej waluty. Przy okazji, mam tu dwadzieœcia tysiêcy uzbierane. Wrzuæ je od razu na mój rachunek.</text>
     </string>
 
 	<string id="lukanov_dialog_1_0">
@@ -5340,7 +5340,7 @@
         <text>1.	Zgoda.</text>
     </string>
 	<string id="lukanov_dialog_1_11">
-        <text>2.	A chcecie zawrzeæ bli¿sz¹ znajomoœæ z pu³kownikiem Pancerem, doktorze?</text>
+        <text>2.	A chcecie zawrzeæ bli¿sz¹ znajomoœæ z pu³kownikiem Panzerem, doktorze?</text>
     </string>
 	<string id="lukanov_dialog_1_12">
         <text>Nie tylko chcê - mam takie gor¹ce ¿yczenie. To jak? Bêdzie handel?</text>
@@ -5372,7 +5372,7 @@
         <text>By³em niedawno w tutejszej fabryce, i oto co tam znalaz³em.</text>
     </string>
 	<string id="barman_dialod_about_factory_1">
-        <text>E-e-e, Grek! Nie powinieneœ mieszaæ mnie w tê sprawê. Gdzieœ tu krêci siê doktor Lukianow. Z fabryki. Nosi czapkê GRC. Z nim pogadaj.</text>
+        <text>E-e-e, Grek! Nie powinieneœ mieszaæ mnie w tê sprawê. Gdzieœ tu krêci siê doktor £ukianow. Z fabryki. Nosi czapkê GRC. Z nim pogadaj.</text>
     </string>
 	<string id="barman_dialod_about_factory_2">
         <text>Dziêki.</text>
@@ -5574,7 +5574,7 @@
         <text>Szuka³em was na Kordonie. Losza Szamraj bardzo za wami têskni³. ¯yjecie, to dobrze. Ty i Twój kumpel przeszliœcie po cichu Perymetr, dlaczego znowu przez wy³om w œcianie nie poszliœcie? Dlaczego poddaliœcie siê GRC?</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_4">
-        <text>Dziewczynka tam sta³a. S³uchy sz³y, ¿e prawdziwe dwa diab³y po Kordonie siê krêc¹. Spotkanym g³owy przekrêcaj¹, rêce i nogi odrywaj¹. Przeraziliœmy siê z kole¿k¹... Ja bym i teraz siê zesra³ ze strachu, jakbym znów t¹ dziewczynê zobaczy³. Co robiæ? Dalej na Po³udnie siê przedzieraæ? Patrole. Krótko, schowaliœmy broñ na ATP i do GRCowców na Perymetr biegiem, jak do krewnych. O dziewczynce opowiedzieliœmy, o tym, po co w Zonê poszliœmy. Ci, po prawdzie, dobrze nas potraktowali. Nie zabili. Do aresztu wsadzili.</text>
+        <text>Dziewczynka tam sta³a. S³uchy sz³y, ¿e prawdziwe dwa diab³y po Kordonie siê krêc¹. Spotkanym g³owy przekrêcaj¹, rêce i nogi odrywaj¹. Przeraziliœmy siê z kole¿k¹... Ja bym i teraz siê zesra³ ze strachu, jakbym znów t¹ dziewczynê zobaczy³. Co robiæ? Dalej na Po³udnie siê przedzieraæ? Patrole. Krótko, schowaliœmy broñ na ATP i do GRCowców na Perymetr biegiem, jak do krewnych. O dziewczynce opowiedzieliœmy, o tym po co w Zonê poszliœmy. Ci, po prawdzie, dobrze nas potraktowali. Nie zabili. Do aresztu wsadzili.</text>
     </string>
 	<string id="sor_bubenersh_dialog_1_5">
         <text>Rozumiem.</text>
@@ -5654,7 +5654,7 @@
         <text>Gnojek. Dobra.</text>
     </string>
 	<string id="sor_gold_dialog_2_4">
-        <text>Spotkamy siê na Magazynach, w Pijawkowie. Pasuje Ci?</text>
+        <text>Spotkamy siê na Magazynach, w Wiosce Pijawek. Pasuje Ci?</text>
     </string>
 	<string id="sor_gold_dialog_2_5">
         <text>Pasuje.</text>
@@ -5691,7 +5691,7 @@
         <text>Przypuœæmy. Co Ja³ta powiedzia³?</text>
     </string>
 	<string id="val_scorpio_dialog_10">
-        <text>Przez galeriê na bazê trzeba wejœæ. Najlepiej w nocy. Schody na dach - na placu roz³adunkowym, potem przez okno dachowe... Zak³uæ ochronê. Pendrive z wszystkimi dokumentami i kodami jest u Szokera w sejfie, a to znaczy, ¿e Szoker te¿ na straty. Wy³¹czyæ sterowanie dzia³kami. No, i z bazy siê wydostaæ z Ja³t¹ i jego towarzyszami.</text>
+        <text>Przez galeriê na bazê trzeba wejœæ. Najlepiej w nocy. Schody na dach - na placu roz³adunkowym, potem przez okno dachowe... Zak³uæ ochronê. Fleszka ze wszystkimi dokumentami i kodami jest u Szokera w sejfie, a to znaczy, ¿e Szoker te¿ na straty. Wy³¹czyæ sterowanie dzia³kami. No, i z bazy siê wydostaæ z Ja³t¹ i jego towarzyszami.</text>
     </string>
 	<string id="val_scorpio_dialog_11">
         <text>A gdyby dzia³ek nie wy³¹czyæ?</text>
@@ -5737,13 +5737,13 @@
         <text>Klucze mia³em. Monolitowskie, widzia³em takie wczeœniej.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_2_10">
-        <text>Wiêc, to znaczy, ¿e Grabarz te¿ mia³ taki klucz.</text>
+        <text>Wiêc, to znaczy, ¿e Grabarz te¿ mia³ takie klucze.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_2_11">
         <text>Tak, to mo¿liwe... Gdzie ostatnia skrzynia HSM? Mi to ju¿ i tak do niczego niepotrzebne, ale - kwestia zasad.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_2_12">
-        <text>Kontener jest w Szpitalu. Ale on, rzeczywiœcie, nie jest Ci potrzebny. Przy okazji, ksi¹¿ka te¿ nie jest potrzebna. Mo¿esz j¹ wyrzuciæ, albo spaliæ. Masz tu ognisko.</text>
+        <text>Kontener jest w Szpitalu. Ale on, rzeczywiœcie nie jest Ci potrzebny. Przy okazji, ksi¹¿ka te¿ nie jest potrzebna. Mo¿esz j¹ wyrzuciæ, albo spaliæ. Masz tu ognisko.</text>
     </string>
 	<string id="val_sinoptic_sinoptic_dialog_2_13">
         <text>Jak dostaæ siê do Szpitala?</text>
@@ -5759,7 +5759,7 @@
 		<text>S³uchaj, Ernest. By³em w Prypeci. Pokrêci³em siê tam po kinoteatrze.</text>
 	</string>
 	<string id="barman_dialod_about_black_soul_1">
-		<text>Jakie filmy puszczali? He-he</text>
+		<text>Jakieœ filmy puszczali? He-he</text>
 	</string>
 	<string id="barman_dialod_about_black_soul_2">
 		<text>Tak, film nie by³ zbyt ciekawy. Ale widzisz, coœ z³ego mnie tam spotka³o. Gdy seans siê zakoñczy³ i opuœci³em salê - rozebra³o mnie dok³adnie. Krew leje mi siê bez ¿adnego powodu z nosa, gwi¿d¿e mi w uszach, ciemnieje w oczach. Tak bardzo, ¿e œwiat³a bia³ego nie widaæ, a¿ iœæ nie mogê. I, co najwa¿niejsze, wszêdzie widzê potwory wokó³ mnie, depcz¹ce mnie i gryz¹ce.</text>
