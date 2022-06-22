@@ -28,29 +28,28 @@ function aes_grek_phrase_1_dialog()
 end
 
 function sor_grek_phrase_4_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Jeszcze nie przyœla³em. Dobra, pójdziemy i rozs¹dzimy.", nil, nil, 4000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Jeszcze nie przyœla³em tego. Dobra, pójdziemy i rozs¹dzimy.", nil, nil, 4000)
 end
 
 function sor_grek_phrase_3_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ju¿ dobrze, zapomnijmy. A teraz czego chcecie ode mnie? \\n	%c[255,1,255,255]Ja³ta: %c[default]Potwierdzaj¹ce dowody przedstawisz ogó³owi. To tak, a teraz mi³y cz³owieku idŸ do kawiarni, najpij siê wódki i przemyœl, jak znaleŸæ Loszê.\\n	", nil, nil, 17000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Ju¿ dobrze, zapomnijmy. A teraz czego chcecie ode mnie? \\n%c[255,1,255,255]Ja³ta: %c[default]Sytuacjê wyjaœniæ.", nil, nil, 5000)
 end
 
 function sor_grek_phrase_2_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Ja³ta: %c[default]A Ty Grek, staremu cz³owiekowi nie przerywaj. Zamknij mordê i s³uchaj. Na spotkaniu zdecydowaliœmy, ¿e Losza Borman winien jest ogó³owi innej strefy, obserwuj¹cym go zostawiæ. Znajdziesz Loszê i przeka¿esz mu, ¿e czekaj¹ na niego w Czelabiñsku. Nie znajdziesz - odpowiesz za to. Zrozumia³eœ, Grek? \\n	%c[255,1,255,1]Grek: %c[default]W Dolinie Mroku nie byliœcie w stanie oceniæ sytuacji tylko zawczasu zaminowaliœcie wyjœcie, omal nie odprawiaj¹c mnie pomiêdzy anio³y.", nil, nil, 22000)
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]W Dolinie Mroku nie byliœcie w stanie za³agodziæ sytuacji tylko zawczasu zaminowaliœcie wyjœcie, omal nie odprawiaj¹c mnie pomiêdzy anio³y.\\n%c[255,1,255,255]Ja³ta: %c[default]G³upio zrobiliœmy Grek, przyznajê. Potem zeszliœmy do labu, znaleŸliœmy cia³o Longaliera i zrozumieliœmy swój b³¹d.", nil, nil, 23000)
 end
 
 function sor_grek_phrase_1_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Ja³ta: %c[default]No witaj Grek, doczeka³em siê Ciebie. A Ty wci¹¿ bawisz siê w wojenkê... Ludzie gadaj¹, ¿e niedawno na Bagnach by³a. Nie nastrzela³eœ siê jeszcze? To ju¿ inne czasy, Grek.\\n	%c[255,1,255,1]Grek: %c[default]Ohoho, co za spotkanie, Ja³ta. A Twoi przyjaciele-kopacze to gdzie?. \\n	", nil, nil, 14000)
+	news_manager.send_tip_bez(db.actor, " %c[255,1,255,1]Grek: %c[default]Ohoho, co za spotkanie, Ja³ta. A Twoi przyjaciele-zakapiory to gdzie?.\\n %c[255,1,255,255]Ja³ta: %c[default]Grek, wysz³o miêdzynami nieporozumienie. Myœlimy, ¿e mo¿e by za³agodziæ t¹ sytuacjê.", nil, nil, 14000)
 end
 
 function esc_grek_kum_phrase_2_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Kum: %c[default]Jasne, na terytorum nie szlajaj siê... ekhem... strzelimy w pizdu. Za bram¹ na lewo.\\n	%c[255,1,255,1]Grek: %c[default]Przejœcie zrób.", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, " %c[255,1,255,255]Kum: %c[default]Jasne, na terytorum nie szlajaj siê... ekhem... strzelimy w pizdu. Za bram¹ na lewo.\\n%c[255,1,255,1]Grek: %c[default]Przejœcie zrób.", nil, nil, 3000)
 end
 
 function esc_grek_kum_phrase_1_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Kum: %c[default]Stój! Gdzie...?\\n%c[255,1,255,1]Grek: %c[default]Do waszego wodza, z powodu roboty.", nil, nil, 3000)
+	news_manager.send_tip_bez(db.actor, " %c[255,1,255,255]Kum: %c[default]Stój! Gdzie...?\\n%c[255,1,255,1]Grek: %c[default]Do waszego wodza, z powodu roboty.", nil, nil, 3000)
 end
-
 
 function red_panzer_grek_radio_1_dialog()
 	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Panzer: %c[default]Grek, wróæ siê. Gadka jest.\\n	%c[255,1,255,255]Panzer: %c[default]Sk³ama³em, nie widzia³em o kontenerze.\\n	%c[255,1,255,1]Grek: %c[default]To mo¿e wypijemy z tego powodu? Panzer przyzna³ siê ¿e coœ zjeba³. \\n	%c[255,1,255,255]Panzer: %c[default]Ty lepiej najpierw zrób coœ dla Ojczyzny a dopiero potem obelgami rzucaj.", nil, nil, 26000)
@@ -86,10 +85,6 @@ end
 
 function val_grek_phrase_1_dialog()
 	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Co wy tu odpierdalacie, frajerzy! Otwieraæ drzwi!\\n%c[255,1,255,255]Czy¿: %c[default]Gdzie Longalier?\\n%c[255,1,255,255]Ja³ta: %c[default]On go zabi³...\\n", nil, nil, 7000)
-end
-
-function varnak_about_chess_dialog()
-	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,255]Warnak: %c[default]Pamiêtasz jeszcze nasz¹ rozmowê o szachach? Ten kto zniszczy³ partiê czeka w wiosce, w bunkrze u Sidora. Poœpiesz siê, bo d³ugo czekaæ nie zamierza.\\n", nil, nil, 12000)
 end
 
 function gar_radio_4_dialog()

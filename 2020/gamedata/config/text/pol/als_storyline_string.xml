@@ -218,14 +218,14 @@
 <text>Panzer</text>
 </string>
 <string id="als_story_ar_25_rus">
-<text>Wcale nie jestem zdziwiony. ¯eby taki stary wilk jak Panzer nie trzyma³ asa w rêkawie i po prostu wysadzi³ siê w powietrze? B³agam was. \n \n \nDialog:\n \n%c[255,1,255,255]Panzer: %c[default]Myœlê, ¿e siê nie boisz zjaw. Witaj Grek.\n%c[255,1,255,1]Grek: %c[default]Gadali, ¿e zgin¹³eœ. Zgin¹³eœ straszn¹ œmierci¹. Nieœmiertelny czy co?\n%c[255,1,255,255]Panzer: %c[default]O Tobie to samo s³ysza³em. S¹dzê, ¿e dwóch nieboszczyków ma o czym pogawêdziæ. ¯art. Po co wróci³eœ Grek? Wspaniale siê urz¹dzi³eœ, wszyscy widzieli trupa i s¹ pewni, ¿e Greka ju¿ nie ma. A wtem pojawiasz siê Ty tak, ¿e ca³a strefa siê dowiaduje, ¿e Grek powróci³. A mo¿e to dobrze, ¿e wróci³eœ bo mnie potrzebna jest Twoja pomoc. \n%c[255,1,255,1]Grek: %c[default]Ja nie zaci¹gn¹³em siê do Powinnoœci. \n%c[255,1,255,255]Panzer: %c[default]Zobaczymy. Znasz mnie. IdŸ do kawiarni, wypij, pomyœl. I pamiêtaj Grek, Powinnoœæ Ciê œledzi.</text>
+<text>Wcale nie jestem zdziwiony. ¯eby taki stary wilk jak Panzer nie trzyma³ asa w rêkawie i po prostu wysadzi³ siê w powietrze? B³agam was. \n \n \nDialog:\n \n%c[255,1,255,255]Panzer: %c[default]No witaj. Poznajesz? Widzê, ¿e tak.\n%c[255,1,255,1]Grek: %c[default]Mówili, ¿e zgin¹³eœ. Bohatersk¹ œmierci¹. Nieœmiertelny jesteœ, czy co? \n%c[255,1,255,255]Panzer: %c[default]Grek, Twoje plotki wisz¹ mi. Ja wiem czego tu szukasz. Dostaniesz to, ale najpierw musisz mi pomóc. \n%c[255,1,255,1]Grek: %c[default]Hm... Mów dalej.\n%c[255,1,255,255]Panzer: %c[default]Na Perymetrze GRC.\n%c[255,1,255,1]Grek: %c[default]Rozumiem. \n%c[255,1,255,255]Panzer: %c[default]Za Perymetrem s¹ ci. którzy chc¹ wyjœæ. Poczekaj Grek, wys³uchaj mnie do koñca.\n%c[255,1,255,1]Grek: %c[default]Ty mnie s³uchaj. Jest jedna œcie¿ka. Kto przeszkadza? \n%c[255,1,255,255]Panzer: %c[default]Powinnoœæ. Powinnoœæ na nowo powinna byæ gwarantem. I dlatego taki jest taki nacisk na atak na Perymetr. I wiesz, jeœli na czele tego ataku stanie legenda Strefy, to Powinnoœæ weŸmie Perymetr pod nadzór.\n%c[255,1,255,1]Grek: %c[default]Ty chory skurwielu. Kurwa. \n%c[255,1,255,255]Panzer: %c[default]Ty chcesz kontener to staniesz na czele oddzia³u. Nie gor¹czkuj siê, ja pójdê w pierwszej linii.\n%c[255,1,255,1]Grek: %c[default]Obiecujê, jeœli wykiwasz... \n%c[255,1,255,255]Panzer: %c[default]Zrozumia³em, Grek. Tam siê wszystko oka¿e.\n</text>
 </string>
 
 <string id="als_story_ar_26">
 <text>Igor Olegowicz</text>
 </string>
 <string id="als_story_ar_26_rus">
-<text>Nie pogadasz... Tacy ludzie wszêdzie Ciê znajd¹. Nawet w Centrum Zony. Teraz s¹ a¿ trzy motywy: Johnny, Borman albo w najgorszym wypadku, ucieczka przed takimi autorytetetami jak ten tutaj. \n \n \n \n Dialog:\n \n %c[255,1,255,255]Ja³ta: %c[default]No witaj Grek, doczeka³em siê Ciebie. A Ty wci¹¿ bawisz siê w wojenkê... Ludzie gadaj¹, ¿e niedawno na Bagnach by³a. Nie nastrzela³eœ siê jeszcze? To ju¿ inne czasy, Grek.\n %c[255,1,255,1]Grek: %c[default]Czasy inne, tylko ja taki sam. \n %c[255,1,255,255]Ja³ta: %c[default]A Ty Grek, staremu cz³owiekowi nie przerywaj. Zamknij mordê i s³uchaj. Na spotkaniu zdecydowaliœmy, ¿e Losza Borman winien jest ogó³owi innej strefy, obserwuj¹cym go zostawiæ. Znajdziesz Loszê i przeka¿esz mu, ¿e czekaj¹ na niego w Czelabiñsku. Nie znajdziesz - odpowiesz za to. Zrozumia³eœ, Grek? \n	%c[255,1,255,1]Grek: %c[default]No dobra, Igor Olegowicz, a co jak ju¿ trafiê na Loszê? \n	%c[255,1,255,255]Ja³ta: %c[default]Potwierdzaj¹ce dowody przedstawisz ogó³owi. To tyle, a teraz mi³y cz³owieku idŸ do kawiarni, najpij siê wódki i przemyœl, jak znaleŸæ Loszê.</text>
+<text>Nie pogadasz... Tacy ludzie wszêdzie Ciê znajd¹. Nawet w Centrum Zony. Teraz s¹ a¿ trzy motywy: Johnny, Borman albo w najgorszym wypadku, ucieczka przed takimi autorytetetami jak ten tutaj. \n \n \n \n Dialog:\n \n %c[255,1,255,255]Olegowicz: %c[default]No witaj Grek, doczeka³em siê Ciebie. A Ty wci¹¿ bawisz siê w wojenkê... Ludzie gadaj¹, ¿e niedawno na Bagnach by³a. Nie nastrzela³eœ siê jeszcze? To ju¿ inne czasy, Grek.\n %c[255,1,255,1]Grek: %c[default]Czasy inne, tylko ja taki sam. \n %c[255,1,255,255]Olegowicz: %c[default]A Ty Grek, staremu cz³owiekowi nie przerywaj. Zamknij mordê i s³uchaj. Na spotkaniu zdecydowaliœmy, ¿e Losza Borman winien jest ogó³owi innej strefy, obserwuj¹cym go zostawiæ. Znajdziesz Loszê i przeka¿esz mu, ¿e czekaj¹ na niego w Czelabiñsku. Nie znajdziesz - odpowiesz za to. Zrozumia³eœ, Grek? \n	%c[255,1,255,1]Grek: %c[default]No dobra, Igor Olegowicz, a co jak ju¿ trafiê na Loszê? \n	%c[255,1,255,255]Olegowicz: %c[default]Potwierdzaj¹ce dowody przedstawisz ogó³owi. To tyle, a teraz mi³y cz³owieku idŸ do kawiarni, najpij siê wódki i przemyœl, jak znaleŸæ Loszê.</text>
 </string>
 
 <string id="als_story_ar_27">
@@ -703,7 +703,7 @@
 </string>
 
 <string id="als_help_rus_71">
-	<text>Gruber mo¿e wiedzieæ wiêcej o Nestorze ni¿ ¯wawy.</text>
+	<text>Gruwer mo¿e wiedzieæ wiêcej o Nestorze ni¿ ¯wawy.</text>
 </string>
 
 <string id="als_help_rus_72">
@@ -869,7 +869,7 @@
 </string>
 
 <string id="artefacts_rus_obscure">
-		<text>Gruber opowiedzia³ mi o nowych niezwyk³ych artefaktach, które powsta³y po po³¹czeniu buforowych terytoriów. Artefakty le¿¹ po ca³ej Zonie, ale ¿eby je zdobyæ, potrzebne bêd¹ pu³apki parasolkowe. Gruber p³aci 500 tys. za pe³ny zestaw takich artefaktów, zapakowanych w pu³apki - 30 sztuk. Bêdzie potrzebny niez³y zapas tych parasolek. Mo¿e, ktoœ bêdzie w stanie podpowiedzieæ, gdzie mo¿na znaleŸæ tak¹ iloœæ pu³apek?</text>
+		<text>Gruwer opowiedzia³ mi o nowych niezwyk³ych artefaktach, które powsta³y po po³¹czeniu buforowych terytoriów. Artefakty le¿¹ po ca³ej Zonie, ale ¿eby je zdobyæ, potrzebne bêd¹ pu³apki parasolkowe. Gruwer p³aci 500 tys. za pe³ny zestaw takich artefaktów, zapakowanych w pu³apki - 30 sztuk. Bêdzie potrzebny niez³y zapas tych parasolek. Mo¿e, ktoœ bêdzie w stanie podpowiedzieæ, gdzie mo¿na znaleŸæ tak¹ iloœæ pu³apek?</text>
 	</string>
 
 <!-- <string id="als_help_rus_">

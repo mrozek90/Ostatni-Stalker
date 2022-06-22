@@ -5024,7 +5024,6 @@ function varnak_about_chess()
 	varnak_about_chess_sound()
 end
 function varnak_about_chess_sound()
-  als_messages.varnak_about_chess_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\radio\varnak_about_chess]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
