@@ -1515,7 +1515,7 @@
 			<infoportion_complete>player_complete_gone_nestor</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Gruberem</text>
+			<text>Porozmawiaj z Gruwerem</text>
 			<infoportion_complete>gone_nestor_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -2174,7 +2174,7 @@
 	<function_complete>als_quests_complit.artefacts_from_obscure_2_cmplt</function_complete>
 		</objective>
 		<objective>
-			<text>Przynieœ artefakty do Grubera</text>
+			<text>Przynieœ artefakty do Gruwera</text>
 			<infoportion_complete>artefacts_from_obscure_3</infoportion_complete>
 		</objective>
 </game_task>
