@@ -1,5 +1,5 @@
 
-<game_task id="kill_jj" prio="100">
+<game_task id="kill_jj" prio="5">
 		<title>Zabij Johnnego</title>
 		<objective>
 			<text>Zabij Johnnego</text>
@@ -242,7 +242,7 @@
 			<infoportion_complete>signal_for_shamray_done</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Sygna³ od Szamraja</text>
+			<text>Sygna³ do Szamraja</text>
 			<infoportion_complete>signal_for_shamray_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -1521,7 +1521,7 @@
 			<infoportion_fail>gone_nestor_1_fail</infoportion_fail>
 		</objective>
 		<objective>
-			<text>Porozmawiaj z Gruberem</text>
+			<text>Porozmawiaj z Gruwerem</text>
 			<infoportion_complete>gone_nestor_1</infoportion_complete>
 		</objective>
 </game_task>
@@ -2180,7 +2180,7 @@
 	<function_complete>als_quests_complit.artefacts_from_obscure_2_cmplt</function_complete>
 		</objective>
 		<objective>
-			<text>Przynieœ artefakty do Grubera</text>
+			<text>Przynieœ artefakty do Gruwera</text>
 			<infoportion_complete>artefacts_from_obscure_3</infoportion_complete>
 		</objective>
 </game_task>

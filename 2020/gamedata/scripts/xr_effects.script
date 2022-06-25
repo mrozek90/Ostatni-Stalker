@@ -5002,7 +5002,6 @@ function gar_grek_last_box()
 	gar_grek_last_box_sound()
 end
 function gar_grek_last_box_sound()
-  als_messages.gar_grek_last_box_sound_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\gar_grek_last_box]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5625,6 +5624,7 @@ function marsh_deadman_radio(npc)
 end
 
 function marsh_grek_radio(npc)
+  als_messages.marsh_grek_radio_dialog
 	local snd_obj = xr_sound.get_safe_sound_object([[als\radio\marsh_grek_radio]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end

@@ -7,6 +7,10 @@
 -- ", nil, nil, 17000)
 
 
+function marsh_grek_radio_dialog()
+	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Baszar, jesteœmy gotowi. PodchodŸcie.", nil, nil, 5000)
+end
+
 function puma_activated_dialog()
 		news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]PUMA %c[default] REANIMATOR AKTYWNY", nil, nil, 3000)
 end
@@ -141,10 +145,6 @@ end
 
 function val_radio_1_dialog()
 	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Najemnik: %c[default]Stalkerze, wchodzisz na nasze terytorium. Przedstaw siê.\\n%c[255,1,255,1]Grek: %c[default]Grek, z brygady Bormana. \\n%c[255,1,255,255]Najemnik: %c[default]No, dobra Grek przechodŸ...", nil, nil, 17000)
-end
-
-function gar_grek_last_box_sound_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,1]Grek: %c[default]To wszystko, królewska robota.", nil, nil, 3000)
 end
 
 function agr_radio_4_dialog()
