@@ -5,7 +5,45 @@
 --%c[255,1,255,255]XXX: %c[default]XXX\\n
 --%c[255,1,255,1]Grek: %c[default]XXX. \\n
 -- ", nil, nil, 17000)
+function system_message_25_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Proszê natychmiast opuœciæ zagro¿ony obszar.", nil, nil, 2000)
+end
 
+function system_message_24_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Wzrost anomalnej aktywnoœci. Proszê natychmiast opuœciæ zagro¿ony obszar.", nil, nil, 4000)
+end
+
+function system_message_23_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Wroga anomalna aktywnoœæ.", nil, nil, 3000)
+end
+
+function system_message_22_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Wzrost anomalnej aktywnoœci.", nil, nil, 3000)
+end
+
+function system_message_21_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] B³¹d systemu. Restartujê system.", nil, nil, 3000)
+end
+
+function system_message_20_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Do Emisji pozosta³o 1 minuta.", nil, nil, 3000)
+end
+
+function system_message_19_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Do Emisji pozosta³o 2 minuty.", nil, nil, 3000)
+end
+
+function system_message_18_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Do Emisji pozosta³o 3 minuty.", nil, nil, 3000)
+end
+
+function system_message_17_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Nadchodzi Emisja. ZnajdŸ bezpieczne schronienie.", nil, nil, 3000)
+end
+
+function system_message_9_dialog()
+	news_manager.send_tip_bez(db.actor, "%c[255,200,0,0]SYSTEM %c[default] Inicjujê postproces. Proszê pozostaæ na miejscu do zakoñczenia procesu. Dziêkujê.", nil, nil, 6000)
+end
 
 function marsh_grek_radio_dialog()
 	news_manager.send_tip_bez(db.actor, "	%c[255,1,255,1]Grek: %c[default]Baszar, jesteœmy gotowi. PodchodŸcie.", nil, nil, 5000)
