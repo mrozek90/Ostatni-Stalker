@@ -4954,7 +4954,6 @@ function bun_radio_1()
 	bun_radio_1_sound()
 end
 function bun_radio_1_sound()
-  --als_messages.bunk_radio_dialog_1()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\bun\bun_killer_radio_1]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -4964,7 +4963,6 @@ function bun_radio_2()
 	bun_radio_2_sound()
 end
 function bun_radio_2_sound()
-  --als_messages.bunk_radio_dialog_2()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\bun\bun_killer_radio_2]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end

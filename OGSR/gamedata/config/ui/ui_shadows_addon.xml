@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="windows-1251" ?>
+<?xml version="1.0" encoding="windows-1250" ?>
 
 <window>
     <!-- КПК -->
@@ -8,6 +8,10 @@
 
 	<btn_pda_install_mapspot x="700" y="46" width="120" height="20" hint="add_spot_btn_hint">
 		<texture>ui_icons_newPDA_perssignA</texture>
+		<text align="l"  x="0" y="0" font="letterica18" r="255" g="255" b="255" complex_mode="0">Kliknij 2x LPM aby dodaж znacznik</text>
+		<text_color>
+			<t r="231" g="168" b="12"/> <d r="181" g="170" b="148"/> <e r="127" g="127" b="127"/> <h r="255" g="255" b="255"/>
+		</text_color>	
 	</btn_pda_install_mapspot>
 
 	<btn_pda_remove_mapspot x="830" y="46" width="120" height="20" hint="remove_spot_btn_hint">

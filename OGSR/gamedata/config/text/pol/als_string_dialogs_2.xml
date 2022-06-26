@@ -1401,7 +1401,7 @@
         <text>Uporz¹dkowa³eœ sprawy na Sortowni?</text>
     </string>
 	<string id="last_sinoptic_dialog_1_1">
-        <text>Mniej wiêcej. I ksiêgê przy okazji ci zdoby³em. Popatrz.</text>
+        <text>Mniej wiêcej. I ksiêgê przy okazji Ci zdoby³em. Popatrz.</text>
     </string>
 	<string id="last_sinoptic_dialog_1_2">
         <text>Poka¿, poka¿. Aha, tak jak myœla³em. Œmieæ.</text>
@@ -1629,7 +1629,7 @@
     </string>
 
 	<string id="f_alexander_dialog_2_0">
-        <text>Witajcie, ojcowie!</text>
+        <text>Witajcie, ojcze!</text>
     </string>
 	<string id="f_alexander_dialog_2_1">
         <text>Grek, idziemy dalej, na CEA. Przy³¹czysz siê do nas?</text>
@@ -1651,20 +1651,20 @@
         <text>Bardzo byœ nam pomóg³, Grek, gdybyœ przy³¹czy³ siê do naszego marszu.</text>
     </string>
 	<string id="f_sergy_dialog_2_2">
-        <text>Jednak kierujecie siê do Martwego Miasta, ojcowie?</text>
+        <text>Jednak kierujecie siê do Martwego Miasta, ojczulki?</text>
     </string>
 	<string id="f_sergy_dialog_2_3">
         <text>Tak, synu mój. Ty z nami?</text>
     </string>
 	<string id="f_sergy_dialog_2_4">
-        <text>Nie porzucaæ mi was, ojcowie. Muszê za³atwiæ jeszcze jedn¹ sprawê i wrócê do was.</text>
+        <text>Nie porzucaæ mi was, ojczulku. Muszê za³atwiæ jeszcze jedn¹ sprawê i wrócê do was.</text>
     </string>
 
 	<string id="pri_military_stalker_commander_dialog_1_0">
-        <text>S³uchaj, Leo, nikogo, prócz tych diab³ów, nie spotkaliœcie tu, w œrodku?</text>
+        <text>S³uchaj, Leo - Nikogo prócz tych diab³ów nie spotkaliœcie tu, w œrodku?</text>
     </string>
 	<string id="pri_military_stalker_commander_dialog_1_1">
-        <text>Nic takiego nie by³o, Grek: natknêliœmy siê na tych ³ajdaków z piêæset metrów na po³udnie st¹d. Oni odepchnêli nas tutaj i okr¹¿yli.</text>
+        <text>Nic takiego nie by³o, Grek. Natknêliœmy siê na tych ³ajdaków z piêæset metrów na po³udnie st¹d. Oni odepchnêli nas tutaj i okr¹¿yli.</text>
     </string>
 	<string id="pri_military_stalker_commander_dialog_1_2">
         <text>Jasne. Co dalej zamierzacie?</text>
@@ -1692,7 +1692,7 @@
         <text>Widzisz drzwi pod schodami? IdŸ tam.</text>
     </string>
 	<string id="pri_zulus_dialog_1_5">
-        <text>Aha. Dziêkujê.</text>
+        <text>Mhm. Dziêkujê.</text>
     </string>
 
 	<string id="pri_zulus_dialog_1_6">
@@ -1702,7 +1702,7 @@
         <text>Nie mogê tego zrozumieæ - co w Zonie robi ten s³awny potomek afrykañskich wojowników. I jeszcze w kompanii takich doœwiadczonych stalkerów, jak wy?</text>
     </string>
 	<string id="pri_zulus_dialog_1_8">
-        <text>Hm, Grek, a co Ty robisz w Zonie?</text>
+        <text>Hm.. Grek, a co Ty robisz w Zonie?</text>
     </string>
 	<string id="pri_zulus_dialog_1_9">
         <text>Przecie¿ wiesz - mam tu swoje sprawy.</text>
@@ -1714,10 +1714,10 @@
         <text>Czyli nie powiesz?</text>
     </string>
 		<string id="pri_zulus_dialog_1_12">
-        <text>Dlaczego nie, powiem. To stary przyjaciel Diegtiariewa. Tak twierdzi. Jeszcze z czasów studiów. Po co przyszed³ do Zony - nie wiem. Ale, chce cz³owiek - niech idzie. Tym bardziej, ¿e nie chowa siê za plecami. W podziemiach Agropromu jednym ciosem no¿a œci¹gn¹³ mi z pleców snorka. Po prawdzie udaje, ¿e po rosyjsku tylko trochê umie. Ale ja widzê, ¿e on wszystkich doskonale rozumie. Zdecydowanie to nie jest zwyk³y towarzysz.</text>
+        <text>Dlaczego nie, powiem. To stary przyjaciel Diegtiariewa. Tak twierdzi. Jeszcze z czasów studiów. Po co przyszed³ do Zony - nie wiem. Ale chce cz³owiek - niech idzie. Tym bardziej, ¿e nie chowa siê za plecami. W podziemiach Agropromu jednym ciosem no¿a œci¹gn¹³ mi z pleców snorka. Po prawdzie udaje, ¿e po rosyjsku tylko trochê umie. Ale ja widzê, ¿e on wszystkich doskonale rozumie. Zdecydowanie to nie jest zwyk³y towarzysz.</text>
     </string>
 	<string id="pri_zulus_dialog_1_13">
-        <text>Jasne. Dziwne. Dobra, bywaj, bracie!</text>
+        <text>Jasne. Dziwne... Dobra, bywaj bracie!</text>
     </string>
 
 
@@ -1728,16 +1728,16 @@
         <text>Oczom nie wierzê! Strie³ok? Uwierz - jestem naprawdê zdumiony. Legenda Zony...</text>
     </string>
 	<string id="pri_gunman_dialog_1_2">
-        <text>Te¿ stajesz siê legend¹, Grek. Po kilku dniach o Twoim powrocie mówi³a ca³a Zona, a to o Twoich czynach bohaterskich, i ogólnie...</text>
+        <text>Te¿ stajesz siê legend¹, Grek. Po kilku dniach o Twoim powrocie mówi³a ca³a Zona - a to o Twoich czynach bohaterskich i ogólnie...</text>
     </string>
 	<string id="pri_gunman_dialog_1_3">
         <text>Bêdzie mog³a instalacja na Wysypisku naprawiæ horyzont, Strie³ok?</text>
     </string>
 	<string id="pri_gunman_dialog_1_4">
-        <text>Bêdzie mog³a, Grek. Je¿eli zostanie wy³¹czona Bariera. Je¿eli zostanie wy³¹czona Bariera, to mocy HSM wystarczy na to, by naprawiæ horyzont.</text>
+        <text>Bêdzie mog³a, Grek. Je¿eli zostanie wy³¹czona Bariera. Jeœli to siê uda, to mocy HSM wystarczy na to, by naprawiæ horyzont.</text>
     </string>
 	<string id="pri_gunman_dialog_1_5">
-        <text>By³em œwiadkiem pracy waszej HSM. I to niejeden raz. I zawsze wychodzi³o gówno.</text>
+        <text>By³em œwiadkiem pracy waszego HSM. I to niejeden raz. I zawsze wychodzi³o gówno.</text>
     </string>
 	<string id="pri_gunman_dialog_1_6">
         <text>Teraz, uwierz, prawie wszystko jest gotowe by uruchomiæ zszywacz na Wysypisku. Trzeba tylko wy³¹czyæ Barierê, Grek.</text>
@@ -1746,10 +1746,10 @@
         <text>Instalacja jest skrêcona w korkoci¹g, Strie³ok! Jak?! Jak j¹ uruchomisz?! Jej bloki w schowku Synoptyka to makiety!</text>
     </string>
 	<string id="pri_gunman_dialog_1_8">
-        <text>Grek, w czasie gdy ty ci¹ga³eœ makiety do schowka, grupa Synoptyka wszystko przygotowa³a... Nie mogê ci wiêcej powiedzieæ, Grek, przejdŸ Barierê, znajdŸ panel - szast prast i ju¿. Tobie wypadnie przejœæ przez horyzont.</text>
+        <text>Grek, w czasie gdy Ty ci¹ga³eœ makiety do schowka, grupa Synoptyka wszystko przygotowa³a... Nie mogê Ci wiêcej powiedzieæ, Grek, przejdŸ Barierê, znajdŸ panel - szast prast i ju¿. Tobie wypadnie przejœæ przez horyzont.</text>
     </string>
 	<string id="pri_gunman_dialog_1_9">
-        <text>Takie to proste, Strie³ok! A gdzie jeszcze pójœæ?! Wy³¹czyæ Barierê?! Tak, na mi³oœæ bosk¹! A, co - Zmieniaj¹cy Oblicze - martwy?</text>
+        <text>Takie to proste, Strie³ok! A gdzie jeszcze pójœæ?! Wy³¹czyæ Barierê?! Tak? Na mi³oœæ bosk¹! A, co - Zmieniaj¹cy Oblicze - martwy?</text>
     </string>
 	<string id="pri_gunman_dialog_1_10">
         <text>Nie. Trzeba go zabiæ. Ale kule siê go nie imaj¹. A póki on ¿yje - Poszukiwacze nie wy³¹cz¹ Bariery</text>
@@ -1807,7 +1807,7 @@
         <text>Poczekaj, Grek, widzê, ¿e masz bardzo interesuj¹c¹ broñ.</text>
     </string>
 	<string id="pri_gunman_dialog_1_28">
-        <text>O to ci chodzi? (pokazuje stanner) Podoba ci siê? Mordercza sztuka. Szkoda, ¿e niewiele jest do niej amunicji.</text>
+        <text>O to Ci chodzi? [poka¿ stanner] Podoba Ci siê? Mordercza sztuka. Szkoda, ¿e niewiele jest do niej amunicji.</text>
     </string>
 	<string id="pri_gunman_dialog_1_29">
         <text>Tak. Stanner... Powiedz mi, Grek, sk¹d go masz? </text>
@@ -1847,7 +1847,7 @@
         <text>Ju¿ nic.</text>
     </string>
 	<string id="pri_budulay_dialog_1_3">
-        <text>(pokazuje "warlocka") Popatrz - twoja robota? Naprawisz?</text>
+        <text>Popatrz - Twoja robota? Naprawisz? [Poka¿ Warlocka]</text>
     </string>
 	<string id="pri_budulay_dialog_1_4">
         <text>A... 666-tka. Có¿, wydaje siê byæ niekompletny.</text>
@@ -1916,7 +1916,7 @@
         <text>A oto i Grek przyszed³. Zbieramy siê.</text>
     </string>
 	<string id="f_sergy_dialog_3_1">
-        <text>Mam przeczucie - gor¹co bêdzie na CEA. B¹dŸcie ostro¿ni, ojcowie... Ruszamy.</text>
+        <text>Mam przeczucie - gor¹co bêdzie na CEA. B¹dŸcie ostro¿ni, ojczulki... Ruszamy.</text>
     </string>
 
 	<string id="kat_princeps_dialog_1_0">
@@ -1926,7 +1926,7 @@
         <text>Doktor? No, czeœæ.</text>
     </string>
 	<string id="kat_princeps_dialog_1_2">
-        <text>Teraz moje imiê - Princeps, a to - mój lud. Nazywacie ich wyrodkami. Oni zaœ nazywaj¹ siebie innymi.</text>
+        <text>Teraz moje imiê - Princeps, a to - mój lud. Nazywacie ich "wyrodkami". Oni zaœ nazywaj¹ siebie "Innymi".</text>
     </string>
 	<string id="kat_princeps_dialog_1_3">
         <text>Mam dziwne wra¿enie, Doktorze, ¿e ju¿ tu bywa³em. Znajome dŸwiêki, znajome zapachy...</text>
@@ -1935,19 +1935,19 @@
         <text>Ty nic nie pamiêtasz... Nasi zwiadowcy przynieœli Ciê tutaj z Prypeci rok temu. Prawie nie¿ywego, tak powiedzmy. Z ogromnym trudem uda³o siê Ciebie reanimowaæ. Jeszcze wiêcej czasu posz³o na odbudowanie funkcji mózgu - zbyt d³ugo by³ pozbawiony tlenu. Technologie ugrupowania Apokalipsa pomog³y przywróciæ Ci rozum.</text>
     </string>
 	<string id="kat_princeps_dialog_1_5">
-        <text>Czyli - te¿ teraz jestem wyr... to znaczy innym?</text>
+        <text>Czyli - te¿ teraz jestem wyr... to znaczy Innym?</text>
     </string>
 	<string id="kat_princeps_dialog_1_6">
-        <text>Nie. Inni stali siê innymi w rezultacie nieudanego eksperymentu Apokalipsy. Ale w chwili transformacji mózg zwyk³ego innego by³ ¿ywy. Z Tob¹ zaœ... Ja nie wiem ktoœ ty taki, Grek.</text>
+        <text>Nie. Inni stali siê innymi w rezultacie nieudanego eksperymentu Apokalipsy. Ale w chwili transformacji mózg zwyk³ego innego by³ ¿ywy. Z Tob¹ zaœ... Ja nie wiem ktoœ Ty taki, Grek.</text>
     </string>
 	<string id="kat_princeps_dialog_1_7">
-        <text>Œwietnie. Przyjaciel zabi³ mnie w Prypeci. Wyrodki przytaszczy³y mnie tutaj i przerobiono mnie na na jakiegoœ zombie za pomoc¹ technologii nieistniej¹cego ju¿ ugrupowania. Jestem wprost zachwycony!</text>
+        <text>Œwietnie. Przyjaciel zabi³ mnie w Prypeci. Wyrodki przytaszczy³y mnie tutaj i przerobiono mnie na... na jakiegoœ zombie za pomoc¹ technologii nieistniej¹cego ju¿ ugrupowania. Jestem wprost zachwycony!</text>
     </string>
 	<string id="kat_princeps_dialog_1_8">
         <text>Przyjaciel? Ty o najemniku zwanym Johnny? On nie strzela³ do Ciebie, Grek.</text>
     </string>
 	<string id="kat_princeps_dialog_1_9">
-        <text>Co ty mówisz, Doktorze?! Doskonale pamiêtam - Johnny strzeli³ mi w plecy!</text>
+        <text>Co Ty mówisz, Doktorze?! Doskonale pamiêtam - Johnny strzeli³ mi w plecy!</text>
     </string>
 	<string id="kat_princeps_dialog_1_10">
         <text>W Ciebie strzela³ snajper. Z dachu domu. Nasz zwiad wszystko widzia³. A Johnny przesiedzia³ do œwitu nad Twoim trupem. Pi³ wódkê, mówi³ coœ. O œwicie Johnny odszed³.</text>
@@ -1962,7 +1962,7 @@
         <text>Dobrze. A teraz po co mnie tu doprowadzono?</text>
     </string>
 	<string id="kat_princeps_dialog_1_14">
-        <text>Przeka¿esz stalkerom nasze przes³anie. Niech zostawi¹ innych w spokoju. My pierwsi nie zaatakujemy. Ale lepiej niech nie prowokuj¹. Wy swoje, my swoje. I staramy siê nie wchodziæ sobie w drogê. Przeka¿esz?</text>
+        <text>Przeka¿esz stalkerom nasze przes³anie. Niech zostawi¹ Innych w spokoju. My pierwsi nie zaatakujemy. Ale lepiej niech nie prowokuj¹. Wy swoje, my swoje. I staramy siê nie wchodziæ sobie w drogê. Przeka¿esz?</text>
     </string>
 	<string id="kat_princeps_dialog_1_15">
         <text>Jeœli do nich wrócê.</text>
@@ -1977,10 +1977,10 @@
         <text>Pytaj.</text>
     </string>
 	<string id="kat_princeps_dialog_1_19">
-        <text>Po Prypeci nic nie pamiêtam. Ockn¹³em siê w jaskini. Obok le¿a³ martwy wyro... inny. Kto to i jak tam siê dostaliœmy?</text>
+        <text>Po Prypeci nic nie pamiêtam. Ockn¹³em siê w jaskini. Obok le¿a³ martwy wyro... Inny. Kto to i jak tam siê dostaliœmy?</text>
     </string>
 		<string id="kat_princeps_dialog_1_20">
-        <text>To by³ brat Dekan. W³aœnie on przyniós³ Ciê wtedy z Prypeci. Nie wiem co mu sie w Tobie tak spodoba³o, ale Dekan pielêgnowa³ Ciê jak matka swoje ma³e dziecko. Oczywiœcie, przeprowadzone na nim eksperymenty nie by³y w stanie ca³kowicie wypaliæ mu mózgu i jakieœ wspomnienia z zesz³ego ¿ycia zmusza³y go do opieki nad Twoim trupem. I jego wysi³ki przynios³y sukces - stopniowo ¿ycie wróci³o do Ciebie. Ale jednoczeœnie sam Dekan zaczyna³ powoli gasn¹æ. I wtedy Wielka Rada innych postanowi³a przywróciæ Ciê z powrotem do "pierwszych" - tak oni nazywaj¹ ¿ywych ludzi. Dekan d³ugo siê opiera³, ale w koñcu musia³ siê podporz¹dkowaæ. Pod jednym warunkiem, ¿e doprowadzi Ciê do wyjœcia do ludzi. I zabra³ Ciê, chocia¿ sam ledwie trzyma³ siê na nogach. A z powrotem ju¿ nie wróci³.</text>
+        <text>To by³ brat Dekan. W³aœnie on przyniós³ Ciê wtedy z Prypeci. Nie wiem co mu sie w Tobie tak spodoba³o, ale Dekan pielêgnowa³ Ciê jak matka swoje ma³e dziecko. Oczywiœcie, przeprowadzone na nim eksperymenty nie by³y w stanie ca³kowicie wypaliæ mu mózgu i jakieœ wspomnienia z zesz³ego ¿ycia zmusza³y go do opieki nad Twoim trupem. I jego wysi³ki przynios³y sukces - stopniowo ¿ycie wróci³o do Ciebie. Ale jednoczeœnie sam Dekan zaczyna³ powoli gasn¹æ. I wtedy Wielka Rada Innych postanowi³a przywróciæ Ciê z powrotem do "pierwszych" - tak oni nazywaj¹ ¿ywych ludzi. Dekan d³ugo siê opiera³, ale w koñcu musia³ siê podporz¹dkowaæ. Pod jednym warunkiem, ¿e doprowadzi Ciê do wyjœcia do ludzi. I zabra³ Ciê, chocia¿ sam ledwie trzyma³ siê na nogach. A z powrotem ju¿ nie wróci³.</text>
     </string>
 	<string id="kat_princeps_dialog_1_21">
         <text>Taa... Znalaz³em w jego kieszeni klucz. To by³ klucz od sejfu w piwnicy na Sortowni. Sk¹d go mia³? Z zesz³ego ¿ycia? Kim on wtedy by³?</text>
@@ -2000,7 +2000,7 @@
 
 
 	<string id="kat_princeps_dialog_2_0">
-        <text>	Gotowy?</text>
+        <text>Gotowy?</text>
     </string>
 	<string id="kat_princeps_dialog_2_1">
         <text>1.	Tak.</text>
@@ -2061,7 +2061,7 @@
         <text>A Ty, Grek?</text>
     </string>
 	<string id="dc_deev_dialog_1_15">
-        <text>Mówi³em przecie¿, ze œwiêtym ojcem pogadaæ trzeba.</text>
+        <text>Mówi³em przecie¿, ze œwiêtym ojcem pogadaæ muszê.</text>
     </string>
 
 
@@ -2069,10 +2069,10 @@
         <text>O! Kogo tu przywia³o? Coœ za jeden?</text>
     </string>
 	<string id="dc_deev_dialog_2_1">
-        <text>Jestem Grek. A wy to kto? Sk¹d siê tu wziêliœcie? Czekaj, Rogow to twój ¿o³nierz? Uratowa³ Wodnego Szczura?</text>
+        <text>Jestem Grek. A wy to kto? Sk¹d siê tu wziêliœcie? Czekaj, Rogow to Twój ¿o³nierz? Uratowa³ Wodnego Szczura?</text>
     </string>
 	<string id="dc_deev_dialog_2_2">
-        <text>Wiêc Ty to Grek! Rogow ¿yje, tam siedzi, przy ognisku siê grzeje. I szczura uratowa³. Powinieneœ oberwaæ, Grek. To przez Ciebie tu jesteœmy. Kola pods³ucha³ co tamci przez radio o naukowcach mówili, niby ¿e na Agroprom poszli. No i jak przyszed³ do obozu, to powiedzia³ co przypadkiem us³ysza³. A my przez szeœæ tygodni dla nich zapieprzaliœmy, a jak przyszliœmy siê rozliczyæ – modu³ pusty... No to poszliœmy w œlad za Tob¹. Dotarliœmy na Agroprom - tam same trupy. Drzwi do podziemi s¹ otwarte, to wchodzimy. Ledwo weszliœmy - w oczach pociemnia³o, w g³owie zagwizda³o. Jak doszliœmy do siebie, byliœmy ju¿ tutaj.</text>
+        <text>Wiêc Ty to Grek! Rogow ¿yje, tam siedzi, przy ognisku siê grzeje. I Szczura uratowa³. Powinieneœ oberwaæ, Grek. To przez Ciebie tu jesteœmy. Kola pods³ucha³ co tamci przez radio o naukowcach mówili, niby ¿e na Agroprom poszli. No i jak przyszed³ do obozu, to powiedzia³ co przypadkiem us³ysza³. A my przez szeœæ tygodni dla nich zapieprzaliœmy, a jak przyszliœmy siê rozliczyæ – modu³ pusty... No to poszliœmy w œlad za Tob¹. Dotarliœmy na Agroprom - tam same trupy. Drzwi do podziemi s¹ otwarte, to wchodzimy. Ledwo weszliœmy - w oczach pociemnia³o, w g³owie zagwizda³o. Jak doszliœmy do siebie, byliœmy ju¿ tutaj.</text>
     </string>
 	<string id="dc_deev_dialog_2_3">
         <text>A co to za miejsce?</text>
@@ -2111,7 +2111,7 @@
         <text>A ty, Grek?</text>
     </string>
 	<string id="dc_deev_dialog_2_15">
-        <text>Mówi³em przecie¿, ze œwiêtym ojcem pogadaæ trzeba.</text>
+        <text>Mówi³em przecie¿, ze œwiêtym ojcem pogadaæ muszê.</text>
     </string>
 
 
@@ -2161,7 +2161,7 @@
         <text>A Ty, Grek?</text>
     </string>
 	<string id="dc_deev_dialog_3_15">
-        <text>Mówi³em przecie¿, ze œwiêtym ojcem pogadaæ trzeba.</text>
+        <text>Mówi³em przecie¿, ze œwiêtym ojcem pogadaæ muszê.</text>
     </string>
 
 
@@ -2217,13 +2217,13 @@
         <text>Nie. Wpakowaliœmy nasz œwiat w ich. I oni ¿¹daj¹ by przywróciæ status quo. Pomów, Grek, synu mój, Grek, pomów z nimi.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_17">
-        <text>Do diab³a z Tob¹, ojcze, pomówiê! Obiecujê! Ale Ty  równie¿ mi obiecaj: wrócisz ze mn¹ do naszego œwiata.</text>
+        <text>Do diab³a z Tob¹, ojcze, pomówiê! Obiecujê! Ale Ty równie¿ mi obiecaj: wrócisz ze mn¹ do naszego œwiata.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_18">
         <text>Po co? Mi tu dobrze.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_19">
-        <text>Mnisi Twoi padli, przedzieraj¹c siê do Ciebie. W strasznym starciu bohatersko polegli. A ty mi mówisz...</text>
+        <text>Mnisi Twoi padli, przedzieraj¹c siê do Ciebie. W strasznym starciu bohatersko polegli. A Ty mi mówisz...</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_20">
         <text>Spokojnie, Grek. Pójdê z Tob¹.</text>
@@ -2249,7 +2249,7 @@
     </string>
 
 	<string id="gen_slaven_dialog_1_0">
-        <text>Widzia³em cuda, Grek... Ale takie... Johnny powiedzia³ - nie ¿yjesz. Poczekaj, to na pewno ty?</text>
+        <text>Widzia³em cuda, Grek... Ale takie... Johnny powiedzia³ - nie ¿yjesz. Poczekaj, to na pewno Ty?</text>
     </string>
 	<string id="gen_slaven_dialog_1_1">
         <text>Istnieje wysokie prawdopodobieñstwo, ¿e to ja.</text>
@@ -2270,7 +2270,7 @@
         <text>Nie tylko. Trzeba wy³¹czyæ Barierê.</text>
     </string>
 	<string id="gen_slaven_dialog_1_7">
-        <text>Wykluczone. Je¿eli wy³¹czymy Barierê - Zmieniaj¹cy Oblicze od razu st¹d ucieknie. Mamy teraz z nim pakt o nieagresji: my siê w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucich³. Ale ryzykowaæ nie mo¿emy. Krótko, Grek, nie. Bariera zostanie na miejscu.</text>
+        <text>Wykluczone. Je¿eli wy³¹czymy Barierê - Zmieniaj¹cy Oblicze od razu st¹d ucieknie. Mamy teraz z nim pakt o nieagresji: my siê w jego sprawy nie mieszamy, on w nasze. Jakby ostatnio ucich³. Ale ryzykowaæ nie mo¿emy. Krótko, Grek - nie. Bariera zostanie na miejscu.</text>
     </string>
 	<string id="gen_slaven_dialog_1_8">
         <text>Bariera niszczy swoim ciê¿arem granicê miêdzy swiatami. Je¿eli nie chcesz wejœæ w ostatnie dla ca³ego Wszechœwiata starcie z demonami Ciemnoœci, powinna zostaæ wy³¹czona.</text>
@@ -2279,7 +2279,7 @@
         <text>Jakie demony? Bredzisz, Grek?</text>
     </string>
 	<string id="gen_slaven_dialog_1_10">
-        <text>Nie. Nie wierzysz - pogadasz potem z Berendejem. A neutralnoœæ z Zmieniaj¹cym Obliczem wypadnie zerwaæ. Przy okazji, gdzie on?</text>
+        <text>Nie. Nie wierzysz - pogadaj potem z Berendejem. A neutralnoœæ z Zmieniaj¹cym Obliczem wypadnie zerwaæ. Przy okazji, gdzie on?</text>
     </string>
 	<string id="gen_slaven_dialog_1_11">
         <text>Tutaj. Obok swojej instalacji. Sygna³y jakieœ w niebo posy³a. Ale do nas nie lezie i my go nie tykamy... Proponujesz zaatakowaæ?</text>
@@ -2294,10 +2294,10 @@
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_1_15">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_1_16">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_1_17">
         <text>Dobrze. Zamieniê z kimœ kilka s³ów i przyjdê.</text>
@@ -2337,10 +2337,10 @@
         <text>Tak.</text>
     </string>
 	<string id="gen_slaven_dialog_2_10">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_2_11">
-        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ  - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
+        <text>Dobrze. Wiêc zrobimy tak: My z Andriusz¹ przebijemy siê do panelu sterowania Barier¹. Kreatur tam, coœ w rodzaju przeŸroczystych worków, pe³no, ale sztylet - to sztylet. Mnicha z sob¹ wezmê, pogadamy, je¿eli bêdzie czas. Jak tylko bêdzie potwierdzenie likwidacji Zmieniaj¹cego Oblicza, wy³¹czamy Barierê. Spróbujesz coœ krêciæ - zniszczê klucz dostêpu. I spotkam przeznaczenie.</text>
     </string>
 	<string id="gen_slaven_dialog_2_12">
         <text>Dobrze. Zamieniê kilka s³ów z Bormanem i przyjdê.</text>
@@ -2404,13 +2404,13 @@
         <text>No-no. Krótko, Grek: Powinnoœæ jest Ci zawsze rada. Pamiêtaj.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_3">
-        <text>Dziêkujê, pu³kowniku. Jeszczze jedno. Mam nadziejê, ¿e znasz Doktora?</text>
+        <text>Dziêkujê, pu³kowniku. Jeszcze jedno. Mam nadziejê, ¿e znasz Doktora?</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_4">
         <text>Zapomnia³eœ, kim jestem? W Zonie znam wszystkich i wszystko.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_5">
-        <text>Znaczy siê, o wyrodkach ci przypominaæ nie trzeba. Tak wiêc. Doktor jest teraz g³ównym wœród wyrodków.</text>
+        <text>Znaczy siê, o wyrodkach Ci przypominaæ nie trzeba. Tak wiêc. Doktor jest teraz g³ównym wœród wyrodków.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_6">
         <text>Co? Coœ Ty powiedzia³?</text>
@@ -2422,7 +2422,7 @@
         <text>Powinnoœæ zawsze likwidowa³a wyrodków.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_9">
-        <text>Tak, wiem, ¿e krêci Ciê zabijanie, pu³kowniku. Swoich, obcych - bez ró¿nicy. W sumie przekaza³em ci to, o co poprosi³ mnie Doktor. Mam nadziejê, ¿e nie jesteœ na tyle szalony, ¿eby siê z nim spieraæ. ¯e podejmiesz w³aœciw¹ decyzjê.</text>
+        <text>Tak, wiem, ¿e krêci Ciê zabijanie, pu³kowniku. Swoich, obcych - bez ró¿nicy. W sumie przekaza³em Ci to, o co poprosi³ mnie Doktor. Mam nadziejê, ¿e nie jesteœ na tyle szalony, ¿eby siê z nim spieraæ. ¯e podejmiesz w³aœciw¹ decyzjê.</text>
     </string>
 	<string id="esc_col_panzer_2_dialog_1_10">
         <text>Jeszcze zobaczymy.</text>
@@ -2444,7 +2444,7 @@
         <text>Mia³em, ale Synoptyk wszystkie zabra³. spytaj go, mo¿e coœ mu zosta³o.</text>
     </string>
 	<string id="gruver_dialog_about_arts_4">
-        <text> Znaczy siê - pó³ miliona za komplet?</text>
+        <text>Znaczy siê - pó³ miliona za komplet?</text>
     </string>
 	<string id="gruver_dialog_about_arts_5">
         <text>Mhm. Ale tylko za pe³ny. I ¿eby wszystkie trzydzieœci by³o zamkniête w pu³apkach.</text>
@@ -2463,7 +2463,7 @@
         <text>Nie, kolego... Przecie¿ siê umawialiœmy? Dawaj kasê!</text>
     </string>
 		<string id="gruver_dialog_about_arts_2_3">
-        <text>Uff, chytra twoja du...  natura... Nie zrozumiem tylko, jaki masz w tym interes? No dobra, na biednego nie trafi³o. Dawaj arty, oto Twoje pieni¹dze.</text>
+        <text>Uff, chytra Twoja du...  natura... Nie zrozumiem tylko, jaki masz w tym interes? No dobra, na biednego nie trafi³o. Dawaj arty, oto Twoje pieni¹dze.</text>
     </string>
 
 	<string id="esc_slaven_dialog_1_0">
@@ -2505,13 +2505,13 @@
         <text>Myli³em siê, Grek. Wierzy³em, ¿e zosta³eœ wynajêty, by mnie zabiæ.</text>
     </string>
 	<string id="esc_jj_dialog_1_2">
-        <text>No coœ ty! Kto wynaj¹³?</text>
+        <text>No coœ Ty! Kto wynaj¹³?</text>
     </string>
 	<string id="esc_jj_dialog_1_3">
         <text>GRC. Albo braciaki. Albo... ktoœ inny, wrogów mam dosyæ. Nie widzia³em innego powodu, dla którego mia³byœ wracaæ do Centrum Zony jeœli nie po moj¹ duszê.</text>
     </string>
 	<string id="esc_jj_dialog_1_4">
-        <text>A kto ci powiedzia³, ¿e przyszed³em za Tob¹ na Generatory?</text>
+        <text>A kto Ci powiedzia³, ¿e przyszed³em za Tob¹ na Generatory?</text>
     </string>
 	<string id="esc_jj_dialog_1_5">
         <text>Zmieniaj¹cy Oblicze...</text>
@@ -2541,7 +2541,7 @@
         <text>Dlaczego? Za co?</text>
     </string>
 	<string id="esc_jj_dialog_1_14">
-        <text>Myœla³em, ¿e to ty strzeli³eœ mi w plecy w Prypeci.</text>
+        <text>Myœla³em, ¿e to Ty strzeli³eœ mi w plecy w Prypeci.</text>
     </string>
 	<string id="esc_jj_dialog_1_15">
         <text>Do Ciebie strzela³ snajper.</text>
@@ -2571,7 +2571,7 @@
         <text>Cholernie œmieszne. Nie poznajê, Grek, klucz jak klucz.</text>
     </string>
 	<string id="esc_jj_dialog_1_24">
-        <text>To Twój klucz, Johnny, twój. Od sejfu w wiosce na Sortowni. Bierz.</text>
+        <text>To Twój klucz, Johnny, Twój. Od sejfu w wiosce na Sortowni. Bierz.</text>
     </string>
 	<string id="esc_jj_dialog_1_25">
         <text>Nie, nie trzeba. Wszystko co moje - jest tu, ze mn¹. Zostaw go sobie, teraz jest Twój.</text>
@@ -2731,7 +2731,7 @@
         <text>Nikomu nie mo¿na wierzyæ, przyjacielu.</text>
     </string>
 	<string id="varnak_grek_about_im_1">
-        <text>To rozumiem. A ty coœ taki smutny, Grek? Zdarzy³o siê coœ?</text>
+        <text>To rozumiem. A Ty coœ taki smutny, Grek? Zdarzy³o siê coœ?</text>
     </string>
 	<string id="varnak_grek_about_im_2">
         <text>Ten Zmieniaj¹cy Oblicze - wyj¹tkowy skurwysyn.</text>

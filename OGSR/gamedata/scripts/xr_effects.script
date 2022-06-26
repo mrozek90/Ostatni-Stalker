@@ -4933,7 +4933,6 @@ function gar_grek_last_box()
 	gar_grek_last_box_sound()
 end
 function gar_grek_last_box_sound()
-  als_messages.gar_grek_last_box_sound_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\gar_grek_last_box]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5437,6 +5436,7 @@ function system_message_8(npc)
 end
 
 function system_message_9(npc)
+  als_messages.system_message_9_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_about_process_beginning]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5477,46 +5477,55 @@ function system_message_16(npc)
 end
 
 function system_message_17(npc)
+  als_messages.system_message_17_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_blowout_begin]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_18(npc)
+  als_messages.system_message_18_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_blowout_3_m]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_19(npc)
+  als_messages.system_message_19_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_blowout_2_m]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_20(npc)
+  als_messages.system_message_20_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_blowout_1_m]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_21(npc)
+  als_messages.system_message_21_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_blowout_system_fall]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_22(npc)
+  als_messages.system_message_22_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_aa_vsplesk]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_23(npc)
+  als_messages.system_message_23_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_aa_enemious]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_24(npc)
+  als_messages.system_message_24_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_aa_enemious_plus_get_out]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
 
 function system_message_25(npc)
+  als_messages.system_message_25_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\sysmess\system_aa_get_out]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
@@ -5556,6 +5565,7 @@ function marsh_deadman_radio(npc)
 end
 
 function marsh_grek_radio(npc)
+  als_messages.marsh_grek_radio_dialog()
 	local snd_obj = xr_sound.get_safe_sound_object([[als\radio\marsh_grek_radio]])
 	snd_obj:play_no_feedback(db.actor, sound_object.s2d, 0, vector(), 1.0)
 end
