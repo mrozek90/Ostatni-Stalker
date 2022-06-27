@@ -113,6 +113,54 @@ tips_icons = {
     killer   = { 0, 658}
 }
 
+-- funkcja wiadomosci dla dialogow bez dzwieku. Mrozek
+
+function send_tip_bez(actor, news_id, timeout, sender, showtime, sender_id)
+	if news_id == nil then return false end
+
+	printf("try to send tips for [%s]", tostring(sender_id))
+	if sender_id ~= nil then
+		local sim = alife()
+		if sim ~= nil then
+			local npc = sim:story_object(sender_id)
+			if npc ~= nil then
+				if npc.online then
+					if xr_wounded.is_heavy_wounded_by_id(npc.id) then
+						printf("[PDA]Cannot send tips [%s], sender is heavy wounded", tostring(news_id))
+						return false
+					end
+				end
+				if npc:alive() == 1 then
+					printf("[PDA]Cannot send tips [%s], sender is dead", tostring(news_id))
+					return false
+				end
+			end
+		end
+	end
+
+	if timeout == nil then timeout = 0 end
+	if showtime == nil then showtime = 5000 end
+
+	
+	if news[news_id] ~= nil then
+
+		local length = news[news_id]:length()
+		if length > showtime then
+			showtime = length
+		end
+	end
+
+	if sender == nil then
+		sender = "default"
+	end
+	local x = tips_icons[sender][1]
+	local y = tips_icons[sender][2]
+
+	local news_text = "%c[255,160,160,160]Dialog\\n".."%c[default]"..game.translate_string(news_id)
+	actor:give_game_news(news_text, "ui\\ui_iconsTotal", Frect():set(x,y,83,47), timeout*1000, showtime)
+	return true
+end
+
 
 function send_tip(actor, news_id, timeout, sender, showtime, sender_id)
 	if news_id == nil then return false end

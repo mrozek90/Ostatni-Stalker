@@ -2259,22 +2259,22 @@
 </game_task>
 
 <game_task id="golden_head" prio="100">
-		<title>"Z³ota" g³owa</title>
+		<title>Z³ota g³owa</title>
 		<objective>
-			<text>"Z³ota" g³owa</text>
+			<text>Z³ota g³owa</text>
 			<icon>greese_tasks</icon>
 			<infoportion_complete>player_complete_golden_head</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Dogadaæ siê z Barmanem</text>
+			<text>Dogadaj siê z Barmanem</text>
 			<infoportion_complete>golden_head_1</infoportion_complete>
 		</objective>
 </game_task>
 
 <game_task id="golden_head2" prio="100">
-		<title>"Z³ota" g³owa II</title>
+		<title>Z³ota g³owa II</title>
 		<objective>
-			<text>"Z³ota" g³owa II</text>
+			<text>Z³ota g³owa II</text>
 			<icon>greese_tasks</icon>
 			<infoportion_complete>player_complete_golden_head2</infoportion_complete>
 		</objective>
@@ -2285,9 +2285,9 @@
 </game_task>
 
 <game_task id="golden_head3" prio="100">
-		<title>"Z³ota" g³owa III</title>
+		<title>Z³ota g³owa III</title>
 		<objective>
-			<text>"Z³ota" g³owa III</text>
+			<text>Z³ota g³owa III</text>
 			<icon>greese_tasks</icon>
 			<infoportion_complete>player_complete_golden_head3</infoportion_complete>
 		</objective>
