@@ -2009,7 +2009,7 @@
         <text>Doktor? No, czeœæ.</text>
     </string>
 	<string id="kat_princeps_dialog_1_2">
-        <text>Teraz moje imiê - Princeps, a to - mój lud. Nazywacie ich "wyrodkami". Oni zaœ nazywaj¹ siebie "Innymi".</text>
+        <text>Teraz moje imiê - Princeps, a to - mój lud. Nazywacie ich "Wyrodkami". Oni zaœ nazywaj¹ siebie "Innymi".</text>
     </string>
 	<string id="kat_princeps_dialog_1_3">
         <text>Mam dziwne wra¿enie, Doktorze, ¿e ju¿ tu bywa³em. Znajome dŸwiêki, znajome zapachy...</text>
@@ -2021,7 +2021,7 @@
         <text>Czyli - te¿ teraz jestem wyr... to znaczy Innym?</text>
     </string>
 	<string id="kat_princeps_dialog_1_6">
-        <text>Nie. Inni stali siê innymi w rezultacie nieudanego eksperymentu Apokalipsy. Ale w chwili transformacji mózg zwyk³ego innego by³ ¿ywy. Z Tob¹ zaœ... Ja nie wiem ktoœ Ty taki, Grek.</text>
+        <text>Nie. Inni stali siê Innymi w rezultacie nieudanego eksperymentu Apokalipsy. Ale w chwili transformacji mózg zwyk³ego innego by³ ¿ywy. Z Tob¹ zaœ... Ja nie wiem ktoœ Ty taki, Grek.</text>
     </string>
 	<string id="kat_princeps_dialog_1_7">
         <text>Œwietnie. Przyjaciel zabi³ mnie w Prypeci. Wyrodki przytaszczy³y mnie tutaj i przerobiono mnie na... na jakiegoœ zombie za pomoc¹ technologii nieistniej¹cego ju¿ ugrupowania. Jestem wprost zachwycony!</text>
@@ -2217,7 +2217,7 @@
         <text>Wierzê. Przy okazji, odnoœnie wiary - mnicha tu nie spotkaliœcie? Taki gruby. Z brod¹.</text>
     </string>
 	<string id="dc_deev_dialog_3_6">
-        <text>Ojciec Witalij? Jest tutaj. W szkole. Po zniczach trafiæ mo¿na. Nie zawsze.</text>
+        <text>Ojciec Witalij? Jest tutaj. W szkole. Po zniczach trafiæ mo¿na. Jak do nas.</text>
     </string>
 	<string id="dc_deev_dialog_3_7">
         <text>Fart. Mo¿e wiecie, gdzie jest wyjœcie z tej parszywej dziury?</text>
@@ -2276,7 +2276,7 @@
         <text>Czyje prawo, Grek? Ogarnij siê - tu nawet prawa fizyki nie dzia³aj¹.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_9">
-        <text>Ojcze, nie rozdzieraj mojej samoœwiadomoœci. Z ka¿dego domu mo¿na uciec.</text>
+        <text>Ojcze, nie rozdzieraj mojej samoœwiadomoœci. Z ka¿dego wiêzienia mo¿na uciec.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_1_10">
         <text>Mo¿na. I z tego - te¿ mo¿na. Widzia³eœ pomnik na placu? PodejdŸ do niego. Pomów z obcymi.</text>
@@ -2316,16 +2316,16 @@
     </string>
 
 	<string id="dc_pope_vitaly_dialog_2_0">
-        <text>Ju¿ jestem, ojcze</text>
-    </string>
-	<string id="dc_pope_vitaly_dialog_2_1">
         <text>No i jak tam, synu mój?</text>
     </string>
+	<string id="dc_pope_vitaly_dialog_2_1">
+        <text>Ju¿ jestem. Nie ma czasu na gadanie, ojcze! ChodŸmy, mam klucze od bramy za horyzont. Chod¿my.</text>
+    </string>
 	<string id="dc_pope_vitaly_dialog_2_2">
-        <text>A! Nie ma czasu na gadanie, ojcze! ChodŸmy, mam klucze od bramy za horyzont. Chod¿my.</text>
+        <text>Za horyzont?</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_2_3">
-        <text>Za horyzont?</text>
+        <text>ChodŸmy.</text>
     </string>
 	<string id="dc_pope_vitaly_dialog_2_4">
         <text>Têdy.</text>
@@ -2559,7 +2559,7 @@
         <text>S³uchaj, S³awik - wypuœciliœmy Zmieniaj¹cego Oblicza.</text>
     </string>
 	<string id="esc_slaven_dialog_1_3">
-        <text>Oczywiste. Przecie¿ mówiê - odpoczniemy, odeœpimy. Potem siê zastanowimy co dalej robiæ.</text>
+        <text>Wiem. Przecie¿ mówiê - odpoczniemy, odeœpimy. Potem siê zastanowimy co dalej robiæ.</text>
     </string>
 	<string id="esc_slaven_dialog_1_4">
         <text>Jasne. To - powodzenia, bracia!</text>
@@ -2807,7 +2807,7 @@
         <text>Sam rozumiesz - by³em w szoku. Wiêc wróci³em na bazê. Mo¿e i nasi wróc¹...</text>
     </string>
 	<string id="mil_military_stalker_storekeeper_dialog_2_10">
-        <text>Taa. To ci historia.</text>
+        <text>Taa... To ci historia.</text>
     </string>
 
 	<string id="varnak_grek_about_im_0">
@@ -3076,10 +3076,10 @@
  </string>
 
 	<string id="sor_bubenersh_dialog_2_0">
-<text>Wykop je po cichu tutaj.</text>
+<text>Zakop ich po cichu tutaj.</text>
  </string>
 	<string id="sor_bubenersh_dialog_2_1">
-<text>Zróbmy to, Grek. A co potem?</text>
+<text>Zrobimy to, Grek. A co potem?</text>
  </string>
 	<string id="sor_bubenersh_dialog_2_2">
 <text>Nastêpnie goñ na Bagna. Szamraj nie mo¿e o niczym wiedzieæ. Jeœli dowie siê o Twoich wyczynach na Kordonie, zastrzeli Ciê na chuj.</text>
@@ -3101,7 +3101,7 @@
 <text>A no zwyczajne takie auta. Cywilne "Chevrolet" i "Hammer".</text>
  </string>
 	<string id="barman_dialog_about_cars_3">
-<text>Grek, czy... czy Ty je zniszczy³eœ?</text>
+<text>Grek, czy... czy Ty ich zabi³eœ?</text>
 </string>
 	<string id="barman_dialog_about_cars_4">
 <text>Nie by³o wyboru. Nie bój siê, Ernest, nie znajd¹ sprawców: wszystko jest czysto za³atwione.</text>
@@ -3150,7 +3150,7 @@
 <text>Có¿... i Ty b¹dŸ zdrów Szoker.</text>
  </string>
 	<string id="esc_shocker_dialog_1_2">
-<text>Chcê zapytaæ – czy nadal masz mój PDA?</text>
+<text>Chcê zapytaæ - nadal masz mój PDA?</text>
  </string>
 	<string id="esc_shocker_dialog_1_3">
 <text>Sk¹d wiesz, ¿e to wzi¹³em?</text>
@@ -3171,10 +3171,10 @@
 <text>2. Dobra. Stoi!</text>
  </string>
 	<string id="esc_shocker_dialog_1_9">
-<text>Chcê o coœ jeszcze spytaæ, Grek – dlaczego nie wykiwa³eœ nas wszystkich tam, w Dolinie, kiedy wszyscy spaliœmy pod tymi œmieciami?</text>
+<text>Chcê o coœ jeszcze spytaæ, Grek - dlaczego nie wykiwa³eœ nas wszystkich tam, w Dolinie, kiedy wszyscy spaliœmy pod tymi œmieciami?</text>
 </string>
 	<string id="esc_shocker_dialog_1_10">
-<text>Nie wiem. Mo¿e muzyka w Twoim barze to zrobi³a... nie wiem, Szoker.</text>
+<text>Nie wiem. Mo¿e muzyka w Twojej bazie to zrobi³a... nie wiem, Szoker.</text>
 </string>
 	<string id="esc_shocker_dialog_1_11">
 <text>Jesteœ dobrym cz³owiekiem, Grek. Zaakceptuj p³atnoœæ.</text>
@@ -3587,7 +3587,7 @@
 	<string id="sor_hazar_dialog_2_2">
 <text>Jakiego rodzaju informacji potrzebujesz Chazar?</text>    </string>
 	<string id="sor_hazar_dialog_2_3">
-<text>Widzisz, Grek, zosta³ zabrany, jak inni, do fabryki. Ale wed³ug plotek uda³o mu siê uciec z fabryki ciê¿arówk¹. Wiêc chcia³bym wiedzieæ, czy on ¿yje, czy te¿ zamkn¹³ oczy.</text>    </string>
+<text>Widzisz, Grek, zosta³ zabrany jak inni, do fabryki. Ale wed³ug plotek uda³o mu siê uciec z fabryki ciê¿arówk¹. Wiêc chcia³bym wiedzieæ, czy on ¿yje czy te¿ zamkn¹³ oczy.</text>    </string>
 	<string id="sor_hazar_dialog_2_4">
         <text>Dlaczego chcesz?</text>
     </string>
@@ -3697,7 +3697,7 @@
 	<text>To znaczy?</text>
 </string>
 <string id="moldovan_dialog_1_5">
-	<text>Wydaje mi siê, ¿e to Zmieniaj¹cy Oblicze go naznaczy³. Wszystko by³o normalnie, jak zwykle. A nagle w jedn¹ noc, Leszyk nagle zasêpi³ siê, skwaœnia³, ¿artowaæ przesta³. A co tam ¿artowaæ, mówiæ przesta³. Tak, nie, nie chcê, nie wiem - oto i ca³a rozmowa. I najwa¿niejsze, sam widzia³eœ - posiwia³. Jakby w jedn¹ chwilê postarza³ siê o dwadzieœcia lat. I zobojêtnia³ na wszystko. Nawet jeœæ nie chcia³. I ci¹gle chodzi³ na Zmieniaj¹cego Oblicza patrzeæ. Wstanie, patrzy i nie rusza siê. Nawet pó³ dnia móg³ tak przestaæ, jeœli by go nie zawo³aæ. Jak zaczarowany. </text>
+	<text>Wydaje mi siê, ¿e to Zmieniaj¹cy Oblicze go naznaczy³. Wszystko by³o normalnie, jak zwykle. A nagle w jedn¹ noc, Leszyk nagle zasêpi³ siê, skwaœnia³, ¿artowaæ przesta³. A co tam ¿artowaæ - mówiæ przesta³. Tak, nie, nie chcê, nie wiem - oto i ca³a rozmowa. I najwa¿niejsze, sam widzia³eœ - posiwia³. Jakby w jedn¹ chwilê postarza³ siê o dwadzieœcia lat. I zobojêtnia³ na wszystko. Nawet jeœæ nie chcia³. I ci¹gle chodzi³ na Zmieniaj¹cego Oblicza patrzeæ. Wstanie, patrzy i nie rusza siê. Nawet pó³ dnia móg³ tak przestaæ, jeœli by go nie zawo³aæ. Jak zaczarowany. </text>
 </string>
 <string id="moldovan_dialog_1_6">
 	<text>Tak, Kotia, mog³o tak byæ, ja ju¿ niczemu siê nie dziwiê.</text>

@@ -492,16 +492,16 @@ function recieved_massage_33()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Iwancow: \n %c[default]Nasz przekaz - wie¿yczki wy³¹czone. Zbiórka i po cichu ruszamy do wyjœcia.", nil, nil, 10000)
 end
 function recieved_massage_34()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]£adny: \n %c[default]Czy mnie s³yszysz? Kim jesteœ? Po co? Czekaj... Grek, jesteœ? ChodŸ... Spojnie. Wychodzimy.", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Slawian: \n %c[default]Czy mnie s³yszysz? Kim jesteœ? Po co? Czekaj... Grek, jesteœ? Stój... Spojnie. Wychodzimy.", nil, nil, 10000)
 end
 function recieved_massage_35()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]£adny: \n %c[default]Czy mnie s³yszysz?. Kim jesteœcie? Po co? Czekaj... Grek, jesteœ? ChodŸ... Spokojnie. Wychodzimy", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Slawian: \n %c[default]Czy mnie s³yszysz?. Kim jesteœcie? Po co? Czekaj... Grek, jesteœ? ChodŸ... Spokojnie. Wychodzimy", nil, nil, 10000)
 end
 function recieved_massage_36()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]£adny: \n %c[default]Jak siê masz?! Uda³o Ci siê zwi¹zaæ drania?! Krótko mówi¹c! Andryukha odpad³ po 200.! Pop - 300. Amunicja siê koñczy! Nie mo¿emy d³u¿ej czekaæ! Wy³¹czam barierê!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Slawian: \n %c[default]Jak siê masz?! Uda³o Ci siê zwi¹zaæ drania?! Krótko mówi¹c! Andryukha odpad³ po 200.! Pop - 300. Amunicja siê koñczy! Nie mo¿emy d³u¿ej czekaæ! Wy³¹czam barierê!", nil, nil, 10000)
 end
 function recieved_massage_37()
-	news_manager.send_tip(db.actor, "%c[255,200,0,0]£adny: \n %c[default]Jak siê masz?! Uda³o Ci siê zwi¹zaæ drania?! Krótko mówi¹c! Andryukha odpad³ po 200.! Amunicja siê koñczy! Nie mo¿emy d³u¿ej czekaæ! Wy³¹czam barierê!", nil, nil, 10000)
+	news_manager.send_tip(db.actor, "%c[255,200,0,0]Slawian: \n %c[default]Jak siê masz?! Uda³o Ci siê zwi¹zaæ drania?! Krótko mówi¹c! Andryukha odpad³ po 200.! Amunicja siê koñczy! Nie mo¿emy d³u¿ej czekaæ! Wy³¹czam barierê!", nil, nil, 10000)
 end
 function recieved_massage_38()
 	news_manager.send_tip(db.actor, "%c[255,200,0,0]Panzer: \n %c[default]Widzê, ¿e dobrze siê tu bawisz. I bêdzie jeszcze fajniej. W skrócie ch³opaki, rzuæcie wszystko i szybko ruszajcie do bazy. Przewóz zg³oszony.", nil, nil, 10000)

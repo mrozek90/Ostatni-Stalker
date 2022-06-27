@@ -2231,14 +2231,14 @@
 </game_task>
 
 <game_task id="push_cars" prio="100">
-		<title>Ulepszacze</title>
+		<title>Cztery Ko³a</title>
 		<objective>
-			<text>Ulepszacze</text>
+			<text>Cztery Ko³a</text>
 			<icon>money_tasks</icon>
 			<infoportion_complete>player_complete_push_cars</infoportion_complete>
 		</objective>
 		<objective>
-			<text>Wyzb¹dŸ siê technologii</text>
+			<text>Pozb¹dŸ siê samochodów.</text>
 			<infoportion_complete>push_cars_1</infoportion_complete>
 		</objective>
 </game_task>
