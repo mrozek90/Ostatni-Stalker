@@ -1,6 +1,7 @@
 # Ostatni-Stalker 2020
 
 Spolszczenie dla wersji 2020 XRay  https://stalkerteam.pl/topic/16126-ostatni-stalker-v2020/
+Spolszczenie dla wersji OGSR 	https://stalkerteam.pl/topic/16124-ostatni-stalker-13-%D1%8564-ogsr/
 
 
 ------------- Zakaz udostępniania plików na stronach trzecich. --------------------------
@@ -24,5 +25,31 @@ https://stalkerteam.pl
 Wszystkie drobne aktualizacje będą udostępniane na Githubie:
 https://github.com/mrozek90/Ostatni-Stalker
 
-19.05.2022
-Wersja 1.17
+27.06.2022
+Wersja 2.1
+
+Zmiany:
+
+- Dodanie 86 dialogów w formie SMS/Wiadomości.
+- Uzupełnienie informacji dotyczących zadań, które miały zbyt enigmatyczne opisy i wprowadzały zakłopotanie.
+- Zmiana priorytetu zadania "Zabij Johnnego".
+- Dźwięk ostrzegawczy Elitarnego Detektora Anomalii jest taki sam dla wszystkich anomalii.
+- Dodanie paru dialogów do PDA, które nie dały się dodać ze względu na wyłączenie HUD podczas cutscenek.
+- Ujednolicenie nazw NPC we wszystkich dialogach.
+- Zmiany ortograficzne, przeredagowanie (usunięcie nadmiernej ilości interpunkcji).
+
+
+
+Możliwe błędy:
+
+- Sortownia, jeżeli zadania z bagien wpłyną na to że w barze zamiast Igora Olegowicza pojawi się Panzer w PDA wyświetli się inny dialog niż był faktyczny.
+- Niektóre dialogi głosowe nie mają lub mają napisy z opóźnieniem. (Przykład: NPC zaczyna dialog a napisy są dopiero wyświetlane gdy Grek odpowiada.) Tak zostanie.
+- Brak napisów do cutscenki Grek -> Dzieci.
+- Lokalizacja Prypeć. Teleporty: Prypeć -> Limańsk, Prypeć -> Szpital są zamienione miejscami.
+
+
+
+Czego brakuje:
+
+- wersja OGSR: opis w jaki sposób dodawać znaczniki w PDA. (2x LPM w miejscu umieszczania znacznika na mapie, wersja 2020 stawiała znacznik na Greku).
+
