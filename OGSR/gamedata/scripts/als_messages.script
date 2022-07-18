@@ -218,23 +218,23 @@ function help_me_dialog()
 end
 
 function esc_negotiations_3_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]als\own_ghdi_low .", nil, nil, 10000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]als/own_ghdi_low .", nil, nil, 10000)
 end
 
 function esc_negotiations_2_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]als\own_stoyu_nachalnik .", nil, nil, 10000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]als/own_stoyu_nachalnik .", nil, nil, 10000)
 end
 
 function esc_negotiations_1_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]als\own_stoy_low .", nil, nil, 10000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]als/own_stoy_low .", nil, nil, 10000)
 end
 
 function yan_dream_voices_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]characters_voice\scenario\yantar\dream_talk_l .", nil, nil, 10000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]XXX: %c[default]characters_voice/scenario/yantar/dream_talk_l .", nil, nil, 10000)
 end
 
 function esc_wolf_to_rangers_dialog()
-	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Wolf: %c[default]characters_voice\scenario\escape\wolf_to_rangers_1 .\\n%c[255,1,1,1]Radio: %c[default]XXX", nil, nil, 10000)
+	news_manager.send_tip_bez(db.actor, "%c[255,1,255,255]Wolf: %c[default]characters_voice/scenario/escape/wolf_to_rangers_1 .\\n%c[255,1,1,1]Radio: %c[default]XXX", nil, nil, 10000)
 end
 
 function perymetr_grek_dialog_1()
